@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Criar Nova Receita</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; }
+        textarea, input { width: 100%; padding: 8px; margin: 5px 0; }
+        button { background: #007acc; color: white; padding: 10px 20px; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Criar Nova Receita</h1>
+    <form id="recipeForm">
+        <input type="text" name="title" placeholder="Título da receita" required>
+        <textarea name="ingredients" placeholder="Ingredientes (um por linha)" rows="5" required></textarea>
+        <input type="text" name="difficulty" placeholder="Dificuldade (fácil, médio, difícil)" required>
+        <input type="text" name="time" placeholder="Tempo de preparo" required>
+        <input type="text" name="servings" placeholder="Porções" required>
+        <textarea name="content" placeholder="Modo de preparo" rows="10" required></textarea>
+        <button type="submit">Criar Receita</button>
+    </form>
+
+    <script>
+        document.getElementById('recipeForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = new FormData(e.target);
+            const content = `---
+title: ${formData.get('title')}
+date: ${new Date().toISOString()}
+categories: [receitas]
+tags: []
+ingredients:
+${formData.get('ingredients').split('\n').map(i => `- ${i.trim()}`).join('\n')}
+difficulty: ${formData.get('difficulty')}
+time: ${formData.get('time')}
+servings: ${formData.get('servings')}
+---
+
+## Ingredientes
+
+${formData.get('ingredients').split('\n').map(i => `- ${i.trim()}`).join('\n')}
+
+## Modo de Preparo
+
+${formData.get('content')}
+`;
+
+            // Aqui você pode salvar localmente ou enviar para um servidor
+            const blob = new Blob([content], { type: 'text/markdown' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${formData.get('title').toLowerCase().replace(/\s+/g, '-')}.md`;
+            a.click();
+            
+            alert('Arquivo gerado! Faça o download e salve na pasta source/_posts/receitas/');
+        });
+    </script>
+</body>
+</html>

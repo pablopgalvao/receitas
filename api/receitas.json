@@ -2,37 +2,7 @@
   "count": 5,
   "receitas": [
     {
-      "id": "cmfez2qge00014chi50u385nt",
-      "title": "Panqueca Americana",
-      "image": "../prato.jpg",
-      "slug": "receitas/panqueca-americana",
-      "date": "2024-01-20T03:00:00.000Z",
-      "ingredients": [
-        "1 xícara de farinha de trigo",
-        "2 colheres de sopa de açúcar",
-        "1 colher de sopa de fermento em pó",
-        "1 ovo",
-        "1 xícara de leite",
-        "2 colheres de sopa de manteiga derretida"
-      ],
-      "difficulty": "fácil",
-      "time": "20 min",
-      "servings": "6 panquecas",
-      "calories": 150,
-      "categories": [
-        "receitas",
-        "café da manhã"
-      ],
-      "tags": [
-        "panqueca",
-        "doce",
-        "rápido"
-      ],
-      "excerpt": "",
-      "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 xícara de farinha de trigo  </li>\n<li>2 colheres de sopa de açúcar  </li>\n<li>1 colher de sopa de fermento em pó  </li>\n<li>1 ovo  </li>\n<li>1 xícara de leite  </li>\n<li>2 colheres de sopa de manteiga derretida</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Misture os ingredientes secos em uma tigela.  </li>\n<li>Em outra, bata o ovo com o leite e a manteiga.  </li>\n<li>Junte tudo e misture levemente.  </li>\n<li>Aqueça uma frigideira e despeje pequenas porções.  </li>\n<li>Cozinhe até dourar dos dois lados.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfez2qgl00034chi8c7cgyr1",
+      "id": "cmffjojoq0001w0hifjcj2kui",
       "title": "Lasanha de Carne",
       "image": "../prato.jpg",
       "slug": "receitas/lasanha-de-carne",
@@ -63,7 +33,36 @@
       "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>500 g de massa de lasanha  </li>\n<li>500 g de carne moída  </li>\n<li>1 cebola picada  </li>\n<li>2 dentes de alho picados  </li>\n<li>2 xícaras de molho de tomate  </li>\n<li>300 g de queijo muçarela  </li>\n<li>200 g de presunto</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Refogue a carne com alho e cebola.  </li>\n<li>Adicione o molho de tomate e deixe cozinhar.  </li>\n<li>Monte em camadas: massa, carne, presunto e queijo.  </li>\n<li>Repita até acabar os ingredientes.  </li>\n<li>Leve ao forno a 180°C por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfez2qgp00064chi48l99k7t",
+      "id": "cmffjojoy0003w0hi27rs249b",
+      "title": "Frango Grelhado com Limão Teste 1",
+      "image": "../prato.jpg",
+      "slug": "receitas/frango-grelhado-com-limao",
+      "date": "2024-01-23T03:00:00.000Z",
+      "ingredients": [
+        "2 peitos de frango",
+        "Suco de 1 limão",
+        "2 dentes de alho amassados",
+        "1 colher de sopa de azeite",
+        "Sal e pimenta a gosto"
+      ],
+      "difficulty": "fácil",
+      "time": "30 min",
+      "servings": "2 pessoas",
+      "calories": 220,
+      "categories": [
+        "receitas",
+        "carnes"
+      ],
+      "tags": [
+        "frango",
+        "grelhado",
+        "saudável"
+      ],
+      "excerpt": "",
+      "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 peitos de frango  </li>\n<li>Suco de 1 limão  </li>\n<li>2 dentes de alho amassados  </li>\n<li>1 colher de sopa de azeite  </li>\n<li>Sal e pimenta a gosto</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Tempere o frango com limão, alho, sal e pimenta.  </li>\n<li>Deixe marinar por 15 minutos.  </li>\n<li>Aqueça uma frigideira com azeite.  </li>\n<li>Grelhe o frango até dourar dos dois lados.  </li>\n<li>Sirva com salada ou arroz.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmffjojp10006w0hi74teahfn",
       "title": "Pudim de Leite Condensado Teste 2",
       "image": "../prato.jpg",
       "slug": "receitas/pudim-de-leite-condensado",
@@ -84,15 +83,15 @@
         "sobremesas"
       ],
       "tags": [
-        "doce",
         "pudim",
-        "leite condensado"
+        "leite condensado",
+        "doce"
       ],
       "excerpt": "",
       "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>1 lata de leite (a mesma medida)  </li>\n<li>3 ovos  </li>\n<li>1 xícara de açúcar (para calda)  </li>\n<li>1&#x2F;2 xícara de água</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Derreta o açúcar com a água até formar uma calda e caramelize a forma.  </li>\n<li>Bata o leite condensado, o leite e os ovos no liquidificador.  </li>\n<li>Despeje a mistura na forma caramelizada.  </li>\n<li>Leve ao forno em banho-maria a 180°C por 1 hora.  </li>\n<li>Espere esfriar e desenforme.</li>\n</ol>\n"
     },
     {
-      "id": "cmfez2qgq00074chi750vfqri",
+      "id": "cmffjojp20007w0hid245570t",
       "title": "Sopa Cremosa de Abóbora",
       "image": "../prato.jpg",
       "slug": "receitas/sopa-cremosa-de-abobora",
@@ -123,33 +122,34 @@
       "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 kg de abóbora cabotiá em cubos  </li>\n<li>1 cebola picada  </li>\n<li>2 dentes de alho picados  </li>\n<li>1 litro de caldo de legumes  </li>\n<li>1 colher de sopa de azeite  </li>\n<li>Sal e pimenta a gosto  </li>\n<li>Creme de leite (opcional)</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Refogue a cebola e o alho no azeite.  </li>\n<li>Acrescente a abóbora e refogue alguns minutos.  </li>\n<li>Adicione o caldo e cozinhe até a abóbora amolecer.  </li>\n<li>Bata no liquidificador até ficar cremoso.  </li>\n<li>Finalize com creme de leite se desejar.</li>\n</ol>\n"
     },
     {
-      "id": "cmfez2qgq00084chid0nd3vmq",
-      "title": "Frango Grelhado com Limão Teste 1",
+      "id": "cmffjojpm0019w0hi09hy0mfv",
+      "title": "Panqueca Americana",
       "image": "../prato.jpg",
-      "slug": "receitas/frango-grelhado-com-limao",
-      "date": "2024-01-23T03:00:00.000Z",
+      "slug": "receitas/panqueca-americana",
+      "date": "2024-01-20T03:00:00.000Z",
       "ingredients": [
-        "2 peitos de frango",
-        "Suco de 1 limão",
-        "2 dentes de alho amassados",
-        "1 colher de sopa de azeite",
-        "Sal e pimenta a gosto"
+        "1 xícara de farinha de trigo",
+        "2 colheres de sopa de açúcar",
+        "1 colher de sopa de fermento em pó",
+        "1 ovo",
+        "1 xícara de leite",
+        "2 colheres de sopa de manteiga derretida"
       ],
       "difficulty": "fácil",
-      "time": "30 min",
-      "servings": "2 pessoas",
-      "calories": 220,
+      "time": "20 min",
+      "servings": "6 panquecas",
+      "calories": 150,
       "categories": [
         "receitas",
-        "carnes"
+        "café da manhã"
       ],
       "tags": [
-        "frango",
-        "grelhado",
-        "saudável"
+        "doce",
+        "panqueca",
+        "rápido"
       ],
       "excerpt": "",
-      "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 peitos de frango  </li>\n<li>Suco de 1 limão  </li>\n<li>2 dentes de alho amassados  </li>\n<li>1 colher de sopa de azeite  </li>\n<li>Sal e pimenta a gosto</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Tempere o frango com limão, alho, sal e pimenta.  </li>\n<li>Deixe marinar por 15 minutos.  </li>\n<li>Aqueça uma frigideira com azeite.  </li>\n<li>Grelhe o frango até dourar dos dois lados.  </li>\n<li>Sirva com salada ou arroz.</li>\n</ol>\n"
+      "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 xícara de farinha de trigo  </li>\n<li>2 colheres de sopa de açúcar  </li>\n<li>1 colher de sopa de fermento em pó  </li>\n<li>1 ovo  </li>\n<li>1 xícara de leite  </li>\n<li>2 colheres de sopa de manteiga derretida</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Misture os ingredientes secos em uma tigela.  </li>\n<li>Em outra, bata o ovo com o leite e a manteiga.  </li>\n<li>Junte tudo e misture levemente.  </li>\n<li>Aqueça uma frigideira e despeje pequenas porções.  </li>\n<li>Cozinhe até dourar dos dois lados.</li>\n</ol>\n"
     }
   ]
 }

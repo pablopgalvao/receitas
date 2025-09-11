@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "59aa6194-b82c-4a13-a16b-bcfe6ffd0697"
+      }
+    },
+    "android": {
+      "package": "com.pablo614.hexosite"
+    }
+  }
+}

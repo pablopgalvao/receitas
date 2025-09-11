@@ -7,6 +7,7 @@ hexo.extend.generator.register('api-receitas', function(locals) {
   ).map(post => ({
     id: post._id,
     title: post.title,
+    image: post.image || '../prato.jpg', 
     slug: post.slug,
     date: post.date,
     ingredients: post.ingredients || [],

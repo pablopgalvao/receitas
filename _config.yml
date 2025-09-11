@@ -4,10 +4,13 @@
 
 # Hexo Admin configuration
 admin:
-  username: admin
-  password_hash: null # altere esta hash
+  # username: admin
+  # password_hash: $2b$10$I649EGw0IBjY51FtHfIRaOCBCjHxU6NVEP06WE2RR99M7Atpcd8OO
+  username: null
+  password_hash: null
   secret: seu_segredo_super_seguro
-  deployCommand: 'hexo generate' # comando após salvar
+  # deployCommand: 'hexo generate' # comando após salvar
+  deployCommand: './deploy.sh'
 
 # Configuração do gerador JSON (mantenha esta)
 jsonContent:
@@ -41,11 +44,11 @@ description: 'API de receitas culinárias'
 keywords:
 author: Pablo Galvão
 language: pt-br
-timezone: ''
+timezone: 'America/Sao_Paulo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://pablopgalvao.github.io/headless-receitas
+url: https://pablopgalvao.github.io
 root: /headless-receitas/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -122,8 +125,8 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
+#include:
+#exclude:
 ignore:
 
 # Extensions

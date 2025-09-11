@@ -1,4 +1,5 @@
 title: Bolo de Chocolate Fofinho
+image: ![Alt text](../../../prato.jpg "Salada")
 categories:
   - receitas
   - sobremesas

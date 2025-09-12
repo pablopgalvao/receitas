@@ -2,36 +2,36 @@
   "count": 5,
   "receitas": [
     {
-      "id": "cmfg5lcbi0001schieandartx",
-      "title": "Pudim de Leite Condensado",
+      "id": "cmfg8ydbr0001pshi7rph4qya",
+      "title": "Brigadeiro Gourmet",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "slug": "receitas/pudim-leite-condensado",
-      "date": "2024-01-22T03:00:00.000Z",
+      "slug": "receitas/brigadeiro-gourmet",
+      "date": "2024-02-05T03:00:00.000Z",
       "ingredients": [
         "1 lata de leite condensado",
-        "2 medidas de leite",
-        "3 ovos",
-        "1 xícara de açúcar (para a calda)"
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
       ],
       "difficulty": "fácil",
-      "time": "1h 10min",
-      "servings": "12 fatias",
-      "calories": 250,
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
       "author": "Pablo",
       "categories": [
         "receitas",
         "sobremesas"
       ],
       "tags": [
-        "pudim",
-        "leite condensado",
+        "brigadeiro",
+        "chocolate",
         "doce"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/pudim-de-leite-condensado-em-prato-de-vidro_123827-24560.jpg\" alt=\"Pudim de Leite Condensado\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 medidas de leite  </li>\n<li>3 ovos  </li>\n<li>1 xícara de açúcar (para a calda)</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Caramelize o açúcar em uma forma de pudim.  </li>\n<li>Bata no liquidificador o leite condensado, o leite e os ovos.  </li>\n<li>Despeje a mistura na forma caramelizada.  </li>\n<li>Asse em banho-maria por 1 hora.  </li>\n<li>Espere esfriar e desenforme.</li>\n</ol>\n"
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/brigadeiros-gourmet-de-chocolate_123827-11234.jpg\" alt=\"Brigadeiro Gourmet\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfg5lcbm0003schiavy673l2",
+      "id": "cmfg8ydbv0003pshi2p3336eo",
       "title": "Pão Caseiro Macio",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "slug": "receitas/pao-caseiro",
@@ -63,7 +63,36 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/pao-caseiro-macio-servido-em-tabua-de-madeira_123827-29890.jpg\" alt=\"Pão Caseiro Macio\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 kg de farinha de trigo  </li>\n<li>2 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de sal  </li>\n<li>2 colheres de sopa de açúcar  </li>\n<li>2 colheres de sopa de fermento biológico seco  </li>\n<li>2 xícaras de água morna</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Misture todos os ingredientes até formar uma massa lisa.  </li>\n<li>Deixe descansar por 1 hora até dobrar de tamanho.  </li>\n<li>Modele os pães e coloque em formas untadas.  </li>\n<li>Asse em forno médio por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfg5lcbp0007schi32otdzf9",
+      "id": "cmfg8ydbz0007pshi2se7erqn",
+      "title": "Pudim de Leite Condensado",
+      "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "slug": "receitas/pudim-leite-condensado",
+      "date": "2024-01-22T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 medidas de leite",
+        "3 ovos",
+        "1 xícara de açúcar (para a calda)"
+      ],
+      "difficulty": "fácil",
+      "time": "1h 10min",
+      "servings": "12 fatias",
+      "calories": 250,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "doce",
+        "pudim",
+        "leite condensado"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/pudim-de-leite-condensado-em-prato-de-vidro_123827-24560.jpg\" alt=\"Pudim de Leite Condensado\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 medidas de leite  </li>\n<li>3 ovos  </li>\n<li>1 xícara de açúcar (para a calda)</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Caramelize o açúcar em uma forma de pudim.  </li>\n<li>Bata no liquidificador o leite condensado, o leite e os ovos.  </li>\n<li>Despeje a mistura na forma caramelizada.  </li>\n<li>Asse em banho-maria por 1 hora.  </li>\n<li>Espere esfriar e desenforme.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfg8ydc20008pshi92yq4zvg",
       "title": "Lasanha à Bolonhesa",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "slug": "receitas/lasanha-bolonhesa",
@@ -94,7 +123,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-lasanha-a-bolonhesa-na-prato_123827-14567.jpg\" alt=\"Lasanha à Bolonhesa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>500g de massa para lasanha  </li>\n<li>400g de carne moída  </li>\n<li>1 sachê de molho de tomate  </li>\n<li>200g de presunto  </li>\n<li>200g de queijo mussarela  </li>\n<li>2 colheres de sopa de óleo</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Refogue a carne com óleo e acrescente o molho de tomate.  </li>\n<li>Em uma travessa, faça camadas de massa, molho, presunto e queijo.  </li>\n<li>Repita até finalizar os ingredientes.  </li>\n<li>Cubra com queijo e leve ao forno por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfg5lcbq0008schiecnafn4k",
+      "id": "cmfg8ydc40009pshi24ibb3rf",
       "title": "Torta de Frango Cremosa",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "slug": "receitas/torta-de-frango",
@@ -124,35 +153,6 @@
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfg5lcbr0009schi5dzk1uhq",
-      "title": "Brigadeiro Gourmet",
-      "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "slug": "receitas/brigadeiro-gourmet",
-      "date": "2024-02-05T03:00:00.000Z",
-      "ingredients": [
-        "1 lata de leite condensado",
-        "2 colheres de sopa de chocolate em pó",
-        "1 colher de sopa de manteiga",
-        "granulado para enrolar"
-      ],
-      "difficulty": "fácil",
-      "time": "25 min",
-      "servings": "20 unidades",
-      "calories": 90,
-      "author": "Pablo",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "doce",
-        "brigadeiro",
-        "chocolate"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/brigadeiros-gourmet-de-chocolate_123827-11234.jpg\" alt=\"Brigadeiro Gourmet\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     }
   ]
 }

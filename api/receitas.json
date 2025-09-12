@@ -2,36 +2,38 @@
   "count": 5,
   "receitas": [
     {
-      "id": "cmfg8ydbr0001pshi7rph4qya",
-      "title": "Brigadeiro Gourmet",
+      "id": "cmfg90th60001y8hif5qpg4nd",
+      "title": "Lasanha à Bolonhesa",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "slug": "receitas/brigadeiro-gourmet",
-      "date": "2024-02-05T03:00:00.000Z",
+      "slug": "receitas/lasanha-bolonhesa",
+      "date": "2024-02-01T03:00:00.000Z",
       "ingredients": [
-        "1 lata de leite condensado",
-        "2 colheres de sopa de chocolate em pó",
-        "1 colher de sopa de manteiga",
-        "granulado para enrolar"
+        "500g de massa para lasanha",
+        "400g de carne moída",
+        "1 sachê de molho de tomate",
+        "200g de presunto",
+        "200g de queijo mussarela",
+        "2 colheres de sopa de óleo"
       ],
-      "difficulty": "fácil",
-      "time": "25 min",
-      "servings": "20 unidades",
-      "calories": 90,
+      "difficulty": "médio",
+      "time": "1h",
+      "servings": "6 porções",
+      "calories": 450,
       "author": "Pablo",
       "categories": [
         "receitas",
-        "sobremesas"
+        "massas"
       ],
       "tags": [
-        "brigadeiro",
-        "chocolate",
-        "doce"
+        "lasanha",
+        "bolonhesa",
+        "macarrão"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/brigadeiros-gourmet-de-chocolate_123827-11234.jpg\" alt=\"Brigadeiro Gourmet\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-lasanha-a-bolonhesa-na-prato_123827-14567.jpg\" alt=\"Lasanha à Bolonhesa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>500g de massa para lasanha  </li>\n<li>400g de carne moída  </li>\n<li>1 sachê de molho de tomate  </li>\n<li>200g de presunto  </li>\n<li>200g de queijo mussarela  </li>\n<li>2 colheres de sopa de óleo</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Refogue a carne com óleo e acrescente o molho de tomate.  </li>\n<li>Em uma travessa, faça camadas de massa, molho, presunto e queijo.  </li>\n<li>Repita até finalizar os ingredientes.  </li>\n<li>Cubra com queijo e leve ao forno por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfg8ydbv0003pshi2p3336eo",
+      "id": "cmfg90th90003y8hicixphd82",
       "title": "Pão Caseiro Macio",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "slug": "receitas/pao-caseiro",
@@ -63,7 +65,36 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/pao-caseiro-macio-servido-em-tabua-de-madeira_123827-29890.jpg\" alt=\"Pão Caseiro Macio\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 kg de farinha de trigo  </li>\n<li>2 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de sal  </li>\n<li>2 colheres de sopa de açúcar  </li>\n<li>2 colheres de sopa de fermento biológico seco  </li>\n<li>2 xícaras de água morna</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Misture todos os ingredientes até formar uma massa lisa.  </li>\n<li>Deixe descansar por 1 hora até dobrar de tamanho.  </li>\n<li>Modele os pães e coloque em formas untadas.  </li>\n<li>Asse em forno médio por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfg8ydbz0007pshi2se7erqn",
+      "id": "cmfg90thc0007y8hieroyfq6x",
+      "title": "Brigadeiro Gourmet",
+      "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "slug": "receitas/brigadeiro-gourmet",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/brigadeiros-gourmet-de-chocolate_123827-11234.jpg\" alt=\"Brigadeiro Gourmet\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfg90thd0008y8hic1uq4zw8",
       "title": "Pudim de Leite Condensado",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "slug": "receitas/pudim-leite-condensado",
@@ -92,38 +123,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/pudim-de-leite-condensado-em-prato-de-vidro_123827-24560.jpg\" alt=\"Pudim de Leite Condensado\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 medidas de leite  </li>\n<li>3 ovos  </li>\n<li>1 xícara de açúcar (para a calda)</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Caramelize o açúcar em uma forma de pudim.  </li>\n<li>Bata no liquidificador o leite condensado, o leite e os ovos.  </li>\n<li>Despeje a mistura na forma caramelizada.  </li>\n<li>Asse em banho-maria por 1 hora.  </li>\n<li>Espere esfriar e desenforme.</li>\n</ol>\n"
     },
     {
-      "id": "cmfg8ydc20008pshi92yq4zvg",
-      "title": "Lasanha à Bolonhesa",
-      "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "slug": "receitas/lasanha-bolonhesa",
-      "date": "2024-02-01T03:00:00.000Z",
-      "ingredients": [
-        "500g de massa para lasanha",
-        "400g de carne moída",
-        "1 sachê de molho de tomate",
-        "200g de presunto",
-        "200g de queijo mussarela",
-        "2 colheres de sopa de óleo"
-      ],
-      "difficulty": "médio",
-      "time": "1h",
-      "servings": "6 porções",
-      "calories": 450,
-      "author": "Pablo",
-      "categories": [
-        "receitas",
-        "massas"
-      ],
-      "tags": [
-        "lasanha",
-        "bolonhesa",
-        "macarrão"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-lasanha-a-bolonhesa-na-prato_123827-14567.jpg\" alt=\"Lasanha à Bolonhesa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>500g de massa para lasanha  </li>\n<li>400g de carne moída  </li>\n<li>1 sachê de molho de tomate  </li>\n<li>200g de presunto  </li>\n<li>200g de queijo mussarela  </li>\n<li>2 colheres de sopa de óleo</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Refogue a carne com óleo e acrescente o molho de tomate.  </li>\n<li>Em uma travessa, faça camadas de massa, molho, presunto e queijo.  </li>\n<li>Repita até finalizar os ingredientes.  </li>\n<li>Cubra com queijo e leve ao forno por 40 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfg8ydc40009pshi24ibb3rf",
+      "id": "cmfg90thg0009y8hi3xvy82a6",
       "title": "Torta de Frango Cremosa",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "slug": "receitas/torta-de-frango",

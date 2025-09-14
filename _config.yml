@@ -33,7 +33,7 @@ description: >-
   deverá tbm ser criada novas por ele.
 keywords: Receitas
 author: Pablo Galvão
-language: pt-br
+language: pt
 timezone: America/Sao_Paulo
 url: https://pablopgalvao.github.io
 root: /receitas/
@@ -87,7 +87,8 @@ updated_option: mtime
 per_page: 10
 pagination_dir: page
 ignore: null
-theme: icarus
+# theme: icarusyy
+theme: landscape
 deploy:
   type: git
   repo: https://github.com/pablopgalvao/receitas.git

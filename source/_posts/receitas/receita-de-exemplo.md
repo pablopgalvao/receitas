@@ -18,10 +18,7 @@ calories: 90
 author: Pablo
 date: 2024-02-05 00:00:00
 ---
-![Imagem exemplo](../images/legumes.jpg)
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
-
+![Imagem exemplo](css/images/imagem-exemplo/imagem-exemplo.jpg)
 
 ## Ingredientes
 - 1 lata de leite condensado  

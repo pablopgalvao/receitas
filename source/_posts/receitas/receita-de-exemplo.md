@@ -1,4 +1,4 @@
-title: Brigadeiro Gourmet
+title: Receita de Exemplo
 categories:
   - receitas
   - sobremesas
@@ -18,7 +18,10 @@ calories: 90
 author: Pablo
 date: 2024-02-05 00:00:00
 ---
-![Brigadeiro Gourmet](https://img.freepik.com/fotos-gratis/brigadeiros-gourmet-de-chocolate_123827-11234.jpg)
+![Imagem exemplo](../images/legumes.jpg)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+
 
 ## Ingredientes
 - 1 lata de leite condensado  

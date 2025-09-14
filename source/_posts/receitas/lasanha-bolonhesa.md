@@ -20,7 +20,6 @@ calories: 450
 author: Pablo
 date: 2024-02-01 00:00:00
 ---
-![Lasanha à Bolonhesa](https://img.freepik.com/fotos-gratis/fatia-de-lasanha-a-bolonhesa-na-prato_123827-14567.jpg)
 
 ## Ingredientes
 - 500g de massa para lasanha  

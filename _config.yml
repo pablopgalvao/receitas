@@ -1,20 +1,20 @@
 admin:
   username: admin
-  password_hash: $2a$10$s9jQdnpJYe/ZD9aoejkRZOA8QH/pf1l.Kw58K4yPDJTjZR0O2y0/q
+  password_hash: $2a$10$s9jQdnpJYe/ZD9aoejkRZOA8QH/pf1l.Kw58K4yPDJTjZR0O2y0/q # admin123
   secret: 89a7f6d8e4c3b2a1f5e6d7c8b9a0f4e3d2c1b0a9f8e7d6c5b4a3f2e1d0c9b8a7
   deployCommand: ./deploy.sh
 jsonContent:
   meta: false
   pages:
     title: true
-    date: true
+    date: false
     path: true
     text: true
     raw: false
     content: false
   posts:
     title: true
-    date: true
+    date: false
     path: true
     text: true
     raw: false

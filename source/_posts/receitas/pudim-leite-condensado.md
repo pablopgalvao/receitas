@@ -18,7 +18,7 @@ calories: 250
 author: Pablo
 date: 2024-01-22 00:00:00
 ---
-![Pudim de Leite Condensado](https://img.freepik.com/fotos-gratis/pudim-de-leite-condensado-em-prato-de-vidro_123827-24560.jpg)
+![Pudim de Leite Condensado](css/images/imagem-exemplo/banner-teste.jpg)
 
 ## Ingredientes
 - 1 lata de leite condensado  

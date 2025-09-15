@@ -1,3 +1,8 @@
+# Comando
+
+###### Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+ .\gerar-receitas.ps1
+
 # Configurações
 $sourceFile = "torta-de-frango.md"  # Arquivo deve estar no diretório atual
 $outputDir = "."  # Diretório atual
@@ -62,7 +67,7 @@ if (-not (Test-Path $sourceFile)) {
 $template = Get-Content -Path $sourceFile -Raw
 
 # Criar 150 arquivos
-for ($i = 1; $i -le 150; $i++) {
+for ($i = 1; $i -le 1150; $i++) {
     # Gerar valores aleatórios
     $randomTitulo = $titulos | Get-Random
     $randomCategorias = Get-RandomCombination -Array $categorias -Count (Get-Random -Minimum 1 -Maximum 4)

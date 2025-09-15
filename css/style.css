@@ -508,6 +508,7 @@ body {
   color: #ccc;
   text-shadow: 0 1px #fff;
   margin-left: 8px;
+  margin-bottom: 10px;
 }
 .article-category:before {
   content: "\2022";

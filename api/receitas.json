@@ -2,40 +2,7 @@
   "count": 82,
   "receitas": [
     {
-      "id": "cmfkj2bh6000024hi1itcfxh7",
-      "title": "Pudim de Leite Condensado",
-      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/banner-teste.jpg",
-      "images": [
-        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/banner-teste.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/pudim-leite-condensado",
-      "date": "2024-01-22T03:00:00.000Z",
-      "ingredients": [
-        "1 lata de leite condensado",
-        "2 medidas de leite",
-        "3 ovos",
-        "1 xícara de açúcar (para a calda)"
-      ],
-      "difficulty": "fácil",
-      "time": "1h 10min",
-      "servings": "12 fatias",
-      "calories": 250,
-      "author": "Pablo",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "pudim",
-        "leite condensado",
-        "doce"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/banner-teste.jpg\" alt=\"Pudim de Leite Condensado\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 medidas de leite  </li>\n<li>3 ovos  </li>\n<li>1 xícara de açúcar (para a calda)</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Caramelize o açúcar em uma forma de pudim.  </li>\n<li>Bata no liquidificador o leite condensado, o leite e os ovos.  </li>\n<li>Despeje a mistura na forma caramelizada.  </li>\n<li>Asse em banho-maria por 1 hora.  </li>\n<li>Espere esfriar e desenforme.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bhb000124hi3gcs9t7l",
+      "id": "cmfklasxn00005chi42ko8bbc",
       "title": "Pão Caseiro Macio - Teste DEV",
       "image": "https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ",
       "images": [
@@ -73,80 +40,40 @@
       "content": "<p><a href=\"https://youtu.be/dQw4w9WgXcQ\"><img src=\"https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ\"></a></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 kg de farinha de trigo  </li>\n<li>2 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de sal  </li>\n<li>2 colheres de sopa de açúcar  </li>\n<li>2 colheres de sopa de fermento biológico seco  </li>\n<li>2 xícaras de água morna</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Misture todos os ingredientes até formar uma massa lisa.  </li>\n<li>Deixe descansar por 1 hora até dobrar de tamanho.  </li>\n<li>Modele os pães e coloque em formas untadas.  </li>\n<li>Asse em forno médio por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bhh000424hi49tya7xi",
-      "title": "Receita de Exemplo",
-      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "id": "cmfklasxs00015chi0fj93d28",
+      "title": "Pudim de Leite Condensado",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/banner-teste.jpg",
       "images": [
-        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/banner-teste.jpg"
       ],
       "videos": [],
-      "slug": "receitas/receita-de-exemplo",
-      "date": "2024-02-05T03:00:00.000Z",
+      "slug": "receitas/pudim-leite-condensado",
+      "date": "2024-01-22T03:00:00.000Z",
       "ingredients": [
         "1 lata de leite condensado",
-        "2 colheres de sopa de chocolate em pó",
-        "1 colher de sopa de manteiga",
-        "granulado para enrolar"
+        "2 medidas de leite",
+        "3 ovos",
+        "1 xícara de açúcar (para a calda)"
       ],
       "difficulty": "fácil",
-      "time": "25 min",
-      "servings": "20 unidades",
-      "calories": 90,
+      "time": "1h 10min",
+      "servings": "12 fatias",
+      "calories": 250,
       "author": "Pablo",
       "categories": [
         "receitas",
         "sobremesas"
       ],
       "tags": [
-        "doce",
-        "brigadeiro",
-        "chocolate"
+        "pudim",
+        "leite condensado",
+        "doce"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/banner-teste.jpg\" alt=\"Pudim de Leite Condensado\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 medidas de leite  </li>\n<li>3 ovos  </li>\n<li>1 xícara de açúcar (para a calda)</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Caramelize o açúcar em uma forma de pudim.  </li>\n<li>Bata no liquidificador o leite condensado, o leite e os ovos.  </li>\n<li>Despeje a mistura na forma caramelizada.  </li>\n<li>Asse em banho-maria por 1 hora.  </li>\n<li>Espere esfriar e desenforme.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bhj000524hi8jo56lir",
-      "title": "Torta de Camarão",
-      "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-1",
-      "date": "2025-09-15T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "assados",
-        "ceia",
-        "receitas"
-      ],
-      "tags": [
-        "bacon",
-        "jantar",
-        "light",
-        "liquidificador",
-        "massas",
-        "temperos"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bhj000624hig061d1jz",
+      "id": "cmfklasxv00045chi7oeg172a",
       "title": "Lasanha à Bolonhesa",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "images": [],
@@ -179,7 +106,80 @@
       "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>500g de massa para lasanha  </li>\n<li>400g de carne moída  </li>\n<li>1 sachê de molho de tomate  </li>\n<li>200g de presunto  </li>\n<li>200g de queijo mussarela  </li>\n<li>2 colheres de sopa de óleo</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Refogue a carne com óleo e acrescente o molho de tomate.  </li>\n<li>Em uma travessa, faça camadas de massa, molho, presunto e queijo.  </li>\n<li>Repita até finalizar os ingredientes.  </li>\n<li>Cubra com queijo e leve ao forno por 40 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bhs000j24hi6rx2cl2w",
+      "id": "cmfklasxw00055chi0hgogzcx",
+      "title": "Receita de Exemplo",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/receita-de-exemplo",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "doce",
+        "brigadeiro",
+        "chocolate"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklasy0000a5chi82ys1hla",
+      "title": "Torta de Camarão",
+      "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-1",
+      "date": "2025-09-15T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "assados",
+        "ceia",
+        "receitas"
+      ],
+      "tags": [
+        "light",
+        "bacon",
+        "jantar",
+        "liquidificador",
+        "massas",
+        "temperos"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklasy6000j5chihide2wkw",
       "title": "Torta de Frango com Catupiry",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -216,7 +216,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bhx000t24hi34jabaps",
+      "id": "cmfklasy7000n5chict39aw36",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-ricota_23-2148742333.jpg",
       "images": [
@@ -245,8 +245,8 @@
         "vegetariano"
       ],
       "tags": [
-        "temperos",
         "forno",
+        "temperos",
         "rápido",
         "lactose-free",
         "vegano"
@@ -255,7 +255,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-ricota_23-2148742333.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bi1001724hif47d2rk2",
+      "id": "cmfklasyh001b5chih4foe2a3",
       "title": "Torta de Frango com Catupiry",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -283,16 +283,16 @@
         "receitas"
       ],
       "tags": [
-        "forno",
         "cenoura",
-        "palmito",
-        "eventos"
+        "forno",
+        "eventos",
+        "palmito"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bi2001924hi06fa3sk0",
+      "id": "cmfklasyi001f5chia2aqbt3l",
       "title": "Torta de Frango com Requeijão",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg",
       "images": [
@@ -328,7 +328,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bi4001e24hi98dxbgsw",
+      "id": "cmfklasyk001j5chi6u05f0f3",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg",
       "images": [
@@ -357,8 +357,8 @@
       ],
       "tags": [
         "liquidificador",
-        "salgado",
         "leite",
+        "salgado",
         "lanche",
         "cebola",
         "contemporâneo",
@@ -368,7 +368,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bid002724hi8cwv0srx",
+      "id": "cmfklasyq00235chi80xdce6w",
       "title": "Torta de Frango Especial",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -407,7 +407,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2big002f24hi9iwl7q8a",
+      "id": "cmfklasyx002o5chig7s2ggyy",
       "title": "Torta de Frango Cremosa",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -445,7 +445,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bil002x24hi0rqdenl1",
+      "id": "cmfklasz3002x5chi8mqla638",
       "title": "Torta de Bacon",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-calabresa_23-2148742350.jpg",
       "images": [
@@ -472,9 +472,9 @@
         "receitas"
       ],
       "tags": [
-        "palmito",
-        "eventos",
         "lactose-free",
+        "eventos",
+        "palmito",
         "ceia",
         "tomate"
       ],
@@ -482,47 +482,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-calabresa_23-2148742350.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bin003724hi7y2k1ynl",
-      "title": "Torta de Frango Cremosa da Vó",
-      "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-139",
-      "date": "2026-01-31T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "jantar",
-        "receitas",
-        "tortas"
-      ],
-      "tags": [
-        "caseiro",
-        "brasileiro",
-        "ervas",
-        "mediterrâneo",
-        "cremoso",
-        "espinafre"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bio003a24higtq3f85p",
+      "id": "cmfklasz600355chiev3agn7h",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -563,7 +523,47 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2biw003u24hihlil4234",
+      "id": "cmfklasz9003e5chi6qkkbjqe",
+      "title": "Torta de Frango Cremosa da Vó",
+      "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-139",
+      "date": "2026-01-31T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "jantar",
+        "receitas",
+        "tortas"
+      ],
+      "tags": [
+        "caseiro",
+        "brasileiro",
+        "ervas",
+        "mediterrâneo",
+        "cremoso",
+        "espinafre"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklaszd003x5chi7aiicgv0",
       "title": "Torta de Carne Moída",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg",
       "images": [
@@ -601,7 +601,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bj1004c24hibl9n6q5v",
+      "id": "cmfklaszj004g5chi4ax7cuo8",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
       "images": [
@@ -640,7 +640,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bj4004w24hidypz3tle",
+      "id": "cmfklaszm004y5chiabp0d9vp",
       "title": "Torta de Carne Moída",
       "image": "https://img.freepik.com/fotos-gratis/torta-light_23-2148742355.jpg",
       "images": [
@@ -668,8 +668,8 @@
         "salgados"
       ],
       "tags": [
-        "jantar",
         "reuniões",
+        "jantar",
         "peixe",
         "cremoso",
         "recheio"
@@ -678,7 +678,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-light_23-2148742355.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bj9005924hi96wl3piy",
+      "id": "cmfklaszn00555chi2q1wfzal",
       "title": "Torta de Frango com Ervas",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg",
       "images": [
@@ -707,8 +707,8 @@
         "receitas"
       ],
       "tags": [
-        "integral",
         "low-carb",
+        "integral",
         "rápido-preparo",
         "cebola",
         "técnica-culinária",
@@ -718,7 +718,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bja005d24hi04jkcq7l",
+      "id": "cmfklaszo005a5chibbhvf1yo",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg",
       "images": [
@@ -753,7 +753,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bjp006v24hi2mmk5ltz",
+      "id": "cmfklaszz006m5chidvibbq1g",
       "title": "Torta de Frango Caseira",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg",
       "images": [
@@ -792,7 +792,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bl600db24hi68wheioy",
+      "id": "cmfklat1d00da5chi9zhxbli4",
       "title": "Torta de Frango Fit",
       "image": "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg",
       "images": [
@@ -831,7 +831,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bl700dj24hig9xp8qxq",
+      "id": "cmfklat1g00do5chi0ht54z9g",
       "title": "Torta de Frango Especial",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-atum_23-2148742340.jpg",
       "images": [
@@ -869,7 +869,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-atum_23-2148742340.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2blq00g424hibv4gfwng",
+      "id": "cmfklat1y00g35chi4qda7or2",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -900,8 +900,8 @@
       "tags": [
         "caseiro",
         "cenoura",
-        "palmito",
         "lactose-free",
+        "palmito",
         "técnica-culinária",
         "ovo"
       ],
@@ -909,7 +909,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2blv00gu24hihx0r7yk7",
+      "id": "cmfklat2600gw5chi4ak11k2w",
       "title": "Torta de Frango Light",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -947,7 +947,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bmt00l424hibygrh8lb",
+      "id": "cmfklat3900le5chiewuc2kzs",
       "title": "Torta de Frango Fit",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-caseira_23-2148742327.jpg",
       "images": [
@@ -975,10 +975,10 @@
         "receitas"
       ],
       "tags": [
-        "bacon",
         "farinha",
-        "vegetais",
+        "bacon",
         "vegano",
+        "vegetais",
         "legumes",
         "assado"
       ],
@@ -986,7 +986,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-caseira_23-2148742327.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bn300lw24hi39zqdyqh",
+      "id": "cmfklat3d00m25chic4kj79xf",
       "title": "Torta de Frango com Requeijão",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-calabresa_23-2148742350.jpg",
       "images": [
@@ -1024,7 +1024,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-calabresa_23-2148742350.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bn800mj24hia2ej5fn6",
+      "id": "cmfklat3h00mi5chi4j4ucl3e",
       "title": "Torta de Camarão",
       "image": "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg",
       "images": [
@@ -1064,7 +1064,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bn800mm24hid5yscceb",
+      "id": "cmfklat3l00my5chifp3z7su8",
       "title": "Torta de Ricota",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg",
       "images": [
@@ -1101,44 +1101,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bnm00o024hidw223jfs",
-      "title": "Torta de Camarão",
-      "image": "https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-343",
-      "date": "2026-08-23T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "forno",
-        "receitas"
-      ],
-      "tags": [
-        "massas",
-        "camarão",
-        "queijo",
-        "calabresa"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bnn00o424hi41ip9q3p",
+      "id": "cmfklat3v00o55chihflweodj",
       "title": "Torta de Bacon",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-palmito_23-2148742345.jpg",
       "images": [
@@ -1177,7 +1140,44 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-palmito_23-2148742345.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bnr00oo24hia4a98jwn",
+      "id": "cmfklat3w00o95chi693q861u",
+      "title": "Torta de Camarão",
+      "image": "https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-343",
+      "date": "2026-08-23T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "forno",
+        "receitas"
+      ],
+      "tags": [
+        "massas",
+        "camarão",
+        "queijo",
+        "calabresa"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-espinafre_23-2148742352.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklat3z00ol5chi01swaq2k",
       "title": "Torta de Espinafre",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg",
       "images": [
@@ -1213,7 +1213,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bns00os24hi6jrdb4cw",
+      "id": "cmfklat4100ox5chifkr1e6xn",
       "title": "Torta de Queijo",
       "image": "https://img.freepik.com/fotos-gratis/torta-integral_23-2148742358.jpg",
       "images": [
@@ -1253,7 +1253,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-integral_23-2148742358.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bnw00p824hiede8getm",
+      "id": "cmfklat4500pg5chidvu07o81",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg",
       "images": [
@@ -1292,7 +1292,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bo200q424hi1j0l0lks",
+      "id": "cmfklat4d00qg5chi2hycar6f",
       "title": "Torta de Frango Cremosa da Vó",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
       "images": [
@@ -1332,7 +1332,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bo500qk24hi5uu79ow9",
+      "id": "cmfklat4d00qk5chi876zdqmp",
       "title": "Torta de Frango com Catupiry",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg",
       "images": [
@@ -1369,7 +1369,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bo500qn24hi3hashcie",
+      "id": "cmfklat4g00qw5chi82tihytg",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -1398,15 +1398,52 @@
         "receitas"
       ],
       "tags": [
-        "gourmet",
         "torta",
+        "gourmet",
         "ceia"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bo700qz24hi6n3u47x3",
+      "id": "cmfklat4h00r45chi09vzdt52",
+      "title": "Torta de Carne Moída",
+      "image": "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-367",
+      "date": "2026-09-16T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "culinária-brasileira",
+        "gluten-free",
+        "receitas"
+      ],
+      "tags": [
+        "vegano",
+        "mandioca",
+        "peixe"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklat4h00r75chi1usi7dmp",
       "title": "Torta de Queijo",
       "image": "https://img.freepik.com/fotos-gratis/torta-salgada-de-carne_23-2148742328.jpg",
       "images": [
@@ -1445,82 +1482,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-salgada-de-carne_23-2148742328.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bo900r724hi1ycw9r62",
-      "title": "Torta de Carne Moída",
-      "image": "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-367",
-      "date": "2026-09-16T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "culinária-brasileira",
-        "gluten-free",
-        "receitas"
-      ],
-      "tags": [
-        "vegano",
-        "mandioca",
-        "peixe"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bod00rf24hi3fp8c6ko",
-      "title": "Torta de Bacon",
-      "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-374",
-      "date": "2026-09-23T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "receitas"
-      ],
-      "tags": [
-        "temperos",
-        "forno",
-        "reuniões",
-        "simples",
-        "requeijão",
-        "calabresa"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bod00rj24hi48qbgbjr",
+      "id": "cmfklat4k00rj5chi2i3eg8f6",
       "title": "Torta de Carne Moída",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg",
       "images": [
@@ -1559,7 +1521,45 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bp000ue24hi9qr69v33",
+      "id": "cmfklat4n00ry5chi07sgey2j",
+      "title": "Torta de Bacon",
+      "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-374",
+      "date": "2026-09-23T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "receitas"
+      ],
+      "tags": [
+        "forno",
+        "reuniões",
+        "temperos",
+        "simples",
+        "requeijão",
+        "calabresa"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklat5700uk5chi4y537sbq",
       "title": "Torta de Calabresa",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg",
       "images": [
@@ -1589,8 +1589,8 @@
       ],
       "tags": [
         "forno",
-        "gourmet",
         "camarão",
+        "gourmet",
         "rápido-preparo",
         "legumes",
         "brócolis"
@@ -1599,7 +1599,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bp600v924hi0f5c32uy",
+      "id": "cmfklat5d00v45chi0slngg8g",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-cremosa_23-2148742320.jpg",
       "images": [
@@ -1629,18 +1629,18 @@
       ],
       "tags": [
         "leite",
-        "mandioca",
         "ricota",
+        "mandioca",
         "técnica-culinária",
         "fácil-preparo",
-        "cremoso",
-        "pimentão"
+        "pimentão",
+        "cremoso"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-cremosa_23-2148742320.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bpi00vz24hib3cb5549",
+      "id": "cmfklat5j00vp5chi98uccri1",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg",
       "images": [
@@ -1677,7 +1677,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-queijo_23-2148742335.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bqx00xz24hi3shr13fh",
+      "id": "cmfklat6600y05chiciyb5aj6",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg",
       "images": [
@@ -1706,8 +1706,8 @@
         "receitas"
       ],
       "tags": [
-        "forno",
         "carne",
+        "forno",
         "rápido-preparo",
         "cebola",
         "ervas",
@@ -1718,7 +1718,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2br800yn24hi3k0vhmdd",
+      "id": "cmfklat6h00z75chibkla35mx",
       "title": "Torta de Frango Light",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-caseira_23-2148742327.jpg",
       "images": [
@@ -1758,7 +1758,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-caseira_23-2148742327.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2brn00zf24hi6yr41pyv",
+      "id": "cmfklat6l00zf5chidi30edmv",
       "title": "Torta de Frango com Requeijão",
       "image": "https://img.freepik.com/fotos-gratis/torta-salgada-de-carne_23-2148742328.jpg",
       "images": [
@@ -1795,7 +1795,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-salgada-de-carne_23-2148742328.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bs4010624hibj433ax4",
+      "id": "cmfklat6s01075chiganw2ogf",
       "title": "Torta de Frango Light",
       "image": "https://img.freepik.com/fotos-gratis/torta-light_23-2148742355.jpg",
       "images": [
@@ -1823,8 +1823,8 @@
         "receitas"
       ],
       "tags": [
-        "gluten-free",
         "lactose-free",
+        "gluten-free",
         "tomate",
         "passo-a-passo",
         "batata"
@@ -1833,7 +1833,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-light_23-2148742355.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bsi010y24hi7m033udc",
+      "id": "cmfklat71011e5chi11ase597",
       "title": "Torta de Calabresa",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-palmito_23-2148742345.jpg",
       "images": [
@@ -1871,7 +1871,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-palmito_23-2148742345.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bv1015g24hi325y2ouw",
+      "id": "cmfklat82015g5chi3ip2d4vd",
       "title": "Torta de Ricota",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -1910,7 +1910,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bw9017f24hig8681v1h",
+      "id": "cmfklat8s017n5chigr085hoo",
       "title": "Torta de Frango Cremosa da Vó",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg",
       "images": [
@@ -1947,7 +1947,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bxl019624hi8gnudi5l",
+      "id": "cmfklat99019b5chi73sn97h3",
       "title": "Torta de Queijo",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -1984,7 +1984,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bxx019p24hi7cr30bxe",
+      "id": "cmfklat9e019u5chibqrd0irp",
       "title": "Torta de Atum",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-atum_23-2148742340.jpg",
       "images": [
@@ -2021,7 +2021,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-atum_23-2148742340.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2byt01b124hi39ejbcx5",
+      "id": "cmfklat9q01b15chib9n732bn",
       "title": "Torta de Frango Especial",
       "image": "https://img.freepik.com/fotos-gratis/torta-integral_23-2148742358.jpg",
       "images": [
@@ -2053,50 +2053,14 @@
         "alho",
         "lactose-free",
         "requeijão",
-        "cebola",
-        "tomate"
+        "tomate",
+        "cebola"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-integral_23-2148742358.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2bzb01bp24higjs4ezcj",
-      "title": "Torta de Frango Especial",
-      "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-541",
-      "date": "2027-03-09T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "gluten-free",
-        "receitas"
-      ],
-      "tags": [
-        "fit",
-        "mandioca",
-        "fácil-preparo"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2bzd01bs24hih7vt2uua",
+      "id": "cmfklat9z01bx5chi6cjddey2",
       "title": "Torta de Frango com Requeijão",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -2132,7 +2096,43 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c1401e424hihoz70yg0",
+      "id": "cmfklata201c45chigs1q88lo",
+      "title": "Torta de Frango Especial",
+      "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-541",
+      "date": "2027-03-09T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "gluten-free",
+        "receitas"
+      ],
+      "tags": [
+        "fit",
+        "mandioca",
+        "fácil-preparo"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklatas01e45chidfog33hl",
       "title": "Torta de Espinafre",
       "image": "https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg",
       "images": [
@@ -2173,7 +2173,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c2x01gy24hi6vm44cee",
+      "id": "cmfklatbu01h25chi8eq19890",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -2211,7 +2211,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c3l01ht24higdvx0djy",
+      "id": "cmfklatc601i65chihy1tg00t",
       "title": "Torta de Frango Fit",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg",
       "images": [
@@ -2249,7 +2249,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c4n01k124higeppgnqc",
+      "id": "cmfklatcw01jx5chibkb50sze",
       "title": "Torta de Atum",
       "image": "https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg",
       "images": [
@@ -2279,9 +2279,9 @@
       ],
       "tags": [
         "jantar",
-        "gourmet",
         "frango",
         "eventos",
+        "gourmet",
         "peixe",
         "dica-culinária"
       ],
@@ -2289,7 +2289,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c5901l924hiayrl578k",
+      "id": "cmfklatdi01ll5chi8r7t9gb1",
       "title": "Torta de Bacon",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-ricota_23-2148742333.jpg",
       "images": [
@@ -2326,7 +2326,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-ricota_23-2148742333.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c6g01n824hifjhs6fo2",
+      "id": "cmfklate701nc5chi7iij12k0",
       "title": "Torta de Palmito",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
       "images": [
@@ -2362,7 +2362,43 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c6u01o724hi1myybi2i",
+      "id": "cmfklatel01oc5chiavcf3n3l",
+      "title": "Torta de Calabresa",
+      "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
+      "images": [
+        "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-642",
+      "date": "2027-06-18T03:00:00.000Z",
+      "ingredients": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de leite",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 colher de sopa de fermento",
+        "2 xícaras de frango desfiado",
+        "1/2 xícara de requeijão"
+      ],
+      "difficulty": "médio",
+      "time": "50 min",
+      "servings": "10 pedaços",
+      "calories": 280,
+      "author": "Pablo",
+      "categories": [
+        "ceia",
+        "receitas"
+      ],
+      "tags": [
+        "farinha",
+        "camarão",
+        "queijo"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfklateo01og5chi4qbk3ibo",
       "title": "Torta de Queijo",
       "image": "https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg",
       "images": [
@@ -2400,43 +2436,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c6x01of24hi6mge4vsr",
-      "title": "Torta de Calabresa",
-      "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
-      "images": [
-        "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-642",
-      "date": "2027-06-18T03:00:00.000Z",
-      "ingredients": [
-        "2 xícaras de farinha de trigo",
-        "1 xícara de leite",
-        "3 ovos",
-        "1/2 xícara de óleo",
-        "1 colher de sopa de fermento",
-        "2 xícaras de frango desfiado",
-        "1/2 xícara de requeijão"
-      ],
-      "difficulty": "médio",
-      "time": "50 min",
-      "servings": "10 pedaços",
-      "calories": 280,
-      "author": "Pablo",
-      "categories": [
-        "ceia",
-        "receitas"
-      ],
-      "tags": [
-        "farinha",
-        "camarão",
-        "queijo"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfkj2c7c01pb24hiaxlyc0r0",
+      "id": "cmfklatfd01pc5chi4uyfh25u",
       "title": "Torta de Frango Caseira",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-cremosa_23-2148742320.jpg",
       "images": [
@@ -2466,15 +2466,15 @@
       ],
       "tags": [
         "ervas",
-        "legumes",
         "passo-a-passo",
+        "legumes",
         "batata"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-cremosa_23-2148742320.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c7s01qe24hi5tml1gsy",
+      "id": "cmfklatft01qf5chig82leq8s",
       "title": "Torta de Frango Fit",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg",
       "images": [
@@ -2503,8 +2503,8 @@
         "receitas"
       ],
       "tags": [
-        "doce",
         "caseiro",
+        "doce",
         "jantar",
         "low-carb",
         "palmito",
@@ -2514,7 +2514,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-bacon_23-2148742348.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c8g01sa24hietvlcfto",
+      "id": "cmfklatgn01si5chidicv6dak",
       "title": "Torta de Frango Integral",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-camarao_23-2148742342.jpg",
       "images": [
@@ -2555,7 +2555,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-camarao_23-2148742342.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c8i01si24hi8crr33d1",
+      "id": "cmfklatgx01t25chi12828wu3",
       "title": "Torta de Frango Especial",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg",
       "images": [
@@ -2587,15 +2587,15 @@
         "forno",
         "rápido-preparo",
         "legumes",
-        "espinafre",
         "batata",
+        "espinafre",
         "calabresa"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c9m01u124hi7019a1vo",
+      "id": "cmfklathn01u95chiecccg7pe",
       "title": "Torta de Queijo",
       "image": "https://img.freepik.com/fotos-gratis/torta-salgada-de-carne_23-2148742328.jpg",
       "images": [
@@ -2627,14 +2627,14 @@
         "alho",
         "camarão",
         "cebola",
-        "brócolis",
-        "fácil"
+        "fácil",
+        "brócolis"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-salgada-de-carne_23-2148742328.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2c9x01up24hi6tfqd6eu",
+      "id": "cmfklathx01ut5chia9vycxph",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-palmito_23-2148742345.jpg",
       "images": [
@@ -2663,15 +2663,15 @@
       ],
       "tags": [
         "forno",
-        "queijo",
         "catupiry",
+        "queijo",
         "ovo"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-palmito_23-2148742345.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2caf01vw24hiavbd11lv",
+      "id": "cmfklatid01vx5chifgjze5b1",
       "title": "Torta de Queijo",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -2706,7 +2706,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2caw01ww24hi0nnp7yo7",
+      "id": "cmfklatiy01xc5chiduy79gid",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-caseira_23-2148742327.jpg",
       "images": [
@@ -2743,7 +2743,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-caseira_23-2148742327.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cc701zz24hid4r00874",
+      "id": "cmfklatkq02035chi14bn4sel",
       "title": "Torta de Frango Fit",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg",
       "images": [
@@ -2772,10 +2772,10 @@
       ],
       "tags": [
         "light",
-        "gourmet",
         "salgado",
-        "gluten-free",
         "catupiry",
+        "gourmet",
+        "gluten-free",
         "cebola",
         "ervas"
       ],
@@ -2783,7 +2783,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cf6026024hifx9ugb0r",
+      "id": "cmfklatpa02695chi8pfy5ji1",
       "title": "Torta de Frango com Requeijão",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg",
       "images": [
@@ -2813,15 +2813,15 @@
       "tags": [
         "jantar",
         "couve-flor",
-        "tradicional",
         "catupiry",
+        "tradicional",
         "legumes"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-carne-moida_23-2148742330.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cf8026524hibj94e7m9",
+      "id": "cmfklatpg026h5chicmgngpxb",
       "title": "Torta de Frango Caseira",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg",
       "images": [
@@ -2859,7 +2859,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-tradicional_23-2148742318.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cg2027o24hie45v96ob",
+      "id": "cmfklatq3027o5chi3ym41sv7",
       "title": "Torta de Atum",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg",
       "images": [
@@ -2889,15 +2889,15 @@
       "tags": [
         "lactose-free",
         "atum",
-        "almoço",
         "fácil-preparo",
+        "almoço",
         "pimentão"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-legumes_23-2148742332.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cgd028f24hi0gnq4lak",
+      "id": "cmfklatqf028h5chi56vy43q1",
       "title": "Torta de Carne Moída",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -2926,14 +2926,14 @@
       ],
       "tags": [
         "reuniões",
-        "integral",
-        "torta"
+        "torta",
+        "integral"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cgf028k24hic9ymfn3s",
+      "id": "cmfklatqg028k5chi3gxg1usc",
       "title": "Torta de Palmito",
       "image": "https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg",
       "images": [
@@ -2971,7 +2971,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/deliciosa-torta-de-frango-em-um-prato_23-2148742323.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cgp029024hib02daqji",
+      "id": "cmfklatqm028w5chi92r2dlqz",
       "title": "Torta de Carne Moída",
       "image": "https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg",
       "images": [
@@ -3010,7 +3010,7 @@
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-de-frango-caseira_23-2148742325.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2ch6029v24hig3htb3h1",
+      "id": "cmfklatr4029v5chieki93j9n",
       "title": "Torta de Espinafre",
       "image": "https://img.freepik.com/fotos-gratis/torta-integral_23-2148742358.jpg",
       "images": [
@@ -3039,16 +3039,16 @@
         "receitas"
       ],
       "tags": [
+        "fit",
         "bacon",
         "jantar",
-        "fit",
         "batata"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-integral_23-2148742358.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2chd02ab24hidw5y7pzk",
+      "id": "cmfklatrl02aj5chi7rhx9qoe",
       "title": "Torta de Legumes",
       "image": "https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg",
       "images": [
@@ -3078,15 +3078,15 @@
       ],
       "tags": [
         "forno",
-        "frango",
         "leite",
+        "frango",
         "comemorações"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://img.freepik.com/fotos-gratis/torta-vegetariana_23-2148742338.jpg\" alt=\"Torta de Frango Cremosa\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>2 xícaras de farinha de trigo  </li>\n<li>1 xícara de leite  </li>\n<li>3 ovos  </li>\n<li>1&#x2F;2 xícara de óleo  </li>\n<li>1 colher de sopa de fermento  </li>\n<li>2 xícaras de frango desfiado  </li>\n<li>1&#x2F;2 xícara de requeijão</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador a massa com farinha, leite, ovos, óleo e fermento.  </li>\n<li>Coloque metade da massa em uma forma untada.  </li>\n<li>Acrescente o recheio de frango com requeijão.  </li>\n<li>Cubra com o restante da massa.  </li>\n<li>Asse em forno médio por 35 minutos.</li>\n</ol>\n"
     },
     {
-      "id": "cmfkj2cho02az24hih2572tht",
+      "id": "cmfklatrv02b45chi1499e5r3",
       "title": "Torta de Frango Cremosa",
       "image": "https://img.freepik.com/fotos-gratis/fatia-de-torta-de-frango-cremosa-servida-em-prato_123827-34567.jpg",
       "images": [

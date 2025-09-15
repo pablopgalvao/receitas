@@ -1,4 +1,4 @@
-title: Receita de Exemplo
+title: Receita de Exemplo com Requeijão #1150
 categories:
   - receitas
   - sobremesas
@@ -31,3 +31,4 @@ date: 2024-02-05 00:00:00
 2. Mexa em fogo baixo até desgrudar do fundo.  
 3. Deixe esfriar e enrole em bolinhas.  
 4. Passe no granulado e sirva.
+

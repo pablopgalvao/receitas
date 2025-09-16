@@ -1,40 +1,8 @@
 {
-  "count": 3,
+  "count": 1,
   "receitas": [
     {
-      "id": "cmfmqe4h20000h8hi1tssd720",
-      "title": "Nova receita teste",
-      "url": "https://pablopgalvao.github.io/receitas/16/09/2025/receitas/novareceitateste/",
-      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fnova-receita-teste-1758034904243.jpg?alt=media&token=1f203a0d-3035-45a4-9b10-984bcab89bb6",
-      "images": [
-        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fnova-receita-teste-1758034904243.jpg?alt=media&token=1f203a0d-3035-45a4-9b10-984bcab89bb6"
-      ],
-      "videos": [],
-      "slug": "receitas/novareceitateste",
-      "date": "2025-09-16T03:00:00.000Z",
-      "ingredients": [
-        "Ingredientes 1",
-        "Ingredientes 2",
-        "Ingredientes 3"
-      ],
-      "difficulty": "fácil",
-      "time": "30 min",
-      "servings": "4 pessoas",
-      "calories": 250,
-      "author": "Pablo teste",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "Teste 1",
-        "Teste 2"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fnova-receita-teste-1758034904243.jpg?alt=media&token=1f203a0d-3035-45a4-9b10-984bcab89bb6\" alt=\"Nova receita teste\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>Ingredientes 1</li>\n<li>Ingredientes 2</li>\n<li>Ingredientes 3</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Teste 1</li>\n<li>Teste 2</li>\n<li>Teste 3</li>\n<li>Teste 4</li>\n<li>Teste 5</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfmqe4h70001h8hiero44mnz",
+      "id": "cmfmqrijr0000d8hi8mhndst3",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/exemplo-1150/",
       "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
@@ -66,39 +34,6 @@
       ],
       "excerpt": "",
       "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfmqe4hc0005h8hi0k4a10t4",
-      "title": "Teste criação de receitas",
-      "url": "https://pablopgalvao.github.io/receitas/16/09/2025/receitas/teste-criação-de-receitas--1758036822876/",
-      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772",
-      "images": [
-        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772"
-      ],
-      "videos": [],
-      "slug": "receitas/teste-criação-de-receitas--1758036822876",
-      "date": "2025-09-16T03:00:00.000Z",
-      "ingredients": [
-        "Ccvvvv",
-        "Ccvvvvccvd",
-        "Ccvvvvccvd"
-      ],
-      "difficulty": "fácil",
-      "time": "",
-      "servings": "",
-      "calories": "",
-      "author": "",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "brigadeiro",
-        "chocolate",
-        "doce"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772\" alt=\"Teste criação de receitas \"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>Ccvvvv</li>\n<li>Ccvvvvccvd</li>\n<li>Ccvvvvccvd</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Fvbvxx</li>\n<li>Cvvgddc</li>\n<li>Cvvvv</li>\n</ol>\n"
     }
   ]
 }

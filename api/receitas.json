@@ -1,15 +1,1830 @@
 {
-  "count": 1,
+  "count": 56,
   "receitas": [
     {
-      "id": "cmfllri2g0000kghi2k093j26",
+      "id": "cmfluj2sk0000qshifp791ydf",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-11",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2sq0001qshi3de9fp77",
+      "title": "Receita de Exemplo",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-10",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2sw0004qshid895fiat",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-113",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2sx0005qshi9ps0ak5p",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-1",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2sy0006qshi6w11f8zp",
+      "title": "Receita de Exemplo Fit",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-114",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2t10009qshi2r6q4yqp",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-14",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2t2000aqshibs008hx3",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-13",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2t4000dqshi004wc1di",
+      "title": "Receita de Exemplo com Ervas",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-15",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2t5000eqshicg21drkv",
+      "title": "Receita de Exemplo da Vó",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-12",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2t7000iqshi3nfi1z7z",
+      "title": "Receita de Exemplo Integral",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-16",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2t9000kqshi43zpb9jx",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-18",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ta000oqshi8htf343x",
+      "title": "Receita de Exemplo Light",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-17",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tc000qqshi5xm807ct",
+      "title": "Receita de Exemplo Light",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-2",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2td000vqshi7ybk6aqu",
+      "title": "Receita de Exemplo Fit",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-21",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tf000yqshi2eo340b4",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-20",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2th0013qshiemnk92og",
+      "title": "Receita de Exemplo Light",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-19",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ti0016qshida8r0iik",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-22",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tj001bqshi175n9i5i",
+      "title": "Receita de Exemplo com Ervas",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-23",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tk001eqshi1zche3yx",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-24",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tm001jqshic5v22336",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-25",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tn001mqshi4c1cbgly",
+      "title": "Receita de Exemplo Light",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-26",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tp001rqshi151l4c6q",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-28",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tq001uqshi3sq29gca",
+      "title": "Receita de Exemplo com Ervas",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-29",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ts001zqshi7soldwkk",
+      "title": "Receita de Exemplo Fit",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-27",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tt0022qshi066pdjdh",
+      "title": "Receita de Exemplo com Ervas",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-3",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tv0027qshi8nrb26ti",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-30",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2tx002aqshi57jt9lly",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-31",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ty002eqshif0bq5ngk",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-33",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u0002hqshi5f5q8jxn",
+      "title": "Receita de Exemplo Fit",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-32",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u1002lqshi4udd62fk",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-34",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u2002oqshid8k9gqun",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-35",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u4002sqshi6cio9qd6",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-38",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u6002vqshid5tmc232",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-37",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u8002yqshigkh15isw",
       "title": "Receita de Exemplo com Requeijão",
       "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
       "images": [
         "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
       ],
       "videos": [],
-      "slug": "receitas/exemplo-1150",
+      "slug": "receitas/exemplo-39",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2u90031qshihjgc5ynh",
+      "title": "Receita de Exemplo Integral",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-4",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ua0034qshi09g0eq43",
+      "title": "Receita de Exemplo Light",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-36",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uc0037qshi55lf6vsz",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-40",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ud003aqshi075l3v8g",
+      "title": "Receita de Exemplo",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-41",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ue003dqshia6l0dax0",
+      "title": "Receita de Exemplo Integral",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-42",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uf003gqshigu2kdukc",
+      "title": "Receita de Exemplo com Ervas",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-43",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ug003jqshi297s1ndc",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-48",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2um003mqshidquleo89",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-45",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2un003pqshi7svu6xb2",
+      "title": "Receita de Exemplo da Vó",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-46",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uo003sqshigh6tc49m",
+      "title": "Receita de Exemplo da Vó",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-47",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2up003vqshi8zl96g4t",
+      "title": "Receita de Exemplo Fit",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-5",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ur003yqshihvtq7vvn",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-49",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ut0041qshi93d9dfah",
+      "title": "Receita de Exemplo Fit",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-50",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uu0044qshid8q161g1",
+      "title": "Receita de Exemplo Light",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-44",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uv0047qshifrademd6",
+      "title": "Receita de Exemplo Caseira",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-6",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2ux004aqshi0unbbt7n",
+      "title": "Receita de Exemplo Especial",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-51",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uy004dqshie3nk0cma",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-7",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2uz004gqshidsyughw1",
+      "title": "Receita de Exemplo",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-52",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2v0004jqshidq0n113t",
+      "title": "Receita de Exemplo com Catupiry",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-9",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2v2004mqshi4gnjcee9",
+      "title": "Receita de Exemplo com Requeijão",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/exemplo-8",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2v3004pqshicpv5cqdg",
+      "title": "Receita de Exemplo com Requeijão",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/novareceita44455 (2)",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfluj2v4004sqshi7zppg8gm",
+      "title": "Receita de Exemplo com Requeijão",
+      "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/receita-de-exemplo",
       "date": "2024-02-05T03:00:00.000Z",
       "ingredients": [
         "1 lata de leite condensado",

@@ -23,8 +23,8 @@ hexo.extend.generator.register('api-receitas', function(locals) {
   };
 
   const receitas = locals.posts.filter(post => 
-    post.categories && post.categories.toArray().some(cat => cat.name === 'receitas')
-  ).map(post => {
+    post.categories && post.categories.toArray().length > 0
+    ).map(post => {
     // Extrair imagens do conteúdo HTML
     const imageRegex = /<img[^>]+src="([^">]+)"[^>]*>/g;
     const videoRegex = /<a[^>]+href="(https?:\/\/(?:www\.)?(?:youtube\.com|youtu\.be)[^"]*)"[^>]*>/g;

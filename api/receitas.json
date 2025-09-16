@@ -2,7 +2,7 @@
   "count": 3,
   "receitas": [
     {
-      "id": "cmfmptsq80000d0hi61am5e5l",
+      "id": "cmfmq368w0000f8hi7oodhgge",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/exemplo-1150/",
       "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
@@ -36,7 +36,7 @@
       "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfmptsqf0001d0hihi2y14tp",
+      "id": "cmfmq369c000bf8hifiya7ifq",
       "title": "Nova receita teste",
       "url": "https://pablopgalvao.github.io/receitas/16/09/2025/receitas/novareceitateste/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fnova-receita-teste-1758034904243.jpg?alt=media&token=1f203a0d-3035-45a4-9b10-984bcab89bb6",
@@ -68,7 +68,7 @@
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fnova-receita-teste-1758034904243.jpg?alt=media&token=1f203a0d-3035-45a4-9b10-984bcab89bb6\" alt=\"Nova receita teste\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>Ingredientes 1</li>\n<li>Ingredientes 2</li>\n<li>Ingredientes 3</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Teste 1</li>\n<li>Teste 2</li>\n<li>Teste 3</li>\n<li>Teste 4</li>\n<li>Teste 5</li>\n</ol>\n"
     },
     {
-      "id": "cmfmptsql0004d0hie2voacox",
+      "id": "cmfmq369d000cf8hic44yez27",
       "title": "Teste criação de receitas",
       "url": "https://pablopgalvao.github.io/receitas/16/09/2025/receitas/teste-criação-de-receitas--1758036822876/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772",
@@ -92,7 +92,11 @@
         "receitas",
         "sobremesas"
       ],
-      "tags": [],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
       "excerpt": "",
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772\" alt=\"Teste criação de receitas \"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>Ccvvvv</li>\n<li>Ccvvvvccvd</li>\n<li>Ccvvvvccvd</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Fvbvxx</li>\n<li>Cvvgddc</li>\n<li>Cvvvv</li>\n</ol>\n"
     }

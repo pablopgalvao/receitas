@@ -2,7 +2,7 @@
   "count": 12,
   "receitas": [
     {
-      "id": "cmfptod7h00013whieu43bl48",
+      "id": "cmfqwt3jr0001sghi5bm58ia4",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/exemplo-1150/",
       "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
@@ -36,7 +36,7 @@
       "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfptod7t00033whi9r043xo5",
+      "id": "cmfqwt3kh0003sghi44ezeamn",
       "title": "Teste nova receita",
       "url": "https://pablopgalvao.github.io/receitas/16/09/2025/receitas/teste-nova-receita--1758040020609/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-nova-receita--1758040019159.jpg?alt=media&token=ec19959a-fd1b-468c-be8d-df3e7d42d205",
@@ -78,7 +78,7 @@
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-nova-receita--1758040019159.jpg?alt=media&token=ec19959a-fd1b-468c-be8d-df3e7d42d205\" alt=\"Teste nova receita \"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>Xcvv</li>\n<li>Xcvvvxccv</li>\n<li>Xcvvvxccvccccv</li>\n<li>Xcvvvxccvccccvvcccc</li>\n<li>Xcvvvxccvccccvvcccccccccc</li>\n<li>Xcvvvxccvccccvvcccccccccccc</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Df</li>\n<li>Xvvvv</li>\n<li>Xvvvvxjjh</li>\n<li>Xvvvvxjjhffhjhg</li>\n</ol>\n"
     },
     {
-      "id": "cmfptod8600073whidyg2bx4x",
+      "id": "cmfqwt3nz0009sghigmp8aj62",
       "title": "Teste novooo",
       "url": "https://pablopgalvao.github.io/receitas/16/09/2025/receitas/teste-novooo-1758038435578/",
       "image": "https://plus.unsplash.com/premium_vector-1713364393085-0fdda13ec7cd?q=80&w=727&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -115,7 +115,7 @@
       "content": "<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>Dfbv</li>\n<li>Dfbvxfgh</li>\n<li>Dfbvxfghvx</li>\n<li>Dfbvxfghvxasaa</li>\n<li>Dfbvxfghvxasaassdg</li>\n<li>Dfbvxfghvxasaassdgsdvc</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Dfvf</li>\n<li>Bjyesd</li>\n<li>Dedbbvd</li>\n<li>Sfhgr</li>\n</ol>\n"
     },
     {
-      "id": "cmfptod8c00093whictfd4yzi",
+      "id": "cmfqwt3od000asghi7lmfdcqw",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-1/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fbolo-de-baunilha-1757971032276.jpg?alt=media&token=4cb1b9f0-f325-4b69-8a6a-cf5feef1fcf6",
@@ -149,75 +149,7 @@
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fbolo-de-baunilha-1757971032276.jpg?alt=media&token=4cb1b9f0-f325-4b69-8a6a-cf5feef1fcf6\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfptod8f000a3whi0vmfd3d8",
-      "title": "Receita de Exemplo com Requeijão",
-      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-2/",
-      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fmolho-a-la-francesa-1758053436306.jpg?alt=media&token=7141f9c7-34c8-44b0-8b0b-268545ced243",
-      "images": [
-        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fmolho-a-la-francesa-1758053436306.jpg?alt=media&token=7141f9c7-34c8-44b0-8b0b-268545ced243"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-2",
-      "date": "2024-02-05T03:00:00.000Z",
-      "ingredients": [
-        "1 lata de leite condensado",
-        "2 colheres de sopa de chocolate em pó",
-        "1 colher de sopa de manteiga",
-        "granulado para enrolar"
-      ],
-      "difficulty": "fácil",
-      "time": "25 min",
-      "servings": "20 unidades",
-      "calories": 90,
-      "author": "Pablo",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "brigadeiro",
-        "chocolate",
-        "doce"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fmolho-a-la-francesa-1758053436306.jpg?alt=media&token=7141f9c7-34c8-44b0-8b0b-268545ced243\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfptod8w000d3whiap5j3dxn",
-      "title": "Receita de Exemplo com Requeijão",
-      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-3/",
-      "image": "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/nova-receita--1757969575086.jpg?alt=media&token=b26bfec0-8331-4d1d-bfd8-8f29267b8417)",
-      "images": [
-        "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/nova-receita--1757969575086.jpg?alt=media&token=b26bfec0-8331-4d1d-bfd8-8f29267b8417)"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-3",
-      "date": "2024-02-05T03:00:00.000Z",
-      "ingredients": [
-        "1 lata de leite condensado",
-        "2 colheres de sopa de chocolate em pó",
-        "1 colher de sopa de manteiga",
-        "granulado para enrolar"
-      ],
-      "difficulty": "fácil",
-      "time": "25 min",
-      "servings": "20 unidades",
-      "calories": 90,
-      "author": "Pablo",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "brigadeiro",
-        "chocolate",
-        "doce"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/nova-receita--1757969575086.jpg?alt=media&token=b26bfec0-8331-4d1d-bfd8-8f29267b8417)\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfptod8y000e3whibsso7hjl",
+      "id": "cmfqwt3om000dsghib5fce9ws",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-4/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-1758050840298.jpg?alt=media&token=e411f17b-dd43-4314-aeab-26b1839307d5",
@@ -251,41 +183,7 @@
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-1758050840298.jpg?alt=media&token=e411f17b-dd43-4314-aeab-26b1839307d5\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfptod92000h3whidrgz01z6",
-      "title": "Receita de Exemplo com Requeijão",
-      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-5/",
-      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772",
-      "images": [
-        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772"
-      ],
-      "videos": [],
-      "slug": "receitas/torta-5",
-      "date": "2024-02-05T03:00:00.000Z",
-      "ingredients": [
-        "1 lata de leite condensado",
-        "2 colheres de sopa de chocolate em pó",
-        "1 colher de sopa de manteiga",
-        "granulado para enrolar"
-      ],
-      "difficulty": "fácil",
-      "time": "25 min",
-      "servings": "20 unidades",
-      "calories": 90,
-      "author": "Pablo",
-      "categories": [
-        "receitas",
-        "sobremesas"
-      ],
-      "tags": [
-        "brigadeiro",
-        "chocolate",
-        "doce"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfptod95000i3whihgx4ezv3",
+      "id": "cmfqwt3op000esghicnhmd85m",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-6/",
       "image": "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-nova-receita--1758040019159.jpg?alt=media&token=ec19959a-fd1b-468c-be8d-df3e7d42d205)",
@@ -319,15 +217,15 @@
       "content": "<p><img src=\"/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-nova-receita--1758040019159.jpg?alt=media&token=ec19959a-fd1b-468c-be8d-df3e7d42d205)\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfptod9d000m3whiatv72k86",
+      "id": "cmfqwt3ov000hsghiegmw4g6t",
       "title": "Receita de Exemplo com Requeijão",
-      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-7/",
-      "image": "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-receita-novo-1757967188865.jpg?alt=media&token=a6b812f1-ea07-4352-bb26-9f87edbbde2c)",
+      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-3/",
+      "image": "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/nova-receita--1757969575086.jpg?alt=media&token=b26bfec0-8331-4d1d-bfd8-8f29267b8417)",
       "images": [
-        "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-receita-novo-1757967188865.jpg?alt=media&token=a6b812f1-ea07-4352-bb26-9f87edbbde2c)"
+        "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/nova-receita--1757969575086.jpg?alt=media&token=b26bfec0-8331-4d1d-bfd8-8f29267b8417)"
       ],
       "videos": [],
-      "slug": "receitas/torta-7",
+      "slug": "receitas/torta-3",
       "date": "2024-02-05T03:00:00.000Z",
       "ingredients": [
         "1 lata de leite condensado",
@@ -350,10 +248,10 @@
         "doce"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-receita-novo-1757967188865.jpg?alt=media&token=a6b812f1-ea07-4352-bb26-9f87edbbde2c)\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+      "content": "<p><img src=\"/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/nova-receita--1757969575086.jpg?alt=media&token=b26bfec0-8331-4d1d-bfd8-8f29267b8417)\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfptodc100313whidfaf5r5l",
+      "id": "cmfqwt3ox000isghi1wzx8cns",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-9/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftestadores%2Ftestador-boil-3.jpeg?alt=media&token=d0eb8bbf-8d16-42dc-a4ad-071352dd1a40",
@@ -387,7 +285,41 @@
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftestadores%2Ftestador-boil-3.jpeg?alt=media&token=d0eb8bbf-8d16-42dc-a4ad-071352dd1a40\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfptodc300323whi0xipdseu",
+      "id": "cmfqwt3pd000msghi7mmxa6xz",
+      "title": "Receita de Exemplo com Requeijão",
+      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-5/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-5",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fteste-cria%C3%A7%C3%A3o-de-receitas--1758036817974.jpg?alt=media&token=f9017c3e-2459-4685-905f-3b47cb3dc772\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfqwt3pj000osghi3z875ikh",
       "title": "Receita de Exemplo com Requeijão",
       "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-8/",
       "image": "https://pablopgalvao.github.io/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg",
@@ -419,6 +351,74 @@
       ],
       "excerpt": "",
       "content": "<p><img src=\"/receitas/css/images/imagem-exemplo/imagem-exemplo.jpg\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfqwt3po000ssghigrfzg5t6",
+      "title": "Receita de Exemplo com Requeijão",
+      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-7/",
+      "image": "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-receita-novo-1757967188865.jpg?alt=media&token=a6b812f1-ea07-4352-bb26-9f87edbbde2c)",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-receita-novo-1757967188865.jpg?alt=media&token=a6b812f1-ea07-4352-bb26-9f87edbbde2c)"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-7",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/%5Bcss/images/imagem-exemplo/imagem-exemplo.jpg%5D(https:/firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes/teste-receita-novo-1757967188865.jpg?alt=media&token=a6b812f1-ea07-4352-bb26-9f87edbbde2c)\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfqwt3sw0035sghigvjx14e2",
+      "title": "Receita de Exemplo com Requeijão",
+      "url": "https://pablopgalvao.github.io/receitas/05/02/2024/receitas/torta-2/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fmolho-a-la-francesa-1758053436306.jpg?alt=media&token=7141f9c7-34c8-44b0-8b0b-268545ced243",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fmolho-a-la-francesa-1758053436306.jpg?alt=media&token=7141f9c7-34c8-44b0-8b0b-268545ced243"
+      ],
+      "videos": [],
+      "slug": "receitas/torta-2",
+      "date": "2024-02-05T03:00:00.000Z",
+      "ingredients": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "granulado para enrolar"
+      ],
+      "difficulty": "fácil",
+      "time": "25 min",
+      "servings": "20 unidades",
+      "calories": 90,
+      "author": "Pablo",
+      "categories": [
+        "receitas",
+        "sobremesas"
+      ],
+      "tags": [
+        "brigadeiro",
+        "chocolate",
+        "doce"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fmolho-a-la-francesa-1758053436306.jpg?alt=media&token=7141f9c7-34c8-44b0-8b0b-268545ced243\" alt=\"Imagem exemplo\"></p>\n<h2 id=\"Ingredientes\"><a href=\"#Ingredientes\" class=\"headerlink\" title=\"Ingredientes\"></a>Ingredientes</h2><ul>\n<li>1 lata de leite condensado  </li>\n<li>2 colheres de sopa de chocolate em pó  </li>\n<li>1 colher de sopa de manteiga  </li>\n<li>granulado para enrolar</li>\n</ul>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, coloque o leite condensado, a manteiga e o chocolate em pó.  </li>\n<li>Mexa em fogo baixo até desgrudar do fundo.  </li>\n<li>Deixe esfriar e enrole em bolinhas.  </li>\n<li>Passe no granulado e sirva.</li>\n</ol>\n"
     }
   ]
 }

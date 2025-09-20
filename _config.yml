@@ -26,8 +26,8 @@ jsonContent:
     time: true
     servings: true
     calories: true
-title: Minhas Receitas
-subtitle: Lista de todas as receitas do aplicativo Boil
+title: Lar do chef
+subtitle: Vamos cozinhar!
 description: >-
   Nesse blog terá todas as receitas que devem ser listadas no aplicativo e
   deverá tbm ser criada novas por ele.

@@ -4,7 +4,7 @@
 # .\gerar-receitas-aleatorias.ps1
 
 # Configurações
-$sourceFile = "torta-de-frango.md"  # Arquivo deve estar no diretório atual
+$sourceFile = "feijoada_simples.md"  # Arquivo deve estar no diretório atual
 $outputDir = "."  # Diretório atual
 $baseFileName = "torta-"
 

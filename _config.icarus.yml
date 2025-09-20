@@ -278,7 +278,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Login: /receitas/admin/
-            Baixar Aplicativo: https://google.com
+            Baixar Aplicativo: https://play.google.com/store/apps/details?id=com.pablo614.Boil
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

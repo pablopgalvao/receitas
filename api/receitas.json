@@ -2,7 +2,7 @@
   "count": 1,
   "receitas": [
     {
-      "id": "cmfrka05u00013ghi6zj7ftco",
+      "id": "cmfrkxm1y0003qwhid6k0f4ix",
       "title": "Marido Gelado",
       "url": "https://pablopgalvao.github.io/receitas/19/09/2025/receitas/marido-gelado--1758317137516/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2FCaptura%20de%20tela%202025-09-19%20214436.png?alt=media&token=4eb165dc-4c2f-4945-bc77-3e049a2f4f9b",
@@ -23,7 +23,7 @@
       "difficulty": "Médio",
       "time": "40 min",
       "servings": "10 Porções",
-      "calories": "Todas",
+      "calories": "",
       "author": "Luciana Pereira",
       "categories": [
         "Sobremesas"

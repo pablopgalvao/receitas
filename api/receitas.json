@@ -1,8 +1,112 @@
 {
-  "count": 8,
+  "count": 15,
   "receitas": [
     {
-      "id": "cmfrtyyev0001zwhi0fnw3ts5",
+      "id": "cmfrul6nv0001ewhieh1sbo10",
+      "title": "Kafta",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/00_EXEMPLO copy 5/",
+      "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg"
+      ],
+      "videos": [],
+      "slug": "receitas/00_EXEMPLO copy 5",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        null
+      ],
+      "difficulty": "Médio",
+      "time": "2 horas",
+      "servings": "20 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Pratos principais / Carnes"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><p>1. </p>\n"
+    },
+    {
+      "id": "cmfrul6o30003ewhiaamz08qe",
+      "title": "Kafta",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/00_EXEMPLO copy 4/",
+      "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg"
+      ],
+      "videos": [],
+      "slug": "receitas/00_EXEMPLO copy 4",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        null
+      ],
+      "difficulty": "Médio",
+      "time": "2 horas",
+      "servings": "20 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Pratos principais / Carnes"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><p>1. </p>\n"
+    },
+    {
+      "id": "cmfrul6ob0006ewhieyuve0qf",
+      "title": "Kafta",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/00_EXEMPLO copy/",
+      "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg"
+      ],
+      "videos": [],
+      "slug": "receitas/00_EXEMPLO copy",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        null
+      ],
+      "difficulty": "Médio",
+      "time": "2 horas",
+      "servings": "20 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Pratos principais / Carnes"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><p>1. </p>\n"
+    },
+    {
+      "id": "cmfrul6oe0008ewhi21dn7zot",
+      "title": "Kafta",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/00_EXEMPLO copy 3/",
+      "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg"
+      ],
+      "videos": [],
+      "slug": "receitas/00_EXEMPLO copy 3",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        null
+      ],
+      "difficulty": "Médio",
+      "time": "2 horas",
+      "servings": "20 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Pratos principais / Carnes"
+      ],
+      "tags": [],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><p>1. </p>\n"
+    },
+    {
+      "id": "cmfrul6og0009ewhicevhcehu",
       "title": "Kafta",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/00_EXEMPLO/",
       "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
@@ -28,7 +132,7 @@
       "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><p>1. </p>\n"
     },
     {
-      "id": "cmfrtyyf50003zwhidd2s7hw9",
+      "id": "cmfrul6ou000bewhichqa1lqe",
       "title": "Feijoada da Veveta",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/Feijoada_da_Veveta/",
       "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_da_Veveta.jpg",
@@ -70,44 +174,79 @@
       "content": "<p><img src=\"/receitas/images/Feijoada_da_Veveta.jpg\" alt=\"Feijoada da Veveta\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Iniciar dessalgando o pé, o rabo e a costela suína com 12h de antecedência. Em uma bacia colocar os cortes e cobrir com água corrente, trocar a água a cada 3 horas, mantendo sempre dentro da geladeira. Quando passar esse tempo, levar as carnes para cozinhar em água fervente por 30 minutos.</li>\n<li>Deixar o feijão de molho em água por 1 hora antes do preparo.</li>\n<li>Cortar o lombo e o bacon em cubos grandes, a calabresa e o paio em rodelas e reservar.</li>\n<li>Aquecer uma panela de pressão, com capacidade para cozinhar a feijoada, acrescentar a banha e a cebola cortada em cubos, refogar e acrescentar o alho e as folhas de louro em seguida.</li>\n<li>Acrescentar o feijão escorrido, as carnes desalgadas, o paio e a calabresa, refogar rapidamente e cobrir com 7 litros de água. Tampar a panela e deixar cozinhar por 50 minutos depois que a panela pegar pressão.</li>\n<li>Abrir a panela passado os 50 minutos, conferir se o feijão e as carnes estão completamente cozidos. Caso necessário, volte para o fogo e finalize. Corrija o sal, se necessário.</li>\n<li>Sirva a feijoada acompanhada de arroz, farofa, couve refogada e torresmo.</li>\n</ol>\n"
     },
     {
-      "id": "cmfrtyyfh0006zwhibqb1fmpi",
-      "title": "Kafta",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/Kafta/",
-      "image": "https://pablopgalvao.github.io/receitas/images/kafta.png",
+      "id": "cmfrul6ow000cewhi9olw2ht2",
+      "title": "Espeto 3 sabores para um churrasco completo",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/espeto_3_sabores_para_um_churrasco_completo/",
+      "image": "https://pablopgalvao.github.io/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp",
       "images": [
-        "https://pablopgalvao.github.io/receitas/images/kafta.png"
+        "https://pablopgalvao.github.io/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp"
       ],
       "videos": [],
-      "slug": "receitas/Kafta",
+      "slug": "receitas/espeto_3_sabores_para_um_churrasco_completo",
       "date": "2025-09-20T03:00:00.000Z",
       "ingredients": [
-        "500 gramas de carne moída",
-        "1 colher de sopa de salsinha picada",
-        "1 colher de sopa de hortelã picado",
-        "1 colher de sopa de cebola picada",
-        "1 colher de chá de alho picado",
-        "1 colher de chá de pimenta síria",
-        "2 colheres de chá de sal",
-        "1 colher de sopa de azeite",
-        "Palitos de churrasco"
+        "1kg de alcatra em cubos",
+        "1kg de peito de frango sem osso e sem pele, cortado em cubos",
+        "500g de linguiça toscana fresca em cubos",
+        "4 dentes de alho picados",
+        "1 cebola picada",
+        "Sal e pimenta-do-reino a gosto"
       ],
       "difficulty": "Fácil",
-      "time": "90 min",
-      "servings": "4 a 6 Porções",
+      "time": "1 hora e 30 minutos",
+      "servings": "15 Porções",
       "calories": "",
       "author": "Boil",
       "categories": [
-        "Lanches e petiscos"
+        "Pratos principais / Carnes"
       ],
       "tags": [
         "churrasco",
-        "carnes"
+        "fim de semana"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/kafta.png\" alt=\"Kafta\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Coloque tudo em uma tigela e misture com as mãos até atingir uma massa uniforme;</li>\n<li>Cubra a tigela com plástico filme, leve-a à geladeira e deixe a massa descansar por meia hora;</li>\n<li>Molde a massa, espete os palitos de churrasco e leve para o congelador por mais 30 minutos;</li>\n<li>Asse as kaftas em uma grelha ou em uma frigideira;</li>\n<li>Vire-as, espere chegar ao ponto que te agrada (mais ou menos passada) e sirva na sequência;</li>\n</ol>\n"
+      "content": "<p><img src=\"/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp\" alt=\"Espeto 3 sabores para um churrasco completo\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma tigela, tempere a carne, o frango e a linguiça com o alho, a cebola, o sal e a pimenta.</li>\n<li>Deixe reservado para pegar o tempero por 15 minutos.</li>\n<li>No palito de churrasco, intercale 1 cubo de carne, 1 de frango e 1 de linguiça.</li>\n<li>Asse em uma grelha de churrasqueira por 15 minutos, virando de vez em quando, ou até ficar dourado.</li>\n<li>Se desejar sirva acompanhado de salada de macarrão.</li>\n</ol>\n"
     },
     {
-      "id": "cmfrtyyg00009zwhi8666g8nw",
+      "id": "cmfrul6p0000gewhi0cr9az47",
+      "title": "Farofa de churrasco",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/farofa_de_churrasco/",
+      "image": "https://pablopgalvao.github.io/receitas/images/farofa_de_churrasco.webp",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/farofa_de_churrasco.webp"
+      ],
+      "videos": [],
+      "slug": "receitas/farofa_de_churrasco",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "1/3 de xícara (chá) de azeite",
+        "1 xícara (chá) de bacon picado",
+        "1 cebola picada",
+        "1 lata de milho verde escorrido",
+        "1/2 lata de ervilha escorrida",
+        "1/2 pimenta vermelha sem sementes picada",
+        "3 xícaras (chá) de farinha de milho",
+        "Sal a gosto"
+      ],
+      "difficulty": "Fácil",
+      "time": "20 minutos",
+      "servings": "6 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Entradas"
+      ],
+      "tags": [
+        "popular",
+        "churrasco",
+        "fim de semana",
+        "brasil"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/farofa_de_churrasco.webp\" alt=\"Farofa de churrasco\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.</li>\n<li>Adicione o milho, a ervilha, a pimenta e refogue por 2 minutos.</li>\n<li>Acrescente a farinha, sal, misture e desligue o fogo. Sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfrul6p2000iewhi0b3q0x0f",
       "title": "Feijoada completa",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/feijoada_completa/",
       "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
@@ -151,7 +290,7 @@
       "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada completa\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Corte as carnes e embutidos em pedaços pequenos.</li>\n<li>Separe o feijão e coloque-os em água, para descartar os que estão podres.</li>\n<li>Corte a cebola e o alho em pedaços pequenos.</li>\n<li>Em uma panela de pressão, refogue a cebola e o alho no azeite.</li>\n<li>Após refogados, sele as carnes e os embutidos.</li>\n<li>Na mesma panela, coloque o feijão, o pé, o rabo e a orelha.</li>\n<li>Deixe ferver até que esteja pronto.</li>\n<li>Reserve.</li>\n<li>Sirva acompanhado de couve manteiga, arroz, laranja e bisteca.</li>\n</ol>\n"
     },
     {
-      "id": "cmfrtyyg2000azwhidwg5962y",
+      "id": "cmfrul6p5000lewhiam4n4krq",
       "title": "Feijoada Simples",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/feijoada_simples/",
       "image": "https://pablopgalvao.github.io/receitas/images/feijoada_simples.webp",
@@ -190,7 +329,115 @@
       "content": "<p><img src=\"/receitas/images/feijoada_simples.webp\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque o feijão numa peneira e lave bem sob água corrente. Transfira os grãos para uma tigela grande e cubra com 2,5 litros de água – se algum boiar, descarte. Cubra com um prato e deixe de molho por 30 minutos – se o feijão ficar muito tempo de molho pode perder a cor e desmanchar durante o longo cozimento da feijoada. Enquanto isso, faça o pré-cozimento das carnes.</li>\n<li>Escorra a água das carnes dessalgadas e transfira para um caldeirão grande (ou panela) com capacidade para 11 litros. Cubra as carnes com água e leve ao fogo alto – cerca de 4 litros bastam, a quantidade pode variar de acordo com o tamanho da panela, o importante é que as carnes devem ficar completamente imersas. Deixe cozinhar por 10 minutos em fogo alto, contados após a fervura – o pré-cozimento elimina o excesso de gordura e sal das carnes.</li>\n<li>Enquanto isso, descasque e pique fino as cebolas e os dentes de alho. Com uma faca pequena, retire a pele dos paios. Escorra a água do feijão.</li>\n<li>Passados os 10 minutos, com uma escumadeira, transfira as carnes pré-cozidas para uma tigela grande e descarte a água do cozimento, com cuidado para não se queimar.</li>\n<li>Volte o caldeirão ao fogo alto. Quando aquecer, regue com o azeite, adicione a cebola e tempere com uma pitada de sal. Refogue por cerca de 8 minutos até começar a dourar. Junte o alho, o cominho, as folhas de louro e mexa por 1 minuto para perfumar.</li>\n<li>Acrescente o feijão demolhado ao refogado e misture bem. Adicione 6 litros de água e mantenha a panela em fogo alto. Assim que começar a ferver, junte a carne-seca e a costelinha pré-cozidas, abaixe o fogo e deixe cozinhar por 2 horas, mexendo de vez em quando.</li>\n<li>Após as primeiras 2 horas de cozimento, junte o lombo pré-cozido e os paios inteiros. Deixe cozinhar em fogo baixo por mais 3 horas, mexendo de vez em quando delicadamente para não desmanchar os grãos de feijão.</li>\n<li>Faltando 30 minutos para o fim do cozimento, com uma pinça, transfira os paios para a tábua e corte cada um em fatias de 1 cm, na diagonal. Volte as fatias para a panela e deixe cozinhar até completar as 5 horas de cozimento total, ou até que as carnes estejam bem macias e o caldo da feijoada comece a engrossar. Sirva com arroz, couve refogada, gomos de laranja e farinha de mandioca torrada.</li>\n</ol>\n"
     },
     {
-      "id": "cmfrtyyg6000czwhi0mlt2p4g",
+      "id": "cmfrul6p8000oewhi4tnl8wfe",
+      "title": "Maionese prática de batata",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/maionese_pratica_de_batata/",
+      "image": "https://pablopgalvao.github.io/receitas/images/maionese_pratica_de_batata.webp",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/maionese_pratica_de_batata.webp"
+      ],
+      "videos": [],
+      "slug": "receitas/maionese_pratica_de_batata",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "5 batatas em cubos",
+        "1 cenoura ralada",
+        "100g de azeitona verde picada",
+        "1/2 xícara (chá) de cheiro-verde picado",
+        "1 xícara (chá) de maionese",
+        "Sal a gosto",
+        "Salsa para decorar"
+      ],
+      "difficulty": "Fácil",
+      "time": "20 minutos (+1h de geladeira)",
+      "servings": "4 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Receitas light / saudáveis"
+      ],
+      "tags": [
+        "popular",
+        "churrasco",
+        "brasil",
+        "batata"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/maionese_pratica_de_batata.webp\" alt=\"Maionese prática de batata\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Cozinhe a batata em água fervente até ficar macia. Escorra e deixe esfriar.</li>\n<li>Misture com a cenoura ralada, a azeitona, o cheiro-verde, a maionese e sal.</li>\n<li>Espalhe em uma travessa, decore com salsa e leve à geladeira por 1 hora. Sirva.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfrul6pa000qewhibisv2b99",
+      "title": "Mandioca ao alho",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/mandioca_ao_alho/",
+      "image": "https://pablopgalvao.github.io/receitas/images/mandioca_ao_alho.webp",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/mandioca_ao_alho.webp"
+      ],
+      "videos": [],
+      "slug": "receitas/mandioca_ao_alho",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "1kg de mandioca sem casca em pedaços",
+        "Sal a gosto",
+        "4 colheres (sopa) de azeite",
+        "4 dentes de alho fatiados"
+      ],
+      "difficulty": "Fácil",
+      "time": "45 minutos",
+      "servings": "8 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Entradas"
+      ],
+      "tags": [
+        "popular",
+        "nordeste",
+        "gostoso",
+        "fácil"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/mandioca_ao_alho.webp\" alt=\"Mandioca ao alho\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque a mandioca em uma panela de pressão, cubra com água e sal e cozinhe por 25 minutos, em fogo baixo depois de iniciada a pressão.</li>\n<li>Desligue, deixe sair a pressão e abra a panela.</li>\n<li>Retire a mandioca com uma escumadeira e transfira para uma travessa.</li>\n<li>Aqueça uma frigideira com metade do azeite, em fogo médio e frite o alho até dourar.</li>\n<li>Polvilhe sobre a mandioca, tempere com sal a gosto, regue com o azeite restante e sirva em seguida.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfrul6pc000uewhibk2a3b6r",
+      "title": "Kafta",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/Kafta/",
+      "image": "https://pablopgalvao.github.io/receitas/images/kafta.png",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/kafta.png"
+      ],
+      "videos": [],
+      "slug": "receitas/Kafta",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "500 gramas de carne moída",
+        "1 colher de sopa de salsinha picada",
+        "1 colher de sopa de hortelã picado",
+        "1 colher de sopa de cebola picada",
+        "1 colher de chá de alho picado",
+        "1 colher de chá de pimenta síria",
+        "2 colheres de chá de sal",
+        "1 colher de sopa de azeite",
+        "Palitos de churrasco"
+      ],
+      "difficulty": "Fácil",
+      "time": "90 min",
+      "servings": "4 a 6 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Lanches e petiscos"
+      ],
+      "tags": [
+        "churrasco",
+        "carnes"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/kafta.png\" alt=\"Kafta\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Coloque tudo em uma tigela e misture com as mãos até atingir uma massa uniforme;</li>\n<li>Cubra a tigela com plástico filme, leve-a à geladeira e deixe a massa descansar por meia hora;</li>\n<li>Molde a massa, espete os palitos de churrasco e leve para o congelador por mais 30 minutos;</li>\n<li>Asse as kaftas em uma grelha ou em uma frigideira;</li>\n<li>Vire-as, espere chegar ao ponto que te agrada (mais ou menos passada) e sirva na sequência;</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfrul6pi000wewhigndy9mno",
       "title": "Marido Gelado",
       "url": "https://pablopgalvao.github.io/receitas/19/09/2025/receitas/marido-gelado--1758317137516/",
       "image": "https://pablopgalvao.github.io/receitas/images/marido-gelado--1758317137516.png",
@@ -224,7 +471,7 @@
       "content": "<p><img src=\"/receitas/images/marido-gelado--1758317137516.png\" alt=\"MARIDO GELADO \"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ul>\n<li>No liquidificador, misture 1 leite condensado, 2 cremes de leite, 3 colheres de sopa de leite em pó e 250 ml de suco de maracujá;</li>\n<li>Bata tudo muito bem por cerca de 3 minutos e transfira para uma travessa, reservando;</li>\n<li>Derreta 250g de chocolate no micro-ondas em intervalos de 30 segundos;</li>\n<li>Misture com uma caixinha de creme de leite e despeje por cima da mousse de maracujá. Reserve novamente;</li>\n<li>No liquidificador, combine 1 leite condensado, 2 cremes de leite, 3 colheres de sopa de leite em pó e 200 ml de suco de limão;</li>\n<li>No liquidificador, combine 1 leite condensado, 2 cremes de leite, 3 colheres de sopa de leite em pó e 200 ml de suco de limão;</li>\n<li>Bata por alguns minutos e transfira para a travessa;</li>\n<li>Reserve um pouco da ganache de chocolate para finalizar com arabescos e raspas de limão;</li>\n<li>Leve à geladeira por pelo menos 4 horas.</li>\n</ul>\n"
     },
     {
-      "id": "cmfrtyyg9000ezwhi1zrh6rsc",
+      "id": "cmfrul6q3002vewhi56h03rvg",
       "title": "Molho vinagrete para churrasco",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/molho_vinagrete_para_churrasco/",
       "image": "https://pablopgalvao.github.io/receitas/images/molho_vinagrete_para_churrasco.webp",
@@ -255,46 +502,12 @@
       ],
       "tags": [
         "popular",
-        "molho",
+        "fim de semana",
         "fácil",
-        "fim de semana"
+        "molho"
       ],
       "excerpt": "",
       "content": "<p><img src=\"/receitas/images/molho_vinagrete_para_churrasco.webp\" alt=\"Molho vinagrete para churrasco\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma tigela, misture bem todos os ingredientes e deixe descansar por 30 minutos antes de servir.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfrtyygc000hzwhib1en0tw4",
-      "title": "Espeto 3 sabores para um churrasco completo",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/espeto_3_sabores_para_um_churrasco_completo/",
-      "image": "https://pablopgalvao.github.io/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp",
-      "images": [
-        "https://pablopgalvao.github.io/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp"
-      ],
-      "videos": [],
-      "slug": "receitas/espeto_3_sabores_para_um_churrasco_completo",
-      "date": "2025-09-20T03:00:00.000Z",
-      "ingredients": [
-        "1kg de alcatra em cubos",
-        "1kg de peito de frango sem osso e sem pele, cortado em cubos",
-        "500g de linguiça toscana fresca em cubos",
-        "4 dentes de alho picados",
-        "1 cebola picada",
-        "Sal e pimenta-do-reino a gosto"
-      ],
-      "difficulty": "Fácil",
-      "time": "1 hora e 30 minutos",
-      "servings": "15 Porções",
-      "calories": "",
-      "author": "Boil",
-      "categories": [
-        "Pratos principais / Carnes"
-      ],
-      "tags": [
-        "churrasco",
-        "fim de semana"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp\" alt=\"Espeto 3 sabores para um churrasco completo\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma tigela, tempere a carne, o frango e a linguiça com o alho, a cebola, o sal e a pimenta.</li>\n<li>Deixe reservado para pegar o tempero por 15 minutos.</li>\n<li>No palito de churrasco, intercale 1 cubo de carne, 1 de frango e 1 de linguiça.</li>\n<li>Asse em uma grelha de churrasqueira por 15 minutos, virando de vez em quando, ou até ficar dourado.</li>\n<li>Se desejar sirva acompanhado de salada de macarrão.</li>\n</ol>\n"
     }
   ]
 }

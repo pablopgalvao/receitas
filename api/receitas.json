@@ -2,8 +2,8 @@
   "count": 1,
   "receitas": [
     {
-      "id": "cmfrk1c720004pohicd0sggzv",
-      "title": "MARIDO GELADO",
+      "id": "cmfrk833l0004vchickl29yap",
+      "title": "Marido Gelado",
       "url": "https://pablopgalvao.github.io/receitas/19/09/2025/receitas/marido-gelado--1758317137516/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2FCaptura%20de%20tela%202025-09-19%20214436.png?alt=media&token=4eb165dc-4c2f-4945-bc77-3e049a2f4f9b",
       "images": [
@@ -21,10 +21,10 @@
         "200 ml de suco de limão"
       ],
       "difficulty": "Médio",
-      "time": "",
-      "servings": "",
-      "calories": "",
-      "author": "",
+      "time": "40 min",
+      "servings": "10 Porções",
+      "calories": "Todas",
+      "author": "Luciana Pereira",
       "categories": [
         "Sobremesas"
       ],

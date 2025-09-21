@@ -4,6 +4,7 @@ categories:
 tags:
   - prato nacional
   - popular
+  - simples
 ingredients:
   - '1,1 kg de costela de porco salgada (1 peça com 12 ripas)'
   - 800 g de carne-seca

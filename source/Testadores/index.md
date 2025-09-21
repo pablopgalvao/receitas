@@ -14,6 +14,9 @@ Se você ainda não entrou no grupo de testadores, clique no [link do convite](h
 > Se não recebeu o convite você pode solicitar a entrada nos enviando a [solicitação](mailto:pablogalvao614.boiltestador@gmail.com).
 > Assunto: Testar App Lar do chef
 
+![Exemplo convite testadores](/images/convite_boil.jpg)
+
+
 
 ![Exemplo convite testadores](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftestadores%2Ftestador-boil-0-CORTADO.png?alt=media&token=ae14a45e-17df-4c1a-8667-956e478981f2)
 

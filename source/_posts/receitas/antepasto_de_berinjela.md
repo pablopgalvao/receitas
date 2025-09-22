@@ -28,6 +28,6 @@ date: 2025-09-20
 4. Regue com o azeite, o vinagre e tempere com sal e orégano;
 5. Cubra a forma com papel-alumínio e leve ao forno preaquecido a 150 °C por cerca de 15 minutos;
 6. Retire o papel-alumínio, acrescente as azeitonas, misture levemente, cubra novamente e volte ao forno por mais 1 hora e 30 minutos, ou até a berinjela escurecer e secar;
-7. Deixe esfriar e reserve na geladeira.  
-   👉 Dica: quanto mais tempo você deixar marinando na geladeira, mais saboroso fica;
-8. Sirva frio, acompanhado de pães ou torradas.
+7. Deixe esfriar e reserve na geladeira.
+8. Dica: quanto mais tempo você deixar marinando na geladeira, mais saboroso fica;
+9. Sirva frio, acompanhado de pães ou torradas.

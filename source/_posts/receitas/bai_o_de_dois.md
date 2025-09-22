@@ -37,6 +37,6 @@ date: 2025-09-22
 8. Adicione 2 xícaras de chá da água do cozimento do feijão e da carne-seca na panela do arroz. Coloque a folha de louro, misture e deixe cozinhar até diminuir a quantidade de água. Abaixe o fogo, tampe parcialmente a panela e cozinhe até o arroz absorver toda a água;
 9. Para o refogado, pique a cebola em cubinhos pequenos e o alho bem fininho. Corte o queijo de coalho em cubos de aproximadamente 1 cm (não corte mais fino que isso, pois ele diminui no fogo);
 10. Em uma frigideira antiaderente grande, em fogo médio, adicione a manteiga de garrafa e doure os cubinhos de queijo por cerca de 2 minutos, mexendo para dourar por igual. Cuidado para não despedaçar os cubinhos. Reserve;
-11. Na mesma frigideira, acrescente o bacon e deixe dourar por 2 minutos. Adicione a cebola, o alho e refogue bem. Junte a carne-seca desfiada e mexa por mais 2 minutos - se necessário, coloque mais manteiga. Despeje 1/2 xícara de chá da água reservada do cozimento;
+11. Na mesma frigideira, acrescente o bacon e deixe dourar por 2 minutos. Adicione a cebola, o alho e refogue bem. Junte a carne-seca desfiada e mexa por mais 2 minutos - se necessário, coloque mais manteiga. Despeje meia xícara de chá da água reservada do cozimento;
 12. Despeje o feijão-fradinho, o arroz já preparado e misture bem. Ajuste o sal e a pimenta;
 13. Adicione os cubinhos de queijo dourados, cebolinha e folhas de coentro. Misture para incorporar. Sirva quentinho.

@@ -4,7 +4,6 @@ categories:
 tags:
   - churrasco
   - carnes
-  - 
 ingredients:
   - 500 gramas de carne moída
   - 1 colher de sopa de salsinha picada

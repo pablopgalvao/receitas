@@ -17,7 +17,7 @@ ingredients:
   - 2 maços de jambu
 difficulty: fácil
 time: 1 hora 
-servings: 5 porções 
+servings: 5 porções
 calories: 
 author: Boil
 date: 2025-09-20

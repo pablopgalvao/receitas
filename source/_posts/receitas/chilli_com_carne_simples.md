@@ -6,7 +6,7 @@ tags:
 ingredients:
   - 2 colheres de sopa de azeite
   - 500 gramas de carne moída
-  - Sal a gosto
+  - sal a gosto
   - 2 tomates grandes picados
   - 1 colher de chá de cominho
   - 1 colher de chá de páprica doce

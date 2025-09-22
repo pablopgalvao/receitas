@@ -9,9 +9,11 @@ ingredients:
   - 1/2 xícara de chá de vinagre
   - 1 colher de sopa de aceto balsâmico
   - 1/2 xícara de chá de azeitonas sem caroço picadas
-  - 1 colher de sopa (não muito cheia) de sal
+  - 1 colher de sopa de sal
   - 2 colheres de sopa de alho espremido
-  - Pimenta-do-reino, chimichurri e orégano a gosto
+  - pimenta-do-reino,
+  - chimichurri
+  - orégano a gosto
 difficulty: fácil
 time: 120 minutos
 servings: 10 porções

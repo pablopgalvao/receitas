@@ -9,14 +9,14 @@ ingredients:
   - 1 xícara de chá de arroz (200 gramas)
   - 1/2 cebola picada fina (90 gramas)
   - 1 colher de sopa de azeite (ou óleo)
-  - 1/2 colher de chá de sal
   - 200 gramas de queijo de coalho em peça
   - 70 gramas de bacon em cubos
   - 1 cebola-roxa (100 gramas)
   - 2 colheres de sopa de manteiga de garrafa
   - 3 talos de cebolinha fatiada (30 gramas)
   - Coentro picado a gosto
-  - Sal e pimenta-do-reino moída na hora a gosto
+  - sal a gosto
+  - pimenta-do-reino moída a gosto
 difficulty: médio
 time:
 servings: 

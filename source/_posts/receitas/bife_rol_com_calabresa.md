@@ -13,7 +13,8 @@ ingredients:
   - 2 dentes de alho picados
   - 2 xícaras de chá de molho de tomate
   - 2 xícaras de chá de água ou caldo de legumes ou de carne
-  - Sal e pimenta-do-reino a gosto
+  - sal a gosto
+  - pimenta-do-reino a gosto
   - Salada verde, arroz branco, feijão e farofa para acompanhar
 difficulty: médio
 time: 

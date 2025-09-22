@@ -9,7 +9,7 @@ ingredients:
   - 200 g de bacon fatiado
   - 1 tomate grande bem maduro
   - Pimenta calabresa
-  - Sal
+  - sal a gosto
   - 500 g de carne seca
   - 200 g de calabresa
   - 1 cebola grande

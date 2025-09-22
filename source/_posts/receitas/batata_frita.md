@@ -5,7 +5,8 @@ tags:
   - receitas populares
 ingredients:
   - 2 a 3 batatas-asterix grandes
-  - Sal e pimenta-do-reino a gosto
+  - sal a gosto 
+  - pimenta-do-reino a gosto
 difficulty: difícil
 time:
 servings: 30 porções

@@ -10,7 +10,8 @@ ingredients:
   - 1 lata de milho em conserva (170 gramas)
   - 130 gramas de molho de tomate
   - 2 latas de sardinha (75 gramas cada)
-  - Sal e pimenta-do-reino a gosto
+  - sal a gosto
+  - pimenta-do-reino a gosto
   - 1 colher de chá de páprica doce
   - 1 colher de chá de orégano
   - 200 ml de água

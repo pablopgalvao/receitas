@@ -1,8 +1,8 @@
 {
-  "count": 20,
+  "count": 21,
   "receitas": [
     {
-      "id": "cmfvg84hf000hn0hi198s2lkd",
+      "id": "cmfvgwoah000grwhi5zvb9dmx",
       "title": "Feijoada",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/Feijoada_da_Veveta/",
       "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_da_Veveta.jpg",
@@ -43,7 +43,79 @@
       "content": "<p><img src=\"/receitas/images/Feijoada_da_Veveta.jpg\" alt=\"Feijoada\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Iniciar dessalgando o pé, o rabo e a costela suína com 12h de antecedência. Em uma bacia colocar os cortes e cobrir com água corrente, trocar a água a cada 3 horas, mantendo sempre dentro da geladeira. Quando passar esse tempo, levar as carnes para cozinhar em água fervente por 30 minutos.</li>\n<li>Deixar o feijão de molho em água por 1 hora antes do preparo.</li>\n<li>Cortar o lombo e o bacon em cubos grandes, a calabresa e o paio em rodelas e reservar.</li>\n<li>Aquecer uma panela de pressão, com capacidade para cozinhar a feijoada, acrescentar a banha e a cebola cortada em cubos, refogar e acrescentar o alho e as folhas de louro em seguida.</li>\n<li>Acrescentar o feijão escorrido, as carnes desalgadas, o paio e a calabresa, refogar rapidamente e cobrir com 7 litros de água. Tampar a panela e deixar cozinhar por 50 minutos depois que a panela pegar pressão.</li>\n<li>Abrir a panela passado os 50 minutos, conferir se o feijão e as carnes estão completamente cozidos. Caso necessário, volte para o fogo e finalize. Corrija o sal, se necessário.</li>\n<li>Sirva a feijoada acompanhada de arroz, farofa, couve refogada e torresmo.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hh000ln0hif383gplz",
+      "id": "cmfvgwoak000krwhifq1medpd",
+      "title": "Antepasto de berinjela",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/Antepasto de berinjela/",
+      "image": "https://pablopgalvao.github.io/receitas/image/antepasto-de-berinjela.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/image/antepasto-de-berinjela.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/Antepasto de berinjela",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "3 berinjelas grandes cortadas em tiras",
+        "1 xícara de azeite",
+        "1/2 xícara de vinagre",
+        "1 colher de sopa de aceto balsâmico",
+        "1/2 xícara de chá de azeitonas sem caroço picadas",
+        "1 colher de sopa (não muito cheia) de sal",
+        "2 colheres de sopa de alho espremido",
+        "Pimenta do reino, chimichurri, orégano a gosto",
+        null
+      ],
+      "difficulty": "fácil",
+      "time": "120 minutos",
+      "servings": "10 porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Variados"
+      ],
+      "tags": [
+        "Popular Brasil"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/image/antepasto-de-berinjela.jpg\" alt=\"Antepasto de berinjela\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes</li>\n<li>Em uma assadeira, faça uma camada com as berinjelas em tiras</li>\n<li>Por cima, adicione uma camada com os pimentões e finalize com uma de cebola</li>\n<li>Regue com o azeite, o vinagre e tempere com sal e o orégano</li>\n<li>Cubra a forma com papel alumínio e leve ao forno preaquecido a 150 °C por cerca de 15 minutos</li>\n<li>Retire o papel alumínio, acrescente as azeitonas, misture levemente, cubra novamente com o papel alumínio e<br>volte ao forno por mais 1 hora e 30 minutos, ou até a berinjela escurecer e secar<br>Deixe esfriar e reserve na geladeira. DICA: quanto mais tempo você deixar marinando na geladeira, melhor fica.<br>Agora é só servir.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfvgwoak000lrwhi7q5x8xco",
+      "title": "Arroz carreteiro simples",
+      "url": "https://pablopgalvao.github.io/receitas/22/09/2025/receitas/arroz_carreteiro_simples/",
+      "image": "https://pablopgalvao.github.io/receitas/images/arroz_carreteiro_simples.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/arroz_carreteiro_simples.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/arroz_carreteiro_simples",
+      "date": "2025-09-22T03:00:00.000Z",
+      "ingredients": [
+        "3 copos de arroz",
+        "200 g de bacon fatiado",
+        "1 tomate grande bem maduro",
+        "Pimenta calabresa",
+        "Sal",
+        "500 g de carne seca",
+        "200 g de calabresa",
+        "1 cebola grande",
+        "Salsa"
+      ],
+      "difficulty": "fácil",
+      "time": "1 hora",
+      "servings": "6 porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Pratos principais / Carnes"
+      ],
+      "tags": [
+        "Popular Brasil"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/arroz_carreteiro_simples.jpg\" alt=\"Acarajé\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Cozinhe a carne seca em panela de pressão, retire, espera esfriar e desfie.</li>\n<li>Reserve.</li>\n<li>Retire a pele da calabresa e corte em cubos juntamente com o bacon.</li>\n<li>Corte o tomate em cubos pequenos sem as sementes bem como a cebola.</li>\n<li>Reserve.</li>\n<li>Refogue o bacon e a calabresa até ficar bem dourada, acrescentando depois a cebola, tomate, pimenta calabresa e a carne desfiada.</li>\n<li>Após acrescente o arroz, afogue bem, adicione a água corrigindo o sal se necessário e abaixe o fogo aguardando secar.</li>\n<li>Quando pronto, colocar a salsa em cima.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfvgwoal000mrwhi1gbx992a",
       "title": "Acarajé",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/acarajé-1758398276182/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Facaraj%C3%A9-1758398270166.jpg?alt=media&token=5a32ba9c-ff9e-4d8b-b262-94e442d79298",
@@ -72,15 +144,15 @@
         "Lanches e petiscos"
       ],
       "tags": [
+        "Popular Brasil",
         "Nordeste",
-        "Popular",
-        "Popular Brasil"
+        "Popular"
       ],
       "excerpt": "",
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Facaraj%C3%A9-1758398270166.jpg?alt=media&token=5a32ba9c-ff9e-4d8b-b262-94e442d79298\" alt=\"Acarajé\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque os feijões inteiros num processador de alimentos e bata por alguns segundos para quebrar os grãos.</li>\n<li>Cuidado para não esmigalhar.</li>\n<li>Coloque os feijões num recipiente e cubra com água.</li>\n<li>Deixe de molho por no mínimo 12 horas.</li>\n<li>Agite os feijões com uma colher e com uma peneirinha vá retirando todas as cascas que se desprendem dos feijões.</li>\n<li>Depois de retirar bastante as cascas, lave os feijões sob a água corrente e continue retirando ?o olhinho? e o restante das cascas.</li>\n<li>Retire o máximo possível.</li>\n<li>Reserve</li>\n<li>Num processador, coloque os feijões e as cebolas.</li>\n<li>Bata por 3 minutos, ou até obter uma pasta lisa e uniforme.</li>\n<li>Retire toda a pasta do processador e coloque dentro de uma panela grande e funda.</li>\n<li>Com uma colher de pau, bata a massa do acarajé até que a massa triplique de volume.</li>\n<li>Esse processo é bastante demorado mas é importantíssimo para a fermentação.</li>\n<li>Coloque o óleo, o azeite de dendê, e a cebola com casca numa panela média e leve ao fogo alto para esquentar.</li>\n<li>Com duas colheres de sopa, modele os acarajés: encha uma das colheres com a massa, passe de uma colher para a outra até que a massa fique com formato de bolinho.</li>\n<li>Coloque os bolinhos no óleo bem quente e frite por 3 minutos de um lado.</li>\n<li>Com uma escumadeira, vire os bolinhos e deixe fritar até que fiquem dourados.</li>\n<li>Regule a temperatura do óleo.</li>\n<li>Se for necessário, abaixe a chama do fogo para que o óleo não queime.</li>\n<li>Retire os bolinhos com uma escumadeira e coloque sobre papel absorvente.</li>\n<li>Corte os bolinhos ao meio e recheie com vatapá.</li>\n<li>Coloque o camarão seco dentro do acarajé e feche.</li>\n<li>Sirva a seguir.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hi000mn0hidub17xdd",
+      "id": "cmfvgwoam000prwhi2le9dp8h",
       "title": "Kafta",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/Kafta/",
       "image": "https://pablopgalvao.github.io/receitas/images/kafta.png",
@@ -117,43 +189,7 @@
       "content": "<p><img src=\"/receitas/images/kafta.png\" alt=\"Kafta\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Coloque tudo em uma tigela e misture com as mãos até atingir uma massa uniforme;</li>\n<li>Cubra a tigela com plástico filme, leve-a à geladeira e deixe a massa descansar por meia hora;</li>\n<li>Molde a massa, espete os palitos de churrasco e leve para o congelador por mais 30 minutos;</li>\n<li>Asse as kaftas em uma grelha ou em uma frigideira;</li>\n<li>Vire-as, espere chegar ao ponto que te agrada (mais ou menos passada) e sirva na sequência;</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hj000nn0hi6s21bscj",
-      "title": "Arroz carreteiro simples",
-      "url": "https://pablopgalvao.github.io/receitas/22/09/2025/receitas/arroz_carreteiro_simples/",
-      "image": "https://pablopgalvao.github.io/receitas/images/arroz_carreteiro_simples.jpg",
-      "images": [
-        "https://pablopgalvao.github.io/receitas/images/arroz_carreteiro_simples.jpg"
-      ],
-      "videos": [],
-      "slug": "receitas/arroz_carreteiro_simples",
-      "date": "2025-09-22T03:00:00.000Z",
-      "ingredients": [
-        "3 copos de arroz",
-        "200 g de bacon fatiado",
-        "1 tomate grande bem maduro",
-        "Pimenta calabresa",
-        "Sal",
-        "500 g de carne seca",
-        "200 g de calabresa",
-        "1 cebola grande",
-        "Salsa"
-      ],
-      "difficulty": "fácil",
-      "time": "1 hora",
-      "servings": "6 porções",
-      "calories": "",
-      "author": "Boil",
-      "categories": [
-        "Pratos principais / Carnes"
-      ],
-      "tags": [
-        "Popular Brasil"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/arroz_carreteiro_simples.jpg\" alt=\"Acarajé\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Cozinhe a carne seca em panela de pressão, retire, espera esfriar e desfie.</li>\n<li>Reserve.</li>\n<li>Retire a pele da calabresa e corte em cubos juntamente com o bacon.</li>\n<li>Corte o tomate em cubos pequenos sem as sementes bem como a cebola.</li>\n<li>Reserve.</li>\n<li>Refogue o bacon e a calabresa até ficar bem dourada, acrescentando depois a cebola, tomate, pimenta calabresa e a carne desfiada.</li>\n<li>Após acrescente o arroz, afogue bem, adicione a água corrigindo o sal se necessário e abaixe o fogo aguardando secar.</li>\n<li>Quando pronto, colocar a salsa em cima.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfvg84hk000qn0hiasgv52q8",
+      "id": "cmfvgwoam000qrwhigv9q9eza",
       "title": "Espeto 3 sabores para um churrasco completo",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/espeto_3_sabores_para_um_churrasco_completo/",
       "image": "https://pablopgalvao.github.io/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp",
@@ -187,7 +223,7 @@
       "content": "<p><img src=\"/receitas/images/espeto_3_sabores_para_um_churrasco_completo.webp\" alt=\"Espeto 3 sabores para um churrasco completo\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma tigela, tempere a carne, o frango e a linguiça com o alho, a cebola, o sal e a pimenta.</li>\n<li>Deixe reservado para pegar o tempero por 15 minutos.</li>\n<li>No palito de churrasco, intercale 1 cubo de carne, 1 de frango e 1 de linguiça.</li>\n<li>Asse em uma grelha de churrasqueira por 15 minutos, virando de vez em quando, ou até ficar dourado.</li>\n<li>Se desejar sirva acompanhado de salada de macarrão.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hk000rn0hidjuzc3se",
+      "id": "cmfvgwoan000urwhiarsk0rx8",
       "title": "Farofa de churrasco",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/farofa_de_churrasco/",
       "image": "https://pablopgalvao.github.io/receitas/images/farofa_de_churrasco.webp",
@@ -225,7 +261,7 @@
       "content": "<p><img src=\"/receitas/images/farofa_de_churrasco.webp\" alt=\"Farofa de churrasco\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.</li>\n<li>Adicione o milho, a ervilha, a pimenta e refogue por 2 minutos.</li>\n<li>Acrescente a farinha, sal, misture e desligue o fogo. Sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hm000vn0hieia8a2jr",
+      "id": "cmfvgwoao000wrwhi4b68f8bs",
       "title": "Feijoada",
       "url": "https://pablopgalvao.github.io/receitas/22/09/2025/receitas/feijoada/",
       "image": "https://pablopgalvao.github.io/receitas/images/feijoada.jpg",
@@ -270,7 +306,7 @@
       "content": "<p><img src=\"/receitas/images/feijoada.jpg\" alt=\"Feijoada\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque as carnes de molho por 36 horas ou mais, vá trocando a água várias vezes, se for ambiente quente ou verão, coloque gelo por cima ou em camadas frias.</li>\n<li>Coloque para cozinhar passo a passo: as carnes duras, em seguida as carnes moles.</li>\n<li>Quando estiver mole coloque o feijão, e retire as carnes.</li>\n<li>Finalmente tempere o feijão.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hn000xn0hi9u8g5al7",
+      "id": "cmfvgwoaq0010rwhi8t690fbw",
       "title": "Feijoada completa",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/feijoada_completa/",
       "image": "https://pablopgalvao.github.io/receitas/images/Feijoada_completa.jpeg",
@@ -314,44 +350,7 @@
       "content": "<p><img src=\"/receitas/images/Feijoada_completa.jpeg\" alt=\"Feijoada completa\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Corte as carnes e embutidos em pedaços pequenos.</li>\n<li>Separe o feijão e coloque-os em água, para descartar os que estão podres.</li>\n<li>Corte a cebola e o alho em pedaços pequenos.</li>\n<li>Em uma panela de pressão, refogue a cebola e o alho no azeite.</li>\n<li>Após refogados, sele as carnes e os embutidos.</li>\n<li>Na mesma panela, coloque o feijão, o pé, o rabo e a orelha.</li>\n<li>Deixe ferver até que esteja pronto.</li>\n<li>Reserve.</li>\n<li>Sirva acompanhado de couve manteiga, arroz, laranja e bisteca.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84ho0011n0hi8hmxfijc",
-      "title": "Maionese prática de batata",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/maionese_pratica_de_batata/",
-      "image": "https://pablopgalvao.github.io/receitas/images/maionese_pratica_de_batata.webp",
-      "images": [
-        "https://pablopgalvao.github.io/receitas/images/maionese_pratica_de_batata.webp"
-      ],
-      "videos": [],
-      "slug": "receitas/maionese_pratica_de_batata",
-      "date": "2025-09-20T03:00:00.000Z",
-      "ingredients": [
-        "5 batatas em cubos",
-        "1 cenoura ralada",
-        "100g de azeitona verde picada",
-        "1/2 xícara (chá) de cheiro-verde picado",
-        "1 xícara (chá) de maionese",
-        "Sal a gosto",
-        "Salsa para decorar"
-      ],
-      "difficulty": "Fácil",
-      "time": "20 minutos (+1h de geladeira)",
-      "servings": "4 Porções",
-      "calories": "",
-      "author": "Boil",
-      "categories": [
-        "Receitas light / saudáveis"
-      ],
-      "tags": [
-        "popular",
-        "churrasco",
-        "brasil",
-        "batata"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/maionese_pratica_de_batata.webp\" alt=\"Maionese prática de batata\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Cozinhe a batata em água fervente até ficar macia. Escorra e deixe esfriar.</li>\n<li>Misture com a cenoura ralada, a azeitona, o cheiro-verde, a maionese e sal.</li>\n<li>Espalhe em uma travessa, decore com salsa e leve à geladeira por 1 hora. Sirva.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfvg84hp0013n0hi9jhm5get",
+      "id": "cmfvgwoar0012rwhi7oxhewyx",
       "title": "Feijoada Simples",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/feijoada_simples/",
       "image": "https://pablopgalvao.github.io/receitas/images/feijoada_simples.webp",
@@ -390,41 +389,44 @@
       "content": "<p><img src=\"/receitas/images/feijoada_simples.webp\" alt=\"Feijoada Simples\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque o feijão numa peneira e lave bem sob água corrente. Transfira os grãos para uma tigela grande e cubra com 2,5 litros de água – se algum boiar, descarte. Cubra com um prato e deixe de molho por 30 minutos – se o feijão ficar muito tempo de molho pode perder a cor e desmanchar durante o longo cozimento da feijoada. Enquanto isso, faça o pré-cozimento das carnes.</li>\n<li>Escorra a água das carnes dessalgadas e transfira para um caldeirão grande (ou panela) com capacidade para 11 litros. Cubra as carnes com água e leve ao fogo alto – cerca de 4 litros bastam, a quantidade pode variar de acordo com o tamanho da panela, o importante é que as carnes devem ficar completamente imersas. Deixe cozinhar por 10 minutos em fogo alto, contados após a fervura – o pré-cozimento elimina o excesso de gordura e sal das carnes.</li>\n<li>Enquanto isso, descasque e pique fino as cebolas e os dentes de alho. Com uma faca pequena, retire a pele dos paios. Escorra a água do feijão.</li>\n<li>Passados os 10 minutos, com uma escumadeira, transfira as carnes pré-cozidas para uma tigela grande e descarte a água do cozimento, com cuidado para não se queimar.</li>\n<li>Volte o caldeirão ao fogo alto. Quando aquecer, regue com o azeite, adicione a cebola e tempere com uma pitada de sal. Refogue por cerca de 8 minutos até começar a dourar. Junte o alho, o cominho, as folhas de louro e mexa por 1 minuto para perfumar.</li>\n<li>Acrescente o feijão demolhado ao refogado e misture bem. Adicione 6 litros de água e mantenha a panela em fogo alto. Assim que começar a ferver, junte a carne-seca e a costelinha pré-cozidas, abaixe o fogo e deixe cozinhar por 2 horas, mexendo de vez em quando.</li>\n<li>Após as primeiras 2 horas de cozimento, junte o lombo pré-cozido e os paios inteiros. Deixe cozinhar em fogo baixo por mais 3 horas, mexendo de vez em quando delicadamente para não desmanchar os grãos de feijão.</li>\n<li>Faltando 30 minutos para o fim do cozimento, com uma pinça, transfira os paios para a tábua e corte cada um em fatias de 1 cm, na diagonal. Volte as fatias para a panela e deixe cozinhar até completar as 5 horas de cozimento total, ou até que as carnes estejam bem macias e o caldo da feijoada comece a engrossar. Sirva com arroz, couve refogada, gomos de laranja e farinha de mandioca torrada.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hq0017n0hi4u9jfrfx",
-      "title": "Mandioca ao alho",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/mandioca_ao_alho/",
-      "image": "https://pablopgalvao.github.io/receitas/images/mandioca_ao_alho.webp",
+      "id": "cmfvgwoas0016rwhi17tzgi7a",
+      "title": "Maionese prática de batata",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/maionese_pratica_de_batata/",
+      "image": "https://pablopgalvao.github.io/receitas/images/maionese_pratica_de_batata.webp",
       "images": [
-        "https://pablopgalvao.github.io/receitas/images/mandioca_ao_alho.webp"
+        "https://pablopgalvao.github.io/receitas/images/maionese_pratica_de_batata.webp"
       ],
       "videos": [],
-      "slug": "receitas/mandioca_ao_alho",
+      "slug": "receitas/maionese_pratica_de_batata",
       "date": "2025-09-20T03:00:00.000Z",
       "ingredients": [
-        "1kg de mandioca sem casca em pedaços",
+        "5 batatas em cubos",
+        "1 cenoura ralada",
+        "100g de azeitona verde picada",
+        "1/2 xícara (chá) de cheiro-verde picado",
+        "1 xícara (chá) de maionese",
         "Sal a gosto",
-        "4 colheres (sopa) de azeite",
-        "4 dentes de alho fatiados"
+        "Salsa para decorar"
       ],
       "difficulty": "Fácil",
-      "time": "45 minutos",
-      "servings": "8 Porções",
+      "time": "20 minutos (+1h de geladeira)",
+      "servings": "4 Porções",
       "calories": "",
       "author": "Boil",
       "categories": [
-        "Entradas"
+        "Receitas light / saudáveis"
       ],
       "tags": [
         "popular",
-        "nordeste",
-        "gostoso",
-        "fácil"
+        "churrasco",
+        "brasil",
+        "batata"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/mandioca_ao_alho.webp\" alt=\"Mandioca ao alho\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque a mandioca em uma panela de pressão, cubra com água e sal e cozinhe por 25 minutos, em fogo baixo depois de iniciada a pressão.</li>\n<li>Desligue, deixe sair a pressão e abra a panela.</li>\n<li>Retire a mandioca com uma escumadeira e transfira para uma travessa.</li>\n<li>Aqueça uma frigideira com metade do azeite, em fogo médio e frite o alho até dourar.</li>\n<li>Polvilhe sobre a mandioca, tempere com sal a gosto, regue com o azeite restante e sirva em seguida.</li>\n</ol>\n"
+      "content": "<p><img src=\"/receitas/images/maionese_pratica_de_batata.webp\" alt=\"Maionese prática de batata\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Cozinhe a batata em água fervente até ficar macia. Escorra e deixe esfriar.</li>\n<li>Misture com a cenoura ralada, a azeitona, o cheiro-verde, a maionese e sal.</li>\n<li>Espalhe em uma travessa, decore com salsa e leve à geladeira por 1 hora. Sirva.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hq0019n0higsria4wz",
+      "id": "cmfvgwoat0018rwhig1ex8lvf",
       "title": "Marido Gelado",
       "url": "https://pablopgalvao.github.io/receitas/19/09/2025/receitas/marido-gelado--1758317137516/",
       "image": "https://pablopgalvao.github.io/receitas/images/marido-gelado--1758317137516.png",
@@ -458,84 +460,80 @@
       "content": "<p><img src=\"/receitas/images/marido-gelado--1758317137516.png\" alt=\"MARIDO GELADO \"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ul>\n<li>No liquidificador, misture 1 leite condensado, 2 cremes de leite, 3 colheres de sopa de leite em pó e 250 ml de suco de maracujá;</li>\n<li>Bata tudo muito bem por cerca de 3 minutos e transfira para uma travessa, reservando;</li>\n<li>Derreta 250g de chocolate no micro-ondas em intervalos de 30 segundos;</li>\n<li>Misture com uma caixinha de creme de leite e despeje por cima da mousse de maracujá. Reserve novamente;</li>\n<li>No liquidificador, combine 1 leite condensado, 2 cremes de leite, 3 colheres de sopa de leite em pó e 200 ml de suco de limão;</li>\n<li>No liquidificador, combine 1 leite condensado, 2 cremes de leite, 3 colheres de sopa de leite em pó e 200 ml de suco de limão;</li>\n<li>Bata por alguns minutos e transfira para a travessa;</li>\n<li>Reserve um pouco da ganache de chocolate para finalizar com arabescos e raspas de limão;</li>\n<li>Leve à geladeira por pelo menos 4 horas.</li>\n</ul>\n"
     },
     {
-      "id": "cmfvg84hr001bn0hie8jqcq3a",
-      "title": "Molho vinagrete para churrasco",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/molho_vinagrete_para_churrasco/",
-      "image": "https://pablopgalvao.github.io/receitas/images/molho_vinagrete_para_churrasco.webp",
+      "id": "cmfvgwoav001brwhifnqu4cmq",
+      "title": "Mandioca ao alho",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/mandioca_ao_alho/",
+      "image": "https://pablopgalvao.github.io/receitas/images/mandioca_ao_alho.webp",
       "images": [
-        "https://pablopgalvao.github.io/receitas/images/molho_vinagrete_para_churrasco.webp"
+        "https://pablopgalvao.github.io/receitas/images/mandioca_ao_alho.webp"
       ],
       "videos": [],
-      "slug": "receitas/molho_vinagrete_para_churrasco",
+      "slug": "receitas/mandioca_ao_alho",
       "date": "2025-09-20T03:00:00.000Z",
       "ingredients": [
-        "2 cebolas médias picadas",
-        "5 tomates picados",
-        "1 pimentão verde picado",
-        "1/2 xícara (chá) de cheiro-verde picado",
-        "1/2 xícara (chá) de azeitonas verdes picadas",
-        "Sal e pimenta-do-reino a gosto",
-        "1 xícara (chá) de azeite",
-        "1/2 xícara (chá) de vinagre",
-        "1/2 xícara (chá) de água"
+        "1kg de mandioca sem casca em pedaços",
+        "Sal a gosto",
+        "4 colheres (sopa) de azeite",
+        "4 dentes de alho fatiados"
       ],
       "difficulty": "Fácil",
-      "time": "30 minutos",
-      "servings": "10 Porções",
+      "time": "45 minutos",
+      "servings": "8 Porções",
       "calories": "",
       "author": "Boil",
       "categories": [
-        "Molhos e temperos"
+        "Entradas"
       ],
       "tags": [
         "popular",
-        "fim de semana",
-        "fácil",
-        "molho"
+        "nordeste",
+        "gostoso",
+        "fácil"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/molho_vinagrete_para_churrasco.webp\" alt=\"Molho vinagrete para churrasco\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma tigela, misture bem todos os ingredientes e deixe descansar por 30 minutos antes de servir.</li>\n</ol>\n"
+      "content": "<p><img src=\"/receitas/images/mandioca_ao_alho.webp\" alt=\"Mandioca ao alho\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque a mandioca em uma panela de pressão, cubra com água e sal e cozinhe por 25 minutos, em fogo baixo depois de iniciada a pressão.</li>\n<li>Desligue, deixe sair a pressão e abra a panela.</li>\n<li>Retire a mandioca com uma escumadeira e transfira para uma travessa.</li>\n<li>Aqueça uma frigideira com metade do azeite, em fogo médio e frite o alho até dourar.</li>\n<li>Polvilhe sobre a mandioca, tempere com sal a gosto, regue com o azeite restante e sirva em seguida.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hs001fn0hi5obb30wa",
-      "title": "Envia suas receita pra gente",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/nos_envie_receitas-2/",
-      "image": "https://pablopgalvao.github.io/receitas/images/ingredientes.jpg",
+      "id": "cmfvgwoaw001erwhi88wr0kl1",
+      "title": "Moqueca - Bahia",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/moqueca---bahia-1758394468201/",
+      "image": "https://pablopgalvao.github.io/receitas/images/moqueca_bahia.webp",
       "images": [
-        "https://pablopgalvao.github.io/receitas/images/ingredientes.jpg"
+        "https://pablopgalvao.github.io/receitas/images/moqueca_bahia.webp"
       ],
       "videos": [],
-      "slug": "receitas/nos_envie_receitas-2",
+      "slug": "receitas/moqueca---bahia-1758394468201",
       "date": "2025-09-20T03:00:00.000Z",
       "ingredients": [
-        "Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!"
+        "15 postas de robalo",
+        "5 dentes de alho descascados e picados",
+        "200 g de cebola descascada e cortada em rodelas",
+        "200 g de tomate sem semente e cortado em rodelas",
+        "800 ml de leite de coco",
+        "300 ml de azeite de dendê",
+        "200 g de pimentão vermelho sem sementes e cortado em rodelas",
+        "200 g de pimentão verde sem sementes e cortado rodelas",
+        "Pimenta-de-cheiro picada, coentro e sal a gosto",
+        "150 ml de azeite de oliva"
       ],
-      "difficulty": "Fácil",
-      "time": "2 minutos",
-      "servings": "",
+      "difficulty": "fácil",
+      "time": "35 minutos",
+      "servings": "8 porções",
       "calories": "",
       "author": "Boil",
       "categories": [
-        "Novas receitas"
+        "Peixes e frutos do mar"
       ],
       "tags": [
-        "carne",
-        "carnes",
-        "fácil",
-        "novo",
-        "seu jeito",
-        "frango",
-        "peixe",
-        "médio",
-        "difícil",
-        "dica boa",
-        "do seu jeito"
+        "popular",
+        "nordeste",
+        "bahia"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/ingredientes.jpg\" alt=\"Diversos ingredientes\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Anota a dica!</li>\n<li>Ingredientes: Manda a lista completa do que vai precisar e a quantidade certinha.</li>\n<li>Modo de Preparo: Explique o passo a passo de um jeito claro, pra todo mundo conseguir acompanhar e não errar a mão.</li>\n<li>Dificuldade: Fala se é fácil, médio ou se é um desafio.</li>\n<li>Tempo: Conta pra gente quanto tempo leva do início ao fim.</li>\n<li>Autor: Coloca seu nome ou aquele apelido daora pra receber os créditos.</li>\n<li>Calorias: Se souber, manda a estimativa de calorias por porção.</li>\n<li>Imagens: Manda pra gente umas fotos iradas da sua receita pronta.</li>\n<li>Juntou tudo? Agora é só enviar o e-mail pra gente. Estamos na expectativa para ver sua receita!</li>\n</ol>\n"
+      "content": "<p><img src=\"/receitas/images/moqueca_bahia.webp\" alt=\"Moqueca - Bahia\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em um recipiente, tempere as postas de robalo com sal e alho. Reserve</li>\n<li>Em uma panela, coloque o azeite de oliva e disponha os vegetais e o peixe, alternando as camadas.</li>\n<li>Finalize com o leite de coco e o azeite de dendê.</li>\n<li>Leve ao fogo alto até levantar fervura.</li>\n<li>Reduza o fogo, tampe a panela e cozinhe até que o peixe esteja macio.</li>\n<li>Acrescente a pimenta-de-cheiro e polvilhe com coentro.</li>\n<li>Desligue o fogo e sirva em seguida</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84ht001hn0hiat61g863",
+      "id": "cmfvgwoax001grwhieyhbh3q5",
       "title": "Panqueca de carne moída",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/panqueca_de_carne_moída/",
       "image": "https://pablopgalvao.github.io/receitas/images/panqueca_de_carne_moida.jpg",
@@ -577,7 +575,122 @@
       "content": "<p><img src=\"/receitas/images/panqueca_de_carne_moida.jpg\" alt=\"Panqueca de carne moída\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Bata no liquidificador os ovos, o leite, o óleo, e acrescente a farinha de trigo aos poucos.</li>\n<li>Após acrescentar toda a farinha de trigo, adicione sal a gosto.</li>\n<li>Misture a massa até obter uma consistência cremosa.</li>\n<li>Com um papel-toalha, espalhe óleo por toda a frigideira e despeje uma concha de massa.</li>\n<li>Faça movimentos circulares para que a massa se espalhe por toda a frigideira.</li>\n<li>Espere até a massa soltar do fundo e vire a massa para fritar do outro lado.</li>\n<li>Recheio: Em uma panela, doure a cebola com o óleo e acrescente a carne.</li>\n<li>Deixe cozinhar até que saia água da carne, diminua o fogo e tampe.</li>\n<li>Acrescente o tomate picado e tampe novamente.</li>\n<li>Deixe cozinhar por mais 3 minutos e misture.</li>\n<li>Acrescente o extrato de tomate e temperos a gosto.</li>\n<li>Deixe cozinhar por mais 10 minutos.</li>\n<li>Quando o molho engrossar, desligue o fogo.</li>\n<li>Deixe esfriar o molho, acrescente o creme de leite e misture bem.</li>\n<li>Quando estiver bem homogêneo, leve novamente ao fogo e deixe cozinhar em fogo baixo por mais 5 minutos.</li>\n<li>Montagem: Recheie a panqueca com uma fatia de mussarela, uma porção de carne e enrole.</li>\n<li>Faça esse processo com todas as panquecas.</li>\n<li>Despeje um pouco de caldo no fundo de um refratário, para untar.</li>\n<li>Disponha as panquecas já prontas no refratário e despeje sobre elas o restante do molho.</li>\n<li>Polvilhe queijo ralado sobre as panquecas.</li>\n<li>Leve ao forno para gratinar, em fogo médio, por 20 minutos ou até que o queijo esteja derretido.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hv001kn0hic003hsxp",
+      "id": "cmfvgwoay001krwhi765ndklc",
+      "title": "Molho vinagrete para churrasco",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/molho_vinagrete_para_churrasco/",
+      "image": "https://pablopgalvao.github.io/receitas/images/molho_vinagrete_para_churrasco.webp",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/molho_vinagrete_para_churrasco.webp"
+      ],
+      "videos": [],
+      "slug": "receitas/molho_vinagrete_para_churrasco",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "2 cebolas médias picadas",
+        "5 tomates picados",
+        "1 pimentão verde picado",
+        "1/2 xícara (chá) de cheiro-verde picado",
+        "1/2 xícara (chá) de azeitonas verdes picadas",
+        "Sal e pimenta-do-reino a gosto",
+        "1 xícara (chá) de azeite",
+        "1/2 xícara (chá) de vinagre",
+        "1/2 xícara (chá) de água"
+      ],
+      "difficulty": "Fácil",
+      "time": "30 minutos",
+      "servings": "10 Porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Molhos e temperos"
+      ],
+      "tags": [
+        "popular",
+        "fim de semana",
+        "fácil",
+        "molho"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/molho_vinagrete_para_churrasco.webp\" alt=\"Molho vinagrete para churrasco\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma tigela, misture bem todos os ingredientes e deixe descansar por 30 minutos antes de servir.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfvgwoaz001nrwhi08bt2dx5",
+      "title": "Receita de tacacá",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/receita-de-tacacá-1758397532347/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1",
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1"
+      ],
+      "videos": [],
+      "slug": "receitas/receita-de-tacacá-1758397532347",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "4 xícaras (chá) de água",
+        "2 litros de tucupi",
+        "1 colher (chá) de sal",
+        "1/2 xícara (chá) de goma de mandioca",
+        "3 pimentas-de-cheiro",
+        "4 dentes de alho amassados",
+        "500 g de camarão salgado seco",
+        "4 folhas de chicória picadas",
+        "2 maços de jambu"
+      ],
+      "difficulty": "fácil",
+      "time": "1 hora",
+      "servings": "5 porções",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Sopas e caldos"
+      ],
+      "tags": [
+        "Nordeste",
+        "Popular",
+        "Norte"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1\" alt=\"Receita de tacacá\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, adicione o tucupi, o alho, a chicória, o sal e as pimentas e leve ao fogo.</li>\n<li>Quando levantar fervura, abaixe o fogo, tampe a panela e deixe a mistura cozinhar por cerca de meia hora.</li>\n<li>Em outra panela, cozinhe o jambu sem os talos até ficar macio e, então, escorra e reserve</li>\n<li>Para fazer os camarões, lave-os bem e leve ao fogo em uma panela com as xícaras de água.</li>\n<li>Deixe os camarões fervendo por aproximadamente 5 minutos e, em seguida, retire a casca e a cabeça.</li>\n<li>Misture a água dos camarões com a goma de mandioca, leve ao fogo e misture até obter a textura de um mingau.</li>\n<li>Sirva o tacacá da seguinte forma: em um recipiente, coloque uma concha do tucupi temperado, meia concha do mingau, os camarões e algumas folhas de jambu.</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfvgwob0001srwhigu8s8d2y",
+      "title": "Envia suas receita pra gente",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/nos_envie_receitas-2/",
+      "image": "https://pablopgalvao.github.io/receitas/images/ingredientes.jpg",
+      "images": [
+        "https://pablopgalvao.github.io/receitas/images/ingredientes.jpg"
+      ],
+      "videos": [],
+      "slug": "receitas/nos_envie_receitas-2",
+      "date": "2025-09-20T03:00:00.000Z",
+      "ingredients": [
+        "Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!"
+      ],
+      "difficulty": "Fácil",
+      "time": "2 minutos",
+      "servings": "",
+      "calories": "",
+      "author": "Boil",
+      "categories": [
+        "Novas receitas"
+      ],
+      "tags": [
+        "carne",
+        "carnes",
+        "fácil",
+        "novo",
+        "seu jeito",
+        "frango",
+        "peixe",
+        "médio",
+        "difícil",
+        "dica boa",
+        "do seu jeito"
+      ],
+      "excerpt": "",
+      "content": "<p><img src=\"/receitas/images/ingredientes.jpg\" alt=\"Diversos ingredientes\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Anota a dica!</li>\n<li>Ingredientes: Manda a lista completa do que vai precisar e a quantidade certinha.</li>\n<li>Modo de Preparo: Explique o passo a passo de um jeito claro, pra todo mundo conseguir acompanhar e não errar a mão.</li>\n<li>Dificuldade: Fala se é fácil, médio ou se é um desafio.</li>\n<li>Tempo: Conta pra gente quanto tempo leva do início ao fim.</li>\n<li>Autor: Coloca seu nome ou aquele apelido daora pra receber os créditos.</li>\n<li>Calorias: Se souber, manda a estimativa de calorias por porção.</li>\n<li>Imagens: Manda pra gente umas fotos iradas da sua receita pronta.</li>\n<li>Juntou tudo? Agora é só enviar o e-mail pra gente. Estamos na expectativa para ver sua receita!</li>\n</ol>\n"
+    },
+    {
+      "id": "cmfvgwob1001urwhib321653x",
       "title": "Pato no tucupi",
       "url": "https://pablopgalvao.github.io/receitas/22/09/2025/receitas/pato_no_tucupi/",
       "image": "https://pablopgalvao.github.io/receitas/images/pato_no_tucupi.jpg",
@@ -617,81 +730,7 @@
       "content": "<p><img src=\"/receitas/images/pato_no_tucupi.jpg\" alt=\"Pato no tucupi\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Limpe muito bem o pato.</li>\n<li>A seguir, fure-o ligeiramente com um garfo e tempere com alho socado, sal, louro, pimenta do reino, cominho e vinagre.</li>\n<li>Deixe tomar gosto de um dia para o outro.</li>\n<li>Após este tempo, cubra o pato com fatias de bacon, coloque-o numa assadeira, arrume por cima as fatias de cebola e tomate.</li>\n<li>Regue com óleo e leve ao forno moderado, deixando assar até que o pato fique corado e macio.</li>\n<li>Retire, corte-o em pedaços e deixe no próprio molho.</li>\n<li>Limpe o jambu, lave e pique (conserve os talos para dar mais gosto), ferva o tucupi com 2 dentes de alho previamente socados, por mais ou menos 15 minutos.</li>\n<li>Se usar agrião, não se deve ferver.</li>\n<li>Adicione os pedaços do pato no molho e deixe ferver por 20 minutos.</li>\n<li>Na hora de servir, coloque em cada prato 2 colheres de sopa de farinha de mandioca, arrume por cima 1 ou 2 pedaços de pato e despeje bastante molho (bem quente).</li>\n<li>O molho misturado com a farinha formará uma espécie de pirão.</li>\n<li>Molho do tucupi:</li>\n<li>Rale a mandioca, esprema o caldo e coloque para cozinhar com bastante alho.</li>\n<li>Depois de frio engarrafe.</li>\n<li>Uma boa opção para se fazer com tucupi é o famoso tacacá:</li>\n<li>Ferva um litro de tucupi com um galho de jambu e três pimentas malaguetas.</li>\n<li>Faça uma massa bem espessa com meio quilo de polvilho e água.</li>\n<li>Misture meio quilo de camarões secos e sirva com molho de tucupi por cima, quente.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84hw001on0hi5qku3vlv",
-      "title": "Moqueca - Bahia",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/moqueca---bahia-1758394468201/",
-      "image": "https://pablopgalvao.github.io/receitas/images/moqueca_bahia.webp",
-      "images": [
-        "https://pablopgalvao.github.io/receitas/images/moqueca_bahia.webp"
-      ],
-      "videos": [],
-      "slug": "receitas/moqueca---bahia-1758394468201",
-      "date": "2025-09-20T03:00:00.000Z",
-      "ingredients": [
-        "15 postas de robalo",
-        "5 dentes de alho descascados e picados",
-        "200 g de cebola descascada e cortada em rodelas",
-        "200 g de tomate sem semente e cortado em rodelas",
-        "800 ml de leite de coco",
-        "300 ml de azeite de dendê",
-        "200 g de pimentão vermelho sem sementes e cortado em rodelas",
-        "200 g de pimentão verde sem sementes e cortado rodelas",
-        "Pimenta-de-cheiro picada, coentro e sal a gosto",
-        "150 ml de azeite de oliva"
-      ],
-      "difficulty": "fácil",
-      "time": "35 minutos",
-      "servings": "8 porções",
-      "calories": "",
-      "author": "Boil",
-      "categories": [
-        "Peixes e frutos do mar"
-      ],
-      "tags": [
-        "popular",
-        "nordeste",
-        "bahia"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"/receitas/images/moqueca_bahia.webp\" alt=\"Moqueca - Bahia\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em um recipiente, tempere as postas de robalo com sal e alho. Reserve</li>\n<li>Em uma panela, coloque o azeite de oliva e disponha os vegetais e o peixe, alternando as camadas.</li>\n<li>Finalize com o leite de coco e o azeite de dendê.</li>\n<li>Leve ao fogo alto até levantar fervura.</li>\n<li>Reduza o fogo, tampe a panela e cozinhe até que o peixe esteja macio.</li>\n<li>Acrescente a pimenta-de-cheiro e polvilhe com coentro.</li>\n<li>Desligue o fogo e sirva em seguida</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfvg84hx001rn0hi0znr5wke",
-      "title": "Rocambole de carne moída",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/rocambole-de-carne-moída--1758386974462/",
-      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4",
-      "images": [
-        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4"
-      ],
-      "videos": [],
-      "slug": "receitas/rocambole-de-carne-moída--1758386974462",
-      "date": "2025-09-20T03:00:00.000Z",
-      "ingredients": [
-        "1 kg de coxão duro moído",
-        "1/2 xícara (chá) de cebola triturada",
-        "2 dentes de alho amassados",
-        "Sal a gosto",
-        "8 fatias de bacon",
-        "200g de queijo prato fatiado",
-        "1/2 xícara (chá) de azeitona verde picada",
-        "2 colheres (sopa) de maionese"
-      ],
-      "difficulty": "Médio",
-      "time": "40 min",
-      "servings": "5 pessoas",
-      "calories": "",
-      "author": "",
-      "categories": [
-        "Pratos principais / Carnes"
-      ],
-      "tags": [
-        "Carne Moída Recheada"
-      ],
-      "excerpt": "",
-      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4\" alt=\"ROCAMBOLE DE CARNE MOÍDA \"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma folha de papel-manteiga, coloque a carne moída, a cebola, o alho e sal.</li>\n<li>Com os dedos, misture os ingredientes e abra a carne até obter uma camada de 2cm de altura.</li>\n<li>Coloque metade das fatias de bacon, o queijo e a azeitona.</li>\n<li>Enrole a carne formando um rocambole, pincele com a maionese e cubra com o restante das fatias de bacon.</li>\n<li>Leve ao forno médio (180ºC), preaquecido, por 40 minutos ou até dourar.<br>Retire do forno e transfira para um prato.<br>Sirva decorado como desejar.</li>\n<li>Retire do forno e transfira para um prato.<br>Sirva decorado como desejar.</li>\n</ol>\n"
-    },
-    {
-      "id": "cmfvg84ie004vn0hi0ib82rpw",
+      "id": "cmfvgwob2001zrwhi4i8y0b72",
       "title": "Tacacá original do Pará",
       "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/tacacá-original-do-pará-1758396929691/",
       "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftacac%C3%A1-original-do-par%C3%A1-1758396927607.jpg?alt=media&token=526fcea4-67e7-4783-ad46-f1349edca028",
@@ -728,42 +767,39 @@
       "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftacac%C3%A1-original-do-par%C3%A1-1758396927607.jpg?alt=media&token=526fcea4-67e7-4783-ad46-f1349edca028\" alt=\"Tacacá original do Pará\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Coloque o tucupi em uma panela com o alho bem amassado, o sal, a chicória e as pimentas.</li>\n<li>Leve ao fogo</li>\n<li>Quando começar a ferver, abaixe o fogo, tampe a panela e deixe cozinhar por 30 minutos aproximadamente.</li>\n<li>Simultaneamente em outra panela, cozinhe o jambu até ficar tenro.</li>\n<li>Retire do fogo, escorra e reserve.</li>\n<li>Lave bem os camarões e leve-os ao fogo em uma panela com 4 xícaras de água.</li>\n<li>Deixe ferver por aproximadamente 5 minutos.</li>\n<li>Retire a cabeça e a casca.</li>\n<li>Em uma panela, misture o polvilho com a água dos camarões, leve ao fogo e mexa até obter um mingau.</li>\n<li>Sirva em uma cuia com uma concha de tucupi, um pouco do mingau, algumas folhas de jambu e os camarões.</li>\n</ol>\n"
     },
     {
-      "id": "cmfvg84if004wn0hid4gu8vvg",
-      "title": "Receita de tacacá",
-      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/receita-de-tacacá-1758397532347/",
-      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1",
+      "id": "cmfvgwobh0058rwhi62r14y74",
+      "title": "Rocambole de carne moída",
+      "url": "https://pablopgalvao.github.io/receitas/20/09/2025/receitas/rocambole-de-carne-moída--1758386974462/",
+      "image": "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4",
       "images": [
-        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1"
+        "https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4"
       ],
       "videos": [],
-      "slug": "receitas/receita-de-tacacá-1758397532347",
+      "slug": "receitas/rocambole-de-carne-moída--1758386974462",
       "date": "2025-09-20T03:00:00.000Z",
       "ingredients": [
-        "4 xícaras (chá) de água",
-        "2 litros de tucupi",
-        "1 colher (chá) de sal",
-        "1/2 xícara (chá) de goma de mandioca",
-        "3 pimentas-de-cheiro",
-        "4 dentes de alho amassados",
-        "500 g de camarão salgado seco",
-        "4 folhas de chicória picadas",
-        "2 maços de jambu"
+        "1 kg de coxão duro moído",
+        "1/2 xícara (chá) de cebola triturada",
+        "2 dentes de alho amassados",
+        "Sal a gosto",
+        "8 fatias de bacon",
+        "200g de queijo prato fatiado",
+        "1/2 xícara (chá) de azeitona verde picada",
+        "2 colheres (sopa) de maionese"
       ],
-      "difficulty": "fácil",
-      "time": "1 hora",
-      "servings": "5 porções",
+      "difficulty": "Médio",
+      "time": "40 min",
+      "servings": "5 pessoas",
       "calories": "",
-      "author": "Boil",
+      "author": "",
       "categories": [
-        "Sopas e caldos"
+        "Pratos principais / Carnes"
       ],
       "tags": [
-        "Nordeste",
-        "Popular",
-        "Norte"
+        "Carne Moída Recheada"
       ],
       "excerpt": "",
-      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1\" alt=\"Receita de tacacá\"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma panela, adicione o tucupi, o alho, a chicória, o sal e as pimentas e leve ao fogo.</li>\n<li>Quando levantar fervura, abaixe o fogo, tampe a panela e deixe a mistura cozinhar por cerca de meia hora.</li>\n<li>Em outra panela, cozinhe o jambu sem os talos até ficar macio e, então, escorra e reserve</li>\n<li>Para fazer os camarões, lave-os bem e leve ao fogo em uma panela com as xícaras de água.</li>\n<li>Deixe os camarões fervendo por aproximadamente 5 minutos e, em seguida, retire a casca e a cabeça.</li>\n<li>Misture a água dos camarões com a goma de mandioca, leve ao fogo e misture até obter a textura de um mingau.</li>\n<li>Sirva o tacacá da seguinte forma: em um recipiente, coloque uma concha do tucupi temperado, meia concha do mingau, os camarões e algumas folhas de jambu.</li>\n</ol>\n"
+      "content": "<p><img src=\"https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4\" alt=\"ROCAMBOLE DE CARNE MOÍDA \"></p>\n<h2 id=\"Modo-de-Preparo\"><a href=\"#Modo-de-Preparo\" class=\"headerlink\" title=\"Modo de Preparo\"></a>Modo de Preparo</h2><ol>\n<li>Em uma folha de papel-manteiga, coloque a carne moída, a cebola, o alho e sal.</li>\n<li>Com os dedos, misture os ingredientes e abra a carne até obter uma camada de 2cm de altura.</li>\n<li>Coloque metade das fatias de bacon, o queijo e a azeitona.</li>\n<li>Enrole a carne formando um rocambole, pincele com a maionese e cubra com o restante das fatias de bacon.</li>\n<li>Leve ao forno médio (180ºC), preaquecido, por 40 minutos ou até dourar.<br>Retire do forno e transfira para um prato.<br>Sirva decorado como desejar.</li>\n<li>Retire do forno e transfira para um prato.<br>Sirva decorado como desejar.</li>\n</ol>\n"
     }
   ]
 }

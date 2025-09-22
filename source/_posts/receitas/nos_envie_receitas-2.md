@@ -1,4 +1,4 @@
-title: Envia suas receita rra gente
+title: Envia suas receita pra gente
 categories:
   - Novas receitas
 tags:

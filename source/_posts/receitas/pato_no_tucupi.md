@@ -10,7 +10,7 @@ ingredients:
   - 1 folha de louro picado
   - 1 xícara de chá de óleo
   - 1 litro de tucupi
-  - Sal a gosto
+  - sal a gosto
   - 3 cebolas pequenas, cortadas em rodelas
   - 100 g de bacon em fatias
   - 1/3 de xícara de chá de vinagre

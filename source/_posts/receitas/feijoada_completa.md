@@ -9,7 +9,7 @@ tags:
   - porco
   - carne
 ingredients:
-  - 1 kg de feijão preto
+  - 1 kg de feijão preto (carioca)
   - 250 g de carne seca
   - 250 g de lombo suíno
   - 250 g de costelinha suína defumada ou normal

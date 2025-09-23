@@ -9,9 +9,9 @@ tags:
   - porco
   - carne
 ingredients:
-  - 1kg de Feijão preto
-  - 880g de Pertences para Feijoada (Linguiça calabresa, Costela salgada, Carne suína salgada, Pé salgado, Bacon, Pele suína)
-  - 500g de Lombo suíno cortado em cubos grandes
+  - 1kg de feijão preto (carioca)
+  - 880g de Pertences para feijoada (Linguiça calabresa, Costela salgada, Carne suína salgada, Pé salgado, Bacon, Pele suína)
+  - 500g de lombo suíno cortado em cubos grandes
   - 250g de Paio em rodelas
   - 250g de Rabo salgado
   - 300g de Cebola em cubos

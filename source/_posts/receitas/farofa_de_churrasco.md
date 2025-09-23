@@ -14,7 +14,7 @@ ingredients:
   - 1/2 lata de ervilha escorrida
   - 1/2 pimenta vermelha sem sementes picada
   - 3 xícaras (chá) de farinha de milho
-  - Sal a gosto
+  - sal a gosto
 
 difficulty: Fácil
 time: 20 minutos

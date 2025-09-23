@@ -1,15 +1,16 @@
-title: Feijão-tropeiro
+title: Feijão tropeiro
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
-  - 500 gramas de feijão-carioca (ou fradinho) cozido e sem caldo
+  - 500 gramas de feijão preto (carioca)
+  - ou fejão fradinho cozido e sem caldo
   - 200 gramas de bacon
   - 2 colheres de sopa de manteiga
   - 125 gramas de linguiça calabresa
   - 200 gramas de carne de sol (ou outra de sua preferência)
-  - Sal a gosto
+  - sal a gosto
   - 1 xícara de chá de farinha de mandioca
   - 3 ovos cozidos cortados em rodelas
 difficulty: médio

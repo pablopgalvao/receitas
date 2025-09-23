@@ -7,7 +7,7 @@ ingredients:
   - 1 kg de coxão duro moído
   - 1/2 xícara (chá) de cebola triturada
   - 2 dentes de alho amassados
-  - Sal a gosto
+  - sal a gosto
   - 8 fatias de bacon
   - 200g de queijo prato fatiado
   - 1/2 xícara (chá) de azeitona verde picada

@@ -10,7 +10,7 @@ ingredients:
   - 1 colher (chá) de sal
   - 500 g de camarão salgado (seco)
   - 4 folhas de chicória
-  - 4 dentes de alho bem amassados
+  - 4 dentes de alho amassados
   - 3 pimentas-de-cheiro
   - 2 maços de jambu
   - 2 litros de tucupi

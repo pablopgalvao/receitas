@@ -8,7 +8,7 @@ tags:
   - fácil
 ingredients:
   - 1kg de mandioca sem casca em pedaços
-  - Sal a gosto
+  - sal a gosto
   - 4 colheres (sopa) de azeite
   - 4 dentes de alho fatiados
 

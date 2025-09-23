@@ -8,7 +8,7 @@ ingredients:
   - 100 g de queijo picado
   - Orégano a gosto
   - 4 ovos
-  - Sal a gosto
+  - sal a gosto
   - Pimenta a gosto
   - Salsinha picada
   - 1 cebola picada

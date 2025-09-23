@@ -9,7 +9,7 @@ ingredients:
   - '1,1 kg de costela de porco salgada (1 peça com 12 ripas)'
   - 800 g de carne-seca
   - 600 g de lombo de porco salgado
-  - 1 kg de feijão-preto
+  - 1 kg de feijão preto (carioca)
   - 500 g de paio (4 unidades)
   - 3 cebolas
   - 5 dentes de alho

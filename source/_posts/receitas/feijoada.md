@@ -4,7 +4,7 @@ categories:
 tags:
   - Popular Brasil
 ingredients:
-  - 1 Kg de feijão preto
+  - 1 Kg de feijão preto (carioca)
   - 70 g de orelha de porco
   - 70 g de pé de porco
   - 50 g de lombo de porco

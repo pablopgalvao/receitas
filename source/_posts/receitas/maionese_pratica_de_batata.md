@@ -12,7 +12,7 @@ ingredients:
   - 100g de azeitona verde picada
   - 1/2 xícara (chá) de cheiro-verde picado
   - 1 xícara (chá) de maionese
-  - Sal a gosto
+  - sal a gosto
   - Salsa para decorar
 
 difficulty: Fácil

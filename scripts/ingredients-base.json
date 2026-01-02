@@ -1,0 +1,31 @@
+{
+  "canonical": [
+    "carne-seca",
+    "feijão-fradinho",
+    "arroz",
+    "cebola",
+    "azeite",
+    "óleo",
+    "queijo de coalho",
+    "bacon",
+    "cebola-roxa",
+    "manteiga de garrafa",
+    "cebolinha",
+    "coentro",
+    "sal",
+    "pimenta-do-reino",
+    "alho",
+    "chimichurri",
+    "orégano",
+    "tomate"
+  ],
+  "synonyms": {
+    "oleo": "óleo",
+    "oleo vegetal": "óleo",
+    "azeite de oliva": "azeite",
+    "cebola fina": "cebola",
+    "talos de cebolinha": "cebolinha",
+    "pimenta do reino": "pimenta-do-reino",
+    "queijo coalho": "queijo de coalho"
+  }
+}

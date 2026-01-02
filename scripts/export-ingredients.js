@@ -71,4 +71,6 @@ function main() {
   console.log(`Gerado: ${targetCsv} (rows: ${rows.length - 1})`);
 }
 
-main();
+if (require.main === module) {
+  main();
+}

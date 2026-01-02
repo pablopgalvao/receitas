@@ -27,7 +27,7 @@ const postsDir = "./source/_posts/receitas";
    ========================= */
 
 function loadIngredientOverrides() {
-  const p = path.join(__dirname, 'scripts', 'ingredients-overrides.json');
+  const p = path.join(__dirname, 'data', 'ingredients-overrides.json');
   if (!fs.existsSync(p)) return new Map();
 
   try {
@@ -50,7 +50,7 @@ function loadIngredientOverrides() {
 
 const OVERRIDE_MAP = loadIngredientOverrides();
 
-const OVERRIDES_PATH = path.join(__dirname, 'scripts', 'ingredients-overrides.json');
+const OVERRIDES_PATH = path.join(__dirname, 'data', 'ingredients-overrides.json');
 
 function ensureOverridesFile() {
   const dir = path.dirname(OVERRIDES_PATH);
@@ -108,7 +108,7 @@ function saveOverride(normalized, canonical) {
 
 
 function loadIngredientBase() {
-  const basePath = path.join(__dirname, "scripts", "ingredients-base.json");
+  const basePath = path.join(__dirname, 'data', 'ingredients-base.json');
   if (!fs.existsSync(basePath)) return { canonical: [], synonyms: {} };
 
   try {

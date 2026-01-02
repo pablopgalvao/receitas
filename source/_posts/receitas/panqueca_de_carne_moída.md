@@ -1,4 +1,6 @@
+---
 title: Panqueca de carne moída
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Massas e macarronadas
 tags:
@@ -7,6 +9,39 @@ tags:
   - popular
   - brasil
 ingredients:
+  list:
+    - farinha de trigo
+    - ovo
+    - sal
+    - cebola
+    - extrato de tomate
+    - queijo
+    - leite
+    - óleo
+    - carne
+    - tomate
+    - creme de leite
+    - muçarela
+difficulty: Médio
+servings: 10 Porções
+time: 40 minutos
+calories: ''
+author: Boil
+---
+![Panqueca de carne moída](/images/panqueca_de_carne_moida.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Massas e macarronadas
+- **Dificuldade:** Médio
+- **Rendimento:** 10 Porções
+- **Tempo de preparo:** 40 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 e 1/2 xícara (chá) de farinha de trigo
   - 2 ovos
   - sal a gosto
@@ -20,17 +55,10 @@ ingredients:
   - 1 caixa de creme de leite
   - 400 g de muçarela fatiado
 
-
-difficulty: Médio
-time: 40 minutos
-servings: 10 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
-![Panqueca de carne moída](/images/panqueca_de_carne_moida.jpg)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Bata no liquidificador os ovos, o leite, o óleo, e acrescente a farinha de trigo aos poucos.
 2. Após acrescentar toda a farinha de trigo, adicione sal a gosto.
 3. Misture a massa até obter uma consistência cremosa.

@@ -1,22 +1,43 @@
+---
 title: Queijo cottage
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Receitas light / saudáveis
 tags:
   - receitas populares
 ingredients:
-  - 1 litro de leite integral (tipo A)
-  - 1/4 de xícara de chá de suco de limão coado
-  - sal a gosto
+  list:
+    - leite integral
+    - limão
+    - sal
 difficulty: fácil
-time:
 servings: 50 porções
-calories:
-author:
-date: 2025-09-22
+time: ''
+calories: ''
+author: ''
 ---
 ![Queijo cottage](/images/queijo_cottage.jpg)
 
-## Modo de Preparo
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas light / saudáveis
+- **Dificuldade:** fácil
+- **Rendimento:** 50 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+  - 1 litro de leite integral (tipo A)
+  - 1/4 de xícara de chá de suco de limão coado
+  - sal a gosto
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Separe os ingredientes do queijo cottage;
 2. Em uma panela média no fogo alto, coloque o leite e deixe esquentar até ferver (cuidado para ele não transbordar da panela);
 3. Logo em seguida, desligue o fogo e adicione o caldo do limão. Mexa bem;

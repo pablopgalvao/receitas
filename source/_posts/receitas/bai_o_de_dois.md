@@ -1,9 +1,46 @@
+---
 title: Baião de dois
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Grãos e leguminosas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - carne-seca
+    - feijão-fradinho
+    - arroz
+    - cebola
+    - azeite
+    - óleo
+    - queijo de coalho
+    - bacon
+    - cebola-roxa
+    - manteiga de garrafa
+    - cebolinha
+    - coentro
+    - sal
+    - pimenta-do-reino
+difficulty: médio
+servings: ''
+time: ''
+calories: ''
+author: ''
+---
+![Baião de dois](/images/bai_o_de_dois.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Grãos e leguminosas
+- **Dificuldade:** médio
+- **Rendimento:** 
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 500 gramas de carne-seca
   - 1 xícara de chá de feijão-fradinho (190 gramas)
   - 1 xícara de chá de arroz (200 gramas)
@@ -17,16 +54,11 @@ ingredients:
   - Coentro picado a gosto
   - sal a gosto
   - pimenta-do-reino moída a gosto
-difficulty: médio
-time:
-servings: 
-calories: 
-author:
-date: 2025-09-22
----
-![Baião de dois](/images/bai_o_de_dois.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Deixe o feijão de molho por 12 horas. É possível substituir a manteiga de garrafa por outra gordura, como óleo, azeite ou margarina. Se quiser, use outras ervas e especiarias de sua preferência para temperar o refogado. Quem não gosta de coentro, pode usar salsinha;
 2. Comece cortando a carne-seca em cubos de aproximadamente 7 cm. Essa medida é ideal para dessalgar a carne, preservando parte do seu sabor. Coloque esses cubos em uma tigela e lave-os bem em água corrente;
 3. Cubra os cubos de carne com 5 xícaras de chá de água fria e leve à geladeira, cobertos por um prato ou plástico filme, por 24 horas. Lembre-se de trocar a água, pelo menos, 3 vezes durante esse período;

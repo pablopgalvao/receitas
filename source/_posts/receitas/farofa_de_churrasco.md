@@ -1,4 +1,6 @@
+---
 title: Farofa de churrasco
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Entradas
 tags:
@@ -7,6 +9,35 @@ tags:
   - brasil
   - popular
 ingredients:
+  list:
+    - azeite
+    - bacon
+    - cebola
+    - milho
+    - ervilha
+    - pimenta vermelha
+    - farinha de milho
+    - sal
+difficulty: Fácil
+servings: 6 Porções
+time: 20 minutos
+calories: ''
+author: Boil
+---
+![Farofa de churrasco](/images/farofa_de_churrasco.webp)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Entradas
+- **Dificuldade:** Fácil
+- **Rendimento:** 6 Porções
+- **Tempo de preparo:** 20 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1/3 de xícara (chá) de azeite
   - 1 xícara (chá) de bacon picado
   - 1 cebola picada
@@ -16,16 +47,10 @@ ingredients:
   - 3 xícaras (chá) de farinha de milho
   - sal a gosto
 
-difficulty: Fácil
-time: 20 minutos
-servings: 6 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
-![Farofa de churrasco](/images/farofa_de_churrasco.webp)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.
 2. Adicione o milho, a ervilha, a pimenta e refogue por 2 minutos.
 3. Acrescente a farinha, sal, misture e desligue o fogo. Sirva.

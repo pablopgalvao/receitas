@@ -1,10 +1,43 @@
+---
 title: Tacacá original do Pará
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Sopas e caldos
 tags:
   - Norte
   - Nordeste
 ingredients:
+  list:
+    - água
+    - polvilho azedo
+    - goma de mandioca
+    - sal
+    - camarão salgado
+    - chicória
+    - alho
+    - pimenta-de-cheiro
+    - jambu
+    - tucupi
+difficulty: fácil
+servings: 6 porções
+time: 1 hora
+calories: ''
+author: Boil
+---
+![Tacacá original do Pará](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftacac%C3%A1-original-do-par%C3%A1-1758396927607.jpg?alt=media&token=526fcea4-67e7-4783-ad46-f1349edca028)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Sopas e caldos
+- **Dificuldade:** fácil
+- **Rendimento:** 6 porções
+- **Tempo de preparo:** 1 hora
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 4 xícaras (chá) de água
   - 1/2 xícara (chá) de polvilho azedo (ou goma de mandioca)
   - 1 colher (chá) de sal
@@ -14,16 +47,11 @@ ingredients:
   - 3 pimentas-de-cheiro
   - 2 maços de jambu
   - 2 litros de tucupi
-difficulty: fácil
-time: 1 hora
-servings: 6 porções
-calories: 
-author: Boil 
-date: 2025-09-20
----
-![Tacacá original do Pará](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftacac%C3%A1-original-do-par%C3%A1-1758396927607.jpg?alt=media&token=526fcea4-67e7-4783-ad46-f1349edca028)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Coloque o tucupi em uma panela com o alho bem amassado, o sal, a chicória e as pimentas.
 2. Leve ao fogo
 3. Quando começar a ferver, abaixe o fogo, tampe a panela e deixe cozinhar por 30 minutos aproximadamente.

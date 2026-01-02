@@ -1,9 +1,48 @@
+---
 title: Salada de macarrão
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Saladas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - macarrão parafuso
+    - água
+    - peito de peru
+    - mussarela
+    - milho
+    - ervilha
+    - cenoura
+    - cebola
+    - tomate
+    - salsinha
+    - manjericão
+    - sal
+    - pimenta-do-reino
+    - creme de leite
+    - maionese
+    - filé de frango
+difficulty: fácil
+servings: 40 porções
+time: ''
+calories: ''
+author: ''
+---
+![Salada de macarrão](/images/salada_de_macarr_o.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Saladas
+- **Dificuldade:** fácil
+- **Rendimento:** 40 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 500 gramas de macarrão parafuso
   - Água para cozinhar o macarrão
   - 200 gramas de peito de peru defumado em cubinhos
@@ -18,16 +57,11 @@ ingredients:
   - 200 gramas de creme de leite
   - 5 colheres de sopa de maionese
   - 200 gramas de filé de frango desfiado (opcional)
-difficulty: fácil
-time:
-servings: 40 porções
-calories:
-author:
-date: 2025-09-22
----
-![Salada de macarrão](/images/salada_de_macarr_o.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Utilizamos milho fresco e ervilhas congeladas, entretanto, se preferir, use de caixinha ou latinha. É possível substituir o peito de peru defumado por presunto. Retire as sementes do tomate e pique os ingredientes em tamanhos proporcionais;
 2. Em uma panela grande e funda, coloque água (o suficiente para cobrir 500 gramas de macarrão) e leve para ferver em fogo alto;
 3. Quando a água pegar fervura, adicione uma pitada de sal. Despeje o macarrão para cozinhar, seguindo as indicações da embalagem. O ponto al dente é o mais indicado para saladas, pois equilibra com os outros ingredientes;

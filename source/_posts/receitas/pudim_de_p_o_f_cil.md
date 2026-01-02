@@ -1,9 +1,39 @@
+---
 title: Pudim de pão fácil
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Sobremesas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - água
+    - açúcar
+    - leite
+    - ovo
+    - creme de leite
+    - leite condensado
+    - pão francês
+difficulty: fácil
+servings: 57 porções
+time: 50 minutos + 3 horas de geladeira
+calories: ''
+author: ''
+---
+![Pudim de pão fácil](/images/pudim_de_p_o_f_cil.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Sobremesas
+- **Dificuldade:** fácil
+- **Rendimento:** 57 porções
+- **Tempo de preparo:** 50 minutos + 3 horas de geladeira
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1/3 xícara de chá de água
   - 2/3 xícara de chá de açúcar
   - 300 ml de leite
@@ -11,16 +41,11 @@ ingredients:
   - 1 caixinha de creme de leite (200 g)
   - 1 lata de leite condensado (395 g)
   - 3 pães franceses amanhecidos em pedaços
-difficulty: fácil
-time: 50 minutos + 3 horas de geladeira
-servings: 57 porções
-calories:
-author:
-date: 2025-09-22
----
-![Pudim de pão fácil](/images/pudim_de_p_o_f_cil.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Peneire cuidadosamente os ovos para a massa não ficar com um cheiro forte. Esse pudim não é exageradamente doce, entretanto, se preferir, pode retirar o açúcar, pois o leite condensado traz um sabor adocicado médio;
 2. Em uma forma redonda com furo central, adicione a água e o açúcar. Em fogo médio, leve a misture para caramelizar;
 3. Deixe ferver, sem mexer, até formar a calda de caramelo. Cuidado para não queimar. Assim que o caramelo ficar douradinho, desligue o fogo e reserve;

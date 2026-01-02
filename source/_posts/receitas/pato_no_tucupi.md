@@ -1,9 +1,47 @@
+---
 title: Pato no tucupi
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - Popular Brasil
 ingredients:
+  list:
+    - pato
+    - alho
+    - tomate
+    - louro
+    - óleo
+    - tucupi
+    - sal
+    - cebola
+    - bacon
+    - vinagre
+    - cominho
+    - pimenta-do-reino
+    - jambu
+    - agrião
+    - farinha de mandioca
+difficulty: fácil
+servings: 12 porções
+time: 2 horas
+calories: ''
+author: Boil
+---
+![Pato no tucupi](/images/pato_no_tucupi.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** fácil
+- **Rendimento:** 12 porções
+- **Tempo de preparo:** 2 horas
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 pato grande
   - 4 dentes de alho
   - 5 tomates maduros (opcional)
@@ -18,16 +56,10 @@ ingredients:
   - 1 maço de jambu (ou agrião)
   - 12 colheres de sopa de farinha de mandioca torrada
 
-difficulty: fácil
-time: 2 horas
-servings: 12 porções
-calories: 
-author: Boil
-date: 2025-09-22
 ---
-![Pato no tucupi](/images/pato_no_tucupi.jpg)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Limpe muito bem o pato.
 2. A seguir, fure-o ligeiramente com um garfo e tempere com alho socado, sal, louro, pimenta do reino, cominho e vinagre.
 3. Deixe tomar gosto de um dia para o outro.

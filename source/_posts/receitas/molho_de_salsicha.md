@@ -1,9 +1,42 @@
+---
 title: Molho de salsicha
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Molhos e temperos
 tags:
   - receitas populares
 ingredients:
+  list:
+    - salsicha
+    - óleo de soja
+    - alho
+    - cebola
+    - tomate
+    - cheiro-verde
+    - cebolinha
+    - água
+    - mostarda
+    - ketchup
+difficulty: fácil
+servings: 30 porções
+time: ''
+calories: ''
+author: ''
+---
+![Molho de salsicha](/images/molho_de_salsicha.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Molhos e temperos
+- **Dificuldade:** fácil
+- **Rendimento:** 30 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 13 salsichas (cozidas por 5 minutos)
   - 2 colheres de sopa de óleo de soja
   - 2 dentes de alho picados
@@ -14,16 +47,11 @@ ingredients:
   - 340 ml de água
   - 1 colher de sopa de mostarda
   - 1 colher de sopa de ketchup
-difficulty: fácil
-time:
-servings: 30 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Molho de salsicha](/images/molho_de_salsicha.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Em uma panela, aqueça o óleo e doure o alho;
 2. Acrescente a cebola e refogue por 2 minutos;
 3. Adicione o tomate e deixe refogar por mais 2 minutos;

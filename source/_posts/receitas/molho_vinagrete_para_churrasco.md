@@ -1,4 +1,6 @@
+---
 title: Molho vinagrete para churrasco
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Molhos e temperos
 tags:
@@ -7,6 +9,37 @@ tags:
   - fácil
   - fim de semana
 ingredients:
+  list:
+    - cebola
+    - tomate
+    - pimentão verde
+    - cheiro-verde
+    - azeitonas verdes
+    - sal
+    - pimenta-do-reino
+    - azeite
+    - vinagre
+    - água
+difficulty: Fácil
+servings: 10 Porções
+time: 30 minutos
+calories: ''
+author: Boil
+---
+![Molho vinagrete para churrasco](/images/molho_vinagrete_para_churrasco.webp)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Molhos e temperos
+- **Dificuldade:** Fácil
+- **Rendimento:** 10 Porções
+- **Tempo de preparo:** 30 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 2 cebolas médias picadas
   - 5 tomates picados
   - 1 pimentão verde picado
@@ -17,14 +50,8 @@ ingredients:
   - 1/2 xícara (chá) de vinagre
   - 1/2 xícara (chá) de água
 
-difficulty: Fácil
-time: 30 minutos
-servings: 10 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
-![Molho vinagrete para churrasco](/images/molho_vinagrete_para_churrasco.webp)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Em uma tigela, misture bem todos os ingredientes e deixe descansar por 30 minutos antes de servir.

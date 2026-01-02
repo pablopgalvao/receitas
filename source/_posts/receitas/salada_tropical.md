@@ -1,9 +1,42 @@
+---
 title: Salada tropical
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Saladas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - manga
+    - tomate
+    - palmito
+    - castanhas
+    - alface
+    - azeite
+    - mel
+    - aceto balsâmico
+    - sal
+    - pimenta-do-reino
+difficulty: fácil
+servings: 20 porções
+time: ''
+calories: ''
+author: ''
+---
+![Salada tropical](/images/salada_tropical.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Saladas
+- **Dificuldade:** fácil
+- **Rendimento:** 20 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 manga madura em lascas
   - 2 tomates picados
   - 1 vidro de palmito em rodelas
@@ -13,16 +46,11 @@ ingredients:
   - 1 colher de sopa de mel
   - 2 colheres de sopa de aceto balsâmico
   - Sal e pimenta-do-reino a gosto
-difficulty: fácil
-time:
-servings: 20 porções
-calories:
-author:
-date: 2025-09-22
----
-![Salada tropical](/images/salada_tropical.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Pique os tomates e o palmito em cubos e corte a manga em lascas;
 2. Triture as castanhas em processador ou pilão;
 3. Em uma tigela, coloque as folhas, o tomate, o palmito, a manga e as castanhas. Misture;

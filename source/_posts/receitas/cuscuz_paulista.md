@@ -1,9 +1,45 @@
+---
 title: Cuscuz paulista
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
+  list:
+    - azeite
+    - azeitona verde
+    - ervilha
+    - milho
+    - molho de tomate
+    - sardinha
+    - sal
+    - pimenta-do-reino
+    - páprica doce
+    - orégano
+    - água
+    - farinha de milho flocada
+    - ovo
+difficulty: médio
+servings: 60 porções
+time: ''
+calories: ''
+author: ''
+---
+![Cuscuz paulista](/images/cuscuz_paulista.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** médio
+- **Rendimento:** 60 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1/2 xícara de chá de azeite
   - 1/4 xícara de chá (mais o suficiente para decorar) de azeitona verde sem caroço picada
   - 1 lata de ervilhas em conserva (170 gramas)
@@ -17,16 +53,10 @@ ingredients:
   - 200 ml de água
   - 2 xícaras de chá de farinha de milho flocada
   - 3 ovos cozidos cortados em rodelas
-difficulty: médio
-time:
-servings: 60 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Cuscuz paulista](/images/cuscuz_paulista.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
 1. Corte o tomate em rodelas médias. Pique a cebola e o pimentão em cubos médios. Triture ou pique o alho bem fininho. Se preferir, use ervilhas e milho congelados (a mesma quantidade). Se usar azeitona com caroço, corte em fatias, descartando o caroço;
 2. Em uma panela em fogo médio, coloque o azeite e refogue a cebola até murchar. Adicione o alho e dê uma leve refogada;
 3. Acrescente o pimentão amarelo e refogue até murchar. A cebola e o alho já estarão douradinhos, então, adicione a azeitona, a ervilha e o milho. Misture bem e refogue por mais 1 minuto;

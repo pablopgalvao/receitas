@@ -1,4 +1,6 @@
+---
 title: Receita de tacacá
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Sopas e caldos
 tags:
@@ -6,6 +8,36 @@ tags:
   - Nordeste
   - Popular
 ingredients:
+  list:
+    - água
+    - tucupi
+    - sal
+    - goma de mandioca
+    - pimenta-de-cheiro
+    - alho
+    - camarão salgado
+    - chicória
+    - jambu
+difficulty: fácil
+servings: 5 porções
+time: 1 hora
+calories: ''
+author: Boil
+---
+![Receita de tacacá](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Sopas e caldos
+- **Dificuldade:** fácil
+- **Rendimento:** 5 porções
+- **Tempo de preparo:** 1 hora
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 4 xícaras (chá) de água
   - 2 litros de tucupi
   - 1 colher (chá) de sal
@@ -15,16 +47,11 @@ ingredients:
   - 500 g de camarão salgado seco
   - 4 folhas de chicória picadas
   - 2 maços de jambu
-difficulty: fácil
-time: 1 hora 
-servings: 5 porções
-calories: 
-author: Boil
-date: 2025-09-20
----
-![Receita de tacacá](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Em uma panela, adicione o tucupi, o alho, a chicória, o sal e as pimentas e leve ao fogo.
 2. Quando levantar fervura, abaixe o fogo, tampe a panela e deixe a mistura cozinhar por cerca de meia hora.
 3. Em outra panela, cozinhe o jambu sem os talos até ficar macio e, então, escorra e reserve

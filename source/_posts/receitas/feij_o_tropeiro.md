@@ -1,9 +1,41 @@
+---
 title: Feijão tropeiro
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
+  list:
+    - feijão preto
+    - feijão fradinho
+    - bacon
+    - manteiga
+    - linguiça calabresa
+    - carne de sol
+    - sal
+    - farinha de mandioca
+    - ovo
+difficulty: médio
+servings: 59 porções
+time: ''
+calories: ''
+author: ''
+---
+![Feijão-tropeiro](/images/feij_o_tropeiro.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** médio
+- **Rendimento:** 59 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 500 gramas de feijão preto (carioca)
   - ou fejão fradinho cozido e sem caldo
   - 200 gramas de bacon
@@ -13,16 +45,11 @@ ingredients:
   - sal a gosto
   - 1 xícara de chá de farinha de mandioca
   - 3 ovos cozidos cortados em rodelas
-difficulty: médio
-time:
-servings: 59 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Feijão-tropeiro](/images/feij_o_tropeiro.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Se for utilizar a carne de sol, dessalgue-a bem. É possível fazer também com costela desfiada. Preste atenção ao tempo de cozimento do feijão, pois se ele ficar muito mole, vai se desmanchar e virar uma pasta;
 2. Em uma panela de pressão, cozinhe o feijão até ficar macio (cerca de 10 minutos na pressão). Escorra a água (ou guarde o caldo para fazer sopas) e reserve o feijão;
 3. Corte o bacon em tiras médias (um pouco maiores que o grão de feijão). Esquente uma panela grande, em fogo médio, coloque um pouco da manteiga e frite o bacon até dourar, cerca de 2 minutos;

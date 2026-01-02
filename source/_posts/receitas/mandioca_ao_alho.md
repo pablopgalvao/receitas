@@ -1,4 +1,6 @@
+---
 title: Mandioca ao alho
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Entradas
 tags:
@@ -7,21 +9,41 @@ tags:
   - gostoso
   - fácil
 ingredients:
+  list:
+    - mandioca
+    - sal
+    - azeite
+    - alho
+difficulty: Fácil
+servings: 8 Porções
+time: 45 minutos
+calories: ''
+author: Boil
+---
+![Mandioca ao alho](/images/mandioca_ao_alho.webp)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Entradas
+- **Dificuldade:** Fácil
+- **Rendimento:** 8 Porções
+- **Tempo de preparo:** 45 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1kg de mandioca sem casca em pedaços
   - sal a gosto
   - 4 colheres (sopa) de azeite
   - 4 dentes de alho fatiados
 
-difficulty: Fácil
-time: 45 minutos
-servings: 8 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
----
-![Mandioca ao alho](/images/mandioca_ao_alho.webp)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Coloque a mandioca em uma panela de pressão, cubra com água e sal e cozinhe por 25 minutos, em fogo baixo depois de iniciada a pressão.
 2. Desligue, deixe sair a pressão e abra a panela.
 3. Retire a mandioca com uma escumadeira e transfira para uma travessa.

@@ -1,9 +1,43 @@
+---
 title: Picanha na brasa com farofa e vinagrete
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
+  list:
+    - picanha
+    - sal grosso
+    - manteiga
+    - cebola
+    - farinha de mandioca
+    - salsinha
+    - pimenta-do-reino
+    - tomate
+    - cebola roxa
+    - vinagre
+    - azeite
+difficulty: médio
+servings: ''
+time: ''
+calories: ''
+author: ''
+---
+![Picanha com Farofa e Vinagrete](/images/picanha_perdig_o_na_brasa_com_farofa_e_vinagrete.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** médio
+- **Rendimento:** 
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 peça de picanha bovina (cerca de 1 kg)
   - Sal grosso a gosto
   - ¼ xícara de chá de manteiga (50 g)
@@ -16,16 +50,11 @@ ingredients:
   - 2 colheres de sopa de vinagre (30 ml)
   - 3 colheres de sopa de azeite (24 g)
   - ½ xícara de chá de salsinha picada (30 g)
-difficulty: médio
-time:
-servings:
-calories:
-author:
-date: 2025-09-22
----
-![Picanha com Farofa e Vinagrete](/images/picanha_perdig_o_na_brasa_com_farofa_e_vinagrete.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Tempere a picanha com sal grosso. Grelhe na churrasqueira por 10 a 15 minutos de cada lado (ou até o ponto desejado). Deixe descansar alguns minutos antes de fatiar;
 2. Para a farofa: derreta a manteiga, refogue a cebola até dourar e adicione a farinha de mandioca. Misture, tempere e finalize com salsinha;
 3. Para o vinagrete: misture os tomates, a cebola roxa, o vinagre, o azeite e a salsinha. Ajuste o sal;

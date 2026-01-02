@@ -1,9 +1,41 @@
+---
 title: Molho madeira
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Molhos e temperos
 tags:
   - receitas populares
 ingredients:
+  list:
+    - champignon
+    - manteiga
+    - cebola
+    - alho
+    - amido de milho
+    - vinho madeira
+    - caldo de carne
+    - sal
+    - pimenta-do-reino
+difficulty: médio
+servings: 30 porções
+time: ''
+calories: ''
+author: ''
+---
+![Molho madeira](/images/molho_madeira.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Molhos e temperos
+- **Dificuldade:** médio
+- **Rendimento:** 30 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 100 gramas de champignon fatiado
   - 2 colheres de sopa de manteiga
   - 1 cebola grande picada
@@ -12,16 +44,11 @@ ingredients:
   - 100 ml de vinho madeira
   - 500 ml de caldo de carne
   - Sal e pimenta-do-reino a gosto
-difficulty: médio
-time:
-servings: 30 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Molho madeira](/images/molho_madeira.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Pode substituir o amido de milho por farinha de trigo. Se não tiver vinho madeira, use vinho tinto seco. O caldo de carne caseiro é mais saboroso, porém é possível usar o tablet de caldo de carne industrializado. Dê preferência para champignons frescos;
 2. Regue uma frigideira grande com azeite e refogue os champignons em fogo médio. Se a frigideira for pequena, divida essa etapa em - não queremos que os champignons soltem muita água e cozinhem ao invés de refogar;
 3. Assim que os champignons dourarem, desligue o fogo e tampe a panela;

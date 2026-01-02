@@ -1,10 +1,42 @@
+---
 title: Kafta
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Lanches e petiscos
 tags:
   - churrasco
   - carnes
 ingredients:
+  list:
+    - carne
+    - salsinha
+    - hortelã
+    - cebola
+    - alho
+    - pimenta síria
+    - sal
+    - azeite
+    - palitos de churrasco
+difficulty: Fácil
+servings: 4 a 6 Porções
+time: 90 min
+calories: ''
+author: Boil
+---
+![Kafta](/images/kafta.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Lanches e petiscos
+- **Dificuldade:** Fácil
+- **Rendimento:** 4 a 6 Porções
+- **Tempo de preparo:** 90 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 500 gramas de carne moída
   - 1 colher de sopa de salsinha picada
   - 1 colher de sopa de hortelã picado
@@ -15,16 +47,10 @@ ingredients:
   - 1 colher de sopa de azeite
   - Palitos de churrasco
 
-difficulty: Fácil
-time: 90 min
-servings: 4 a 6 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
-![Kafta](/images/kafta.png)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Reúna todos os ingredientes;
 2. Coloque tudo em uma tigela e misture com as mãos até atingir uma massa uniforme;
 3. Cubra a tigela com plástico filme, leve-a à geladeira e deixe a massa descansar por meia hora;

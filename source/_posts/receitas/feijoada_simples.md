@@ -1,4 +1,6 @@
+---
 title: Feijoada Simples
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
@@ -6,6 +8,37 @@ tags:
   - popular
   - simples
 ingredients:
+  list:
+    - costela de porco
+    - carne-seca
+    - lombo de porco
+    - feijão preto
+    - paio
+    - cebola
+    - alho
+    - azeite
+    - louro
+    - cominho
+difficulty: Médio
+servings: 16 Porções
+time: 2 horas
+calories: ''
+author: Boil
+---
+![Feijoada Simples](/images/feijoada_simples.webp)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** Médio
+- **Rendimento:** 16 Porções
+- **Tempo de preparo:** 2 horas
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - '1,1 kg de costela de porco salgada (1 peça com 12 ripas)'
   - 800 g de carne-seca
   - 600 g de lombo de porco salgado
@@ -16,16 +49,11 @@ ingredients:
   - ¼ de xícara (chá) de azeite
   - 3 folhas de louro
   - 1 colher (chá) de cominho em pó
-difficulty: Médio
-time: 2 horas
-servings: 16 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
----
-![Feijoada Simples](/images/feijoada_simples.webp)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Coloque o feijão numa peneira e lave bem sob água corrente. Transfira os grãos para uma tigela grande e cubra com 2,5 litros de água – se algum boiar, descarte. Cubra com um prato e deixe de molho por 30 minutos – se o feijão ficar muito tempo de molho pode perder a cor e desmanchar durante o longo cozimento da feijoada. Enquanto isso, faça o pré-cozimento das carnes.
 2. Escorra a água das carnes dessalgadas e transfira para um caldeirão grande (ou panela) com capacidade para 11 litros. Cubra as carnes com água e leve ao fogo alto – cerca de 4 litros bastam, a quantidade pode variar de acordo com o tamanho da panela, o importante é que as carnes devem ficar completamente imersas. Deixe cozinhar por 10 minutos em fogo alto, contados após a fervura – o pré-cozimento elimina o excesso de gordura e sal das carnes.
 3. Enquanto isso, descasque e pique fino as cebolas e os dentes de alho. Com uma faca pequena, retire a pele dos paios. Escorra a água do feijão.

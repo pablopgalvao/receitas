@@ -1,9 +1,39 @@
+---
 title: Panqueca americana fit
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Café da manhã
 tags:
   - receitas populares
 ingredients:
+  list:
+    - farinha de arroz
+    - leite desnatado
+    - ovo
+    - mel
+    - fermento químico
+    - essência de baunilha
+    - óleo de coco
+difficulty: médio
+servings: ''
+time: 15 minutos
+calories: ''
+author: ''
+---
+![Panqueca americana fit](/images/panqueca_americana_fit.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Café da manhã
+- **Dificuldade:** médio
+- **Rendimento:** 
+- **Tempo de preparo:** 15 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 xícara de chá de farinha de arroz (160 gramas)
   - 1 xícara de chá de leite desnatado (240 ml)
   - 1 ovo médio
@@ -11,16 +41,11 @@ ingredients:
   - 1 colher de sopa de fermento químico em pó
   - 1 colher de café de essência de baunilha (opcional)
   - Óleo de coco para untar
-difficulty: médio
-time: 15 minutos
-servings:
-calories: 
-author:
-date: 2025-09-22
----
-![Panqueca americana fit](/images/panqueca_americana_fit.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Disponha todos os ingredientes sobre a bancada e separe as quantidades indicadas. Assim, tudo estará à mão para facilitar o preparo;
 2. Em uma tigela média, coloque a farinha de arroz e o fermento, misture levemente;
 3. Quebre o ovo em um recipiente pequeno e bata apenas para misturar a clara com a gema. Transfira o ovo batido para a tigela com a farinha de arroz;

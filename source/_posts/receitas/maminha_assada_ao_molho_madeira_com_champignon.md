@@ -1,9 +1,46 @@
+---
 title: Maminha assada ao molho madeira com champignon
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
+  list:
+    - maminha
+    - manteiga
+    - páprica defumada
+    - alho
+    - sal
+    - pimenta-do-reino
+    - farinha de trigo
+    - extrato de tomate
+    - vinho tinto
+    - caldo de carne
+    - champignon
+    - legumes
+    - purê de batata
+    - arroz
+difficulty: médio
+servings: 6 porções
+time: ''
+calories: ''
+author: ''
+---
+![Maminha assada ao molho madeira com champignon](/images/maminha_assada_ao_molho_madeira_com_champignon.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** médio
+- **Rendimento:** 6 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 peça de maminha bovina (1,2 a 1,4 kg)
   - 3 colheres de sopa de manteiga amolecida
   - 2 colheres de sopa de páprica defumada
@@ -16,16 +53,11 @@ ingredients:
   - 1 1/2 xícara de chá de caldo de carne (usar o da maminha)
   - 1 xícara de chá de champignon fatiado
   - Legumes, purê de batata e arroz branco para acompanhar
-difficulty: médio
-time:
-servings: 6 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Maminha assada ao molho madeira com champignon](/images/maminha_assada_ao_molho_madeira_com_champignon.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Coloque a maminha em uma assadeira e fure a superfície com um garfo para os temperos penetrarem;
 2. Misture manteiga, páprica, alho, sal e pimenta e besunte toda a carne. Deixe marinar por 30 minutos a 1 hora na geladeira;
 3. Cubra com papel alumínio e asse em forno médio preaquecido por cerca de 45 minutos, regando com o caldo da assadeira a cada 15 minutos;

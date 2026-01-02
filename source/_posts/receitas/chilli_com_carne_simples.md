@@ -1,9 +1,45 @@
+---
 title: Chilli com carne simples
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
+  list:
+    - azeite
+    - carne moída
+    - sal
+    - tomate
+    - cominho
+    - páprica doce
+    - páprica picante
+    - extrato de tomate
+    - água
+    - feijão-vermelho
+    - feijão carioca
+    - coentro
+    - salsinha
+difficulty: fácil
+servings: 45 porções
+time: ''
+calories: ''
+author: ''
+---
+![Chilli com carne simples](/images/chilli_com_carne_simples.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** fácil
+- **Rendimento:** 45 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 2 colheres de sopa de azeite
   - 500 gramas de carne moída
   - sal a gosto
@@ -15,16 +51,11 @@ ingredients:
   - 2 xícaras de chá de água
   - 2 xícaras de chá de feijão-vermelho cozido (pode ser feijão carioca)
   - Coentro picado a gosto (ou salsinha)
-difficulty: fácil
-time:
-servings: 45 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Chilli com carne simples](/images/chilli_com_carne_simples.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Reúna todos os ingredientes;
 2. Em uma panela, esquente o azeite e frite a carne até ela ficar soltinha e corada;
 3. Adicione a cebola, o pimentão e a pimenta. Refogue até murcharem e tempere com sal;

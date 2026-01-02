@@ -1,4 +1,6 @@
+---
 title: Envia suas receita pra gente
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Novas receitas
 tags:
@@ -14,18 +16,34 @@ tags:
   - dica boa
   - do seu jeito
 ingredients:
-  - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!
-
+  list:
+      - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!
 difficulty: Fácil
+servings: ''
 time: 2 minutos
-servings: 
+calories: ''
 author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
 ![Diversos ingredientes](/images/ingredientes.jpg)
 
-## Modo de Preparo
+## 📝 Informações da Receita
+
+- **Categoria:** Novas receitas
+- **Dificuldade:** Fácil
+- **Rendimento:** 
+- **Tempo de preparo:** 2 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+  - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Anota a dica!
 2. Ingredientes: Manda a lista completa do que vai precisar e a quantidade certinha.
 3. Modo de Preparo: Explique o passo a passo de um jeito claro, pra todo mundo conseguir acompanhar e não errar a mão.

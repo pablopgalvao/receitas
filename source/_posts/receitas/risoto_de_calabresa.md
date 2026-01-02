@@ -1,9 +1,45 @@
+---
 title: Risoto de calabresa
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Massas e macarronadas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - linguiça calabresa
+    - azeite
+    - cebola
+    - aipo
+    - arroz arbóreo
+    - vinho branco
+    - caldo de legumes
+    - queijo parmesão
+    - limão tahiti
+    - manteiga
+    - salsinha
+    - sal
+    - pimenta-do-reino
+difficulty: médio
+servings: ''
+time: ''
+calories: ''
+author: ''
+---
+![Risoto de Calabresa](/images/risoto_de_calabresa.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Massas e macarronadas
+- **Dificuldade:** médio
+- **Rendimento:** 
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 pacote de linguiça tipo calabresa em meia-lua
   - 1 colher de sopa de azeite
   - 1 cebola picada
@@ -16,16 +52,11 @@ ingredients:
   - 2 colheres de sopa de manteiga
   - Salsinha picada a gosto
   - Azeite, sal e pimenta-do-reino a gosto
-difficulty: médio
-time:
-servings:
-calories:
-author:
-date: 2025-09-22
----
-![Risoto de Calabresa](/images/risoto_de_calabresa.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Aqueça uma frigideira antiaderente e coloque as meias-luas de linguiça calabresa. Refogue até dourar dos dois lados. Reserve;
 2. Em uma panela, refogue a cebola e o aipo no azeite. Acrescente o arroz arbóreo e refogue por alguns minutos;
 3. Regue com o vinho branco e mexa até evaporar por completo;

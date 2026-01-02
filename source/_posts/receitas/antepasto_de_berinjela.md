@@ -1,9 +1,42 @@
+---
 title: Antepasto de berinjela
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Lanches e petiscos
 tags:
   - receitas populares
 ingredients:
+  list:
+    - berinjela
+    - azeite
+    - vinagre
+    - aceto balsâmico
+    - azeitona
+    - sal
+    - alho
+    - pimenta-do-reino
+    - chimichurri
+    - orégano
+difficulty: fácil
+servings: 10 porções
+time: 120 minutos
+calories: ''
+author: Boil
+---
+![Antepasto de berinjela](/images/antepasto_de_berinjela.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Lanches e petiscos
+- **Dificuldade:** fácil
+- **Rendimento:** 10 porções
+- **Tempo de preparo:** 120 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 3 berinjelas grandes cortadas em tiras
   - 1 xícara de chá de azeite
   - 1/2 xícara de chá de vinagre
@@ -14,16 +47,11 @@ ingredients:
   - pimenta-do-reino,
   - chimichurri
   - orégano a gosto
-difficulty: fácil
-time: 120 minutos
-servings: 10 porções
-calories:
-author: Boil
-date: 2025-09-20
----
-![Antepasto de berinjela](/images/antepasto_de_berinjela.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Reúna todos os ingredientes;
 2. Em uma assadeira, faça uma camada com as berinjelas em tiras;
 3. Por cima, adicione uma camada com os pimentões e finalize com uma de cebola;

@@ -1,10 +1,41 @@
+---
 title: Arroz carreteiro simples
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
-
 tags:
   - Popular Brasil
 ingredients:
+  list:
+    - arroz
+    - bacon
+    - tomate
+    - pimenta calabresa
+    - sal
+    - carne seca
+    - calabresa
+    - cebola
+    - salsa
+difficulty: fácil
+servings: 6 porções
+time: 1 hora
+calories: ''
+author: Boil
+---
+![Acarajé](/images/arroz_carreteiro_simples.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** fácil
+- **Rendimento:** 6 porções
+- **Tempo de preparo:** 1 hora
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 3 copos de arroz
   - 200 g de bacon fatiado
   - 1 tomate grande bem maduro
@@ -15,16 +46,10 @@ ingredients:
   - 1 cebola grande
   - Salsa
 
-difficulty: fácil
-time: 1 hora
-servings: 6 porções
-calories: 
-author: Boil
-date: 2025-09-22
 ---
-![Acarajé](/images/arroz_carreteiro_simples.jpg)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Cozinhe a carne seca em panela de pressão, retire, espera esfriar e desfie.
 2. Reserve.
 3. Retire a pele da calabresa e corte em cubos juntamente com o bacon.

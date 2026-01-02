@@ -1,23 +1,44 @@
+---
 title: Doce de leite
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Doces e bolos
 tags:
   - receitas populares
 ingredients:
+  list:
+    - leite integral
+    - açúcar
+    - sal
+    - bicarbonato de sódio
+difficulty: fácil
+servings: ''
+time: ''
+calories: ''
+author: ''
+---
+![Doce de leite](/images/doce_de_leite.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Doces e bolos
+- **Dificuldade:** fácil
+- **Rendimento:** 
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 litro de leite integral
   - 200 gramas de açúcar
   - 1 pitada de sal
   - 1 colher de chá de bicarbonato de sódio
-difficulty: fácil
-time:
-servings:
-calories: 
-author:
-date: 2025-09-22
----
-![Doce de leite](/images/doce_de_leite.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
 1. Utilizamos o açúcar cristal, mas também é possível usar o refinado. Evite o açúcar de confeiteiro, pois ele queima muito rápido. Se quiser, pode dobrar a receita;
 2. Em uma panela de fundo grosso e largo, coloque o leite e o açúcar. Misture bem;
 3. Assim que pegar fervura, despeje o bicarbonato de sódio e o sal. Misture;

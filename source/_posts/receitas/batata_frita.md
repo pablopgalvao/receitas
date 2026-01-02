@@ -1,24 +1,21 @@
 ---
 title: Batata Frita
-date: 2025-09-22
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Lanches e petiscos
 tags:
   - receitas populares
-
 ingredients:
   list:
     - batata-asterix
     - sal
     - pimenta-do-reino
-
 difficulty: Difícil
 servings: 30 porções
-time:
-calories:
-author:
+time: ''
+calories: ''
+author: ''
 ---
-
 ![Batata frita crocante 1](/images/batata_frita.jpg)
 ![Batata frita crocante 2](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fbatata-frita-2.webp?alt=media&token=a35affa3-9c47-4572-9f6e-a221dc2c03fa)
 ![Batata frita crocante 3](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Fbatata-frita-1.webp?alt=media&token=05ec9ed9-62d1-4301-a1db-ec5f6c532f9b)
@@ -26,9 +23,9 @@ author:
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Lanches e petiscos  
-- **Dificuldade:** Difícil  
-- **Rendimento:** 30 porções  
+- **Categoria:** Lanches e petiscos
+- **Dificuldade:** Difícil
+- **Rendimento:** 30 porções
 - **Tempo de preparo:** 
 - **Calorias:** 
 

@@ -1,9 +1,42 @@
+---
 title: Panqueca americana
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Café da manhã
 tags:
   - receitas populares
 ingredients:
+  list:
+    - farinha de trigo
+    - açúcar
+    - sal
+    - ovo
+    - leite
+    - óleo
+    - manteiga
+    - fermento químico
+    - canela em pó
+    - bicarbonato
+difficulty: médio
+servings: 45 porções
+time: ''
+calories: ''
+author: ''
+---
+![Panqueca americana](/images/panqueca_americana.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Café da manhã
+- **Dificuldade:** médio
+- **Rendimento:** 45 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 e 1/2 xícara de chá de farinha de trigo
   - 2 e 1/2 colheres de sopa de açúcar
   - 1 pitada de sal
@@ -14,16 +47,11 @@ ingredients:
   - Óleo ou manteiga para untar
   - 1 colher de chá de canela em pó (opcional)
   - 1/2 colher de chá de bicarbonato (opcional)
-difficulty: médio
-time:
-servings: 45 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Panqueca americana](/images/panqueca_americana.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Peneire os ingredientes secos e utilize leite morno (não quente e nem frio) – isso garante maciez;
 2. Em uma tigela grande, coloque a farinha, o açúcar, a canela e o sal. Misture;
 3. Em outro recipiente, bata os ovos e junte aos secos;

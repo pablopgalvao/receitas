@@ -1,22 +1,43 @@
+---
 title: Mousse de limão rápida
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Sobremesas
 tags:
   - receitas populares
 ingredients:
-  - 1 lata de creme de leite sem soro (300 gramas)
-  - 1 lata de leite condensado (395 gramas)
-  - 1/2 xícara de chá de suco de limão (120 ml)
+  list:
+    - creme de leite
+    - leite condensado
+    - limão
 difficulty: fácil
-time: 2 horas de geladeira
 servings: 130 porções
-calories: 
-author:
-date: 2025-09-22
+time: 2 horas de geladeira
+calories: ''
+author: ''
 ---
 ![Mousse de limão rápida](/images/mousse_de_lim_o_r_pida.jpg)
 
-## Modo de Preparo
+## 📝 Informações da Receita
+
+- **Categoria:** Sobremesas
+- **Dificuldade:** fácil
+- **Rendimento:** 130 porções
+- **Tempo de preparo:** 2 horas de geladeira
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+  - 1 lata de creme de leite sem soro (300 gramas)
+  - 1 lata de leite condensado (395 gramas)
+  - 1/2 xícara de chá de suco de limão (120 ml)
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Se você quer uma sobremesa rápida e bem cremosa, já reúna todos os ingredientes para fazer essa deliciosa mousse de limão rápida;
 2. Em um liquidificador desligado, adicione o creme de leite sem soro (o soro fica concentrado na superfície do creme - escorra e descarte) e o leite condensado. Ligue-o e bata por cerca de 2 minutos ou até o “buraco” no meio diminuir de tamanho;
 3. Quando perceber que a mistura ficou um pouco mais consistente, comece a acrescentar o suco de limão gradualmente. Continue batendo até obter um creme encorpado e homogêneo;

@@ -1,4 +1,6 @@
+---
 title: Feijoada
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
@@ -9,6 +11,41 @@ tags:
   - porco
   - carne
 ingredients:
+  list:
+    - feijão preto
+    - linguiça calabresa
+    - costela salgada
+    - carne suína salgada
+    - pé salgado
+    - bacon
+    - pele suína
+    - lombo suíno
+    - paio
+    - rabo
+    - cebola
+    - banha suína
+    - alho
+    - louro
+difficulty: Médio
+servings: 10 Porções
+time: 90 min
+calories: ''
+author: Boil
+---
+![Feijoada](/images/Feijoada_da_Veveta.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** Médio
+- **Rendimento:** 10 Porções
+- **Tempo de preparo:** 90 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1kg de feijão preto (carioca)
   - 880g de Pertences para feijoada (Linguiça calabresa, Costela salgada, Carne suína salgada, Pé salgado, Bacon, Pele suína)
   - 500g de lombo suíno cortado em cubos grandes
@@ -19,16 +56,10 @@ ingredients:
   - 5 dentes de Alho picados
   - 2 folhas de Louro
 
-difficulty: Médio
-time: 90 min
-servings: 10 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
-![Feijoada](/images/Feijoada_da_Veveta.jpg)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Iniciar dessalgando o pé, o rabo e a costela suína com 12h de antecedência. Em uma bacia colocar os cortes e cobrir com água corrente, trocar a água a cada 3 horas, mantendo sempre dentro da geladeira. Quando passar esse tempo, levar as carnes para cozinhar em água fervente por 30 minutos.
 2. Deixar o feijão de molho em água por 1 hora antes do preparo.
 3. Cortar o lombo e o bacon em cubos grandes, a calabresa e o paio em rodelas e reservar.

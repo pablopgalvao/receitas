@@ -1,9 +1,43 @@
+---
 title: Vinagrete
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Molhos e temperos
 tags:
   - receitas populares
 ingredients:
+  list:
+    - tomate
+    - cebola-roxa
+    - salsinha
+    - cebolinha
+    - pimentão verde
+    - vinagre de vinho branco
+    - azeite de oliva
+    - tomilho
+    - limão
+    - sal
+    - pimenta-do-reino
+difficulty: fácil
+servings: ''
+time: 15 minutos + 1 hora de geladeira
+calories: ''
+author: ''
+---
+![Vinagrete](/images/vinagrete.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Molhos e temperos
+- **Dificuldade:** fácil
+- **Rendimento:** 
+- **Tempo de preparo:** 15 minutos + 1 hora de geladeira
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 2 tomates grandes sem sementes picados
   - 1 cebola-roxa picada (ou branca deixada de molho por 10 min)
   - 1/4 xícara de chá de salsinha picada
@@ -14,16 +48,11 @@ ingredients:
   - 1/2 colher de sopa de tomilho (opcional)
   - Suco de 1/2 limão
   - Sal e pimenta-do-reino a gosto
-difficulty: fácil
-time: 15 minutos + 1 hora de geladeira
-servings:
-calories:
-author:
-date: 2025-09-22
----
-![Vinagrete](/images/vinagrete.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Lave e pique todos os ingredientes em cubinhos pequenos (cerca de 0,5 cm), deixando-os uniformes;
 2. Misture tomate, cebola, pimentão (se usar), salsinha e cebolinha em uma tigela;
 3. Tempere com o vinagre, o suco de limão, o azeite, sal, pimenta-do-reino e tomilho (se desejar);

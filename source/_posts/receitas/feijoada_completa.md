@@ -1,4 +1,6 @@
+---
 title: Feijoada completa
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
@@ -9,6 +11,40 @@ tags:
   - porco
   - carne
 ingredients:
+  list:
+    - feijão preto
+    - carne seca
+    - lombo suíno
+    - costelinha suína
+    - calabresa
+    - bacon
+    - pé de porco
+    - rabo de porco
+    - alho
+    - cebola
+    - louro
+    - sal
+    - pimenta
+difficulty: Médio
+servings: 20 Porções
+time: 2 horas
+calories: ''
+author: Boil
+---
+![Feijoada completa](/images/Feijoada_completa.jpeg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** Médio
+- **Rendimento:** 20 Porções
+- **Tempo de preparo:** 2 horas
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 kg de feijão preto (carioca)
   - 250 g de carne seca
   - 250 g de lombo suíno
@@ -22,16 +58,10 @@ ingredients:
   - 5 g de louro em pó ou 5 folhas secas
   - Sal e pimenta a gosto
 
-difficulty: Médio
-time: 2 horas
-servings: 20 Porções
-author: Boil
-date: 2025-09-20 00:00:00
-calories:
 ---
-![Feijoada completa](/images/Feijoada_completa.jpeg)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Corte as carnes e embutidos em pedaços pequenos.
 2. Separe o feijão e coloque-os em água, para descartar os que estão podres.
 3. Corte a cebola e o alho em pedaços pequenos.

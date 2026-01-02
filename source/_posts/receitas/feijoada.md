@@ -1,9 +1,50 @@
+---
 title: Feijoada
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - Popular Brasil
 ingredients:
+  list:
+    - feijão preto
+    - orelha de porco
+    - pé de porco
+    - lombo de porco
+    - linguiça portuguesa
+    - carne seca
+    - rabo de porco
+    - costelinha de porco
+    - paio
+    - tempero
+    - cebola
+    - louro
+    - pimenta-do-reino
+    - pinga
+    - cebolinha
+    - alho
+    - laranja
+    - sal
+difficulty: Médio
+servings: 20 porções
+time: 2 horas e 20 minutos
+calories: ''
+author: Boil
+---
+![Feijoada](/images/feijoada.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** Médio
+- **Rendimento:** 20 porções
+- **Tempo de preparo:** 2 horas e 20 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 Kg de feijão preto (carioca)
   - 70 g de orelha de porco
   - 70 g de pé de porco
@@ -23,16 +64,10 @@ ingredients:
   - 1 ou 2 laranjas
   - Sal se precisar
 
-difficulty: Médio
-time: 2 horas e 20 minutos
-servings: 20 porções
-calories: 
-author: Boil
-date: 2025-09-22
 ---
-![Feijoada](/images/feijoada.jpg)
 
-## Modo de Preparo
+## 👨‍🍳 Modo de Preparo
+
 1. Coloque as carnes de molho por 36 horas ou mais, vá trocando a água várias vezes, se for ambiente quente ou verão, coloque gelo por cima ou em camadas frias.
 2. Coloque para cozinhar passo a passo: as carnes duras, em seguida as carnes moles.
 3. Quando estiver mole coloque o feijão, e retire as carnes.

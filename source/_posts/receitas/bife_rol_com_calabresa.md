@@ -1,9 +1,49 @@
+---
 title: Bife à Rolê com Calabresa
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes
 tags:
   - receitas populares
 ingredients:
+  list:
+    - coração da alcatra
+    - linguiça calabresa
+    - cenoura
+    - vagem
+    - óleo
+    - cebola
+    - alho
+    - molho de tomate
+    - água
+    - caldo de legumes
+    - caldo de carne
+    - sal
+    - pimenta-do-reino
+    - salada verde
+    - arroz
+    - feijão
+    - farofa
+difficulty: médio
+servings: ''
+time: ''
+calories: ''
+author: ''
+---
+![Bife à Rolê com Calabresa](/images/bife_rol_com_calabresa.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Pratos principais / Carnes
+- **Dificuldade:** médio
+- **Rendimento:** 
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 8 bifes de Coração da Alcatra bovina (aproximadamente 1,2 kg)
   - 1/2 pacote de Linguiça Tipo Calabresa
   - 1 cenoura média
@@ -16,16 +56,11 @@ ingredients:
   - sal a gosto
   - pimenta-do-reino a gosto
   - Salada verde, arroz branco, feijão e farofa para acompanhar
-difficulty: médio
-time: 
-servings: 
-calories: 
-author:
-date: 2025-09-22
----
-![Bife à Rolê com Calabresa](/images/bife_rol_com_calabresa.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Coloque os bifes de Coração da Alcatra bovina sobre uma tábua e tempere com sal e pimenta-do-reino a gosto.
 2. Prepare o recheio dos bifes: retire a pele da Linguiça Tipo Calabresa e corte em palitos do mesmo tamanho da largura dos bifes, assim o recheio ficará bem distribuído por todo o bife. Descasque e corte a cenoura em palitos e corte as vagens no mesmo padrão.
 3. Recheie os bifes com a linguiça, cenoura e vagem e enrole um a um, prendendo com palitos de dente.

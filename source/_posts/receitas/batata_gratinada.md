@@ -1,9 +1,43 @@
+---
 title: Batata gratinada
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Massas e macarronadas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - batata
+    - requeijão
+    - creme de leite
+    - cebolinha
+    - bacon
+    - queijo mussarela
+    - sal
+    - páprica
+    - orégano
+    - manteiga
+    - parmesão
+difficulty: fácil
+servings: 50 porções
+time: ''
+calories: ''
+author: ''
+---
+![Batata gratinada](/images/batata_gratinada.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Massas e macarronadas
+- **Dificuldade:** fácil
+- **Rendimento:** 50 porções
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 kg de batatas
   - 1/2 copo de requeijão (100 gramas)
   - 100 gramas de creme de leite
@@ -15,16 +49,11 @@ ingredients:
   - 1 colher de chá de orégano
   - 3 colheres de sopa de manteiga em temperatura ambiente (ou derretida)
   - Parmesão ralado a gosto
-difficulty: fácil
-time:
-servings: 50 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Batata gratinada](/images/batata_gratinada.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Reúna todos os ingredientes da sua batata gratinada;
 2. Descasque as batatas e corte-as em fatias finas;
 3. Leve para uma panela com água fervendo e deixe cozinhar por 10 minutos;

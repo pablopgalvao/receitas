@@ -1,9 +1,39 @@
+---
 title: Mousse de maracujá fácil e cremosa
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Sobremesas
 tags:
   - receitas populares
 ingredients:
+  list:
+    - gelatina sem sabor
+    - água
+    - leite condensado
+    - creme de leite
+    - suco de maracujá
+    - amido de milho
+    - açúcar
+difficulty: fácil
+servings: 250 porções
+time: 5 minutos + 4 horas de geladeira
+calories: ''
+author: ''
+---
+![Mousse de maracujá fácil e cremosa](/images/mousse_de_maracuj_f_cil_e_cremosa.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Sobremesas
+- **Dificuldade:** fácil
+- **Rendimento:** 250 porções
+- **Tempo de preparo:** 5 minutos + 4 horas de geladeira
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 1 envelope de gelatina sem sabor (8 gramas)
   - 5 colheres de sopa de água
   - 1 lata de leite condensado (395 gramas)
@@ -13,16 +43,11 @@ ingredients:
   - 1 colher de sopa de amido de milho
   - 3 colheres de sopa de suco de maracujá natural coado
   - 3 colheres de sopa de açúcar
-difficulty: fácil
-time: 5 minutos + 4 horas de geladeira
-servings: 250 porções
-calories: 
-author:
-date: 2025-09-22
----
-![Mousse de maracujá fácil e cremosa](/images/mousse_de_maracuj_f_cil_e_cremosa.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Em um copo, coloque a gelatina e a água. Deixe hidratar por 2 minutos. Leve ao micro-ondas por 30 segundos, ou dissolva a gelatina em banho-maria no fogão;
 2. No liquidificador, coloque o leite condensado, o creme de leite e o suco concentrado de maracujá. Bata até obter uma mistura homogênea, cerca de 2 minutos;
 3. Passado o tempo, adicione a gelatina hidratada no liquidificador. Bata novamente por alguns segundos, apenas para misturar;

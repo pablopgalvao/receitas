@@ -1,9 +1,46 @@
+---
 title: Strogonoff fit vegano
+date: 2025-09-22T00:00:00.000Z
 categories:
   - Vegetariano / Vegano
 tags:
   - receitas populares
 ingredients:
+  list:
+    - azeite
+    - cebola
+    - alho
+    - cogumelos
+    - cenoura
+    - abobrinha
+    - pimentão vermelho
+    - mostarda
+    - ketchup
+    - molho de tomate
+    - creme de soja
+    - sal
+    - pimenta-do-reino
+    - cheiro-verde
+difficulty: médio
+servings: ''
+time: ''
+calories: ''
+author: ''
+---
+![Strogonoff fit vegano](/images/strogonoff_fit_vegano.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Vegetariano / Vegano
+- **Dificuldade:** médio
+- **Rendimento:** 
+- **Tempo de preparo:** 
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
   - 2 colheres de sopa de azeite
   - 1 cebola picada
   - 2 dentes de alho picados
@@ -17,16 +54,11 @@ ingredients:
   - 1 xícara de chá de creme de soja
   - Sal e pimenta-do-reino a gosto
   - Cheiro-verde para finalizar
-difficulty: médio
-time:
-servings:
-calories:
-author:
-date: 2025-09-22
----
-![Strogonoff fit vegano](/images/strogonoff_fit_vegano.jpg)
 
-## Modo de Preparo
+---
+
+## 👨‍🍳 Modo de Preparo
+
 1. Reúna os ingredientes para fazer o strogonoff fit vegano, uma combinação saudável de grão-de-bico, cogumelos e palmito;
 2. Coloque o grão-de-bico em um recipiente e cubra com água. Deixe de molho por aproximadamente 8 horas até ele hidratar. Passado esse tempo, transfira o grão-de-bico hidratado para uma panela de pressão;
 3. Adicione a folha de louro e as 4 xícaras de água. Tampe e leve ao fogo alto. Após pegar pressão, reduza o fogo para baixo e cozinhe por 10 minutos. Desligue o fogo e espere a pressão sair naturalmente. Reserve;

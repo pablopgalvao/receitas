@@ -1,15 +1,22 @@
 ---
-title: Batata Frita Crocante
+title: Batata Frita
 date: 2025-09-22
 categories:
   - Lanches e petiscos
 tags:
   - receitas populares
+
+ingredients:
+  list:
+    - batata-asterix
+    - sal
+    - pimenta-do-reino
+
 difficulty: Difícil
 servings: 30 porções
-time: —
-calories: —
-author: —
+time:
+calories:
+author:
 ---
 
 ![Batata frita crocante 1](/images/batata_frita.jpg)
@@ -29,11 +36,9 @@ author: —
 
 ## 🧄 Ingredientes
 
-- 2 a 3 batatas-asterix grandes  
-- Sal a gosto  
-- Pimenta-do-reino a gosto  
-
-> 💡 *Dica:* você pode adicionar outros temperos, como páprica, lemon pepper ou alho em pó.
+- 2 a 3 batatas-asterix grandes
+- Sal a gosto
+- Pimenta-do-reino a gosto
 
 ---
 
@@ -50,9 +55,3 @@ author: —
 9. Retire, escorra em papel-toalha e leve ao congelador por **30 minutos**.
 10. Aqueça novamente o óleo a **190 °C** e frite as batatas até ficarem bem douradas e crocantes.
 11. Escorra, tempere com sal e pimenta e sirva imediatamente.
-
----
-
-## ✅ Resultado Final
-
-Batatas **extremamente crocantes por fora**, macias por dentro e perfeitas para servir como petisco ou acompanhamento 🍟

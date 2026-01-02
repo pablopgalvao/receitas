@@ -37,15 +37,15 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 500 gramas de carne moída
-  - 1 colher de sopa de salsinha picada
-  - 1 colher de sopa de hortelã picado
-  - 1 colher de sopa de cebola picada
-  - 1 colher de chá de alho picado
-  - 1 colher de chá de pimenta síria
-  - 2 colheres de chá de sal
-  - 1 colher de sopa de azeite
-  - Palitos de churrasco
+- 500 gramas de carne moída
+- 1 colher de sopa de salsinha picada
+- 1 colher de sopa de hortelã picado
+- 1 colher de sopa de cebola picada
+- 1 colher de chá de alho picado
+- 1 colher de chá de pimenta síria
+- 2 colheres de chá de sal
+- 1 colher de sopa de azeite
+- Palitos de churrasco
 
 ---
 

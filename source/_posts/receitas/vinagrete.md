@@ -22,7 +22,7 @@ difficulty: fácil
 servings: ''
 time: 15 minutos + 1 hora de geladeira
 calories: ''
-author: ''
+author: Boil
 ---
 ![Vinagrete](/images/vinagrete.jpg)
 
@@ -38,16 +38,16 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 2 tomates grandes sem sementes picados
-  - 1 cebola-roxa picada (ou branca deixada de molho por 10 min)
-  - 1/4 xícara de chá de salsinha picada
-  - 1/4 xícara de chá de cebolinha picada
-  - 1/2 pimentão verde picado (opcional)
-  - 3 colheres de sopa de vinagre de vinho branco
-  - 1/3 xícara de chá de azeite de oliva
-  - 1/2 colher de sopa de tomilho (opcional)
-  - Suco de 1/2 limão
-  - Sal e pimenta-do-reino a gosto
+- 2 tomates grandes sem sementes picados
+- 1 cebola-roxa picada (ou branca deixada de molho por 10 min)
+- 1/4 xícara de chá de salsinha picada
+- 1/4 xícara de chá de cebolinha picada
+- 1/2 pimentão verde picado (opcional)
+- 3 colheres de sopa de vinagre de vinho branco
+- 1/3 xícara de chá de azeite de oliva
+- 1/2 colher de sopa de tomilho (opcional)
+- Suco de 1/2 limão
+- Sal e pimenta-do-reino a gosto
 
 ---
 

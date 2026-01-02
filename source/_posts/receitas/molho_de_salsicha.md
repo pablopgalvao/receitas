@@ -21,7 +21,7 @@ difficulty: fácil
 servings: 30 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Molho de salsicha](/images/molho_de_salsicha.jpg)
 
@@ -37,16 +37,16 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 13 salsichas (cozidas por 5 minutos)
-  - 2 colheres de sopa de óleo de soja
-  - 2 dentes de alho picados
-  - 1 cebola média picada
-  - 1 tomate grande picado
-  - 1 colher de sopa de cheiro-verde
-  - 1 colher de sopa de cebolinha
-  - 340 ml de água
-  - 1 colher de sopa de mostarda
-  - 1 colher de sopa de ketchup
+- 13 salsichas (cozidas por 5 minutos)
+- 2 colheres de sopa de óleo de soja
+- 2 dentes de alho picados
+- 1 cebola média picada
+- 1 tomate grande picado
+- 1 colher de sopa de cheiro-verde
+- 1 colher de sopa de cebolinha
+- 340 ml de água
+- 1 colher de sopa de mostarda
+- 1 colher de sopa de ketchup
 
 ---
 

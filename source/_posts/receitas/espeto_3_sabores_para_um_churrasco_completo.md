@@ -35,12 +35,12 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 1kg de alcatra em cubos
-  - 1kg de peito de frango sem osso e sem pele, cortado em cubos
-  - 500g de linguiça toscana fresca em cubos
-  - 4 dentes de alho picados
-  - 1 cebola picada
-  - Sal e pimenta-do-reino a gosto
+- 1kg de alcatra em cubos
+- 1kg de peito de frango sem osso e sem pele, cortado em cubos
+- 500g de linguiça toscana fresca em cubos
+- 4 dentes de alho picados
+- 1 cebola picada
+- Sal e pimenta-do-reino a gosto
 
 ---
 

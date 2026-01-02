@@ -9,12 +9,12 @@ ingredients:
   list:
     - creme de leite
     - leite condensado
-    - limão
+    - suco de limão
 difficulty: fácil
 servings: 130 porções
 time: 2 horas de geladeira
 calories: ''
-author: ''
+author: Boil
 ---
 ![Mousse de limão rápida](/images/mousse_de_lim_o_r_pida.jpg)
 
@@ -30,9 +30,9 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 lata de creme de leite sem soro (300 gramas)
-  - 1 lata de leite condensado (395 gramas)
-  - 1/2 xícara de chá de suco de limão (120 ml)
+- 1 lata de creme de leite sem soro (300 gramas)
+- 1 lata de leite condensado (395 gramas)
+- 1/2 xícara de chá de suco de limão (120 ml)
 
 ---
 

@@ -14,14 +14,14 @@ ingredients:
     - leite
     - óleo
     - manteiga
-    - fermento químico
+    - fermento químico em pó
     - canela em pó
     - bicarbonato
 difficulty: médio
 servings: 45 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Panqueca americana](/images/panqueca_americana.jpg)
 
@@ -37,16 +37,16 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 e 1/2 xícara de chá de farinha de trigo
-  - 2 e 1/2 colheres de sopa de açúcar
-  - 1 pitada de sal
-  - 2 ovos
-  - 1 xícara de chá de leite
-  - 2 e 1/2 colheres de sopa de óleo ou manteiga derretida
-  - 2 colheres de chá de fermento químico em pó (fermento para bolo)
-  - Óleo ou manteiga para untar
-  - 1 colher de chá de canela em pó (opcional)
-  - 1/2 colher de chá de bicarbonato (opcional)
+- 1 e 1/2 xícara de chá de farinha de trigo
+- 2 e 1/2 colheres de sopa de açúcar
+- 1 pitada de sal
+- 2 ovos
+- 1 xícara de chá de leite
+- 2 e 1/2 colheres de sopa de óleo ou manteiga derretida
+- 2 colheres de chá de fermento químico em pó (fermento para bolo)
+- Óleo ou manteiga para untar
+- 1 colher de chá de canela em pó (opcional)
+- 1/2 colher de chá de bicarbonato (opcional)
 
 ---
 

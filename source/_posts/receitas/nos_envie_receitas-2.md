@@ -17,7 +17,11 @@ tags:
   - do seu jeito
 ingredients:
   list:
-      - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!
+    - >-
+      queremos ver aquela receita que você arrasa! manda pra gente, compartilhe
+      com a comunidade e ajude outros cozinheiros a mandarem bem também. é super
+      rápido! se liga no passo a passo abaixo para sua receita ser publicada e
+      bombar
 difficulty: Fácil
 servings: ''
 time: 2 minutos
@@ -38,7 +42,7 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar!
+- Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar
 
 ---
 

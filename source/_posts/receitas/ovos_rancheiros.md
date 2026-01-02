@@ -21,7 +21,7 @@ difficulty: médio
 servings: 25 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Ovos rancheiros](/images/ovos_rancheiros.jpg)
 
@@ -37,16 +37,16 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1/2 gomo de linguiça calabresa picada
-  - 100 g de queijo picado
-  - Orégano a gosto
-  - 4 ovos
-  - sal a gosto
-  - Pimenta a gosto
-  - Salsinha picada
-  - 1 cebola picada
-  - 2 dentes de alho picados
-  - 200 ml de molho de tomate
+- 1/2 gomo de linguiça calabresa picada
+- 100 g de queijo picado
+- Orégano a gosto
+- 4 ovos
+- sal a gosto
+- Pimenta a gosto
+- Salsinha picada
+- 1 cebola picada
+- 2 dentes de alho picados
+- 200 ml de molho de tomate
 
 ---
 

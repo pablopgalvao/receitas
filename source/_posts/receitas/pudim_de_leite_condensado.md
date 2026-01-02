@@ -16,7 +16,7 @@ difficulty: médio
 servings: ''
 time: 45 minutos + 2 horas de geladeira
 calories: ''
-author: ''
+author: Boil
 ---
 ![Pudim de leite condensado](/images/pudim_de_leite_condensado.jpg)
 
@@ -32,11 +32,11 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 xícara de chá de açúcar (200 g)
-  - 1/2 xícara de chá de água quente (120 ml)
-  - 3 ovos médios
-  - 320 ml de leite integral
-  - 1 lata de leite condensado (395 g)
+- 1 xícara de chá de açúcar (200 g)
+- 1/2 xícara de chá de água quente (120 ml)
+- 3 ovos médios
+- 320 ml de leite integral
+- 1 lata de leite condensado (395 g)
 
 ---
 

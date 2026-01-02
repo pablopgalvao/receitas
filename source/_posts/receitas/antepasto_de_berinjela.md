@@ -37,16 +37,16 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 3 berinjelas grandes cortadas em tiras
-  - 1 xícara de chá de azeite
-  - 1/2 xícara de chá de vinagre
-  - 1 colher de sopa de aceto balsâmico
-  - 1/2 xícara de chá de azeitonas sem caroço picadas
-  - 1 colher de sopa de sal
-  - 2 colheres de sopa de alho espremido
-  - pimenta-do-reino,
-  - chimichurri
-  - orégano a gosto
+- 3 berinjelas grandes cortadas em tiras
+- 1 xícara de chá de azeite
+- 1/2 xícara de chá de vinagre
+- 1 colher de sopa de aceto balsâmico
+- 1/2 xícara de chá de azeitonas sem caroço picadas
+- 1 colher de sopa de sal
+- 2 colheres de sopa de alho espremido
+- pimenta-do-reino
+- chimichurri
+- orégano a gosto
 
 ---
 

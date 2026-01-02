@@ -7,8 +7,8 @@ tags:
   - receitas populares
 ingredients:
   list:
-    - coração da alcatra
-    - linguiça calabresa
+    - coração de alcatra
+    - calabresa
     - cenoura
     - vagem
     - óleo
@@ -17,18 +17,15 @@ ingredients:
     - molho de tomate
     - água
     - caldo de legumes
-    - caldo de carne
+    - carne
     - sal
     - pimenta-do-reino
-    - salada verde
-    - arroz
-    - feijão
-    - farofa
+    - salada verde arroz branco feijão e farofa para acompanhar
 difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Bife à Rolê com Calabresa](/images/bife_rol_com_calabresa.jpg)
 
@@ -44,18 +41,18 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 8 bifes de Coração da Alcatra bovina (aproximadamente 1,2 kg)
-  - 1/2 pacote de Linguiça Tipo Calabresa
-  - 1 cenoura média
-  - 100 a 150 g de vagem (8 unidades)
-  - 2 colheres de sopa de óleo
-  - 1 cebola picada
-  - 2 dentes de alho picados
-  - 2 xícaras de chá de molho de tomate
-  - 2 xícaras de chá de água ou caldo de legumes ou de carne
-  - sal a gosto
-  - pimenta-do-reino a gosto
-  - Salada verde, arroz branco, feijão e farofa para acompanhar
+- 8 bifes de Coração da Alcatra bovina (aproximadamente 1,2 kg)
+- 1/2 pacote de Linguiça Tipo Calabresa
+- 1 cenoura média
+- 100 a 150 g de vagem (8 unidades)
+- 2 colheres de sopa de óleo
+- 1 cebola picada
+- 2 dentes de alho picados
+- 2 xícaras de chá de molho de tomate
+- 2 xícaras de chá de água ou caldo de legumes ou de carne
+- sal a gosto
+- pimenta-do-reino a gosto
+- Salada verde, arroz branco, feijão e farofa para acompanhar
 
 ---
 

@@ -22,7 +22,7 @@ difficulty: fácil
 servings: 50 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Batata gratinada](/images/batata_gratinada.jpg)
 
@@ -38,17 +38,17 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 kg de batatas
-  - 1/2 copo de requeijão (100 gramas)
-  - 100 gramas de creme de leite
-  - 1/2 xícara de chá de cebolinha picada
-  - 50 gramas de bacon frito picado
-  - 60 gramas de queijo mussarela ralado grosseiramente
-  - 1 colher de café de sal
-  - Páprica a gosto
-  - 1 colher de chá de orégano
-  - 3 colheres de sopa de manteiga em temperatura ambiente (ou derretida)
-  - Parmesão ralado a gosto
+- 1 kg de batatas
+- 1/2 copo de requeijão (100 gramas)
+- 100 gramas de creme de leite
+- 1/2 xícara de chá de cebolinha picada
+- 50 gramas de bacon frito picado
+- 60 gramas de queijo mussarela ralado grosseiramente
+- 1 colher de café de sal
+- Páprica a gosto
+- 1 colher de chá de orégano
+- 3 colheres de sopa de manteiga em temperatura ambiente (ou derretida)
+- Parmesão ralado a gosto
 
 ---
 

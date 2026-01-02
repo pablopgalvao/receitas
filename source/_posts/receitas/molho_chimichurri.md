@@ -19,7 +19,7 @@ difficulty: fácil
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Molho chimichurri](/images/molho_chimichurri.jpg)
 
@@ -35,14 +35,14 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1/2 xícara de chá de salsinha fresca
-  - 1/2 xícara de chá de orégano seco
-  - 2 colheres de sopa de vinagre de vinho tinto
-  - 1/2 xícara de chá de azeite
-  - 1/2 xícara de chá de água
-  - 1/2 colher de sopa de sal grosso
-  - 2 pimentas dedo-de-moça sem sementes picadas
-  - 2 dentes de alho picados
+- 1/2 xícara de chá de salsinha fresca
+- 1/2 xícara de chá de orégano seco
+- 2 colheres de sopa de vinagre de vinho tinto
+- 1/2 xícara de chá de azeite
+- 1/2 xícara de chá de água
+- 1/2 colher de sopa de sal grosso
+- 2 pimentas dedo-de-moça sem sementes picadas
+- 2 dentes de alho picados
 
 ---
 

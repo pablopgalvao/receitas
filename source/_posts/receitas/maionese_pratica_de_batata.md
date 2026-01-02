@@ -37,13 +37,13 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 5 batatas em cubos
-  - 1 cenoura ralada
-  - 100g de azeitona verde picada
-  - 1/2 xícara (chá) de cheiro-verde picado
-  - 1 xícara (chá) de maionese
-  - sal a gosto
-  - Salsa para decorar
+- 5 batatas em cubos
+- 1 cenoura ralada
+- 100g de azeitona verde picada
+- 1/2 xícara (chá) de cheiro-verde picado
+- 1 xícara (chá) de maionese
+- sal a gosto
+- Salsa para decorar
 
 ---
 

@@ -7,14 +7,14 @@ tags:
   - receitas populares
 ingredients:
   list:
-    - leite integral
-    - limão
+    - leite integral tipo a
+    - suco de limão
     - sal
 difficulty: fácil
 servings: 50 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Queijo cottage](/images/queijo_cottage.jpg)
 
@@ -30,9 +30,9 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 litro de leite integral (tipo A)
-  - 1/4 de xícara de chá de suco de limão coado
-  - sal a gosto
+- 1 litro de leite integral (tipo A)
+- 1/4 de xícara de chá de suco de limão coado
+- sal a gosto
 
 ---
 

@@ -11,7 +11,7 @@ ingredients:
     - orelha de porco
     - pé de porco
     - lombo de porco
-    - linguiça portuguesa
+    - lingüiça portuguesa
     - carne seca
     - rabo de porco
     - costelinha de porco
@@ -45,24 +45,24 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 1 Kg de feijão preto (carioca)
-  - 70 g de orelha de porco
-  - 70 g de pé de porco
-  - 50 g de lombo de porco
-  - 150 g de lingüiça portuguesa
-  - 100 g de carne seca
-  - 70 g de rabo de porco
-  - 100 g de costelinha de porco
-  - 100 g de paio
-  - Tempero
-  - 2 cebolas grandes picadinhas
-  - 3 folhas de louro
-  - Pimenta do reino a gosto
-  - 40 ml de de pinga
-  - 1 maço de cebolinha verde picadinha
-  - 6 dentes de alho
-  - 1 ou 2 laranjas
-  - Sal se precisar
+- 1 Kg de feijão preto (carioca)
+- 70 g de orelha de porco
+- 70 g de pé de porco
+- 50 g de lombo de porco
+- 150 g de lingüiça portuguesa
+- 100 g de carne seca
+- 70 g de rabo de porco
+- 100 g de costelinha de porco
+- 100 g de paio
+- Tempero
+- 2 cebolas grandes picadinhas
+- 3 folhas de louro
+- Pimenta do reino a gosto
+- 40 ml de de pinga
+- 1 maço de cebolinha verde picadinha
+- 6 dentes de alho
+- 1 ou 2 laranjas
+- Sal se precisar
 
 ---
 

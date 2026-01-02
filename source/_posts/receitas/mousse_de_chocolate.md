@@ -9,13 +9,13 @@ ingredients:
   list:
     - chocolate ao leite
     - creme de leite
-    - clara de ovo
+    - ovo
     - açúcar
 difficulty: fácil
 servings: 30 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Mousse de chocolate](/images/mousse_de_chocolate.jpg)
 
@@ -31,10 +31,10 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 170 gramas de chocolate ao leite
-  - 1 caixinha de creme de leite (200 gramas)
-  - 3 claras de ovo
-  - 3 colheres de sopa de açúcar
+- 170 gramas de chocolate ao leite
+- 1 caixinha de creme de leite (200 gramas)
+- 3 claras de ovo
+- 3 colheres de sopa de açúcar
 
 ---
 

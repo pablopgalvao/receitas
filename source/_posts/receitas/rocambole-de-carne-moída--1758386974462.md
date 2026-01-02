@@ -19,7 +19,7 @@ difficulty: Médio
 servings: 5 pessoas
 time: 40 min
 calories: ''
-author: ''
+author: Boil
 ---
 ![ROCAMBOLE DE CARNE MOÍDA ](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4)
 
@@ -35,14 +35,14 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 kg de coxão duro moído
-  - 1/2 xícara (chá) de cebola triturada
-  - 2 dentes de alho amassados
-  - sal a gosto
-  - 8 fatias de bacon
-  - 200g de queijo prato fatiado
-  - 1/2 xícara (chá) de azeitona verde picada
-  - 2 colheres (sopa) de maionese
+- 1 kg de coxão duro moído
+- 1/2 xícara (chá) de cebola triturada
+- 2 dentes de alho amassados
+- sal a gosto
+- 8 fatias de bacon
+- 200g de queijo prato fatiado
+- 1/2 xícara (chá) de azeitona verde picada
+- 2 colheres (sopa) de maionese
 
 ---
 
@@ -53,7 +53,7 @@ author: ''
 3. Coloque metade das fatias de bacon, o queijo e a azeitona.
 4. Enrole a carne formando um rocambole, pincele com a maionese e cubra com o restante das fatias de bacon.
 5. Leve ao forno médio (180ºC), preaquecido, por 40 minutos ou até dourar.
-Retire do forno e transfira para um prato.
-Sirva decorado como desejar.
 6. Retire do forno e transfira para um prato.
-Sirva decorado como desejar.
+7. Sirva decorado como desejar.
+8. Retire do forno e transfira para um prato.
+9. Sirva decorado como desejar.

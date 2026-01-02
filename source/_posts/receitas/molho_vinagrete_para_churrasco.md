@@ -40,15 +40,15 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 2 cebolas médias picadas
-  - 5 tomates picados
-  - 1 pimentão verde picado
-  - 1/2 xícara (chá) de cheiro-verde picado
-  - 1/2 xícara (chá) de azeitonas verdes picadas
-  - Sal e pimenta-do-reino a gosto
-  - 1 xícara (chá) de azeite
-  - 1/2 xícara (chá) de vinagre
-  - 1/2 xícara (chá) de água
+- 2 cebolas médias picadas
+- 5 tomates picados
+- 1 pimentão verde picado
+- 1/2 xícara (chá) de cheiro-verde picado
+- 1/2 xícara (chá) de azeitonas verdes picadas
+- Sal e pimenta-do-reino a gosto
+- 1 xícara (chá) de azeite
+- 1/2 xícara (chá) de vinagre
+- 1/2 xícara (chá) de água
 
 ---
 

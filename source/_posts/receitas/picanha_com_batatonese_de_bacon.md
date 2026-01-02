@@ -7,20 +7,19 @@ tags:
   - receitas populares
 ingredients:
   list:
-    - bacon
+    - bacon defumado
     - batata
     - maionese
     - mostarda
     - salsinha
+    - sal e pimenta-do-reino
+    - picanha bovina
     - sal
-    - pimenta-do-reino
-    - picanha
-    - sal grosso
 difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Picanha com Batatonese de Bacon](/images/picanha_com_batatonese_de_bacon.jpg)
 
@@ -36,14 +35,14 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - ½ pacote de bacon defumado em cubos (200 g)
-  - 4 batatas médias (cerca de 850 g)
-  - ½ xícara de chá de maionese
-  - 1 colher de sopa de mostarda
-  - 1 colher de chá de salsinha picada
-  - Sal e pimenta-do-reino a gosto
-  - ½ peça de picanha bovina (cerca de 500 g) em bifes
-  - Sal grosso a gosto
+- ½ pacote de bacon defumado em cubos (200 g)
+- 4 batatas médias (cerca de 850 g)
+- ½ xícara de chá de maionese
+- 1 colher de sopa de mostarda
+- 1 colher de chá de salsinha picada
+- Sal e pimenta-do-reino a gosto
+- ½ peça de picanha bovina (cerca de 500 g) em bifes
+- Sal grosso a gosto
 
 ---
 

@@ -17,11 +17,10 @@ ingredients:
     - cebola
     - bacon
     - vinagre
-    - cominho
-    - pimenta-do-reino
+    - cominho e pimenta do reino
     - jambu
     - agrião
-    - farinha de mandioca
+    - farinha de mandioca torrada
 difficulty: fácil
 servings: 12 porções
 time: 2 horas
@@ -42,19 +41,19 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 1 pato grande
-  - 4 dentes de alho
-  - 5 tomates maduros (opcional)
-  - 1 folha de louro picado
-  - 1 xícara de chá de óleo
-  - 1 litro de tucupi
-  - sal a gosto
-  - 3 cebolas pequenas, cortadas em rodelas
-  - 100 g de bacon em fatias
-  - 1/3 de xícara de chá de vinagre
-  - 1/2 colher de café de cominho e pimenta do reino
-  - 1 maço de jambu (ou agrião)
-  - 12 colheres de sopa de farinha de mandioca torrada
+- 1 pato grande
+- 4 dentes de alho
+- 5 tomates maduros (opcional)
+- 1 folha de louro picado
+- 1 xícara de chá de óleo
+- 1 litro de tucupi
+- sal a gosto
+- 3 cebolas pequenas, cortadas em rodelas
+- 100 g de bacon em fatias
+- 1/3 de xícara de chá de vinagre
+- 1/2 colher de café de cominho e pimenta do reino
+- 1 maço de jambu (ou agrião)
+- 12 colheres de sopa de farinha de mandioca torrada
 
 ---
 

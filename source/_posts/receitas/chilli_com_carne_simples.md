@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - azeite
-    - carne moída
+    - carne
     - sal
     - tomate
     - cominho
@@ -17,14 +17,13 @@ ingredients:
     - extrato de tomate
     - água
     - feijão-vermelho
-    - feijão carioca
     - coentro
     - salsinha
 difficulty: fácil
 servings: 45 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Chilli com carne simples](/images/chilli_com_carne_simples.jpg)
 
@@ -40,17 +39,17 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 2 colheres de sopa de azeite
-  - 500 gramas de carne moída
-  - sal a gosto
-  - 2 tomates grandes picados
-  - 1 colher de chá de cominho
-  - 1 colher de chá de páprica doce
-  - 1 colher de chá de páprica picante
-  - 2 colheres de sopa de extrato de tomate
-  - 2 xícaras de chá de água
-  - 2 xícaras de chá de feijão-vermelho cozido (pode ser feijão carioca)
-  - Coentro picado a gosto (ou salsinha)
+- 2 colheres de sopa de azeite
+- 500 gramas de carne moída
+- sal a gosto
+- 2 tomates grandes picados
+- 1 colher de chá de cominho
+- 1 colher de chá de páprica doce
+- 1 colher de chá de páprica picante
+- 2 colheres de sopa de extrato de tomate
+- 2 xícaras de chá de água
+- 2 xícaras de chá de feijão-vermelho cozido (pode ser feijão carioca)
+- Coentro picado a gosto (ou salsinha)
 
 ---
 

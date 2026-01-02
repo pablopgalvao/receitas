@@ -22,7 +22,7 @@ difficulty: médio
 servings: 25 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Polenta mole com carne moída](/images/polenta_mole_com_carne_mo_da.jpg)
 
@@ -38,17 +38,17 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 colher de sopa de azeite
-  - 1 cebola grande picada
-  - 200 gramas de carne moída
-  - 1 tablete de caldo de carne dissolvido em 1/2 xícara de chá de água quente
-  - 3 tomates maduros sem sementes picados
-  - 1 colher de sopa de manjericão
-  - 5 xícaras de chá de água (1,2 litro)
-  - 2 colheres de sopa de manteiga
-  - 1 colher de chá de sal
-  - 1 xícara de chá de fubá (160 gramas)
-  - Queijo gorgonzola a gosto
+- 1 colher de sopa de azeite
+- 1 cebola grande picada
+- 200 gramas de carne moída
+- 1 tablete de caldo de carne dissolvido em 1/2 xícara de chá de água quente
+- 3 tomates maduros sem sementes picados
+- 1 colher de sopa de manjericão
+- 5 xícaras de chá de água (1,2 litro)
+- 2 colheres de sopa de manteiga
+- 1 colher de chá de sal
+- 1 xícara de chá de fubá (160 gramas)
+- Queijo gorgonzola a gosto
 
 ---
 

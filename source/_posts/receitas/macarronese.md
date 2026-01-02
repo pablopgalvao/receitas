@@ -22,7 +22,7 @@ difficulty: fácil
 servings: 80 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Macarronese](/images/macarronese.jpg)
 
@@ -38,16 +38,16 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 500 gramas de macarrão parafuso
-  - 1 cenoura ralada
-  - 1 lata de milho verde escorrido
-  - 1 lata de ervilha escorrida
-  - 1/2 cebola picada
-  - 200 gramas de presunto picado
-  - 200 gramas de queijo mussarela picado
-  - 1 xícara de chá de maionese
-  - Sal e pimenta-do-reino a gosto
-  - Cheiro-verde picado a gosto
+- 500 gramas de macarrão parafuso
+- 1 cenoura ralada
+- 1 lata de milho verde escorrido
+- 1 lata de ervilha escorrida
+- 1/2 cebola picada
+- 200 gramas de presunto picado
+- 200 gramas de queijo mussarela picado
+- 1 xícara de chá de maionese
+- Sal e pimenta-do-reino a gosto
+- Cheiro-verde picado a gosto
 
 ---
 

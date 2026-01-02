@@ -10,7 +10,7 @@ ingredients:
     - manga
     - tomate
     - palmito
-    - castanhas
+    - castanha
     - alface
     - azeite
     - mel
@@ -21,7 +21,7 @@ difficulty: fácil
 servings: 20 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Salada tropical](/images/salada_tropical.jpg)
 
@@ -37,15 +37,15 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 manga madura em lascas
-  - 2 tomates picados
-  - 1 vidro de palmito em rodelas
-  - 1/2 xícara de chá de castanhas trituradas
-  - Folhas de alface variadas
-  - 3 colheres de sopa de azeite
-  - 1 colher de sopa de mel
-  - 2 colheres de sopa de aceto balsâmico
-  - Sal e pimenta-do-reino a gosto
+- 1 manga madura em lascas
+- 2 tomates picados
+- 1 vidro de palmito em rodelas
+- 1/2 xícara de chá de castanhas trituradas
+- Folhas de alface variadas
+- 3 colheres de sopa de azeite
+- 1 colher de sopa de mel
+- 2 colheres de sopa de aceto balsâmico
+- Sal e pimenta-do-reino a gosto
 
 ---
 

@@ -13,15 +13,10 @@ tags:
 ingredients:
   list:
     - feijão preto
-    - linguiça calabresa
-    - costela salgada
-    - carne suína salgada
-    - pé salgado
-    - bacon
-    - pele suína
-    - lombo suíno
+    - '?'
+    - lombo suíno cortado
     - paio
-    - rabo
+    - rabo salgado
     - cebola
     - banha suína
     - alho
@@ -46,15 +41,15 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 1kg de feijão preto (carioca)
-  - 880g de Pertences para feijoada (Linguiça calabresa, Costela salgada, Carne suína salgada, Pé salgado, Bacon, Pele suína)
-  - 500g de lombo suíno cortado em cubos grandes
-  - 250g de Paio em rodelas
-  - 250g de Rabo salgado
-  - 300g de Cebola em cubos
-  - 50g de Banha suína
-  - 5 dentes de Alho picados
-  - 2 folhas de Louro
+- 1kg de feijão preto (carioca)
+- 880g de Pertences para feijoada (Linguiça calabresa, Costela salgada, Carne suína salgada, Pé salgado, Bacon, Pele suína)
+- 500g de lombo suíno cortado em cubos grandes
+- 250g de Paio em rodelas
+- 250g de Rabo salgado
+- 300g de Cebola em cubos
+- 50g de Banha suína
+- 5 dentes de Alho picados
+- 2 folhas de Louro
 
 ---
 

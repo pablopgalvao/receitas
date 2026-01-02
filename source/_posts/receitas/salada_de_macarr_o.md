@@ -9,7 +9,7 @@ ingredients:
   list:
     - macarrão parafuso
     - água
-    - peito de peru
+    - peito de peru defumado
     - mussarela
     - milho
     - ervilha
@@ -22,12 +22,12 @@ ingredients:
     - pimenta-do-reino
     - creme de leite
     - maionese
-    - filé de frango
+    - frango
 difficulty: fácil
 servings: 40 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Salada de macarrão](/images/salada_de_macarr_o.jpg)
 
@@ -43,20 +43,20 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 500 gramas de macarrão parafuso
-  - Água para cozinhar o macarrão
-  - 200 gramas de peito de peru defumado em cubinhos
-  - 200 gramas de mussarela cortada em cubinhos
-  - 170 gramas de milho cozido
-  - 170 gramas de ervilha cozida
-  - 1 cenoura ralada
-  - 1 cebola picada
-  - 1 tomate sem sementes picado
-  - Salsinha picada e folhas de manjericão a gosto
-  - Sal e pimenta-do-reino a gosto
-  - 200 gramas de creme de leite
-  - 5 colheres de sopa de maionese
-  - 200 gramas de filé de frango desfiado (opcional)
+- 500 gramas de macarrão parafuso
+- Água para cozinhar o macarrão
+- 200 gramas de peito de peru defumado em cubinhos
+- 200 gramas de mussarela cortada em cubinhos
+- 170 gramas de milho cozido
+- 170 gramas de ervilha cozida
+- 1 cenoura ralada
+- 1 cebola picada
+- 1 tomate sem sementes picado
+- Salsinha picada e folhas de manjericão a gosto
+- Sal e pimenta-do-reino a gosto
+- 200 gramas de creme de leite
+- 5 colheres de sopa de maionese
+- 200 gramas de filé de frango desfiado (opcional)
 
 ---
 

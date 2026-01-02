@@ -7,7 +7,7 @@ tags:
   - receitas populares
 ingredients:
   list:
-    - maminha
+    - maminha bovina
     - manteiga
     - páprica defumada
     - alho
@@ -15,7 +15,7 @@ ingredients:
     - pimenta-do-reino
     - farinha de trigo
     - extrato de tomate
-    - vinho tinto
+    - vinho tinto seco
     - caldo de carne
     - champignon
     - legumes
@@ -25,7 +25,7 @@ difficulty: médio
 servings: 6 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Maminha assada ao molho madeira com champignon](/images/maminha_assada_ao_molho_madeira_com_champignon.jpg)
 
@@ -41,18 +41,18 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 peça de maminha bovina (1,2 a 1,4 kg)
-  - 3 colheres de sopa de manteiga amolecida
-  - 2 colheres de sopa de páprica defumada
-  - 3 dentes de alho amassados
-  - Sal e pimenta-do-reino a gosto
-  - 1 colher de sopa de manteiga (para o molho)
-  - 1 colher de sopa de farinha de trigo
-  - 1 colher de chá de extrato de tomate
-  - 1/2 xícara de chá de vinho tinto seco
-  - 1 1/2 xícara de chá de caldo de carne (usar o da maminha)
-  - 1 xícara de chá de champignon fatiado
-  - Legumes, purê de batata e arroz branco para acompanhar
+- 1 peça de maminha bovina (1,2 a 1,4 kg)
+- 3 colheres de sopa de manteiga amolecida
+- 2 colheres de sopa de páprica defumada
+- 3 dentes de alho amassados
+- Sal e pimenta-do-reino a gosto
+- 1 colher de sopa de manteiga (para o molho)
+- 1 colher de sopa de farinha de trigo
+- 1 colher de chá de extrato de tomate
+- 1/2 xícara de chá de vinho tinto seco
+- 1 1/2 xícara de chá de caldo de carne (usar o da maminha)
+- 1 xícara de chá de champignon fatiado
+- Legumes, purê de batata e arroz branco para acompanhar
 
 ---
 

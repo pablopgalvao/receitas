@@ -10,12 +10,12 @@ ingredients:
     - azeite
     - cebola
     - alho
-    - cogumelos
+    - cogumelo
     - cenoura
     - abobrinha
     - pimentão vermelho
     - mostarda
-    - ketchup
+    - ketchup sem açúcar
     - molho de tomate
     - creme de soja
     - sal
@@ -25,7 +25,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Strogonoff fit vegano](/images/strogonoff_fit_vegano.jpg)
 
@@ -41,19 +41,19 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 2 colheres de sopa de azeite
-  - 1 cebola picada
-  - 2 dentes de alho picados
-  - 300 gramas de cogumelos frescos fatiados
-  - 1 cenoura em cubos
-  - 1 abobrinha em cubos
-  - 1 pimentão vermelho em cubos
-  - 1 colher de sopa de mostarda
-  - 2 colheres de sopa de ketchup sem açúcar
-  - 1 xícara de chá de molho de tomate
-  - 1 xícara de chá de creme de soja
-  - Sal e pimenta-do-reino a gosto
-  - Cheiro-verde para finalizar
+- 2 colheres de sopa de azeite
+- 1 cebola picada
+- 2 dentes de alho picados
+- 300 gramas de cogumelos frescos fatiados
+- 1 cenoura em cubos
+- 1 abobrinha em cubos
+- 1 pimentão vermelho em cubos
+- 1 colher de sopa de mostarda
+- 2 colheres de sopa de ketchup sem açúcar
+- 1 xícara de chá de molho de tomate
+- 1 xícara de chá de creme de soja
+- Sal e pimenta-do-reino a gosto
+- Cheiro-verde para finalizar
 
 ---
 

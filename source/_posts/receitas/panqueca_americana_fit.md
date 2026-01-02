@@ -11,14 +11,14 @@ ingredients:
     - leite desnatado
     - ovo
     - mel
-    - fermento químico
+    - fermento químico em pó
     - essência de baunilha
     - óleo de coco
 difficulty: médio
 servings: ''
 time: 15 minutos
 calories: ''
-author: ''
+author: Boil
 ---
 ![Panqueca americana fit](/images/panqueca_americana_fit.jpg)
 
@@ -34,13 +34,13 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 xícara de chá de farinha de arroz (160 gramas)
-  - 1 xícara de chá de leite desnatado (240 ml)
-  - 1 ovo médio
-  - 1 colher de sopa de mel
-  - 1 colher de sopa de fermento químico em pó
-  - 1 colher de café de essência de baunilha (opcional)
-  - Óleo de coco para untar
+- 1 xícara de chá de farinha de arroz (160 gramas)
+- 1 xícara de chá de leite desnatado (240 ml)
+- 1 ovo médio
+- 1 colher de sopa de mel
+- 1 colher de sopa de fermento químico em pó
+- 1 colher de café de essência de baunilha (opcional)
+- Óleo de coco para untar
 
 ---
 

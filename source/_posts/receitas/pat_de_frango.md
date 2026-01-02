@@ -11,16 +11,15 @@ ingredients:
     - maionese
     - requeijão
     - milho-verde
-    - azeitona verde
+    - azeitona verde sem caroço
     - cenoura
     - cebola
-    - sal
-    - cheiro-verde
+    - sal e cheiro-verde
 difficulty: fácil
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Patê de frango](/images/pat_de_frango.jpg)
 
@@ -36,14 +35,14 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 500 gramas de frango cozido e desfiado
-  - 300 gramas de maionese
-  - 250 gramas de requeijão
-  - 250 gramas de milho-verde
-  - 250 gramas de azeitona verde sem caroço fatiada
-  - 1 cenoura ralada (opcional)
-  - 1/2 cebola ralada (opcional)
-  - Sal e cheiro-verde a gosto
+- 500 gramas de frango cozido e desfiado
+- 300 gramas de maionese
+- 250 gramas de requeijão
+- 250 gramas de milho-verde
+- 250 gramas de azeitona verde sem caroço fatiada
+- 1 cenoura ralada (opcional)
+- 1/2 cebola ralada (opcional)
+- Sal e cheiro-verde a gosto
 
 ---
 

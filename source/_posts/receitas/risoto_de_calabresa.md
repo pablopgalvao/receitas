@@ -12,7 +12,7 @@ ingredients:
     - cebola
     - aipo
     - arroz arbóreo
-    - vinho branco
+    - vinho branco seco
     - caldo de legumes
     - queijo parmesão
     - limão tahiti
@@ -24,7 +24,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Risoto de Calabresa](/images/risoto_de_calabresa.jpg)
 
@@ -40,18 +40,18 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 pacote de linguiça tipo calabresa em meia-lua
-  - 1 colher de sopa de azeite
-  - 1 cebola picada
-  - 1 talo de aipo picado
-  - 2 xícaras de chá de arroz arbóreo
-  - ½ xícara de chá de vinho branco seco
-  - 1 litro de caldo de legumes quente
-  - ½ xícara de chá de queijo parmesão ralado
-  - Raspas de 1 limão tahiti + suco de ½ limão
-  - 2 colheres de sopa de manteiga
-  - Salsinha picada a gosto
-  - Azeite, sal e pimenta-do-reino a gosto
+- 1 pacote de linguiça tipo calabresa em meia-lua
+- 1 colher de sopa de azeite
+- 1 cebola picada
+- 1 talo de aipo picado
+- 2 xícaras de chá de arroz arbóreo
+- ½ xícara de chá de vinho branco seco
+- 1 litro de caldo de legumes quente
+- ½ xícara de chá de queijo parmesão ralado
+- Raspas de 1 limão tahiti + suco de ½ limão
+- 2 colheres de sopa de manteiga
+- Salsinha picada a gosto
+- Azeite, sal e pimenta-do-reino a gosto
 
 ---
 

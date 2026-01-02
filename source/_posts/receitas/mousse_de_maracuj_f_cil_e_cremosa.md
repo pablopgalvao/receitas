@@ -18,7 +18,7 @@ difficulty: fácil
 servings: 250 porções
 time: 5 minutos + 4 horas de geladeira
 calories: ''
-author: ''
+author: Boil
 ---
 ![Mousse de maracujá fácil e cremosa](/images/mousse_de_maracuj_f_cil_e_cremosa.jpg)
 
@@ -34,15 +34,15 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 envelope de gelatina sem sabor (8 gramas)
-  - 5 colheres de sopa de água
-  - 1 lata de leite condensado (395 gramas)
-  - 1 lata de creme de leite (300 gramas)
-  - 200 ml de suco concentrado de maracujá
-  - 1/2 xícara de chá de água
-  - 1 colher de sopa de amido de milho
-  - 3 colheres de sopa de suco de maracujá natural coado
-  - 3 colheres de sopa de açúcar
+- 1 envelope de gelatina sem sabor (8 gramas)
+- 5 colheres de sopa de água
+- 1 lata de leite condensado (395 gramas)
+- 1 lata de creme de leite (300 gramas)
+- 200 ml de suco concentrado de maracujá
+- 1/2 xícara de chá de água
+- 1 colher de sopa de amido de milho
+- 3 colheres de sopa de suco de maracujá natural coado
+- 3 colheres de sopa de açúcar
 
 ---
 

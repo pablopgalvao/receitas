@@ -11,13 +11,14 @@ ingredients:
     - manteiga
     - limão
     - água
+    - suco de limão
     - leite condensado
     - creme de leite
 difficulty: fácil
 servings: ''
 time: 4 horas de geladeira
 calories: ''
-author: ''
+author: Boil
 ---
 ![Torta de limão fácil](/images/torta_de_lim_o_f_cil.jpg)
 
@@ -33,13 +34,13 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 400 gramas de biscoito tipo maisena
-  - 100 gramas de manteiga sem sal
-  - 1 colher de chá de raspas de limão
-  - 8 colheres de sopa de água
-  - 150 ml de suco de limão
-  - 1 lata de leite condensado (395 g)
-  - 1 lata de creme de leite (300 g)
+- 400 gramas de biscoito tipo maisena
+- 100 gramas de manteiga sem sal
+- 1 colher de chá de raspas de limão
+- 8 colheres de sopa de água
+- 150 ml de suco de limão
+- 1 lata de leite condensado (395 g)
+- 1 lata de creme de leite (300 g)
 
 ---
 

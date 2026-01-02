@@ -34,11 +34,10 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - 1kg de mandioca sem casca em pedaços
-  - sal a gosto
-  - 4 colheres (sopa) de azeite
-  - 4 dentes de alho fatiados
-
+- 1kg de mandioca sem casca em pedaços
+- sal a gosto
+- 4 colheres (sopa) de azeite
+- 4 dentes de alho fatiados
 
 ---
 

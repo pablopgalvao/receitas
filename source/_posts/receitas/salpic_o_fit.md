@@ -7,13 +7,13 @@ tags:
   - receitas populares
 ingredients:
   list:
-    - peito de frango
+    - frango
     - cenoura
     - maçã
     - milho-verde
     - ervilha
     - uva-passa
-    - iogurte natural
+    - iogurte natural desnatado
     - mostarda
     - sal
     - pimenta-do-reino
@@ -22,7 +22,7 @@ difficulty: fácil
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Salpicão fit](/images/salpic_o_fit.jpg)
 
@@ -38,16 +38,16 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 200 gramas de peito de frango cozido e desfiado
-  - 1 cenoura ralada
-  - 1 maçã picada em cubos
-  - 1/2 xícara de chá de milho-verde cozido
-  - 1/2 xícara de chá de ervilha cozida
-  - 1/2 xícara de chá de uva-passa
-  - 1 pote de iogurte natural desnatado
-  - 1 colher de sopa de mostarda
-  - Sal e pimenta-do-reino a gosto
-  - Cheiro-verde a gosto
+- 200 gramas de peito de frango cozido e desfiado
+- 1 cenoura ralada
+- 1 maçã picada em cubos
+- 1/2 xícara de chá de milho-verde cozido
+- 1/2 xícara de chá de ervilha cozida
+- 1/2 xícara de chá de uva-passa
+- 1 pote de iogurte natural desnatado
+- 1 colher de sopa de mostarda
+- Sal e pimenta-do-reino a gosto
+- Cheiro-verde a gosto
 
 ---
 

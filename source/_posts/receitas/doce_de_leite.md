@@ -15,7 +15,7 @@ difficulty: fácil
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Doce de leite](/images/doce_de_leite.jpg)
 
@@ -31,14 +31,15 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 1 litro de leite integral
-  - 200 gramas de açúcar
-  - 1 pitada de sal
-  - 1 colher de chá de bicarbonato de sódio
+- 1 litro de leite integral
+- 200 gramas de açúcar
+- 1 pitada de sal
+- 1 colher de chá de bicarbonato de sódio
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
+
 1. Utilizamos o açúcar cristal, mas também é possível usar o refinado. Evite o açúcar de confeiteiro, pois ele queima muito rápido. Se quiser, pode dobrar a receita;
 2. Em uma panela de fundo grosso e largo, coloque o leite e o açúcar. Misture bem;
 3. Assim que pegar fervura, despeje o bicarbonato de sódio e o sal. Misture;

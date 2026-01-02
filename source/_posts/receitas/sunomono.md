@@ -16,7 +16,7 @@ difficulty: fácil
 servings: ''
 time: 15 minutos
 calories: ''
-author: ''
+author: Boil
 ---
 ![Sunomono](/images/sunomono.jpg)
 
@@ -32,11 +32,12 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 2 pepinos japoneses
-  - 1/2 xícara de chá de vinagre de arroz
-  - 3 colheres de sopa de açúcar
-  - 1 colher de chá de sal
-  - Gergelim torrado a gosto
+- 2 pepinos japoneses
+- 1/2 xícara de chá de vinagre de arroz
+- 3 colheres de sopa de açúcar
+- 1 colher de chá de sal
+- Gergelim torrado a gosto
+
 ---
 
 ## 👨‍🍳 Modo de Preparo

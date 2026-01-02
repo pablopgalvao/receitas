@@ -25,7 +25,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Baião de dois](/images/bai_o_de_dois.jpg)
 
@@ -41,19 +41,19 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 500 gramas de carne-seca
-  - 1 xícara de chá de feijão-fradinho (190 gramas)
-  - 1 xícara de chá de arroz (200 gramas)
-  - 1/2 cebola picada fina (90 gramas)
-  - 1 colher de sopa de azeite (ou óleo)
-  - 200 gramas de queijo de coalho em peça
-  - 70 gramas de bacon em cubos
-  - 1 cebola-roxa (100 gramas)
-  - 2 colheres de sopa de manteiga de garrafa
-  - 3 talos de cebolinha fatiada (30 gramas)
-  - Coentro picado a gosto
-  - sal a gosto
-  - pimenta-do-reino moída a gosto
+- 500 gramas de carne-seca
+- 1 xícara de chá de feijão-fradinho (190 gramas)
+- 1 xícara de chá de arroz (200 gramas)
+- 1/2 cebola picada fina (90 gramas)
+- 1 colher de sopa de azeite (ou óleo)
+- 200 gramas de queijo de coalho em peça
+- 70 gramas de bacon em cubos
+- 1 cebola-roxa (100 gramas)
+- 2 colheres de sopa de manteiga de garrafa
+- 3 talos de cebolinha fatiada (30 gramas)
+- Coentro picado a gosto
+- sal a gosto
+- pimenta-do-reino moída a gosto
 
 ---
 

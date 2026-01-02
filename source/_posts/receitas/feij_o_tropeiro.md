@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - feijão preto
-    - feijão fradinho
+    - fejão fradinho
     - bacon
     - manteiga
     - linguiça calabresa
@@ -20,7 +20,7 @@ difficulty: médio
 servings: 59 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Feijão-tropeiro](/images/feij_o_tropeiro.jpg)
 
@@ -36,15 +36,15 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 500 gramas de feijão preto (carioca)
-  - ou fejão fradinho cozido e sem caldo
-  - 200 gramas de bacon
-  - 2 colheres de sopa de manteiga
-  - 125 gramas de linguiça calabresa
-  - 200 gramas de carne de sol (ou outra de sua preferência)
-  - sal a gosto
-  - 1 xícara de chá de farinha de mandioca
-  - 3 ovos cozidos cortados em rodelas
+- 500 gramas de feijão preto (carioca)
+- ou fejão fradinho cozido e sem caldo
+- 200 gramas de bacon
+- 2 colheres de sopa de manteiga
+- 125 gramas de linguiça calabresa
+- 200 gramas de carne de sol (ou outra de sua preferência)
+- sal a gosto
+- 1 xícara de chá de farinha de mandioca
+- 3 ovos cozidos cortados em rodelas
 
 ---
 

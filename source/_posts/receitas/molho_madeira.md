@@ -20,7 +20,7 @@ difficulty: médio
 servings: 30 porções
 time: ''
 calories: ''
-author: ''
+author: Boil
 ---
 ![Molho madeira](/images/molho_madeira.jpg)
 
@@ -36,14 +36,14 @@ author: ''
 
 ## 🧄 Ingredientes
 
-  - 100 gramas de champignon fatiado
-  - 2 colheres de sopa de manteiga
-  - 1 cebola grande picada
-  - 2 dentes de alho picados
-  - 2 colheres de sopa de amido de milho
-  - 100 ml de vinho madeira
-  - 500 ml de caldo de carne
-  - Sal e pimenta-do-reino a gosto
+- 100 gramas de champignon fatiado
+- 2 colheres de sopa de manteiga
+- 1 cebola grande picada
+- 2 dentes de alho picados
+- 2 colheres de sopa de amido de milho
+- 100 ml de vinho madeira
+- 500 ml de caldo de carne
+- Sal e pimenta-do-reino a gosto
 
 ---
 

@@ -39,16 +39,16 @@ author: Boil
 
 ## 🧄 Ingredientes
 
-  - '1,1 kg de costela de porco salgada (1 peça com 12 ripas)'
-  - 800 g de carne-seca
-  - 600 g de lombo de porco salgado
-  - 1 kg de feijão preto (carioca)
-  - 500 g de paio (4 unidades)
-  - 3 cebolas
-  - 5 dentes de alho
-  - ¼ de xícara (chá) de azeite
-  - 3 folhas de louro
-  - 1 colher (chá) de cominho em pó
+- '1,1 kg de costela de porco salgada (1 peça com 12 ripas)'
+- 800 g de carne-seca
+- 600 g de lombo de porco salgado
+- 1 kg de feijão preto (carioca)
+- 500 g de paio (4 unidades)
+- 3 cebolas
+- 5 dentes de alho
+- ¼ de xícara (chá) de azeite
+- 3 folhas de louro
+- 1 colher (chá) de cominho em pó
 
 ---
 

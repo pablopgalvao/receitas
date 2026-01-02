@@ -13,7 +13,7 @@ difficulty: fácil
 servings: ''
 time: 15 minutos
 calories: ''
-author: ''
+author: Boil
 ---
 ![Brigadeiro sem leite condensado com banana madura](/images/brigadeiro_sem_leite_condensado_com_banana_madura.jpg)
 

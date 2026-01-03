@@ -49,7 +49,8 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: ':lang'
-skip_render: null
+skip_render: 
+  - app-ads.txt
 new_post_name: ':title.md'
 default_layout: post
 titlecase: false

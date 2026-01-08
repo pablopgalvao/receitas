@@ -13,12 +13,12 @@ function main() {
   const sourcePublic = path.join(__dirname, '..', 'public', 'api', 'receitas.json');
   const sourceOut = path.join(__dirname, 'out', 'receitas.json');
 
-  // saída preferencial (fora do public para não quebrar no clean)
-  const outDir = path.join(__dirname, 'out');
+  // saída: colocar em source/api para o Hexo copiar para public/api
+  const outDir = path.join(__dirname, '..', 'source', 'api');
   const target = path.join(outDir, 'ingredients.json');
   const targetCsv = path.join(outDir, 'ingredients.csv');
 
-  // garante pasta scripts/out
+  // garante pasta de saída
   fs.mkdirSync(outDir, { recursive: true });
 
   // escolhe a fonte que existir

@@ -1,0 +1,924 @@
+{
+  "count": 68,
+  "generatedAt": "2026-01-08T19:39:03.322Z",
+  "ingredientsByRecipe": [
+    {
+      "slug": "receitas/Feijoada_da_Veveta",
+      "title": "Feijoada",
+      "ingredients": [
+        "feijão preto",
+        "?",
+        "lombo suíno cortado",
+        "paio",
+        "rabo salgado",
+        "cebola",
+        "banha suína",
+        "alho",
+        "louro"
+      ]
+    },
+    {
+      "slug": "receitas/Kafta",
+      "title": "Kafta",
+      "ingredients": [
+        "carne",
+        "salsinha",
+        "hortelã",
+        "cebola",
+        "alho",
+        "pimenta síria",
+        "sal",
+        "azeite",
+        "palitos de churrasco"
+      ]
+    },
+    {
+      "slug": "receitas/acarajé-1758398276182",
+      "title": "Acarajé",
+      "ingredients": [
+        "feijão-fradinho",
+        "cebola",
+        "sal",
+        "óleo",
+        "azeite de dendê",
+        "vatapá",
+        "camarão seco"
+      ]
+    },
+    {
+      "slug": "receitas/arroz_carreteiro_simples",
+      "title": "Arroz carreteiro simples",
+      "ingredients": [
+        "arroz",
+        "bacon",
+        "tomate",
+        "pimenta calabresa",
+        "sal",
+        "carne seca",
+        "calabresa",
+        "cebola",
+        "salsa"
+      ]
+    },
+    {
+      "slug": "receitas/antepasto_de_berinjela",
+      "title": "Antepasto de berinjela",
+      "ingredients": [
+        "berinjela",
+        "azeite",
+        "vinagre",
+        "aceto balsâmico",
+        "azeitona",
+        "sal",
+        "alho",
+        "pimenta-do-reino",
+        "chimichurri",
+        "orégano"
+      ]
+    },
+    {
+      "slug": "receitas/batata_frita",
+      "title": "Batata Frita",
+      "ingredients": [
+        "batata-asterix",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/bife_rol_com_calabresa",
+      "title": "Bife à Rolê com Calabresa",
+      "ingredients": [
+        "coração de alcatra",
+        "calabresa",
+        "cenoura",
+        "vagem",
+        "óleo",
+        "cebola",
+        "alho",
+        "molho de tomate",
+        "água",
+        "caldo de legumes",
+        "carne",
+        "sal",
+        "pimenta-do-reino",
+        "salada verde arroz branco feijão e farofa para acompanhar"
+      ]
+    },
+    {
+      "slug": "receitas/bai_o_de_dois",
+      "title": "Baião de dois",
+      "ingredients": [
+        "carne-seca",
+        "feijão-fradinho",
+        "arroz",
+        "cebola",
+        "azeite",
+        "óleo",
+        "queijo de coalho",
+        "bacon",
+        "cebola-roxa",
+        "manteiga de garrafa",
+        "cebolinha",
+        "coentro",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/batata_gratinada",
+      "title": "Batata gratinada",
+      "ingredients": [
+        "batata",
+        "requeijão",
+        "creme de leite",
+        "cebolinha",
+        "bacon",
+        "queijo mussarela",
+        "sal",
+        "páprica",
+        "orégano",
+        "manteiga",
+        "parmesão"
+      ]
+    },
+    {
+      "slug": "receitas/brigadeiro_sem_leite_condensado_com_banana_madura",
+      "title": "Brigadeiro sem leite condensado com banana madura",
+      "ingredients": [
+        "cacau em pó",
+        "banana"
+      ]
+    },
+    {
+      "slug": "receitas/cuscuz_paulista",
+      "title": "Cuscuz paulista",
+      "ingredients": [
+        "azeite",
+        "azeitona verde",
+        "ervilha",
+        "milho",
+        "molho de tomate",
+        "sardinha",
+        "sal",
+        "pimenta-do-reino",
+        "páprica doce",
+        "orégano",
+        "água",
+        "farinha de milho flocada",
+        "ovo"
+      ]
+    },
+    {
+      "slug": "receitas/chilli_com_carne_simples",
+      "title": "Chilli com carne simples",
+      "ingredients": [
+        "azeite",
+        "carne",
+        "sal",
+        "tomate",
+        "cominho",
+        "páprica doce",
+        "páprica picante",
+        "extrato de tomate",
+        "água",
+        "feijão-vermelho",
+        "coentro",
+        "salsinha"
+      ]
+    },
+    {
+      "slug": "receitas/creme_de_leite_caseiro_fit",
+      "title": "Creme de leite caseiro fit",
+      "ingredients": [
+        "ovo",
+        "azeite",
+        "leite em pó",
+        "leite desnatado",
+        "água"
+      ]
+    },
+    {
+      "slug": "receitas/espeto_3_sabores_para_um_churrasco_completo",
+      "title": "Espeto 3 sabores para um churrasco completo",
+      "ingredients": [
+        "alcatra",
+        "peito de frango",
+        "linguiça toscana",
+        "alho",
+        "cebola",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/farofa_de_churrasco",
+      "title": "Farofa de churrasco",
+      "ingredients": [
+        "azeite",
+        "bacon",
+        "cebola",
+        "milho",
+        "ervilha",
+        "pimenta vermelha",
+        "farinha de milho",
+        "sal"
+      ]
+    },
+    {
+      "slug": "receitas/doce_de_leite",
+      "title": "Doce de leite",
+      "ingredients": [
+        "leite integral",
+        "açúcar",
+        "sal",
+        "bicarbonato de sódio"
+      ]
+    },
+    {
+      "slug": "receitas/feij_o_tropeiro",
+      "title": "Feijão tropeiro",
+      "ingredients": [
+        "feijão preto",
+        "fejão fradinho",
+        "bacon",
+        "manteiga",
+        "linguiça calabresa",
+        "carne de sol",
+        "sal",
+        "farinha de mandioca",
+        "ovo"
+      ]
+    },
+    {
+      "slug": "receitas/feijoada",
+      "title": "Feijoada",
+      "ingredients": [
+        "feijão preto",
+        "orelha de porco",
+        "pé de porco",
+        "lombo de porco",
+        "lingüiça portuguesa",
+        "carne seca",
+        "rabo de porco",
+        "costelinha de porco",
+        "paio",
+        "tempero",
+        "cebola",
+        "louro",
+        "pimenta-do-reino",
+        "pinga",
+        "cebolinha",
+        "alho",
+        "laranja",
+        "sal"
+      ]
+    },
+    {
+      "slug": "receitas/macarronese",
+      "title": "Macarronese",
+      "ingredients": [
+        "macarrão parafuso",
+        "cenoura",
+        "milho",
+        "ervilha",
+        "cebola",
+        "presunto",
+        "queijo mussarela",
+        "maionese",
+        "sal",
+        "pimenta-do-reino",
+        "cheiro-verde"
+      ]
+    },
+    {
+      "slug": "receitas/feijoada_completa",
+      "title": "Feijoada completa",
+      "ingredients": [
+        "feijão preto",
+        "carne seca",
+        "lombo suíno",
+        "costelinha suína defumada",
+        "calabresa",
+        "bacon",
+        "pé de porco salgado",
+        "rabo de porco salgado",
+        "alho",
+        "cebola",
+        "louro em pó",
+        "folhas secas",
+        "sal e pimenta"
+      ]
+    },
+    {
+      "slug": "receitas/feijoada_simples",
+      "title": "Feijoada Simples",
+      "ingredients": [
+        "costela de porco",
+        "carne-seca",
+        "lombo de porco",
+        "feijão preto",
+        "paio",
+        "cebola",
+        "alho",
+        "azeite",
+        "louro",
+        "cominho"
+      ]
+    },
+    {
+      "slug": "receitas/maionese_pratica_de_batata",
+      "title": "Maionese prática de batata",
+      "ingredients": [
+        "batata",
+        "cenoura",
+        "azeitona verde",
+        "cheiro-verde",
+        "maionese",
+        "sal",
+        "salsa"
+      ]
+    },
+    {
+      "slug": "receitas/maminha_assada_ao_molho_madeira_com_champignon",
+      "title": "Maminha assada ao molho madeira com champignon",
+      "ingredients": [
+        "maminha bovina",
+        "manteiga",
+        "páprica defumada",
+        "alho",
+        "sal",
+        "pimenta-do-reino",
+        "farinha de trigo",
+        "extrato de tomate",
+        "vinho tinto seco",
+        "caldo de carne",
+        "champignon",
+        "legumes",
+        "purê de batata",
+        "arroz"
+      ]
+    },
+    {
+      "slug": "receitas/mingau_de_aveia_fit",
+      "title": "Mingau de aveia fit",
+      "ingredients": [
+        "aveia em flocos",
+        "leite",
+        "colher de café de canela em pó",
+        "cravo",
+        "banana"
+      ]
+    },
+    {
+      "slug": "receitas/molho_branco_fit",
+      "title": "Molho branco fit",
+      "ingredients": [
+        "aveia em flocos",
+        "água",
+        "cebola",
+        "alho",
+        "azeite",
+        "sal",
+        "noz-moscada",
+        "pimenta branca"
+      ]
+    },
+    {
+      "slug": "receitas/mandioca_ao_alho",
+      "title": "Mandioca ao alho",
+      "ingredients": [
+        "mandioca",
+        "sal",
+        "azeite",
+        "alho"
+      ]
+    },
+    {
+      "slug": "receitas/molho_de_salsicha",
+      "title": "Molho de salsicha",
+      "ingredients": [
+        "salsicha",
+        "óleo de soja",
+        "alho",
+        "cebola",
+        "tomate",
+        "cheiro-verde",
+        "cebolinha",
+        "água",
+        "mostarda",
+        "ketchup"
+      ]
+    },
+    {
+      "slug": "receitas/molho_chimichurri",
+      "title": "Molho chimichurri",
+      "ingredients": [
+        "salsinha",
+        "orégano",
+        "vinagre de vinho tinto",
+        "azeite",
+        "água",
+        "sal grosso",
+        "pimenta dedo-de-moça",
+        "alho"
+      ]
+    },
+    {
+      "slug": "receitas/molho_vinagrete_para_churrasco",
+      "title": "Molho vinagrete para churrasco",
+      "ingredients": [
+        "cebola",
+        "tomate",
+        "pimentão verde",
+        "cheiro-verde",
+        "azeitonas verdes",
+        "sal",
+        "pimenta-do-reino",
+        "azeite",
+        "vinagre",
+        "água"
+      ]
+    },
+    {
+      "slug": "receitas/molho_madeira",
+      "title": "Molho madeira",
+      "ingredients": [
+        "champignon",
+        "manteiga",
+        "cebola",
+        "alho",
+        "amido de milho",
+        "vinho madeira",
+        "caldo de carne",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/mousse_de_chocolate",
+      "title": "Mousse de chocolate",
+      "ingredients": [
+        "chocolate ao leite",
+        "creme de leite",
+        "ovo",
+        "açúcar"
+      ]
+    },
+    {
+      "slug": "receitas/moqueca---bahia-1758394468201",
+      "title": "Moqueca - Bahia",
+      "ingredients": [
+        "robalo",
+        "alho",
+        "cebola",
+        "tomate",
+        "leite de coco",
+        "azeite de dendê",
+        "pimentão vermelho",
+        "pimentão verde",
+        "pimenta-de-cheiro",
+        "coentro",
+        "sal",
+        "azeite"
+      ]
+    },
+    {
+      "slug": "receitas/mousse_de_maracuj_f_cil_e_cremosa",
+      "title": "Mousse de maracujá fácil e cremosa",
+      "ingredients": [
+        "gelatina sem sabor",
+        "água",
+        "leite condensado",
+        "creme de leite",
+        "suco de maracujá",
+        "amido de milho",
+        "açúcar"
+      ]
+    },
+    {
+      "slug": "receitas/mousse_de_lim_o_r_pida",
+      "title": "Mousse de limão rápida",
+      "ingredients": [
+        "creme de leite",
+        "leite condensado",
+        "suco de limão"
+      ]
+    },
+    {
+      "slug": "receitas/nos_envie_receitas-2",
+      "title": "Envia suas receita pra gente",
+      "ingredients": [
+        "queremos ver aquela receita que você arrasa! manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. é super rápido! se liga no passo a passo abaixo para sua receita ser publicada e bombar"
+      ]
+    },
+    {
+      "slug": "receitas/ovos_rancheiros",
+      "title": "Ovos rancheiros",
+      "ingredients": [
+        "linguiça calabresa",
+        "queijo",
+        "orégano",
+        "ovo",
+        "sal",
+        "pimenta",
+        "salsinha",
+        "cebola",
+        "alho",
+        "molho de tomate"
+      ]
+    },
+    {
+      "slug": "receitas/panqueca_americana",
+      "title": "Panqueca americana",
+      "ingredients": [
+        "farinha de trigo",
+        "açúcar",
+        "sal",
+        "ovo",
+        "leite",
+        "óleo",
+        "manteiga",
+        "fermento químico em pó",
+        "canela em pó",
+        "bicarbonato"
+      ]
+    },
+    {
+      "slug": "receitas/panqueca_americana_fit",
+      "title": "Panqueca americana fit",
+      "ingredients": [
+        "farinha de arroz",
+        "leite desnatado",
+        "ovo",
+        "mel",
+        "fermento químico em pó",
+        "essência de baunilha",
+        "óleo de coco"
+      ]
+    },
+    {
+      "slug": "receitas/pato_no_tucupi",
+      "title": "Pato no tucupi",
+      "ingredients": [
+        "pato",
+        "alho",
+        "tomate",
+        "louro",
+        "óleo",
+        "tucupi",
+        "sal",
+        "cebola",
+        "bacon",
+        "vinagre",
+        "cominho e pimenta do reino",
+        "jambu",
+        "agrião",
+        "farinha de mandioca torrada"
+      ]
+    },
+    {
+      "slug": "receitas/pat_de_frango",
+      "title": "Patê de frango",
+      "ingredients": [
+        "frango",
+        "maionese",
+        "requeijão",
+        "milho-verde",
+        "azeitona verde sem caroço",
+        "cenoura",
+        "cebola",
+        "sal e cheiro-verde"
+      ]
+    },
+    {
+      "slug": "receitas/panqueca_de_carne_moída",
+      "title": "Panqueca de carne moída",
+      "ingredients": [
+        "farinha de trigo",
+        "ovo",
+        "sal",
+        "cebola",
+        "extrato de tomate",
+        "queijo",
+        "leite",
+        "óleo",
+        "carne",
+        "tomate",
+        "creme de leite",
+        "muçarela"
+      ]
+    },
+    {
+      "slug": "receitas/picanha_com_batatonese_de_bacon",
+      "title": "Picanha com batatonese de bacon",
+      "ingredients": [
+        "bacon defumado",
+        "batata",
+        "maionese",
+        "mostarda",
+        "salsinha",
+        "sal e pimenta-do-reino",
+        "picanha bovina",
+        "sal"
+      ]
+    },
+    {
+      "slug": "receitas/pudim_de_leite_condensado",
+      "title": "Pudim de leite condensado",
+      "ingredients": [
+        "açúcar",
+        "água",
+        "ovo",
+        "leite integral",
+        "leite condensado"
+      ]
+    },
+    {
+      "slug": "receitas/pudim_de_p_o_f_cil",
+      "title": "Pudim de pão fácil",
+      "ingredients": [
+        "água",
+        "açúcar",
+        "leite",
+        "ovo",
+        "creme de leite",
+        "leite condensado",
+        "pão francês"
+      ]
+    },
+    {
+      "slug": "receitas/polenta_mole_com_carne_mo_da",
+      "title": "Polenta mole com carne moída",
+      "ingredients": [
+        "azeite",
+        "cebola",
+        "carne",
+        "caldo de carne",
+        "água",
+        "tomate",
+        "manjericão",
+        "manteiga",
+        "sal",
+        "fubá",
+        "queijo gorgonzola"
+      ]
+    },
+    {
+      "slug": "receitas/queijo_cottage",
+      "title": "Queijo cottage",
+      "ingredients": [
+        "leite integral tipo a",
+        "suco de limão",
+        "sal"
+      ]
+    },
+    {
+      "slug": "receitas/picanha_perdig_o_na_brasa_com_farofa_e_vinagrete",
+      "title": "Picanha na brasa com farofa e vinagrete",
+      "ingredients": [
+        "picanha bovina",
+        "sal",
+        "manteiga",
+        "cebola",
+        "farinha de mandioca torrada",
+        "salsinha",
+        "pimenta-do-reino",
+        "tomate",
+        "cebola-roxa",
+        "vinagre",
+        "azeite"
+      ]
+    },
+    {
+      "slug": "receitas/risoto_de_calabresa",
+      "title": "Risoto de calabresa",
+      "ingredients": [
+        "linguiça calabresa",
+        "azeite",
+        "cebola",
+        "aipo",
+        "arroz arbóreo",
+        "vinho branco seco",
+        "caldo de legumes",
+        "queijo parmesão",
+        "limão tahiti",
+        "manteiga",
+        "salsinha",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/rocambole-de-carne-moída--1758386974462",
+      "title": "Rocambole de carne moída",
+      "ingredients": [
+        "coxão duro",
+        "cebola",
+        "alho",
+        "sal",
+        "bacon",
+        "queijo prato",
+        "azeitona verde",
+        "maionese"
+      ]
+    },
+    {
+      "slug": "receitas/salada_tropical",
+      "title": "Salada tropical",
+      "ingredients": [
+        "manga",
+        "tomate",
+        "palmito",
+        "castanha",
+        "alface",
+        "azeite",
+        "mel",
+        "aceto balsâmico",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/salada_de_macarr_o",
+      "title": "Salada de macarrão",
+      "ingredients": [
+        "macarrão parafuso",
+        "água",
+        "peito de peru defumado",
+        "mussarela",
+        "milho",
+        "ervilha",
+        "cenoura",
+        "cebola",
+        "tomate",
+        "salsinha",
+        "manjericão",
+        "sal",
+        "pimenta-do-reino",
+        "creme de leite",
+        "maionese",
+        "frango"
+      ]
+    },
+    {
+      "slug": "receitas/receita-de-tacacá-1758397532347",
+      "title": "Receita de tacacá",
+      "ingredients": [
+        "água",
+        "tucupi",
+        "sal",
+        "goma de mandioca",
+        "pimentas-de-cheiro",
+        "alho",
+        "camarão salgado seco",
+        "chicória",
+        "jambu"
+      ]
+    },
+    {
+      "slug": "receitas/salpic_o_fit",
+      "title": "Salpicão fit",
+      "ingredients": [
+        "frango",
+        "cenoura",
+        "maçã",
+        "milho-verde",
+        "ervilha",
+        "uva-passa",
+        "iogurte natural desnatado",
+        "mostarda",
+        "sal",
+        "pimenta-do-reino",
+        "cheiro-verde"
+      ]
+    },
+    {
+      "slug": "receitas/tacacá-original-do-pará-1758396929691",
+      "title": "Tacacá original do Pará",
+      "ingredients": [
+        "água",
+        "polvilho azedo",
+        "goma de mandioca",
+        "sal",
+        "camarão salgado seco",
+        "chicória",
+        "alho",
+        "pimenta-de-cheiro",
+        "jambu",
+        "tucupi"
+      ]
+    },
+    {
+      "slug": "receitas/sunomono",
+      "title": "Sunomono (salada de pepino japonesa)",
+      "ingredients": [
+        "pepino japonês",
+        "vinagre de arroz",
+        "açúcar",
+        "sal",
+        "gergelim"
+      ]
+    },
+    {
+      "slug": "receitas/strogonoff_fit_vegano",
+      "title": "Strogonoff fit vegano",
+      "ingredients": [
+        "azeite",
+        "cebola",
+        "alho",
+        "cogumelo",
+        "cenoura",
+        "abobrinha",
+        "pimentão vermelho",
+        "mostarda",
+        "ketchup sem açúcar",
+        "molho de tomate",
+        "creme de soja",
+        "sal",
+        "pimenta-do-reino",
+        "cheiro-verde"
+      ]
+    },
+    {
+      "slug": "receitas/torta_de_lim_o_f_cil",
+      "title": "Torta de limão fácil",
+      "ingredients": [
+        "biscoito maisena",
+        "manteiga",
+        "limão",
+        "água",
+        "suco de limão",
+        "leite condensado",
+        "creme de leite"
+      ]
+    },
+    {
+      "slug": "receitas/vinagrete",
+      "title": "Vinagrete",
+      "ingredients": [
+        "tomate",
+        "cebola-roxa",
+        "salsinha",
+        "cebolinha",
+        "pimentão verde",
+        "vinagre de vinho branco",
+        "azeite de oliva",
+        "tomilho",
+        "limão",
+        "sal",
+        "pimenta-do-reino"
+      ]
+    },
+    {
+      "slug": "receitas/viradinho_cremoso_de_milho",
+      "title": "Viradinho cremoso de milho",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/viradinho_de_milho_verde_com_salsinha",
+      "title": "Viradinho de milho-verde com salsinha",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/vinho_verde_gim_spin",
+      "title": "Vinho verde gim spin",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/vitamina_de_abacate",
+      "title": "Vitamina de abacate",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/yakimeshi_de_camar_o",
+      "title": "Yakimeshi de camarão",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/yakimeshi_tradicional",
+      "title": "Yakimeshi tradicional",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/yakimeshi_de_frango",
+      "title": "Yakimeshi de frango",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/yakisoba",
+      "title": "Yakisoba",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/yakisoba_completo",
+      "title": "Yakisoba completo",
+      "ingredients": []
+    },
+    {
+      "slug": "receitas/zuppa_inglese_reaproveitamento",
+      "title": "Zuppa Inglese (reaproveitamento)",
+      "ingredients": []
+    }
+  ]
+}

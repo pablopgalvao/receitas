@@ -22,6 +22,7 @@ servings: 25 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Ovos rancheiros](/images/ovos_rancheiros.jpg)
 
@@ -47,6 +48,7 @@ author: Boil
 - 1 cebola picada
 - 2 dentes de alho picados
 - 200 ml de molho de tomate
+- --
 
 ---
 

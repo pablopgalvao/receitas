@@ -1,0 +1,48 @@
+---
+title: Frango oriental com acelga e broto de feijão
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 20 minutos
+calories: ''
+author: Boil
+flags: []
+---
+![Frango oriental com acelga e broto de feijão](/images/frango_oriental_com_acelga_e_broto_de_feij_o.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 20 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- Frango com crosta de parmesão e panzanella de frigideira (salada morna)
+- 1 colher (sopa) de amido de milho
+- ¼ de xícara (chá) de shoyu (molho de soja)
+- 2 colheres (sopa) de óleo
+- sal e pimenta-do-reino moída na hora a gosto
+- cebolinha fatiada a gosto para sevir
+- Corte os filés de frango em cubos de 1,5 cm e transfira para uma tigela. Numa tigela pequena misture o amido de milho com 2 colheres (sopa) de shoyu, junte ao frango e deixe marinar por 20 minutos. Enquanto isso, prepare os outros ingredientes.
+- Leve uma panela wok (ou frigideira grande) ao fogo alto. Quando aquecer, regue com 1 colher (sopa) de óleo, junte o frango (sem o líquido da marinada) e deixe dourar por cerca de 3 minutos, mexendo de vez em quando.
+- Afaste o frango para as laterais da panela. Regue o centro da wok com o restante do óleo, acrescente a cebola e refogue por 1 minuto. Abaixe o fogo, junte o broto de feijão e misture com o frango e a cebola. Adicione a acelga em etapas e vá misturando para murchar. Regue com o restante do shoyu, o líquido da marinada e mexa por mais 5 minutos para incorporar os sabores e formar um molho. Desligue o fogo, prove, acerte o sal (se precisar, o shoyu já é bem salgado) e tempere a gosto com pimenta-do-reino. Sirva a seguir com o molho que se formou na panela e cebolinha fatiada. Fica uma delícia com arroz cateto integral.
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Corte os filés de frango em cubos de 1,5 cm e transfira para uma tigela. Numa tigela pequena misture o amido de milho com 2 colheres (sopa) de shoyu, junte ao frango e deixe marinar por 20 minutos. Enquanto isso, prepare os outros ingredientes.
+2. Em um escorredor, lave o broto de feijão sob água corrente. Solte as folhas do maço de acelga e lave sob água corrente. Na tábua, empilhe uma folha de acelga sobre a outra e corte em fatias de 3 cm de largura. Descasque e corte a cebola em cubos médios.
+3. Leve uma panela wok (ou frigideira grande) ao fogo alto. Quando aquecer, regue com 1 colher (sopa) de óleo, junte o frango (sem o líquido da marinada) e deixe dourar por cerca de 3 minutos, mexendo de vez em quando.
+4. Afaste o frango para as laterais da panela. Regue o centro da wok com o restante do óleo, acrescente a cebola e refogue por 1 minuto. Abaixe o fogo, junte o broto de feijão e misture com o frango e a cebola. Adicione a acelga em etapas e vá misturando para murchar. Regue com o restante do shoyu, o líquido da marinada e mexa por mais 5 minutos para incorporar os sabores e formar um molho. Desligue o fogo, prove, acerte o sal (se precisar, o shoyu já é bem salgado) e tempere a gosto com pimenta-do-reino. Sirva a seguir com o molho que se formou na panela e cebolinha fatiada. Fica uma delícia com arroz cateto integral.

@@ -17,6 +17,7 @@ servings: ''
 time: 15 minutos
 calories: ''
 author: Boil
+flags: []
 ---
 ![Sunomono](/images/sunomono.jpg)
 
@@ -37,6 +38,7 @@ author: Boil
 - 3 colheres de sopa de açúcar
 - 1 colher de chá de sal
 - Gergelim torrado a gosto
+- --
 
 ---
 

@@ -23,6 +23,7 @@ servings: 50 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Batata gratinada](/images/batata_gratinada.jpg)
 
@@ -49,6 +50,7 @@ author: Boil
 - 1 colher de chá de orégano
 - 3 colheres de sopa de manteiga em temperatura ambiente (ou derretida)
 - Parmesão ralado a gosto
+- --
 
 ---
 

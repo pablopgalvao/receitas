@@ -22,6 +22,7 @@ servings: 45 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Panqueca americana](/images/panqueca_americana.jpg)
 
@@ -47,6 +48,7 @@ author: Boil
 - Óleo ou manteiga para untar
 - 1 colher de chá de canela em pó (opcional)
 - 1/2 colher de chá de bicarbonato (opcional)
+- --
 
 ---
 

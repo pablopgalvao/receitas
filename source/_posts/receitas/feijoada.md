@@ -30,6 +30,7 @@ servings: 20 porções
 time: 2 horas e 20 minutos
 calories: ''
 author: Boil
+flags: []
 ---
 ![Feijoada](/images/feijoada.jpg)
 
@@ -63,6 +64,7 @@ author: Boil
 - 6 dentes de alho
 - 1 ou 2 laranjas
 - Sal se precisar
+- --
 
 ---
 

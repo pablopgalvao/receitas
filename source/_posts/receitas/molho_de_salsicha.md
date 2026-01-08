@@ -22,6 +22,7 @@ servings: 30 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Molho de salsicha](/images/molho_de_salsicha.jpg)
 
@@ -47,6 +48,7 @@ author: Boil
 - 340 ml de água
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de ketchup
+- --
 
 ---
 

@@ -2,7 +2,7 @@
   "_meta": {
     "description": "Overrides manuais para normalização de ingredientes",
     "priority": "overrides > synonyms > canonical > prompt",
-    "lastUpdated": "2026-01-02"
+    "lastUpdated": "2026-01-08"
   },
   "overrides": {
     "1": "caldo de carne",
@@ -359,6 +359,8 @@
     "colher de sopa de tomilho opcional": "tomilho",
     "suco de 1": "limão",
     "limão": "limão",
-    "derretida": "manteiga"
+    "derretida": "manteiga",
+    "feijão-fradinho": "feijão-fradinho",
+    "ingrediente 1": "ingrediente 1"
   }
 }

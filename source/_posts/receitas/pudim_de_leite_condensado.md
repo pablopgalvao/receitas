@@ -17,6 +17,7 @@ servings: ''
 time: 45 minutos + 2 horas de geladeira
 calories: ''
 author: Boil
+flags: []
 ---
 ![Pudim de leite condensado](/images/pudim_de_leite_condensado.jpg)
 
@@ -37,6 +38,7 @@ author: Boil
 - 3 ovos médios
 - 320 ml de leite integral
 - 1 lata de leite condensado (395 g)
+- --
 
 ---
 

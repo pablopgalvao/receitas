@@ -1,0 +1,53 @@
+---
+title: Costelinha de porco com geleia em crosta de castanha-de-caju
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 25 minutos
+calories: ''
+author: Boil
+flags: []
+---
+![Costelinha de porco com geleia em crosta de castanha-de-caju](/images/costelinha_de_porco_com_geleia_em_crosta_de_castanha_de_caju.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 25 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1,5 kg de costela de porco em peça (cerca de 12 ripas)
+- ⅓ de xícara (chá) de castanha-de-caju
+- ¼ de xícara (chá) de geleia de laranja
+- 1 xícara (chá) de vinho branco
+- azeite a gosto
+- sal e pimenta-do-reino moída na hora a gosto
+- Tempere os dois lados da costela com sal e pimenta. Numa assadeira grande, coloque 5 galhos de alecrim e disponha a peça sobre as ervas, com o lado da carne para cima.
+- Bata a castanha-de-caju no pilão até formar uma farofa grossa, reserve. Ainda no pilão (nem precisa lavar), bata 1 dente de alho com ½ colher (chá) de sal até formar uma pasta. Junte a geleia de laranja e misture bem.
+- Com uma colher, espalhe a geleia temperada sobre a costela e salpique a castanha-de-caju. Leve ao forno para assar por cerca de 25 minutos, ou até dourar.
+- Retire a assadeira do forno e diminua a temperatura para 160 ºC (temperatura baixa). Distribua os gomos de cebola e dentes de alho ao redor da costelinha, e tempere com sal e azeite. Regue a assadeira com o vinho e cubra com papel alumínio.
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Preaqueça o forno a 220 ºC (temperatura alta).
+2. Retire o excesso de gordura da costelinha (se houver). Caso sua assadeira seja pequena, corte a peça ao meio, no sentido da largura – faça o corte entre dois ossinhos para facilitar.
+3. Tempere os dois lados da costela com sal e pimenta. Numa assadeira grande, coloque 5 galhos de alecrim e disponha a peça sobre as ervas, com o lado da carne para cima.
+4. Bata a castanha-de-caju no pilão até formar uma farofa grossa, reserve. Ainda no pilão (nem precisa lavar), bata 1 dente de alho com ½ colher (chá) de sal até formar uma pasta. Junte a geleia de laranja e misture bem.
+5. Com uma colher, espalhe a geleia temperada sobre a costela e salpique a castanha-de-caju. Leve ao forno para assar por cerca de 25 minutos, ou até dourar.
+6. Enquanto isso, corte as cebolas em quartos, passando a faca pela raiz e descasque - dessa forma os gomos ficam unidos. Descasque os dentes de alho.
+7. Retire a assadeira do forno e diminua a temperatura para 160 ºC (temperatura baixa). Distribua os gomos de cebola e dentes de alho ao redor da costelinha, e tempere com sal e azeite. Regue a assadeira com o vinho e cubra com papel alumínio.
+8. Volte ao forno e deixe assar por mais 2 horas, até a carne ficar bem macia. Retire do forno e transfira a costela para a tábua. Corte em ripas e sirva com a cebola, os dentes de alho e o molho que se formou na assadeira.

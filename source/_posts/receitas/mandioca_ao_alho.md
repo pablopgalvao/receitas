@@ -19,6 +19,7 @@ servings: 8 Porções
 time: 45 minutos
 calories: ''
 author: Boil
+flags: []
 ---
 ![Mandioca ao alho](/images/mandioca_ao_alho.webp)
 
@@ -38,6 +39,7 @@ author: Boil
 - sal a gosto
 - 4 colheres (sopa) de azeite
 - 4 dentes de alho fatiados
+- --
 
 ---
 

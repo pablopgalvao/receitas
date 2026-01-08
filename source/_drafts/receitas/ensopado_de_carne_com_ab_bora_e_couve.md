@@ -1,0 +1,60 @@
+---
+title: Ensopado de carne com abóbora e couve
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 2 minutos
+calories: ''
+author: Boil
+flags: []
+---
+![Ensopado de carne com abóbora e couve](/images/ensopado_de_carne_com_ab_bora_e_couve.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 2 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 kg de acém
+- 400 g de abóbora japonesa (cerca de 3 xícaras [chá]) cortada em cubos de 3 cm)
+- ⅓ de xícara (chá) de bacon em cubos (cerca de 50 g) (opcional)
+- 1½ xícara (chá) de água quente
+- 2 colheres (sopa) de vinagre de vinho branco
+- 1 colher (chá) de cominho em pó
+- 1 pitada de açúcar
+- 3 colheres (sopa) de azeite Andorinha
+- pimenta-do-reino moída na hora a gosto
+- Corte o acém em cubos de 3 cm. Transfira para uma tigela e tempere com 1 colher (chá) de sal, o cominho e pimenta-do-reino a gosto. Misture bem com as mãos para envolver todos os pedaços de carne no tempero e mantenha em temperatura ambiente enquanto prepara os outros ingredientes — a carne não pode estar gelada na hora de ir para a panela.
+- Descasque e corte as cebolas em cubos de 2 cm. Descasque e pique fino os dentes de alho. Numa chaleira, leve um pouco mais de 1½ xícara (chá) de água para aquecer.
+- Leve uma panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure a carne em etapas, sem amontoar, por cerca de 2 minutos de cada lado — se colocar tudo de uma só vez, a carne vai esfriar o fundo da panela e cozinhar no próprio vapor em vez de dourar.
+- Transfira a carne dourada para uma tigela e repita o processo com os pedaços restantes, regando a panela com 1 colher (chá) de azeite a cada leva.
+- Mantenha a panela em fogo médio, regue com 1 colher (chá) de azeite e acrescente o bacon. Refogue por cerca de 1 minuto, até começar a soltar a gordura. Adicione a cebola, tempere com uma pitada de sal e de açúcar e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até a cebola dourar. Junte o alho, a canela e o louro e mexa por 1 minuto para perfumar.
+- Regue com o vinagre, raspando bem o fundo da panela com a espátula para dissolver os queimadinhos — são eles que dão mais sabor ao preparo. Acrescente a água quente, volte a carne para a panela e tempere com 1 colher (chá) de sal. Tampe a panela e aumente o fogo. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Corte o acém em cubos de 3 cm. Transfira para uma tigela e tempere com 1 colher (chá) de sal, o cominho e pimenta-do-reino a gosto. Misture bem com as mãos para envolver todos os pedaços de carne no tempero e mantenha em temperatura ambiente enquanto prepara os outros ingredientes — a carne não pode estar gelada na hora de ir para a panela.
+2. Descasque e corte as cebolas em cubos de 2 cm. Descasque e pique fino os dentes de alho. Numa chaleira, leve um pouco mais de 1½ xícara (chá) de água para aquecer.
+3. Leve uma panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure a carne em etapas, sem amontoar, por cerca de 2 minutos de cada lado — se colocar tudo de uma só vez, a carne vai esfriar o fundo da panela e cozinhar no próprio vapor em vez de dourar.
+4. Transfira a carne dourada para uma tigela e repita o processo com os pedaços restantes, regando a panela com 1 colher (chá) de azeite a cada leva.
+5. Mantenha a panela em fogo médio, regue com 1 colher (chá) de azeite e acrescente o bacon. Refogue por cerca de 1 minuto, até começar a soltar a gordura. Adicione a cebola, tempere com uma pitada de sal e de açúcar e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até a cebola dourar. Junte o alho, a canela e o louro e mexa por 1 minuto para perfumar.
+6. Regue com o vinagre, raspando bem o fundo da panela com a espátula para dissolver os queimadinhos — são eles que dão mais sabor ao preparo. Acrescente a água quente, volte a carne para a panela e tempere com 1 colher (chá) de sal. Tampe a panela e aumente o fogo. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.
+7. Enquanto isso, lave e seque as folhas de couve: com as mãos, puxe e retire os talos; rasgue as folhas em pedaços de cerca de 4 cm. Dica: use os talos para preparar um picles.
+8. Após os 25 minutos, desligue o fogo e, com cuidado, leve a panela para esfriar sob água corrente até sair toda a pressão. Atenção: a água não deve entrar em contato com nenhuma das válvulas, apenas com a superfície lisa da tampa.
+9. Abra a panela, adicione os pedaços de abóbora e misture delicadamente. Tampe novamente e volte ao fogo alto. Assim que a panela pegar pressão, abaixe o fogo e conte 1 minuto. Desligue o fogo e, com cuidado, leve a panela para esfriar sob água corrente novamente.
+10. Abra a panela e misture a couve — ela vai cozinhar no calor do ensopado; alguns pedaços de abóbora se quebram e se misturam ao caldo, dando mais sabor e até engrossando o preparo. Sirva a seguir.

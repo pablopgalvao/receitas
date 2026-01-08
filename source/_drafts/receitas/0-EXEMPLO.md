@@ -1,18 +1,38 @@
+---
 title: EXEMPLO
+date: 2025-09-20T00:00:00.000Z
 categories:
   - Variados
 tags:
   - Popular Brasil
 ingredients:
-  - null
+  list: []
 difficulty: fácil
-time: 120 minutos
 servings: 10 porções
+time: 120 minutos
+calories: ''
 author: Boil
-date: 2025-09-20 00:00:00
-calories:
+flags:
+  - needs_review
 ---
 ![Acarajé](/image/)
 
-## Modo de Preparo
-1. 
+## 📝 Informações da Receita
+
+- **Categoria:** Variados
+- **Dificuldade:** fácil
+- **Rendimento:** 10 porções
+- **Tempo de preparo:** 120 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- null
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. [inserir se existir]

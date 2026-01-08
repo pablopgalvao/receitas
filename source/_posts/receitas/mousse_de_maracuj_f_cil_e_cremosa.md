@@ -19,6 +19,7 @@ servings: 250 porções
 time: 5 minutos + 4 horas de geladeira
 calories: ''
 author: Boil
+flags: []
 ---
 ![Mousse de maracujá fácil e cremosa](/images/mousse_de_maracuj_f_cil_e_cremosa.jpg)
 
@@ -43,6 +44,7 @@ author: Boil
 - 1 colher de sopa de amido de milho
 - 3 colheres de sopa de suco de maracujá natural coado
 - 3 colheres de sopa de açúcar
+- --
 
 ---
 

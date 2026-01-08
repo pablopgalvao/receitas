@@ -20,6 +20,7 @@ servings: 5 pessoas
 time: 40 min
 calories: ''
 author: Boil
+flags: []
 ---
 ![ROCAMBOLE DE CARNE MOÍDA ](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Frocambole-de-carne-mo%C3%ADda--1758386970633.jpg?alt=media&token=28d64b94-1bfb-4761-ae8d-a9f64df9cfb4)
 
@@ -43,6 +44,7 @@ author: Boil
 - 200g de queijo prato fatiado
 - 1/2 xícara (chá) de azeitona verde picada
 - 2 colheres (sopa) de maionese
+- --
 
 ---
 

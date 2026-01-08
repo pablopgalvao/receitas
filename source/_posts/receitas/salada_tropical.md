@@ -22,6 +22,7 @@ servings: 20 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Salada tropical](/images/salada_tropical.jpg)
 
@@ -46,6 +47,7 @@ author: Boil
 - 1 colher de sopa de mel
 - 2 colheres de sopa de aceto balsâmico
 - Sal e pimenta-do-reino a gosto
+- --
 
 ---
 

@@ -16,6 +16,7 @@ servings: 30 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Mousse de chocolate](/images/mousse_de_chocolate.jpg)
 
@@ -35,6 +36,7 @@ author: Boil
 - 1 caixinha de creme de leite (200 gramas)
 - 3 claras de ovo
 - 3 colheres de sopa de açúcar
+- --
 
 ---
 

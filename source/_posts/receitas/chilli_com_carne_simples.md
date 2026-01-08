@@ -24,6 +24,7 @@ servings: 45 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Chilli com carne simples](/images/chilli_com_carne_simples.jpg)
 
@@ -50,6 +51,7 @@ author: Boil
 - 2 xícaras de chá de água
 - 2 xícaras de chá de feijão-vermelho cozido (pode ser feijão carioca)
 - Coentro picado a gosto (ou salsinha)
+- --
 
 ---
 

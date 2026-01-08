@@ -1,0 +1,60 @@
+---
+title: Arroz com frango cremoso
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 40min
+calories: ''
+author: Boil
+flags: []
+---
+![Arroz com frango cremoso](/images/arroz_com_frango_cremoso.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 40min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 500 gramas de peito de frango (sem osso)
+- 2 colheres de sopa de óleo
+- Pimenta-do-reino a gosto
+- Colorau a gosto
+- Sal a gosto
+- 1 e 1/2 xícara de arroz cru (aproximadamente 330 gramas)
+- 1 caixinha de creme de leite (200 gramas)
+- 1 xícara de chá de leite integral (240 ml)
+- 2 colheres de sopa de extrato de tomate
+- Cheiro-verde picado a gosto
+- Queijo parmesão ou mussarela ralado a gosto
+- Em uma panela de pressão, aqueça o óleo e refogue o alho até liberar aroma, sem dourar demais. Adicione o frango picado e mexa até que ele fique completamente esbranquiçado;
+- Tempere com o caldo de galinha esfarelado, pimenta-do-reino, colorau e sal. Misture bem. Acrescente o arroz cru, misture para envolver com os temperos e cubra com água fervente;
+- Ligue o fogo novamente, adicione o creme de leite, o leite e o extrato de tomate. Misture até obter um arroz bem cremoso. Finalize com cheiro-verde picado e ajuste o sal, se necessário. Deixe ferver até atingir a textura desejada;
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Organize sua bancada e separe todos os ingredientes. Pique o frango em cubos pequenos. Descasque e pique os dentes de alho em cubinhos. Higienize e pique o cheiro-verde finamente;
+2. Em uma panela de pressão, aqueça o óleo e refogue o alho até liberar aroma, sem dourar demais. Adicione o frango picado e mexa até que ele fique completamente esbranquiçado;
+3. Tempere com o caldo de galinha esfarelado, pimenta-do-reino, colorau e sal. Misture bem. Acrescente o arroz cru, misture para envolver com os temperos e cubra com água fervente;
+4. Tampe a panela, aguarde pegar pressão e conte 8 minutos de cozimento em fogo médio. Após o tempo, deixe a pressão sair naturalmente com cuidado e abra a panela;
+5. Ligue o fogo novamente, adicione o creme de leite, o leite e o extrato de tomate. Misture até obter um arroz bem cremoso. Finalize com cheiro-verde picado e ajuste o sal, se necessário. Deixe ferver até atingir a textura desejada;
+6. Transfira para uma travessa e finalize com queijo parmesão ralado ou fatias de mussarela por cima. Se quiser gratinar, leve ao forno preaquecido a 180ºC por aproximadamente 15 a 20 minutos;
+7. E está pronto! Aproveite seus sabores.

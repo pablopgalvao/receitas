@@ -26,6 +26,7 @@ servings: ''
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Baião de dois](/images/bai_o_de_dois.jpg)
 
@@ -54,6 +55,7 @@ author: Boil
 - Coentro picado a gosto
 - sal a gosto
 - pimenta-do-reino moída a gosto
+- --
 
 ---
 

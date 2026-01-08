@@ -23,6 +23,7 @@ servings: ''
 time: 15 minutos + 1 hora de geladeira
 calories: ''
 author: Boil
+flags: []
 ---
 ![Vinagrete](/images/vinagrete.jpg)
 
@@ -48,6 +49,7 @@ author: Boil
 - 1/2 colher de sopa de tomilho (opcional)
 - Suco de 1/2 limão
 - Sal e pimenta-do-reino a gosto
+- --
 
 ---
 

@@ -28,6 +28,7 @@ servings: 40 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Salada de macarrão](/images/salada_de_macarr_o.jpg)
 
@@ -57,6 +58,7 @@ author: Boil
 - 200 gramas de creme de leite
 - 5 colheres de sopa de maionese
 - 200 gramas de filé de frango desfiado (opcional)
+- --
 
 ---
 

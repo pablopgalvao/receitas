@@ -21,6 +21,7 @@ servings: 6 porções
 time: 1 hora
 calories: ''
 author: Boil
+flags: []
 ---
 ![Acarajé](/images/arroz_carreteiro_simples.jpg)
 
@@ -45,6 +46,7 @@ author: Boil
 - 200 g de calabresa
 - 1 cebola grande
 - Salsa
+- --
 
 ---
 

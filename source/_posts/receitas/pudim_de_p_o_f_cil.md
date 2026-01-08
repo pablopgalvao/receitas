@@ -19,6 +19,7 @@ servings: 57 porções
 time: 50 minutos + 3 horas de geladeira
 calories: ''
 author: Boil
+flags: []
 ---
 ![Pudim de pão fácil](/images/pudim_de_p_o_f_cil.jpg)
 
@@ -41,6 +42,7 @@ author: Boil
 - 1 caixinha de creme de leite (200 g)
 - 1 lata de leite condensado (395 g)
 - 3 pães franceses amanhecidos em pedaços
+- --
 
 ---
 

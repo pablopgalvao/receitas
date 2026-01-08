@@ -1,0 +1,58 @@
+---
+title: Filé de pescada frita com saladinha de ervas e purê de ervilha
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 3 minutos
+calories: ''
+author: Boil
+flags: []
+---
+![Filé de pescada frita com saladinha de ervas e purê de ervilha](/images/fil_de_pescada_frita_com_saladinha_de_ervas_e_pur_de_ervilha.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 3 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 colheres (sopa) de manteiga
+- ¼ de xícara (chá) de água
+- folhas de hortelã lavadas a gosto
+- sal e pimenta-do-reino moída na hora a gosto
+- Coloque a manteiga numa frigideira grande e leve ao fogo médio. Assim que derreter, junte a cebola e refogue por cerca de 3 minutos até murchar.
+- Acrescente as ervilhas congeladas, misture e tempere com sal e pimenta-do-reino a gosto. Refogue por cerca de 5 minutos para descongelar. Acrescente a água e deixe cozinhar por mais 2 minutos, até a ervilha ficar macia.
+- Transfira as ervilhas (com o líquido do cozimento) para o copo do mixer. Acrescente as folhas de hortelã e bata até formar um purê (se preferir bata o purê no liquidificador). Prove e acerte o sal. Transfira para uma tigela e reserve.
+- 1 xícara (chá) de farinha de trigo
+- folhas de salsinha a gosto
+- folhas de hortelã a gosto
+- folhas de coentro a gosto
+- óleo para fritar
+- azeite a gosto
+- sal e pimenta-do-reino moída na hora a gosto
+- Numa travessa coloque os filés de peixe, regue com o caldo de limão e tempere com sal e pimenta-do-reino moída na hora a gosto. Deixe em temperatura ambiente enquanto separa os outros ingredientes.
+- Coloque a farinha de trigo num prato fundo (ou assadeira), tempere com sal a gosto e misture. Forre uma travessa com papel-toalha e reserve.
+- Leve ao fogo médio uma frigideira com cerca de ¼ de xícara (chá) de óleo para aquecer - a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente apenas para cobrir o fundo.
+- Retire dois filés de peixe do tempero e deixe escorrer o excesso de caldo de limão. Passe pela farinha de trigo, empanando bem dos dois lados - pressione delicadamente com as mãos para a farinha grudar.
+- Assim que o óleo estiver quente, coloque delicadamente os filés de peixe empanados. Deixe por cerca de 3 minutos até ficar com a casquinha dourada. Com uma escumadeira, vire os filés para dourar o outro lado por igual. Enquanto isso, empane os filés de peixe restantes.
+- [object Object]
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Coloque a manteiga numa frigideira grande e leve ao fogo médio. Assim que derreter, junte a cebola e refogue por cerca de 3 minutos até murchar.
+2. Acrescente as ervilhas congeladas, misture e tempere com sal e pimenta-do-reino a gosto. Refogue por cerca de 5 minutos para descongelar. Acrescente a água e deixe cozinhar por mais 2 minutos, até a ervilha ficar macia.
+3. Transfira as ervilhas (com o líquido do cozimento) para o copo do mixer. Acrescente as folhas de hortelã e bata até formar um purê (se preferir bata o purê no liquidificador). Prove e acerte o sal. Transfira para uma tigela e reserve.

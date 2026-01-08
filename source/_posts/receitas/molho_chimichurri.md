@@ -20,6 +20,7 @@ servings: ''
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Molho chimichurri](/images/molho_chimichurri.jpg)
 
@@ -43,6 +44,7 @@ author: Boil
 - 1/2 colher de sopa de sal grosso
 - 2 pimentas dedo-de-moça sem sementes picadas
 - 2 dentes de alho picados
+- --
 
 ---
 

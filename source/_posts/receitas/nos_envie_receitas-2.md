@@ -27,6 +27,7 @@ servings: ''
 time: 2 minutos
 calories: ''
 author: Boil
+flags: []
 ---
 ![Diversos ingredientes](/images/ingredientes.jpg)
 
@@ -43,6 +44,7 @@ author: Boil
 ## 🧄 Ingredientes
 
 - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar
+- --
 
 ---
 

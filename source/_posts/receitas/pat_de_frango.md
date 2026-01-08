@@ -20,6 +20,7 @@ servings: ''
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Patê de frango](/images/pat_de_frango.jpg)
 
@@ -43,6 +44,7 @@ author: Boil
 - 1 cenoura ralada (opcional)
 - 1/2 cebola ralada (opcional)
 - Sal e cheiro-verde a gosto
+- --
 
 ---
 

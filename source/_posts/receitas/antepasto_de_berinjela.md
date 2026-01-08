@@ -22,6 +22,7 @@ servings: 10 porções
 time: 120 minutos
 calories: ''
 author: Boil
+flags: []
 ---
 ![Antepasto de berinjela](/images/antepasto_de_berinjela.jpg)
 
@@ -47,6 +48,7 @@ author: Boil
 - pimenta-do-reino
 - chimichurri
 - orégano a gosto
+- --
 
 ---
 

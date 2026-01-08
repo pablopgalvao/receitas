@@ -21,6 +21,7 @@ servings: 59 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Feijão-tropeiro](/images/feij_o_tropeiro.jpg)
 
@@ -45,6 +46,7 @@ author: Boil
 - sal a gosto
 - 1 xícara de chá de farinha de mandioca
 - 3 ovos cozidos cortados em rodelas
+- --
 
 ---
 

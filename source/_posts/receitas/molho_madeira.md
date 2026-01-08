@@ -21,6 +21,7 @@ servings: 30 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Molho madeira](/images/molho_madeira.jpg)
 
@@ -44,6 +45,7 @@ author: Boil
 - 100 ml de vinho madeira
 - 500 ml de caldo de carne
 - Sal e pimenta-do-reino a gosto
+- --
 
 ---
 

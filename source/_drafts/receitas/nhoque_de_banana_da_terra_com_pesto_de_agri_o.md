@@ -1,0 +1,61 @@
+---
+title: Nhoque de banana-da-terra com pesto de agrião
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 20 minutos
+calories: ''
+author: Boil
+flags: []
+---
+![Nhoque de banana-da-terra com pesto de agrião](/images/nhoque_de_banana_da_terra_com_pesto_de_agri_o.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 20 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- Nhoque de mandioquinha com molho de manteiga e sálvia
+- ¾ de xícara (chá) de amido de milho
+- ½ xícara (chá) de água
+- ⅔ de xícara (chá) de queijo meia-cura ralado fino
+- 4 colheres (sopa) de azeite Andorinha
+- ½ colher (chá) de sal
+- pimenta-do-reino moída na hora a gosto
+- lascas de queijo meia-cura a gosto para servir
+- castanha-de-caju picada a gosto para servir
+- Assim que as bananas amornarem (para poder manusear), corte cada uma ao meio, no sentido do comprimento, e transfira a polpa com uma colher para uma panela média. Bata com o mixer até formar um creme liso (se preferir, amasse bem as bananas com um garfo).
+- Numa tigela, misture o amido de milho com a água para dissolver. Junte ao creme de banana, tempere com o sal e pimenta-do-reino a gosto. Leve ao fogo médio para cozinhar por cerca de 5 minutos, mexendo com uma espátula, até formar uma massa que se solte do fundo da panela. Adicione o queijo e misture bem.
+- Leve uma frigideira grande, de preferência antiaderente, ao fogo médio para aquecer. Regue com 2 colheres (sopa) de azeite e coloque ⅓ dos nhoques. Deixe dourar por cerca de 2 minutos de cada lado e transfira para um prato. Repita a operação com o restante, regando a frigideira com 1 colher (sopa) de azeite a cada leva.
+- ⅓ de xícara (chá) de castanha-de-caju torrada sem sal
+- 2 colheres (sopa) de caldo de limão
+- ¾ de xícara (chá) de azeite Andorinha
+- ½ colher (chá) de sal
+- Destaque as folhas dos talos mais grossos do agrião — os talos mais finos podem ser batidos junto com as folhas, já os talos mais grossos podem ser reaproveitados em outras receitas. Coloque as folhas e os talos mais finos numa tigela e lave com água corrente. Transfira o agrião para uma centrífuga de saladas e seque bem.
+- No liquidificador, ponha as folhas e os talos de agrião, junte as castanhas, o azeite, o caldo de limão e o gelo. Tempere com o sal e bata bem até ficar liso — comece no modo pulsar para triturar os talos; se necessário, pare de bater e raspe a lateral do copo para incorporar todos os ingredientes. Transfira para uma molheira e reserve.
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Preaqueça o forno a 180 ºC (temperatura média).
+2. Coloque as bananas (com a casca mesmo) numa assadeira, uma ao lado da outra, e leve ao forno para assar por cerca de 20 minutos, ou até que a casca fique bem escura e o interior macio — espete a pontinha de uma faca para verificar o ponto. O tempo pode variar de acordo com o estágio de maturação da banana. Retire do forno e reserve.
+3. Assim que as bananas amornarem (para poder manusear), corte cada uma ao meio, no sentido do comprimento, e transfira a polpa com uma colher para uma panela média. Bata com o mixer até formar um creme liso (se preferir, amasse bem as bananas com um garfo).
+4. Numa tigela, misture o amido de milho com a água para dissolver. Junte ao creme de banana, tempere com o sal e pimenta-do-reino a gosto. Leve ao fogo médio para cozinhar por cerca de 5 minutos, mexendo com uma espátula, até formar uma massa que se solte do fundo da panela. Adicione o queijo e misture bem.
+5. Transfira a massa de nhoque para uma travessa e deixe esfriar em temperatura ambiente por cerca de 20 minutos, para atingir o ponto de enrolar. Enquanto isso, prepare o pesto de agrião.
+6. Para modelar os nhoques: retire uma porção da massa e aperte com as mãos para ficar mais maleável e uniforme. Coloque a massa na bancada e modele um rolinho de cerca de 1 cm de diâmetro. Com a espátula de padeiro (ou faca) corte o rolinho a cada 2 cm, na diagonal, para formar os nhoques. Repita o processo com toda a massa.
+7. Leve uma frigideira grande, de preferência antiaderente, ao fogo médio para aquecer. Regue com 2 colheres (sopa) de azeite e coloque ⅓ dos nhoques. Deixe dourar por cerca de 2 minutos de cada lado e transfira para um prato. Repita a operação com o restante, regando a frigideira com 1 colher (sopa) de azeite a cada leva.
+8. Sirva os nhoques com o pesto de agrião, castanha-de-caju picada e lascas de queijo meia-cura.

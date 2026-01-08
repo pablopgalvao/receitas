@@ -25,6 +25,7 @@ servings: 60 porções
 time: ''
 calories: ''
 author: Boil
+flags: []
 ---
 ![Cuscuz paulista](/images/cuscuz_paulista.jpg)
 
@@ -53,6 +54,7 @@ author: Boil
 - 200 ml de água
 - 2 xícaras de chá de farinha de milho flocada
 - 3 ovos cozidos cortados em rodelas
+- --
 
 ---
 

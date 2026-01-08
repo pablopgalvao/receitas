@@ -1,0 +1,55 @@
+---
+title: Ensopadinho de camarão com chuchu
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 3 minutos
+calories: ''
+author: Boil
+flags: []
+---
+![Ensopadinho de camarão com chuchu](/images/ensopadinho_de_camar_o_com_chuchu.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 3 minutos
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 kg de camarão descascado e limpo (nós usamos o cinza médio)
+- 2 xícaras (chá) de água
+- 4 colheres (sopa) de azeite
+- 2 colheres (sopa) de coentro picado
+- sal e pimenta-do-reino moída na hora a gosto
+- folhas de coentro a gosto para servir
+- Leve uma frigideira grande com bordas altas (ou uma panela) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure os camarões em etapas, sem amontoar – se colocar todos ao mesmo tempo eles vão soltar o próprio líquido e cozinhar no vapor em vez de dourar. Tempere com sal e pimenta e vire com uma pinça para dourar o outro lado. Transfira para uma tigela e repita com o restante, regando a frigideira com ½ colher (sopa) de azeite a cada leva.
+- Mantenha a panela em fogo médio e regue com mais 1 colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Junte o alho e mexa por 1 minuto para perfumar.
+- Adicione os tomates, tempere com sal e misture, raspando bem o fundo da frigideira para dissolver os queimadinhos do camarão – eles dão sabor ao molho. Deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando e amassando os cubinhos de tomate com a espátula.
+- Regue com a água e o líquido da marinada dos camarões, tempere com 1 colher (chá) de sal e misture bem. Acrescente os cubos de chuchu e mantenha a frigideira em fogo médio. Quando ferver, abaixe o fogo, tampe a panela e deixe cozinhar até o chuchu ficar macio, por cerca de 30 minutos – cuidado para o chuchu não cozinhar demais e desmanchar.
+- Assim que o chuchu estiver cozido, volte os camarões para a panela. Misture e deixe cozinhar por mais 2 minutos para aquecer – se o camarão cozinhar muito, pode ficar borrachudo. Desligue o fogo e misture o coentro picado. Sirva a seguir com acaçá e folhas de coentro a gosto.
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Comece o preparo pelos tomates. Leve uma panela média com água ao fogo alto e separe uma tigela com água e gelo. Lave os tomates e faça um corte em x na base de cada um. Assim que a água ferver, mergulhe os tomates e deixe cozinhar apenas até a pele começar a se soltar. Com uma escumadeira, transfira os tomates para a tigela com água e gelo – o choque térmico faz com que a casca se desprenda facilmente. A partir do x, puxe e descarte as cascas.
+2. Lave os camarões sob água corrente, escorra bem numa peneira e transfira para uma tigela. Regue com o caldo de limão e deixe marinando enquanto termina de preparar os outros ingredientes.
+3. Descasque e pique a cebola em cubos pequenos. Descasque e pique fino o alho. Descasque, lave e seque bem os chuchus com um pano de prato limpo – assim ele não escorrega na hora de cortar. Corte cada um em cubos de 1,5 cm. Corte os tomates ao meio, descarte as sementes, e corte cada metade em cubos de 1 cm.
+4. Sobre uma tigela, passe o camarão por uma peneira e reserve o líquido da marinada – ele vai ser usado no cozimento do chuchu.
+5. Leve uma frigideira grande com bordas altas (ou uma panela) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure os camarões em etapas, sem amontoar – se colocar todos ao mesmo tempo eles vão soltar o próprio líquido e cozinhar no vapor em vez de dourar. Tempere com sal e pimenta e vire com uma pinça para dourar o outro lado. Transfira para uma tigela e repita com o restante, regando a frigideira com ½ colher (sopa) de azeite a cada leva.
+6. Mantenha a panela em fogo médio e regue com mais 1 colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Junte o alho e mexa por 1 minuto para perfumar.
+7. Adicione os tomates, tempere com sal e misture, raspando bem o fundo da frigideira para dissolver os queimadinhos do camarão – eles dão sabor ao molho. Deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando e amassando os cubinhos de tomate com a espátula.
+8. Regue com a água e o líquido da marinada dos camarões, tempere com 1 colher (chá) de sal e misture bem. Acrescente os cubos de chuchu e mantenha a frigideira em fogo médio. Quando ferver, abaixe o fogo, tampe a panela e deixe cozinhar até o chuchu ficar macio, por cerca de 30 minutos – cuidado para o chuchu não cozinhar demais e desmanchar.
+9. Assim que o chuchu estiver cozido, volte os camarões para a panela. Misture e deixe cozinhar por mais 2 minutos para aquecer – se o camarão cozinhar muito, pode ficar borrachudo. Desligue o fogo e misture o coentro picado. Sirva a seguir com acaçá e folhas de coentro a gosto.

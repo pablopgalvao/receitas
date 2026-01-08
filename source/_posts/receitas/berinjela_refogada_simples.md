@@ -1,0 +1,55 @@
+---
+title: Berinjela refogada simples
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 30 min
+calories: ''
+author: Boil
+flags: []
+---
+![Berinjela refogada simples](/images/berinjela_refogada_simples.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 4 colheres de sopa de molho de tomate pronto
+- 1 colher de café de orégano (ou a gosto)
+- 1 colher de café de tempero desidratado (salsinha, pimenta, alho)
+- 1 colher de chá de sal
+- Corte as berinjelas em cubos e deixe de molho por 10 minutos em água com sal, para tirar o amargor. Depois escorra bem;
+- Junte o orégano, o tempero desidratado e o tomate picado, misturando bem. Acerte o sal, lembrando que a berinjela já foi deixada de molho em água salgada;
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes em sua bancada. Descasque e pique a cebola em cubos médios, e o dente de alho finamente;
+2. Corte as berinjelas em cubos e deixe de molho por 10 minutos em água com sal, para tirar o amargor. Depois escorra bem;
+3. Aqueça um fio de azeite em uma panela em fogo baixo e adicione a cebola picada. Refogue até que fique transparente e bem macia, sem queimar;
+4. Acrescente o alho picado e refogue por mais 1 minuto, mexendo para não dourar demais;
+5. Adicione a berinjela escorrida aos poucos, mexendo delicadamente para envolver no refogado;
+6. Junte o orégano, o tempero desidratado e o tomate picado, misturando bem. Acerte o sal, lembrando que a berinjela já foi deixada de molho em água salgada;
+7. Agora, adicione o molho de tomate e misture novamente;
+8. Tampe a panela e cozinhe em fogo baixo por 10 minutos, mexendo ocasionalmente, até que a berinjela fique bem macia e cremosa, sem desmanchar completamente;
+9. Transfira para um refratário de sua preferência e sirva ainda quente! Bom apetite.

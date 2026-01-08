@@ -17,7 +17,7 @@ ingredients:
     - pimenta-do-reino
 difficulty: Fácil
 servings: 15 Porções
-time: 1 hora e 30 minutos
+time: 1 hora e 30 min
 calories: ''
 author: Boil
 flags: []
@@ -29,7 +29,7 @@ flags: []
 - **Categoria:** Pratos principais / Carnes
 - **Dificuldade:** Fácil
 - **Rendimento:** 15 Porções
-- **Tempo de preparo:** 1 hora e 30 minutos
+- **Tempo de preparo:** 1 hora e 30 min
 - **Calorias:** 
 
 ---
@@ -42,6 +42,7 @@ flags: []
 - 4 dentes de alho picados
 - 1 cebola picada
 - Sal e pimenta-do-reino a gosto
+- --
 - --
 
 ---

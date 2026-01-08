@@ -16,7 +16,7 @@ ingredients:
     - óleo de coco
 difficulty: médio
 servings: ''
-time: 15 minutos
+time: 15 min
 calories: ''
 author: Boil
 flags: []
@@ -28,7 +28,7 @@ flags: []
 - **Categoria:** Café da manhã
 - **Dificuldade:** médio
 - **Rendimento:** 
-- **Tempo de preparo:** 15 minutos
+- **Tempo de preparo:** 15 min
 - **Calorias:** 
 
 ---
@@ -42,6 +42,7 @@ flags: []
 - 1 colher de sopa de fermento químico em pó
 - 1 colher de café de essência de baunilha (opcional)
 - Óleo de coco para untar
+- --
 - --
 
 ---

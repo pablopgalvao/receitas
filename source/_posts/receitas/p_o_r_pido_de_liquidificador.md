@@ -1,0 +1,58 @@
+---
+title: Pão rápido de liquidificador
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 110 min
+calories: ''
+author: Boil
+flags: []
+---
+![Pão rápido de liquidificador](/images/p_o_r_pido_de_liquidificador.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 110 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 2 colheres de sopa de açúcar (24 gramas)
+- 1/2 xícara de chá de óleo (120 ml)
+- 1 colher de café de sal (3 gramas)
+- 1 copo (tipo requeijão) de leite morno (250 ml)
+- 1 envelope de fermento biológico seco (10 gramas)
+- 2 e 1/2 de xícara de chá de farinha de trigo (350 gramas)
+- Organize todos os ingredientes em sua bancada e unte uma forma retangular de 30x10x3 cm com manteiga e farinha de trigo;
+- No liquidificador, adicione o ovo, o óleo, o açúcar, o leite morno, o sal e o fermento biológico seco. Bata por cerca de 1 minuto, até obter uma mistura homogênea;
+- Transfira essa mistura para uma tigela grande e vá adicionando a farinha de trigo aos poucos, misturando com uma espátula ou fouet (batedor de arame) até obter uma massa cremosa, elástica e um pouco pegajosa – não precisa sovar;
+- Sirva em fatias e, se quiser, acompanhe com manteiga para realçar a maciez!
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Organize todos os ingredientes em sua bancada e unte uma forma retangular de 30x10x3 cm com manteiga e farinha de trigo;
+2. No liquidificador, adicione o ovo, o óleo, o açúcar, o leite morno, o sal e o fermento biológico seco. Bata por cerca de 1 minuto, até obter uma mistura homogênea;
+3. Transfira essa mistura para uma tigela grande e vá adicionando a farinha de trigo aos poucos, misturando com uma espátula ou fouet (batedor de arame) até obter uma massa cremosa, elástica e um pouco pegajosa – não precisa sovar;
+4. Despeje a massa na forma untada, espalhando com cuidado para nivelar;
+5. Cubra com um pano limpo e leve para crescer em local abafado por cerca de 30 minutos ou até dobrar de volume;
+6. Leve ao forno preaquecido a 180°C por aproximadamente 35 minutos, ou até o pão estar assado e levemente dourado por cima;
+7. Retire do forno e aguarde amornar para desenformar com cuidado;
+8. Sirva em fatias e, se quiser, acompanhe com manteiga para realçar a maciez!

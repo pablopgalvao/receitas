@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 3 minutos
+time: 3 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 3 minutos
+- **Tempo de preparo:** 3 min
 - **Calorias:** 
 
 ---
@@ -39,6 +39,7 @@ flags: []
 - Leve uma panela média ao fogo baixo. Quando aquecer, junte a manteiga, a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, mexendo bem, até murchar. Acrescente os grãos de milho e refogue por cerca de 5 minutos, até que o milho ganhe um tom mais vivo.
 - Regue com a água, misture e deixe os grãos cozinharem por cerca de 5 minutos - a água não deve secar, pois vai umedecer a farinha no próximo passo. Acrescente a salsinha picada e tempere com sal e pimenta-do-reino a gosto.
 - Mantenha a panela em fogo baixo e junte a farinha de milho flocada aos poucos, sem parar de mexer - o virado deve ficar bem úmido. Desligue o fogo, transfira para uma travessa e sirva a seguir. Que tal com um bife rolê?
+- --
 
 ---
 

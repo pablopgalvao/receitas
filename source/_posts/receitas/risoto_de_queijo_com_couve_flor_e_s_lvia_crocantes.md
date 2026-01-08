@@ -1,0 +1,59 @@
+---
+title: Risoto de queijo com couve-flor e sálvia crocantes
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 3 min
+calories: ''
+author: Boil
+flags: []
+---
+![Risoto de queijo com couve-flor e sálvia crocantes](/images/risoto_de_queijo_com_couve_flor_e_s_lvia_crocantes.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 3 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 xícaras (chá) de arroz para risoto (arbóreo)
+- ½ xícara (chá) de vinho branco seco
+- 2 colheres (sopa) de azeite
+- 2 colheres (sopa) de manteiga
+- 1 xícara (chá) de queijo parmesão ralado
+- sal e pimenta-do-reino moída na hora a gosto
+- Leve outra panela grande ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite e refogue a cebola picada com uma pitada de sal, mexendo bem, até murchar. Acrescente o arroz e refogue por 3 minutos para envolver bem os grãos com azeite. Tempere bem com sal e pimenta – lembre-se de que o caldo caseiro não leva sal!
+- [object Object]
+- ⅓ de xícara (chá) de farinha de trigo
+- 2 xícaras (chá) de óleo
+- Corte a couve-flor em floretes pequenos. Lave sob água corrente e deixe os floretes no escorredor por alguns minutos para escorrer bem a água. Seque bem os floretes com um pano de prato – isso evita que o óleo espirre na hora de fritar. Passe as folhas de sálvia pela farinha de trigo para empanar – não precisa passar no ovo, é só para formar uma capinha bem fina de farinha.
+- Numa panela pequena, leve o óleo para aquecer em fogo médio – para saber a temperatura certa para fritar, coloque um palito de fósforo no óleo, quando acender, está no ponto. Forre uma travessa com papel-toalha.
+- Quando o óleo aquecer, abaixe o fogo e, com uma escumadeira, coloque alguns floretes de couve-flor, delicadamente, para o óleo não espirrar, e deixe fritar por 1 minuto, mexendo com a escumadeira, até dourar. Transfira os floretes para a travessa forrada, tempere com sal e repita com o procedimento restante.
+- [object Object]
+- ½ xícara (chá) de amêndoa inteira com pele
+- 1 colher (sopa) de manteiga
+- Leve uma frigideira pequena com a manteiga fogo médio. Quando derreter, junte as amêndoas e mexa até dourar. Transfira para uma tigela e deixe esfriar completamente antes de servir.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Prepare a farofinha de amêndoas, a couve-flor e sálvia antes de começar o risoto (as receitas estão abaixo).
+2. Numa panela, leve o caldo de frango ao fogo alto. Quando ferver, abaixe o fogo e mantenha o caldo aquecido durante todo o preparo.
+3. Descasque e pique fino a cebola.
+4. Leve outra panela grande ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite e refogue a cebola picada com uma pitada de sal, mexendo bem, até murchar. Acrescente o arroz e refogue por 3 minutos para envolver bem os grãos com azeite. Tempere bem com sal e pimenta – lembre-se de que o caldo caseiro não leva sal!
+5. Regue com o vinho e misture até secar. Adicione 2 conchas do caldo e misture bem. Deixe cozinhar, mexendo de vez em quando, até secar. Repita o procedimento, adicionando o caldo, de concha em concha, mexendo, até o risoto ficar no ponto – o grão deve estar cozido mas ainda durinho no centro (al dente).
+6. Atenção: na última adição de caldo, mexa e desligue o fogo. Não deixe secar completamente, o risoto deve ficar bem úmido. Acrescente a manteiga, o parmesão, as raspas de limão e misture bem. Sirva a seguir com a couve-flor e sálvia fritas, e polvilhe com farofinha de amêndoas.

@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 3 minutos
+time: 3 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 3 minutos
+- **Tempo de preparo:** 3 min
 - **Calorias:** 
 
 ---
@@ -37,6 +37,7 @@ flags: []
 - castanha-de-caju picada a gosto
 - raspas de chocolate amargo a gosto
 - [object Object]
+- --
 
 ---
 

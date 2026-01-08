@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 35min
+time: 35 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 35min
+- **Tempo de preparo:** 35 min
 - **Calorias:** 
 
 ---
@@ -43,6 +43,7 @@ flags: []
 - Quebre os ovos e despeje na panela com alho e cebola. Adicione sal e pimenta-do-reino, ajustando conforme sua preferência;
 - Mexa até que os ovos fiquem bem cozidos e incorporados;
 - Finalize com mais cebolinha picada se quiser, e pronto! Sirva ainda quente, acompanhado de uma saladinha ou outro acompanhamento de sua preferência.
+- --
 
 ---
 

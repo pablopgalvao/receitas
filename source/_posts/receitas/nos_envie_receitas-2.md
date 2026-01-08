@@ -24,7 +24,7 @@ ingredients:
       bombar
 difficulty: Fácil
 servings: ''
-time: 2 minutos
+time: 2 min
 calories: ''
 author: Boil
 flags: []
@@ -36,7 +36,7 @@ flags: []
 - **Categoria:** Novas receitas
 - **Dificuldade:** Fácil
 - **Rendimento:** 
-- **Tempo de preparo:** 2 minutos
+- **Tempo de preparo:** 2 min
 - **Calorias:** 
 
 ---
@@ -44,6 +44,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - Queremos ver aquela receita que você arrasa! Manda pra gente, compartilhe com a comunidade e ajude outros cozinheiros a mandarem bem também. É super rápido! Se liga no passo a passo abaixo para sua receita ser publicada e bombar
+- --
 - --
 
 ---

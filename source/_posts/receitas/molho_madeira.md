@@ -1,24 +1,15 @@
 ---
 title: Molho madeira
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Molhos e temperos
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - champignon
-    - manteiga
-    - cebola
-    - alho
-    - amido de milho
-    - vinho madeira
-    - caldo de carne
-    - sal
-    - pimenta-do-reino
-difficulty: médio
-servings: 30 porções
-time: ''
+  list: []
+difficulty: ''
+servings: ''
+time: 30 min
 calories: ''
 author: Boil
 flags: []
@@ -27,24 +18,29 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Molhos e temperos
-- **Dificuldade:** médio
-- **Rendimento:** 30 porções
-- **Tempo de preparo:** 
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 100 gramas de champignon fatiado
 - 2 colheres de sopa de manteiga
-- 1 cebola grande picada
-- 2 dentes de alho picados
 - 2 colheres de sopa de amido de milho
 - 100 ml de vinho madeira
 - 500 ml de caldo de carne
 - Sal e pimenta-do-reino a gosto
+- Pode substituir o amido de milho por farinha de trigo. Se não tiver vinho madeira, use vinho tinto seco. O caldo de carne caseiro é mais saboroso, porém é possível usar o tablet de caldo de carne industrializado. Dê preferência para champignons frescos;
+- Descasque a cebola e o alho, em seguida, pique-os em cubinhos pequenos. Leve uma panela alta ao fogo médio com manteiga. Quando derreter, acrescente a cebola e refogue até murchar, cerca de 1 minuto. Adicione o alho e refogue por mais 1 minuto;
+- Acrescente o vinho e o caldo de carne. Tempere com sal e pimenta a gosto. Em fogo médio, mexa bem até engrossar, cerca de 5 minutos;
 - --
 
 ---
@@ -52,7 +48,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Pode substituir o amido de milho por farinha de trigo. Se não tiver vinho madeira, use vinho tinto seco. O caldo de carne caseiro é mais saboroso, porém é possível usar o tablet de caldo de carne industrializado. Dê preferência para champignons frescos;
-2. Regue uma frigideira grande com azeite e refogue os champignons em fogo médio. Se a frigideira for pequena, divida essa etapa em - não queremos que os champignons soltem muita água e cozinhem ao invés de refogar;
+2. Regue uma frigideira grande com azeite e refogue os champignons em fogo médio. Se a frigideira for pequena, divida essa etapa em porções - não queremos que os champignons soltem muita água e cozinhem ao invés de refogar;
 3. Assim que os champignons dourarem, desligue o fogo e tampe a panela;
 4. Descasque a cebola e o alho, em seguida, pique-os em cubinhos pequenos. Leve uma panela alta ao fogo médio com manteiga. Quando derreter, acrescente a cebola e refogue até murchar, cerca de 1 minuto. Adicione o alho e refogue por mais 1 minuto;
 5. Quando a cebola e o alho estiverem douradinhos, abaixo o fogo e acrescente o amido de milho. Com uma espátula, misture os ingredientes para incorporar e mexa sem parar por 2 minutos, até formar uma pastinha;

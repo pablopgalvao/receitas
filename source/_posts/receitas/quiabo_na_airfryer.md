@@ -1,0 +1,52 @@
+---
+title: Quiabo na airfryer
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 17 min
+calories: ''
+author: Boil
+flags: []
+---
+![Quiabo na airfryer](/images/quiabo_na_airfryer.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 17 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 450 gramas de quiabo
+- 1 colher de chá de sal (ou a gosto)
+- 1/2 colher de chá de pimenta‑do‑reino (ou a gosto)
+- 1 colher de sopa de azeite (30 ml)
+- Salsa desidratada com alho (a gosto)
+- Cebola em pó (a gosto)
+- Coloque o quiabo em uma tigela grande, adicione o sal, a pimenta‑do‑reino, a mistura de especiarias e o azeite, e misture bem até que tudo fique bem coberto;
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Para começar, reúna todos os ingredientes e utensílios; Aproveite para lavar e secar bem o quiabo, cortando as pontinhas de ambos os lados;
+2. Coloque o quiabo em uma tigela grande, adicione o sal, a pimenta‑do‑reino, a mistura de especiarias e o azeite, e misture bem até que tudo fique bem coberto;
+3. Transfira o quiabo para a cesta da air fryer já preaquecida a 180 °C;
+4. Programe a air fryer para rodar por 12 minutos, abra de vez em quando e agite a cesta para que o quiabo asse por igual;
+5. Quando o quiabo estiver dourado e crocante, retire da air fryer, transfira para o prato de servir e está pronto para saborear!

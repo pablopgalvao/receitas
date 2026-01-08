@@ -1,0 +1,56 @@
+---
+title: Sopa de lentilha na pressão com espinafre
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 15 min
+calories: ''
+author: Boil
+flags: []
+---
+![Sopa de lentilha na pressão com espinafre](/images/sopa_de_lentilha_na_press_o_com_espinafre.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 15 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- Sopa de salsão
+- 1 xícara (chá) de lentilha
+- ½ cenoura (ou ⅓ de xícara (chá) ralada congelada)
+- 1 talo de salsão (ou ¼ de xícara (chá) picado congelado)
+- 1 colher (chá) de cominho
+- 1 colher (chá) de cúrcuma
+- sal e pimenta-do-reino moída na hora a gosto
+- farofinha de bacon a gosto para servir
+- Lave as folhas de espinafre sob água corrente, transfira para uma tigela e cubra com 1 litro de água. Adicione 1 colher (sopa) do bactericida da sua escolha e deixe de molho por 15 minutos, enquanto prepara a sopa.
+- Descasque e pique fino a cebola e o alho. Lave, descasque e passe a cenoura pela parte grossa do ralador. Lave, seque, descarte as folhas e corte o talo do salsão em cubinhos.
+- Leve a panela de pressão, sem a tampa ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com 1 pitada de sal e refogue até começar a dourar. Adicione mais 1 colher (sopa) de azeite, junte a cenoura, o salsão e refogue por mais 2 minutos até murchar.
+- Regue com a água, aos poucos, raspando os queimadinhos do fundo da panela - eles dão sabor ao caldo. Tempere com 1 colher (chá) de sal e pimenta a gosto, tampe a panela e deixe cozinhar em fogo alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 5 minutos.
+- Misture as folhas de espinafre na sopa e volte a panela (sem a tampa) ao fogo médio. Deixe cozinhar por mais 2 minutos ou até as folhas ficarem macias, prove e ajuste o sal. Sirva a seguir com azeite e farofinha de bacon.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Lave as folhas de espinafre sob água corrente, transfira para uma tigela e cubra com 1 litro de água. Adicione 1 colher (sopa) do bactericida da sua escolha e deixe de molho por 15 minutos, enquanto prepara a sopa.
+2. Descasque e pique fino a cebola e o alho. Lave, descasque e passe a cenoura pela parte grossa do ralador. Lave, seque, descarte as folhas e corte o talo do salsão em cubinhos.
+3. Leve a panela de pressão, sem a tampa ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com 1 pitada de sal e refogue até começar a dourar. Adicione mais 1 colher (sopa) de azeite, junte a cenoura, o salsão e refogue por mais 2 minutos até murchar.
+4. Adicione o alho e o louro. Tempere com o cominho, a cúrcuma e mexa por 1 minuto para perfumar. Junte a lentilha e misture bem.
+5. Regue com a água, aos poucos, raspando os queimadinhos do fundo da panela - eles dão sabor ao caldo. Tempere com 1 colher (chá) de sal e pimenta a gosto, tampe a panela e deixe cozinhar em fogo alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 5 minutos.
+6. Desligue o fogo e, importante: deixe todo o vapor sair e a panela parar de apitar antes de abrir. Retire as folhas de espinafre da água em vez de escorrer e enxágue sob água corrente.
+7. Misture as folhas de espinafre na sopa e volte a panela (sem a tampa) ao fogo médio. Deixe cozinhar por mais 2 minutos ou até as folhas ficarem macias, prove e ajuste o sal. Sirva a seguir com azeite e farofinha de bacon.

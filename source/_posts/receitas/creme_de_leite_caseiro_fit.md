@@ -14,7 +14,7 @@ ingredients:
     - água
 difficulty: fácil
 servings: ''
-time: 10 minutos
+time: 10 min
 calories: ''
 author: Boil
 flags: []
@@ -26,7 +26,7 @@ flags: []
 - **Categoria:** Receitas light / saudáveis
 - **Dificuldade:** fácil
 - **Rendimento:** 
-- **Tempo de preparo:** 10 minutos
+- **Tempo de preparo:** 10 min
 - **Calorias:** 
 
 ---
@@ -38,6 +38,7 @@ flags: []
 - 6 colheres de sopa de leite em pó (95 gramas)
 - 1/2 xícara de chá de leite desnatado fervente (120 ml)
 - 1/2 xícara de chá de água fervente (120 ml)
+- --
 - --
 
 ---

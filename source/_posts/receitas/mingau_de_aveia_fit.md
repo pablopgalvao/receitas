@@ -14,7 +14,7 @@ ingredients:
     - banana
 difficulty: fácil
 servings: ''
-time: 10 minutos
+time: 10 min
 calories: ''
 author: Boil
 flags: []
@@ -26,7 +26,7 @@ flags: []
 - **Categoria:** Café da manhã
 - **Dificuldade:** fácil
 - **Rendimento:** 
-- **Tempo de preparo:** 10 minutos
+- **Tempo de preparo:** 10 min
 - **Calorias:** 
 
 ---
@@ -38,6 +38,7 @@ flags: []
 - 1/4 de colher de café de canela em pó (ou a gosto)
 - 1 cravo (ou a gosto)
 - 1 banana amassada
+- --
 - --
 
 ---

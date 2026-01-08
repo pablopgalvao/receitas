@@ -1,22 +1,15 @@
 ---
 title: Mousse de maracujá fácil e cremosa
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Sobremesas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - gelatina sem sabor
-    - água
-    - leite condensado
-    - creme de leite
-    - suco de maracujá
-    - amido de milho
-    - açúcar
-difficulty: fácil
-servings: 250 porções
-time: 5 minutos + 4 horas de geladeira
+  list: []
+difficulty: ''
+servings: ''
+time: 250 min
 calories: ''
 author: Boil
 flags: []
@@ -25,16 +18,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Sobremesas
-- **Dificuldade:** fácil
-- **Rendimento:** 250 porções
-- **Tempo de preparo:** 5 minutos + 4 horas de geladeira
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 250 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 1 envelope de gelatina sem sabor (8 gramas)
 - 5 colheres de sopa de água
 - 1 lata de leite condensado (395 gramas)
@@ -42,8 +39,9 @@ flags: []
 - 200 ml de suco concentrado de maracujá
 - 1/2 xícara de chá de água
 - 1 colher de sopa de amido de milho
-- 3 colheres de sopa de suco de maracujá natural coado
+- 3 colheres de sopa de suco de maracujá natural (apenas a poupa coada)
 - 3 colheres de sopa de açúcar
+- Com a mousse já pronta e textura consistente, comece a preparar a calda. Em uma panela, fora do fogo, coloque a água e o amido de milho - misture bem para dissolver. Acrescente o suco de maracujá natural e o açúcar;
 - --
 
 ---
@@ -54,7 +52,3 @@ flags: []
 2. No liquidificador, coloque o leite condensado, o creme de leite e o suco concentrado de maracujá. Bata até obter uma mistura homogênea, cerca de 2 minutos;
 3. Passado o tempo, adicione a gelatina hidratada no liquidificador. Bata novamente por alguns segundos, apenas para misturar;
 4. Coloque a mousse em uma travessa, cubra com papel filme e leve à geladeira por, no mínimo, 3 horas. Aguarde a mousse endurecer para preparar a calda.
-5. Com a mousse já pronta e textura consistente, comece a preparar a calda. Em uma panela, fora do fogo, coloque a água e o amido de milho - misture bem para dissolver. Acrescente o suco de maracujá natural e o açúcar;
-6. Leve a panela ao fogo médio e mexa sem parar até a calda engrossar. Ela deve ficar com uma cor amarela brilhosa. Desligue o fogo e aguarde a calda esfriar em temperatura ambiente;
-7. Quando a calda estiver fria, adicione as sementes de maracujá e misture para incorporar. Despeje a calda sobre a mousse e leve à geladeira novamente por mais 1 hora, ou até a sobremesa ficar bem geladinha;
-8. Mousse de maracujá prontinha! A textura fica muito leve e cremosa. Sirva como sobremesa ou no lanche da tarde.

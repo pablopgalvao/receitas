@@ -1,22 +1,15 @@
 ---
 title: Pudim de pão fácil
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Sobremesas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - água
-    - açúcar
-    - leite
-    - ovo
-    - creme de leite
-    - leite condensado
-    - pão francês
-difficulty: fácil
-servings: 57 porções
-time: 50 minutos + 3 horas de geladeira
+  list: []
+difficulty: ''
+servings: ''
+time: 57 min
 calories: ''
 author: Boil
 flags: []
@@ -25,23 +18,28 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Sobremesas
-- **Dificuldade:** fácil
-- **Rendimento:** 57 porções
-- **Tempo de preparo:** 50 minutos + 3 horas de geladeira
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 57 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 1/3 xícara de chá de água
 - 2/3 xícara de chá de açúcar
 - 300 ml de leite
-- 3 ovos
-- 1 caixinha de creme de leite (200 g)
-- 1 lata de leite condensado (395 g)
-- 3 pães franceses amanhecidos em pedaços
+- 1 caixinha de creme de leite (200 gramas)
+- 1 lata de leite condensado (395 gramas)
+- Peneire cuidadosamente os ovos para a massa não ficar com um cheiro forte. Esse pudim não é exageradamente doce, entretanto, se preferir, pode retirar o açúcar, pois o leite condensado traz um sabor adocicado médio;
+- Em uma forma redonda com furo central, adicione a água e o açúcar. Em fogo médio, leve a misture para caramelizar;
+- No liquidificador, coloque os pedaços de pão, o leite, os ovos, o creme de leite e o leite condensado. Bata até virar um creme homogêneo;
 - --
 
 ---

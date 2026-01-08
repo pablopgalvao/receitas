@@ -19,7 +19,7 @@ ingredients:
     - salsa
 difficulty: Fácil
 servings: 4 Porções
-time: 20 minutos (+1h de geladeira)
+time: 20 min (+1h de geladeira)
 calories: ''
 author: Boil
 flags: []
@@ -31,7 +31,7 @@ flags: []
 - **Categoria:** Receitas light / saudáveis
 - **Dificuldade:** Fácil
 - **Rendimento:** 4 Porções
-- **Tempo de preparo:** 20 minutos (+1h de geladeira)
+- **Tempo de preparo:** 20 min (+1h de geladeira)
 - **Calorias:** 
 
 ---
@@ -45,6 +45,7 @@ flags: []
 - 1 xícara (chá) de maionese
 - sal a gosto
 - Salsa para decorar
+- --
 - --
 
 ---

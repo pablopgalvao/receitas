@@ -1,0 +1,55 @@
+---
+title: Charutinho de acelga com frango
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 2 min
+calories: ''
+author: Boil
+flags: []
+---
+![Charutinho de acelga com frango](/images/charutinho_de_acelga_com_frango.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 2 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- Salada picante de acelga
+- ½ xícara (chá) de arroz cru
+- 1 colher (chá) de pimenta síria
+- 1½ colher (chá) de canela em pó
+- 2 colheres (chá) de sal
+- pimenta-do-reino moída na hora a gosto
+- Corte o filé de frango em pedaços médios e transfira para o processador de alimentos. Junte o alho, as raspas e o caldo do limão, a pimenta síria, a canela em pó e as folhas de hortelã; tempere com o sal e pimenta. Bata até triturar bem os ingredientes.
+- 1 colher (chá) de sal
+- 3 xícaras (chá) de caldo de legumes caseiro (ou água)
+- [object Object]
+- [object Object]
+- ⅓ de xícara (chá) de tahine (pasta de gergelim)
+- ¼ de xícara (chá) de água filtrada
+- sal a gosto
+- Descasque o dente de alho e bata no pilão com uma pitada de sal até formar uma pastinha. Junte o tahine, o caldo de limão e misture bem. Acrescente a água, aos poucos, até ficar na consistência desejada (mais fluido ou mais encorpado). Tempere com sal e transfira para uma molheira.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Corte o filé de frango em pedaços médios e transfira para o processador de alimentos. Junte o alho, as raspas e o caldo do limão, a pimenta síria, a canela em pó e as folhas de hortelã; tempere com o sal e pimenta. Bata até triturar bem os ingredientes.
+2. Lave, corte o tomate ao meio e descarte as sementes. Corte cada metade em cubos pequenos. Descasque e pique fino a cebola. Transfira para uma tigela, junte o arroz e misture bem com o frango triturado.
+3. ½ maço de acelga (13 folhas)
+4. 3 xícaras (chá) de caldo de legumes caseiro (ou água)

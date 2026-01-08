@@ -1,0 +1,49 @@
+---
+title: Arroz com cenoura
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 2 min
+calories: ''
+author: Boil
+flags: []
+---
+![Arroz com cenoura](/images/arroz_com_cenoura.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 2 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- Galinhada a jato com saladinha de tomate
+- 1½ xícara (chá) de arroz
+- 3 xícaras (chá) de água
+- 1½ colher (sopa) de azeite
+- 1 colher (chá) de sal
+- Lave, descasque e passe a cenoura pela parte fina do ralador. Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 3 xícaras (chá) de água ao fogo baixo para ferver.
+- Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola e a cenoura. Tempere com o sal e refogue por cerca de 2 minutos até murchar. Acrescente o arroz, o louro e mexa bem para envolver todos os grãos com o azeite - isso ajuda a deixar o arroz soltinho depois de cozido.
+- Meça 3 xícaras (chá) da água fervente e regue sobre o arroz, misture bem e aumente o fogo para médio. Não mexa mais.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Lave, descasque e passe a cenoura pela parte fina do ralador. Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 3 xícaras (chá) de água ao fogo baixo para ferver.
+2. Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola e a cenoura. Tempere com o sal e refogue por cerca de 2 minutos até murchar. Acrescente o arroz, o louro e mexa bem para envolver todos os grãos com o azeite - isso ajuda a deixar o arroz soltinho depois de cozido.
+3. Meça 3 xícaras (chá) da água fervente e regue sobre o arroz, misture bem e aumente o fogo para médio. Não mexa mais.
+4. Assim que a água começar a secar e atingir o mesmo nível do arroz, abaixe o fogo e tampe parcialmente a panela. Deixe cozinhar até que o arroz absorva toda a água - para verificar, espete os grãos com um garfo até conseguir ver o fundo da panela.
+5. Desligue o fogo e mantenha a panela tampada por mais 5 minutos, para que os grãos terminem de cozinhar no próprio vapor. Solte os grãos com um garfo, misturando delicadamente com a cenoura. Transfira para uma tigela e sirva a seguir.

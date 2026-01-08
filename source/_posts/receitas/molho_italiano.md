@@ -1,0 +1,50 @@
+---
+title: Molho italiano
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 5 min
+calories: ''
+author: Boil
+flags: []
+---
+![Molho italiano](/images/molho_italiano.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 5 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 6 colheres de sopa de azeite
+- 2 colheres de sopa de vinagre tinto
+- 1 colher de sopa de vinho tinto seco
+- Orégano a gosto
+- Sal e pimenta-do-reino a gosto
+- Sirva o molho na salada. Bom apetite!
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes do molho italiano;
+2. Coloque todos os ingredientes em um vidro;
+3. Tampe e chacoalhe bem. Em seguida, deixe descansar por cerca de 1 hora;
+4. Sirva o molho na salada. Bom apetite!

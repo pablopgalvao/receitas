@@ -1,25 +1,15 @@
 ---
 title: Antepasto de berinjela
-date: 2025-09-20T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Lanches e petiscos
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - berinjela
-    - azeite
-    - vinagre
-    - aceto balsâmico
-    - azeitona
-    - sal
-    - alho
-    - pimenta-do-reino
-    - chimichurri
-    - orégano
-difficulty: fácil
-servings: 10 porções
-time: 120 minutos
+  list: []
+difficulty: ''
+servings: ''
+time: 120 min
 calories: ''
 author: Boil
 flags: []
@@ -28,38 +18,37 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Lanches e petiscos
-- **Dificuldade:** fácil
-- **Rendimento:** 10 porções
-- **Tempo de preparo:** 120 minutos
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 120 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
-- 3 berinjelas grandes cortadas em tiras
-- 1 xícara de chá de azeite
-- 1/2 xícara de chá de vinagre
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 1 xícara de azeite
+- 1/2 xícara de vinagre
 - 1 colher de sopa de aceto balsâmico
 - 1/2 xícara de chá de azeitonas sem caroço picadas
-- 1 colher de sopa de sal
+- 1 colher de sopa (não muito cheia) de sal
 - 2 colheres de sopa de alho espremido
-- pimenta-do-reino
-- chimichurri
-- orégano a gosto
+- Pimenta do reino, chimichurri, orégano a gosto
+- Regue com o azeite, o vinagre e tempere com sal e o orégano;
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Reúna todos os ingredientes;
-2. Em uma assadeira, faça uma camada com as berinjelas em tiras;
-3. Por cima, adicione uma camada com os pimentões e finalize com uma de cebola;
-4. Regue com o azeite, o vinagre e tempere com sal e orégano;
-5. Cubra a forma com papel-alumínio e leve ao forno preaquecido a 150 °C por cerca de 15 minutos;
-6. Retire o papel-alumínio, acrescente as azeitonas, misture levemente, cubra novamente e volte ao forno por mais 1 hora e 30 minutos, ou até a berinjela escurecer e secar;
-7. Deixe esfriar e reserve na geladeira.
-8. Dica: quanto mais tempo você deixar marinando na geladeira, mais saboroso fica;
-9. Sirva frio, acompanhado de pães ou torradas.
+1. Em uma assadeira, faça uma camada com as berinjelas em tiras;
+2. Por cima, adicione uma camada com os pimentões e finalize com uma de cebola;
+3. Regue com o azeite, o vinagre e tempere com sal e o orégano;
+4. Cubra a forma com papel alumínio e leve ao forno preaquecido a 150 °C por cerca de 15 minutos;
+5. Retire o papel alumínio, acrescente as azeitonas, misture levemente, cubra novamente com o papel alumínio e volte ao forno por mais 1 hora e 30 minutos, ou até a berinjela escurecer e secar;
+6. Deixe esfriar e reserve na geladeira. DICA: quanto mais tempo você deixar marinando na geladeira, melhor fica. Agora é só servir.

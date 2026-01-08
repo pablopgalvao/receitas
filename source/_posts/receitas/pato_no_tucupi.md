@@ -23,7 +23,7 @@ ingredients:
     - farinha de mandioca torrada
 difficulty: fácil
 servings: 12 porções
-time: 2 horas
+time: 2 hora
 calories: ''
 author: Boil
 flags: []
@@ -35,7 +35,7 @@ flags: []
 - **Categoria:** Pratos principais / Carnes
 - **Dificuldade:** fácil
 - **Rendimento:** 12 porções
-- **Tempo de preparo:** 2 horas
+- **Tempo de preparo:** 2 hora
 - **Calorias:** 
 
 ---
@@ -55,6 +55,7 @@ flags: []
 - 1/2 colher de café de cominho e pimenta do reino
 - 1 maço de jambu (ou agrião)
 - 12 colheres de sopa de farinha de mandioca torrada
+- --
 - --
 
 ---

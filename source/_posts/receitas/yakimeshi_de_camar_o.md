@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 20min
+time: 20 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 20min
+- **Tempo de preparo:** 20 min
 - **Calorias:** 
 
 ---
@@ -49,6 +49,7 @@ flags: []
 - Despeje o restante do óleo e acrescente o alho com gengibre para refogar. Assim que murcharem um pouco, adicione os camarões e frite por cerca de 2 minutos;
 - Volte então com os ovos, adicione o shoyu e mexa bem. Ajuste o sal se necessário;
 - Para montagem tradicional, coloque o arroz em uma cumbuca redonda, pressione levemente com uma colher para que compacte e vire em um prato. Se quiser, pode finalizar com cebolinha picada finamente. Prontinho, bom apetite!
+- --
 
 ---
 

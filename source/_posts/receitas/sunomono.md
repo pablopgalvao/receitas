@@ -1,20 +1,15 @@
 ---
-title: Sunomono (salada de pepino japonesa)
-date: 2025-09-22T00:00:00.000Z
+title: Sunomono
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Saladas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - pepino japonês
-    - vinagre de arroz
-    - açúcar
-    - sal
-    - gergelim
-difficulty: fácil
+  list: []
+difficulty: ''
 servings: ''
-time: 15 minutos
+time: 20 min
 calories: ''
 author: Boil
 flags: []
@@ -23,29 +18,44 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Saladas
-- **Dificuldade:** fácil
+- **Categoria:** Receitas
+- **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 15 minutos
+- **Tempo de preparo:** 20 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
-- 2 pepinos japoneses
-- 1/2 xícara de chá de vinagre de arroz
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 2 pepinos japoneses (600 gramas)
+- 2 colheres de chá de sal
+- 3 colheres de sopa de vinagre de arroz
 - 3 colheres de sopa de açúcar
-- 1 colher de chá de sal
-- Gergelim torrado a gosto
+- Gergelim branco e preto a gosto
+- Coloque os pepinos fatiados em uma tigela e adicione o sal. Com o auxílio de uma colher, misture bem para o sal envolver todas as rodelinhas;
+- Em uma peneira grande, despeje os pepinos fatiados e salgados. Apoie a peneira sobre a tigela e deixe os pepinos descansarem por 10 minutos para desidratar. O sal ajudará a retirar o excesso de água das fatias;
+- Após 10 minutos, lave muito bem as fatias de pepino em água corrente para retirar completamente o sal. Experimente uma rodelinha, se ainda estiver com gosto muito salgado, lave novamente. Esprema os pepinos com as mãos para extrair o excesso de líquido. Reserve;
+- Em uma panela, coloque o vinagre de arroz e o açúcar. Misture muito para incorporar os ingredientes;
+- Leve ao fogo baixo apenas até o açúcar derreter. É importante não deixar o açúcar ferver, pois isso pode amargar o sunomono. Espere esfriar;
+- Transfira os pepinos fatiados para uma tigela e tempere com o molho já em temperatura ambiente ou frio. Experimente e, se preciso, acerte o sal a gosto;
+- Leve à geladeira por, pelo menos, 30 minutos antes de servir. Assim, as fatias de pepinos vão absorver bem o sabor agridoce. Salpique sementes de gergelim no sunomono e aproveite.
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Corte os pepinos em rodelas bem finas e coloque-os em uma peneira com o sal. Deixe descansar por 10 minutos;
-2. Lave bem os pepinos e esprema delicadamente para retirar o excesso de água;
-3. Em uma tigela, misture o vinagre com o açúcar até dissolver;
-4. Adicione o pepino e deixe marinar por pelo menos 10 minutos na geladeira;
-5. Finalize com gergelim torrado e sirva.
+1. Preferencialmente, escolha pepinos frescos. A casca deve estar firme, verdinha, sem rugas e lustrosa. Se a casca estiver rugosa, o pepino já passou do ponto;
+2. Em água corrente, lave bem os pepinos. Com o auxílio de um mandolin (utensílio para fatiar legumes), fatie os pepinos o mais fino possível. Se não tiver mandolin, use uma faca ou outro fatiador de alimentos;
+3. Coloque os pepinos fatiados em uma tigela e adicione o sal. Com o auxílio de uma colher, misture bem para o sal envolver todas as rodelinhas;
+4. Em uma peneira grande, despeje os pepinos fatiados e salgados. Apoie a peneira sobre a tigela e deixe os pepinos descansarem por 10 minutos para desidratar. O sal ajudará a retirar o excesso de água das fatias;
+5. Após 10 minutos, lave muito bem as fatias de pepino em água corrente para retirar completamente o sal. Experimente uma rodelinha, se ainda estiver com gosto muito salgado, lave novamente. Esprema os pepinos com as mãos para extrair o excesso de líquido. Reserve;
+6. Em uma panela, coloque o vinagre de arroz e o açúcar. Misture muito para incorporar os ingredientes;
+7. Leve ao fogo baixo apenas até o açúcar derreter. É importante não deixar o açúcar ferver, pois isso pode amargar o sunomono. Espere esfriar;
+8. Transfira os pepinos fatiados para uma tigela e tempere com o molho já em temperatura ambiente ou frio. Experimente e, se preciso, acerte o sal a gosto;
+9. Leve à geladeira por, pelo menos, 30 minutos antes de servir. Assim, as fatias de pepinos vão absorver bem o sabor agridoce. Salpique sementes de gergelim no sunomono e aproveite.

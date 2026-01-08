@@ -1,0 +1,60 @@
+---
+title: Iscas de peixe com legumes assados na Air Fryer da Rita Lobo
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 30 min
+calories: ''
+author: Boil
+flags: []
+---
+![Iscas de peixe com legumes assados na Air Fryer da Rita Lobo](/images/iscas_de_peixe_com_legumes_assados_na_air_fryer_da_rita_lobo.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- ¼ de xícara (chá) de farinha de trigo
+- ¾ de xícara (chá) de farinha de mandioca flocada, tipo biju
+- 4 colheres (sopa) de azeite
+- 1 pitada de páprica doce
+- sal e pimenta-do-reino moída na hora a gosto
+- folhas de salsinha, coentro e hortelã a gosto para servir
+- Transfira os legumes cortados para uma tigela média, 1 colher (sopa) do azeite, a páprica, tempere com sal e pimenta-do-reino e misture bem para envolver todos os pedaços com os temperos. Reserve.
+- Corte o filé de peixe ao meio, no sentido do comprimento, e cada metade em pedaços de 6 cm x 4 cm. Transfira para uma tigela e tempere com o caldo de limão, sal e pimenta.
+- Num prato fundo, quebre o ovo e bata com um garfo apenas para misturar a clara com a gema. Em outros dois pratos coloque a farinha de trigo e de mandioca respectivamente e tempere cada uma com uma pitada de sal.
+- [object Object]
+- ¼ de xícara (chá) de tahine (pasta de gergelim)
+- ¼ de xícara (chá) de água filtrada
+- sal a gosto
+- Descasque e coloque o dente de alho no pilão. Tempere com uma pitada de sal e bata bem até formar uma pastinha.
+- Acrescente o tahine, o caldo de limão e misture bem. Junte aos poucos a água, misturando com uma colher até ficar na consistência desejada (mais fluido ou mais encorpado).
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Lave, seque e descasque a cenoura. Corte a cenoura ao meio, no sentido da largura; corte a metade mais fina em quartos, corte a metade mais grossa ao meio e depois em 3 tiras. Corte a cebola ao meio, descasque e corte cada metade em 3 gomos, passando a faca pela raiz — assim todas as camadas permanecem unidas.
+2. Transfira os legumes cortados para uma tigela média, 1 colher (sopa) do azeite, a páprica, tempere com sal e pimenta-do-reino e misture bem para envolver todos os pedaços com os temperos. Reserve.
+3. Corte o filé de peixe ao meio, no sentido do comprimento, e cada metade em pedaços de 6 cm x 4 cm. Transfira para uma tigela e tempere com o caldo de limão, sal e pimenta.
+4. Num prato fundo, quebre o ovo e bata com um garfo apenas para misturar a clara com a gema. Em outros dois pratos coloque a farinha de trigo e de mandioca respectivamente e tempere cada uma com uma pitada de sal.
+5. Para empanar as iscas: passe um pedaço de peixe na farinha de trigo e bata bem para tirar o excesso; mergulhe no ovo batido e deixe escorrer; por último, passe na farinha de mandioca, pressionando com as mãos para cobrir toda a superfície do peixe. Reserve as iscas empanadas num prato.
+6. Preaqueça a Air Fryer digital da linha Electrolux por Rita Lobo a 190 ºC e programe para assar por 30 minutos.
+7. Coloque os pedaços de cebola e de cenoura um ao lado do outro dentro do cesto da Air Fryer e deixe assar por 10 minutos — não precisa virar na metade do tempo. Enquanto isso, prepare o molho de tahine.
+8. Com uma pinça, transfira as cebolas e cenouras assadas para um prato. Reserve.
+9. Com um pincel, espalhe o restante do azeite nos dois lados das iscas de peixe. Coloque as iscas de peixe no cesto da Air Fryer, uma ao lado da outra, feche a gaveta e deixe assar por 20 minutos, virando na metade do tempo. Sirva a seguir com o molho de tahine, os legumes assados e as ervas frescas.

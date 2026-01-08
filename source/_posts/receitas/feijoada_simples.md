@@ -21,7 +21,7 @@ ingredients:
     - cominho
 difficulty: Médio
 servings: 16 Porções
-time: 2 horas
+time: 2 hora
 calories: ''
 author: Boil
 flags: []
@@ -33,7 +33,7 @@ flags: []
 - **Categoria:** Pratos principais / Carnes
 - **Dificuldade:** Médio
 - **Rendimento:** 16 Porções
-- **Tempo de preparo:** 2 horas
+- **Tempo de preparo:** 2 hora
 - **Calorias:** 
 
 ---
@@ -50,6 +50,7 @@ flags: []
 - ¼ de xícara (chá) de azeite
 - 3 folhas de louro
 - 1 colher (chá) de cominho em pó
+- --
 - --
 
 ---

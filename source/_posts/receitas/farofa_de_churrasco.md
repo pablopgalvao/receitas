@@ -20,7 +20,7 @@ ingredients:
     - sal
 difficulty: Fácil
 servings: 6 Porções
-time: 20 minutos
+time: 20 min
 calories: ''
 author: Boil
 flags: []
@@ -32,7 +32,7 @@ flags: []
 - **Categoria:** Entradas
 - **Dificuldade:** Fácil
 - **Rendimento:** 6 Porções
-- **Tempo de preparo:** 20 minutos
+- **Tempo de preparo:** 20 min
 - **Calorias:** 
 
 ---
@@ -47,6 +47,7 @@ flags: []
 - 1/2 pimenta vermelha sem sementes picada
 - 3 xícaras (chá) de farinha de milho
 - sal a gosto
+- --
 - --
 
 ---

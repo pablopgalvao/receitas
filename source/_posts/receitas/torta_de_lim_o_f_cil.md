@@ -1,22 +1,15 @@
 ---
 title: Torta de limão fácil
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Sobremesas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - biscoito maisena
-    - manteiga
-    - limão
-    - água
-    - suco de limão
-    - leite condensado
-    - creme de leite
-difficulty: fácil
+  list: []
+difficulty: ''
 servings: ''
-time: 4 horas de geladeira
+time: 250 min
 calories: ''
 author: Boil
 flags: []
@@ -25,32 +18,36 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Sobremesas
-- **Dificuldade:** fácil
+- **Categoria:** Receitas
+- **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 4 horas de geladeira
+- **Tempo de preparo:** 250 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
-- 400 gramas de biscoito tipo maisena
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 400 gramas de biscoito do tipo maisena
 - 100 gramas de manteiga sem sal
 - 1 colher de chá de raspas de limão
 - 8 colheres de sopa de água
 - 150 ml de suco de limão
-- 1 lata de leite condensado (395 g)
-- 1 lata de creme de leite (300 g)
+- Você pode quebrar as bolachas em pedaços pequenos para ajudar no próximo passo. Retire a manteiga da geladeira 5 minutos antes de começar a receita. Assim, ficará mais fácil de manusear;
+- Em um mixer ou liquidificador, triture a bolacha até formar uma farinha. Não tem problema se ficar alguns gruminhos de bolachas. Se quiser uma massa bem lisinha, peneire a farinha;
+- Em uma tigela, coloque a farinha de bolacha, a manteiga, a água e as raspas de limão. Com as mãos, misture bem até formar uma massa úmida, que fique compacta e lisa ao apertar;
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Triture os biscoitos em liquidificador ou processador até formar uma farinha;
-2. Misture a farinha com a manteiga, a água e as raspas de limão até formar uma massa úmida e homogênea;
-3. Forre o fundo e as laterais de uma forma de fundo removível com a massa. Leve à geladeira por 20 minutos;
-4. Bata no liquidificador o leite condensado, o creme de leite e o suco de limão até formar um creme liso;
-5. Despeje o recheio sobre a massa e leve à geladeira por, no mínimo, 4 horas;
-6. Decore com raspas de limão e sirva gelada.
+1. Você pode quebrar as bolachas em pedaços pequenos para ajudar no próximo passo. Retire a manteiga da geladeira 5 minutos antes de começar a receita. Assim, ficará mais fácil de manusear;
+2. Em um mixer ou liquidificador, triture a bolacha até formar uma farinha. Não tem problema se ficar alguns gruminhos de bolachas. Se quiser uma massa bem lisinha, peneire a farinha;
+3. Em uma tigela, coloque a farinha de bolacha, a manteiga, a água e as raspas de limão. Com as mãos, misture bem até formar uma massa úmida, que fique compacta e lisa ao apertar;
+4. Transfira a massa para uma forma redonda de fundo removível (27 cm de diâmetro). Espalhe bem e, com os dedos, vá pressionando a massa no fundo e nas laterais da forma, cobrindo toda a área;
+5. Leve a forma com a massa para a geladeira enquanto você prepara o recheio.

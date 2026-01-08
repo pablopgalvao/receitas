@@ -1,0 +1,63 @@
+---
+title: Sanduíches de isca de peixe com pão de batata-doce
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 20 min
+calories: ''
+author: Boil
+flags: []
+---
+![Sanduíches de isca de peixe com pão de batata-doce](/images/sandu_ches_de_isca_de_peixe_com_p_o_de_batata_doce.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 20 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 xícara (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de mandioca flocada, tipo biju
+- azeite a gosto
+- sal e pimenta-do-reino moída na hora a gosto
+- Preaqueça o forno a 200 ºC (temperatura média). Unte duas assadeiras retangulares grandes com 3 colheres (sopa) de azeite em cada uma.
+- Corte os filés de peixe ao meio no sentido do comprimento e cada metade em pedaços de 6 cm x 4 cm. Transfira para uma tigela e tempere com o caldo de limão, sal e pimenta.
+- Num prato fundo, quebre os ovos e bata com um garfo para misturar as claras com as gemas. Em outros dois pratos coloque a farinha de trigo e de mandioca, e tempere cada uma com uma pitada de sal.
+- [object Object]
+- 1 colher (sopa) de caldo de limão
+- 1 colher (sopa) de mostarda
+- 200 ml de óleo
+- endro (dill) a gosto
+- sal a gosto
+- pepino fatiado em rodelas a gosto
+- cenoura cortada em fitas a gosto
+- cebola-roxa cortada em meias-luas a gosto
+- rabanete fatiado em rodelas a gosto
+- avocado fatiado a gosto
+- minirrúcula a gosto
+- No copo do mixer coloque as gemas, a mostarda, o caldo de limão e o óleo. Pressione o mixer (desligado) contra o fundo do copo e só então ligue. Bata por 10 segundos sem mexer.
+- Quando a maionese começar a se formar, levante o mixer delicadamente para uma das laterais, sem parar de bater, e repita para o outro lado. Repita o movimento até a maionese ficar firme – não mexa muito rápido nem faça movimentos de cima para baixo. Transfira para uma tigela, misture o endro picado, as raspas de limão, prove e ajuste o sal.
+- [object Object]
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Preaqueça o forno a 200 ºC (temperatura média). Unte duas assadeiras retangulares grandes com 3 colheres (sopa) de azeite em cada uma.
+2. Corte os filés de peixe ao meio no sentido do comprimento e cada metade em pedaços de 6 cm x 4 cm. Transfira para uma tigela e tempere com o caldo de limão, sal e pimenta.
+3. Num prato fundo, quebre os ovos e bata com um garfo para misturar as claras com as gemas. Em outros dois pratos coloque a farinha de trigo e de mandioca, e tempere cada uma com uma pitada de sal.
+4. Para empanar as iscas: passe o pedaço de peixe na farinha de trigo, mergulhe nos ovos e deixe escorrer o excesso; por último, passe na farinha de mandioca, pressionando com as mãos para cobrir toda a superfície. Transfira as iscas para as assadeiras, deixando espaço entre cada uma.
+5. Leve ao forno para assar por cerca de 20 minutos, até dourar – na metade do tempo, vire os pedaços com uma espátula para dourar por igual. Retire do forno e monte os sanduíches.

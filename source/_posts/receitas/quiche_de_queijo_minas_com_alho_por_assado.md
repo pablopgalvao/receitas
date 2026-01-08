@@ -1,0 +1,66 @@
+---
+title: Quiche de queijo minas com alho-poró assado
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 24 hora
+calories: ''
+author: Boil
+flags: []
+---
+![Quiche de queijo minas com alho-poró assado](/images/quiche_de_queijo_minas_com_alho_por_assado.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 24 hora
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 xícaras (chá) de farinha de trigo
+- 150 g de manteiga gelada
+- 5 colheres (sopa) de água gelada
+- 1 colher (chá) de sal
+- Corte a manteiga em cubinhos de cerca de 1 cm e coloque numa tigela com a farinha e o sal. Misture com as mãos rapidamente, sem desmanchar a manteiga.
+- Com a colher-medidora, transfira as 5 colheres (sopa) de água gelada para a tigela e misture apenas até conseguir formar uma bola. (Evite trabalhar demais a massa, pois ela acaba ficando menos crocante. O segredo é deixar pontinhos de manteiga aparentes, sem serem incorporados à farinha.)
+- Retire a massa da geladeira e do filme. Se estiver muito dura, amoleça com o calor das mãos, trabalhando o mínimo possível. Lembre que o truque aqui é manter a massa sempre gelada. Numa superfície lisa e enfarinhada, abra a massa com um rolo. Ela deve ficar maior que a fôrma para cobrir o fundo e as laterais.
+- Coloque uma folha de papel-manteiga sobre a torta e coloque feijões crus sobre o papel. (O objetivo é formar um peso que não deixe o fundo da massa inflar e quebrar ao assar). Leve para assar por aproximadamente 20 minutos, até que esteja dourada.
+- 2 colheres (sopa) de manteiga derretida
+- 1½ xícara (chá) de leite integral
+- 2 colheres (sopa) de queijo parmesão ralado
+- 1 colher (chá) de sal
+- noz-moscada ralada na hora a gosto
+- sal e pimenta-do-reino moída na hora a gosto
+- [object Object]
+- Na massa pré-assada, polvilhe 1 colher (sopa) do parmesão. Preencha a massa com a mistura - ela fica bem líquida, é assim mesmo. Por último, polvilhe com a colher (sopa) de parmesão restante.
+- 1 colher (sopa) de azeite
+- ½ xícara (chá) de água
+- ½ colher (sopa) de vinagre de vinho tinto
+- sal e pimenta-do-reino moída na hora a gosto
+- Regue com a água, tempere com sal e pimenta-do-reino e deixe cozinhar até secar. Transfira para uma travessa e regue com o vinagre. Mexa e deixe esfriar. Sirva em seguida.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Você vai precisar de uma fôrma de quiche ou de fundo removível de cerca de 20 cm de diâmetro e, de preferência, antiaderente. (Quanto mais alta, melhor!) Numa tigela, coloque água com gelo. Reserve.
+2. Corte a manteiga em cubinhos de cerca de 1 cm e coloque numa tigela com a farinha e o sal. Misture com as mãos rapidamente, sem desmanchar a manteiga.
+3. Com a colher-medidora, transfira as 5 colheres (sopa) de água gelada para a tigela e misture apenas até conseguir formar uma bola. (Evite trabalhar demais a massa, pois ela acaba ficando menos crocante. O segredo é deixar pontinhos de manteiga aparentes, sem serem incorporados à farinha.)
+4. Embrulhe a bola de massa em filme ou coloque num saco plástico e leve à geladeira de 2 a 24 horas, o que for mais conveniente para você.
+5. Retire a massa da geladeira e do filme. Se estiver muito dura, amoleça com o calor das mãos, trabalhando o mínimo possível. Lembre que o truque aqui é manter a massa sempre gelada. Numa superfície lisa e enfarinhada, abra a massa com um rolo. Ela deve ficar maior que a fôrma para cobrir o fundo e as laterais.
+6. Enrole a massa no rolo e desenrole sobre a fôrma. Com as mãos, modele a massa na fôrma. Para que a massa não fique rachada, é importante apertar os cantos para formar uma base sólida. Retire o excesso de massa com uma faquinha ou passando o rolo sobre a fôrma.
+7. Leve a fôrma com a massa à geladeira por mais 10 minutos. Enquanto isso, preaqueça o forno a 200 °C (temperatura média-alta).
+8. Coloque uma folha de papel-manteiga sobre a torta e coloque feijões crus sobre o papel. (O objetivo é formar um peso que não deixe o fundo da massa inflar e quebrar ao assar). Leve para assar por aproximadamente 20 minutos, até que esteja dourada.
+9. Passados os 20 minutos de forno, transfira a assadeira para a bancada de trabalho, retire os feijões e o papel. Reserve a massa (nesse ponto, caso queira fazer a quiche em outra hora, a massa pode ser armazenada na geladeira; ela dura até 3 dias).

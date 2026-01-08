@@ -1,18 +1,15 @@
 ---
 title: Mousse de limão rápida
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Sobremesas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - creme de leite
-    - leite condensado
-    - suco de limão
-difficulty: fácil
-servings: 130 porções
-time: 2 horas de geladeira
+  list: []
+difficulty: ''
+servings: ''
+time: 130 min
 calories: ''
 author: Boil
 flags: []
@@ -21,16 +18,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Sobremesas
-- **Dificuldade:** fácil
-- **Rendimento:** 130 porções
-- **Tempo de preparo:** 2 horas de geladeira
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 130 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 1 lata de creme de leite sem soro (300 gramas)
 - 1 lata de leite condensado (395 gramas)
 - 1/2 xícara de chá de suco de limão (120 ml)

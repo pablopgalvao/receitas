@@ -45,6 +45,7 @@ flags: []
 - ½ peça de picanha bovina (cerca de 500 g) em bifes
 - Sal grosso a gosto
 - --
+- --
 
 ---
 

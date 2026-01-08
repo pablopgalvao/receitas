@@ -1,0 +1,59 @@
+---
+title: Salada de bacalhau desfiado
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 25 min
+calories: ''
+author: Boil
+flags: []
+---
+![Salada de bacalhau desfiado](/images/salada_de_bacalhau_desfiado.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 25 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 300 gramas de bacalhau em lascas
+- 1 xícara de chá de grão-de-bico cozido (160 gramas)
+- Salsinha a gosto
+- 1/2 xícara de chá de azeitona preta (70 gramas)
+- 1/2 xícara de chá de azeitona verde (70 gramas)
+- Sal a gosto
+- 1 colher de chá de pimenta-do-reino
+- 1/2 xícara de chá de azeite (120 ml)
+- Reúna todos os ingredientes sobre a bancada. Dessalgue o bacalhau antes de começar;
+- Para essa receita, retire a pele dos pimentões, depois pique em cubinhos; pique o tomate (sem sementes) e a cebola da mesma forma; corte a salsinha finamente e fatie as azeitonas;
+- Junte o grão-de-bico, o tomate, os pimentões, a cebola, as azeitonas e a salsinha;
+- Regue com azeite e tempere com sal e pimenta-do-reino. Misture muito bem;
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes sobre a bancada. Dessalgue o bacalhau antes de começar;
+2. Para essa receita, retire a pele dos pimentões, depois pique em cubinhos; pique o tomate (sem sementes) e a cebola da mesma forma; corte a salsinha finamente e fatie as azeitonas;
+3. Em uma panela com água, coloque o bacalhau e leve ao fogo até ferver;
+4. Quando estiver pronto, desfie o bacalhau em uma tigela, com as mãos ou com o auxílio de um garfo;
+5. Junte o grão-de-bico, o tomate, os pimentões, a cebola, as azeitonas e a salsinha;
+6. Regue com azeite e tempere com sal e pimenta-do-reino. Misture muito bem;
+7. Prontinho! O segredo é servir bem gelada para aproveitar melhor o sabor. Bom apetite!

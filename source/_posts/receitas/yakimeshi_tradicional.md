@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 15min
+time: 15 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 15min
+- **Tempo de preparo:** 15 min
 - **Calorias:** 
 
 ---
@@ -36,6 +36,7 @@ flags: []
 - 300 gramas de arroz gohan cozido
 - 1 colher de chá de sal
 - Agora, em uma frigideira, aqueça o óleo e frite os ovos. Mexa sempre para que a gema e a clara se misturem e virem algo parecido com ovos mexidos. Tempere com sal;
+- --
 
 ---
 

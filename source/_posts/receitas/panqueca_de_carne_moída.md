@@ -24,7 +24,7 @@ ingredients:
     - muçarela
 difficulty: Médio
 servings: 10 Porções
-time: 40 minutos
+time: 40 min
 calories: ''
 author: Boil
 flags: []
@@ -36,7 +36,7 @@ flags: []
 - **Categoria:** Massas e macarronadas
 - **Dificuldade:** Médio
 - **Rendimento:** 10 Porções
-- **Tempo de preparo:** 40 minutos
+- **Tempo de preparo:** 40 min
 - **Calorias:** 
 
 ---
@@ -55,6 +55,7 @@ flags: []
 - 1/2 tomate cortado em cubos
 - 1 caixa de creme de leite
 - 400 g de muçarela fatiado
+- --
 - --
 
 ---

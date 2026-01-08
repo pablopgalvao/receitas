@@ -27,7 +27,7 @@ ingredients:
     - sal e pimenta
 difficulty: Médio
 servings: 20 Porções
-time: 2 horas
+time: 2 hora
 calories: ''
 author: Boil
 flags: []
@@ -39,7 +39,7 @@ flags: []
 - **Categoria:** Pratos principais / Carnes
 - **Dificuldade:** Médio
 - **Rendimento:** 20 Porções
-- **Tempo de preparo:** 2 horas
+- **Tempo de preparo:** 2 hora
 - **Calorias:** 
 
 ---
@@ -58,6 +58,7 @@ flags: []
 - 1 cebola normal grande
 - 5 g de louro em pó ou 5 folhas secas
 - Sal e pimenta a gosto
+- --
 - --
 
 ---

@@ -1,19 +1,15 @@
 ---
 title: Mousse de chocolate
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Sobremesas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - chocolate ao leite
-    - creme de leite
-    - ovo
-    - açúcar
-difficulty: fácil
-servings: 30 porções
-time: ''
+  list: []
+difficulty: ''
+servings: ''
+time: 30 min
 calories: ''
 author: Boil
 flags: []
@@ -22,20 +18,23 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Sobremesas
-- **Dificuldade:** fácil
-- **Rendimento:** 30 porções
-- **Tempo de preparo:** 
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 170 gramas de chocolate ao leite
 - 1 caixinha de creme de leite (200 gramas)
-- 3 claras de ovo
-- 3 colheres de sopa de açúcar
+- Em uma batedeira ou à mão, bata as claras de ovo até obter as claras em neve;
 - --
 
 ---

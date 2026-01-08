@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 40min
+time: 40 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 40min
+- **Tempo de preparo:** 40 min
 - **Calorias:** 
 
 ---
@@ -54,6 +54,7 @@ flags: []
 - Coloque mais um pouco de óleo na wok, adicione os camarões, adicione um pouco de sal e pimenta-do-reino e cozinhe até ficarem rosados, por cerca de 2 a 3 minutos. Reserve com as outras carnes;
 - Em um recipiente, adicione o shoyu, a água, o amido de milho, o molho de ostra, o açúcar e o gengibre ralado para fazer o molho para yakisoba, mexa para dissolver os ingredientes e reserve;
 - Na mesma wok, adicione um pouco mais de óleo, se necessário, e frite a cebola até ficar translúcida. Acrescente o brócolis e a cenoura, coloque um pouco de sal e pimenta-do-reino, misture e deixe fritar por cerca de 3 minutos;
+- --
 
 ---
 

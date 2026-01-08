@@ -11,7 +11,7 @@ ingredients:
     - banana
 difficulty: fácil
 servings: ''
-time: 15 minutos
+time: 15 min
 calories: ''
 author: Boil
 flags: []
@@ -23,7 +23,7 @@ flags: []
 - **Categoria:** Doces e bolos
 - **Dificuldade:** fácil
 - **Rendimento:** 
-- **Tempo de preparo:** 15 minutos
+- **Tempo de preparo:** 15 min
 - **Calorias:** 
 
 ---
@@ -32,6 +32,7 @@ flags: []
 
 - 4 colheres de sopa de cacau em pó 100%
 - 2 bananas maduras
+- --
 - --
 
 ---

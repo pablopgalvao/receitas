@@ -1,20 +1,15 @@
 ---
 title: Pudim de leite condensado
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Sobremesas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - açúcar
-    - água
-    - ovo
-    - leite integral
-    - leite condensado
-difficulty: médio
+  list: []
+difficulty: ''
 servings: ''
-time: 45 minutos + 2 horas de geladeira
+time: 75 min
 calories: ''
 author: Boil
 flags: []
@@ -23,21 +18,28 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Sobremesas
-- **Dificuldade:** médio
+- **Categoria:** Receitas
+- **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 45 minutos + 2 horas de geladeira
+- **Tempo de preparo:** 75 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
-- 1 xícara de chá de açúcar (200 g)
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
+- 1 xícara de chá de açúcar (200 gramas)
 - 1/2 xícara de chá de água quente (120 ml)
 - 3 ovos médios
 - 320 ml de leite integral
-- 1 lata de leite condensado (395 g)
+- 1 lata de leite condensado (395 gramas)
+- Para fazer a calda, escolha uma panela de fundo grosso e coloque o açúcar. Ligue o fogo baixo e derreta até não restar quase nenhum cristal;
+- Cuidadosamente, coloque a água quente na panela e misture vigorosamente para derreter os cristais de açúcar novamente ou até os torrões de açúcar se desmancharem e formar a calda em ponto de xarope;
+- Quebre um ovo de cada vez em um pote separado e, se ele estiver bom, adicione no liquidificador. Junte o leite, o leite condensado e bata por aproximadamente 1 minuto até a mistura ficar completamente homogênea;
 - --
 
 ---

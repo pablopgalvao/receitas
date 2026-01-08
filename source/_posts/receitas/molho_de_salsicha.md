@@ -1,25 +1,15 @@
 ---
 title: Molho de salsicha
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Molhos e temperos
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - salsicha
-    - óleo de soja
-    - alho
-    - cebola
-    - tomate
-    - cheiro-verde
-    - cebolinha
-    - água
-    - mostarda
-    - ketchup
-difficulty: fácil
-servings: 30 porções
-time: ''
+  list: []
+difficulty: ''
+servings: ''
+time: 30 min
 calories: ''
 author: Boil
 flags: []
@@ -28,36 +18,40 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Molhos e temperos
-- **Dificuldade:** fácil
-- **Rendimento:** 30 porções
-- **Tempo de preparo:** 
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 13 salsichas (cozidas por 5 minutos)
 - 2 colheres de sopa de óleo de soja
-- 2 dentes de alho picados
-- 1 cebola média picada
-- 1 tomate grande picado
 - 1 colher de sopa de cheiro-verde
 - 1 colher de sopa de cebolinha
 - 340 ml de água
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de ketchup
+- Em uma panela, esquente o óleo e doure o alho;
+- Corte a salsicha em rodelas e sele elas em uma frigideira com um pouco de óleo;
+- Transfira as salsichas para o molho, misture e deixe cozinhar por 2 a 3 minutos;
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Em uma panela, aqueça o óleo e doure o alho;
-2. Acrescente a cebola e refogue por 2 minutos;
-3. Adicione o tomate e deixe refogar por mais 2 minutos;
-4. Junte o cheiro-verde, a cebolinha, a água, a mostarda e o ketchup. Misture e deixe cozinhar por 10 minutos;
-5. Corte as salsichas em rodelas e doure-as em uma frigideira com um pouco de óleo;
-6. Transfira para o molho e cozinhe por mais 2 a 3 minutos;
-7. Sirva quente com arroz ou pão.
+1. Em uma panela, esquente o óleo e doure o alho;
+2. Adicione a cebola e deixe refogar por 2 minutos;
+3. Acrescente o tomate e deixe refogar por 2 minutos;
+4. Junte o cheiro-verde, a cebolinha, o molho, a água, a mostarda e o ketchup. Misture, tampe e deixe cozinhar por 10 minutos;
+5. Corte a salsicha em rodelas e sele elas em uma frigideira com um pouco de óleo;
+6. Transfira as salsichas para o molho, misture e deixe cozinhar por 2 a 3 minutos;
+7. Agora é só servir. Bom apetite!

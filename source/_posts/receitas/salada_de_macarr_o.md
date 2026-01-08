@@ -1,31 +1,15 @@
 ---
 title: Salada de macarrão
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Saladas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - macarrão parafuso
-    - água
-    - peito de peru defumado
-    - mussarela
-    - milho
-    - ervilha
-    - cenoura
-    - cebola
-    - tomate
-    - salsinha
-    - manjericão
-    - sal
-    - pimenta-do-reino
-    - creme de leite
-    - maionese
-    - frango
-difficulty: fácil
-servings: 40 porções
-time: ''
+  list: []
+difficulty: ''
+servings: ''
+time: 40 min
 calories: ''
 author: Boil
 flags: []
@@ -34,30 +18,33 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Saladas
-- **Dificuldade:** fácil
-- **Rendimento:** 40 porções
-- **Tempo de preparo:** 
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 40 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 500 gramas de macarrão parafuso
-- Água para cozinhar o macarrão
 - 200 gramas de peito de peru defumado em cubinhos
 - 200 gramas de mussarela cortada em cubinhos
 - 170 gramas de milho cozido
 - 170 gramas de ervilha cozida
-- 1 cenoura ralada
-- 1 cebola picada
-- 1 tomate sem sementes picado
 - Salsinha picada e folhas de manjericão a gosto
 - Sal e pimenta-do-reino a gosto
 - 200 gramas de creme de leite
 - 5 colheres de sopa de maionese
-- 200 gramas de filé de frango desfiado (opcional)
+- 200 gramas de filé de frango desfiado (sassami) (opcional)
+- Em uma panela grande e funda, coloque água (o suficiente para cobrir 500 gramas de macarrão) e leve para ferver em fogo alto;
+- Quando a água pegar fervura, adicione uma pitada de sal. Despeje o macarrão para cozinhar, seguindo as indicações da embalagem. O ponto al dente é o mais indicado para saladas, pois equilibra com os outros ingredientes;
+- Acrescente a cebola picada, a cenoura ralada, o peito de peru em cubinhos, a mussarela em cubinhos, o tomate em cubinhos e sem semente, o milho, a ervilha, a salsinha, o manjericão, o sal e a pimenta-do-reino. Com uma colher, misture para incorporar;
 - --
 
 ---

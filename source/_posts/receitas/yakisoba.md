@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: ''
 servings: ''
-time: 50min
+time: 50 min
 calories: ''
 author: Boil
 flags: []
@@ -21,7 +21,7 @@ flags: []
 - **Categoria:** Receitas
 - **Dificuldade:** 
 - **Rendimento:** 
-- **Tempo de preparo:** 50min
+- **Tempo de preparo:** 50 min
 - **Calorias:** 
 
 ---
@@ -48,6 +48,7 @@ flags: []
 - Após 3 minutos, a couve-flor estará macia e a cenoura um pouco mais dura. Adicione os floretes de brócolis e misture (se precisar, coloque 3 colheres de sopa de água para ajudar no cozimento);
 - Assim que o molho der uma leve engrossada, ainda em fogo baixo, acrescente o macarrão e misture delicadamente. Cuidado para não despedaçar os legumes e o macarrão. Se preciso, acerte o sal;
 - Cuidado com a quantidade sal, pois o molho, devido ao shoyu, já é salgado. Assim que o macarrão aquecer, desligue o fogo. Finalize com óleo de gergelim e pimenta a gosto;
+- --
 
 ---
 

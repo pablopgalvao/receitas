@@ -1,0 +1,47 @@
+---
+title: Mandioca assada com parmesão na Air Fryer da Rita Lobo
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 10 min
+calories: ''
+author: Boil
+flags: []
+---
+![Mandioca assada com parmesão na Air Fryer da Rita Lobo](/images/mandioca_assada_com_parmes_o_na_air_fryer_da_rita_lobo.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 10 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- ⅓ de xícara (chá) de queijo parmesão ralado fino
+- 1 colher (sopa) de sal
+- Coloque a mandioca na panela de pressão, cubra com água, tempere com 1 colher (sopa) de sal, tampe e leve ao fogo alto. Quando a panela começar a apitar, abaixe o fogo e deixe cozinhar por 10 minutos.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Corte a mandioca em toletes de cerca de 8 cm (assim fica mais fácil para cozinhar e cortar depois de cozida).
+2. Coloque a mandioca na panela de pressão, cubra com água, tempere com 1 colher (sopa) de sal, tampe e leve ao fogo alto. Quando a panela começar a apitar, abaixe o fogo e deixe cozinhar por 10 minutos.
+3. Desligue o fogo e, com cuidado, leve a panela para esfriar sob água corrente até parar de sair vapor pela válvula. Atenção: a água não deve entrar em contato com nenhuma das válvulas, apenas com a superfície lisa da tampa. Se preferir, deixe o vapor sair naturalmente da panela.
+4. Transfira os pedaços de mandioca cozida para um escorredor e deixe amornar por cerca de 10 minutos, para conseguir manusear e para que a água do cozimento escorra bem — quanto mais sequinha estiver, melhor para assar.
+5. Corte os toletes de mandioca ao meio, no sentido do comprimento, e retire a fibra central. Corte as metades em quatro pedaços — se algumas partes da mandioca ficarem muito macias e se quebrarem, não se preocupe: basta juntar as aparas com a mão mesmo, formando um pedaço.
+6. Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 200 ºC e programe para assar por 20 minutos.
+7. Abra a gaveta da Air Fryer e borrife um pouco de azeite no cesto (caso não tenha azeite em spray, use um pincel para espalhar azeite no fundo). Coloque os pedaços de mandioca no cesto, um ao lado do outro — pode ser bem pertinho mesmo, mas evite amontoar para que a mandioca fique bem dourada; se precisar, asse em levas.
+8. Borrife (ou pincele) a superfície da mandioca com azeite, polvilhe o parmesão ralado e deixe assar por cerca de 20 minutos, até dourar — não precisa virar na metade do tempo. Sirva a seguir.

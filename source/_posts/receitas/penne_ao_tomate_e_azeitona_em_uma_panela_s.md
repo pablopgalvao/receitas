@@ -1,0 +1,51 @@
+---
+title: Penne ao tomate e azeitona em uma panela só
+date: 2026-01-08T00:00:00.000Z
+categories:
+  - Receitas
+tags:
+  - null
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 20 min
+calories: ''
+author: Boil
+flags: []
+---
+![Penne ao tomate e azeitona em uma panela só](/images/penne_ao_tomate_e_azeitona_em_uma_panela_s.jpg)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 20 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 xícara (chá) de macarrão penne (ou outra massa curta de grano duro)
+- 1½ xícara (chá) de água
+- 1 colher (sopa) de extrato de tomate
+- ½ colher (sopa) de azeite
+- 1 xícara (chá) de tomate-cereja
+- ½ colher (chá) de sal
+- pimenta-do-reino em grãos moída na hora a gosto
+- queijo parmesão ralado, a gosto
+- Leve ao fogo médio, na menor boca do fogão, uma panela pequena de 16 cm de diâmetro. Regue com o azeite, junte a cebola, o sal e refogue por 3 minutos, mexendo bem, até dourar. Adicione o alho e refogue por mais 1 minuto.
+- Assim que o fundo estiver "limpo", coloque o macarrão, os tomates, as azeitonas e as folhas de manjericão. Tempere com a pimenta-do-reino a gosto. Misture e, quando começar a ferver, deixe cozinhar por 5 minutos.
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Faça o pré-preparo: descasque e pique fino a cebola e o alho; lave e corte os tomates-cereja ao meio; corte as azeitonas em quatro partes no sentido do comprimento.
+2. Leve ao fogo médio, na menor boca do fogão, uma panela pequena de 16 cm de diâmetro. Regue com o azeite, junte a cebola, o sal e refogue por 3 minutos, mexendo bem, até dourar. Adicione o alho e refogue por mais 1 minuto.
+3. Junte o extrato de tomate e misture bem. Em seguida, regue com a água e mexa bem, raspando o fundo da panela.
+4. Assim que o fundo estiver "limpo", coloque o macarrão, os tomates, as azeitonas e as folhas de manjericão. Tempere com a pimenta-do-reino a gosto. Misture e, quando começar a ferver, deixe cozinhar por 5 minutos.
+5. Após os 5 minutos iniciais, tampe a panela e deixe cozinhar por mais 10 minutos. Sirva a seguir com parmesão ralado e, se quiser, mais folhas de manjericão.

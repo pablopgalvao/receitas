@@ -16,7 +16,7 @@ ingredients:
     - alho
 difficulty: Fácil
 servings: 8 Porções
-time: 45 minutos
+time: 45 min
 calories: ''
 author: Boil
 flags: []
@@ -28,7 +28,7 @@ flags: []
 - **Categoria:** Entradas
 - **Dificuldade:** Fácil
 - **Rendimento:** 8 Porções
-- **Tempo de preparo:** 45 minutos
+- **Tempo de preparo:** 45 min
 - **Calorias:** 
 
 ---
@@ -39,6 +39,7 @@ flags: []
 - sal a gosto
 - 4 colheres (sopa) de azeite
 - 4 dentes de alho fatiados
+- --
 - --
 
 ---

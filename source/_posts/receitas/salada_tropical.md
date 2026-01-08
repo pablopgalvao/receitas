@@ -1,25 +1,15 @@
 ---
 title: Salada tropical
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Saladas
+  - Receitas
 tags:
-  - receitas populares
+  - null
 ingredients:
-  list:
-    - manga
-    - tomate
-    - palmito
-    - castanha
-    - alface
-    - azeite
-    - mel
-    - aceto balsâmico
-    - sal
-    - pimenta-do-reino
-difficulty: fácil
-servings: 20 porções
-time: ''
+  list: []
+difficulty: ''
+servings: ''
+time: 20 min
 calories: ''
 author: Boil
 flags: []
@@ -28,34 +18,38 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Saladas
-- **Dificuldade:** fácil
-- **Rendimento:** 20 porções
-- **Tempo de preparo:** 
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 20 min
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
-- 1 manga madura em lascas
-- 2 tomates picados
-- 1 vidro de palmito em rodelas
-- 1/2 xícara de chá de castanhas trituradas
-- Folhas de alface variadas
+- lanches e salgados
+- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
+- lanches e salgados
+- saladas e acompanhamentos
 - 3 colheres de sopa de azeite
 - 1 colher de sopa de mel
 - 2 colheres de sopa de aceto balsâmico
-- Sal e pimenta-do-reino a gosto
+- Sal a gosto
+- Pimenta-do-reino a gosto
+- Reúna todos os ingredientes da salada tropical;
+- Em uma vasilha, coloque o azeite, o mel, o aceto e tempere com sal e pimenta;
+- Sirva sua salada bem fresca e aproveite!
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Pique os tomates e o palmito em cubos e corte a manga em lascas;
-2. Triture as castanhas em processador ou pilão;
-3. Em uma tigela, coloque as folhas, o tomate, o palmito, a manga e as castanhas. Misture;
-4. Em um recipiente, prepare o molho misturando azeite, mel, aceto, sal e pimenta;
-5. Despeje o molho sobre a salada e misture bem;
-6. Sirva imediatamente.
+1. Reúna todos os ingredientes da salada tropical;
+2. Em uma tábua, pique os tomates e os palmitos em cubos e a manga em lascas. Reserve;
+3. Triture as castanhas em um processador de alimentos. Reserve;
+4. Em uma tigela, coloque as folhas rasgadas, o tomate, o palmito, a manga e as castanhas. Misture;
+5. Em uma vasilha, coloque o azeite, o mel, o aceto e tempere com sal e pimenta;
+6. Misture bem e derrame esse molho sobre as folhas;
+7. Sirva sua salada bem fresca e aproveite!

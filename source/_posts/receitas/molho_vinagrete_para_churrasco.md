@@ -22,7 +22,7 @@ ingredients:
     - água
 difficulty: Fácil
 servings: 10 Porções
-time: 30 minutos
+time: 30 min
 calories: ''
 author: Boil
 flags: []
@@ -34,7 +34,7 @@ flags: []
 - **Categoria:** Molhos e temperos
 - **Dificuldade:** Fácil
 - **Rendimento:** 10 Porções
-- **Tempo de preparo:** 30 minutos
+- **Tempo de preparo:** 30 min
 - **Calorias:** 
 
 ---
@@ -50,6 +50,7 @@ flags: []
 - 1 xícara (chá) de azeite
 - 1/2 xícara (chá) de vinagre
 - 1/2 xícara (chá) de água
+- --
 - --
 
 ---

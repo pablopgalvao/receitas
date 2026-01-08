@@ -9,7 +9,7 @@ ingredients:
   list: []
 difficulty: fácil
 servings: 10 porções
-time: 120 minutos
+time: 120 min
 calories: ''
 author: Boil
 flags:
@@ -22,7 +22,7 @@ flags:
 - **Categoria:** Variados
 - **Dificuldade:** fácil
 - **Rendimento:** 10 porções
-- **Tempo de preparo:** 120 minutos
+- **Tempo de preparo:** 120 min
 - **Calorias:** 
 
 ---
@@ -30,6 +30,7 @@ flags:
 ## 🧄 Ingredientes
 
 - null
+- --
 
 ---
 

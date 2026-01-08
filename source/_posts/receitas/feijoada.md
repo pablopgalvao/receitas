@@ -1,33 +1,15 @@
 ---
 title: Feijoada
-date: 2025-09-22T00:00:00.000Z
+date: 2026-01-08T00:00:00.000Z
 categories:
-  - Pratos principais / Carnes
+  - Receitas
 tags:
-  - Popular Brasil
+  - null
 ingredients:
-  list:
-    - feijão preto
-    - orelha de porco
-    - pé de porco
-    - lombo de porco
-    - lingüiça portuguesa
-    - carne seca
-    - rabo de porco
-    - costelinha de porco
-    - paio
-    - tempero
-    - cebola
-    - louro
-    - pimenta-do-reino
-    - pinga
-    - cebolinha
-    - alho
-    - laranja
-    - sal
-difficulty: Médio
-servings: 20 porções
-time: 2 horas e 20 minutos
+  list: []
+difficulty: ''
+servings: ''
+time: 24 hora
 calories: ''
 author: Boil
 flags: []
@@ -36,41 +18,35 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Pratos principais / Carnes
-- **Dificuldade:** Médio
-- **Rendimento:** 20 porções
-- **Tempo de preparo:** 2 horas e 20 minutos
+- **Categoria:** Receitas
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 24 hora
 - **Calorias:** 
 
 ---
 
 ## 🧄 Ingredientes
 
-- 1 Kg de feijão preto (carioca)
-- 70 g de orelha de porco
-- 70 g de pé de porco
-- 50 g de lombo de porco
-- 150 g de lingüiça portuguesa
-- 100 g de carne seca
-- 70 g de rabo de porco
-- 100 g de costelinha de porco
-- 100 g de paio
-- Tempero
-- 2 cebolas grandes picadinhas
-- 3 folhas de louro
-- Pimenta do reino a gosto
-- 40 ml de de pinga
-- 1 maço de cebolinha verde picadinha
-- 6 dentes de alho
-- 1 ou 2 laranjas
-- Sal se precisar
+- Salada de feijão-branco com salmão e limão
+- 1,1 kg de costela de porco salgada (1 peça com 12 ripas)
+- 600 g de lombo de porco salgado
+- Comece o preparo da feijoada no dia anterior para dessalgar as carnes. Descarte o excesso de gordura das peças. Corte o lombo e a carne-seca em cubos médios de cerca de 3 cm. Apoie a peça de costelinha na tábua e corte a carne entre os ossinhos para separar as ripas.
+- Coloque cada tipo de carne numa tigela grande, cubra com bastante água e leve à geladeira. Deixe de molho por 24 horas para dessalgar, trocando a água a cada 3 horas, de preferência.
+- 1 kg de feijão-preto
+- ¼ de xícara (chá) de azeite
+- 1 colher (chá) de cominho em pó
+- Escorra a água das carnes dessalgadas e transfira para um caldeirão grande (ou panela) com capacidade para 11 litros. Cubra as carnes com água e leve ao fogo alto – cerca de 4 litros bastam, a quantidade pode variar de acordo com o tamanho da panela, o importante é que as carnes devem ficar completamente imersas. Deixe cozinhar por 10 minutos em fogo alto, contados após a fervura – o pré-cozimento elimina o excesso de gordura e sal das carnes.
+- Volte o caldeirão ao fogo alto. Quando aquecer, regue com o azeite, adicione a cebola e tempere com uma pitada de sal. Refogue por cerca de 8 minutos até começar a dourar. Junte o alho, o cominho, as folhas de louro e mexa por 1 minuto para perfumar.
+- Faltando 30 minutos para o fim do cozimento, com uma pinça, transfira os paios para a tábua e corte cada um em fatias de 1 cm, na diagonal. Volte as fatias para a panela e deixe cozinhar até completar as 5 horas de cozimento total, ou até que as carnes estejam bem macias e o caldo da feijoada comece a engrossar. Sirva com arroz, couve refogada, gomos de laranja e farinha de mandioca torrada.
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Coloque as carnes de molho por 36 horas ou mais, vá trocando a água várias vezes, se for ambiente quente ou verão, coloque gelo por cima ou em camadas frias.
-2. Coloque para cozinhar passo a passo: as carnes duras, em seguida as carnes moles.
-3. Quando estiver mole coloque o feijão, e retire as carnes.
-4. Finalmente tempere o feijão.
+1. Comece o preparo da feijoada no dia anterior para dessalgar as carnes. Descarte o excesso de gordura das peças. Corte o lombo e a carne-seca em cubos médios de cerca de 3 cm. Apoie a peça de costelinha na tábua e corte a carne entre os ossinhos para separar as ripas.
+2. Coloque cada tipo de carne numa tigela grande, cubra com bastante água e leve à geladeira. Deixe de molho por 24 horas para dessalgar, trocando a água a cada 3 horas, de preferência.
+3. 500 g de paio (4 unidades)
+4. ¼ de xícara (chá) de azeite
+5. 1 colher (chá) de cominho em pó

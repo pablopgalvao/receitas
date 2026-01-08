@@ -33,7 +33,6 @@ flags: []
 - 3 colheres (sopa) de azeite
 - 3 ramos de salsinha
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Leve uma frigideira grande ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, adicione a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até ficar translúcida. Junte o alho, os ramos de tomilho e mexa por 1 minuto para perfumar.
 - Adicione o pimentão, tempere com sal e refogue por 2 minutos. Abaixe o fogo e regue com o restante do azeite, acrescente a berinjela, tempere com uma pitada de sal e de pimenta e refogue por cerca de 5 minutos, até o legume começar a ficar macio e mudar de cor. Adicione a abobrinha e refogue por mais 8 minutos – os legumes devem ficar dourados e cozidos, mas ainda al dente.
 - Adicione os tomates e mexa delicadamente por 1 minuto para aquecer. Desligue o fogo, prove e ajuste o sal. Misture a salsinha e reserve numa tigela para preparar a polenta.
@@ -42,7 +41,6 @@ flags: []
 - ½ colher (chá) de sal
 - 2 colheres (sopa) de manteiga
 - ½ xícara (chá) de queijo parmesão ralado
-- [object Object]
 - Desligue o fogo, misture a manteiga e o queijo parmesão. Sirva a seguir com a ratatouille.
 - --
 

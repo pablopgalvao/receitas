@@ -37,12 +37,10 @@ flags: []
 - 6 xícaras (chá) de água
 - 2 colheres (sopa) de manteiga
 - ½ xícara (chá) de queijo parmesão ralado
-- [object Object]
 - Leve uma caçarola média ao fogo médio. Quando aquecer, regue com o azeite, coloque a cebola, tempere com uma pitada de sal e refogue até ficar transparente. Adicione a cenoura ralada e as fatias de salsão e deixe cozinhar por cerca de 2 minutos, mexendo de vez em quando. Junte as fatias de alho-poró e as folhas de louro, tempere com o cravo-da-índia em pó e pimenta-do-reino moída na hora a gosto e refogue por mais 1 minuto.
 - Adicione o arroz, tempere com sal novamente e misture bem por 1 minuto - para envolver os grãos no azeite. Regue com o vinho e mexa até secar.
 - Junte as folhas do salsão e do alho-poró e regue com 2 xícaras (chá) da água fervente. Misture bem e deixe cozinhar por cerca de 5 minutos, ou até secar, mexendo de vez em quando para não grudar no fundo.
 - Quando o líquido secar, regue com mais 2 xícaras (chá) de água fervente. Misture bem e deixe cozinhar por mais 5 minutos, mexendo de vez em quando, até secar novamente.
-- [object Object]
 - Desligue o fogo. Misture o queijo ralado, as raspas e o caldo de limão. Junte a manteiga, sem misturar e tampe a panela por alguns minutos - só abra a panela e misture novamente na hora de servir. Enquanto isso, prepare o acompanhamento.
 - --
 

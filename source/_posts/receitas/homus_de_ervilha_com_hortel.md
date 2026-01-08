@@ -36,7 +36,6 @@ flags: []
 - sal a gosto
 - folhas de hortelã a gosto para decorar
 - Numa tigela coloque a ervilha, cubra com 2 xícaras (chá) de água fervente e deixe de molho por 30 minutos – isso diminui o tempo de cozimento da ervilha. Enquanto isso, prepare os outros ingredientes.
-- [object Object]
 - Transfira o homus para uma tigela e leve à geladeira por, no mínimo, 1 hora, para esfriar. Na hora de servir, regue com azeite e polvilhe folhas de hortelã a gosto.
 - --
 

@@ -39,7 +39,6 @@ flags: []
 - Na própria jarra medidora, misture o açúcar com o leite até dissolver.
 - Abra um buraco no centro da farinha e adicione o leite aos poucos, misturando bem com uma espátula de silicone firme (ou de bambu) — atenção, o leite deve ser adicionado aos poucos mesmo, do contrário a massa pode ficar mole demais e difícil de ser trabalhada.
 - Assim que todo o líquido tiver sido incorporado, acrescente a manteiga e, com a espátula, dobre a massa sobre ela mesma para incorporar (se preferir, já comece a amassar com as mãos nessa etapa).
-- [object Object]
 - Unte a bancada com um pouco de óleo e coloque os pães modelados um ao lado do outro — assim eles crescem sem grudar na bancada. Cubra os pães com um pano e deixe descansar por mais 30 minutos.
 - Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 130 ºC e programe para assar por 20 minutos. Numa tigela pequena, quebre o ovo e misture bem com 1 colher (chá) de água.
 - Quando a Air Fryer estiver pré-aquecida, abra a gaveta e, com um pincel, unte o cesto com óleo (se preferir, utilize um disco de papel antiaderente próprio para assar, do tamanho do fundo do cesto).

@@ -47,7 +47,6 @@ flags: []
 - Após o crescimento da esponja, junte o leite e o açúcar. Quebre um ovo em um recipiente pequeno e transfira para a tigela. Quebre os outros ovos, separe as claras e adicione apenas as gemas. Mexa bem;
 - Misture o sal com a farinha e, aos poucos, despeje na tigela, mexendo a massa com as mãos até ela ficar homogênea. Acrescente a margarina ou manteiga e incorpore com as mãos à massa. Adicione mais um pouco de farinha até que a massa fique firme e consistente;
 - Pegue uma porção de cerca de 100 gramas de massa e molde um pãozinho em formato de bola, usando as mãos e a superfície como apoio;
-- [object Object]
 - Retire do forno com cuidado e espere esfriar em temperatura ambiente. Sirva com manteiga, geleias ou monte sanduíches!
 - --
 

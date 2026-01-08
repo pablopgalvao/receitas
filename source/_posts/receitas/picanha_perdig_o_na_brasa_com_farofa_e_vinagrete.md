@@ -51,8 +51,7 @@ flags: []
 - 2 colheres de sopa de vinagre (30 ml)
 - 3 colheres de sopa de azeite (24 g)
 - ½ xícara de chá de salsinha picada (30 g)
-- --
-- --
+
 
 ---
 

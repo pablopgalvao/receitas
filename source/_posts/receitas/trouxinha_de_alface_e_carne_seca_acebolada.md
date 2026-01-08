@@ -38,7 +38,6 @@ flags: []
 - 1 colher (sopa) de vinagre
 - sal e pimenta-do-reino moída na hora a gosto
 - Retire as folhas, ao invés de escorrer a água - desse modo, as sujeirinhas ficam no fundo da tigela e não grudam novamente nas folhas. Passe para uma centrífuga de saladas e seque bem (ou deixe num escorredor por alguns minutos).
-- [object Object]
 - --
 
 ---

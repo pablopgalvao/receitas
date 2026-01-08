@@ -33,7 +33,6 @@ flags: []
 - ⅓ de xícara (chá) de amido de milho
 - Unte com manteiga uma assadeira redonda de 24 cm de diâmetro com fundo removível. Corte um quadrado de papel manteiga grande o suficiente para cobrir o fundo e sobrar. Feche o aro e dobre a sobra de papel para baixo - este método evita que massas líquidas escorram pelo encaixe. Corte também uma tira de 80 cm x 12 cm e forre a parede da fôrma. Espalhe uma camada fina de manteiga sobre o papel.
 - Numa tábua, pique o chocolate e corte a manteiga em cubos. Transfira para uma tigela refratária grande.
-- [object Object]
 - Retire a tigela do banho-maria. Acrescente o açúcar e misture delicadamente com uma espátula.
 - Quebre um ovo de cada vez numa tigela e transfira para outro recipiente - se um deles estiver estragado você não perde toda a receita. Com um garfo misture as gemas com as claras, sem bater.
 - Em seguida, junte os ovos à massa de chocolate. Misture delicadamente com a espátula, com cuidado para não formar bolhas - esse é o segredo para o bolo ficar denso e bem cremoso.

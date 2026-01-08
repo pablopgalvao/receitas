@@ -36,11 +36,9 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa panela grande, coloque 6 colheres (sopa) da manteiga e leve ao fogo médio. Quando derreter, junte a farinha e mexa por 2 minutos – essa mistura, chamada roux, vai engrossar o molho. Desligue o fogo e acrescente 1 litro do leite de uma só vez. Misture bem com um batedor de arame para dissolver os gruminhos de farinha. Volte a panela ao fogo alto, junte o restante do leite e mexa com o batedor de arame até ferver.
-- [object Object]
 - Leve a mesma panela (não precisa lavar) ao fogo médio para derreter 1 colher (sopa) de manteiga. Acrescente a cebola, tempere com uma pitada de sal e refogue por 3 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar. Acrescente o bacalhau, tempere com pimenta-do-reino e misture bem. Deixe cozinhar por 2 minutos.
 - Desligue o fogo e misture a cebolinha picada e as raspas de limão. Regue com 1 ½ xícara (chá) do molho bechamel e misture bem. Prove e acerte o sal. Transfira para uma tigela e reserve para a montagem.
 - 1½ xícara (chá) de queijo parmesão ralado
-- [object Object]
 - --
 
 ---

@@ -31,7 +31,6 @@ flags: []
 - 500 ml de vodca
 - 1½ xícara (chá) de açúcar
 - 1½ xícara (chá) de água
-- [object Object]
 - Junte a calda de açúcar ao pote com vodca e cascas de limão, misture, tampe e deixe descansar por mais 5 dias (se estiver com tempo, deixe descansar por 1 semana; o licor fica ainda mais gostoso).
 - --
 

@@ -42,7 +42,6 @@ flags: []
 - Encaixe as pontas das asas sob as costas do frango para que não queimem ao assar. Corte um pedaço de barbante de algodão e amarre as coxas do frango. A cavidade do frango fica mais fechadinha, o que vai deixar a carne mais úmida e assada de maneira uniforme. Regue o frango com 1 colher (sopa) de azeite.
 - Leve ao forno para assar por 1 hora e 20 minutos — o cálculo é de cerca de 40 minutos por quilo de frango. Numa tigela pequena, separe 2 colheres (sopa) de azeite para pincelar o frango ao longo do cozimento.
 - Após os primeiros 30 minutos, abra o forno, pincele o frango com 1 colher (sopa) de azeite e regue a assadeira com ½ xícara (chá) de água — isso preserva a umidade do frango. Enquanto o frango assa, inicie o preparo do molho.
-- [object Object]
 - 1 xícara (chá) de caldo de laranja-baía (cerca de 2 laranjas)
 - 1 xícara (chá) de vinho branco (ou água)
 - 1 colher (sopa) de azeite

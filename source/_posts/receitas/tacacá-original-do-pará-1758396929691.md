@@ -48,8 +48,7 @@ flags: []
 - 3 pimentas-de-cheiro
 - 2 maços de jambu
 - 2 litros de tucupi
-- --
-- --
+
 
 ---
 

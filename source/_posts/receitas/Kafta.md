@@ -47,8 +47,7 @@ flags: []
 - 2 colheres de chá de sal
 - 1 colher de sopa de azeite
 - Palitos de churrasco
-- --
-- --
+
 
 ---
 

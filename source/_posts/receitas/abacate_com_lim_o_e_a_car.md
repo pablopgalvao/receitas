@@ -6,7 +6,8 @@ categories:
 tags:
   - null
 ingredients:
-  list: []
+  list:
+    - receita
 difficulty: ''
 servings: ''
 time: ''

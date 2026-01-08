@@ -37,9 +37,7 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - pimenta-do-reino moída na hora a gosto
 - azeite a gosto
-- [object Object]
 - Numa tigela, quebre um ovo de cada vez e transfira para o processador. Junte a alface, as ervas, os dentes de alho e bata até triturar bem. Acrescente a farinha de trigo, o açúcar, tempere com ½ colher (chá) de sal, noz-moscada e pimenta a gosto. Bata até formar uma massa líquida e transfira para uma tigela.
-- [object Object]
 - Transfira a primeira leva de panquecas para um prato, regue a frigideira com um fio de azeite e repita com o restante, sempre misturando a massa da panqueca com a concha antes de levar à frigideira. Sirva a seguir com queijo cottage caseiro, salada de feijão-branco com pepino e rabanete ou uma saladinha de ervas.
 - --
 

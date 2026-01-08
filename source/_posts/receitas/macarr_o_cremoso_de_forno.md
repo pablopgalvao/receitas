@@ -48,7 +48,6 @@ flags: []
 - Em uma panela grande, coloque os 2 litros de água para ferver. Adicione o sal e cozinhe o macarrão por 8 minutos, até ficar al dente. Escorra e reserve;
 - Em outra panela, aqueça o óleo e frite o bacon até dourar levemente. Acrescente a calabresa e refogue até soltar parte da gordura. Junte a cebola picada e mexa até ficar translúcida;
 - Adicione o tomate picado e misture bem até começar a desmanchar. Tempere com a salsa e a páprica picante, misture e desligue o fogo. Reserve;
-- [object Object]
 - Tempere com noz-moscada, adicione a mussarela a gosto e finalize com o creme de leite. Misture bem até ficar cremoso;
 - --
 

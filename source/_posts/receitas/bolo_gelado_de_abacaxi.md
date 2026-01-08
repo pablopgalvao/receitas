@@ -36,9 +36,7 @@ flags: []
 - 6 colheres (sopa) de farinha de trigo
 - manteiga e farinha de trigo para untar e polvilhar
 - Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga uma assadeira de 30 cm x 40 cm e polvilhe com farinha. Chacoalhe para cobrir todo o fundo e bata bem na pia para tirar o excesso.
-- [object Object]
 - Sem parar de bater, junte o açúcar, de colher em colher. Em seguida, junte as gemas, uma a uma, batendo a cada adição.
-- [object Object]
 - 1½ xícara (chá) de creme de leite fresco gelado
 - 4 colheres (sopa) de açúcar
 - ½ xícara (chá) de coco fresco ralado

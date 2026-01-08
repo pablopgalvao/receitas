@@ -31,7 +31,6 @@ flags: []
 - 2 colheres (sopa) de manteiga
 - 2 colheres (chá) de vinagre de vinho branco
 - sal a gosto
-- [object Object]
 - --
 
 ---

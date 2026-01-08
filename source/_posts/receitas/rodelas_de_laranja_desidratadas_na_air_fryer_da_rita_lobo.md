@@ -30,7 +30,6 @@ flags: []
 
 - Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo
 - Salmão com brócolis na Air Fryer da Rita Lobo
-- [object Object]
 - --
 
 ---

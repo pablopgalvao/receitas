@@ -39,7 +39,6 @@ flags: []
 - 1 colher de chá de canela em pó (opcional)
 - Em uma tigela grande, adicione o leite em pó, o Ovomaltine, o café solúvel, o bicarbonato de sódio e a canela em pó (se desejar);
 - Misture muito bem todos os ingredientes secos com uma colher ou fouet (batedor de arame), até que estejam completamente incorporados;
-- [object Object]
 - --
 
 ---

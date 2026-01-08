@@ -37,8 +37,6 @@ flags: []
 - Corte o filé de frango em pedaços médios e transfira para o processador de alimentos. Junte o alho, as raspas e o caldo do limão, a pimenta síria, a canela em pó e as folhas de hortelã; tempere com o sal e pimenta. Bata até triturar bem os ingredientes.
 - 1 colher (chá) de sal
 - 3 xícaras (chá) de caldo de legumes caseiro (ou água)
-- [object Object]
-- [object Object]
 - ⅓ de xícara (chá) de tahine (pasta de gergelim)
 - ¼ de xícara (chá) de água filtrada
 - sal a gosto

@@ -36,7 +36,6 @@ flags: []
 - 1½ colher (sopa) de licor de laranja
 - castanha-de-caju picada a gosto
 - raspas de chocolate amargo a gosto
-- [object Object]
 - --
 
 ---

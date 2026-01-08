@@ -46,7 +46,6 @@ flags: []
 - Manjericão fresco a gosto
 - Corte as berinjelas em cubos médios, mantendo a casca. Pique também a cebola, os tomates, as azeitonas, o pimentão e o salsão;
 - Aqueça duas frigideiras grandes e adicione azeite e óleo vegetal em quantidade suficiente para dourar os cubos de berinjela. Doure os cubos de berinjela em pequenas porções para evitar que fiquem encharcados ou crus. Reserve os cubos já dourados em um recipiente e tempere com sal;
-- [object Object]
 - Adicione as alcaparras, a pimenta calabresa e a dedo-de-moça picada ao refogado, temperando com sal;
 - --
 

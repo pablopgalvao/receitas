@@ -50,7 +50,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Noz-moscada a gosto
 - Com a água fervendo na panela, coloque um pouco de sal e adicione as batatas para cozinhar;
-- [object Object]
 - Adicione a farinha de trigo e incorpore. Depois, adicione o leite aos poucos e mexa constantemente com um fouet (batedor de arame);
 - Tempere o molho com pimenta-do-reino, noz-moscada ralada e sal. Misture e está prontinho. Reserve;
 - Volte para o preparo da calabresa. Coloque a cebola, o alho, o tomate e refogue muito bem. Finalize com salsinha e reserve o recheio;

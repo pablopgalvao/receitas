@@ -36,7 +36,6 @@ flags: []
 - salsinha picada a gosto
 - sal a gosto
 - Leve uma panela de pressão (sem a tampa) com 2,5 litros de água ao fogo alto para ferver. Tempere a rabada com o caldo de limão e 1 colher (chá) de sal.
-- [object Object]
 - Volte a panela (sem água) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e adicione os pedaços de rabada aos poucos - se colocar todos de uma só vez eles vão cozinhar em vez de dourar. Deixe dourar bem, por cerca de 3 minutos de cada lado. Transfira os pedaços dourados para uma tigela e doure o restante, regando a panela com azeite a cada leva.
 - Mantenha a panela em fogo médio e regue com mais 1 colher (sopa) de azeite. Junte a cebola, tempere com uma pitada de sal e refogue por cerca de 10 minutos, mexendo de vez em quando até começar a dourar. Junte o alho, o salsão, a pimenta dedo-de-moça e as folhas de louro. Tempere com o cominho e refogue por mais 2 minutos.
 - Acrescente o vinho e misture bem com uma espátula, raspando o fundo da panela para dissolver os queimadinhos - eles dão sabor ao molho. Junte o tomate pelado, regue com 2 xícaras (chá) de água e deixe cozinhar em fogo alto até ferver.

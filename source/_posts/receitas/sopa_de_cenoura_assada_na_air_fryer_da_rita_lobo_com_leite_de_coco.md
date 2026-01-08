@@ -41,7 +41,6 @@ flags: []
 - Lave, seque e corte o salsão em pedaços médios. Descasque e pique fino a cebola e o alho.
 - Leve uma panela média ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, acrescente a cebola e o salsão, tempere com uma pitada de sal e refogue por cerca de 2 minutos, até murchar. Junte o alho e o curry e mexa por 1 minuto para perfumar.
 - Adicione a cenoura assada, a água e o leite de coco. Tempere com sal e aumente o fogo para cozinhar até começar a ferver.
-- [object Object]
 - --
 
 ---

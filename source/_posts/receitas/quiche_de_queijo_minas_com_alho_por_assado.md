@@ -42,7 +42,6 @@ flags: []
 - 1 colher (chá) de sal
 - noz-moscada ralada na hora a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Na massa pré-assada, polvilhe 1 colher (sopa) do parmesão. Preencha a massa com a mistura - ela fica bem líquida, é assim mesmo. Por último, polvilhe com a colher (sopa) de parmesão restante.
 - 1 colher (sopa) de azeite
 - ½ xícara (chá) de água

@@ -36,7 +36,6 @@ flags: []
 - folhas de salsinha a gosto para servir
 - azeite a gosto para servir
 - Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) de azeite, adicione a cebola e o dente de alho. Refogue por 3 minutos até a cebola murchar bem.
-- [object Object]
 - Transfira a pasta de feijão para uma tigela e deixe esfriar em temperatura ambiente. Enquanto isso, lave seque e pique grosseiramente a salsinha. Descarte o caroço e pique fino as azeitonas. Numa tigela pequena misture as azeitonas, a salsinha, as raspas de limão siciliano e ⅓ de xícara (chá) de azeite.
 - --
 

@@ -35,7 +35,6 @@ flags: []
 - 1 colher (chá) de páprica doce
 - ½ colher (chá) de cominho em pó
 - Leve uma frigideira ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até murchar. Junte o alho, o cominho, a páprica e mexa bem por 1 minuto. Adicione o tomate e refogue por 2 minutos.
-- [object Object]
 - --
 
 ---

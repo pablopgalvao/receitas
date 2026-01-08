@@ -34,7 +34,6 @@ flags: []
 - manteiga para dourar as rabanadas
 - mel a gosto para servir
 - Numa tigela, quebre o ovo e bata com um garfo apenas para misturar a clara com a gema. Transfira para um refratário (ou assadeira pequena) — assim fica mais fácil umedecer mais de uma fatia por vez. Acrescente o leite, o açúcar, as raspas de limão e de cumaru e misture bem.
-- [object Object]
 - Leve uma frigideira média antiaderente ao fogo médio. Coloque 1 colher (sopa) de manteiga na frigideira e gire para derreter e untar todo o fundo.
 - Assim que virar as primeiras, mergulhe as próximas fatias de pão no leite para umedecer e repita o processo adicionando um pouco mais de manteiga na frigideira.
 - Sirva as rabanadas quentes com uma colherada de iogurte cremoso, gomos de laranja e mel.

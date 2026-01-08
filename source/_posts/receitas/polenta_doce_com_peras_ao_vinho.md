@@ -34,12 +34,10 @@ flags: []
 - 1 xícara (chá) de água
 - Descasque e corte as peras ao meio, no sentido do comprimento. Com a ponta de uma colher de chá, retire o miolo com as sementes e descarte. Corte cada metade em três gomos. Lave e seque o limão. Com um descascador de legumes, retire a casca do limão com cuidado para não extrair a parte branca.
 - Transfira os gomos de pera para uma panela média, adicione o açúcar, a água, o vinho, a canela e a casca de limão.
-- [object Object]
 - ½ xícara (chá) de polenta instantânea
 - 3 xícaras (chá) de leite
 - ⅓ de xícara (chá) de açúcar
 - 50 g de manteiga
-- [object Object]
 - Desligue o fogo e misture a manteiga. Sirva a seguir com as peras cozidas, a calda de vinho e pé de moleque de castanha-de-caju bem quebradinho.
 - --
 

@@ -49,8 +49,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Bata o queijo cottage no processador (com o soro) até formar uma pasta. Misture as nozes e tempere com sal, pimenta e noz-moscada a gosto.
-- [object Object]
-- [object Object]
 - --
 
 ---

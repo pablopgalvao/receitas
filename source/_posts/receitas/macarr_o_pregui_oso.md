@@ -43,7 +43,6 @@ flags: []
 - Cheiro-verde a gosto
 - 250 gramas de mussarela
 - Molho de alho a gosto
-- [object Object]
 - --
 
 ---

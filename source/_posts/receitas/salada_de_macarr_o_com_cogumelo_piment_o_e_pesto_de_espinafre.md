@@ -37,7 +37,6 @@ flags: []
 - ⅓ de xícara (chá) de queijo parmesão ralado
 - ½ xícara (chá) de azeite
 - sal a gosto
-- [object Object]
 - 400 g de macarrão rigatoni (cerca de 6 xícaras)
 - 300 g de cogumelo-de-paris limpos (cerca de 3 ⅓ xícaras)
 - azeite a gosto

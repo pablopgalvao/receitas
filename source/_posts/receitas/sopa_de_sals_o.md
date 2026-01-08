@@ -35,7 +35,6 @@ flags: []
 - cebolinha fatiada a gosto
 - Descasque e corte as batatas em cubos médios. Lave, descarte as folhas e corte o salsão em fatias de cerca de 2 cm. Descasque e corte a cebola em cubos grandes. Descasque o dente de alho.
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite e junte a cebola, o alho (inteiro) e o salsão. Tempere com sal e refogue por 5 minutos, até a cebola murchar. Junte os cubos de batata, o filé de frango e a folha de louro.
-- [object Object]
 - Sirva a seguir com creme de leite fresco gelado e cebolinha fatiada a gosto. Esta sopa também fica ótima servida fria.
 - --
 

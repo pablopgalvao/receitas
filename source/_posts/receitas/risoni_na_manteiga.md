@@ -34,7 +34,6 @@ flags: []
 - ¼ de xícara (chá) de queijo parmesão ralado
 - sal e pimenta-do-reino moída na hora a gosto
 - raspas de limão a gosto (opcional)
-- [object Object]
 - Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão numa peneira. Volte o risoni para a mesma panela (nem precisa lavar), junte a manteiga e misture bem para derreter. Regue aos poucos com ½ xícara (chá) da água do cozimento reservada, até o macarrão ficar cremoso.
 - --
 

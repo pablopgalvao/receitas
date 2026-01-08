@@ -40,7 +40,6 @@ flags: []
 - 2 colheres de sopa de mostarda
 - 1 colher de sopa de salsinha e cebolinha
 - Junte em uma bancada os ingredientes para preparar essa receita. Para facilitar o passo a passo, deixe a cebola, o alho, a salsinha e a cebolinha picados;
-- [object Object]
 - Assim que o molho estiver reduzido e mais cremoso, adicione o creme de leite e misture. Por fim, coloque a salsinha e a cebolinha picadas e incorpore;
 - --
 

@@ -40,7 +40,6 @@ flags: []
 - Adicione o óleo em 3 etapas (1 colher por vez), amassando bem a cada adição para que a massa absorva o óleo — nesse momento parece que a massa vai desandar; não se preocupe, é assim mesmo, pois o óleo é mais difícil de se misturar na massa.
 - Transfira a massa para a bancada limpa (ou para uma tábua grande) e sove usando a palma da mão — aperte, estique e dobre a massa por cerca de 15 minutos, até que ela fique bem macia e pare de grudar nas mãos e na bancada. No começo, a massa parece meio grudenta mesmo, mas, conforme vai sendo sovada, ela absorve a água. Não adicione mais farinha na bancada nem na massa, pois isso vai deixar o pão duro, pesado e ressecado (você pode usar uma espátula de padeiro para raspar a massa da bancada na hora da sova). O tempo de sova é bem importante para desenvolver a rede de glúten na massa e fazer com que o pão cresça e fique macio. Se preferir, sove a massa na batedeira com o gancho.
 - Modele a massa numa bola usando a bancada como anteparo. Volte a massa para a tigela e cubra com o pano úmido. Deixe descansar por cerca de 1 hora, ou até dobrar de tamanho. Enquanto isso, já separe uma fôrma de bolo inglês de 22 cm X 10 cm (caso não seja antiaderente, unte com uma camada fina de óleo).
-- [object Object]
 - --
 
 ---

@@ -36,7 +36,6 @@ flags: []
 - ⅔ de xícara (chá) de açúcar
 - canela em pó a gosto
 - Numa panela pequena, misture o vinho do Porto com o açúcar. Leve ao fogo baixo para cozinhar, sem mexer, por cerca de 15 minutos até atingir o ponto de fio. Para verificar, mergulhe uma colher e levante um pouco da calda, se formar um fio fino entre as gotas, está pronta.
-- [object Object]
 - --
 
 ---

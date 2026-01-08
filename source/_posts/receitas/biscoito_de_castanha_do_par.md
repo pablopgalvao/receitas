@@ -38,7 +38,6 @@ flags: []
 - Tire a manteiga da geladeira cerca de 30 minutos antes de iniciar a receita, para que atinja o ponto pomada — ela deve estar amolecida para ficar mais fácil de misturar os ingredientes.
 - No liquidificador, bata as castanhas com o açúcar até triturar completamente — pare de bater e raspe a lateral do copo quantas vezes forem necessárias para misturar bem os ingredientes.
 - Transfira a castanha batida com o açúcar para uma tigela grande e junte a farinha de trigo, a manteiga e o sal. Amasse bem com as mãos até formar uma massa lisa e modelável — é preciso apertar bem, pois a castanha batida solta um pouco de gordura que ajuda a dar ponto à massa.
-- [object Object]
 - Leve os biscoitos ao forno para assar por cerca de 10 minutos, ou até começarem a dourar nas pontinhas. Enquanto isso, separe uma tigela pequena com 3 colheres (sopa) de açúcar.
 - Retire os biscoitos do forno e deixe amornar por 10 minutos — assim, eles não quebram. Passe os biscoitos pelo açúcar e deixe esfriar completamente antes de armazenar ou servir.
 - --

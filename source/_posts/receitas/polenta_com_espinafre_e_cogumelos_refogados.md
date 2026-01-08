@@ -42,7 +42,6 @@ flags: []
 - 2 colheres (sopa) de castanha-de-caju torrada e picada grosseiramente
 - sal a gosto
 - Passe um papel toalha na frigideira utilizada para refogar os cogumelos apenas para tirar o excesso de azeite (não precisa lavar). Coloque 2 ½ xícaras (chá) de água na frigideira e volte ao fogo médio.
-- [object Object]
 - Desligue o fogo, junte a manteiga, o queijo parmesão, as folhas de espinafre e misture bem – o espinafre vai cozinhar no calor da polenta. Por último, misture as castanhas picadas e as raspas de limão. Sirva a seguir com os cogumelos refogados.
 - --
 

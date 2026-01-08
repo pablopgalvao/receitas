@@ -55,8 +55,7 @@ flags: []
 - 1/2 tomate cortado em cubos
 - 1 caixa de creme de leite
 - 400 g de muçarela fatiado
-- --
-- --
+
 
 ---
 

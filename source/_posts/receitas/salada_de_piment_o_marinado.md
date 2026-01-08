@@ -37,7 +37,6 @@ flags: []
 - ½ colher (chá) de sementes de erva-doce
 - 1 pitada de pimenta calabresa seca
 - sal a gosto
-- [object Object]
 - Transfira os pimentões para uma tigela, junte o manjericão e tempere com o azeite, o vinagre, a erva-doce, a pimenta e sal a gosto – o pimentão morno absorve melhor os sabores. Misture as azeitonas e deixe na geladeira até a hora de servir.
 - --
 

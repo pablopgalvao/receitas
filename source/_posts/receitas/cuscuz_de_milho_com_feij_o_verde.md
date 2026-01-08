@@ -38,7 +38,6 @@ flags: []
 - azeite a gosto
 - coentro a gosto
 - Numa tigela, coloque a farinha de milho e vá adicionando 1 xícara (chá) de água, aos poucos, mexendo com as mãos até ficar com a consistência de areia molhada. Deixe descansar por 5 minutos para hidratar.
-- [object Object]
 - Leve uma panela grande ao fogo médio. Regue com ¼ de xícara (chá) de azeite, adicione a cebola e refogue por 3 minutos, até murchar bem. Junte a abóbora picada, tempere com uma pitada de sal e refogue por 4 minutos até ficar levemente macia, mas sem desmanchar. Acrescente as pimentas, os tomates e mexa bem por 1 minuto.
 - Adicione o feijão cozido (e escorrido) ao refogado, tempere com sal e misture para aquecer. Solte o cuscuz cozido com um garfo e junte à panela, adicione o coentro picado e misture delicadamente. Transfira para uma tigela, regue com azeite a gosto e sirva.
 - --

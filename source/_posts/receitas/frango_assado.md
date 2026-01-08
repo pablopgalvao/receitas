@@ -48,7 +48,6 @@ flags: []
 - No dia anterior, tempere o frango com o sal, por fora, dentro e na parte de trás (isso ajudará o frango a ficar mais saboroso);
 - Para fazer a mistura de ervas frescas, em um potinho, adicione as folhinhas de alecrim e tomilho com a manteiga, uma pitada de sal e pimenta-do-reino. Misture para formar uma pastinha que levará todo o sabor para o interior do frango;
 - Com as duas mãos (se preferir, coloque luvas descartáveis), solte a pele da carne do frango cuidadosamente para ela não rasgar e, ainda com as luvas, passe a pastinha de manteiga e ervas entre o espaço aberto da pele e o frango. Aproveite e passe por fora também (se precisar de mais manteiga, pode adicionar);
-- [object Object]
 - Nesse primeiro momento, para manter a carne molhadinha e macia, leve a assadeira com o frango ao forno preaquecido a 160ºC (forno baixo) por cerca de 1 hora e sem cobrir (o tempo total até o final da receita será 1h45) - se seu frango tiver mais de 1,5 kg aumente o tempo de forno;
 - Após cozinhar o frango por esse período, retire-o do forno e deixe em cima da mesa. Enquanto isso, em uma tigela média, adicione 1/2 suco de limão, 2 colheres de sopa de manteiga e 2 colheres de mel. Misture;
 - Após os primeiros 15 minutos, retire a assadeira do forno e pincele mais a mistura de manteiga, limão e mel com o frango virado (a parte de baixo deve estar exposta para caramelizar);

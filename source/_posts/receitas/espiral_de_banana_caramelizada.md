@@ -35,7 +35,6 @@ flags: []
 - Num prato fundo, misture o açúcar, a canela e o gengibre em pó. Descasque e corte a banana em 4 pedaços, no sentido da largura. Seque bem cada pedaço com papel toalha – assim elas não escorregam na hora de cortar.
 - Passe as espirais de banana pela mistura de açúcar com canela e gengibre – com uma colher, coloque açúcar também entre as fatias para cobrir toda a superfície da fruta. Deixe as bananas absorverem um pouco do açúcar por alguns minutos.
 - Enquanto isso, coloque o óleo numa panela pequena de lateral alta e leve ao fogo médio para aquecer. Separe uma travessa antiaderente para colocar as bananas carameladas depois de fritas – evite utilizar papel toalha, pois ele gruda na fruta.
-- [object Object]
 - Com uma pinça (ou escumadeira), retire as bananas e deixe escorrer bem o óleo. Transfira as espirais para a travessa antiaderente e repita com o restante – se necessário, retire porções de açúcar queimado do óleo com a escumadeira. Deixe amornar antes de servir. Fica uma delícia com sorvete de baunillha e com creme batido.
 - --
 

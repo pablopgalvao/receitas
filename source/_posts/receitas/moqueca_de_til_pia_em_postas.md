@@ -47,7 +47,6 @@ flags: []
 - 50 ml de azeite de dendê
 - Para temperar as postas de tilápia, descasque e pique o alho. Coloque-as em um recipiente grande. Em seguida, esprema o suco dos limões, o alho e o sal. Mexa bem com uma colher e reserve por cerca de 10 minutos;
 - Por cima, coloque metade da quantidade de cada pimentão amarelo, vermelho e verde. Tempere com sal, tentando espalhar por todas as rodelas. Não é necessário colocar muito;
-- [object Object]
 - Finalize com as demais camadas, começando pelas cebolas, pimentões e tomates. Antes de colocar a tampa, tempere com uma pitadinha de sal, o leite de coco e o azeite de dendê. Tampe a panela e aumente o fogo para médio e deixe cozinhar por cerca de 20-30 minutos;
 - Lave a salsinha, cebolinha e coentro. Pique-os finamente e salpique por cima do preparo. Prove o caldo e, se for preciso, ajuste os temperos conforme preferir;
 - Sirva essa moqueca de tilápia em postas com arroz branco soltinho e uma salada de alface com tomates. Bom apetite!

@@ -33,7 +33,6 @@ flags: []
 - ½ xícara (chá) de açúcar
 - ½ colher (sopa) de manteiga
 - Numa panela média misture a água, o caldo de limão e o açúcar. Bata levemente as bagas de cardamomo no pilão, apenas para abrir e liberar as sementes (se preferir, corte as pontas com uma faquinha). Junte à panela, acrescente a canela, os cravos e leve ao fogo médio.
-- [object Object]
 - 100 g de chocolate picado (cerca de 1 xícara (chá))
 - 2 colheres (sopa) de leite
 - 1 colher (sopa) de mel

@@ -36,7 +36,6 @@ flags: []
 - 2 colheres (chá) de sal
 - 8 ramos de salsinha
 - 1 colher (sopa) de amido de milho
-- [object Object]
 - Acrescente o alho, o tomilho, o louro, as especiarias, o açúcar e refogue por mais 1 minuto. Junte as batatas e as cenouras cortadas, tempere com 2 colheres (chá) de sal e misture bem para incorporar os sabores do refogado.
 - Regue com a água, abaixe o fogo e deixe cozinhar com a tampa entreaberta por cerca de 1 hora, ou até que as batatas e cenouras estejam macias e o caldo bem saboroso. Enquanto isso, lave, seque e pique grosseiramente a salsinha.
 - Numa tigela pequena, misture o amido de milho com 2 colheres (sopa) de água e acrescente ao cozido. Mexa por cerca de 2 minutos para o caldo engrossar levemente.

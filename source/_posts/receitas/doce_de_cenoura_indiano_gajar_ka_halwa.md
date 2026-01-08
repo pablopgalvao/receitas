@@ -34,7 +34,6 @@ flags: []
 - ¾ de xícara (chá) de açúcar cristal
 - 1 colher (sopa) de manteiga
 - ¼ de xícara (chá) de pistache sem casca
-- [object Object]
 - --
 
 ---

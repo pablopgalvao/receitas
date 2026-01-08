@@ -43,7 +43,6 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Cheiro-verde a gosto
-- [object Object]
 - Coloque a carne em uma tigela e adicione a farinha de trigo. Com a mãos, misture bem para garantir que todos os pedaços entrem em contato com a farinha. Esse é o segredinho para criar uma crosta dourada na carne na hora de selar, além de deixar uma camada de sabor na panela;
 - Adicione a manteiga, misture bem e continue refogando por mais 2 minutos. No fundo da panela, você perceberá a formação de uma crostinha dourada (rica em sabor), raspe-a e incorpore ao preparo;
 - Assim que a carne estiver selada, em fogo médio, adicione o mirepoix (a cenoura, cebola e salsão). Misture bem, observando se toda a crostinha dourada se desprendeu do fundo da panela;

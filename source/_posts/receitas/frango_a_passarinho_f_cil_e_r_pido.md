@@ -47,7 +47,6 @@ flags: []
 - Sal até dar ponto
 - Comece fazendo o tempero para a carne. Em um liquidificador, adicione o alho, a dedo-de-moça, o óleo, a cebola, o cheiro-verde e o alecrim. Bata enquanto adiciona o sal aos poucos até obter uma pastinha, cerca de 2 minutos. Reserve;
 - Coloque o frango limpo em uma tigela, junto com a páprica, suco de limão e 1 colher de sobremesa do tempero pronto. Misture com as mãos, cubra a tigela com plástico filme e deixe marinar por 2 horas na geladeira;
-- [object Object]
 - Após marinar o frango, passe cada pedaço na farinha temperada, apertando para grudar em toda a superfície. Reserve-os em um prato ou refratário;
 - Leve uma panela ao fogo médio para aquecer com óleo suficiente para fritar por imersão. Transfira o frango para a panela assim que o óleo estiver bem quente, e vire às vezes para dourarem uniformemente;
 - --

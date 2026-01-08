@@ -41,7 +41,6 @@ flags: []
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 100 gramas de leite condensado para finalizar (opcional)
 - 20 gramas de coco ralado para decorar para finalizar (opcional)
-- [object Object]
 - Em um recipiente grande, adicione a tapioca granulada, a manteiga e o leite quente. Misture com uma colher até a manteiga derreter com o próprio calor do leite;
 - Depois, acrescente o açúcar e misture novamente. Reserve por cerca de 20 minutos até a tapioca hidratar;
 - Após esse tempo, adicione os ovos em temperatura ambiente (quebre-os separadamente em um pote para verificar se eles estão bons para uso). Mexa mais uma vez;

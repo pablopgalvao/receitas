@@ -44,7 +44,6 @@ flags: []
 - Corte um círculo de papel-manteiga um pouco maior que a fôrma, coloque sobre a massa e preencha o fundo com grãos de feijão cru — eles servem de peso e evitam que a massa infle e rache ao assar. Leve ao forno por cerca de 30 minutos para pré-assar — as bordas começam a dourar e o fundo perde o aspecto de cru. Enquanto isso, prepare o recheio.
 - Coloque o bacon numa frigideira e leve ao fogo médio por 3 minutos, mexendo de vez em quando, até começar a dourar — assim ele ganha sabor e perde parte da gordura. Com uma colher, transfira o bacon para um prato forrado com papel-toalha e reserve.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se algum estiver estragado, você não perde a receita. Junte o creme de leite fresco e misture bem com um batedor de arame. Tempere com uma pitada de sal, pimenta-do-reino e noz-moscada a gosto — cuidado com o sal, pois alguns bacons e queijos são mais salgados que outros.
-- [object Object]
 - Volte a fôrma ao forno para assar por cerca de 30 minutos, ou até a quiche inflar e ficar bem dourada. Sirva a seguir com salada de folhas.
 - --
 

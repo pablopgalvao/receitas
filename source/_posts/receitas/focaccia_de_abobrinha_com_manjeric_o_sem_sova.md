@@ -33,7 +33,6 @@ flags: []
 - 2 colheres (chá) de sal
 - 1¾ de xícara (chá) de água morna
 - 2 colheres (sopa) de azeite Andorinha
-- [object Object]
 - Coloque 2 colheres (sopa) de azeite numa outra tigela grande – ela deve ser grande o suficiente para a massa crescer e dobrar de volume. Transfira a massa para a tigela com o azeite, raspando bem com a espátula de silicone. Com a espátula (ou com as mãos), vire a massa de baixo para cima, para ficar besuntada com o azeite – não é preciso incorporar o azeite à massa, apenas cobrir a superfície.
 - Passado o tempo de descanso, transfira a massa para uma assadeira antiaderente de 30 cm x 20 cm (se sua assadeira não for antiaderente regue o fundo com 1 colher (sopa) de azeite). Com as mãos (ou com a espátula) espalhe a massa no fundo da assadeira – não precisa ocupar toda a área certinho, pois a massa se acomoda na assadeira.
 - ½ xícara (chá) de azeite Andorinha

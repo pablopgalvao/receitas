@@ -33,10 +33,6 @@ flags: []
 - 2 ramos de salsinha
 - ½ xícara (chá) de farinha de rosca
 - 2 xícaras (chá) de óleo para fritar
-- [object Object]
-- [object Object]
-- [object Object]
-- [object Object]
 - Assim que o óleo aquecer, com uma escumadeira, mergulhe 3 bolinhos de cada vez. Abaixe o fogo e deixe fritar por 3 minutos, ou até dourar – mexa delicadamente para que dourem por igual e não grudem no fundo. Com a escumadeira, transfira os bolinhos fritos para a travessa forrada com papel toalha e frite o restante. Sirva a seguir.
 - --
 

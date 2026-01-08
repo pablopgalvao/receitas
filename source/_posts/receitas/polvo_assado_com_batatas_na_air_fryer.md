@@ -31,7 +31,6 @@ flags: []
 - 1 polvo limpo (cerca de 1,4 kg)
 - sal e pimenta-do-reino moída na hora a gosto
 - pesto de limão-siciliano a gosto para servir
-- [object Object]
 - Borrife bastante azeite nos tentáculos e também no cesto da Air Fryer (se preferir, use um pincel). Tempere o polvo com sal e pimenta-do-reino a gosto. Coloque os tentáculos no cesto, um ao lado do outro, e deixe assar por cerca de 10 minutos, ou até ficarem levemente tostadinhos na ponta — o polvo não chega a dourar, mas ganha um tom arroxeado mais intenso.
 - --
 

@@ -34,9 +34,7 @@ flags: []
 - 1 colher (chá) de sementes de coentro
 - ½ colher (chá) de páprica doce
 - sal a gosto
-- [object Object]
 - Numa assadeira pequena (ou outro refratário), coloque as ramas de tomate-cereja, tempere com a páprica, sal e pimenta a gosto e 1 colher (sopa) de azeite.
-- [object Object]
 - --
 
 ---

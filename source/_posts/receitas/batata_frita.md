@@ -35,9 +35,7 @@ flags: []
 - 1 litro e 1/2 de óleo para fritar
 - Sal e pimenta-do-reino a gosto
 - Com ajuda de um pano de prato e papel-toalha, seque bem todas as batatas. Retire o máximo de resquícios de água que conseguir, pois isso ajuda na crocância e evita que o óleo espirre durante a fritura;
-- [object Object]
 - Se preciso, frite as batatas por etapas, evitando que elas fiquem muito amontoadas na panela. Coloque-as em um prato forrado com papel-toalha e espere escorrer bem o óleo. Depois, espalhe as batatas em uma assadeira e leve para o congelador por 30 minutos;
-- [object Object]
 - Se preciso, frite as batatas por etapas. Se você colocar uma grande quantidade na panela, o óleo vai resfriar e as batatas ficarão moles. Deixe elas escorrerem em uma grade ou no papel-toalha;
 - Tempere as batatas com sal e pimenta. Crocância aprovadíssima, já pode servir!
 - --

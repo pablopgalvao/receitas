@@ -36,7 +36,6 @@ flags: []
 - Transfira os legumes cortados para uma tigela, tempere com 1 colher (sopa) do azeite, a páprica, sal e pimenta a gosto e misture bem para envolver todos os pedaços com os temperos. Reserve.
 - Corte o filé de peixe ao meio, no sentido do comprimento, e cada metade em pedaços de cerca de 6 cm x 4 cm — não é preciso que tenham tamanhos perfeitos; a ideia é que fiquem uniformes para assar por igual. Tempere o peixe com o caldo de limão, sal e pimenta a gosto.
 - Num prato fundo, quebre o ovo e bata com um garfo apenas para misturar a clara com a gema. Em outros dois pratos, coloque a farinha de trigo e de mandioca, respectivamente, e tempere cada uma com uma pitada de sal.
-- [object Object]
 - ¼ de xícara (chá) de tahine (pasta de gergelim)
 - ¼ de xícara (chá) de água filtrada
 - sal a gosto

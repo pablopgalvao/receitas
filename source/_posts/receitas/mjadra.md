@@ -38,7 +38,6 @@ flags: []
 - 3 colheres de sopa de manteiga
 - 2 colheres de sopa de açúcar mascavo
 - Sal e tempero verde a gosto
-- [object Object]
 - Com cuidado, coloque 2 xícaras de água fervente.
 - Acrescente o sal, açafrão e a lentilha.
 - Enquanto o arroz cozinha, em uma frigideira coloque a manteiga e o açúcar e deixe derreter.

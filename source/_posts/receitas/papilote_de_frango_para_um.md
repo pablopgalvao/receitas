@@ -33,7 +33,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, coloque o filé de frango e tempere com a páprica, o cominho, sal e pimenta-do-reino a gosto. Esfregue bem o filé com as mãos para temperar toda a superfície.
-- [object Object]
 - --
 
 ---

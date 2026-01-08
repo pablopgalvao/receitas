@@ -32,7 +32,6 @@ flags: []
 - 1½ colher (sopa) de mel
 - 1½ colher (sopa) de vinagre balsâmico
 - folhas de hortelã a gosto para servir
-- [object Object]
 - --
 
 ---

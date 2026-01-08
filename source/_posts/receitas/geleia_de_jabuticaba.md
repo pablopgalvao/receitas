@@ -32,7 +32,6 @@ flags: []
 - 1 xícara (chá) de açúcar cristal
 - Transfira as jabuticabas para uma panela grande, cubra com a água e leve ao fogo alto. Quando ferver, diminua o fogo para médio e conte 15 minutos, mexendo de vez em quando, até a água adquirir a coloração roxa e as jabuticabas murcharem e estourarem – durante esse período, retire a espuma que se formar na superfície com uma colher.
 - Volte o líquido do cozimento coado para a panela e adicione o açúcar. Misture com uma espátula de silicone e volte ao fogo alto. Assim que ferver, diminua o fogo para médio e cozinhe por cerca de 50 minutos, mexendo de vez em quando com a espátula, até o líquido começar a espumar e mudar de coloração — ele fica um tom roxo avermelhado intenso. Depois que espumar, conte 1 minuto. Mergulhe uma colher dentro da panela, a geleia deve cobrir as costas da colher, formando uma camada bem brilhante, no ponto napê.
-- [object Object]
 - --
 
 ---

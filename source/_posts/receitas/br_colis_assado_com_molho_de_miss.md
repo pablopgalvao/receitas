@@ -37,7 +37,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - ⅓ de xícara (chá) de sementes de girassol tostadas
 - Coloque o brócolis cortado numa tigela, cubra com água e mexa bem com as mãos para lavar – é mais fácil lavar o brócolis depois de cortado. Transfira os pedaços para uma centrífuga de saladas e seque bem – quanto mais seco melhor para assar.
-- [object Object]
 - Numa tigela, com uma espátula de silicone, misture bem a manteiga com o missô até formar uma pasta. Junte o vinagre e misture novamente para incorporar.
 - Transfira a pasta de manteiga e missô para uma panela pequena e leve ao fogo baixo. Mexa com a espátula por cerca de 2 minutos até a pasta começar a ficar mais fluida e brilhante – a manteiga vai derreter aos poucos, mas sem se separar dos outros ingredientes, deixando a pasta na textura de brigadeiro mole. Vá acrescentando a água aos poucos, mexendo a cada adição para incorporar até formar um molho mais fluido – o molho deve ser fluido mas cobrir as costas de uma colher. Reserve.
 - --

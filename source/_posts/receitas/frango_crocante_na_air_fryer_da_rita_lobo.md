@@ -38,7 +38,6 @@ flags: []
 - Tempere os filezinhos de sassami com o sal, o cominho, as raspas de limão e pimenta-do-reino moída na hora a gosto.
 - Numa tigela, misture bem a farinha de rosca com o azeite — isso deixa a crostinha de frango mais crocante e dourada. Transfira para um prato raso.
 - Numa tigela média, coloque o ovo, o iogurte, a farinha de trigo, tempere com uma pitada de sal e misture bem com o batedor de arame.
-- [object Object]
 - --
 
 ---

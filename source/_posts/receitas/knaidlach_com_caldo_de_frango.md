@@ -31,7 +31,6 @@ flags: []
 - 1 frango inteiro (cerca de 2 kg)
 - 1 talo de salsão
 - 1 talo de salsinha com as folhas
-- [object Object]
 - Numa panela grande (ou caldeirão), coloque o frango, os cortes do peito, os pedaços de cenoura, salsão e cebola. Regue com a água para cobrir todos os ingredientes e leve ao fogo médio.
 - 1 xícara (chá) de farinha de matzá
 - ½ xícara (chá) de água quente

@@ -36,7 +36,6 @@ flags: []
 - 1 colher (sopa) de vinagre de vinho tinto
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Numa assadeira grande, disponha as cebolas para formar uma cama para a carne. Tempere as cebolas com sal e pimenta a gosto. Disponha a carne sobre as cebolas, com a gordura para cima, tempere com sal e pimenta a gosto, regue com 1 colher (sopa) de azeite e espalhe com as mãos sobre toda a peça.
 - Distribua as tiras de pimentão, os dentes de alho e os ramos de tomilho da marinada ao redor da fraldinha. Tempere os legumes com sal, pimenta e 1 colher (sopa) de azeite. Preencha a assadeira com o líquido da marinada, com o cuidado de não colocar sobre a carne – assim ela fica bem dourada ao assar.
 - todo o líquido da assadeira (cerca de 1 ¼ de xícara (chá))

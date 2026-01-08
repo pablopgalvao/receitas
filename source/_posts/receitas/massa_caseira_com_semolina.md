@@ -33,7 +33,6 @@ flags: []
 - sal para cozinhar a massa
 - semolina a gosto para polvilhar
 - Numa tigela grande, coloque a semolina e abra um buraco no centro. Vá acrescentando a água morna aos poucos, misturando com um garfo do centro para fora — é importante incorporar a água à farinha aos poucos, para não adicionar água em excesso; no começo vai parecer seco demais, mas é assim mesmo.
-- [object Object]
 - --
 
 ---

@@ -37,8 +37,6 @@ flags: []
 - ¼ de xícara (chá) de vinho tinto
 - ½ xícara (chá) de água fervente
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
-- [object Object]
 - --
 
 ---

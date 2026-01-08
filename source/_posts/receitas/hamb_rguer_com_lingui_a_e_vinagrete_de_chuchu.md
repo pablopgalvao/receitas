@@ -35,7 +35,6 @@ flags: []
 - Lave, seque e corte os tomates ao meio. Descasque e fatie a cebola em meias luas finas. Transfira os legumes para a tigela com o chuchu, regue com o caldo de limão, o azeite e tempere com o sal. Misture bem e deixe descansar por cerca de 20 minutos para curtir. Enquanto isso, prepare os hambúrgueres.
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Tempere com sal e pimenta a gosto e deixe dourar por 2 minutos de cada lado. Vire novamente e deixe dourar por mais 1 minuto de cada lado até ficar ao ponto - no total o hambúrguer fica cerca de 6 minutos na frigideira. Faça quantos hambúrgueres couberem na sua frigideira de cada vez.
 - --
 

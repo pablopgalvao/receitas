@@ -39,7 +39,6 @@ flags: []
 - 1 pitada de sal (ou a gosto)
 - 1 colher de sopa de azeite
 - Enquanto isso, para fazer o molho, coloque o iogurte, as raspas do limão, a manjerona ou o manjericão, o sal e a pimenta-do-reino em uma tigela. Misture tudo até que fique homogêneo;
-- [object Object]
 - --
 
 ---

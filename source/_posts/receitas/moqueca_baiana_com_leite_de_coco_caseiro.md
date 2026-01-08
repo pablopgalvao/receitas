@@ -36,7 +36,6 @@ flags: []
 - 2 xícaras (chá) de água morna
 - ½ xícara (chá) de azeite
 - ½ xícara (chá) de azeite de dendê
-- [object Object]
 - --
 
 ---

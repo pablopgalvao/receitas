@@ -43,7 +43,6 @@ flags: []
 - Descasque e corte a cenoura em rodelas de 2 cm. Descasque e corte a cebola em quatro partes. Lave, seque e corte o talo de salsão em fatias de 2 cm. Corte a abóbora em cubos de 2 cm.
 - Numa tigela, coloque os legumes cortados, regue com o azeite e tempere com sal a gosto. Misture bem com as mãos para envolver todos os pedaços com o azeite.
 - Enquanto isso, leve uma chaleira com um pouco mais de 2½ xícaras (chá) de água ao fogo médio para aquecer (se preferir, use uma chaleira elétrica).
-- [object Object]
 - Adicione a manteiga gelada e bata novamente — além de acrescentar sabor, a manteiga deixa a sopa mais aveludada. Se preferir uma sopa mais fluida acrescente água quente aos poucos, até atingir a consistência desejada. Sirva a seguir com croûtons, endro e sementes de abóbora tostadas.
 - --
 

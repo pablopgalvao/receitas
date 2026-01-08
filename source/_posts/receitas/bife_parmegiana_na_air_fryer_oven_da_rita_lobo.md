@@ -38,8 +38,6 @@ flags: []
 - Numa tigela de vidro (ou travessa pequena de cerâmica) que possa ir para a Air Fryer, coloque a farinha de rosca e misture bem com o azeite.
 - Coloque o refratário no cesto da Air Fryer, feche a porta e deixe assar por 8 minutos, até dourar — na metade do tempo, mexa a farinha com uma colher para dourar por igual. Essa técnica faz com que os bifes fiquem bem dourados, além de crocantes ao assar.
 - Transfira a farinha de rosca dourada para um prato raso. Num prato fundo quebre os ovos, junte a água, tempere com sal e pimenta e bata bem com um garfo. Em outro prato, coloque a farinha de trigo e tempere também com uma pitada de sal.
-- [object Object]
-- [object Object]
 - --
 
 ---

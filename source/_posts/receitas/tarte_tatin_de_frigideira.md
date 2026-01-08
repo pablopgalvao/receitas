@@ -30,7 +30,6 @@ flags: []
 
 - 1 xícara (chá) de açúcar
 - 4 colheres (sopa) de manteiga (60 g)
-- [object Object]
 - --
 
 ---

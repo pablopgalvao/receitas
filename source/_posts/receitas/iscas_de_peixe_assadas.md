@@ -35,7 +35,6 @@ flags: []
 - Preaqueça o forno a 200 ºC (temperatura média). Unte duas assadeiras retangulares grandes com 3 colheres (sopa) de azeite em cada uma.
 - Corte os filés de peixe ao meio no sentido do comprimento e cada metade em pedaços de 6 cm x 4 cm (se preferir, corte o peixe em tiras). Transfira para uma tigela e tempere com o caldo de limão, sal e pimenta.
 - Num prato fundo, quebre os ovos e bata com um garfo para misturar as claras com as gemas. Em outros dois pratos coloque a farinha de trigo e de mandioca, e tempere cada uma com uma pitada de sal.
-- [object Object]
 - 1 colher (sopa) de caldo de limão
 - 1 colher (sopa) de mostarda
 - 200 ml de óleo

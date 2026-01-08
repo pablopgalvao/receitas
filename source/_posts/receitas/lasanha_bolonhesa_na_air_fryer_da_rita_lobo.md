@@ -44,7 +44,6 @@ flags: []
 - Abaixe o fogo e regue a frigideira com a água, aos poucos, mexendo com a espátula para dissolver os queimadinhos da frigideira — eles dão mais sabor ao preparo. Acrescente a passata e tempere com ½ colher (chá) de sal. Deixe cozinhar por cerca de 5 minutos, para o molho encorpar levemente.
 - 50 g de massa seca para lasanha com ovos (4 folhas)
 - 3 colheres (sopa) de queijo parmesão ralado
-- [object Object]
 - --
 
 ---

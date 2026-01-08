@@ -37,7 +37,6 @@ flags: []
 - 1 pitada de sal
 - 1/2 xícara de chá de cebolinha (ou a gosto)
 - No copo do liquidificador, coloque o leite, o alho, a cebolinha e uma pitada de sal;
-- [object Object]
 - --
 
 ---

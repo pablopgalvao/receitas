@@ -34,8 +34,7 @@ flags: []
 - 1 litro de leite integral (tipo A)
 - 1/4 de xícara de chá de suco de limão coado
 - sal a gosto
-- --
-- --
+
 
 ---
 

@@ -39,7 +39,6 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Com uma colher, raspe toda a polpa de uma das metades e coloque no mixer, processador ou liquidificador;
-- [object Object]
 - Acrescente a polpa picada da outra metade da berinjela e pulse rapidamente para manter pedaços aparentes. Prove e ajuste sal, pimenta, azeite ou parmesão se necessário;
 - --
 

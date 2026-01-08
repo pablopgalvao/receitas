@@ -44,7 +44,6 @@ flags: []
 - Espalhe a outra metade do endro picado sobre toda a superfície do peixe, cubra com a mistura para curar, apertando bem com as mãos para fixar. Embrulhe o salmão com o filme, bem apertadinho, tomando cuidado para não espalhar a mistura para cura. Vire o peixe com a pele para cima e, com a ponta de uma faca bem afiada, fure toda a superfície atravessando apenas a pele do peixe - assim o líquido do salmão drena mais fácil.
 - Sobre uma grelha, coloque o salmão com a pele voltada para baixo e encaixe numa assadeira – a ideia é que o salmão não fique em contato com o líquido drenado. Coloque um peso sobre o peixe para prensar e acelerar a cura, você pode usar um saco de 5 kg de arroz ou um tijolo embrulhado em papel-alumínio.
 - Leve o salmão para curar na geladeira por 48 horas – durante esse período, o líquido do peixe é drenado, o salmão fica com a carne mais firme, absorve os sabores da cura e ganha uma cor mais vibrante por conta do açúcar mascavo. Se preferir, em vez de usar uma grelha, forre a assadeira com uma camada tripla de papel-toalha e troque quantas vezes precisar durante o processo.
-- [object Object]
 - 2 colheres (sopa) de mostarda de Dijon
 - 1 colher (sopa) de mel
 - endro (dill) picado a gosto

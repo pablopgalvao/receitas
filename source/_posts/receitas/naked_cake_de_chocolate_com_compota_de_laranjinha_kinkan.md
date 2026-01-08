@@ -52,9 +52,7 @@ flags: []
 - Corte dois discos de papel-manteiga, usando o fundo da fôrma como medida. Ele deve ficar do tamanho exato. Corte também duas tiras de cerca de 80 cm x 12 cm para forrar as paredes das fôrmas. Pressione com os dedos para colar o papel na fôrma untada. Pincele novamente a manteiga sobre o papel.
 - Numa tigela junte a farinha e o chocolate em pó, passando pela peneira. Reserve.
 - Quebre os ovos, um de cada vez numa tigela, e transfira para uma tigela grande - tem que ser bem grande para misturar toda a massa do bolo. Junte o açúcar e o óleo e misture bem com um batedor de arame até formar uma massa lisa. Adicione a mistura de farinha aos poucos, alternadamente com a água, mexendo com o batedor de arame a cada adição.
-- [object Object]
 - Unte uma das fôrmas com mais manteiga e polvilhe com cacau. Misture o restante do fermento na massa reservada, transfira para a fôrma untada e repita o passo
-- [object Object]
 - Coloque o fundo removível de uma das fôrmas sobre uma grade e apoie o disco sobre o fundo. Corte o topo com uma faca de confeiteiro (ou de pão bem longa) para nivelar. Use o fundo de fôrma como suporte para transferir o disco para o prato de bolo. Com um pincel, espalhe a calda de açúcar sem encharcar a massa. Isso vai evitar que ela quebre. Notou que estamos usando o fundo removível como se fosse uma espátula passa-bolo?
 - Coloque no centro do bolo metade da quantidade do creme. Com a espátula de confeiteiro (ou as costas de uma colher) espalhe uma camada lisa e uniforme, levando o creme para até 1 cm das bordas, sem deixar escorrer pelas laterais. Lembre-se de que o peso das camadas de bolo irá espremer o creme.
 - --

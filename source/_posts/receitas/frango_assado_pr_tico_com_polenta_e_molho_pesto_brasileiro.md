@@ -33,8 +33,6 @@ flags: []
 - 1 xícara (chá) de sal
 - ¼ de xícara (chá) de açúcar
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
-- [object Object]
 - 2 xícaras (chá) de salsinha
 - ½ xícara (chá) de castanha-de-caju
 - ½ xícara (chá) de queijo meia-cura ralado

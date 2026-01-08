@@ -41,7 +41,6 @@ flags: []
 - 1 colher de sopa de amido de milho
 - Pimenta-do-reino a gosto
 - Em uma panela, coloque a couve-flor inteira, cubra com água e adicione 1 colher de sopa de sal. Cozinhe por cerca de 20 minutos ou até que esteja macio ao espetar com um garfo;
-- [object Object]
 - Entre com metade do parmesão ralado, tempere com sal e noz-moscada ralada. Mexa sempre até engrossar levemente. Desligue o fogo e reserve;
 - --
 

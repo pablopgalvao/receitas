@@ -33,9 +33,7 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado
 - pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com cerca de 3 litros de água ao fogo alto. Quando ferver, adicione 1½ colher (sopa) de sal, junte o macarrão e deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente, mexendo de vez em quando para que os fios não grudem um no outro.
-- [object Object]
 - Assim que o macarrão estiver cozido, reserve 1 xícara (chá) da água do cozimento.
-- [object Object]
 - ½ xícara (chá) de queijo parmesão ralado fino
 - Apoie uma colher de pau (ou de bambu) sobre uma tigela média — o cabo da colher vai servir de molde para as telhas.
 - Com a espátula de silicone, retire um disco de parmesão de cada vez da frigideira e apoie ainda quente sobre o cabo da colher de pau — assim os discos ficam curvados, no formato de uma telha. Deixe a telha esfriar e endurecer antes de servir ou armazenar.

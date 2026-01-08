@@ -40,7 +40,6 @@ flags: []
 - 7 colheres de sopa de manteiga gelada (100 gramas)
 - 1 pitada de sal
 - Catupiry ou requeijão firme a gosto (opcional)
-- [object Object]
 - Recheie com o frango cremoso e, se desejar, adicione uma colher de catupiry por cima;
 - --
 

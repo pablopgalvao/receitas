@@ -37,7 +37,6 @@ flags: []
 - 25 ml de Campari
 - 25 ml de água quente para infusão
 - Gelo a gosto
-- [object Object]
 - Coe e sirva em um copo baixo com gelo novo, de preferência uma pedra grande;
 - --
 

@@ -37,7 +37,6 @@ flags: []
 - Numa tigela, passe a farinha de trigo pela peneira – isso serve para oxigenar a farinha e estimular a formação da rede de glúten.
 - Numa outra tigela grande, coloque 1 ⅔ de xícara (chá) da água (400 ml), acrescente a farinha de uma só vez e misture bem com uma espátula de bambu (ou pão-duro), até não ter grãos soltos. Cubra e deixe descansar por 20 minutos, para uma autólise – com isso a farinha absorve melhor a água, favorecendo a sova e a formação do glúten.
 - Passado o descanso, numa tigela pequena, misture o fermento com a água restante (4 colheres (chá) ou 20 ml). Acrescente o fermento diluído à tigela com a farinha e misture bem com a espátula, dobrando a massa sobre ela mesma para incorporar – a massa é um pouco pegajosa, mas se preferir, faça esse processo com as mãos.
-- [object Object]
 - Depois de 1 hora, vire a massa na bancada levemente enfarinhada. Delicadamente, com as mãos, aplaine e abra a massa. Distribua bem os pedaços de azeitona sobre a massa aplainada – assim o pão fica com recheio em todas as fatias.
 - Transfira o pão para um banneton enfarinhado, deixando a emenda para cima (se preferir, utilize um uma tigela forrada com um pano de prato enfarinhado). Cubra com um pano de prato e deixe descansar por 45 minutos.
 - --

@@ -37,7 +37,6 @@ flags: []
 - mel a gosto para servir
 - amendoim torrado sem casca e picado a gosto para servir
 - Numa tigela, coloque a canjica e cubra com 3 xícaras (chá) de água. Tampe com um prato e deixe de molho em temperatura ambiente por 12 horas – o demolho amolece o milho e retira o excesso de amido.
-- [object Object]
 - --
 
 ---

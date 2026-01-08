@@ -52,7 +52,6 @@ flags: []
 - Vamos começar pelo recheio. Em uma panela com óleo, refogue cebola e alho até murcharem levemente;
 - Adicione a carne moída e misture para que ela fique soltinha e os ingredientes incorporem bem. Tempere com sal;
 - Incorpore o milho e a salsinha, mexendo uma última vez para envolver todos os sabores. Desligue o fogo e reserve;
-- [object Object]
 - Adicione molho de tomate, sal e água quente. Mexa delicadamente apenas para o molho cozinhar e ficar bem aromático. Ajuste o sal, se necessário;
 - Desligue o fogo e transfira o molho para uma travessa (utilizamos uma de 36x23 cm). Espalhe uniformemente com a ajuda de uma colher;
 - --

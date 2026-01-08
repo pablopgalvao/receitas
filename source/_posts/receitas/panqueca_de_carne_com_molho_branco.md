@@ -41,7 +41,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - Numa panela média, leve a manteiga para derreter em fogo médio. Junte a farinha e mexa vigorosamente com um batedor de arames por 2 minutos – essa mistura, chamada de roux, vai engrossar o molho.
 - Adicione todo o leite de uma só vez, misturando bem com o batedor para dissolver os gruminhos de farinha. Aumente o fogo e mexa até ferver.
-- [object Object]
 - 1 colher (sopa) de farinha de trigo
 - 2 colheres (sopa) de extrato de tomate
 - ½ xícara (chá) de água fervente
@@ -56,7 +55,6 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado grosso
 - salsinha picada a gosto
 - nozes tostadas e picadas a gosto
-- [object Object]
 - Regue as panquecas com o restante do molho e polvilhe com o queijo parmesão. Leve ao forno por cerca de 20 minutos ou até gratinar. Sirva a seguir polvilhado com nozes e salsinha.
 - --
 

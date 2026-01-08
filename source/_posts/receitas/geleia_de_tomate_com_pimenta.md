@@ -33,7 +33,6 @@ flags: []
 - ½ xícara (chá) de vinagre de vinho tinto
 - 1 colher (chá) de pó de café
 - sal a gosto
-- [object Object]
 - Numa tábua, corte os tomates ao meio e descarte as sementes. Pique as metades grosseiramente e transfira para uma panela média. Junte o restante dos ingredientes, tempere com uma pitada de sal e misture bem.
 - --
 

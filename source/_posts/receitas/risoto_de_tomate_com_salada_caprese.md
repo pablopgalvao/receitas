@@ -40,7 +40,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - folhas de manjericão variadas (comum, basilicão, miúdo e roxo) a gosto
 - Leve uma panela grande ao fogo médio para aquecer. Regue com o azeite e refogue a cebola com uma pitada de sal até murchar. Acrescente o alho e misture por 1 minuto. Junte o arroz e refogue por 3 minutos para envolver bem os grãos no azeite. Tempere com sal e pimenta — lembre-se de que o caldo caseiro não leva sal!
-- [object Object]
 - Sirva a seguir com os tomates assados, a muçarela de búfala rasgada, as folhas de manjericão, pimenta-do-reino e azeite a gosto.
 - --
 

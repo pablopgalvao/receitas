@@ -35,7 +35,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Enquanto isso, descasque e pique fino a cebola e o alho. Lave, seque e pique fino a salsinha.
 - Com as mãos, desfie o bacalhau e junte às batatas — quanto mais desfiadinho melhor. Adicione o azeite, a cebola, o alho e a salsinha; tempere com o sal, pimenta a gosto e misture bem. Prove e, se necessário, ajuste o sal. Adicione o ovo e misture bem.
-- [object Object]
 - --
 
 ---

@@ -35,7 +35,6 @@ flags: []
 - 6 ramos de salsinha
 - Abra a lata de grão-de-bico, escorra o líquido por uma peneira e passe os grãos sob água corrente para tirar o excesso de sal. Deixe escoar a água na peneira enquanto prepara o restante dos ingredientes.
 - Lave, seque e corte o tomate ao meio. Descarte as sementes e corte cada metade em cubos de 1 cm. Descasque e pique fino a cebola. Lave e seque a salsinha e a hortelã. Pique fino a salsinha; empilhe uma folha de hortelã sobre a outra, enrole formando um charutinho e fatie fino. Corte o alho ao meio e descasque — assim fica mais fácil de bater.
-- [object Object]
 - --
 
 ---

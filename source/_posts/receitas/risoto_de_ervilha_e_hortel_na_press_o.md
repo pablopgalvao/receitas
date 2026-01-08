@@ -42,7 +42,6 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado
 - 2 colheres (sopa) de manteiga
 - Assim que o vapor sair completamente, abra a tampa e pesque a cenoura, o salsão, a cebola cravejada, o louro e descarte.
-- [object Object]
 - --
 
 ---

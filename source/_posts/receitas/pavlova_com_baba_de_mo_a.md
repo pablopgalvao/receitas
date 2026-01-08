@@ -36,8 +36,6 @@ flags: []
 - Unte com manteiga uma assadeira retangular grande e baixa. Corte um retângulo de papel-manteiga usando o fundo da assadeira como medida. Fixe o papel no fundo da assadeira e unte também o papel com manteiga — isso facilita na hora de descolar as pavlovas.
 - Sem parar de bater, acrescente o açúcar aos poucos, de colher em colher, batendo bem a cada adição para dissolver — isso garante que o merengue fique bem lisinho. Se necessário, pare de bater e raspe a lateral da tigela com uma espátula.
 - Depois de incorporar todo o açúcar, bata por mais alguns minutos até formar um merengue firme, liso e brilhante. Para verificar o ponto, retire uma porção do merengue com uma colher e esfregue com os dedos — não deve haver grãos de açúcar. Adicione o amido de milho e bata apenas para incorporar.
-- [object Object]
-- [object Object]
 - ⅔ de xícara (chá) de açúcar
 - ½ xícara (chá) de água
 - 100 ml de leite de coco
@@ -46,7 +44,6 @@ flags: []
 - Numa panela pequena, misture a água com o açúcar delicadamente, sem espirrar nas laterais da panela.
 - Leve ao fogo médio para cozinhar, sem mexer, por cerca de 7 minutos ou até atingir o ponto de fio fino — ao mergulhar e levantar uma colher, deve se formar um fio entre as gotas. Desligue o fogo e deixe amornar por 5 minutos.
 - Adicione o leite de coco e misture com um batedor de arame. Sobre a panela, passe as gemas por uma peneira, raspando com uma colher — descarte a película do ovo.
-- [object Object]
 - --
 
 ---

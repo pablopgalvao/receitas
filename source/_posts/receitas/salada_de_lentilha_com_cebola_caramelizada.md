@@ -43,7 +43,6 @@ flags: []
 - folhas de salsinha a gosto para servir
 - folhas de hortelã a gosto para servir
 - Descasque e corte as cebolas em meias-luas finas de 0,5 cm. Lave, seque e pique grosseiramente as folhas de salsinha e hortelã, reserve.
-- [object Object]
 - Acrescente a cebola caramelizada, as ervas picadas e misture delicadamente. Sirva em temperatura ambiente ou mantenha na geladeira até a hora de servir. Decore com folhas de salsinha e hortelã.
 - ½ xícara (chá) de azeite Andorinha
 - ⅓ de xícara (chá) de vinagre de vinho branco

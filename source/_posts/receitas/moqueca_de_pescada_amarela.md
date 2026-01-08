@@ -48,7 +48,6 @@ flags: []
 - Coloque as postas em uma tigela e tempere com o suco do limão, pimenta-do-reino, sal e 1 colher de sopa de azeite de dendê. Com as mãos, misture os temperos para fixar em todos os pedaços de peixe. Deixe descansar por cerca de 15 a 20 minutos;
 - Numa panela larga ou de barro, em fogo alto, aqueça 2 colheres de azeite de dendê e 1 fio de azeite de oliva. Adicione metade das cebolas e pimentões, tempere com sal e pimenta-do-reino, misture bem e refogue por cerca de 5 minutos. Acrescente metade dos tomates e refogue por mais 3 minutos;
 - Por cima, acomode as postas de pescada-amarela temperadas. Despeje o leite de coco e a última colher de azeite de dendê por cima. Tempere com mais um pouco de sal e pimenta-do-reino. Salpique metade do cheiro-verde por cima;
-- [object Object]
 - --
 
 ---

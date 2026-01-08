@@ -35,8 +35,6 @@ flags: []
 - 1 pitada de pimenta-de-caiena
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
-- [object Object]
 - Descasque a manga e corte 2 fatias grossas, no sentido do comprimento, bem rentes ao caroço – você pode reservar o restante da fruta na geladeira por até dois dias para comer pura ou noutra receita. Polvilhe uma pitada de sal e de pimenta-de-caiena na parte plana das fatias.
 - Leve uma frigideira antiaderente ao fogo médio para aquecer. Regue com 1 colher (chá) de azeite e coloque as fatias, com a parte plana para baixo. Deixe dourar por cerca de 5 minutos sem mexer, ou até formar uma crostinha bem dourada. Reserve as fatias em dois pratos.
 - --

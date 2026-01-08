@@ -42,7 +42,6 @@ flags: []
 - Granulado colorido para decorar (80 gramas)
 - Em uma tigela, misture com uma colher os ovos, o açúcar e a nata até formar um creme uniforme. Adicione o extrato de tangerina ou de baunilha e, se desejar, as raspas de limão;
 - Em um recipiente à parte, aqueça o leite no micro-ondas por 30 segundos. Adicione o sal amoníaco e misture até espumar;
-- [object Object]
 - Na quarta xícara, observe a textura. A partir da quinta, adicione aos poucos até obter uma massa macia, mas que não grude nas mãos e nem fique muito dura;
 - Polvilhe a bancada com farinha, abra porções da massa com um rolo, sempre com movimentos leves, deixando a espessura uniforme;
 - Corte a massa com cortadores natalinos ou use um copo como molde. Transfira para uma assadeira untada ou com papel manteiga;

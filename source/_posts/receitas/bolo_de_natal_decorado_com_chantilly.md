@@ -43,7 +43,6 @@ flags: []
 - Na batedeira, bata os ovos com o açúcar até obter uma mistura clara e bem aerada, cerca de 3 minutos;
 - Incorpore a farinha peneirada aos poucos, em três partes, misturando com movimentos delicados de baixo para cima, para não perder volume. Derreta a manteiga no micro-ondas e adicione ela, a baunilha e o sal, mexendo com cuidado;
 - Transfira a massa para a forma com papel manteiga e leve ao forno preaquecido a 180°C por cerca de 40 minutos; (caso seu forno seja bastante potente, observe o ponto a partir de 25 minutos)
-- [object Object]
 - --
 
 ---

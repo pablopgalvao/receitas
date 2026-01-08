@@ -40,7 +40,6 @@ flags: []
 - Coloque o polvilho e o sal em uma vasilha e misture;
 - Acrescente metade do óleo e metade do leite. Mexa até formar uma farofinha úmida;
 - Adicione o restante da água, do óleo e do leite. Misture até que forme uma massa homogênea;
-- [object Object]
 - --
 
 ---

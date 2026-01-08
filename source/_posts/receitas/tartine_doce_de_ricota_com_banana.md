@@ -29,7 +29,6 @@ flags: []
 ## 🧄 Ingredientes
 
 - mel a gosto
-- [object Object]
 - --
 
 ---

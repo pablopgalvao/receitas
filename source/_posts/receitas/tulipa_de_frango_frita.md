@@ -47,7 +47,6 @@ flags: []
 - 2 xícaras de chá de farinha de trigo para empanar (240 gramas)
 - 90 ml de óleo para fritar
 - Em uma tigela média, adicione as tulipas de frango, o sal, o lemon pepper, o orégano, a páprica, o chimichurri e a mostarda. Misture bem com as mãos até envolver completamente as tulipas nos temperos;
-- [object Object]
 - Enquanto isso, aqueça o óleo em fogo médio. Retire da geladeira e passe cada tulipa na farinha de trigo seca, retirando o excesso. Esse passo cria a casquinha crocante;
 - Quando estiverem douradas e crocantes por fora, retire com cuidado e coloque sobre papel-toalha para escorrer o excesso de óleo;
 - --

@@ -34,7 +34,6 @@ flags: []
 - 1 colher (chá) de pimenta calabresa seca
 - ½ colher (chá) de amido de milho
 - 2 colheres (chá) de azeite
-- [object Object]
 - Coloque 4 espetos no cesto, um ao lado do outro, e regue com 1 colher (chá) de azeite. Deixe assar por 12 minutos, até dourar — não precisa virar na metade do tempo.
 - --
 

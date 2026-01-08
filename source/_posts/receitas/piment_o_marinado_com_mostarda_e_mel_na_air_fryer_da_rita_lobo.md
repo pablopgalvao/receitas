@@ -34,7 +34,6 @@ flags: []
 - ½ colher (chá) de mostarda em grão
 - sal a gosto
 - Lave, seque e coloque os pimentões inteiros no cesto da Air Fryer. Feche a gaveta e deixe assar pelo tempo programado. Na metade do tempo, vire os pimentões com uma pinça para a pele tostar de maneira uniforme.
-- [object Object]
 - --
 
 ---

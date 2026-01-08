@@ -35,7 +35,6 @@ flags: []
 - 100 ml de água quente para cada gelatina
 - 100 ml de água fria para cada gelatina
 - Escolha um sabor de gelatina e dissolva em 100 ml de água quente. Depois acrescente 100 de ml água fria;
-- [object Object]
 - Na outra metade adicione 2 colheres de creme de leite, 2 colheres de leite condensado e misture;
 - --
 

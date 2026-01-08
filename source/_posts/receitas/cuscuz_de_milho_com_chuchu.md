@@ -39,8 +39,6 @@ flags: []
 - Numa tigela, misture a farinha de milho com 1 colher (chá) de sal. Regue com a água aos poucos, mexendo com uma colher para umedecer a farinha — ela deve ficar com a textura de areia molhada. Deixe hidratar por 10 minutos — assim os flocos ficam mais macios ao cozinhar no vapor. Enquanto isso, prepare o restante dos ingredientes.
 - Descasque e corte a cebola ao meio. Descarte a ponta da raiz e corte a cebola em fatias finas. Transfira para uma tigela pequena, tempere com ¼ de colher (chá) de sal e misture bem com a ponta dos dedos, soltando e massageando as fatias. Cubra com 2 colheres (sopa) de vinagre e deixe de molho enquanto prepara a receita — é quase que picles instantâneos, a cebola vai ficar menos ardida e macia.
 - Descasque, lave e seque bem o chuchu — assim ele não escorrega na hora de cortar. Com uma colher, descarte as sementes. Corte o chuchu em fatias de 1 cm, as fatias em tiras de 1 cm e as tiras em cubos. Lave, seque e pique grosseiramente a salsinha.
-- [object Object]
-- [object Object]
 - Adicione a cebola (com o líquido), a salsinha, regue com 2 colheres (sopa) de azeite e misture bem. Sirva a seguir.
 - --
 

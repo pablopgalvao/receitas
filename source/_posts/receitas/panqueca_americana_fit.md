@@ -42,8 +42,7 @@ flags: []
 - 1 colher de sopa de fermento químico em pó
 - 1 colher de café de essência de baunilha (opcional)
 - Óleo de coco para untar
-- --
-- --
+
 
 ---
 

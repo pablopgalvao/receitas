@@ -37,9 +37,6 @@ flags: []
 - óleo para untar a travessa
 - Coloque o grão-de-bico numa tigela e cubra com 3 xícaras (chá) de água. Cubra a tigela com um prato e deixe o grão-de-bico de molho por 8 horas - o demolho diminui o tempo de cozimento. Se preferir, faça o demolho na noite anterior ao preparo.
 - Escorra a água do grão-de-bico e transfira os grãos para a panela de pressão, junte 2 xícaras (chá) de água, tampe e leve ao fogo alto. Assim que começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.
-- [object Object]
-- [object Object]
-- [object Object]
 - Leve uma panela média com água ao fogo alto. Unte uma travessa grande com óleo. Assim que a água ferver, junte ½ colher (sopa) de sal e, com uma escumadeira, mergulhe uma porção de nhoque. Deixe cozinhar até subirem à superfície.
 - Com a escumadeira, deixe escorrer bem a água e transfira os nhoques cozidos para a assadeira untada. Cozinhe o restante e reserve 1 xícara (chá) da água do cozimento – ela vai ser utilizada para preparar o molho.
 - 1 xícara (chá) de água do cozimento

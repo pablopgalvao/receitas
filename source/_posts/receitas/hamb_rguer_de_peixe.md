@@ -33,7 +33,6 @@ flags: []
 - ½ colher (chá) de semente de coentro em pó
 - 1 colher (chá) de sal
 - azeite a gosto
-- [object Object]
 - No processador, coloque os pedaços de peixe e bata bem até triturar - se necessário, pare de bater e misture com uma colher para triturar por igual. Junte a cebola, as raspas de limão, a cúrcuma, o coentro, o sal e bata até formar uma massa lisa. Por último, adicione o ovo e bata apenas para misturar.
 - Transfira a massa de peixe para uma tigela grande, junte a cebolinha picada, a farinha de rosca e misture bem até dar o ponto para modelar - a massa deve soltar da lateral da tigela mas ainda estar úmida.
 - Leve uma frigideira, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com 1 colher (chá) de azeite e coloque quantos hambúrgueres couberem, um ao lado do outro. Abaixe o fogo e deixe dourar por 3 minutos de cada lado. Vire novamente e deixe dourar mais 1 minuto de cada lado - assim eles não queimam por fora nem ficam crus por dentro. Transfira para um prato, regue a frigideira com mais azeite e repita com o restante. Sirva a seguir.

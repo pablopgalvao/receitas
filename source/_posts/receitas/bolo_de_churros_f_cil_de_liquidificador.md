@@ -43,7 +43,6 @@ flags: []
 - Reúna os ingredientes para fazer o melhor bolo de churros fácil de liquidificador, ideal para o seu café da tarde com a família. Já deixe uma forma untada com óleo ou margarina e enfarinhada;
 - Quebre os ovos em um potinho separado e verifique se eles estão bons para uso. Caso estejam, despeje cada um no liquidificador desligado. Adicione o açúcar, o óleo e o leite. Ligue o liquidificador e bata por cerca de 2 minutos. Reserve;
 - Em uma tigela grande, peneire a farinha de trigo com fermento e a canela. Mexa com um fouet até todos os ingredientes secos ficarem misturados;
-- [object Object]
 - Quando a cobertura começar a engrossar, está pronta. Utilize uma colher para espalhar por cima do bolo assado;
 - --
 

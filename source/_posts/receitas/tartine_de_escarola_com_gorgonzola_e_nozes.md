@@ -34,7 +34,6 @@ flags: []
 - sal a gosto
 - Destaque as folhas do maço de escarola e lave sob água corrente. Transfira para uma centrífuga de saladas e seque bem.
 - Mantenha a frigideira em fogo médio, regue com o azeite, adicione o alho e mexa por 2 minutos para perfumar. Acrescente a escarola, tempere com sal e refogue por cerca de 2 minutos, até murchar levemente (caso sua frigideira seja pequena, refogue a escarola em duas etapas).
-- [object Object]
 - --
 
 ---

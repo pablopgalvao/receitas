@@ -42,7 +42,6 @@ flags: []
 - 2 colheres de sopa de canela em pó (para polvilhar)
 - Peneire a farinha de trigo para a massa ficar levinha. O leite não pode estar gelado e nem quente, a temperatura ideal é morno. Amasse as bananas com um garfo e quebre os ovos em um recipiente para verificar se estão bons;
 - Enquanto prepara a massa, deixe o forno preaquecendo a 180 °C. Em uma tigela grande, coloque os ovos, a manteiga em temperatura ambiente e o açúcar. Com um fuê (batedor de bolo), bata essa mistura até formar um creme bem lisinho;
-- [object Object]
 - Junte o sal e o fermento. Misture cuidadosamente para incorporar;
 - Despeje a massa em uma forma redonda com furo no meio (20 cm de diâmetro), untada e enfarinhada. Polvilhe açúcar e canela por cima da massa;
 - --

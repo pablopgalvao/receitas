@@ -43,7 +43,6 @@ flags: []
 - Descasque a cebola e o dente de alho. Lave e seque bem as folhas de salsinha e do coentro.
 - No mini-processador, coloque a cebola, o alho, a salsinha e o coentro. Bata por cerca de 1 minuto, para triturar bem. Junte metade do grão de bico, o sal e as especiarias e bata até formar uma pasta – pelo menos uma vez, pare de bater e raspe as laterais do processador com uma espátula para que fique uniforme.
 - Transfira a massa de falafel para uma tigela, junte o bicarbonato, a farinha de trigo e o azeite. Misture bem.
-- [object Object]
 - Feche a gaveta e pronto – não precisa mexer na metade do tempo. Sirva a seguir, com salada de tomate, pepino, ervas e molho de tahine.
 - --
 

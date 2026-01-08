@@ -38,7 +38,6 @@ flags: []
 - 1/2 xícara de chá de maionese (125 gramas)
 - 1 colher de sopa de vinagre (25 ml)
 - Orégano a gosto (opcional)
-- [object Object]
 - Em seguida, incorpore os dentes de alho amassados e a cebola ralada, misturando bem com as mãos. Ajuste o sal se necessário;
 - Despeje o restante do tempero que ficou no recipiente, depois salpique orégano por cima, se desejar;
 - --

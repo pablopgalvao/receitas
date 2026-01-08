@@ -33,7 +33,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - farinha de trigo para polvilhar
 - Encha uma panela pequena com água, acrescente o caldo de limão e leve ao fogo alto para ferver. Tempere o peixe com sal e pimenta-do-reino e mergulhe na água fervente. Diminua o fogo e deixe cozinhar por cerca de 5 minutos.
-- [object Object]
 - Leve ao fogo médio uma frigideira (de preferência antiaderente). Quando aquecer, regue com óleo apenas para cobrir o fundo da frigideira. Coloque os bolinhos e deixe dourar por cerca de 2 minutos. Com uma espátula, vire cada bolinho para dourar o outro lado por igual. Transfira para um prato e sirva a seguir. Fica ótimo acompanhado de picles de beterraba e coalhada seca.
 - --
 

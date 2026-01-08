@@ -32,7 +32,6 @@ flags: []
 - ⅓ de xícara (chá) de leite
 - 1 colher (sopa) de manteiga
 - Coloque o leite condensado, o leite e a manteiga numa panela pequena e leve ao fogo baixo. Mexa com uma espátula de silicone até a manteiga derreter.
-- [object Object]
 - --
 
 ---

@@ -29,7 +29,6 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara (chá) de creme de leite fresco gelado
-- [object Object]
 - --
 
 ---

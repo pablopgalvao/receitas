@@ -55,8 +55,7 @@ flags: []
 - 1/2 colher de café de cominho e pimenta do reino
 - 1 maço de jambu (ou agrião)
 - 12 colheres de sopa de farinha de mandioca torrada
-- --
-- --
+
 
 ---
 

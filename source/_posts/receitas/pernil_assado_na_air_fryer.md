@@ -37,7 +37,6 @@ flags: []
 - 1 colher de chá de alho em pó
 - 2 colheres de sopa de azeite
 - Comece temperando muito bem a peça de pernil com sal dos dois lados; Reserve 1 colher de chá do sal para usar nas batatas;
-- [object Object]
 - --
 
 ---

@@ -33,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - 2 colheres (sopa) de azeite de dendê
 - ½ colher (chá) de sal
-- [object Object]
 - Leve uma caçarola baixa média (ou frigideira de borda alta) ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, adicione a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Adicione as pimentas, o alho, as raízes e os talos do coentro. Refogue por cerca de 2 minutos, até que o preparo fique bem perfumado.
 - Adicione 1 colher (sopa) de azeite, acrescente os pimentões, tempere com uma pitada de sal e refogue por cerca de 4 minutos, ou até que os pedaços fiquem macios. Junte o tomate e misture bem.
 - Regue com o leite de coco, a água, o dendê e tempere com ½ colher (chá) de sal. Assim que ferver, abaixe o fogo e deixe cozinhar por 2 minutos, para formar um caldinho bem saboroso.

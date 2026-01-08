@@ -35,7 +35,6 @@ flags: []
 - 500 gramas de peixe branco bem fresco (optamos por tilápia)
 - Sal a gosto
 - Coentro a gosto
-- [object Object]
 - Tempere com sal a gosto, misture bem e deixe descansar por 2 minutos;
 - Acrescente o coentro, acerte o sal e misture;
 - --

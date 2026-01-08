@@ -34,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de raiz-forte em pó
 - Numa tigela, misture a raiz-forte com ½ xícara do leite. Se preferir, substitua por wasabi em pasta. Nesse caso, não precisa dissolver no leite.
 - Derreta a manteiga no micro-ondas e meça as 4 colheres (sopa). Transfira para uma panela média, junte a farinha de trigo e leve ao fogo baixo. Com uma colher de pau, mexa sem parar por 3 minutos.
-- [object Object]
 - 2 colheres (sopa) de cebolinha francesa picada fino
 - 1 colher (chá) de raspas de limão
 - 1 colher (chá) de raspas de laranja

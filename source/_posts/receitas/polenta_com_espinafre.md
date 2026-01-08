@@ -35,8 +35,6 @@ flags: []
 - 3 colheres (sopa) de manteiga
 - ½ xícara (chá) de queijo parmesão ralado grosso
 - 2 colheres (chá) de sal
-- [object Object]
-- [object Object]
 - --
 
 ---

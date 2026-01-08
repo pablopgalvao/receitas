@@ -45,8 +45,7 @@ flags: []
 - 1 xícara (chá) de maionese
 - sal a gosto
 - Salsa para decorar
-- --
-- --
+
 
 ---
 

@@ -36,7 +36,6 @@ flags: []
 - 1 colher (chá) de páprica doce
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Leve ao fogo médio uma panela média para aquecer. Regue com 1 colher (sopa) de azeite, junte a cebola, a cenoura e o salsão picados. Tempere com 1 colher (chá) de sal e refogue por cerca de 3 minutos, até murchar.
 - Adicione 2 xícaras (chá) do grão-de-bico, regue com 1 litro de água, misture e deixe cozinhar em fogo médio. Assim que ferver, diminua o fogo e deixe cozinhar por mais 20 minutos. Enquanto isso prepare os ingredientes para a finalização.
 - Leve ao fogo médio uma frigideira de preferência antiaderente. Quando aquecer regue com um fio de azeite, coloque as linguiças inteiras e junte a xícara (chá) de grão-de-bico reservado. Tempere com sal e pimenta-do-reino a gosto e deixe cozinhar, mexendo de vez em quando, por cerca de 10 minutos até dourar.

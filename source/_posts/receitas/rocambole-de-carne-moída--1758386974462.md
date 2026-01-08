@@ -44,8 +44,7 @@ flags: []
 - 200g de queijo prato fatiado
 - 1/2 xícara (chá) de azeitona verde picada
 - 2 colheres (sopa) de maionese
-- --
-- --
+
 
 ---
 

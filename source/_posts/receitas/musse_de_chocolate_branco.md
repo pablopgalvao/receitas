@@ -30,7 +30,6 @@ flags: []
 
 - ½ xícara (chá) de açúcar
 - Quebre um ovo por vez, numa tigela, separando a clara da gema. Transfira as claras para a tigela da batedeira e as gemas para outro recipiente.
-- [object Object]
 - --
 
 ---

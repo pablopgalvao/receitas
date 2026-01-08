@@ -33,7 +33,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com o azeite, adicione a cebola, a cenoura e o salsão. Tempere com uma pitada de sal e pimenta a gosto e refogue por cerca de 3 minutos até murchar.
 - Junte a abóbora, regue com 2 ½ xícaras (chá) de água (se preferir uma sopa menos cremosa, utilize 3 xícaras de água).
-- [object Object]
 - --
 
 ---

@@ -31,7 +31,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal a gosto
 - Destaque as folhas do maço de escarola e lave sob água corrente. Transfira as folhas para uma centrífuga de saladas e seque bem.
-- [object Object]
 - --
 
 ---

@@ -41,7 +41,6 @@ flags: []
 - Sal a gosto
 - 200 gramas de mussarela ralada
 - 100 gramas de batata palha (ou a gosto)
-- [object Object]
 - Despeje o creme do liquidificador em uma panela grande e leve-a ao fogo médio. Adicione o frango desfiado e as azeitonas cortadas em rodelas ou bem picadinhas. Tempere com sal. Mexa com uma espátula continuamente até obter uma consistência bem cremosa, cerca de 2 minutos;
 - Salpique a mussarela ralada por cima do fricassê, formando uma camada uniforme. Leve ao forno preaquecido por 20 minutos, ou até gratinar;
 - --

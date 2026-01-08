@@ -39,7 +39,6 @@ flags: []
 - folhas de coentro a gosto para servir
 - Com a faca, corte bem rente a carne, mantendo o formato da peça para descartar qualquer excesso de gordura. Tempere o lagarto com sal e pimenta a gosto. Com a lateral da faca amasse e descasque o dente de alho.
 - Leve a panela de pressão, sem a tampa, ao fogo médio para aquecer. Regue com 2 colheres (sopa) de azeite, coloque a carne e deixe dourar bem de todos os lados – vire a peça com uma pinça apenas quando estiver dourada, evite mexer em excesso para não perder os líquidos.
-- [object Object]
 - Enquanto isso, descasque e corte as cebolas em meias-luas finas. Transfira para uma tigela e tempere com o orégano e pimenta a gosto. Reserve.
 - Regue a cebola com 3 xícaras (chá) do caldo, ainda quente, que se formou na panela e misture o restante do vinagre. Deixe curar em temperatura ambiente enquanto a carne esfria.
 - --

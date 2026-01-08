@@ -42,7 +42,6 @@ flags: []
 - 1 colher de chá de louro em pó
 - 1 colher de sopa de sal (ou a gosto)
 - Em uma panela, aqueça um fio de óleo e adicione o bacon com as calabresas. Refogue até dourarem, cerca de 5 minutos. Separe 1/4 desse bacon e calabresas para a finalização;
-- [object Object]
 - --
 
 ---

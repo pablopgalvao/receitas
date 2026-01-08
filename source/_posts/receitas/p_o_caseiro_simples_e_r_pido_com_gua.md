@@ -41,7 +41,6 @@ flags: []
 - Em uma bacia grande, adicione a água morna, o fermento biológico seco e o açúcar. Misture vigorosamente até o fermento dissolver e formar uma espuma leve na superfície;
 - Já na primeira adição de farinha, junte também o óleo e o sal. Mexa muito bem com um fouet (batedor de arame) até formar uma mistura homogênea;
 - Continue adicionando a farinha de trigo aos poucos, batendo bem a cada adição, até que a massa comece a ganhar corpo e ficar pegajosa, mas solta da lateral da bacia;
-- [object Object]
 - Raspe a colher com uma espátula, nivele a massa na tigela, cubra com um pano limpo e deixe descansar por 40 minutos ou até dobrar de volume;
 - Após o crescimento, polvilhe um pouco de farinha sobre a massa e ao redor da bacia para facilitar o manuseio;
 - Transfira a massa para uma bancada levemente enfarinhada e vire-a algumas vezes apenas para facilitar a modelagem;

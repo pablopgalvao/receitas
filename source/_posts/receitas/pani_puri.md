@@ -54,7 +54,6 @@ flags: []
 - Após o cozimento, amasse as batatas com um garfo. Pique a cebola em cubinhos. Em uma tigela, junte a batata com a cebola, o suco de limão, o sal, o chilli e o cominho. Misture bem e reserve;
 - Para o pani, em um liquidificador, bata a hortelã, o coentro, as pimentas, o suco de limão, o cominho, o sal negro, o tamarindo e o açúcar até obter um creme espesso. Adicione água fria, misture e reserve na geladeira;
 - Leve uma panela com óleo ao fogo alto e frite os discos. Assim que o puri inflar em formato de bolha e ficar douradinho, retire com uma escumadeira e reserve em um prato forrado com papel-toalha;
-- [object Object]
 - --
 
 ---

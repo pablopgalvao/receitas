@@ -44,7 +44,6 @@ flags: []
 - 1 colher (chá) de sal
 - azeite a gosto
 - No mini-processador de alimentos bata bem as ervas com as especiarias, o alho e o sal – estes ingredientes vão formar a crosta e temperar o salmão. Se preferir pique fino na tábua o tomilho, o alecrim, o orégano, o alho e a semente de cominho e misture com a páprica e o sal.
-- [object Object]
 - Leve uma frigideira ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e coloque quantas tranches de salmão couberem, uma ao lado da outra, com a crosta em contato da frigideira. Deixe dourar, sem mexer, por cerca de 3 minutos. Com uma pinça, vire delicadamente e deixe cozinhar por mais 3 minutos – a ideia é obter uma casquinha bem crocante e deixar uma faixa estreita no miolo de peixe praticamente cru. Transfira para um prato e repita com o restante, regando a frigideira com azeite a cada leva. Sirva a seguir com purê de banana-da-terra e vinagrete de pepino.
 - --
 

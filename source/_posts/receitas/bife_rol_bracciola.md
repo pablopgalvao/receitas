@@ -36,7 +36,6 @@ flags: []
 - azeite a gosto
 - salsinha picada a gosto
 - Descarte as folhas, lave e seque o talo do salsão; descasque a cenoura e corte os legumes em palitos finos de 6 cm de comprimento. Assim eles cabem certinho dentro de cada bife. Descasque e pique fino a cebola e os dentes de alho. Corte as fatias de bacon ao meio.
-- [object Object]
 - Leve a panela de pressão, sem a tampa, ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure os bifes rolês em etapas, por 3 minutos de cada lado. Se colocar todos de uma vez só eles vão cozinhar no vapor em vez de dourar. Transfira para uma travessa e repita com o restante, regando com azeite a cada leva.
 - Mantenha a panela em fogo médio e regue com ½ colher (sopa) de azeite. Junte a cebola picada, tempere com sal e refogue por 3 minutos até começar a dourar. Acrescente o alho, o louro, a canela, a pimenta-síria e mexa por 1 minuto para perfumar.
 - Adicione o extrato de tomate e mexa bem. Regue com a água e misture raspando o fundo da panela para dissolver os queimadinhos – eles dão sabor ao molho. Tempere com sal e, assim que ferver, volte as bracciolas para panela, tampe e aumente o fogo para alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por mais 30 minutos.

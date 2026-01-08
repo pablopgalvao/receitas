@@ -31,8 +31,6 @@ flags: []
 - ¼ de xícara (chá) de vinho branco
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
-- [object Object]
 - --
 
 ---

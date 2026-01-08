@@ -34,7 +34,6 @@ flags: []
 - ¼ de xícara (chá) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, coloque os filés de frango e tempere com a páprica, o cominho, sal e pimenta-do-reino a gosto. Esfregue bem os filés com as mãos para temperar toda a superfície.
-- [object Object]
 - --
 
 ---

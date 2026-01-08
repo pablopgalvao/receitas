@@ -40,7 +40,6 @@ flags: []
 - croûtons a gosto
 - folhas de coentro a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Numa tigela, misture o repolho com o abacaxi e o frango. Tempere com o molho de iogurte e tempere com folhas de coentro a gosto. Misture bem e sirva a seguir com croutons.
 - --
 

@@ -49,8 +49,7 @@ flags: []
 - 1 colher de sopa de mostarda
 - Sal e pimenta-do-reino a gosto
 - Cheiro-verde a gosto
-- --
-- --
+
 
 ---
 

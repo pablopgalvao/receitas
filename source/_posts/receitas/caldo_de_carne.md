@@ -34,7 +34,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - 2 ramos de salsinha
 - Preaqueça o forno a 200 ºC (temperatura média). Enquanto isso, coloque os ossos numa assadeira grande, regue com o óleo e espalhe com as mãos. Leve ao forno para assar por 45 minutos.
-- [object Object]
 - --
 
 ---

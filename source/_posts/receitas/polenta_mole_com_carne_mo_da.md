@@ -50,8 +50,7 @@ flags: []
 - 1 colher de chá de sal
 - 1 xícara de chá de fubá (160 gramas)
 - Queijo gorgonzola a gosto
-- --
-- --
+
 
 ---
 

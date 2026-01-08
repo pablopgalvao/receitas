@@ -53,8 +53,7 @@ flags: []
 - 2 colheres de sopa de manteiga
 - Salsinha picada a gosto
 - Azeite, sal e pimenta-do-reino a gosto
-- --
-- --
+
 
 ---
 

@@ -47,7 +47,6 @@ flags: []
 - Em uma tigela grande (que tenha espaço para a massa dobrar de tamanho), misture a farinha e o sal. Reserve;
 - Com a batedeira ligada em velocidade baixa, incorpore a mistura de farinha com sal gradualmente. Bata até ficar homogêneo. Despeje o azeite e continue batendo em velocidade média por 6 minutos, ou até que a massa ficar lisa e elástica;
 - No ponto ideal, a massa ficará concentrada no centro da tigela e descolada das laterais. Unte a tigela (que você misturou a farinha e o sal) com azeite e coloque a massa para descansar por cerca de 1 hora. Cubra com um pano limpo e deixe em um local que não bate vento;
-- [object Object]
 - Após 1 hora, verifique se a massa dobrou de tamanho (em dias frios, talvez você precisará deixar crescer por mais meia hora). Prepare a bancada, polvilhando farinha de trigo e coloque a massa em cima. Modele-a no formato de um rolo;
 - Coloque 4 porções da massa em uma assadeira (polvilhada com farinha de trigo) e cubra com um pano de prato limpo. Reserve na geladeira para evitar que a massa fermente em excesso;
 - Com o auxílio do rolo de macarrão, abra uma porção da massa em formato de disco (aproximadamente 20 cm), com cerca de 0,5 cm de espessura. Polvilhe a bancada com farinha sempre que precisar para a massa não grudar;

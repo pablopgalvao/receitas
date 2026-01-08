@@ -32,8 +32,7 @@ flags: []
 
 - 4 colheres de sopa de cacau em pó 100%
 - 2 bananas maduras
-- --
-- --
+
 
 ---
 

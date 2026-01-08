@@ -29,8 +29,6 @@ flags: []
 ## 🧄 Ingredientes
 
 - Retire o ovo da geladeira alguns minutos antes de colocar para cozinhar — isso evita que a casca rache com o choque térmico. Lave o ovo (ou os ovos, se for cozinhar mais de um ao mesmo tempo).
-- [object Object]
-- [object Object]
 - --
 
 ---

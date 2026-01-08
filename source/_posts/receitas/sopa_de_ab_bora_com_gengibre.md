@@ -30,7 +30,6 @@ flags: []
 
 - azeite a gosto
 - Numa panela, coloque 2 xícaras de água, a abóbora e leve para o fogo médio. Deixe cozinhar por 10 minutos - isso fará com que a casca saia facilmente.
-- [object Object]
 - Volte a sopa para a panela e verifique o sabor. Se quiser, tempere com mais sal e pimenta-do-reino. Regue com o merecido fio de azeite!
 - ½ colher (sopa) de óleo
 - 3 colheres (sopa) de milho para pipoca

@@ -39,7 +39,6 @@ flags: []
 - 1 pitada de sal
 - Descasque e pique fino a cebola roxa. Lave e seque os ramos de salsinha.
 - Numa tigela, coloque a banana em cubos e a cebola picada. Regue com o caldo de limão, o mel e o azeite. Tempere com o sal e misture bem.
-- [object Object]
 - --
 
 ---

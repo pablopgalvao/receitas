@@ -45,7 +45,6 @@ flags: []
 - Regue com a água e raspe bem o fundo da panela para dissolver todos os queimadinhos da cebola. Junte a lentilha, os cubos de batata, tempere com sal e pimenta a gosto e aumente o fogo.
 - óleo para fritar
 - Leve uma frigideira grande com cerca de ½ xícara (chá) de óleo ao fogo médio – a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use apenas o suficiente para cobrir o fundo.
-- [object Object]
 - --
 
 ---

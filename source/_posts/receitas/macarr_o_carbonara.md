@@ -35,9 +35,7 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com 2 litros de água ao fogo alto. Quando ferver, adicione 1 colher (sopa) de sal, junte o macarrão e misture. Deixe cozinhar pelo tempo indicado na embalagem ou até ficar al dente.
-- [object Object]
 - Assim que o macarrão estiver cozido, reserve 1 xícara (chá) da água do cozimento.
-- [object Object]
 - --
 
 ---

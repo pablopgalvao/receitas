@@ -32,8 +32,6 @@ flags: []
 - ¼ de xícara (chá) de azeite
 - 1 colher (sopa) de farinha de trigo
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
-- [object Object]
 - Junte na tigela da marinada mais 1 xícara (chá) de suco de laranja e 1 colher (sopa) de farinha de trigo. Misture bem, até dissolver a farinha. Abaixe o fogo da frigideira onde o frango foi preparado e misture o líquido de uma vez.
 - Com um colher de pau, vá raspando no fundo da frigideira – depois o molho vai passar pela peneira, mas esses queimadinhos do fundo é que vão garantir o sabor do molho. Mexa vigorosamente por 2 minutos. Junte um ramo de alecrim e deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando, até o molho engrossar. Se passar do ponto, regue com água.
 - Desligue o fogo e passe o molho pela peneira. Prove o tempero e acerte com sal e pimenta-do-reino. Sirva a seguir quente sobre o filé de frango, acompanhado do purê de batatas.

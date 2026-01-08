@@ -36,7 +36,6 @@ flags: []
 - Retire a manteiga da geladeira para que amoleça até chegar em ponto pomada. Pique fino as folhas dos ramos de alecrim. No pilão, bata o sal para ficar um pouco mais fino.
 - Numa tigela com a manteiga misture o sal, a páprica, o alecrim, e tempere com pimenta-do-reino a gosto.
 - Com papel-toalha, seque bem o galeto e coloque num recipiente grande. Com as mãos, espalhe bem a manteiga temperada na pele e também por baixo dela na parte do peito – com cuidado para não rasgar a pele. Em seguida, deixe o galeto marinar por 30 minutos, em temperatura ambiente.
-- [object Object]
 - --
 
 ---

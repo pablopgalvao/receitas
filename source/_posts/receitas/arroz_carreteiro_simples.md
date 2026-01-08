@@ -46,8 +46,7 @@ flags: []
 - 200 g de calabresa
 - 1 cebola grande
 - Salsa
-- --
-- --
+
 
 ---
 

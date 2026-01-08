@@ -50,8 +50,7 @@ flags: []
 - 1 xícara (chá) de azeite
 - 1/2 xícara (chá) de vinagre
 - 1/2 xícara (chá) de água
-- --
-- --
+
 
 ---
 

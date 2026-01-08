@@ -49,7 +49,6 @@ flags: []
 - folhas de rúcula italiana a gosto para servir
 - Numa tigela, misture a ricota com 2 colheres (sopa) de azeite, ½ colher (chá) de sal, pimenta e noz-moscada a gosto.
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite. Coloque as abobrinhas, sem sobrepor — se não couberem todas de uma só vez, prepare em levas. Deixe dourar por cerca de 2 minutos e vire com uma pinça para dourar o outro lado por igual. Tempere com sal e pimenta-do-reino a gosto e transfira para uma tigela. Reserve.
-- [object Object]
 - Numa tigela pequena, quebre o ovo e, com um garfo, misture bem com a água. Pincele sobre a massa e polvilhe queijo parmesão ralado.
 - Leve ao forno para assar por 30 minutos, até que a massa esteja dourada e crocante e a abobrinha macia. Retire do forno e deixe esfriar completamente antes de servir. Sirva com o molho de manjericão restante, folhas de rúcula selvagem e a salada de beterraba com ervas frescas.
 - --

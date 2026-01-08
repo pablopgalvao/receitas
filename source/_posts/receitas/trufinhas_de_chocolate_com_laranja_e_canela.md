@@ -32,7 +32,6 @@ flags: []
 - 350 g de chocolate 55% cacau em gotas (cerca de 2 xícaras [chá])
 - Forre uma assadeira pequena de 22 cm x 18 cm com um pedaço de papel-manteiga — assim fica mais fácil desenformar o bloco inteiro de trufa para cortar os quadradinhos.
 - Misture delicadamente com uma espátula de silicone até que o chocolate derreta completamente. Transfira para a fôrma forrada com papel-manteiga e nivele o creme de chocolate com a espátula — quanto mais retinho ficar, melhor para cortar as trufinhas depois.
-- [object Object]
 - --
 
 ---

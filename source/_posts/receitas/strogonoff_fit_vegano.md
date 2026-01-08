@@ -55,8 +55,7 @@ flags: []
 - 1 xícara de chá de creme de soja
 - Sal e pimenta-do-reino a gosto
 - Cheiro-verde para finalizar
-- --
-- --
+
 
 ---
 

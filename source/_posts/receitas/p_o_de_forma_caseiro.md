@@ -42,8 +42,6 @@ flags: []
 - 250 gramas de leite integral
 - Manteiga ou óleo vegetal (quantidade suficiente)
 - Separe os ingredientes em sua bancada. Higienize as mãos, separe os ingredientes líquidos e secos. Unte a forma com manteiga ou óleo, espalhando bem nas laterais e cantos;
-- [object Object]
-- [object Object]
 - Adicione os secos à tigela da esponja. No centro, coloque a manteiga em ponto de pomada e o leite (reserve um pouco para ajustar a consistência). Misture com colher até formar uma massa densa;
 - Deixe a massa descansar coberta por 5 a 10 minutos antes de iniciar a sova. Isso ajuda a farinha a absorver melhor os líquidos;
 - Retire o pão do forno, desenforme com cuidado e coloque sobre uma grade. Se desejar, pincele manteiga derretida sobre a crosta ainda quente. Deixe esfriar entre 30 e 60 minutos antes de cortar. Sirva puro ou em sanduíches, toasts ou com acompanhamentos diversos.

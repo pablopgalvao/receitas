@@ -50,7 +50,6 @@ flags: []
 - 1/2 colher de chá de pimenta-do-reino ou a gosto
 - 2 xícaras de chá de batata palha fina (100 gramas)
 - 3 colheres de sopa rasa de salsinha picadinha
-- [object Object]
 - Acrescente o tomate em cubinhos e continue refogando, pressionando levemente com a colher até que ele se desmanche e forme um molho espesso;
 - Tempere com o sal e a pimenta-do-reino. Misture mais uma vez para homogeneizar o sabor;
 - Por fim, adicione a batata palha e a salsinha picada. Mexa delicadamente e desligue o fogo;

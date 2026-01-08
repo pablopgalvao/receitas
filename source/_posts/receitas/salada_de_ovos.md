@@ -34,7 +34,6 @@ flags: []
 - Leve uma panela média com água ao fogo alto. Quando ferver, com uma escumadeira mergulhe os ovos e diminua o fogo para médio – a água deve estar fervendo, mas o fogo não pode estar alto para evitar que os ovos batam no fundo da panela (se preferir, faça um furinho na casca da base de cada ovo usando um alfinete, isso evita que a casca rache ao entrar em contato com a água quente). Cozinhe os ovos por 7 minutos.
 - Enquanto isso, separe uma tigela com gelo e água. Lave, seque e pique fino a salsinha. Lave, seque e pique o dill.
 - Passados os 7 minutos, com a escumadeira, transfira os ovos cozidos para a tigela com água e gelo para cessar o cozimento e esfriar – assim fica mais fácil para descascar.
-- [object Object]
 - Numa tigela misture bem a maionese com as ervas picadas. Corte os ovos em quartos, no sentido do comprimento. Corte cada quarto em 3 pedaços no sentido da largura e transfira para a tigela com a maionese. Misture bem com uma colher e ajuste o sal – não se preocupe se as gemas se soltarem dos pedaços de ovo, a idéia é incorporar parte delas ao molho para ficar cremoso. Sirva a seguir com pães, legumes e salada de folhas.
 - --
 

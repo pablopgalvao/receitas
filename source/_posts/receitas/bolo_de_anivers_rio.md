@@ -53,8 +53,6 @@ flags: []
 - Preaqueça o forno a 180 ºC. Unte uma forma redonda (sem furo no meio, 24 cm de diâmetro) com manteiga e farinha de trigo. Peneire os ingredientes secos da massa;
 - Para a massa, em um recipiente, quebre os ovos, um por um, e transfira para a tigela da batedeira - se algum ovo estiver estragado, você não perde toda a receita. Junte o açúcar e bata por 2 minutos;
 - Adicione o trigo, o chocolate em pó, o óleo e o leite. Bata até obter uma massa lisa e homogênea (30 segundos). Coloque o fermento e mexa cuidadosamente, apenas para incorporar;
-- [object Object]
-- [object Object]
 - Disponha a parte debaixo do bolo em um prato ou boleira. Com uma colher, espalhe o creme branco por cima e organize os morangos picados no creme;
 - Salpique granulado por cima e decore com os morangos. Agora é só servir esse delicioso bolo de aniversário com todo mundo cantando parabéns!
 - --

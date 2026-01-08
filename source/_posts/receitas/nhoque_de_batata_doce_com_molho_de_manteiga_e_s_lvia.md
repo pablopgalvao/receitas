@@ -34,8 +34,6 @@ flags: []
 - 1 colher (sopa) de sal
 - farinha de trigo para polvilhar a bancada
 - Transfira os pedaços de batata-doce para uma peneira e deixe escorrer bem a água. Sobre uma tigela, passe os pedaços, ainda quentes, por um espremedor de batatas e tempere com o sal.
-- [object Object]
-- [object Object]
 - Leve uma panela grande com água ao fogo alto. Unte uma assadeira grande com óleo. Assim que a água ferver, adicione 1 colher (sopa) de sal.
 - Com uma escumadeira, mergulhe cerca de 10 nhoques por vez na água fervente. Deixe cozinhar até subirem à superfície. Retire os nhoques, escorrendo bem a água pela escumadeira e transfira para a assadeira untada com óleo. Cozinhe o restante dos nhoques e não despreze a água do cozimento - ela vai ser utilizada para fazer o molho.
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, junte ½ colher (sopa) de manteiga e adicione cerca de 30 nhoques. Deixe por 1 minuto de cada lado para dourar por igual. Transfira para uma travessa e doure o restante dos nhoques, adicionando manteiga a cada leva.

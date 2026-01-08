@@ -30,7 +30,6 @@ flags: []
 
 - 1½ colher (sopa) de açúcar
 - 1 colher (sopa) de manteiga
-- [object Object]
 - Leve ao fogo médio uma frigideira grande. Quando aquecer, acrescente a manteiga e deixe derreter. Polvilhe com 1 colher (sopa) de açúcar e coloque as fatias de abacaxi uma ao lado da outra. Polvilhe o restante do açúcar sobre as fatias e deixe por cerca de 7 minutos até começar a dourar - não precisa mexer. Se sua frigideira for pequena, doure o abacaxi em duas etapas.
 - Enquanto o abacaxi doura, polvilhe a bancada com um pouco de farinha de trigo. Com o rolo, abra a massa apenas para afinar - cerca de 0,3 cm de espessura.
 - ½ xícara (chá) de açúcar

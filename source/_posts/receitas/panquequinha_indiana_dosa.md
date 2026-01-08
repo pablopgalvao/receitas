@@ -40,7 +40,6 @@ flags: []
 - Numa tigela média, coloque todos os ingredientes (exceto a manteiga) e misture bem com um batedor de arame para dissolver as farinhas — a massa é bem líquida mesmo. Deixe descansar por 10 minutos.
 - Enquanto isso, coloque a manteiga numa tigela pequena e leve ao micro-ondas para rodar de 30 em 30 segundos, até derreter.
 - Leve uma frigideira média antiaderente ao fogo médio para aquecer. Coloque ½ colher (chá) de manteiga derretida e espalhe no fundo da frigideira com uma espátula de silicone.
-- [object Object]
 - Assim que a massa firmar na frigideira, após cerca de 1 minuto, espalhe ½ colher (chá) de manteiga sobre a panqueca e deixe dourar por mais 2 minutos, até as pontinhas ficarem bem crocantes e a base dourada.
 - --
 

@@ -45,7 +45,6 @@ flags: []
 - No copo do mixer coloque as folhas de manjericão, o dente de alho, as castanhas, o queijo ralado, o azeite e o cubo de gelo – ele evita que o molho escureça. Tempere com sal e pimenta-do-reino a gosto e bata até ficar liso.
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - --
 
 ---

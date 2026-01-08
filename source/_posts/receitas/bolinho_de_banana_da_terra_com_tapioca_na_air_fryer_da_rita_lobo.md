@@ -35,7 +35,6 @@ flags: []
 - ¼ de colher (chá) de canela em pó
 - doce de leite a gosto para servir
 - Transfira para uma tigela e junte a tapioca, o açúcar, a canela e a água. Misture bem com um garfo e deixe descansar por 20 minutos — nesse tempo a tapioca vai ficar hidratada e com a consistência ideal para ser modelada em bolinhos.
-- [object Object]
 - Com um pedaço de papel-toalha (ou pincel), unte o cesto da Air Fryer com óleo. Coloque os bolinhos no cesto, um ao lado do outro, e deixe assar (não precisa virar). Sirva a seguir com doce de leite.
 - --
 

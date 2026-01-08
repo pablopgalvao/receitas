@@ -35,7 +35,6 @@ flags: []
 - Sal a gosto
 - 4 colheres de sopa de mostarda Dijon
 - Azeite a gosto
-- [object Object]
 - --
 
 ---

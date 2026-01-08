@@ -41,7 +41,6 @@ flags: []
 - 300 ml de leite integral
 - 1/2 colher de chá de sal
 - Em uma tigela grande, misture a farinha e o sal. Adicione a margarina gelada e, com as pontas dos dedos, forme uma farofa úmida, sem amassar completamente a massa;
-- [object Object]
 - Após o descanso, divida a massa em porções de 30 gramas (ou use uma colher de sopa como medida). Faça bolinhas, achate e acomode nas forminhas de empada de alumínio (7 cm diâmetro x 2,4 cm altura);
 - --
 

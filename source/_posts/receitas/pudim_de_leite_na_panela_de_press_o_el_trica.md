@@ -33,7 +33,6 @@ flags: []
 - ¾ de xícara (chá) de açúcar
 - ¼ de xícara (chá) de água fervente
 - Separe uma fôrma redonda, com furo no meio, de 18 cm de diâmetro. Leve uma chaleira com 3 xícaras (chá) de água ao fogo alto para ferver — ela vai ser usada para fazer a calda e o banho-maria.
-- [object Object]
 - --
 
 ---

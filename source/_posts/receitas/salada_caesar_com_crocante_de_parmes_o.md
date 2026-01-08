@@ -37,7 +37,6 @@ flags: []
 - ⅔ de xícara (chá) de maionese caseira
 - 2 colheres (sopa) de água filtrada
 - Lave bem as folhas de alface sob água corrente. Transfira para uma tigela, cubra com água, misture o bactericida de sua escolha e deixe de molho por 15 minutos. Retire as folhas de alface da água em vez de escorrer – assim as sujeirinhas ficam no fundo da tigela. Enxágue sob água corrente, transfira as folhas para uma centrífuga de saladas e seque bem.
-- [object Object]
 - Numa tigela grande, rasgue as folhas de alface grosseiramente. Junte o frango desfiado, regue com o molho e misture bem. Quebre uma das placas de parmesão em pedaços pequenos e polvilhe sobre a salada. Decore a tigela com a outra placa de parmesão e sirva a seguir.
 - --
 

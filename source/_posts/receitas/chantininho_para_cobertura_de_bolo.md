@@ -36,7 +36,6 @@ flags: []
 - 120 gramas de leite condensado
 - 5 colheres de sopa de leite em pó (50 gramas)
 - 1 colher de sopa de emulsificante
-- [object Object]
 - --
 
 ---

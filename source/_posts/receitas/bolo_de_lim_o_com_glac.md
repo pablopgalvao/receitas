@@ -37,7 +37,6 @@ flags: []
 - manteiga e farinha de trigo para untar e polvilhar
 - Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.
 - Numa tigela, coloque a farinha, o fermento e o sal passando pela peneira. Misture e reserve.
-- [object Object]
 - 1 xícara (chá) de açúcar de confeiteiro
 - 2 colheres (sopa) de caldo de limão
 - Numa tigela pequena, misture bem o açúcar com o caldo de limão até ficar liso. Espalhe sobre o bolo e deixe endurecer.

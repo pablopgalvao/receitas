@@ -41,7 +41,6 @@ flags: []
 - 300 gramas de salmão fresco
 - 40 gramas de maionese
 - 2 colheres de sopa de cebolinha picada
-- [object Object]
 - Em uma tábua, com uma faca bem afiada, retire a pele do salmão, caso seja necessário. Corte a peça em fatias finas, e depois em cubos de cerca de 1,5 cm;
 - Posicione o recheio de salmão, por cima do arroz, na diagonal - siga a direção do polegar ao dedo mindinho;
 - --

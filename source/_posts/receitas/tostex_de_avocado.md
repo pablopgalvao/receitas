@@ -34,7 +34,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - gomos de limão a gosto para servir
 - Corte o avocado ao meio, no sentido do comprimento. Descarte o caroço e descasque com as mãos para manter o formato da fruta. Apoie a parte plana de cada metade na tábua e corte em fatias de 0,5 cm. Regue com o caldo de limão e tempere com azeite, sal e pimenta a gosto.
-- [object Object]
 - --
 
 ---

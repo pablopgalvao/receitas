@@ -41,7 +41,6 @@ flags: []
 - 1/2 xícara de chá de coentro e salsinha picada
 - 1 xícara de chá de queijo parmesão ralado
 - Sal a gosto
-- [object Object]
 - Acrescente 1 colher de sopa de manteiga e mexa novamente, em fogo baixo, até que derreta. Desligue o fogo, salpique coentro e salsinha, misture e reserve;
 - Adicione o leite e mexa bem com uma espátula para que tudo se incorpore. Entre também com 3 colheres de sopa de manteiga e ajuste o sal. Misture até chegar à consistência desejada. Reserve;
 - Numa frigideira com manteiga, grelhe rapidamente as fatias de banana-da-terra, até que fiquem levemente douradas de ambos os lados. Reserve;

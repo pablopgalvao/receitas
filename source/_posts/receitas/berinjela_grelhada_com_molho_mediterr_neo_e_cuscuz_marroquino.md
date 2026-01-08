@@ -43,7 +43,6 @@ flags: []
 - Leve ao fogo médio uma frigideira com borda alta. Quando aquecer, regue com 1 colher (sopa) de azeite e junte a cebola e o pimentão picados. Tempere com uma pitada de sal e refogue por cerca de 4 minutos até murchar bem.
 - Adicione o alho, a folha de louro, a páprica defumada e mexa por 1 minuto apenas para perfumar. Junte o tomate pelado (com o líquido), a água, a casca de laranja e as uvas-passas. Tempere com sal e pimenta-do-reino a gosto e misture bem. Diminua o fogo e deixe cozinhar, em fogo baixo, por cerca de 15 minutos até encorpar - mexa de vez em quando para não queimar no fundo.
 - Leve ao fogo médio uma bistequeira (ou frigideira antiaderente). Quando estiver bem quente, regue com ½ colher (sopa) de azeite e adicione as rodelas de berinjela. Deixe por cerca de 5 minutos até ficar bem dourada. Regue as fatias com mais ½ colher (sopa) de azeite e vire com uma pinça para dourar o outro lado por igual.
-- [object Object]
 - --
 
 ---

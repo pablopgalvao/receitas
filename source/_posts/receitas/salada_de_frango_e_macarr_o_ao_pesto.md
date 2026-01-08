@@ -40,7 +40,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve ao fogo alto uma panela pequena com água. Quando ferver, junte ½ colher (sopa) de sal e o macarrão. Misture e deixe cozinhar. Desligue o fogo 1 minuto antes do tempo indicado na embalagem. Passe o macarrão por um escorredor e deixe esfriar.
 - Leve uma bistequeira (ou frigideira), de preferência antiaderente para aquecer em fogo médio. Pincele os tomates e cubos de pimentão com azeite e transfira para a bistequeira. Deixe por cerca de 3 minutos. Vire com uma pinça para grelhar por igual. Transfira para um prato e tempere com sal e pimenta-do-reino.
-- [object Object]
 - --
 
 ---

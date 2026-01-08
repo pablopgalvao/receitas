@@ -31,7 +31,6 @@ flags: []
 - 1 xícara (chá) de açúcar
 - ½ xícara (chá) de água
 - Numa panela, junte o açúcar e a água e misture até o açúcar dissolver, agitando a água o mínimo possível.
-- [object Object]
 - 200 g de manteiga sem sal em temperatura ambiente
 - 1 xícara (chá) de açúcar
 - 1¼ de xícara (chá) de farinha de trigo

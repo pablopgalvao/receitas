@@ -42,7 +42,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela pequena, quebre um ovo de cada vez e junte à ricota – se um estiver estragado você não perde a receita. Adicione o leite, tempere com sal, pimenta e noz-moscada a gosto. Mexa bem com um batedor de arames para incorporar os ingredientes. Reserve.
 - ½ xícara (chá) de queijo parmesão ralado fino
-- [object Object]
 - --
 
 ---

@@ -31,7 +31,6 @@ flags: []
 - 1 xícara (chá) de açúcar
 - ½ xícara (chá) de água
 - Numa panela pequena, misture o açúcar com a água agitando o mínimo possível para não espirrar na lateral da panela — essas gotinhas podem queimar e amargar o caramelo.
-- [object Object]
 - 2 xícaras (chá) de farinha de trigo
 - 1½ xícara (chá) de açúcar
 - ½ xícara (chá) de óleo

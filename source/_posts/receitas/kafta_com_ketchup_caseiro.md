@@ -36,7 +36,6 @@ flags: []
 - 2 colheres (chá) de sal
 - 6 castanhas-de-caju torradas sem sal
 - Agora você precisa decidir se vai usar um ralador ou processador. Se for usar o processador, descasque e bata a cebola apenas para triturar (ou passe na parte fina do ralador). Transfira para um peneira fina e aperte ligeiramente com as costas de uma colher para tirar o líquido que se formou. Descarte o líquido.
-- [object Object]
 - Retire um espeto da água. Molhe as mãos e retire uma porção de cerca ¼ de xícara (chá) da carne. Aperte ao redor do espeto para moldar as kaftas, deixando livre cerca de 4 dedos do espeto. Transfira para uma travessa e repita com toda a carne.
 - --
 

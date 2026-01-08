@@ -36,7 +36,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - noz-moscada ralada na hora a gosto
 - Leve uma panela média ao fogo médio para aquecer. Regue com o azeite, junte a abobrinha, o tomilho debulhado, tempere com uma pitada de sal, pimenta-do-reino e noz-moscada a gosto. Deixe cozinhar por cerca de 8 minutos, mexendo de vez em quando — assim a abobrinha fica mais saborosa, sem soltar muita água, e levemente douradinha. Reserve a abobrinha numa tigela enquanto prepara a polenta, na mesma panela (nem precisa lavar!).
-- [object Object]
 - Desligue o fogo e misture a manteiga e o queijo parmesão até derreter. Por último, misture a abobrinha refogada e sirva a seguir.
 - --
 

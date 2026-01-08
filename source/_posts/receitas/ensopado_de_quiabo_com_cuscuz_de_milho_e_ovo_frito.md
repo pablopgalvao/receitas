@@ -42,7 +42,6 @@ flags: []
 - folhas de coentro a gosto para servir
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite e acrescente a cebola e o pimentão. Tempere com uma pitada de sal e refogue por cerca de 3 minutos, até murchar. Enquanto isso, bata as sementes de cominho no pilão.
 - Junte o alho e o cominho ao refogado. Mexa por 1 minuto para perfumar. Regue com a água e misture bem para incorporar os sabores. Adicione o tomate pelado, tempere com 1 colher (chá) de sal e pimenta a gosto. Mantenha em fogo médio até começar a ferver. Abaixe o fogo e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até o molho encorpar.
-- [object Object]
 - ⅓ de xícara (chá) de castanha-de-caju torrada, sem sal e picada
 - 2 colheres (sopa) de manteiga
 - azeite a gosto (ou óleo)

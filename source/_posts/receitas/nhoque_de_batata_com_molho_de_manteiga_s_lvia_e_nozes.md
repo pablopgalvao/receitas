@@ -46,7 +46,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - nozes torradas e picadas a gosto para servir
 - Na mesma frigideira onde os nhoques foram dourados, abaixe o fogo, acrescente 1 colher (sopa) de manteiga e as folhas de sálvia. Deixe cozinhar por alguns segundos, até perfumar e desligue o fogo – reserve 1 ramo de sálvia crocante para servir.
-- [object Object]
 - --
 
 ---

@@ -39,7 +39,6 @@ flags: []
 - Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.
 - No liquidificador, coloque metade do arroz (1¾ de xícara), o leite e o ovo. Tempere com o sal, pimenta e noz-moscada e bata por cerca de 1 minuto, até triturar bem e o arroz ficar pastoso — pare de bater e raspe a lateral do copo com uma espátula para misturar os ingredientes quantas vezes forem necessárias.
 - Numa tigela grande, coloque o restante do arroz cozido, adicione o queijo parmesão, a salsinha picada e o arroz batido. Misture bem com a espátula até formar uma massa úmida, mas consistente — o arroz batido dá liga para a massa de bolinho e o restante do arroz cozido mantém a textura dos grãos inteiros.
-- [object Object]
 - --
 
 ---

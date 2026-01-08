@@ -34,9 +34,7 @@ flags: []
 - ½ colher (sopa) de açúcar
 - 1 colher (chá) de sal
 - Numa panela média, coloque o vinagre, a água, o açúcar, o sal, as folhas de louro, os cravos e a canela. Leve ao fogo médio e deixe cozinhar até ferver. Abaixe o fogo e deixe cozinhar por mais 2 minutos para fazer uma infusão. Transfira para uma jarra e reserve.
-- [object Object]
 - Volte a panela ao fogo médio (não precisa lavar). Quando aquecer, regue com o azeite e junte a cebola. Tempere com uma pitada de sal e refogue por cerca de 3 minutos até murchar. Acrescente o alho e mexa por 1 minuto para perfumar. Junte a pimenta e refogue por mais 2 minutos para liberar o aroma e sabor ao refogado.
-- [object Object]
 - --
 
 ---

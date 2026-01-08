@@ -37,7 +37,6 @@ flags: []
 - 1½ colher (chá) de zatar
 - 1 pitada de sal
 - 1 xícara (chá) de grão-de-bico cozido escorrido (em conserva)
-- [object Object]
 - Na hora de consumir, chacoalhe o pote para misturar a salada com o molho e acrescente o pão torrado.
 - --
 

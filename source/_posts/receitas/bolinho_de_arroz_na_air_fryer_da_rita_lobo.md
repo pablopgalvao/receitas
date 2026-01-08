@@ -35,7 +35,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela grande, coloque o arroz, a farinha de trigo, o queijo parmesão e a salsinha. Numa tigela pequena, quebre o ovo e junte aos outros ingredientes. Tempere com sal e pimenta a gosto e misture bem.
-- [object Object]
 - --
 
 ---

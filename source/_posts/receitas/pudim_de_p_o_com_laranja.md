@@ -32,7 +32,6 @@ flags: []
 - 4 colheres (sopa) de água fervente
 - ¼ de xícara (chá) de caldo de laranja coado
 - Separe uma forma redonda com furo no meio, de 20 cm de diâmetro. Leve uma chaleira com 3 xícaras (chá) de água ao fogo alto para ferver – ela vai ser usada tanto para fazer a calda quanto para assar o pudim em banho-maria.
-- [object Object]
 - 3 xícaras (chá) de leite
 - ½ xícara (chá) de açúcar
 - 1 pitada de canela em pó

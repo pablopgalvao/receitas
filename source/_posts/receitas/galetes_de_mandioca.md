@@ -32,7 +32,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Descasque e passe a mandioca pela parte grossa do ralador. Embrulhe a mandioca ralada num pano de prato limpo e dê uma leve torcida para secar. Transfira a mandioca para uma tigela grande, regue com ¼ de xícara (chá) de azeite e tempere com sal e pimenta a gosto. Misture bem com as mãos para envolver toda a mandioca ralada com o tempero.
-- [object Object]
 - --
 
 ---

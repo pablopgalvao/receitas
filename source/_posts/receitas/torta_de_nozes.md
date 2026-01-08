@@ -35,17 +35,14 @@ flags: []
 - Preaqueça o forno a 180 ºC (temperatura média). Unte duas assadeiras redondas de 30 cm com manteiga. Corte dois discos de papel-manteiga usando o fundo da fôrma como medida. Pressione com os dedos para colar o papel no fundo untado e unte novamente com manteiga sobre o papel. Polvilhe com farinha de trigo, chacoalhe para espalhar e bata sobre a pia para retirar o excesso.
 - Sobre uma tigela, peneire o açúcar – ele não pode estar com gruminhos ou empedrado na hora de bater com os ovos. Em outra tigela, misture as nozes moídas com a farinha de rosca e reserve. Como o bolo não leva fermento, é importante deixar todos os ingredientes no jeito antes de começar a bater.
 - Numa tigela pequena, quebre um ovo de cada vez, transferindo as claras para a tigela da batedeira e as gemas para outra tigela – se um estiver estragado, você não perde toda a receita.
-- [object Object]
 - Transfira o creme de ovos para uma tigela bem grande – tem que ser grande mesmo para você conseguir misturar toda a massa. Acrescente a mistura de nozes e farinha aos poucos, misturando delicadamente com a espátula, de baixo para cima.
 - ¾ de xícara (chá) de açúcar
 - 1 xícara (chá) de água
 - ¾ de xícara (chá) de leite de coco caseiro (200 ml)
 - Numa panela pequena coloque a água, o açúcar e misture delicadamente com a ponta do dedo até dissolver – assim o açúcar não espirra na lateral da panela e você evita de queimar a calda.
-- [object Object]
 - Sobre uma tigela, passe as gemas pela peneira, pressionando com as costas de uma colher. Descarte a película que ficou na peneira – é ela que pode deixar a baba de moça com um aroma forte de ovo.
 - 6 claras de ovo
 - 1½ xícara (chá) de açúcar
-- [object Object]
 - Com uma espátula de confeitar, espalhe primeiro uma camada fina de merengue sobre toda a superfície do bolo – assim a cobertura fica perfeita, sem nenhum pedacinho de bolo aparecendo. Cubra o bolo com o restante do merengue e decore com as costas da colher para ficar bem rústico, formando picos. Sirva a seguir ou leve para a geladeira até a hora de servir.
 - --
 

@@ -37,7 +37,6 @@ flags: []
 - farinha de trigo integral para polvilhar
 - Numa tigela grande, misture a farinha com o fermento e o sal. Acrescente toda a água de uma só vez e misture vigorosamente com uma espátula para incorporar e desmanchar os grumos de farinha.
 - Após o longo tempo de fermentação a massa cresce bastante, triplicando de volume; fica cheia de bolhas, mole e meio grudenta. Forre uma tigela rasa com um pano de prato limpo e polvilhe com bastante farinha de trigo integral – o pão vai descansar e manter o formato na tigela enquanto o forno pré-aquece.
-- [object Object]
 - Com cuidado, retire a panela de dentro do forno e polvilhe o fundo com farinha de trigo integral (ou, se preferir, unte a panela com azeite). Vire o pão de uma só vez para dentro da panela, tampe e leve ao forno para assar por 25 minutos.
 - --
 

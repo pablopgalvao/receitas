@@ -31,7 +31,6 @@ flags: []
 - ¼ de colher (chá) de azeite
 - 1 colher (chá) de mel
 - ¼ de colher (chá) de pimenta calabresa seca
-- [object Object]
 - --
 
 ---

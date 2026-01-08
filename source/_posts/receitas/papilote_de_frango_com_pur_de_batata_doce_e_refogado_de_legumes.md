@@ -39,7 +39,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Tempere o filé de frango com a páprica, o gengibre, sal e pimenta-do-reino a gosto. Esfregue bem o filé com as mãos para cobrir toda a superfície com os temperos.
-- [object Object]
 - Transfira o papilote para uma assadeira média. Ao lado do papilote, disponha os gomos de cebola, regue com 1 colher (chá) de azeite e tempere com sal. Leve ao forno para assar por 20 minutos – esse é o tempo certo para o frango cozinhar e ainda ficar úmido. Na metade do tempo, vire os gomos de cebola para dourar por igual. Enquanto isso, prepare o refogado de legumes.
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto

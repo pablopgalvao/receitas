@@ -48,7 +48,6 @@ flags: []
 - 3 colheres de sopa de requeijão cremoso
 - 200 gramas de requeijão em bisnaga (1/2 bisnaga)
 - 100 gramas de mussarela picada, ralada ou fatiada
-- [object Object]
 - Em outra panela, aqueça um fio de óleo ou azeite e refogue o alho e a cebola até dourarem levemente;
 - Adicione os tomates, azeitona e milho. Refogue por mais alguns minutos até murchar. Tempere com sal, pimenta-do-reino e páprica. Misture bem e deixe cozinhar mais um pouco;
 - Para a massa, misture a farinha, sal e a manteiga gelada com as pontas dos dedos até formar uma farofa úmida;

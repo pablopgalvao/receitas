@@ -35,7 +35,6 @@ flags: []
 - 1 colher (sopa) de manteiga gelada
 - pimenta-do-reino moída na hora a gosto
 - Tempere os bifes de copa lombo com 1 colher (chá) de sal e pimenta a gosto.
-- [object Object]
 - Adicione os rabanetes, tempere com uma pitada de sal e deixe dourar por cerca de 2 minutos, mexendo de vez em quando.
 - Volte a frigideira ao fogo médio. Quando ferver, adicione a manteiga e mexa a frigideira para derreter. Volte os bifes para cozinhar por cerca de 2 minutos, para aquecer e para que o molho encorpe levemente. Sirva a seguir.
 - --

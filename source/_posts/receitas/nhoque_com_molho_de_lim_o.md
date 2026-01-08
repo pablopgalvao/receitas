@@ -35,9 +35,7 @@ flags: []
 - Lave, descasque e corte as batatas em quatro pedaços. Transfira para uma panela média, cubra com água e leve ao fogo alto. Assim que ferver, junte 1 colher (sopa) de sal, abaixe o fogo e deixe cozinhar por 20 minutos, ou até que os pedaços fiquem macios — espete com um garfo para verificar o ponto. A batata não deve cozinhar em excesso a ponto de se desmanchar.
 - Deixe esfriar até chegar à temperatura ambiente antes de adicionar o restante dos ingredientes — se a batata estiver muito quente, vai absorver mais farinha, e fica difícil dar o ponto na massa de nhoque.
 - Transfira a batata amassada para a bancada limpa e polvilhada com um pouco de farinha e tempere com ½ colher (chá) de sal. Abra um buraco no centro da batata amassada, adicione a gema e amasse, dobrando a batata sobre ela mesma com a palma das mãos (se preferir, use uma espátula de padeiro para ajudar no processo).
-- [object Object]
 - Leve uma panela média com cerca de 2,5 litros de água ao fogo alto. Unte uma assadeira grande (ou refratário) com óleo.
-- [object Object]
 - Quando a água ferver, adicione 1 colher (sopa) de sal. Com uma escumadeira, mergulhe cerca de 15 nhoques na água por vez e deixe cozinhar até subirem à superfície. Retire os nhoques com a escumadeira, escorrendo bem a água, e transfira para a assadeira untada com óleo.
 - Reserve 1 xícara (chá) da água do cozimento dos nhoques para usar no molho.
 - 50 g de manteiga (cerca de 3 colheres de sopa)

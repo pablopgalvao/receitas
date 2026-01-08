@@ -35,7 +35,6 @@ flags: []
 - sal a gosto
 - ½ xícara (chá) de ricota fresca esfarelada (cerca de 80 g)
 - folhas de manjericão a gosto para servir
-- [object Object]
 - Retire a panela do fogo para juntar o molho de tomate – assim ele não espirra ao entrar em contato com a frigideira quente. Tempere com 1 colher (chá) de sal, misture bem e tampe. Deixe cozinhar por 5 minutos, para formar um molho encorpado. Enquanto isso, quebre 2 ovos em duas tigelas pequenas.
 - Com a espátula, abra quatro cavidades no molho – é nesse espaço que os ovos irão cozinhar. Com cuidado, transfira os dois ovos quebrados para as cavidades e repita com os outros. Com um garfo, misture delicadamente parte das claras com o molho, com cuidado para não estourar as gemas – dessa forma as claras cozinham por completo sem correr o risco de as gemas ficarem duras. Tampe e deixe cozinhar em fogo baixo por 4 minutos, ou até que as claras fiquem cozidas e as gemas permaneçam moles.
 - --

@@ -33,7 +33,6 @@ flags: []
 - ½ colher (sopa) de azeite
 - ½ colher (chá) de sal
 - ⅔ de xícara (chá) de feijão cozido (carioca)
-- [object Object]
 - Leve uma panela pequena ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola, o sal e refogue por cerca de 3 minutos, até dourar. Adicione o alho e as folhas de 1 ramo de alecrim e mexa por mais 1 minuto apenas para perfumar. Junte o feijão, misture e pressione com a espátula apenas para amassar os grãos. Se for usar sobra de feijão já temperado, nem precisa amassar os grãos para dar uma engrossada no molho, misture ao refogado de alecrim e junte a água logo em seguida.
 - Adicione a água, o macarrão e tempere com pimenta-do-reino moída na hora a gosto. Misture e, quando ferver, deixe cozinhar por 5 minutos.
 - --

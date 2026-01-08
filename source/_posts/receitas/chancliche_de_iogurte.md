@@ -32,7 +32,6 @@ flags: []
 - ½ xícara (chá) de leite
 - 1 colher (chá) de sal
 - azeite Andorinha a gosto para servir
-- [object Object]
 - Transfira a massa drenada para uma tigela e adicione 2 colheres (chá) do soro, uma de cada vez, para dar liga — a massa do queijo deve estar úmida, de maneira que seja possível modelar. Modele toda a massa de queijo formando uma bola, pressionando entre as mãos para ficar bem compacta. Dê uma leve achatadinha.
 - 2 colheres (chá) de orégano seco
 - 1 colher (chá) de gergelim branco torrado

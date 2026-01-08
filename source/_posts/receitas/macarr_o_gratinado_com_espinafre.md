@@ -38,7 +38,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Numa panela média, coloque a manteiga e leve ao fogo médio para derreter. Junte a farinha e mexa bem com a espátula por 1 minuto — essa misturinha, chamada roux, serve para engrossar o molho.
 - Coloque o leite de uma só vez e mexa bem com o batedor de arame para desmanchar os gruminhos de farinha. Continue mexendo, em fogo médio, até ferver.
-- [object Object]
 - 1¾ de xícara (chá) de macarrão caracolino (cerca de 200 g)
 - ½ xícara (chá) de farinha de rosca caseira grossa
 - 1 colher (sopa) de manteiga gelada

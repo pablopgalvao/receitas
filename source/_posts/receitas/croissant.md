@@ -50,7 +50,6 @@ flags: []
 - Boleie (fazer bolinha) cada parte e coloque todas em uma forma enfarinhada. Cubra com um pano e deixe descansar por 30 minutos ou até dobrar de tamanho;
 - Polvilhe farinha em cima do disco de massa. Abra outra bolinha, na mesma espessura, e coloque o segundo disco em cima do primeiro (que você já polvilhou farinha). Polvilhe farinha novamente. Repita o processo até acabar a massa;
 - Pegue um disco de massa da pilha que você acabou de formar e coloque sobre uma superfície enfarinhada. Passe manteiga, com a ajuda de um pincel ou colher, por toda a superfície do disco, formando uma camada generosa de recheio;
-- [object Object]
 - Transfira essa massa folhada para uma forma grande polvilhada com farinha. Cubra com um plástico, depois com um pano e leve para a geladeira por 20 minutos (isso ajudará a manteiga a ganhar consistência, facilitando o próximo passo);
 - Disponha a massa na bancada enfarinhada novamente. Com o rolo, abra-a no formato de disco fino, cerca de 1 cm de espessura;
 - Acomode os croissants em uma forma untada com óleo e enfarinhada. Cubra e deixe descansar de 30 minutos a 1 hora, até dobrarem de tamanho;

@@ -31,7 +31,6 @@ flags: []
 - ¼ de xícara (chá) de nozes
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - --
 
 ---

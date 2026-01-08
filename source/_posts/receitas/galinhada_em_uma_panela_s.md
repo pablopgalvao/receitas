@@ -38,7 +38,6 @@ flags: []
 - 1 colher (chá) de colorau
 - 2 colheres (sopa) de azeite
 - sal a gosto
-- [object Object]
 - Mantenha a panela em fogo médio, adicione a cebola e refogue por cerca de 2 minutos, até dourar (caso tenha formado muita gordura do frango, antes de refogar a cebola, retire um pouco com uma colher e descarte).
 - Quando a cebola dourar, junte o colorau, a páprica, o cominho e 1 colher (chá) de sal. Misture bem. Acrescente o alho e mexa por apenas 1 minuto. Junte a folha de louro, o tomilho e misture bem.
 - Junte ao refogado 3 xícaras (chá) de água e o caldo do limão. Misture com uma espátula, raspando bem o fundo da panela para dissolver os queimadinhos – eles dão sabor ao preparo. Aumente o fogo para alto.

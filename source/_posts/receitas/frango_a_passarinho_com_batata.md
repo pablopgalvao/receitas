@@ -42,7 +42,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - 2 colheres de sopa de farinha de trigo
 - Em uma panela, adicione as batatas e a água. Acrescente também 2 colheres de chá de sal e mexa levemente, até que ele se dissolva. Ligue o fogo alto e deixe ferver 5 minutos. Escorra as batatas e reserve-as;
-- [object Object]
 - Agregue a farinha de trigo e misture tudo com as mãos, incorporando os ingredientes
 - Unte uma forma com 1 fio de óleo e acrescente os frangos temperados, um ao lado do outro. Finalize com as batatas por cima e leve ao forno por 50 minutos, a 250 °C. Na metade do tempo, escorra o líquido em excesso na assadeira;
 - --

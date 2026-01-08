@@ -36,8 +36,6 @@ flags: []
 - ⅓ de xícara (chá) de azeitona preta grega
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
-- [object Object]
 - Transfira o tomate drenado para uma tigela. Escorra a água das cebolas e junte aos tomates. Misture o pepino fatiado, as azeitonas e por último os cubos de queijo. Tempere com bastante azeite e pimenta-do-reino moída na hora a gosto - lembre-se que o tomate já foi polvilhado com sal e o queijo feta também é salgado. Sirva a seguir.
 - --
 

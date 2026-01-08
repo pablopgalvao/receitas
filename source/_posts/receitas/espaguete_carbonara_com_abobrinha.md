@@ -33,10 +33,8 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado
 - pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com cerca de 3 litros de água ao fogo alto. Quando ferver, adicione 1½ colher (sopa) de sal, junte o macarrão e misture. Deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente, mexendo de vez em quando para os fios não grudarem um no outro.
-- [object Object]
 - Leve uma frigideira grande ao fogo médio para aquecer. Regue com o azeite, adicione a abobrinha, tempere com uma pitada de sal e deixe cozinhar por cerca de 5 minutos, até dourar — evite mexer demais a abobrinha, assim ela doura melhor. Desligue o fogo, regue com o vinho branco e misture bem.
 - Assim que o macarrão estiver cozido, reserve 1 xícara (chá) da água do cozimento.
-- [object Object]
 - --
 
 ---

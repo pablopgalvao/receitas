@@ -34,7 +34,6 @@ flags: []
 - 3 colheres (sopa) de açúcar mascavo
 - 1 colher (sopa) de óleo
 - ½ colher (chá) de pimenta calabresa seca
-- [object Object]
 - --
 
 ---

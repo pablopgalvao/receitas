@@ -36,7 +36,6 @@ flags: []
 - 16 ramos de salsinha
 - Lave, seque e corte o tomate ao meio. Descarte as sementes e corte as metades em cubos de 0,5 cm. Descasque e corte a cebola em cubos de 0,5 cm. Lave e seque a salsinha e a hortelã. Pique grosseiramente a salsinha; empilhe uma folha de hortelã sobre a outra, enrole formando um charutinho e fatie fino.
 - Numa tigela, coloque a carne moída, a cebola, o tomate, a salsinha e a hortelã. Tempere com o sal, a pimenta síria, a canela em pó e o azeite e misture bem com as mãos, amassando por cerca de 3 minutos — isso ajuda a liberar o colágeno da carne, assim ela cria uma liga e se fixa melhor ao pão.
-- [object Object]
 - --
 
 ---

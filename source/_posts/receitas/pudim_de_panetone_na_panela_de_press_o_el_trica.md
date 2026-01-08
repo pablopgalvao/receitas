@@ -35,11 +35,9 @@ flags: []
 - ½ colher (chá) de canela em pó
 - noz-moscada ralada na hora a gosto
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela maior. Mexa com o batedor de arame para misturar as claras com as gemas. Junte o leite condensado, o caldo de limão, o gengibre, a canela, a noz-moscada e misture bem.
-- [object Object]
 - ¾ de xícara (chá) de açúcar
 - ¼ de xícara (chá) de água fervente
 - Separe uma fôrma redonda, com furo no meio, de 18 cm de diâmetro. Leve uma chaleira com 3 xícaras (chá) de água ao fogo alto para ferver — ela vai ser usada para fazer a calda e o banho-maria.
-- [object Object]
 - --
 
 ---

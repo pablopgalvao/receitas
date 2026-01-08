@@ -39,7 +39,6 @@ flags: []
 - 1 xícara de chá de vinho branco
 - Queijo parmesão a gosto
 - Cheiro-verde a gosto
-- [object Object]
 - Corte o filé-mignon em cubos médios. Tempere com sal e pimenta. Misture bem. Deixe descansar por, pelo menos, 10 minutos, ou de um dia para o outro na geladeira;
 - Pique a cebola em cubinhos pequenos ou lâminas finas. Na mesma panela, em fogo baixo, derreta 1 colher de sopa de manteiga e refogue a cebola até dourar (cerca de um minuto);
 - O arroz chegou ao ponto al dente quando você morde e ele não está nem mole e nem duro. É possível ver um pontinho mínimo e branco no interior do grão. Se preciso, acerte o sal. Adicione o filé-mignon, misture e desligue o fogo;

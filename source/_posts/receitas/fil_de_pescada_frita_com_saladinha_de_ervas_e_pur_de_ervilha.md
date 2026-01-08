@@ -47,7 +47,6 @@ flags: []
 - Leve ao fogo médio uma frigideira com cerca de ¼ de xícara (chá) de óleo para aquecer - a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente apenas para cobrir o fundo.
 - Retire dois filés de peixe do tempero e deixe escorrer o excesso de caldo de limão. Passe pela farinha de trigo, empanando bem dos dois lados - pressione delicadamente com as mãos para a farinha grudar.
 - Assim que o óleo estiver quente, coloque delicadamente os filés de peixe empanados. Deixe por cerca de 3 minutos até ficar com a casquinha dourada. Com uma escumadeira, vire os filés para dourar o outro lado por igual. Enquanto isso, empane os filés de peixe restantes.
-- [object Object]
 - --
 
 ---

@@ -44,7 +44,6 @@ flags: []
 - Transfira para um saco de confeitar ou use uma colher, depois, recheie as fatias de pão com uma quantidade suficiente que não transborde ao fechar;
 - Em outra tigela, bata os ovos com a essência de baunilha na batedeira ou com fouet (batedor de arame) por cerca de 5 minutos, até formar uma espuma clara e aerada;
 - Passe as fatias umedecidas no ovo batido, escorrendo o excesso;
-- [object Object]
 - Misture açúcar com canela em um prato e passe as rabanadas ainda mornas para finalizar. Agora é só se deliciar!
 - --
 

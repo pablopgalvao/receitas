@@ -42,8 +42,7 @@ flags: []
 - 4 dentes de alho picados
 - 1 cebola picada
 - Sal e pimenta-do-reino a gosto
-- --
-- --
+
 
 ---
 

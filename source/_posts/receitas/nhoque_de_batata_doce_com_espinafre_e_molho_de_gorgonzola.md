@@ -38,7 +38,6 @@ flags: []
 - Quando a batata-doce amassada amornar o suficiente para manusear, tempere com 1 colher (sopa) de sal e acrescente ¼ de xícara (chá) da farinha de trigo — isso evita que, ao incluir as gemas, elas cozinhem com o calor das batatas. Misture bem com as mãos.
 - Junte as gemas e amasse bem. Aos poucos, adicione o restante da farinha, amassando bem com as mãos até dar ponto de enrolar. Para verificar o ponto, lave as mãos e modele uma bolinha; se não grudar na pele, está no ponto. A quantidade de farinha de trigo usada na receita pode variar, mas evite adicionar em excesso, pois a massa ainda vai absorver farinha na hora de modelar.
 - Leve uma panela grande com 3,5 litros de água ao fogo alto. Unte uma assadeira grande com óleo e reserve. Assim que a água ferver, adicione 1 colher (sopa) de sal.
-- [object Object]
 - Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e coloque quantos nhoques couberem, sem amontoar. Deixe dourar por cerca de 2 minutos de cada lado. Transfira para uma travessa e repita com o restante, regando a frigideira com azeite a cada leva. Sirva os nhoques com o espinafre e o molho de gorgonzola.
 - 100 g de manteiga temperatura ambiente
 - ½ xícara (chá) de queijo gorgonzola esfarelado (cerca de 50 g)
@@ -48,7 +47,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Destaque as folhas de espinafre e lave sob água corrente. Transfira para uma centrífuga de saladas e seque bem. Com a lateral da faca, amasse o dente de alho e descasque.
 - Numa tigela, misture bem com um garfo a manteiga com o queijo gorgonzola até ficar cremoso.
-- [object Object]
 - Mantenha a frigideira em fogo médio e coloque a água do cozimento do nhoque reservada. Quando ferver, desligue o fogo e junte a manteiga de gorgonzola, fazendo movimentos circulares com a frigideira para incorporar a manteiga derretida. Tempere com sal e pimenta a gosto.
 - --
 

@@ -33,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de água
 - 2 colheres (sopa) de caldo de limão
 - Cubra o fundo da panela de pressão com o açúcar e acomode os figos de pé (ou deitados), um ao lado do outro. Regue com a água e o caldo de limão. Adicione a rama de canela, tampe a panela e leve ao fogo alto. Quando a panela começar a apitar, abaixe o fogo e deixe cozinhar por 10 minutos.
-- [object Object]
 - --
 
 ---

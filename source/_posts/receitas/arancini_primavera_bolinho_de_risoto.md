@@ -33,10 +33,6 @@ flags: []
 - 2 ramos de salsinha
 - ½ xícara (chá) de farinha de rosca caseira
 - 2½ xícaras (chá) de óleo para fritar
-- [object Object]
-- [object Object]
-- [object Object]
-- [object Object]
 - --
 
 ---

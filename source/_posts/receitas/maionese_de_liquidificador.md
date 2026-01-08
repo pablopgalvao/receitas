@@ -34,7 +34,6 @@ flags: []
 - sal a gosto
 - Antes de começar o preparo, coloque o óleo na geladeira e deixe por pelo menos 15 minutos - o óleo gelado emulsiona melhor a maionese.
 - Numa tigela pequena quebre o ovo e transfira para o liquidificador. Junte as gemas, a mostarda, o vinagre e tempere com uma pitada de sal. Tampe e bata apenas para misturar.
-- [object Object]
 - --
 
 ---

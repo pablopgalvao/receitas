@@ -42,7 +42,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Coentro seco a gosto
 - Sal a gosto
-- [object Object]
 - Finalize com cheiro-verde a gosto e desligue o fogo. Sirva em seguida!
 - --
 

@@ -35,7 +35,6 @@ flags: []
 - ⅔ de xícara (chá) de iogurte natural (170 g)
 - manteiga para untar o papel
 - Corte um disco de papel-manteiga com 18 cm e unte com manteiga — ele será usado para assar a pavlova na Air Fryer. Reserve.
-- [object Object]
 - Após acrescentar todo o açúcar, bata por mais 2 minutos até formar um merengue bem firme, liso e brilhante — para verificar o ponto, com uma colher retire uma porção do merengue e sinta com as pontas dos dedos se não há mais grãozinhos de açúcar. Adicione o amido de milho e bata apenas para incorporar.
 - Com uma colher grande, de servir arroz, disponha o merengue no centro do disco de papel, formando um montinho. Com a ponta de uma colher de sopa, modele a pavlova, fazendo uma cavidade no centro, como se fosse uma cumbuca, para colocar o recheio depois que a pavlova for assada — não se preocupe em modelar perfeitamente, quanto mais rústica estiver, mais bonita a pavlova fica depois de assada; ela deve ficar com cerca de 12 cm diâmetro e 3 cm de altura
 - Retire a pavlova do cesto e descole o papel-manteiga do fundo, com cuidado para não quebrar. Transfira para um prato e reserve até a hora de servir (se preferir, asse a pavlova no dia anterior).

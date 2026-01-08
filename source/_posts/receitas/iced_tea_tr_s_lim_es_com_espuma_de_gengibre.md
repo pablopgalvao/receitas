@@ -41,7 +41,6 @@ flags: []
 - 1 colher de chá de açúcar
 - 2 colheres de chá de gengibre ralado
 - 1 colher de sopa de raspas de limão
-- [object Object]
 - --
 
 ---

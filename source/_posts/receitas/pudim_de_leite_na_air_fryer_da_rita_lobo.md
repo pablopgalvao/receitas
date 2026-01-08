@@ -34,7 +34,6 @@ flags: []
 - ¾ de xícara (chá) de açúcar
 - ⅓ de xícara (chá) de água fervente
 - Separe uma fôrma redonda, com furo no meio, de 18 cm de diâmetro (capacidade de 1,5 litro). Leve uma chaleira com 1 xícara (chá) de água ao fogo alto para ferver — ela vai ser usada para fazer a calda.
-- [object Object]
 - --
 
 ---

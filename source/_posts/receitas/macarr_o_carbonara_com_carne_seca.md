@@ -35,10 +35,7 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma panela com 2,5 litros de água ao fogo alto. Quando ferver, adicione 1 colher (sopa) de sal, junte o macarrão e misture. Deixe cozinhar pelo tempo indicado na embalagem, ou até que fique al dente, mexendo de vez em quando.
-- [object Object]
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, coloque a manteiga e espere derreter; em seguida, acrescente a carne-seca e mexa de vez em quando, por cerca de 3 minutos, até dourar. Abaixe o fogo, regue com o vinho branco, misture bem e desligue o fogo.
-- [object Object]
-- [object Object]
 - --
 
 ---

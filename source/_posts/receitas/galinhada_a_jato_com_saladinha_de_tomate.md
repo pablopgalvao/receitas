@@ -43,7 +43,6 @@ flags: []
 - Leve uma panela média ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite e coloque ⅓ dos cubos de frango — se colocar todos os pedaços ao mesmo tempo, eles vão cozinhar no próprio vapor em vez de dourar. Deixe dourar por cerca de 2 minutos e vire com uma pinça para dourar por igual. Transfira para uma tigela e repita o processo com o restante do frango, regando a frigideira com um fio de azeite a cada leva.
 - Mantenha a panela em fogo médio e regue com 1 colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 4 minutos, até começar a dourar. Junte o alho, o cominho, a cúrcuma, a páprica e 1 colher (chá) de sal. Mexa bem por 1 minuto para perfumar.
 - Adicione o arroz e mexa bem por 1 minuto. Regue com 2 xícaras (chá) da água fervente, 2 colheres (sopa) do caldo de limão, junte o louro e misture com uma espátula, raspando bem o fundo da panela para dissolver os queimadinhos — isso vai dar sabor ao preparo.
-- [object Object]
 - Na hora de servir, solte a galinhada com um garfo, misturando a ervilha. Sirva a seguir com a saladinha de tomate.
 - --
 

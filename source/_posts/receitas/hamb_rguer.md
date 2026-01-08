@@ -32,7 +32,6 @@ flags: []
 - 2 colheres (sopa) de água
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Espalhe azeite na superfície dos hambúrgueres e tempere com sal e pimenta a gosto.
 - --
 

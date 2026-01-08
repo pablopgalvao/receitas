@@ -29,7 +29,6 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícaras (chá) de mamão formosa maduro em pedaços
-- [object Object]
 - --
 
 ---

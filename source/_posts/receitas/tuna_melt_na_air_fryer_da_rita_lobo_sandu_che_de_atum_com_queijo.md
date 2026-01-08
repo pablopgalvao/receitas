@@ -37,7 +37,6 @@ flags: []
 - Abra a lata de atum e escorra a água por uma peneira — aperte com as costas de uma colher para tirar o excesso de líquido.
 - Lave, seque e fatie fino a parte verde da cebolinha. Lave, seque e pique grosseiramente o endro. Corte o pepino em cubos de 0,5cm — no total, você vai precisar de 1 colher (sopa).
 - Numa tigela média, coloque o atum, a mostarda, a cebola-roxa escorrida, os cubos de pepino em conserva, a maionese e misture bem. Adicione as ervas picadas e tempere com pimenta a gosto.
-- [object Object]
 - --
 
 ---

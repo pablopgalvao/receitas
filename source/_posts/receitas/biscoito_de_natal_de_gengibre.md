@@ -52,7 +52,6 @@ flags: []
 - Coloque a massa entre duas folhas de papel manteiga e abra até atingir cerca de 0,3 cm de espessura. Leve à geladeira por cerca de 3 horas ou até firmar bem;
 - Com a massa firme, retire da geladeira, corte os biscoitos com um cortador no formato desejado e disponha em uma assadeira forrada com papel manteiga;
 - Junte as aparas da massa, abra novamente com o auxílio de farinha para não grudar, e repita o processo;
-- [object Object]
 - --
 
 ---

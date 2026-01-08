@@ -54,8 +54,7 @@ flags: []
 - 1 1/2 xícara de chá de caldo de carne (usar o da maminha)
 - 1 xícara de chá de champignon fatiado
 - Legumes, purê de batata e arroz branco para acompanhar
-- --
-- --
+
 
 ---
 

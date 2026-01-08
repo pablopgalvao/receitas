@@ -33,7 +33,6 @@ flags: []
 - 1 lata de grão-de-bico cozido (1 ½ xícara (chá) de grãos)
 - ¼ de xícara (chá) de salsinha picada
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, regue com um fio de azeite e coloque os tomates com o lado cortado para baixo. Tempere com sal e deixe dourar por cerca de 2 minutos. Mexa a frigideira rapidamente para soltar os tomates e transfira para um prato.
 - Após 12 minutos, passe o ovo sob água corrente para esfriar. Role delicadamente o ovo sobre a tábua para a casca rachar e descasque sob água corrente. Corte o ovo ao meio, no sentido do comprimento e cada metade em cubos de 0,5 cm.
 - Numa tigela, junte o ovo picado, ¼ de xícara (chá) de azeite e ¼ de xícara (chá) de salsinha picada. Tempere com sal e pimenta a gosto e misture delicadamente.

@@ -42,7 +42,6 @@ flags: []
 - 1 xícara (chá) de água
 - sal e pimenta-do-reino moída na hora a gosto
 - Separe uma tigela pequena (que comporte cerca de 240 ml) e um pires que possam ir ao micro-ondas –– é importante que a tigela não seja muito grande para que o ovo fique imerso na água e a clara envolva a gema durante o cozimento.
-- [object Object]
 - Sobre outra tigela, coe o ovo numa escumadeira e transfira para um prato. Tempere com uma pitada de sal e de pimenta. Repita o processo com o outro ovo. Sirva a seguir com o cuscuz.
 - --
 

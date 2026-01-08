@@ -37,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - óleo para dourar os bolinhos
 - Leve ao fogo baixo uma frigideira média (de preferência antiaderente). Regue com 1 colher (sopa) de azeite e junte a cebola. Tempere com uma pitada de sal e deixe cozinhar por cerca de 15 minutos, mexendo de vez em quando, até dourar.
-- [object Object]
 - Aumente o fogo para médio, regue com mais um fio de azeite e acrescente a cenoura. Refogue por cerca de 2 minutos e junte a salsinha e a cebolinha. Desligue o fogo, junte ao arroz e misture bem.
 - Acrescente o queijo ralado, prove e tempere com sal e pimenta-do-reino. Adicione os ovos e, por último, misture bem o amido de milho.
 - Passe um papel toalha para limpar a frigideira e leve ao fogo médio. Quando aquecer, regue com óleo para cobrir todo o fundo. Adicione duas colheradas da mistura de arroz e achate levemente com as costas da colher (no formato de um hambúrguer) - faça de 1 a 2 bolinhos por vez, deixando espaço entre cada um para não grudar.

@@ -41,7 +41,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Para iniciar, higienize e deixe picado a salsinha e a cebolinha. Descasque o dentes de alho e passe no ralador, reserve. Reúna todos os ingredientes na bancada;
 - Em uma travessa, tábua de cozinha ou prato de sua preferência, disponha os filés de tilápia. Salpique sal, pimenta-do-reino e suco de limão sobre os peixes, virando-os do outro lado para espalhar por todas as partes. Reserve por 5 minutos;
-- [object Object]
 - Adicione sal, alho fresco ralado e salsinha picada. Com o auxílio de um garfo, misture até ficar homogêneo. Posicione os recipientes com trigo, ovos e farinha de rosca um do lado do outro, para facilitar o processo;
 - Para empanar, comece colocando um filé de tilápia no recipiente com farinha de trigo. Espalhe dando apertadinhas para grudar bem. Com as mãos, dê leves batidinhas para retirar o excesso e transfira para o recipiente com os ovos batidos;
 - Com o auxílio de um garfo, vire o filé para espalhar a mistura de ovos dos dois lados. Deixe escorrer o excesso e transfira para o recipiente com a farinha de rosca;

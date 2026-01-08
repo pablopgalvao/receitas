@@ -42,7 +42,6 @@ flags: []
 - 1 colher de sopa de salsinha picadinha
 - 1 colher de sopa de cebolinha picadinha
 - Óleo para fritar
-- [object Object]
 - Em uma panela média, coloque uma quantidade de óleo suficiente para os bolinhos ficarem submersos. Esquente o óleo entre 160 ºC e 170 ºC. Coloque um pedaço da massa na panela, quando ele começar a borbulhar, a temperatura está boa para fritar;
 - --
 

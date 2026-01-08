@@ -47,7 +47,6 @@ flags: []
 - 4 colheres de sopa de manteiga
 - 1/2 colher de chá de sal
 - 3 colheres de sopa ou mais de água gelada para dar o ponto
-- [object Object]
 - Incorpore o requeijão cremoso, ajuste o sal e finalize com cheiro-verde. Cozinhe até obter um recheio espesso e cremoso. Reserve para esfriar completamente;
 - Para a massa, misture em uma tigela a farinha, a margarina, a banha, o sal e a gema. Trabalhe com as pontas dos dedos, apertando a massa até formar uma bola uniforme. Não sove;
 - Recheie cada empada com cerca de uma colher de sopa do recheio frio. Para fechar, abra a tampinha entre plásticos com um rolo e cubra a empada. Pressione as laterais para colar, retire o excesso de massa com uma faquinha ou com as pontas dos dedos;

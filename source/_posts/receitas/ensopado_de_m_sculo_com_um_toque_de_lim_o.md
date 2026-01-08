@@ -38,7 +38,6 @@ flags: []
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue a panela com 1 colher (sopa) de azeite e acrescente a carne em etapas – se colocar tudo de uma só vez, a carne vai cozinhar no vapor em vez de dourar. Tempere a carne com sal e deixe dourar bem por cerca de 5 minutos, mexendo de vez em quando. Transfira para uma travessa e repita com o restante da carne, regando a panela com azeite e temperando com sal a cada leva.
 - Mantenha a panela em fogo médio, regue com 1/2 colher (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o tomate, o alho, o tomilho e refogue por mais 3 minutos – raspe bem o fundo da panela com a espátula para dissolver os queimadinhos da carne no refogado.
 - Volte a carne dourada para a panela e misture bem. Regue com 2 xícaras (chá) da água quente e misture bem. Adicione o caldo de limão e tempere com 1 colher (chá) de sal. Tampe a panela e aumente o fogo. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 30 minutos.
-- [object Object]
 - Adicione uma concha do caldo do ensopado à frigideira e misture com o batedor de arame para dissolver os gruminhos de farinha. Junte essa mistura ao ensopado e volte a panela (sem a tampa) ao fogo alto. Deixe cozinhar por mais 5 minutos, mexendo de vez quando, até o molho encorpar. Finalize com as raspas de limão e sirva a seguir.
 - --
 

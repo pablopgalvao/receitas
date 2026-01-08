@@ -41,7 +41,6 @@ flags: []
 - Descasque e pique fino os dentes de alho. Lave, seque e pique fino a salsinha.
 - Numa tigela grande, coloque o frango e tempere com a páprica, o sal e a pimenta. Junte o alho, a salsinha e misture bem para envolver todos os pedaços. Deixe descansar por 15 minutos em temperatura ambiente — assim o frango perde o gelo e absorve os sabores da marinada.
 - Regue o azeite no frango e misture. Polvilhe a farinha e misture bem para envolver todos os pedaços — o azeite e a farinha deixam o frango mais crocante e evitam que a carne fique ressecada.
-- [object Object]
 - Transfira o frango à passarinho para uma travessa e polvilhe salsinha picada. Sirva acompanhado de gomos de limão.
 - --
 

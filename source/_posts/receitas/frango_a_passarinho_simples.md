@@ -44,7 +44,6 @@ flags: []
 - Em uma tigela grande, coloque os pedaços de frango. Tempere com o alho, orégano, Sazon sabor frango, vinagre e sal;
 - Enquanto isso, quebre os ovos em um prato fundo. Bata com o auxílio de um garfo, até que estejam bem homogêneos;
 - Acrescente o leite e mexa bem novamente, para que tudo fique bem incorporado. Tempere com sal, orégano e Sazon novamente;
-- [object Object]
 - Passe o frango na mistura de ovos, envolva bem com a farinha de trigo e, por fim, empane na farinha de rosca. Repita esse processo duas vezes e com todos os pedaços;
 - Em uma panela média, aqueça óleo o suficiente para cobrir parcialmente os frangos. É importante que o óleo não esteja nem muito frio nem muito quente, para não ficar cru por dentro;
 - --

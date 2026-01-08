@@ -44,7 +44,6 @@ flags: []
 - 1 xícara de chá de leite (240 ml)
 - 100 gramas de coco ralado
 - Para o doce de abacaxi, coloque em uma panela o abacaxi picado, o açúcar e a água;
-- [object Object]
 - --
 
 ---

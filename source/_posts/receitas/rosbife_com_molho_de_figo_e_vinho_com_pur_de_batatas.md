@@ -51,7 +51,6 @@ flags: []
 - 50 g de manteiga bem gelada
 - Descasque e corte as batatas em pedaços médios. Transfira para uma panela cubra com água e tempere com 1 colher (chá) de sal.
 - Volte a panela ao fogo médio e acrescente o leite, aos poucos, mexendo com um batedor de arame para incorporar. Desligue o fogo, tempere com sal e noz-moscada a gosto. Misture bem 2 colheres (sopa) de manteiga.
-- [object Object]
 - --
 
 ---

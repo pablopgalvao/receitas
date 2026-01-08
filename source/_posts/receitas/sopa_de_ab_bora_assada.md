@@ -40,11 +40,8 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Com uma colher, retire as sementes da abóbora. Descasque e corte a abóbora em cubos médios de cerca de 3 cm — não se preocupe em fazer cubos perfeitos, mas os pedaços precisam ter um tamanho uniforme para assar por igual.
 - Descasque e corte a cenoura em rodelas grossas de 2 cm. Corte as cebolas ao meio e cada metade em 3 gomos, passando a faca pela raiz, e descasque — assim as camadas permanecem unidas ao assar. Lave, seque e corte o talo de salsão em pedaços de 2 cm. Com a lateral da lâmina da faca, amasse os dentes de alho e mantenha a casca.
-- [object Object]
 - Leve ao forno para assar por cerca de 30 minutos, ou até que os legumes estejam macios e levemente dourados — não precisa virar na metade do tempo, a ideia é que os legumes fiquem macios mas com uma parte dourada, para dar sabor à sopa. Enquanto isso, leve uma chaleira com um pouco mais de 5 xícaras (chá) de água ao fogo médio para aquecer.
-- [object Object]
 - Transfira a sopa batida para uma tigela (ou sopeira) e repita o processo com a outra metade dos legumes. Adicione o conhaque à sopa quente e tempere com a canela e noz-moscada. Prove e ajuste o sal.
-- [object Object]
 - --
 
 ---

@@ -42,7 +42,6 @@ flags: []
 - Farinha de rosca para empanar
 - 340 gramas de molho de tomate
 - 300 gramas de queijo mussarela ralado
-- [object Object]
 - Mergulhe o filé de frango no ovo, erga-o e chacoalhe levemente para escorrer um pouco do líquido. Em seguida, passe o filé na farinha de trigo, erga-o e dê uma leve batidinha para retirar o excesso. Retorne o filé ao ovo, retire o excesso novamente. Por fim, passe-o na farinha de rosca;
 - Ao passar na farinha de rosca, ao invés de retirar o excesso de farinha, aperte o filé levemente com os dedos para criar aderência, que deixará uma casquinha crocante. Repita o processo com todos os filés;
 - Em uma frigideira com borda alta, despeje óleo para esquentar (quantidade suficiente para cobrir um filé). Coloque um palito de fósforo no óleo ainda frio, assim que ele acender, já pode adicionar o filé. Frite até ficar douradinho, cerca de 1 minuto de cada lado. Frite todos os filés;

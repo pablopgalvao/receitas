@@ -35,7 +35,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - folhas de salsinha a gosto para servir
-- [object Object]
 - No processador, coloque os pimentões, as nozes, o alho, a farinha de rosca, o molho de romã, o caldo de limão, o cominho e o azeite. Tempere com sal e pimenta-do-reino e bata até formar uma pasta (se preferir, utilize o liquidificador). Transfira para uma tigela e deixe esfriar antes de servir. Finalize com folhas de salsinha e azeite.
 - --
 

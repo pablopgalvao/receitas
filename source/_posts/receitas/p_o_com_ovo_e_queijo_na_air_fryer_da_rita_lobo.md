@@ -31,7 +31,6 @@ flags: []
 - Ovo cozido na Air Fryer da Rita Lobo
 - sal e pimenta-do-reino moída na hora a gosto
 - Coloque os pães no cesto da Air Fryer com a parte do miolo para cima. Numa tigelinha, quebre um ovo de cada vez e, com cuidado, transfira para a cavidade do pão delicadamente para a gema não furar e o ovo não escorrer — caso um pouquinho de clara escorra, não tem problema.
-- [object Object]
 - --
 
 ---

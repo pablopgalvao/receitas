@@ -34,7 +34,6 @@ flags: []
 - 1 xícara (chá) de açúcar
 - ⅓ de xícara (chá) de água fervente
 - Preaqueça o forno a 160 ºC (temperatura baixa). Separe uma fôrma redonda, com furo no meio, de 18 cm de diâmetro. Leve uma chaleira com 3 xícaras (chá) de água ao fogo médio — ela vai ser usada para fazer a calda e assar o pudim em banho-maria.
-- [object Object]
 - ¼ de xícara (chá) de gergelim branco torrado
 - ¼ de xícara (chá) de açúcar
 - 1 pitada de sal

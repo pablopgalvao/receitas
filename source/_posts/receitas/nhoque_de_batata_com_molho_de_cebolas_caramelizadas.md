@@ -47,7 +47,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - lascas de queijo parmesão a gosto
-- [object Object]
 - Assim que as cebolas estiverem douradas, abaixe o fogo e junte o restante da manteiga. Tempere com sal e pimenta a gosto e deixe cozinhar até derreter completamente, mexendo de vez em quando. Desligue o fogo e acrescente ½ xícara (chá) da água do cozimento dos nhoques. Faça movimentos circulares com a frigideira para misturar e formar um molho liso – não mexa com a espátula, a gordura da manteiga pode se separar do molho.
 - --
 

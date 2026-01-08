@@ -35,7 +35,6 @@ flags: []
 - Preaqueça o forno a 200 ºC (temperatura média). Unte duas assadeiras retangulares grandes com 3 colheres (sopa) de azeite em cada uma.
 - Corte os filés de peixe ao meio no sentido do comprimento e cada metade em pedaços de 6 cm x 4 cm. Transfira para uma tigela e tempere com o caldo de limão, sal e pimenta.
 - Num prato fundo, quebre os ovos e bata com um garfo para misturar as claras com as gemas. Em outros dois pratos coloque a farinha de trigo e de mandioca, e tempere cada uma com uma pitada de sal.
-- [object Object]
 - 1 colher (sopa) de caldo de limão
 - 1 colher (sopa) de mostarda
 - 200 ml de óleo
@@ -49,7 +48,6 @@ flags: []
 - minirrúcula a gosto
 - No copo do mixer coloque as gemas, a mostarda, o caldo de limão e o óleo. Pressione o mixer (desligado) contra o fundo do copo e só então ligue. Bata por 10 segundos sem mexer.
 - Quando a maionese começar a se formar, levante o mixer delicadamente para uma das laterais, sem parar de bater, e repita para o outro lado. Repita o movimento até a maionese ficar firme – não mexa muito rápido nem faça movimentos de cima para baixo. Transfira para uma tigela, misture o endro picado, as raspas de limão, prove e ajuste o sal.
-- [object Object]
 - --
 
 ---

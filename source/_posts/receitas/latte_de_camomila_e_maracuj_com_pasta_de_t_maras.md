@@ -37,7 +37,6 @@ flags: []
 - 1/2 xícara de tâmaras sem caroço
 - 1/2 xícara de água morna (para hidratar as tâmaras)
 - 1 pitada de canela (opcional)
-- [object Object]
 - Escorra as tâmaras, reservando um pouco da água. Bata no processador ou liquidificador com cerca de 4 colheres da água morna até formar uma pasta cremosa e uniforme;
 - Em uma panela pequena, aqueça o leite vegetal com 1 colher (sopa) da pasta de tâmaras caseira. Mexa até incorporar bem;
 - Sirva em uma caneca e finalize com raspas de laranja e uma pitada de canela, se desejar.

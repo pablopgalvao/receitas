@@ -34,7 +34,6 @@ flags: []
 - sal a gosto
 - pimenta rosa a gosto
 - Leve ao fogo alto uma panela grande com cerca de 4 litros de água para ferver. Assim que ferver, adicione 2 colheres (sopa) de sal, acrescente o macarrão e deixe cozinhar conforme as instruções da embalagem.
-- [object Object]
 - Assim que estiver cozido, reserve 1 xícara (chá) de água do cozimento e passe o macarrão pelo escorredor. Reserve.
 - Numa frigideira grande, coloque o creme de leite fresco e leve ao fogo médio - o creme de leite deve aquecer junto com a panela para não correr o risco de queimar. Quando começar a ferver, junte as tiras de salmão, tempere com sal a gosto e deixe cozinhar por cerca de 3 minutos.
 - Desligue o fogo, junte as raspas de limão, o endro e o macarrão cozido. Misture e junte a água do cozimento reservada para deixar o molho mais fluido. Sirva a seguir com folhas de endro e pimenta rosa a gosto.

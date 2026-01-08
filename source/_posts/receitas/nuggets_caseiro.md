@@ -45,8 +45,6 @@ flags: []
 - 1 xícara de chá de farinha de rosca (100 gramas)
 - Óleo para fritar
 - Antes de iniciar o preparo, descasque e rale os dentes de alho. Lave e pique a salsinha. Corte os peitos de frango em cubinhos e o limão-siciliano ao meio. Organize os demais ingredientes na bancada;
-- [object Object]
-- [object Object]
 - Comece passando o nugget modelado na farinha de trigo. Dê leves batidinhas para retirar o excesso e, em seguida, mergulhe no ovo batido rapidamente;
 - Passe pela farinha de rosca e, novamente, dê leves batidas para remover o excesso e não formar uma casquinha muito grossa. Faça isso com todos os nuggets;
 - Para fritar, adicione o óleo em uma panela e, assim que aquecer, adicione alguns nuggets com cuidado, para não espirrar. Deixe fritando por 6 minutos, até ficar douradinho. Depois, transfira para um prato forrado com papel-toalha, para absorver o excesso de gordura;

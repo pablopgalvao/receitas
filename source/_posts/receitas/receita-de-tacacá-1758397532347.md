@@ -48,8 +48,7 @@ flags: []
 - 500 g de camarão salgado seco
 - 4 folhas de chicória picadas
 - 2 maços de jambu
-- --
-- --
+
 
 ---
 

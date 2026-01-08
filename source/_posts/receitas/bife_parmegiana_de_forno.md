@@ -46,7 +46,6 @@ flags: []
 - Em uma frigideira de borda alta, no fogo médio, coloque o óleo para aquecer. Enquanto isso, tempere os bifes com sal e pimenta-do-reino. É possível deixar os bifes temperados posar na geladeira para absorverem bem os temperos;
 - Para empanar um bife, passe ambos os lados na farinha de trigo, chacolhe-o levemente para retirar o excesso;
 - Em seguida, empane o bife no ovo batido. Escorra o excesso;
-- [object Object]
 - Coloque um grão de farinha de rosca no óleo, se ele borbulhar imediatamente, está quente. Coloque um bife e frite por cerca de 40 segundos. Após esse tempo, utilize um pegador de metal para virar e fritar o outro lado por mais 40 segundos;
 - --
 

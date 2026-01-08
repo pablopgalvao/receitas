@@ -47,7 +47,6 @@ flags: []
 - Para empanar, quebre os ovos em um recipiente, um por um, e transfira para um prato fundo - se algum ovo estiver estragado, você não perde o preparo todo. Tempere os ovos com sal e páprica. Com um garfo, bata apenas para misturar as gemas com as claras;
 - Em um recipiente, coloque a farinha de trigo, tempere com sal e páprica e misture para incorporar. Em outro prato, disponha a farinha de rosca. Para facilitar o processo, alinhe os 3 recipientes do empanamento;
 - Tire o frango da geladeira meia hora antes de começar a empanar - isso facilita o cozimento. Em uma panela alta, coloque o óleo para esquentar - quantidade suficiente para fritar as coxinhas por imersão;
-- [object Object]
 - Quando o óleo estiver quente, cerca de 170 ºC, comece a fritar em fogo médio-alto. Coloque poucas coxinhas por vez para o óleo não perder tanto calor e frite por imersão até o frango dourar, cerca de 7 a 10 minutos;
 - --
 

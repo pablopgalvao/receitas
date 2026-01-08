@@ -39,7 +39,6 @@ flags: []
 - Sobre uma panela pequena, peneire as gemas – reserve 3 claras em uma tigela para preparar o merengue da cobertura. Junte o açúcar às gemas na panela e misture bem com um batedor de arames para dissolver. Junte o caldo de limão e o extrato de baunilha.
 - Com o creme ainda quente, acrescente os cubos de manteiga gelada aos poucos, mexendo vigorosamente com o batedor de arame a cada adição para incorporar – o creme de limão fica mais espesso e brilhante. Cubra com filme, em contato com o creme, e leve para firmar na geladeira por pelo menos 20 minutos antes de montar a torta (se preferir, prepare o creme no dia anterior).
 - Separe uma fôrma redonda com fundo removível de 24 cm de diâmetro, dois sacos plásticos para alimento e papel-manteiga.
-- [object Object]
 - Fure todo o fundo da massa com um garfo (ou palito). Corte um círculo de papel-manteiga um pouco maior que a fôrma, coloque sobre a massa e preencha com o feijão cru – os grãos servem de peso e evitam que a massa infle e quebre ao assar. Leve ao forno e deixe assar por 20 minutos até as laterais começarem a dourar.
 - 3 claras de ovo
 - 1 xícara (chá) de açúcar

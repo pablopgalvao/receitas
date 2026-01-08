@@ -36,8 +36,6 @@ flags: []
 - 1 colher (chá) de sal
 - noz-moscada ralada na hora a gosto
 - Retire a abóbora do forno e passe os pedaços também pelo espremedor. Tempere com o sal, pimenta e noz-moscada e misture bem com uma espátula. Deixe o purê amornar antes de preparar a massa do nhoque – se estiver muito quente, vai absorver mais farinha e o nhoque vai ficar pesado.
-- [object Object]
-- [object Object]
 - Leve uma panela grande com cerca de 3 litros de água ao fogo alto. Unte uma assadeira grande (ou refratário) com óleo. Assim que a água ferver, adicione 1 ½ colher (sopa) de sal.
 - Com uma escumadeira, mergulhe cerca de 20 nhoques por vez na água fervente e deixe cozinhar até subirem à superfície. Com a escumadeira, retire os nhoques cozidos, deixando escorrer bem a água, e transfira para a assadeira untada com óleo. Repita com todos os nhoques.
 - 2 xícaras (chá) de creme de leite fresco
@@ -46,7 +44,6 @@ flags: []
 - azeite a gosto
 - pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com o caldo de laranja ao fogo médio. Assim que começar a ferver, tempere com ½ colher (chá) de sal e pimenta a gosto. Adicione o creme de leite, misture delicadamente com uma espátula e mantenha a panela em fogo médio.
-- [object Object]
 - Enquanto o molho cozinha, aproveite para dourar os nhoques. Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, regue com 1 colher (chá) de azeite e coloque quantos nhoques couberem, sem amontoar. Deixe dourar por cerca de 2 minutos e mexa a frigideira para dourar a superfície dos nhoques por igual.
 - --
 

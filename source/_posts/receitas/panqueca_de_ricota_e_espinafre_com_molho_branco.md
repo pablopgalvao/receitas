@@ -46,7 +46,6 @@ flags: []
 - 1 pitada de noz-moscada
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa panela grande, derreta a manteiga. Junte a farinha e mexa vigorosamente com a colher de pau, por cerca de 2 minutos. Essa misturinha é chamada de roux e serve para engrossar molhos em geral.
-- [object Object]
 - ¼ de xícara (chá) de nozes picadas
 - ¼ de xícara (chá) de queijo parmesão ralado
 - salsinha em folhas ou picada a gosto

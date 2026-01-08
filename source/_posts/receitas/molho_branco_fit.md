@@ -44,8 +44,7 @@ flags: []
 - 1 colher de café de sal (ou a gosto)
 - 1/2 colher de café de noz-moscada (ou a gosto)
 - 1/2 colher de café de pimenta branca (ou a gosto)
-- --
-- --
+
 
 ---
 

@@ -39,7 +39,6 @@ flags: []
 - folhas de ervas frescas a gosto para servir
 - Numa tigela grande, coloque o cuscuz marroquino, junte 2 colheres (sopa) de azeite e tempere com 1 colher (chá) de sal. Regue com a água fervente, misture e tampe com um prato para abafar. Deixe hidratar por 5 minutos. Enquanto isso, prepare o restante dos ingredientes.
 - Leve uma frigideira grande com o óleo ao fogo médio — a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente para cobrir bem o fundo. Forre uma travessa com papel-toalha.
-- [object Object]
 - Leve uma frigideira antiaderente grande ao fogo médio. Regue com 2 colheres (chá) de azeite, adicione os cubos de queijo e deixe dourar por cerca de 5 minutos. Nos primeiros minutos, deixe o queijo dourar sem mexer, assim ele não derrete. Depois, mexa para dourar todos os lados por igual.
 - --
 

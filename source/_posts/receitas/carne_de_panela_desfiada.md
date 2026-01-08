@@ -35,7 +35,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave e seque a cenoura e o salsão. Descasque e pique fino as cebolas e os dentes de alho. Corte o talo de salsão em cubinhos. Descasque e passe a cenoura pela parte grossa do ralador. Leve uma chaleira com um pouco mais de 1 xícara (chá) de água ao fogo alto.
-- [object Object]
 - Transfira os pedaços de carne dourados para uma travessa e repita com o restante, regando a panela com 1 colher (sopa) de azeite a cada leva e temperando a carne com sal e pimenta. Transfira a última leva de carne para a travessa e reserve.
 - Mantenha a panela em fogo médio, regue com 1 colher (sopa) de azeite e acrescente a cebola. Tempere com uma pitada de sal e refogue por 3 minutos, até murchar – raspe bem o fundo da panela com a espátula para ir dissolvendo os queimadinhos da carne, eles dão sabor ao preparo. Junte o salsão, a cenoura e o alho e refogue por 3 minutos até murchar.
 - Adicione o tomate pelado (com o líquido) e misture bem. Regue com o vinho e mexa raspando o fundo da panela. Junte as folhas de louro, tempere com 1 colher (chá) de sal e pimenta a gosto. Volte a carne à panela. Regue com 1 xícara (chá) da água fervente – o líquido total da panela deve cobrir ⅔ do volume da carne, do contrário o molho pode ficar aguado. Tampe e deixe cozinhar em fogo alto. Assim que a válvula da panela começar a apitar, abaixe o fogo e deixe cozinhar por mais 30 minutos.

@@ -32,7 +32,6 @@ flags: []
 - 3 colheres (sopa) de queijo azul esfarelado (gorgonzola ou roquefort)
 - 1 pitada de sal
 - 1 colher (chá) de molho inglês
-- [object Object]
 - Retire as folhas da tigela, em vez de escorrer a água - assim as sujeirinhas ficam no fundo da tigela. Enxague, transfira as folhas para uma centrífuga de saladas e seque bem. Rasgue grosseiramente as folhas com as mãos e coloque numa saladeira, disponha as peras, regue com o molho e sirva a seguir.
 - --
 

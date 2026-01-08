@@ -58,8 +58,7 @@ flags: []
 - 1 cebola normal grande
 - 5 g de louro em pó ou 5 folhas secas
 - Sal e pimenta a gosto
-- --
-- --
+
 
 ---
 

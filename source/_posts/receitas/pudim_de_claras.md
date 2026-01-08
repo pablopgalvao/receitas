@@ -33,10 +33,8 @@ flags: []
 - Numa tigela, dissolva a água com o açúcar. Transfira para uma fôrma de pudim grande (com furo no meio) de cerca de 24 cm de diâmetro.
 - 2 xícaras (chá) de açúcar
 - 1 pitada de sal
-- [object Object]
 - Bata as claras na velocidade baixa da batedeira com 1 pitada de sal. Quando começarem a espumar, aumente a velocidade e continue batendo até ficarem em ponto de neve firme, formando picos durinhos - cerca de 10 a 15 minutos.
 - Nesse ponto, acrescente o açúcar aos poucos, sem desligar a batedeira. Bata por mais 10 minutos, até formar um merengue firme.
-- [object Object]
 - --
 
 ---

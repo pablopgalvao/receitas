@@ -46,11 +46,9 @@ flags: []
 - farinha de trigo para polvilhar a bancada
 - Numa tigela, misture o açúcar com a canela e reserve. Unte com manteiga uma assadeira redonda pequena, de cerca de 20 cm de diâmetro (se preferir, utilize uma frigideirinha de ferro que possa ir ao forno).
 - Polvilhe farinha sobre a bancada e abra a massa de pizza, formando um retângulo de cerca de 40 cm x 20 cm. Com as costas de uma colher, espalhe a manteiga sobre toda a superfície da massa - deixe cerca de 1 cm da borda de uma das laterais do retângulo livre para fechar o rolinho. Polvilhe a mistura de açúcar e canela sobre a manteiga.
-- [object Object]
 - 1 xícara (chá) de açúcar de confeiteiro
 - 2 colheres (sopa) de leite
 - ½ colher (sopa) de manteiga
-- [object Object]
 - --
 
 ---

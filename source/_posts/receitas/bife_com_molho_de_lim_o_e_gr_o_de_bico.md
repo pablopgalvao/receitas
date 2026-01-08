@@ -41,7 +41,6 @@ flags: []
 - 1 colher (sopa) de manteiga gelada
 - sal e pimenta-do-reino moída na hora a gosto
 - Coloque a manteiga no congelador. Lave, seque e reserve o agrião. Tempere o bife com sal.
-- [object Object]
 - --
 
 ---

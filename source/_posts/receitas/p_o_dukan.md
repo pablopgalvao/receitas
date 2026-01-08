@@ -40,7 +40,6 @@ flags: []
 - 1 colher de sopa e 1 colher de chá de chimichurri (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- [object Object]
 - Em um recipiente pequeno, quebre os ovos, um de cada vez, e, caso esteja bom, transfira para o liquidificador - se algum ovo estiver estragado, você não perde a receita inteira. Adicione o iogurte natural desnatado e bata por cerca de 1 minuto;
 - Acrescente o leite em pó desnatado, o farelo de aveia, o farelo de trigo e tempere com chimichurri e sal. Bata até obter uma mistura homogênea. Por fim, coloque o fermento e, com uma colher, misture para incorporar (você também pode misturar pela função pulsar do liquidificador);
 - Despeje a massa na forma untada e salpique por cima mais um pouco do chimichurri, tanto para decorar quanto para dar mais sabor. Leve para assar no forno preaquecido por cerca de 30 minutos, ou até dourar;

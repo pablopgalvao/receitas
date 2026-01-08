@@ -31,7 +31,6 @@ flags: []
 - Salada de repolho com maçã no espeto
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- [object Object]
 - --
 
 ---

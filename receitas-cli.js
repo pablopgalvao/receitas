@@ -116,6 +116,39 @@ function linesFromNumbered(sectionText) {
 }
 
 /* =========================
+   Normalização de tempo
+   ========================= */
+function normalizeTime(raw) {
+  if (!raw) return "";
+
+  let t = String(raw).toLowerCase().trim();
+
+  // normaliza separadores
+  t = t.replace(/,/g, ".").replace(/\s+/g, " ");
+
+  // minutos
+  t = t.replace(/\bminutos?\b|\bmins?\b|\bmin\b/g, "min");
+
+  // horas
+  t = t.replace(/\bhoras?\b|\bh\b/g, "hora");
+
+  // "1 minuto(s)" -> "1 min"
+  t = t.replace(/(\d+)\s*(minuto\(s\)|minutos?)/g, "$1 min");
+
+  // "2 hora" -> "2 horas"
+  t = t.replace(/(\d+)\s*hora\b/g, "$1 hora");
+  t = t.replace(/(\d+)\s*horas\b/g, "$1 horas");
+
+  // espaço obrigatório: "18min" -> "18 min"
+  t = t.replace(/(\d)(min|hora|horas)/g, "$1 $2");
+
+  // remove duplicações
+  t = t.replace(/\s{2,}/g, " ").trim();
+
+  return t;
+}
+
+/* =========================
    Heurística leve (NÃO agressiva) para identificar “lixo”
    - Serve para sugerir, não para apagar automaticamente no autofix.
    ========================= */
@@ -363,7 +396,7 @@ function buildAutofixContent(parsed, raw) {
     ingredients: { list: canonicalList.map((x) => String(x).toLowerCase()) },
     difficulty: (data.difficulty || "").toString(),
     servings: (data.servings || "").toString(),
-    time: (data.time || "").toString(),
+    time: normalizeTime(data.time || ""),
     calories: (data.calories ?? "").toString(),
     author: (data.author || "Boil").toString(),
     flags: Array.from(flags),

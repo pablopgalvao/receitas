@@ -7,7 +7,7 @@ menu:
   # Postagens: /archives
   Sobre o APP: /Sobre-o-App/
   # Testar o APP: /Testadores
-  Adicionar minha receita: /Adicionar-minha-receita
+  Adicionar minha receita: /redirect
 # RSS link
 rss: /atom.xml
 # Path of title banner image of page top

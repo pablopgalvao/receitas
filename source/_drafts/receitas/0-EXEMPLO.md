@@ -6,7 +6,8 @@ categories:
 tags:
   - Popular Brasil
 ingredients:
-  list: []
+  list:
+    - receita
 difficulty: fácil
 servings: 10 porções
 time: 120 min

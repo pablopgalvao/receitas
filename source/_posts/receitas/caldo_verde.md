@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 batatas (aproximadamente 600 gramas)
 - 1 linguiça portuguesa (aproximadamente 200 gramas)
 - Sal e pimenta-do-reino a gosto

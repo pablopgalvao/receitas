@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 500 ml de chantilly bem gelado
 - 120 gramas de leite condensado
 - 5 colheres de sopa de leite em pó (50 gramas)

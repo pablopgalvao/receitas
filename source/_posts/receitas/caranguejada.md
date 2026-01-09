@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 tomates médios (450 gramas)
 - 3 cebolas médias (480 gramas)
 - 3 pimentões verdes médios (500 gramas)

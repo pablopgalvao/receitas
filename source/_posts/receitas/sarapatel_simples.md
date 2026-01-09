@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 kg de sarapatel (miúdos de boi, porco ou carneiro)
 - 4 colheres de chá de páprica defumada
 - 1 colher de chá de pimenta-do-reino

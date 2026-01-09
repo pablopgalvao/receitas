@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
 - 1/2 pacotinho de fermento biológico para pão (5 gramas)
 - 1 colher de café de sal

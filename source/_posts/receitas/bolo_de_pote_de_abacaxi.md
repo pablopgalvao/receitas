@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de açúcar (200 gramas)
 - 1 e 1/2 xícara de farinha de trigo peneirada (180 gramas)
 - 3/4 de xícara de chá de água (180 ml)

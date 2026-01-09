@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 tablete de manteiga sem sal (200 gramas)
 - 4 gemas de ovo
 - 1 e 1/4 de xícara de chá de açúcar (250 gramas)

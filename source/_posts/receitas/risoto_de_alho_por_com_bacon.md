@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de chá de arroz arbóreo (200 gramas)
 - 100 gramas de bacon
 - ½ xícara de chá de vinho branco seco (125 ml)

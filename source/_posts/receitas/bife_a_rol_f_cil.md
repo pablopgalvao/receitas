@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 8 bifes de coxão mole (cerca de 1,2 kg)
 - 6 gomos de linguiça toscana (cerca de 600 gramas)
 - 2 talos de salsões

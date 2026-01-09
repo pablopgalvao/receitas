@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 8 fatias de pão branco (250 gramas)
 - 4 colheres de sopa de manteiga (60 gramas)
 - 4 colheres de sopa de azeite de oliva (60 ml)

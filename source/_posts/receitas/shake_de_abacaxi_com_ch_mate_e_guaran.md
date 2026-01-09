@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 150 ml de água
 - 1 fatia grossa de abacaxi maduro (cerca de 100 gramas)
 - 100 ml de leite de coco ou bebida vegetal (pode ser leite comum, se preferir)

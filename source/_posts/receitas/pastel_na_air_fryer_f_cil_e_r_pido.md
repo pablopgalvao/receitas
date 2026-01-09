@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 200 gramas de massa de pastel pronta (100 gramas para cada pastel)
 - Óleo ou azeite a gosto para pincelar
 - Feche o pastel, utilizando um garfo para selar bem todas as bordas. Retire o plástico que envolve a massa e pincele óleo ou azeite nos dois lados do pastel;

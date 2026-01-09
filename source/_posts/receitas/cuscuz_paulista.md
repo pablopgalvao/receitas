@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1/2 xícara de chá de azeite
 - 1/4 xícara de chá (mais o suficiente para decorar) de azeitona verde sem caroço picada
 - 1 lata de ervilhas em conserva (170 gramas)

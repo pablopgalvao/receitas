@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 lata de milho escorrido (cerca de 170 gramas)
 - 200 ml de leite (3/4 xícara de chá)
 - 200 gramas de fubá (1 e 1/4 xícara de chá)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá de goma de tapioca (280 gramas)
 - 1 xícara de chá de queijo mussarela ralado (120 gramas)
 - 1/3 de xícara de chá de queijo parmesão ralado (40 gramas)

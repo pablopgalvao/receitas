@@ -515,12 +515,12 @@ async function reviewCanonicalForFile(parsed, raw) {
   const targets = pickTargets().slice(0, LIMIT);
 
   const stats = {
-    total: 0,
-    ok: 0,
-    needsReview: 0,
-    invalid: 0,
-    missingIngredients: 0,
-    missingSteps: 0,
+    total: 0, // arquivos processados
+    ok: 0, // arquivos sem problemas
+    needsReview: 0, // arquivos que precisam de revisão
+    invalid: 0, // arquivos marcados como inválidos
+    missingIngredients: 0, // arquivos com ingredientes incompletos
+    missingSteps: 0, // arquivos sem modo de preparo
   };
 
   for (const filePath of targets) {

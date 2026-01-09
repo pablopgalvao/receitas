@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 e 1/4 de xícara de chá de leite morno
 - 1/4 de xícara de chá de azeite (ou óleo)
 - 1/4 de xícara de chá de açúcar

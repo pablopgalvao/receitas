@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 caixinha de leite condensado (395 gramas)
 - 2 caixinhas de creme de leite (200 gramas cada)
 - 1 pacotinho de suco Tang de maracujá (25 gramas)

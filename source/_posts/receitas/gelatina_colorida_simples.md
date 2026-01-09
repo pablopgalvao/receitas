@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Em recipiente, coloque um saquinho de gelatina com 100 ml de água quente. Misture bem para dissolver tudo. Adicione a água gelada e continue mexendo. Não siga as orientações de preparo da embalagem, pois, se seguir, a gelatina não chegará ao ponto de corte. Para esta receita, a gelatina tem que ficar bem firme;
 - Prepare a gelatina de abacaxi reservada com 50 ml de água quente e 50 ml de água fria, apenas para hidratá-la e ela endurecer o creme de leite condensado com creme de leite;
 - --

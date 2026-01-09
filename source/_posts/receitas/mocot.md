@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 500 gramas de mocotó (pata de boi)
 - 1 colher de sopa de azeite
 - 200 gramas de feijão-branco cozido (de molho por 12 horas e cozido por cerca de 7 minutos na pressão)

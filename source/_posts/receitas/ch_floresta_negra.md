@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 200 ml de água
 - 1 colher de sopa de geleia ou polpa de cereja (sem açúcar, se possível)
 - 1 colher de chá de cacau em pó 100%

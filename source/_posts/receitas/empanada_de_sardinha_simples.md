@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3/4 xícara de chá de óleo (180 ml)
 - 1 e 1/4 xícara de leite (300 ml)
 - 4 xícaras de farinha de trigo (560 gramas)

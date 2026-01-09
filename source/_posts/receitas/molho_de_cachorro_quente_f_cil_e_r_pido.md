@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 kg de salsicha (2 pacotes ou 20 salsichas)
 - 2 sachês de molho de tomate (480 gramas)
 - 1 fio de óleo (pode ser substituído por azeite)

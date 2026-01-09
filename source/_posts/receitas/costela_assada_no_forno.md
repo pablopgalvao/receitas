@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 a 4 kg de costela (janela) (para esta receita, foi utilizada uma peça de 2.774 kg)
 - Sal grosso/sal de parrilla a gosto
 - Pimenta-do-reino e outros temperos de sua preferência a gosto

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 500 gramas de feijão preto
 - 1 litro de água para cozimento + 1 xícara para engrossar (240 ml)
 - 3 colheres de sopa de óleo (45 ml)

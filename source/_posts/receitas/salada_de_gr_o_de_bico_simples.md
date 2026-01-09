@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 e 1/2 xícara de chá de grão-de-bico cozido ou em conserva (240 gramas)
 - 1/2 xícara de chá de tomate picado (80 gramas)
 - 1/2 pimentão vermelho higienizado (70 gramas)

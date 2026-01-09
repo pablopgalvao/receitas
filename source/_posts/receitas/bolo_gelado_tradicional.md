@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 copo de iogurte natural sem açúcar (170 gramas)
 - 1 copo de óleo (200 ml)
 - 1 e 1/4 de xícara de chá de açúcar (260 gramas)

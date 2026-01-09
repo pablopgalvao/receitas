@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá + 2 colheres de sopa de farinha de trigo sem fermento (300 gramas)
 - 220 ml de água morna
 - 1 colher de chá de sal (5 gramas)

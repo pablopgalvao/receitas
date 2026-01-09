@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 800 gramas de costela bovina cortada em pedaços médios
 - 2 colheres de sopa de azeite
 - 2 colheres de sopa de alho picado (4 dentes médios)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2/3 de xícara de chá de água (150ml)
 - 2/3 de xícara de chá de leite (150ml)
 - 1 colher de sopa de açúcar (15 gramas)

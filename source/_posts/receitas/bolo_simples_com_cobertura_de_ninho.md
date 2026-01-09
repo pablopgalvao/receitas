@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 5 colheres de sopa de leite Ninho em pó

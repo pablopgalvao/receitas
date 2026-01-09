@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1/2 xícara de chá de óleo (120 ml)
 - 1 xícara de chá de milho de pipoca
 - 1 xícara de chá de açúcar cristal (200 gramas)

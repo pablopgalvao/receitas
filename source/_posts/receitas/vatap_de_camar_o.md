@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 400 gramas de camarão seco (limpo e dessalgado - reserve as cabeças)
 - 600 ml de leite
 - Caldo das cabeças dos camarões (batidas em 600 ml de água e peneiradas)

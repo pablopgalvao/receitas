@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 xícaras de chá de farinha de trigo (360 gramas)
 - 1/2 colher de chá rasa de sal (5 gramas)
 - 3/4 de xícara de chá de manteiga ou margarina (180 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá de açúcar cristal (400 gramas)
 - 4 xícaras de chá de leite (960 ml)
 - 1 e 1/2 xícara de chá de fubá mimoso (240 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 colheres de sopa de adoçante (20 gramas)
 - 1 colher de chá de óleo de coco sem sabor
 - 4 colher de sopa de farinha de aveia (55 gramas)

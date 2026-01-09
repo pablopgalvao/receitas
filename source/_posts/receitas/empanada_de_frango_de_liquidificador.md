@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 + 2/3 de xícara de chá de óleo (400 ml)
 - 2 + 3/4 de xícara de chá de leite (600 ml)
 - 1 colher de chá de sal

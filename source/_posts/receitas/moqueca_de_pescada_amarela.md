@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 6 postas grandes de pescada amarela (2,4 kg)
 - Suco de 2 limões (60 ml)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)

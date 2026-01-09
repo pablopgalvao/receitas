@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 colheres de sopa de manteiga (45 gramas)
 - 3/4 de xícara de chá de vinho branco seco (200 ml)
 - 1 colher de sobremesa de amido de milho

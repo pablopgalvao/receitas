@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 + 1/3 de xícara de chá de água (800 ml)
 - 4 envelopes de gelatina sabor morango (80 gramas)
 - 2 caixas de creme de leite (400 gramas)

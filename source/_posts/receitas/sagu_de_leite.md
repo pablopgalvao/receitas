@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de chá de sagu (100 gramas)
 - 2 xícaras de chá de água (para hidratar o sagu) (480 ml)
 - 1 lata de leite condensado (395 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de chá de água (240 ml)
 - 2 colheres de sopa de farinha de trigo (18 gramas)
 - 5 xícaras de chá de farinha de trigo (700 gramas)

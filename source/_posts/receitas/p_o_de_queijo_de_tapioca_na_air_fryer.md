@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá de tapioca (goma hidratada) (300 gramas)
 - 2 colheres de sopa (bem cheias) de requeijão cremoso (100 gramas)
 - 1/2 colher de chá de sal

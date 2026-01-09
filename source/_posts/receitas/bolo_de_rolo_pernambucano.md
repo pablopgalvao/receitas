@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 230 gramas de manteiga
 - 1 e 1/4 de xícara de açúcar (230 gramas)
 - 1 e 1/4 de xícara de farinha de trigo (230 gramas)

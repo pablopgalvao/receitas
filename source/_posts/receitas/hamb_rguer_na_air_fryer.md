@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 200 gramas de carne moída de primeira (fraldinha ou picanha)
 - 200 gramas de carne moída de segunda (peito ou acém)
 - 2 colheres de sopa de bacon defumado moído (opcional) (30 gramas)

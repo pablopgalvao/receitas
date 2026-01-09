@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 e 3/4 de xícaras de chá de farinha de trigo (370 gramas)
 - 1/3 de colher de sopa de fermento em pó (5 gramas)
 - 1/3 de colher de chá de bicarbonato de sódio (5 gramas)

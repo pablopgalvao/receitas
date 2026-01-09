@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de chá de castanha-de-caju sem sal
 - 3/4 de xícara de chá de água
 - Em um liquidificador, coloque as castanhas e a água. Bata até obter um creme com textura homogênea. Se preciso, desligue o liquidificador mexa com uma colher e volte a bater;

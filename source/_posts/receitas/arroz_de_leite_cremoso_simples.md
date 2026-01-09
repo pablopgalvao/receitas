@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 colher de chá de manteiga de garrafa (5 gramas)
 - 2 xícaras de chá de arroz branco (360 gramas)
 - 3 xícaras de chá de água (720 ml)

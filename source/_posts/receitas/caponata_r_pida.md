@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 4 colheres de sopa de molho de tomate pronto (80 gramas)
 - 1 colher de café de orégano
 - 1 colher de café de tempero desidratado (salsinha, pimenta-do-reino)

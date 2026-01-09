@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 colher de sopa de azeite de oliva (13 ml)
 - 400 gramas de frango cozido e desfiado
 - 6 xícaras de chá de caldo do cozimento do frango (1,5 litro)

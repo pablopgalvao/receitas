@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 10 fatias de pão de forma (240 gramas)
 - Separe as fatias de pão que você utilizará. É importante optar pelo pão de forma com a massa branca, para que a farinha fique com a cor característica. Preaqueça o forno a 180 ºC;
 - Transfira os pães cortados para um liquidificador ou processador. Triture por cerca de 30 segundos ou até obter uma farinha grossa com os farelos;

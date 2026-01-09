@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 potes de iogurte natural sem açúcar (340 gramas)
 - 1 xícara de chá de frango desfiado e temperado (200 gramas)
 - 1 talo de salsão (sem as folhas)

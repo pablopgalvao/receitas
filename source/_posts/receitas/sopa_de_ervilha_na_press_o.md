@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 500 gramas de ervilha
 - 100 gramas de bacon
 - Na panela de pressão, frite o bacon (não é necessário óleo, ele mesmo libera). Quando pegar uma corzinha, acrescente as linguiças e vá misturando para que tudo fique dourado;

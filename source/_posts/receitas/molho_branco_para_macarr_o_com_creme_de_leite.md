@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 colheres de sopa de manteiga (40 gramas)
 - 1/2 colher de sopa de banha de porco ou azeite
 - 1 e 1/2 caixinha de creme de leite (300 gramas)

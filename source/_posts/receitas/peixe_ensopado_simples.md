@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 kg (ou 6 filés) de peixe de sua preferência (testamos com tilápia)
 - 1 colher de sobremesa de sal
 - 1 colher de chá de pimenta-do-reino

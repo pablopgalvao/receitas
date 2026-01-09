@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1,4 kg de coxa e sobrecoxa de frango
 - 1 colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de mostarda (50 gramas)

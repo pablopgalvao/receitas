@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 600 gramas de costela limpa
 - 1 colher de chá de sal (ou a gosto)
 - 1/8 de colher de chá de pimenta do reino moída na hora (ou a gosto)

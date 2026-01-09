@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1/2 colher de sopa de sal grosso
 - 50 gramas de nozes chilenas (ou outra castanha de sua preferência)
 - 1 xícara de chá de folhas de manjericão

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 unidades de lombo de bacalhau já dessalgado (600 gramas)
 - 15 unidades de ovos de codorna cozidos (ou a gosto)
 - 140 gramas de tomate-cereja (ou a gosto)

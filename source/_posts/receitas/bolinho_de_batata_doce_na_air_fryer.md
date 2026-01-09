@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Sal e pimenta-do-reino a gosto
 - Azeite a gosto
 - Tempere com o sal, a pimenta (outros temperinhos que preferir) e misture bem até incorporar;

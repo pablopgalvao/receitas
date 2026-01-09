@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Regue apenas o alho com um fio de azeite, temperando todo o restante com sal e pimenta-do-reino. Asse na air fryer em 180 ºC por cerca de 20 a 25 minutos;

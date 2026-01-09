@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 6 xícaras de chá de feijão-branco (500 gramas)
 - 1/3 de xícara de chá de azeite (80 ml)
 - Suco de 1/2 limão-siciliano (50 ml)

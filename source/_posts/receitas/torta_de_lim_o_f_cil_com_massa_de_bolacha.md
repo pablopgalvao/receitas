@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 270 gramas de biscoito maisena, maria ou ao leite
 - 3/4 xícara de chá de manteiga sem sal (150 gramas)
 - 1/2 colher de chá rasa (bem apertada) de raspas de limão

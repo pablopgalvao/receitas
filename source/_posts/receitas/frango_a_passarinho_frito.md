@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 kg de coxa e sobrecoxa de frango cortadas em pedaços pequenos
 - 1 colher de sopa rasa de sal
 - 1 colher de chá de tempero baiano

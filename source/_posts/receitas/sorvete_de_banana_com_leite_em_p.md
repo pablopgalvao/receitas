@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 caixas de creme de leite (400 gramas)
 - 1 caixa de leite condensado (395 gramas)
 - 6 colheres de sopa de leite em pó (120 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 4 xícara de chá de farinha de trigo (560 gramas)
 - 1 e 1/4 xícara de chá de leite integral (300 ml)
 - 6 colheres de sopa de manteiga sem sal (84 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 4 xícaras de chá de leite integral (1 L)
 - 5 colheres de sopa de amido de milho (40 gramas)
 - 2 caixas de creme de leite (400 gramas)

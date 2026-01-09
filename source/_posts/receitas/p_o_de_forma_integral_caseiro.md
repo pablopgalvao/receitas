@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 4 xícaras de chá de farinha de trigo integral (600 gramas)
 - 1 e 1/2 colher de sopa de fermento biológico seco (15 gramas)
 - 2 colheres de sopa de açúcar mascavo (30 gramas)

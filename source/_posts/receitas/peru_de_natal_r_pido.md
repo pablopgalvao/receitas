@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 peru inteiro (o nosso tinha 3,8 kg)
 - 1/2 xícara de chá de manteiga sem sal em temperatura ambiente (100 gramas)
 - 1 colher de sopa de manteiga sem sal gelada (20 gramas)

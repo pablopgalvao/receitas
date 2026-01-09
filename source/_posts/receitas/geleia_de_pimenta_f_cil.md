@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1/3 de xícara de chá de água (80 ml)
 - 1 xícara de chá de açúcar (220 gramas)
 - Transfira a pasta para uma panela e adicione o açúcar. Leve ao fogo baixo, mexendo até o açúcar se dissolver por completo;

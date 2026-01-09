@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Salsinha a gosto
 - Mussarela a gosto
 - Organize sua bancada com o necessário! Lave o tomate e pique-o em cubos, ainda com sementes. Lave e corte a salsinha finamente;

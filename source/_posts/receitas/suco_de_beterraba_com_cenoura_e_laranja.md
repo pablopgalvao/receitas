@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 e 1/3 xícara de chá de água (500 ml)
 - 2 colheres de sopa de açúcar
 - Adoce com açúcar, mel ou o adoçante de sua escolha e mexa bem para dissolver completamente. Se preferir um suco mais leve, coe utilizando uma peneira fina. Caso queira consumir com mais fibras, sirva sem coar;

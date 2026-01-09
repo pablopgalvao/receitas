@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá de leite em pó (200 gramas)
 - 1 e 1/2 xícaras de chá de Ovomaltine (150 gramas)
 - 3 colheres de sopa de café solúvel (20 gramas)

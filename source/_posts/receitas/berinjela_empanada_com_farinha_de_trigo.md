@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 colher de sopa de sal
 - 100 gramas de farinha de trigo para empanar
 - Em um bowl grande, misture a água com o sal, mexendo bem até dissolver. Coloque as fatias de berinjela nessa salmoura e deixe de molho por 30 minutos;

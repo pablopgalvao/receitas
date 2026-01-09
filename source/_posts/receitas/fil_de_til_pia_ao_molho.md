@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Cheiro-verde a gosto
 - 3 e 1/2 colheres de café rasas de sal (ou a gosto)
 - 1 colher de café rasa de pimenta-do-reino (ou a gosto)

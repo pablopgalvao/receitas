@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 colheres de sopa de manteiga (ou margarina) em temperatura ambiente
 - 2 xícaras de chá de açúcar (400 gramas)
 - 2 e 1/2 xícaras de chá de farinha de trigo (350 gramas)

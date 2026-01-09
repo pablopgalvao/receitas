@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 kg de pinhão
 - 1 colher de sopa (rasa) de sal
 - Descarte a água e enxágue brevemente mais uma vez. Coloque os pinhões na panela de pressão e coloque 1 litro e meio de água com o sal. Tampe a panela, leve-a ao fogo baixo. Após pegar pressão, reduza para o fogo médio e deixe cozinhar por cerca de 25 minutos;

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de banha de porco (ou azeite/óleo vegetal)
 - 1 e 1/2 colher de sopa de açúcar cristal

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de chá de coco seco ralado
 - 2 xícaras de chá de água morna ou quente (480 ml)
 - Coloque o coco ralado (integral, sem açúcar, não desengordurado) e a água morna no liquidificador;

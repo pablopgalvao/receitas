@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 colheres de sopa rasas de café solúvel granulado (12 gramas)
 - 1 xícara de chá de leite em pó integral e instantâneo (100 gramas)
 - 3 colheres de chá rasas de chocolate em pó 50% cacau (6 gramas)

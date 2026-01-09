@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3/4 de xícara de chá de leite morno (200 ml)
 - 1 colher de sopa de fermento biológico seco (10 gramas)
 - 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - Azeite a gosto
 - Sal e pimenta-do-reino a gosto
 - Em uma tigela, coloque os tomates em cubos, as folhas de manjericão, um generoso fio de azeite, o sal e a pimenta. Misture delicadamente;

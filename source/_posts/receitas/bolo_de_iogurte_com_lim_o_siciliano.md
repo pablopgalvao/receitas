@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 170 gramas de Iogurte natural (1 pote)
 - 80 ml de óleo (1/3 de xícara)
 - 225 gramas de açúcar (1 xícara e 1/4)

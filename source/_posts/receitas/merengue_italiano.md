@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 e 2/3 de xícara de chá de açúcar (320 gramas)
 - 1/2 xícara de chá de água (120ml)
 - Enquanto isso, em uma panela pequena, adicione o açúcar e a água, misture para dissolver todo o açúcar;

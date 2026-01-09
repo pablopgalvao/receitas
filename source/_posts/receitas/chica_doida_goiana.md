@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 xícaras de chá de milho-verde em conserva (510 gramas)
 - 4 xícaras de chá de leite integral (1 litro)
 - 1 colher de sopa de amido de milho (10 gramas)

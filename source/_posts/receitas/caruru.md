@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 600 gramas de quiabo (cerca de 60 unidades)
 - 1/4 de xícara de chá de camarão seco (descascado e sem olhos)
 - 1 e 1/4 de xícara de chá de castanha-de-caju (secas, sem torrar, sem salgar)

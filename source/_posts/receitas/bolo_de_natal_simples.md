@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 xícara de chá de aveia em flocos ou farelo (110 gramas)
 - 1 xícara de chá de nozes (100 gramas)
 - 1/2 xícara de chá de frutas secas (cranberry, uva-passa, damasco)

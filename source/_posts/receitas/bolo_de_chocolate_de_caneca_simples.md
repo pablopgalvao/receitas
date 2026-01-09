@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 colheres de sopa de leite (45 ml)
 - 1 colher de sopa rasa de manteiga (15 gramas)
 - 2 colheres de sopa rasas de açúcar (25 gramas)

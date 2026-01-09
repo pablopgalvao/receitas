@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 800 gramas de bife (de coxão mole ou coxão duro) em fatias finas
 - 200 gramas de bacon cortados em filetes
 - Sal e pimenta-do-reino a gosto

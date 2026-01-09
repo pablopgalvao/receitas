@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 ou mais bifes de contrafilé ou alcatra (500 gramas)
 - 2/3 de xícara de chá de molho de tomate (160 ml)
 - 150 gramas de mussarela ralada (6 fatias)

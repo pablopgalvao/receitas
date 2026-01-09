@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 6 batatas médias com casca (800 gramas)
 - 100 gramas de queijo tipo emmental (pode ser gouda, minas meia‑cura, canastra, parmesão ou outro)
 - 3/4 de tablete de manteiga (150 gramas)

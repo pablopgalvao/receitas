@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 150 ml de água filtrada ou mineral
 - 1 pacote de gelatina incolor e sem sabor (12 gramas)
 - 1 pacote de gelatina sabor morango (25 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 caixa de leite condensado (395 gramas)
 - 2 colheres de sopa de amido de milho (30 gramas)
 - 1 e 3/4 de xícara de chá de leite integral (400 ml)

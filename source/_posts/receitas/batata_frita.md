@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 litro e 1/2 de óleo para fritar
 - Sal e pimenta-do-reino a gosto
 - Com ajuda de um pano de prato e papel-toalha, seque bem todas as batatas. Retire o máximo de resquícios de água que conseguir, pois isso ajuda na crocância e evita que o óleo espirre durante a fritura;

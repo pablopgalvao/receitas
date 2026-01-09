@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 barra (90 gramas) de chocolate meio amargo
 - 4 colheres de sopa de manteiga
 - 2 colheres de sopa (bem cheias) de farinha de trigo

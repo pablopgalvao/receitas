@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 500 gramas de carne moída (usamos patinho)
 - 1/2 colher de chá de pimenta-síria
 - 2 colheres de sopa de cheiro-verde picado (usamos cebolinha e hortelã)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 3 colheres de sopa de queijo mussarela light ralado na hora (30 gramas)
 - 1 colher de sopa cheia de requeijão light ou ricota light (30 gramas)
 - 5 colheres de sopa de tapioca (50 gramas)

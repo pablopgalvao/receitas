@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 700 gramas carne de frango moída (usamos coxa e sobrecoxa)
 - 1 xícara de chá cheia de farinha de rosca (150 gramas)
 - 1 colher de chá de alho em pó

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1/2 envelope de fermento biológico seco (5 gramas)
 - 1/4 de xícara de chá de açúcar (50 gramas)
 - 3 colheres (sopa) de manteiga (60 gramas)

@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 2 xícaras de chá de aveia em flocos finos
 - 1 xícara de chá de polvilho doce (ou araruta)
 - 1 colher de sopa de açúcar mascavo (ou outro açúcar, exceto adoçante)

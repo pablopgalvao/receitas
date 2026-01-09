@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 300 gramas de abobrinha ralada
 - 2 colheres de sopa de cebola picada (30 gramas)
 - 1/4 de xícara de chá de queijo mussarela ralado (50 gramas)

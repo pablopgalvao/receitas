@@ -28,10 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- lanches e salgados
-- mais arroz e risotos lanches e salgados entradas e petiscos peixes e frutos do mar bebidas molhos e patês saladas e acompanhamentos sopas e caldos especiais
-- lanches e salgados
-- saladas e acompanhamentos
+
 - 1 e 3/4 xícara de chá de leite integral (500 ml)
 - 1 caixa de leite condensado (395 gramas)
 - 1 colher de chá de essência de baunilha (25 ml)

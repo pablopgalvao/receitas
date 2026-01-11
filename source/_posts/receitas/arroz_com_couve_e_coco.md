@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz com couve e coco](/images/arroz_com_couve_e_coco.jpg)

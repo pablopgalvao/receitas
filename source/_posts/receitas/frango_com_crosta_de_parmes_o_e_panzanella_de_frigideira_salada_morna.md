@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango com crosta de parmesão e panzanella de frigideira (salada morna)](/images/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg)

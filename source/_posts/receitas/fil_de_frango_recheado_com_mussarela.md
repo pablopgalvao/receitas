@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de frango recheado com mussarela](/images/fil_de_frango_recheado_com_mussarela.jpg)

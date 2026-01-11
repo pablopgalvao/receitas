@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata rústica temperada](/images/batata_r_stica_temperada.jpg)

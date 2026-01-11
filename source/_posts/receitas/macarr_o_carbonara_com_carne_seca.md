@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão à carbonara com carne-seca](/images/macarr_o_carbonara_com_carne_seca.jpg)

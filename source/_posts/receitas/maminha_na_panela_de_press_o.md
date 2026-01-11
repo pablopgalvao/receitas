@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Maminha na panela de pressão](/images/maminha_na_panela_de_press_o.jpg)

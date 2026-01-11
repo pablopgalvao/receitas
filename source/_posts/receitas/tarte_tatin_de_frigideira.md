@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tarte tatin de frigideira](/images/tarte_tatin_de_frigideira.jpg)

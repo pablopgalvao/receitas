@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de banana caramelizada](/images/bolo_de_banana_caramelizada.jpg)

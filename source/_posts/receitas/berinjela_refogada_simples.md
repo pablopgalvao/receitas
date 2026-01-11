@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela refogada simples](/images/berinjela_refogada_simples.jpg)

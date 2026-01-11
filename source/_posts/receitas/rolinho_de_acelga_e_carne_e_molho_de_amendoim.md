@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rolinho de acelga e carne e molho de amendoim](/images/rolinho_de_acelga_e_carne_e_molho_de_amendoim.jpg)

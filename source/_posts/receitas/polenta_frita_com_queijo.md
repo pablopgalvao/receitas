@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 180 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta frita com queijo](/images/polenta_frita_com_queijo.jpg)

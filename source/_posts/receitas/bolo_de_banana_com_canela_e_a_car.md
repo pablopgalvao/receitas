@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de banana com canela e açúcar](/images/bolo_de_banana_com_canela_e_a_car.jpg)

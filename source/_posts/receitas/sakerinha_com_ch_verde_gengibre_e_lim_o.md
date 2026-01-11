@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sakerinha com chá verde, gengibre e limão](/images/sakerinha_com_ch_verde_gengibre_e_lim_o.jpg)

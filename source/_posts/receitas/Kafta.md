@@ -21,7 +21,7 @@ difficulty: Fácil
 servings: 4 a 6 Porções
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Kafta](/images/kafta.png)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango ao molho branco](/images/frango_ao_molho_branco.jpg)

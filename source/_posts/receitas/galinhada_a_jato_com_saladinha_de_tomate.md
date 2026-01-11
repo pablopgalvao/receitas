@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Galinhada a jato com saladinha de tomate](/images/galinhada_a_jato_com_saladinha_de_tomate.jpg)

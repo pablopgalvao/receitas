@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Omelete a jato](/images/omelete_a_jato.jpg)

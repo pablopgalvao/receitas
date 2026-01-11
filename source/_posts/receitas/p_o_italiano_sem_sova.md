@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 18 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão italiano sem sova](/images/p_o_italiano_sem_sova.jpg)

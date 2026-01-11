@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cogumelo refogado com salsinha](/images/cogumelo_refogado_com_salsinha.jpg)

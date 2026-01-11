@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com abobrinha, ricota e pesto de hortelã](/images/macarr_o_com_abobrinha_ricota_e_pesto_de_hortel.jpg)

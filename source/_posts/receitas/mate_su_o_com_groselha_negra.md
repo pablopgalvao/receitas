@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mate suíço com groselha negra](/images/mate_su_o_com_groselha_negra.jpg)

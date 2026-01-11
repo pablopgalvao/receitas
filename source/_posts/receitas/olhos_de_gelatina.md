@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Olhos de gelatina](/images/olhos_de_gelatina.jpg)

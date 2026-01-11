@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho barbecue simples](/images/molho_barbecue_simples.jpg)

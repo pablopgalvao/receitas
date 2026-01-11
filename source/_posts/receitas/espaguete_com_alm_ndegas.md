@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Espaguete com almôndegas](/images/espaguete_com_alm_ndegas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abobrinha grelhada com semente de coentro e limão](/images/abobrinha_grelhada_com_semente_de_coentro_e_lim_o.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sobrecoxa ao curry com arroz e laranja em uma panela só](/images/sobrecoxa_ao_curry_com_arroz_e_laranja_em_uma_panela_s.jpg)

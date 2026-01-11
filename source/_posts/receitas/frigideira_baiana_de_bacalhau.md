@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frigideira baiana de bacalhau](/images/frigideira_baiana_de_bacalhau.jpg)

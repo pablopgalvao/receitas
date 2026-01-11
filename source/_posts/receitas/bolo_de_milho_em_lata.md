@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de milho em lata](/images/bolo_de_milho_em_lata.jpg)

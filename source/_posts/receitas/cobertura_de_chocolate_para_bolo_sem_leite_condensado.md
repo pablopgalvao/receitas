@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cobertura de chocolate para bolo sem leite condensado](/images/cobertura_de_chocolate_para_bolo_sem_leite_condensado.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panqueca de milho](/images/panqueca_de_milho.jpg)

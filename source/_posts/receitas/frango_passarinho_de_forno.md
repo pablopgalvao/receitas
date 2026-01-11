@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango à passarinho de forno](/images/frango_passarinho_de_forno.jpg)

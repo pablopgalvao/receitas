@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de frango](/images/risoto_de_frango.jpg)

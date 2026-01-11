@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Temaki tradicional](/images/temaki_tradicional.jpg)

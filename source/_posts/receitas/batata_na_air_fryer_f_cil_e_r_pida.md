@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata na air fryer fácil e rápida](/images/batata_na_air_fryer_f_cil_e_r_pida.jpg)

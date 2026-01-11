@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de linguiça acebolada e repolho grelhado](/images/p_efe_de_lingui_a_acebolada_e_repolho_grelhado.jpg)

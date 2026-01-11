@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cassoulet com farofinha de pão](/images/cassoulet_com_farofinha_de_p_o.jpg)

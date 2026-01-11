@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Talharim com calabresa](/images/talharim_com_calabresa.jpg)

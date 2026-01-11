@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 120 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panqueca de frango fácil](/images/panqueca_de_frango_f_cil.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil de porco na pressão](/images/pernil_de_porco_na_press_o.jpg)

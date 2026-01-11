@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salpicão de Natal para ceia](/images/salpic_o_de_natal_para_ceia.jpg)

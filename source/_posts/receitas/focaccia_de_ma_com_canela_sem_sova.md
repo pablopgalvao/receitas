@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Focaccia de maçã com canela (sem sova)](/images/focaccia_de_ma_com_canela_sem_sova.jpg)

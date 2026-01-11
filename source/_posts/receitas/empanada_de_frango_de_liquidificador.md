@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Empanada de frango de liquidificador](/images/empanada_de_frango_de_liquidificador.jpg)

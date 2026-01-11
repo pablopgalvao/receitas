@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 150 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Charuto de repolho árabe](/images/charuto_de_repolho_rabe.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de abacate](/images/pasta_de_abacate.jpg)

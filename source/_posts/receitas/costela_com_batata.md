@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 110 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costela com batata](/images/costela_com_batata.jpg)

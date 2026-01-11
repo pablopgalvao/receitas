@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Camarão ao Catupiry](/images/camar_o_ao_catupiry.jpg)

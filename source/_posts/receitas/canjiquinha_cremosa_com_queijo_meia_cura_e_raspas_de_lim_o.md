@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjiquinha cremosa com queijo meia-cura e raspas de limão](/images/canjiquinha_cremosa_com_queijo_meia_cura_e_raspas_de_lim_o.jpg)

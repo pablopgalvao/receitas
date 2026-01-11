@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 120 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibe assado recheado](/images/quibe_assado_recheado.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de abóbora com molho de laranja](/images/nhoque_de_ab_bora_com_molho_de_laranja.jpg)

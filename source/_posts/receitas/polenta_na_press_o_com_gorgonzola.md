@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta na pressão com gorgonzola](/images/polenta_na_press_o_com_gorgonzola.jpg)

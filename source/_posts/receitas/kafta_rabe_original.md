@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Kafta árabe original](/images/kafta_rabe_original.jpg)
@@ -29,6 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 
+- teste
 - 500 gramas de carne moída (usamos patinho)
 - 1/2 colher de chá de pimenta-síria
 - 2 colheres de sopa de cheiro-verde picado (usamos cebolinha e hortelã)

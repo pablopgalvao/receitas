@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gin tônica com morango](/images/gin_t_nica_com_morango.jpg)

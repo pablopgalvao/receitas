@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tomate seco na Air Fryer Oven da Rita Lobo](/images/tomate_seco_na_air_fryer_oven_da_rita_lobo.jpg)

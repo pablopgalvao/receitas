@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Linguiça flambada na cachaça](/images/lingui_a_flambada_na_cacha_a.jpg)

@@ -12,7 +12,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abacate com limão e açúcar](/images/abacate_com_lim_o_e_a_car.jpg)

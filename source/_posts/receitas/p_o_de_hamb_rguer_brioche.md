@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 115 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de hambúrguer brioche](/images/p_o_de_hamb_rguer_brioche.jpg)

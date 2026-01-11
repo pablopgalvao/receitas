@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 250 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gelatina cremosa de uva](/images/gelatina_cremosa_de_uva.jpg)

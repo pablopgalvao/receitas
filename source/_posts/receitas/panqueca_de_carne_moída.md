@@ -26,7 +26,7 @@ difficulty: Médio
 servings: 10 Porções
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panqueca de carne moída](/images/panqueca_de_carne_moida.jpg)

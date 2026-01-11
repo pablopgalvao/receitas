@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 125 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mousse de abacaxi com 3 ingredientes](/images/mousse_de_abacaxi_com_3_ingredientes.jpg)

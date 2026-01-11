@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mostarda caseira](/images/mostarda_caseira.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela refogada com pimenta síria](/images/berinjela_refogada_com_pimenta_s_ria.jpg)

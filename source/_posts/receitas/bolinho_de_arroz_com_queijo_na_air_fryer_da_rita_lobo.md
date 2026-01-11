@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de arroz com queijo na Air Fryer da Rita Lobo](/images/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg)

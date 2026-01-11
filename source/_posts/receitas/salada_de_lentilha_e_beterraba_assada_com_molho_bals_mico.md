@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de lentilha e beterraba assada com molho balsâmico](/images/salada_de_lentilha_e_beterraba_assada_com_molho_bals_mico.jpg)

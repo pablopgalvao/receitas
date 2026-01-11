@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne louca desfiada com tomate](/images/carne_louca_desfiada_com_tomate.jpg)

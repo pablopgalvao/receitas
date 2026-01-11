@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Disco de batata crocante com ovo e bacon](/images/disco_de_batata_crocante_com_ovo_e_bacon.jpg)

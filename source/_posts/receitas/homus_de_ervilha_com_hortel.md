@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Homus de ervilha com hortelã](/images/homus_de_ervilha_com_hortel.jpg)

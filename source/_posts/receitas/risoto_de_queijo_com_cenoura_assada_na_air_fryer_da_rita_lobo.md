@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de queijo com cenoura assada na Air Fryer da Rita Lobo](/images/risoto_de_queijo_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)

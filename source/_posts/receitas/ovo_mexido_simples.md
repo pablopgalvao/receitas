@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovo mexido simples](/images/ovo_mexido_simples.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada picante de mamão com broto de feijão e amendoim](/images/salada_picante_de_mam_o_com_broto_de_feij_o_e_amendoim.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjica cremosa com amendoim](/images/canjica_cremosa_com_amendoim.jpg)

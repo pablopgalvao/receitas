@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldinho de feijão-branco com pesto e espetinhos de lula](/images/caldinho_de_feij_o_branco_com_pesto_e_espetinhos_de_lula.jpg)

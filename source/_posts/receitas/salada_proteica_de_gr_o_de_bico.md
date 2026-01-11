@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada proteica de grão-de-bico](/images/salada_proteica_de_gr_o_de_bico.jpg)

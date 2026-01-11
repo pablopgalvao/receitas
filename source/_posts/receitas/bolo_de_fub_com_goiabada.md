@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de fubá com goiabada](/images/bolo_de_fub_com_goiabada.jpg)

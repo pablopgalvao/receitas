@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panquequinha de banana](/images/panquequinha_de_banana.jpg)

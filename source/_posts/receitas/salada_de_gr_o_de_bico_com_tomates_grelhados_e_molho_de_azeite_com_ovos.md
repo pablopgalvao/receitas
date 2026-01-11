@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de grão-de-bico com tomates grelhados e molho de azeite com ovos](/images/salada_de_gr_o_de_bico_com_tomates_grelhados_e_molho_de_azeite_com_ovos.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Antepasto de abobrinha na panela de pressão elétrica](/images/antepasto_de_abobrinha_na_panela_de_press_o_el_trica.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Creme de abacate congelado](/images/creme_de_abacate_congelado.jpg)

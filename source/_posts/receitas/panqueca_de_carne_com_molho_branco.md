@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panqueca de carne com molho branco](/images/panqueca_de_carne_com_molho_branco.jpg)

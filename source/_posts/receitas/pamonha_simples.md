@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 85 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pamonha simples](/images/pamonha_simples.jpg)

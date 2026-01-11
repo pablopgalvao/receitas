@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salmão com brócolis na Air Fryer da Rita Lobo](/images/salm_o_com_br_colis_na_air_fryer_da_rita_lobo.jpg)

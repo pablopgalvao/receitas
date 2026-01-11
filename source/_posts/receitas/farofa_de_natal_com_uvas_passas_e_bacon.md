@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de Natal com uvas-passas e bacon](/images/farofa_de_natal_com_uvas_passas_e_bacon.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Danoninho caseiro para bebê](/images/danoninho_caseiro_para_beb.jpg)

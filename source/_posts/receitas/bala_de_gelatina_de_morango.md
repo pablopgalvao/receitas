@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bala de gelatina de morango](/images/bala_de_gelatina_de_morango.jpg)

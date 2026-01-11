@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Iogurte cremoso](/images/iogurte_cremoso.jpg)

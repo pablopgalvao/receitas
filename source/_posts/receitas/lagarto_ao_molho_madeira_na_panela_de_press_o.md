@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lagarto ao molho madeira na panela de pressão](/images/lagarto_ao_molho_madeira_na_panela_de_press_o.jpg)

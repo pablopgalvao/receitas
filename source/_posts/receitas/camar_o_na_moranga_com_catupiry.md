@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 150 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Camarão na moranga com catupiry](/images/camar_o_na_moranga_com_catupiry.jpg)

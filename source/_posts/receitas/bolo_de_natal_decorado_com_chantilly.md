@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 106 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de Natal decorado com chantilly](/images/bolo_de_natal_decorado_com_chantilly.jpg)

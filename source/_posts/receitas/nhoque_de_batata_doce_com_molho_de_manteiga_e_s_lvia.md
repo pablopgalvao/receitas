@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de batata-doce com molho de manteiga e sálvia](/images/nhoque_de_batata_doce_com_molho_de_manteiga_e_s_lvia.jpg)

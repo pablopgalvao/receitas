@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela recheada com proteína de soja](/images/berinjela_recheada_com_prote_na_de_soja.jpg)

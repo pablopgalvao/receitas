@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Grão-de-bico ensopado com páprica na panela de pressão](/images/gr_o_de_bico_ensopado_com_p_prica_na_panela_de_press_o.jpg)

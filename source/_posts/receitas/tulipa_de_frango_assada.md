@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 110 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tulipa de frango assada](/images/tulipa_de_frango_assada.jpg)

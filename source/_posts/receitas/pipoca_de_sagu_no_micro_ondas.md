@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pipoca de sagu no micro-ondas](/images/pipoca_de_sagu_no_micro_ondas.jpg)

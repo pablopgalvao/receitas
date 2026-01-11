@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldo de mocotó](/images/caldo_de_mocot.jpg)

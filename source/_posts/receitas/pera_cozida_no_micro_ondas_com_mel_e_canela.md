@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pera cozida no micro-ondas com mel e canela](/images/pera_cozida_no_micro_ondas_com_mel_e_canela.jpg)

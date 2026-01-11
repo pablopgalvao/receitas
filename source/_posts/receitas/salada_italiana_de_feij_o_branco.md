@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada italiana de feijão-branco](/images/salada_italiana_de_feij_o_branco.jpg)

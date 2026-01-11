@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bruschetta rápida](/images/bruschetta_r_pida.jpg)

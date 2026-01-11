@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango assado prático com polenta e molho pesto brasileiro](/images/frango_assado_pr_tico_com_polenta_e_molho_pesto_brasileiro.jpg)

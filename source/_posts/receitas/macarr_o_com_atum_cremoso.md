@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com atum cremoso](/images/macarr_o_com_atum_cremoso.jpg)

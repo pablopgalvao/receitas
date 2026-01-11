@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz carreteiro fácil](/images/arroz_carreteiro_f_cil.jpg)

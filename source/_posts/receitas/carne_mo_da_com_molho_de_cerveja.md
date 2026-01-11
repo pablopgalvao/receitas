@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne moída com molho de cerveja](/images/carne_mo_da_com_molho_de_cerveja.jpg)

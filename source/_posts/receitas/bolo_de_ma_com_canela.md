@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de maçã com canela](/images/bolo_de_ma_com_canela.jpg)

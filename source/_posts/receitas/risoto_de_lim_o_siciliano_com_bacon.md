@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de limão-siciliano com bacon](/images/risoto_de_lim_o_siciliano_com_bacon.jpg)

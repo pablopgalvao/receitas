@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Acelga refogada com laranja e castanha-de-caju](/images/acelga_refogada_com_laranja_e_castanha_de_caju.jpg)

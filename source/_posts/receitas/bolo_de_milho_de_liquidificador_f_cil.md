@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de milho de liquidificador fácil](/images/bolo_de_milho_de_liquidificador_f_cil.jpg)

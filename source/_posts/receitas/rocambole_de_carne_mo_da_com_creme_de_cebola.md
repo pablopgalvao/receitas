@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rocambole de carne moída com creme de cebola](/images/rocambole_de_carne_mo_da_com_creme_de_cebola.jpg)

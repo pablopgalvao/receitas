@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Homus a jato](/images/homus_a_jato.jpg)

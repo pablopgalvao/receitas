@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de cuscuz com calabresa](/images/farofa_de_cuscuz_com_calabresa.jpg)

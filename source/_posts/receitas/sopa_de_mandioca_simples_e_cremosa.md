@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de mandioca simples e cremosa](/images/sopa_de_mandioca_simples_e_cremosa.jpg)

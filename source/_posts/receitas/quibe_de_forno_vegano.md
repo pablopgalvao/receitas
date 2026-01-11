@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibe de forno vegano](/images/quibe_de_forno_vegano.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Repolho grelhado com bacon para um](/images/repolho_grelhado_com_bacon_para_um.jpg)

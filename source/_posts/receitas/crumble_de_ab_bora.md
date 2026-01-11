@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Crumble de abóbora](/images/crumble_de_ab_bora.jpg)

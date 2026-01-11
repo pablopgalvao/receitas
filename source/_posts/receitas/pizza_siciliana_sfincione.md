@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pizza siciliana (sfincione)](/images/pizza_siciliana_sfincione.jpg)

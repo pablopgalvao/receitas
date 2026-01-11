@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gelinho de carambola](/images/gelinho_de_carambola.jpg)

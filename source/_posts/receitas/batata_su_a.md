@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata suíça](/images/batata_su_a.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Paleta de cordeiro assada](/images/paleta_de_cordeiro_assada.jpg)

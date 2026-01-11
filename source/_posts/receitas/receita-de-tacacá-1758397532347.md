@@ -22,7 +22,7 @@ difficulty: fácil
 servings: 5 porções
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Receita de tacacá](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Freceita-de-tacac%C3%A1-1758397525809.jpg?alt=media&token=6a48b1a3-26b8-4b9d-b86f-7f5a2bf8c6b1)

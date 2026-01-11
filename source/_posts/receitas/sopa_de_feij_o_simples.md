@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de feijão simples](/images/sopa_de_feij_o_simples.jpg)

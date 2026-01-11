@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mocktail de morango com kiwi](/images/mocktail_de_morango_com_kiwi.jpg)

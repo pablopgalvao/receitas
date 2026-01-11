@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abobrinha recheada com carne moída](/images/abobrinha_recheada_com_carne_mo_da.jpg)

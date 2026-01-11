@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Massa folhada com queijo brie e geleia](/images/massa_folhada_com_queijo_brie_e_geleia.jpg)

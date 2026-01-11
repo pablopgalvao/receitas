@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sardinha na panela de pressão com molho de tomate](/images/sardinha_na_panela_de_press_o_com_molho_de_tomate.jpg)

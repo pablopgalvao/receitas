@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijão com bacon e tomate](/images/feij_o_com_bacon_e_tomate.jpg)

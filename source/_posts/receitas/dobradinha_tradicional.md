@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 130 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Dobradinha tradicional](/images/dobradinha_tradicional.jpg)

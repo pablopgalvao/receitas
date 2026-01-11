@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batida de maracujá fácil](/images/batida_de_maracuj_f_cil.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canja de galinha com arroz cozido](/images/canja_de_galinha_com_arroz_cozido.jpg)

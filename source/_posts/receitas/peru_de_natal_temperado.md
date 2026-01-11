@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 265 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peru de Natal temperado](/images/peru_de_natal_temperado.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado de mandioca com quiabo e couve](/images/ensopado_de_mandioca_com_quiabo_e_couve.jpg)

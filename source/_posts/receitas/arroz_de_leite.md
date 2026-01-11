@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz de leite](/images/arroz_de_leite.jpg)

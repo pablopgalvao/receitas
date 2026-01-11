@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de alho para churrasco](/images/pasta_de_alho_para_churrasco.jpg)

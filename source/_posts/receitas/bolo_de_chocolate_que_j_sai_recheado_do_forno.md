@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de chocolate que já sai recheado do forno](/images/bolo_de_chocolate_que_j_sai_recheado_do_forno.jpg)

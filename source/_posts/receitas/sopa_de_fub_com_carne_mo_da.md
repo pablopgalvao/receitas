@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de fubá com carne moída](/images/sopa_de_fub_com_carne_mo_da.jpg)

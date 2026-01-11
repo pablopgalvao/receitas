@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne com homus (Hummus Ma Lahma)](/images/carne_com_homus_hummus_ma_lahma.jpg)

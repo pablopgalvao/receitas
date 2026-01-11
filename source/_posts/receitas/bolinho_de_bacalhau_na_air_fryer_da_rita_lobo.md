@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de bacalhau na Air Fryer da Rita Lobo](/images/bolinho_de_bacalhau_na_air_fryer_da_rita_lobo.jpg)

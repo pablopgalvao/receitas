@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Fraldinha assada na cerveja](/images/fraldinha_assada_na_cerveja.jpg)

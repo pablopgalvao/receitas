@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de maçã com creme](/images/torta_de_ma_com_creme.jpg)

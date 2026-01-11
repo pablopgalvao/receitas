@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 135 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de pote de abacaxi](/images/bolo_de_pote_de_abacaxi.jpg)

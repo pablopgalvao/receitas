@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz de cogumelo servido com frango, couve, banana e molho de amendoim](/images/arroz_de_cogumelo_servido_com_frango_couve_banana_e_molho_de_amendoim.jpg)

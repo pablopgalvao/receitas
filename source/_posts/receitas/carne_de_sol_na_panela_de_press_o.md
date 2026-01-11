@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne de sol na panela de pressão](/images/carne_de_sol_na_panela_de_press_o.jpg)

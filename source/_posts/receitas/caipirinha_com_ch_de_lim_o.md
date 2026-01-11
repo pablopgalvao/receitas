@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caipirinha com chá de limão](/images/caipirinha_com_ch_de_lim_o.jpg)

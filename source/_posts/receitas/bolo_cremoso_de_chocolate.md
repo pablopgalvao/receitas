@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo cremoso de chocolate](/images/bolo_cremoso_de_chocolate.jpg)

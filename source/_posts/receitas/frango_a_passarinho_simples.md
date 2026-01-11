@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 85 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango a passarinho simples](/images/frango_a_passarinho_simples.jpg)

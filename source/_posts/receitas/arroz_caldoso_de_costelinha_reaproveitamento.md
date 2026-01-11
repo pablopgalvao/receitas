@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz caldoso de costelinha (reaproveitamento)](/images/arroz_caldoso_de_costelinha_reaproveitamento.jpg)

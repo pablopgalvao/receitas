@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peito de frango com molho de laranja e purê de batata](/images/peito_de_frango_com_molho_de_laranja_e_pur_de_batata.jpg)

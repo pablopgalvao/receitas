@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de tilápia empanado](/images/fil_de_til_pia_empanado.jpg)

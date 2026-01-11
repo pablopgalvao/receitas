@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Geleia de pimenta fácil](/images/geleia_de_pimenta_f_cil.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada morna de beterraba com pimentão e nozes](/images/salada_morna_de_beterraba_com_piment_o_e_nozes.jpg)

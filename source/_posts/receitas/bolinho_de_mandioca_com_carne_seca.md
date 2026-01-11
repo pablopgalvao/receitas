@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de mandioca com carne-seca](/images/bolinho_de_mandioca_com_carne_seca.jpg)

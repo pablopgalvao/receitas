@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de arroz cru com iogurte natural](/images/bolo_de_arroz_cru_com_iogurte_natural.jpg)

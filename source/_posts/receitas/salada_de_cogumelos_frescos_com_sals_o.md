@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de cogumelos frescos com salsão](/images/salada_de_cogumelos_frescos_com_sals_o.jpg)

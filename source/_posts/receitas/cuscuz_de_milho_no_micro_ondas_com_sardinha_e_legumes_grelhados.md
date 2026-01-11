@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz de milho no micro-ondas com sardinha e legumes grelhados](/images/cuscuz_de_milho_no_micro_ondas_com_sardinha_e_legumes_grelhados.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de Fubá na Air Fryer da Rita Lobo](/images/bolo_de_fub_na_air_fryer_da_rita_lobo.jpg)

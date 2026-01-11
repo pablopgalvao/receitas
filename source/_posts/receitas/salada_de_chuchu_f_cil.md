@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de chuchu fácil](/images/salada_de_chuchu_f_cil.jpg)

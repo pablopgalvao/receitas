@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Manhattan com chá de frutas vermelhas](/images/manhattan_com_ch_de_frutas_vermelhas.jpg)

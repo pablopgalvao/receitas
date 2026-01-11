@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 120 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango assado](/images/frango_assado.jpg)

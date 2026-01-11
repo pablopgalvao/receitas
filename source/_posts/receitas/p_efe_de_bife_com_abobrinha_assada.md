@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de bife com abobrinha assada](/images/p_efe_de_bife_com_abobrinha_assada.jpg)

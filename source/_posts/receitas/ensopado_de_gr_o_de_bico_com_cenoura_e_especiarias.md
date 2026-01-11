@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado de grão-de-bico com cenoura e especiarias](/images/ensopado_de_gr_o_de_bico_com_cenoura_e_especiarias.jpg)

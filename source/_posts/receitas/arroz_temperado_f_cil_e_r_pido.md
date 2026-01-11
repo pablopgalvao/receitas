@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz temperado fácil e rápido](/images/arroz_temperado_f_cil_e_r_pido.jpg)

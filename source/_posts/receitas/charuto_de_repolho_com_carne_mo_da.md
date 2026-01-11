@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Charuto de repolho com carne moída](/images/charuto_de_repolho_com_carne_mo_da.jpg)

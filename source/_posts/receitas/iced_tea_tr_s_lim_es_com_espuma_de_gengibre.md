@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Iced tea três limões com espuma de gengibre](/images/iced_tea_tr_s_lim_es_com_espuma_de_gengibre.jpg)

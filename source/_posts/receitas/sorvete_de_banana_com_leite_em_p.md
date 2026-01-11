@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sorvete de banana com leite em pó](/images/sorvete_de_banana_com_leite_em_p.jpg)

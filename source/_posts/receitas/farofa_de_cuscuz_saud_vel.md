@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de cuscuz saudável](/images/farofa_de_cuscuz_saud_vel.jpg)

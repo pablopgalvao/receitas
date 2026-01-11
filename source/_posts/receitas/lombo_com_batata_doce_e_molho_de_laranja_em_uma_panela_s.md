@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lombo com batata-doce e molho de laranja em uma panela só](/images/lombo_com_batata_doce_e_molho_de_laranja_em_uma_panela_s.jpg)

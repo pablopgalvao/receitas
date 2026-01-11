@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Zuppa Inglese (reaproveitamento)](/images/zuppa_inglese_reaproveitamento.jpg)

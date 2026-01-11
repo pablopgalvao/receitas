@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de morango simples](/images/torta_de_morango_simples.jpg)

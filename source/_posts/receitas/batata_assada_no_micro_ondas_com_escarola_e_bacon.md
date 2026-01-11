@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata assada no micro-ondas com escarola e bacon](/images/batata_assada_no_micro_ondas_com_escarola_e_bacon.jpg)

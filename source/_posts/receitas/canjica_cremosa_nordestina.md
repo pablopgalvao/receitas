@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjica cremosa nordestina](/images/canjica_cremosa_nordestina.jpg)

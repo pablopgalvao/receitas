@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pavê de banana com doce de leite](/images/pav_de_banana_com_doce_de_leite.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz carreteiro rápido](/images/arroz_carreteiro_r_pido.jpg)

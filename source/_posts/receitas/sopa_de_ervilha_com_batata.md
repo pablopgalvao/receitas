@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de ervilha com batata](/images/sopa_de_ervilha_com_batata.jpg)

@@ -22,7 +22,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picanha com Farofa e Vinagrete](/images/picanha_perdig_o_na_brasa_com_farofa_e_vinagrete.jpg)

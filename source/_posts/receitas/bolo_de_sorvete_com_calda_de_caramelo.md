@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de sorvete com calda de caramelo](/images/bolo_de_sorvete_com_calda_de_caramelo.jpg)

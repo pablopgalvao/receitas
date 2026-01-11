@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de abobrinha com carne moída](/images/lasanha_de_abobrinha_com_carne_mo_da.jpg)

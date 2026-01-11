@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne de panela](/images/carne_de_panela.jpg)

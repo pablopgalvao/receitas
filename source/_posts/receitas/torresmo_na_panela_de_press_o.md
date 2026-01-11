@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torresmo na panela de pressão](/images/torresmo_na_panela_de_press_o.jpg)

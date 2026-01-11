@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo formigueiro fácil e rápido](/images/bolo_formigueiro_f_cil_e_r_pido.jpg)

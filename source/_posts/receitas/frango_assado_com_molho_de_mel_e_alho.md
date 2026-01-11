@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango assado com molho de mel e alho](/images/frango_assado_com_molho_de_mel_e_alho.jpg)

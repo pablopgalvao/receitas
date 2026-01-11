@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de abóbora assada](/images/sopa_de_ab_bora_assada.jpg)

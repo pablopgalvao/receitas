@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sanduíches de isca de peixe com pão de batata-doce](/images/sandu_ches_de_isca_de_peixe_com_p_o_de_batata_doce.jpg)

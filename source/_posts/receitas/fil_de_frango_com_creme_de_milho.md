@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de frango com creme de milho](/images/fil_de_frango_com_creme_de_milho.jpg)

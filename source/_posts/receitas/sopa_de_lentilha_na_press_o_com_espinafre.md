@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de lentilha na pressão com espinafre](/images/sopa_de_lentilha_na_press_o_com_espinafre.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Moqueca de peixe fácil](/images/moqueca_de_peixe_f_cil.jpg)

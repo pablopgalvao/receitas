@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de ervilha com calabresa](/images/sopa_de_ervilha_com_calabresa.jpg)

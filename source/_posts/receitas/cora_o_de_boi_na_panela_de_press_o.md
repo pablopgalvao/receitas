@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 95 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coração de boi na panela de pressão](/images/cora_o_de_boi_na_panela_de_press_o.jpg)

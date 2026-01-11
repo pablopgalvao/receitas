@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 85 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo toalha felpuda de liquidificador](/images/bolo_toalha_felpuda_de_liquidificador.jpg)

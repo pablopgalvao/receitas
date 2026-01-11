@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 24 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Geleia de morango para bolo](/images/geleia_de_morango_para_bolo.jpg)

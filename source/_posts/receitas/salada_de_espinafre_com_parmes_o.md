@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de espinafre com parmesão](/images/salada_de_espinafre_com_parmes_o.jpg)

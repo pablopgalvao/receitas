@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz frito com cebolinha](/images/arroz_frito_com_cebolinha.jpg)

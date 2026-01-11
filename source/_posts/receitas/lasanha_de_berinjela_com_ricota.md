@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de berinjela com ricota](/images/lasanha_de_berinjela_com_ricota.jpg)

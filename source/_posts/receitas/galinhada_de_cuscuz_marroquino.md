@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Galinhada de cuscuz marroquino](/images/galinhada_de_cuscuz_marroquino.jpg)

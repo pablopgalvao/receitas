@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chancliche de iogurte](/images/chancliche_de_iogurte.jpg)

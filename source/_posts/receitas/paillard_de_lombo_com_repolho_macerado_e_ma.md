@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Paillard de lombo com repolho macerado e maçã](/images/paillard_de_lombo_com_repolho_macerado_e_ma.jpg)

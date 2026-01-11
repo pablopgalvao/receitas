@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de rabada com agrião e abóbora grelhada](/images/p_efe_de_rabada_com_agri_o_e_ab_bora_grelhada.jpg)

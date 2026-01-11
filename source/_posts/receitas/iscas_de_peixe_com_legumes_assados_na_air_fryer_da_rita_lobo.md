@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Iscas de peixe com legumes assados na Air Fryer da Rita Lobo](/images/iscas_de_peixe_com_legumes_assados_na_air_fryer_da_rita_lobo.jpg)

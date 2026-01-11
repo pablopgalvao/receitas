@@ -25,7 +25,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bife à Rolê com Calabresa](/images/bife_rol_com_calabresa.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 100 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango ensopado com batatas](/images/frango_ensopado_com_batatas.jpg)

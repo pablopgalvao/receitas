@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo perfeito de banana caramelada](/images/bolo_perfeito_de_banana_caramelada.jpg)

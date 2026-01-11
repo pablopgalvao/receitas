@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 115 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ragu de fraldinha com polenta](/images/ragu_de_fraldinha_com_polenta.jpg)

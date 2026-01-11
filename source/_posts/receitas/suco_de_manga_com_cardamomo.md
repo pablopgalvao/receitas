@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Suco de manga com cardamomo](/images/suco_de_manga_com_cardamomo.jpg)

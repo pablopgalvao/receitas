@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Burrata com tomate confit e pesto](/images/burrata_com_tomate_confit_e_pesto.jpg)

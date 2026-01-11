@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Papilote de frango com purê de batata-doce e refogado de legumes](/images/papilote_de_frango_com_pur_de_batata_doce_e_refogado_de_legumes.jpg)

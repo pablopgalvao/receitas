@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Medalhão de filé mignon](/images/medalh_o_de_fil_mignon.jpg)

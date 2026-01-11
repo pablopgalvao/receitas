@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijoada na pressão](/images/feijoada_na_press_o.jpg)

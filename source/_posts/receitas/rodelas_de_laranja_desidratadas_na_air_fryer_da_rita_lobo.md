@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rodelas de laranja desidratadas na Air Fryer da Rita Lobo](/images/rodelas_de_laranja_desidratadas_na_air_fryer_da_rita_lobo.jpg)

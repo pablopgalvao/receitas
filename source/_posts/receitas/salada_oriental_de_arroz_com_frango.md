@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada oriental de arroz com frango](/images/salada_oriental_de_arroz_com_frango.jpg)

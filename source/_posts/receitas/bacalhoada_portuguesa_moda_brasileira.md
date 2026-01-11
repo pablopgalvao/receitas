@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bacalhoada portuguesa à moda brasileira](/images/bacalhoada_portuguesa_moda_brasileira.jpg)

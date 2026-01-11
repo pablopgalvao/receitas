@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caruru](/images/caruru.jpg)

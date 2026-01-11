@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vinagrete de feijão-branco com alecrim](/images/vinagrete_de_feij_o_branco_com_alecrim.jpg)

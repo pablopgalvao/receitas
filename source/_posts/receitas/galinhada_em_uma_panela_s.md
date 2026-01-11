@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Galinhada em uma panela só](/images/galinhada_em_uma_panela_s.jpg)

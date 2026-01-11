@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de queijo com tapioca e ovos quentes na Air Fryer Oven da Rita Lobo](/images/p_o_de_queijo_com_tapioca_e_ovos_quentes_na_air_fryer_oven_da_rita_lobo.jpg)

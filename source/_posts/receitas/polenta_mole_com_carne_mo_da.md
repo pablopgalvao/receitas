@@ -22,7 +22,7 @@ difficulty: médio
 servings: 25 porções
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta mole com carne moída](/images/polenta_mole_com_carne_mo_da.jpg)

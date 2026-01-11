@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chutney de tomate](/images/chutney_de_tomate.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Antepasto de berinjela na panela de pressão](/images/antepasto_de_berinjela_na_panela_de_press_o.jpg)

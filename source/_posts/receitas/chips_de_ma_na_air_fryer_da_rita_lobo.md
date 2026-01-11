@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chips de maçã na Air Fryer da Rita Lobo](/images/chips_de_ma_na_air_fryer_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 265 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pavê de abacaxi com coco](/images/pav_de_abacaxi_com_coco.jpg)

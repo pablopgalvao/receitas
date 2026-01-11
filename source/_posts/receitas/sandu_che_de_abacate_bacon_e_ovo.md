@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 9 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sanduíche de abacate, bacon e ovo](/images/sandu_che_de_abacate_bacon_e_ovo.jpg)

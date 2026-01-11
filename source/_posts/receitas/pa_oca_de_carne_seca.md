@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Paçoca de carne-seca](/images/pa_oca_de_carne_seca.jpg)

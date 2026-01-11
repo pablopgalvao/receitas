@@ -24,7 +24,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de Calabresa](/images/risoto_de_calabresa.jpg)

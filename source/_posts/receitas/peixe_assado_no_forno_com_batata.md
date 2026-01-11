@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peixe assado no forno com batata](/images/peixe_assado_no_forno_com_batata.jpg)

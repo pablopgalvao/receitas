@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bombom de sorvete de iogurte com framboesa](/images/bombom_de_sorvete_de_iogurte_com_framboesa.jpg)

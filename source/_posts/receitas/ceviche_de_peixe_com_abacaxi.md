@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ceviche de peixe com abacaxi](/images/ceviche_de_peixe_com_abacaxi.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de batata assada com maionese caseira](/images/salada_de_batata_assada_com_maionese_caseira.jpg)

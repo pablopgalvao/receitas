@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vinagrete de maxixe grelhado](/images/vinagrete_de_maxixe_grelhado.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vagem refogada com cominho, limão e mel](/images/vagem_refogada_com_cominho_lim_o_e_mel.jpg)

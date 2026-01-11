@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil desfiado com pimentão e páprica na pressão](/images/pernil_desfiado_com_piment_o_e_p_prica_na_press_o.jpg)

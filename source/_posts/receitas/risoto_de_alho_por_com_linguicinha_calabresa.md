@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de alho-poró com linguicinha calabresa](/images/risoto_de_alho_por_com_linguicinha_calabresa.jpg)

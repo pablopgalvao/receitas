@@ -25,7 +25,7 @@ difficulty: fácil
 servings: 12 porções
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pato no tucupi](/images/pato_no_tucupi.jpg)

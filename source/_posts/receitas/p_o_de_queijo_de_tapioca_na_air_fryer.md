@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de queijo de tapioca na air fryer](/images/p_o_de_queijo_de_tapioca_na_air_fryer.jpg)

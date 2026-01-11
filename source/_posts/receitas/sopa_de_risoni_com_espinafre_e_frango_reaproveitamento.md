@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de risoni com espinafre e frango (reaproveitamento)](/images/sopa_de_risoni_com_espinafre_e_frango_reaproveitamento.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Iced tea com mel e casca de laranja](/images/iced_tea_com_mel_e_casca_de_laranja.jpg)

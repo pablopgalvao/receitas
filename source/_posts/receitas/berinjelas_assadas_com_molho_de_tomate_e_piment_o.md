@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjelas assadas com molho de tomate e pimentão](/images/berinjelas_assadas_com_molho_de_tomate_e_piment_o.jpg)

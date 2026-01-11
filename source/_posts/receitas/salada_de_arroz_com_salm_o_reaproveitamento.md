@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de arroz com salmão (reaproveitamento)](/images/salada_de_arroz_com_salm_o_reaproveitamento.jpg)

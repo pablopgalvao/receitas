@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de mandioca com calabresa](/images/sopa_de_mandioca_com_calabresa.jpg)

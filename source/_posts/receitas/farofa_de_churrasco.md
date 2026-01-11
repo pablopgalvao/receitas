@@ -22,7 +22,7 @@ difficulty: Fácil
 servings: 6 Porções
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de churrasco](/images/farofa_de_churrasco.webp)

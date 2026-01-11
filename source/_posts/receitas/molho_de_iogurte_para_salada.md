@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de iogurte para salada](/images/molho_de_iogurte_para_salada.jpg)

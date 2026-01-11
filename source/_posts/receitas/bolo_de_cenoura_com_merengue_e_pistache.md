@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de cenoura com merengue e pistache](/images/bolo_de_cenoura_com_merengue_e_pistache.jpg)

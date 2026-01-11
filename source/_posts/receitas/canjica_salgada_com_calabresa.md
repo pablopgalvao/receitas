@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjica salgada com calabresa](/images/canjica_salgada_com_calabresa.jpg)

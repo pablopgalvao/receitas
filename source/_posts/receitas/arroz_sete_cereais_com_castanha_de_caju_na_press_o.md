@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz sete cereais com castanha-de-caju na pressão](/images/arroz_sete_cereais_com_castanha_de_caju_na_press_o.jpg)

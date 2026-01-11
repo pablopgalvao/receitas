@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Purê de feijão-branco com tahine](/images/pur_de_feij_o_branco_com_tahine.jpg)

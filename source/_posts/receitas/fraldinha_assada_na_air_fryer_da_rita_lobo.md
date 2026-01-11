@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Fraldinha assada na Air Fryer da Rita Lobo](/images/fraldinha_assada_na_air_fryer_da_rita_lobo.jpg)

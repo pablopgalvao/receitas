@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de feijão-branco com vagem chamuscada](/images/salada_de_feij_o_branco_com_vagem_chamuscada.jpg)

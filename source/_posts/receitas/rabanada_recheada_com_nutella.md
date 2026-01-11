@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rabanada recheada com Nutella](/images/rabanada_recheada_com_nutella.jpg)

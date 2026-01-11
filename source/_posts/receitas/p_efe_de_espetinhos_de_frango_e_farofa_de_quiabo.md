@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de espetinhos de frango e farofa de quiabo](/images/p_efe_de_espetinhos_de_frango_e_farofa_de_quiabo.jpg)

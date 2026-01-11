@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Moela com tomate na panela de pressão elétrica](/images/moela_com_tomate_na_panela_de_press_o_el_trica.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de mandioca com coco](/images/bolinho_de_mandioca_com_coco.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Camarão empanado na air fryer](/images/camar_o_empanado_na_air_fryer.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de batata recheado com carne moída](/images/bolinho_de_batata_recheado_com_carne_mo_da.jpg)

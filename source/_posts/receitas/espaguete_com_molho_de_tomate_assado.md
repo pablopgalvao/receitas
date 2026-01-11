@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Espaguete com molho de tomate assado](/images/espaguete_com_molho_de_tomate_assado.jpg)

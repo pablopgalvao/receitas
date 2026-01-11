@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de batata gratinado com burrata](/images/nhoque_de_batata_gratinado_com_burrata.jpg)

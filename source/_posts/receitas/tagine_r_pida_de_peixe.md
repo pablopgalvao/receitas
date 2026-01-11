@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tagine rápida de peixe](/images/tagine_r_pida_de_peixe.jpg)

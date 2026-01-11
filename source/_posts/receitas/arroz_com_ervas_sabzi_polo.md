@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz com ervas (sabzi polo)](/images/arroz_com_ervas_sabzi_polo.jpg)

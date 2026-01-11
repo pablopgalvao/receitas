@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 7 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de ovos](/images/salada_de_ovos.jpg)

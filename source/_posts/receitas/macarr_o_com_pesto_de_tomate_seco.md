@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com pesto de tomate seco](/images/macarr_o_com_pesto_de_tomate_seco.jpg)

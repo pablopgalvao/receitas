@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pudim de gelatina fácil](/images/pudim_de_gelatina_f_cil.jpg)

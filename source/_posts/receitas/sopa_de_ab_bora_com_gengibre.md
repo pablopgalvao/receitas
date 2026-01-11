@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de abóbora com gengibre](/images/sopa_de_ab_bora_com_gengibre.jpg)

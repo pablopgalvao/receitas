@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de carne e polenta com abóbora](/images/escondidinho_de_carne_e_polenta_com_ab_bora.jpg)

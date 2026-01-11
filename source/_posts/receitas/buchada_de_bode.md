@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Buchada de bode](/images/buchada_de_bode.jpg)

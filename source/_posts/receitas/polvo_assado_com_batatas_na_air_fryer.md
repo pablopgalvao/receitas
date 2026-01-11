@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polvo assado com batatas na Air Fryer](/images/polvo_assado_com_batatas_na_air_fryer.jpg)

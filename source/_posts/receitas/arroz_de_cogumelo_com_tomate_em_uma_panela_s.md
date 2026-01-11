@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz de cogumelo com tomate em uma panela só](/images/arroz_de_cogumelo_com_tomate_em_uma_panela_s.jpg)

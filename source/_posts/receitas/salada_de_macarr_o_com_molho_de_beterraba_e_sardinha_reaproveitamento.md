@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de macarrão com molho de beterraba e sardinha (reaproveitamento)](/images/salada_de_macarr_o_com_molho_de_beterraba_e_sardinha_reaproveitamento.jpg)

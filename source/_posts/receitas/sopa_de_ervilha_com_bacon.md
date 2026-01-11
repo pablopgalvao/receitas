@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 72 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de ervilha com bacon](/images/sopa_de_ervilha_com_bacon.jpg)

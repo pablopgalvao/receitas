@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa paraguaia original](/images/sopa_paraguaia_original.jpg)

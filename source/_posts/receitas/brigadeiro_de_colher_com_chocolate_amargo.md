@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Brigadeiro de colher com chocolate amargo](/images/brigadeiro_de_colher_com_chocolate_amargo.jpg)

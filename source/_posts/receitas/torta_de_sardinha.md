@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de sardinha](/images/torta_de_sardinha.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quiche lorraine](/images/quiche_lorraine.jpg)

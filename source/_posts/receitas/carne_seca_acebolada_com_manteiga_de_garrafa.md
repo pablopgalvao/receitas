@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne-seca acebolada com manteiga de garrafa](/images/carne_seca_acebolada_com_manteiga_de_garrafa.jpg)

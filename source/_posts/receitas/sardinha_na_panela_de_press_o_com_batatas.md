@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sardinha na panela de pressão com batatas](/images/sardinha_na_panela_de_press_o_com_batatas.jpg)

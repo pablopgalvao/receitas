@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de hambúrguer australiano](/images/p_o_de_hamb_rguer_australiano.jpg)

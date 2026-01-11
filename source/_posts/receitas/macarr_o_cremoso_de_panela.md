@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão cremoso de panela](/images/macarr_o_cremoso_de_panela.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de frango simples e rápida](/images/lasanha_de_frango_simples_e_r_pida.jpg)

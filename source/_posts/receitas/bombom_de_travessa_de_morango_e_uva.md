@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 43 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bombom de travessa de morango e uva](/images/bombom_de_travessa_de_morango_e_uva.jpg)

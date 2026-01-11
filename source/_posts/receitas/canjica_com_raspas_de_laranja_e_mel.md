@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjica com raspas de laranja e mel](/images/canjica_com_raspas_de_laranja_e_mel.jpg)

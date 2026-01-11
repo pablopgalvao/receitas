@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de cuscuz marroquino com legumes](/images/salada_de_cuscuz_marroquino_com_legumes.jpg)

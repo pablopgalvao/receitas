@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 120 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldo de mandioca com costela desfiada](/images/caldo_de_mandioca_com_costela_desfiada.jpg)

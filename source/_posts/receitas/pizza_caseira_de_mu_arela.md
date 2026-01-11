@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pizza caseira de muçarela](/images/pizza_caseira_de_mu_arela.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata-bolinha ao murro com alecrim](/images/batata_bolinha_ao_murro_com_alecrim.jpg)

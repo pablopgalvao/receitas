@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picada catalana (pesto catalão)](/images/picada_catalana_pesto_catal_o.jpg)

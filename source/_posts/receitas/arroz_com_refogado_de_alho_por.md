@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz com refogado de alho-poró](/images/arroz_com_refogado_de_alho_por.jpg)

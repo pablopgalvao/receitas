@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 110 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mousse de maracujá com Tang](/images/mousse_de_maracuj_com_tang.jpg)

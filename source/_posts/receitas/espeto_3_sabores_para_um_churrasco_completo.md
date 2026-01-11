@@ -19,7 +19,7 @@ difficulty: Fácil
 servings: 15 Porções
 time: 1 hora e 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Espeto 3 sabores para um churrasco completo](/images/espeto_3_sabores_para_um_churrasco_completo.webp)

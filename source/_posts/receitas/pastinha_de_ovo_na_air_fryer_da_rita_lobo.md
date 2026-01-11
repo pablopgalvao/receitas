@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 18 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pastinha de ovo na Air Fryer da Rita Lobo](/images/pastinha_de_ovo_na_air_fryer_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 95 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rosbife de lagarto](/images/rosbife_de_lagarto.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 7 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovo frito no creme de leite](/images/ovo_frito_no_creme_de_leite.jpg)

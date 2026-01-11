@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abacaxi retrô com sorvete](/images/abacaxi_retr_com_sorvete.jpg)

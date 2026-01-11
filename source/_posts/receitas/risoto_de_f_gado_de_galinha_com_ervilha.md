@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de fígado de galinha com ervilha](/images/risoto_de_f_gado_de_galinha_com_ervilha.jpg)

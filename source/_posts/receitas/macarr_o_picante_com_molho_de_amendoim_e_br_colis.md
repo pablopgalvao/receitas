@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão picante com molho de amendoim e brócolis](/images/macarr_o_picante_com_molho_de_amendoim_e_br_colis.jpg)

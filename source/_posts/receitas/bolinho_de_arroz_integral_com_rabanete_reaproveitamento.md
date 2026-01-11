@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de arroz integral com rabanete (reaproveitamento)](/images/bolinho_de_arroz_integral_com_rabanete_reaproveitamento.jpg)

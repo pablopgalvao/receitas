@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tagine rápida de legumes](/images/tagine_r_pida_de_legumes.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela em tiras com molho tahine](/images/berinjela_em_tiras_com_molho_tahine.jpg)

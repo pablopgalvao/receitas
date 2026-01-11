@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 13 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torrada de mel na Air Fryer da Rita Lobo](/images/torrada_de_mel_na_air_fryer_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pizza caseira de liquidificador](/images/pizza_caseira_de_liquidificador.jpg)

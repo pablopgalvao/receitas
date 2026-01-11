@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz temperado com frango desfiado](/images/arroz_temperado_com_frango_desfiado.jpg)

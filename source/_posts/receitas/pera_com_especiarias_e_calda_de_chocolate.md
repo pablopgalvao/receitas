@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pera com especiarias e calda de chocolate](/images/pera_com_especiarias_e_calda_de_chocolate.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil com molho de abacaxi e pimentão na pressão](/images/pernil_com_molho_de_abacaxi_e_piment_o_na_press_o.jpg)

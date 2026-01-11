@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Taiyaki com pasta de feijão](/images/taiyaki_com_pasta_de_feij_o.jpg)

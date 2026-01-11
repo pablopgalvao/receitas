@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de queijo low carb de frigideira](/images/p_o_de_queijo_low_carb_de_frigideira.jpg)

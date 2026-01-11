@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de carne seca com batata](/images/escondidinho_de_carne_seca_com_batata.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta com compota de frutas](/images/torta_com_compota_de_frutas.jpg)

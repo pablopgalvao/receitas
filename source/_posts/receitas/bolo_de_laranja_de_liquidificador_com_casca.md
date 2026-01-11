@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de laranja de liquidificador com casca](/images/bolo_de_laranja_de_liquidificador_com_casca.jpg)

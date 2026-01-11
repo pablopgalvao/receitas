@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de rúcula e radicchio com molho de bacon](/images/salada_de_r_cula_e_radicchio_com_molho_de_bacon.jpg)

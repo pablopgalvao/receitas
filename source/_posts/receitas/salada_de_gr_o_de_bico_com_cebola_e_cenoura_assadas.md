@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de grão-de-bico com cebola e cenoura assadas](/images/salada_de_gr_o_de_bico_com_cebola_e_cenoura_assadas.jpg)

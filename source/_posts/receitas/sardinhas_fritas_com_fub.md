@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sardinhas fritas com fubá](/images/sardinhas_fritas_com_fub.jpg)

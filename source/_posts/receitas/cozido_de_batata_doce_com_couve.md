@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cozido de batata-doce com couve](/images/cozido_de_batata_doce_com_couve.jpg)

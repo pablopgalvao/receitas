@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de lentilha com cebola caramelizada](/images/salada_de_lentilha_com_cebola_caramelizada.jpg)

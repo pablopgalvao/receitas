@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 118 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango empanado](/images/frango_empanado.jpg)

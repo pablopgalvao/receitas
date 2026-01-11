@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de cenoura com cobertura de chocolate](/images/bolo_de_cenoura_com_cobertura_de_chocolate.jpg)

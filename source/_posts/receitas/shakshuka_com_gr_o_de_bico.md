@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Shakshuka com grão-de-bico](/images/shakshuka_com_gr_o_de_bico.jpg)

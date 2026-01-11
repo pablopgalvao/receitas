@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de abacaxi com bacon](/images/farofa_de_abacaxi_com_bacon.jpg)

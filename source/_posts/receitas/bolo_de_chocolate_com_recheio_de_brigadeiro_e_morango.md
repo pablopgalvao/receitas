@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de chocolate com recheio de brigadeiro e morango](/images/bolo_de_chocolate_com_recheio_de_brigadeiro_e_morango.jpg)

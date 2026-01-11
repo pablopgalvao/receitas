@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peito de frango grelhado com cuscuz de couve-flor](/images/peito_de_frango_grelhado_com_cuscuz_de_couve_flor.jpg)

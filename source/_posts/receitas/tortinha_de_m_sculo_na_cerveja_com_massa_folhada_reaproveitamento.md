@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tortinha de músculo na cerveja com massa folhada (reaproveitamento)](/images/tortinha_de_m_sculo_na_cerveja_com_massa_folhada_reaproveitamento.jpg)

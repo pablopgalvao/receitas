@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Castanha-de-caju temperada com curry](/images/castanha_de_caju_temperada_com_curry.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Espiral de banana caramelizada](/images/espiral_de_banana_caramelizada.jpg)

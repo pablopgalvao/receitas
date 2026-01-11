@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bacalhau de forno à portuguesa](/images/bacalhau_de_forno_portuguesa.jpg)

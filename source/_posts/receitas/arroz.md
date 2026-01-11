@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 18 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz](/images/arroz.jpg)

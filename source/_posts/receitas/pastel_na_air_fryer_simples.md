@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 205 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pastel na air fryer simples](/images/pastel_na_air_fryer_simples.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farinha de rosca caseira de pão integral (reaproveitamento)](/images/farinha_de_rosca_caseira_de_p_o_integral_reaproveitamento.jpg)

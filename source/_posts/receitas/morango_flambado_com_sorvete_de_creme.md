@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Morango flambado com sorvete de creme](/images/morango_flambado_com_sorvete_de_creme.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pavê de abacaxi com bolacha](/images/pav_de_abacaxi_com_bolacha.jpg)

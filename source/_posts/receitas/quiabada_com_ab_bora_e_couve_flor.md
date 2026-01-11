@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quiabada com abóbora e couve-flor](/images/quiabada_com_ab_bora_e_couve_flor.jpg)

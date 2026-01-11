@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cebolas assadas com manteiga e alecrim](/images/cebolas_assadas_com_manteiga_e_alecrim.jpg)

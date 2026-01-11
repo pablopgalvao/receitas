@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxa de frango na air fryer](/images/coxa_de_frango_na_air_fryer.jpg)

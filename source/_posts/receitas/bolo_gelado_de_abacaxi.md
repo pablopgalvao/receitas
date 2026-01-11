@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo gelado de abacaxi](/images/bolo_gelado_de_abacaxi.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Geleia de tomate com pimenta](/images/geleia_de_tomate_com_pimenta.jpg)

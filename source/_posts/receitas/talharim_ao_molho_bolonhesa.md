@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Talharim ao molho bolonhesa](/images/talharim_ao_molho_bolonhesa.jpg)

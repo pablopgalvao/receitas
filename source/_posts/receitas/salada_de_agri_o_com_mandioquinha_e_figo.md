@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de agrião com mandioquinha e figo](/images/salada_de_agri_o_com_mandioquinha_e_figo.jpg)

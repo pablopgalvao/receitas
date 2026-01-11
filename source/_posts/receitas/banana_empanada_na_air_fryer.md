@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Banana empanada na air fryer](/images/banana_empanada_na_air_fryer.jpg)

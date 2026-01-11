@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de grão-de-bico com saltimboca de frango](/images/nhoque_de_gr_o_de_bico_com_saltimboca_de_frango.jpg)

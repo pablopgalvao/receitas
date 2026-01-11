@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Focaccia sem sova na Air Fryer com vapor da Rita Lobo](/images/focaccia_sem_sova_na_air_fryer_com_vapor_da_rita_lobo.jpg)

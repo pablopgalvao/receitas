@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibebe (purê rústico de abóbora)](/images/quibebe_pur_r_stico_de_ab_bora.jpg)

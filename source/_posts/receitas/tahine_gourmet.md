@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 23 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tahine gourmet](/images/tahine_gourmet.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta e fagioli em uma panela só](/images/pasta_e_fagioli_em_uma_panela_s.jpg)

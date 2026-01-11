@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata ao murro de frigideira](/images/batata_ao_murro_de_frigideira.jpg)

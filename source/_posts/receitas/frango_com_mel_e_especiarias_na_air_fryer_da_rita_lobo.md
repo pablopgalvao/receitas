@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango com mel e especiarias na Air Fryer da Rita Lobo](/images/frango_com_mel_e_especiarias_na_air_fryer_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de laranja de liquidificador fofinho](/images/bolo_de_laranja_de_liquidificador_fofinho.jpg)

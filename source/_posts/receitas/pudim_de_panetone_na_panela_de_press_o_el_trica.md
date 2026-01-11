@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pudim de panetone na panela de pressão elétrica](/images/pudim_de_panetone_na_panela_de_press_o_el_trica.jpg)

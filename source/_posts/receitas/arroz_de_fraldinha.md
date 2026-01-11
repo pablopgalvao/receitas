@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 120 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz de fraldinha](/images/arroz_de_fraldinha.jpg)

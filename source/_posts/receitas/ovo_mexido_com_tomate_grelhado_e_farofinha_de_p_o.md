@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovo mexido com tomate grelhado e farofinha de pão](/images/ovo_mexido_com_tomate_grelhado_e_farofinha_de_p_o.jpg)

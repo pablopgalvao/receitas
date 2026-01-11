@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Couve-flor assada com especiarias](/images/couve_flor_assada_com_especiarias.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 175 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de arroz cru prático](/images/bolo_de_arroz_cru_pr_tico.jpg)

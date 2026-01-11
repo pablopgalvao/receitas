@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Muffin de banana na Air Fryer Oven da Rita Lobo](/images/muffin_de_banana_na_air_fryer_oven_da_rita_lobo.jpg)

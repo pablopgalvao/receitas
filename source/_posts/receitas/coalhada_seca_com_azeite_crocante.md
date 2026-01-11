@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coalhada seca com azeite crocante](/images/coalhada_seca_com_azeite_crocante.jpg)

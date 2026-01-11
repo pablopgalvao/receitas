@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 100 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne louca com miolo de acém](/images/carne_louca_com_miolo_de_ac_m.jpg)

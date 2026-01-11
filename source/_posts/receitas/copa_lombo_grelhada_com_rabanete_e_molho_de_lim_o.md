@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 7 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Copa lombo grelhada com rabanete e molho de limão](/images/copa_lombo_grelhada_com_rabanete_e_molho_de_lim_o.jpg)

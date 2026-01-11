@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Couve-flor assada com páprica](/images/couve_flor_assada_com_p_prica.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de biju com bacon e raspas de limão](/images/farofa_de_biju_com_bacon_e_raspas_de_lim_o.jpg)

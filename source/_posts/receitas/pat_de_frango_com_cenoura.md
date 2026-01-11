@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Patê de frango com cenoura](/images/pat_de_frango_com_cenoura.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Acelga marinada com shoyu e gengibre](/images/acelga_marinada_com_shoyu_e_gengibre.jpg)

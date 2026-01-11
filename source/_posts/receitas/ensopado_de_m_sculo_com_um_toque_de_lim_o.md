@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado de músculo com um toque de limão](/images/ensopado_de_m_sculo_com_um_toque_de_lim_o.jpg)

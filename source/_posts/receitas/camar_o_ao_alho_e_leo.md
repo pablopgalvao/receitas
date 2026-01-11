@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Camarão ao alho e óleo](/images/camar_o_ao_alho_e_leo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de milho com queijo na Air Fryer Oven da Rita Lobo](/images/bolinho_de_milho_com_queijo_na_air_fryer_oven_da_rita_lobo.jpg)

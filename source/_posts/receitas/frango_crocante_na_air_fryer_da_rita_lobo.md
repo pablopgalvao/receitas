@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango crocante na Air Fryer da Rita Lobo](/images/frango_crocante_na_air_fryer_da_rita_lobo.jpg)

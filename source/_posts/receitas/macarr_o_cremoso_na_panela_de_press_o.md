@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão cremoso na panela de pressão](/images/macarr_o_cremoso_na_panela_de_press_o.jpg)

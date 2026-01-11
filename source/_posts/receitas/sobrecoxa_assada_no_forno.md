@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sobrecoxa assada no forno](/images/sobrecoxa_assada_no_forno.jpg)

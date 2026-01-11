@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 166 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tulipa de frango recheada](/images/tulipa_de_frango_recheada.jpg)

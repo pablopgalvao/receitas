@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Purê de batata-doce com mostarda](/images/pur_de_batata_doce_com_mostarda.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldo de mandioca simples com bacon](/images/caldo_de_mandioca_simples_com_bacon.jpg)

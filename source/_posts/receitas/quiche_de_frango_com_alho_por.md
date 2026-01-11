@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quiche de frango com alho-poró](/images/quiche_de_frango_com_alho_por.jpg)

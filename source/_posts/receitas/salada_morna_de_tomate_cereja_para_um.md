@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada morna de tomate-cereja para um](/images/salada_morna_de_tomate_cereja_para_um.jpg)

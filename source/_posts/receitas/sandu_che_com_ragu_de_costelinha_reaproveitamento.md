@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sanduíche com ragu de costelinha (reaproveitamento)](/images/sandu_che_com_ragu_de_costelinha_reaproveitamento.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ragu de costelinha de porco na pressão](/images/ragu_de_costelinha_de_porco_na_press_o.jpg)

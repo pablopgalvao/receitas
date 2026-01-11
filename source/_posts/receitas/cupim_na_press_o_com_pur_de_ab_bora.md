@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cupim na pressão com purê de abóbora](/images/cupim_na_press_o_com_pur_de_ab_bora.jpg)

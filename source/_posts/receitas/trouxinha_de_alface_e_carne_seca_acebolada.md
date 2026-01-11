@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 24 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Trouxinha de alface e carne-seca acebolada](/images/trouxinha_de_alface_e_carne_seca_acebolada.jpg)

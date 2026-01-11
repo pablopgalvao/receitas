@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango com especiarias e leite de coco](/images/frango_com_especiarias_e_leite_de_coco.jpg)

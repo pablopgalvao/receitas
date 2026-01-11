@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Iscas de pescada com molho tártaro](/images/iscas_de_pescada_com_molho_t_rtaro.jpg)

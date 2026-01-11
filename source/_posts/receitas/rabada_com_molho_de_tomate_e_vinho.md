@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rabada com molho de tomate e vinho](/images/rabada_com_molho_de_tomate_e_vinho.jpg)

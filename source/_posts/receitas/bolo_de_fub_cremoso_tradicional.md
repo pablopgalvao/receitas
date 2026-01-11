@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de fubá cremoso tradicional](/images/bolo_de_fub_cremoso_tradicional.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovo cozido na Air Fryer da Rita Lobo](/images/ovo_cozido_na_air_fryer_da_rita_lobo.jpg)

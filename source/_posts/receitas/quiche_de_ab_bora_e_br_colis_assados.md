@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quiche de abóbora e brócolis assados](/images/quiche_de_ab_bora_e_br_colis_assados.jpg)

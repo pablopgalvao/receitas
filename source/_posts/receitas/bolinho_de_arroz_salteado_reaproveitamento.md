@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de arroz salteado (reaproveitamento)](/images/bolinho_de_arroz_salteado_reaproveitamento.jpg)

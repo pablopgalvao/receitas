@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Brigadeiro com nibs de cacau](/images/brigadeiro_com_nibs_de_cacau.jpg)

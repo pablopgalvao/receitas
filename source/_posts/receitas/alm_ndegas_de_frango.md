@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 95 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Almôndegas de frango](/images/alm_ndegas_de_frango.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 100 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peru de Natal rápido](/images/peru_de_natal_r_pido.jpg)

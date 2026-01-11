@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abóbora refogada com sálvia](/images/ab_bora_refogada_com_s_lvia.jpg)

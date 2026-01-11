@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de ricota com raspas de limão e molho de tomate](/images/nhoque_de_ricota_com_raspas_de_lim_o_e_molho_de_tomate.jpg)

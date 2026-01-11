@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz de milho com feijão-verde](/images/cuscuz_de_milho_com_feij_o_verde.jpg)

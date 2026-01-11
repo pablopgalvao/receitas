@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Viradinho de milho-verde com salsinha](/images/viradinho_de_milho_verde_com_salsinha.jpg)

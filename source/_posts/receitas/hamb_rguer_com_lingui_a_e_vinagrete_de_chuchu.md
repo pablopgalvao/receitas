@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Hambúrguer (com linguiça) e vinagrete de chuchu](/images/hamb_rguer_com_lingui_a_e_vinagrete_de_chuchu.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de milanesa de frango com geleia de tomate e pimenta](/images/p_efe_de_milanesa_de_frango_com_geleia_de_tomate_e_pimenta.jpg)

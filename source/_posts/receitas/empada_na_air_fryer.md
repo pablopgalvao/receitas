@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Empada na air fryer](/images/empada_na_air_fryer.jpg)

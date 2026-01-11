@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 32 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Fricassê de frango fácil](/images/fricass_de_frango_f_cil.jpg)

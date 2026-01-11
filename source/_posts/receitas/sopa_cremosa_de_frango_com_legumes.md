@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa cremosa de frango com legumes](/images/sopa_cremosa_de_frango_com_legumes.jpg)

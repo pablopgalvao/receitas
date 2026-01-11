@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Fritata de batata com cebola](/images/fritata_de_batata_com_cebola.jpg)

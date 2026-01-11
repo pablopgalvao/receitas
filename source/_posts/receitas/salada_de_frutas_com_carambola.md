@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de frutas com carambola](/images/salada_de_frutas_com_carambola.jpg)

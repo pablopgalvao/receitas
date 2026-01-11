@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Músculo com cerveja na pressão](/images/m_sculo_com_cerveja_na_press_o.jpg)

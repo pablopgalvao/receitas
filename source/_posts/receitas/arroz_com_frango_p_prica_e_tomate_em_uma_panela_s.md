@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz com frango, páprica e tomate em uma panela só](/images/arroz_com_frango_p_prica_e_tomate_em_uma_panela_s.jpg)

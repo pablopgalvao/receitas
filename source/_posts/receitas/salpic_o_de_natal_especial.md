@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 170 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salpicão de Natal especial](/images/salpic_o_de_natal_especial.jpg)

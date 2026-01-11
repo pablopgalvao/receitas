@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa paraguaia fácil e rápida](/images/sopa_paraguaia_f_cil_e_r_pida.jpg)

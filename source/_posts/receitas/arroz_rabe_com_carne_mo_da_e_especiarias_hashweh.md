@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz árabe com carne moída e especiarias (hashweh)](/images/arroz_rabe_com_carne_mo_da_e_especiarias_hashweh.jpg)

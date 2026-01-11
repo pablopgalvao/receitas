@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha de porco na pressão](/images/costelinha_de_porco_na_press_o.jpg)

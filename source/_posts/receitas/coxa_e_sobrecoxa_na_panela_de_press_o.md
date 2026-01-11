@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxa e sobrecoxa na panela de pressão](/images/coxa_e_sobrecoxa_na_panela_de_press_o.jpg)

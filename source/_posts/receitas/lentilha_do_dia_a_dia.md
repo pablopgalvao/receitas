@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lentilha do dia a dia](/images/lentilha_do_dia_a_dia.jpg)

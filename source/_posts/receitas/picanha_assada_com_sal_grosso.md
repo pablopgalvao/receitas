@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picanha assada com sal grosso](/images/picanha_assada_com_sal_grosso.jpg)

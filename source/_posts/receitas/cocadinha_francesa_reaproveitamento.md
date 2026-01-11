@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cocadinha francesa (reaproveitamento)](/images/cocadinha_francesa_reaproveitamento.jpg)

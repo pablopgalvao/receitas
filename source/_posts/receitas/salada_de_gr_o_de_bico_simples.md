@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de grão-de-bico simples](/images/salada_de_gr_o_de_bico_simples.jpg)

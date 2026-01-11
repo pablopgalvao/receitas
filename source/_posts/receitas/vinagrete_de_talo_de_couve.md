@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vinagrete de talo de couve](/images/vinagrete_de_talo_de_couve.jpg)

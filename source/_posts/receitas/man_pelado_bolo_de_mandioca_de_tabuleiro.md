@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mané pelado (bolo de mandioca de tabuleiro)](/images/man_pelado_bolo_de_mandioca_de_tabuleiro.jpg)

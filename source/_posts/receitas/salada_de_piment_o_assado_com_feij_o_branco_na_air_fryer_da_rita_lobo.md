@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo](/images/salada_de_piment_o_assado_com_feij_o_branco_na_air_fryer_da_rita_lobo.jpg)

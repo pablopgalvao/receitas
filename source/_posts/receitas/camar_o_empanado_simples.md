@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 27 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Camarão empanado simples](/images/camar_o_empanado_simples.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de maionese com beterraba](/images/salada_de_maionese_com_beterraba.jpg)

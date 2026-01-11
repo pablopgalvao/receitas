@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de mandioca com linguiça](/images/sopa_de_mandioca_com_lingui_a.jpg)

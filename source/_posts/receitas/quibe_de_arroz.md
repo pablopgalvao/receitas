@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 170 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibe de arroz](/images/quibe_de_arroz.jpg)

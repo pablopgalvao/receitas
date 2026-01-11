@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de sardinha com salada de batata assada](/images/p_efe_de_sardinha_com_salada_de_batata_assada.jpg)

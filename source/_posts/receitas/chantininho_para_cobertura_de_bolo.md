@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chantininho para cobertura de bolo](/images/chantininho_para_cobertura_de_bolo.jpg)

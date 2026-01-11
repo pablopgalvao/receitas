@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de feijão fácil e rápida](/images/sopa_de_feij_o_f_cil_e_r_pida.jpg)

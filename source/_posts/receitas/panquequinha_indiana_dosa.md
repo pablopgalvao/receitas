@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panquequinha indiana (dosa)](/images/panquequinha_indiana_dosa.jpg)

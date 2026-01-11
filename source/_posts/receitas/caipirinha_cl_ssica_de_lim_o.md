@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caipirinha clássica de limão](/images/caipirinha_cl_ssica_de_lim_o.jpg)

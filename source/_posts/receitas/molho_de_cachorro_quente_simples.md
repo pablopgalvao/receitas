@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de cachorro-quente simples](/images/molho_de_cachorro_quente_simples.jpg)

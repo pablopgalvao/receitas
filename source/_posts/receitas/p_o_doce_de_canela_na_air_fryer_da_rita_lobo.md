@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão doce de canela na Air Fryer da Rita Lobo](/images/p_o_doce_de_canela_na_air_fryer_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne de soja fácil e rápida](/images/carne_de_soja_f_cil_e_r_pida.jpg)

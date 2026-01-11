@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 24 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de tomate com manjericão](/images/salada_de_tomate_com_manjeric_o.jpg)

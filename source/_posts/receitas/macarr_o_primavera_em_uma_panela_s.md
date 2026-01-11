@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão primavera em uma panela só](/images/macarr_o_primavera_em_uma_panela_s.jpg)

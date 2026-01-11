@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijão preto com calabresa](/images/feij_o_preto_com_calabresa.jpg)

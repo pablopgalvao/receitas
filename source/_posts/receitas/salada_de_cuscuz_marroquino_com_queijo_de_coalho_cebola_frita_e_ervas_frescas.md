@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de cuscuz marroquino com queijo de coalho, cebola frita e ervas frescas](/images/salada_de_cuscuz_marroquino_com_queijo_de_coalho_cebola_frita_e_ervas_frescas.jpg)

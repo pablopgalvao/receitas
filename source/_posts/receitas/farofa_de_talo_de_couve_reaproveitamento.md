@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de talo de couve (reaproveitamento)](/images/farofa_de_talo_de_couve_reaproveitamento.jpg)

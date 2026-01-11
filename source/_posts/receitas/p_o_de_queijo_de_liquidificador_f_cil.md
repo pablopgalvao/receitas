@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de queijo de liquidificador fácil](/images/p_o_de_queijo_de_liquidificador_f_cil.jpg)

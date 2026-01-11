@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de frango assado com cebola](/images/p_efe_de_frango_assado_com_cebola.jpg)

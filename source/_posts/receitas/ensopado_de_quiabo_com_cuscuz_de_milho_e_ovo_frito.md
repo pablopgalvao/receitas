@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado de quiabo com cuscuz de milho e ovo frito](/images/ensopado_de_quiabo_com_cuscuz_de_milho_e_ovo_frito.jpg)

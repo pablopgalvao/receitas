@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Medalhão de berinjela com pesto na Air Fryer Oven da Rita Lobo](/images/medalh_o_de_berinjela_com_pesto_na_air_fryer_oven_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de pepino com uva e iogurte](/images/salada_de_pepino_com_uva_e_iogurte.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Creme de abacate com sorvete](/images/creme_de_abacate_com_sorvete.jpg)

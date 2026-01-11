@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 110 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gelatina colorida em camadas](/images/gelatina_colorida_em_camadas.jpg)

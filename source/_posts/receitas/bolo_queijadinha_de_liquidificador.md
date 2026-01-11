@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo queijadinha de liquidificador](/images/bolo_queijadinha_de_liquidificador.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tartar de abobrinha com pera (reaproveitamento)](/images/tartar_de_abobrinha_com_pera_reaproveitamento.jpg)

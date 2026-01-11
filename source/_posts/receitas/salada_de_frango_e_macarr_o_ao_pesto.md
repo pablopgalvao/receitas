@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de frango e macarrão ao pesto](/images/salada_de_frango_e_macarr_o_ao_pesto.jpg)

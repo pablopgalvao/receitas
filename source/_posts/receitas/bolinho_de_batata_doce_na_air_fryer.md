@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de batata-doce na air fryer](/images/bolinho_de_batata_doce_na_air_fryer.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de batata-doce com espinafre e molho de gorgonzola](/images/nhoque_de_batata_doce_com_espinafre_e_molho_de_gorgonzola.jpg)

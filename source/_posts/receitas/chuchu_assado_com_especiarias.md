@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chuchu assado com especiarias](/images/chuchu_assado_com_especiarias.jpg)

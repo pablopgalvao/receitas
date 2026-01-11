@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Kafta fácil e rápida](/images/kafta_f_cil_e_r_pida.jpg)

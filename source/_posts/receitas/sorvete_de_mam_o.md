@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sorvete de mamão](/images/sorvete_de_mam_o.jpg)

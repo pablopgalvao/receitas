@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de bife de contrafilé com cenoura assada](/images/p_efe_de_bife_de_contrafil_com_cenoura_assada.jpg)

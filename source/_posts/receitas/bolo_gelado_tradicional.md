@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 235 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo gelado tradicional](/images/bolo_gelado_tradicional.jpg)

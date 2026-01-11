@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 165 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pãozinho brioche](/images/p_ozinho_brioche.jpg)

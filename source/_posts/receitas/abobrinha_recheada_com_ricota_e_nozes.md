@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abobrinha recheada com ricota e nozes](/images/abobrinha_recheada_com_ricota_e_nozes.jpg)

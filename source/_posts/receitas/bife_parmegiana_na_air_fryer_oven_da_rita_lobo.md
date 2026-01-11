@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bife à parmegiana na Air Fryer Oven da Rita Lobo](/images/bife_parmegiana_na_air_fryer_oven_da_rita_lobo.jpg)

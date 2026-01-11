@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de lentilha com pimentão e coentro](/images/salada_de_lentilha_com_piment_o_e_coentro.jpg)

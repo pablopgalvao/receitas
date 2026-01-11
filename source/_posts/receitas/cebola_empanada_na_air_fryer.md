@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 118 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cebola empanada na air fryer](/images/cebola_empanada_na_air_fryer.jpg)

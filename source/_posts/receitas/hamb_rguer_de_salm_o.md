@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Hambúrguer de salmão](/images/hamb_rguer_de_salm_o.jpg)

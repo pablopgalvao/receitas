@@ -13,7 +13,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de bisteca com abacaxi, arroz com furikake de couve e feijão com leite de coco](/images/p_efe_de_bisteca_com_abacaxi_arroz_com_furikake_de_couve_e_feij_o_com_leite_de_coco.jpg)

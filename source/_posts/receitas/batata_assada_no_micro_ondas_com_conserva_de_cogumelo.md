@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata assada no micro-ondas com conserva de cogumelo](/images/batata_assada_no_micro_ondas_com_conserva_de_cogumelo.jpg)

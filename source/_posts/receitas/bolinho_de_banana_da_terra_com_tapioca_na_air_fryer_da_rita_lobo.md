@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de banana-da-terra com tapioca na Air Fryer da Rita Lobo](/images/bolinho_de_banana_da_terra_com_tapioca_na_air_fryer_da_rita_lobo.jpg)

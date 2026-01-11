@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz de milho com chuchu](/images/cuscuz_de_milho_com_chuchu.jpg)

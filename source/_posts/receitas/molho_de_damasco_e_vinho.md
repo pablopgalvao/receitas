@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de damasco e vinho](/images/molho_de_damasco_e_vinho.jpg)

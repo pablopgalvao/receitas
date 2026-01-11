@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 155 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caponata de berinjela na panela](/images/caponata_de_berinjela_na_panela.jpg)

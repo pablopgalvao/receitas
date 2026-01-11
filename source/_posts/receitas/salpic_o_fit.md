@@ -22,7 +22,7 @@ difficulty: fácil
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salpicão fit](/images/salpic_o_fit.jpg)

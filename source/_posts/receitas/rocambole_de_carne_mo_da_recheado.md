@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rocambole de carne moída recheado](/images/rocambole_de_carne_mo_da_recheado.jpg)

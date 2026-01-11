@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rabanada de pão de fôrma integral (reaproveitamento)](/images/rabanada_de_p_o_de_f_rma_integral_reaproveitamento.jpg)

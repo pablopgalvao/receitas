@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de abobrinha recheada com arroz e feijão](/images/p_efe_de_abobrinha_recheada_com_arroz_e_feij_o.jpg)

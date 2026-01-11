@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Strogonoff de camarão fácil](/images/strogonoff_de_camar_o_f_cil.jpg)

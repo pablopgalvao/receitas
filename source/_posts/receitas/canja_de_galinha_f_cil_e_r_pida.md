@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canja de galinha fácil e rápida](/images/canja_de_galinha_f_cil_e_r_pida.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo simples com cobertura de Ninho](/images/bolo_simples_com_cobertura_de_ninho.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 85 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldo de mocotó com mandioca](/images/caldo_de_mocot_com_mandioca.jpg)

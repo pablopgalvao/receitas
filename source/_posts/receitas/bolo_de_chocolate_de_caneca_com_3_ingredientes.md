@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de chocolate de caneca com 3 ingredientes](/images/bolo_de_chocolate_de_caneca_com_3_ingredientes.jpg)

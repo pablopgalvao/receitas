@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango desfiado fácil](/images/frango_desfiado_f_cil.jpg)

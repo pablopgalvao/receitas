@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pastel na air fryer fácil e rápido](/images/pastel_na_air_fryer_f_cil_e_r_pido.jpg)

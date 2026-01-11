@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Licor de coco](/images/licor_de_coco.jpg)

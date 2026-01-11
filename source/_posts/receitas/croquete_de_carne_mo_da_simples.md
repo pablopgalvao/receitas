@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Croquete de carne moída simples](/images/croquete_de_carne_mo_da_simples.jpg)

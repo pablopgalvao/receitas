@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salmão assado com manteiga de laranja e cebola-roxa](/images/salm_o_assado_com_manteiga_de_laranja_e_cebola_roxa.jpg)

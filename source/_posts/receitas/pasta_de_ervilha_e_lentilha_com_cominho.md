@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de ervilha e lentilha com cominho](/images/pasta_de_ervilha_e_lentilha_com_cominho.jpg)

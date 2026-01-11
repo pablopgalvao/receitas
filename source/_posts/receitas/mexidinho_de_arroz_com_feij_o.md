@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mexidinho de arroz com feijão](/images/mexidinho_de_arroz_com_feij_o.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ervilha assada com especiarias](/images/ervilha_assada_com_especiarias.jpg)

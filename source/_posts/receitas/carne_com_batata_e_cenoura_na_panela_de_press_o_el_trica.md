@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne com batata e cenoura na panela de pressão elétrica](/images/carne_com_batata_e_cenoura_na_panela_de_press_o_el_trica.jpg)

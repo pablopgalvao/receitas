@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Joelho de porco (eisbein)](/images/joelho_de_porco_eisbein.jpg)

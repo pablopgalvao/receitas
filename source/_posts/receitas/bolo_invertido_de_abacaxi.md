@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo invertido de abacaxi](/images/bolo_invertido_de_abacaxi.jpg)

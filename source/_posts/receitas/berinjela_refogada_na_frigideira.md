@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela refogada na frigideira](/images/berinjela_refogada_na_frigideira.jpg)

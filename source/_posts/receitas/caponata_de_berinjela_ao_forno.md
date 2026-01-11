@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 180 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caponata de berinjela ao forno](/images/caponata_de_berinjela_ao_forno.jpg)

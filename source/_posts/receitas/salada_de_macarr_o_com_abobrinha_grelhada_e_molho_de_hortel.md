@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de macarrão com abobrinha grelhada e molho de hortelã](/images/salada_de_macarr_o_com_abobrinha_grelhada_e_molho_de_hortel.jpg)

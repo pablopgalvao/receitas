@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata rústica assada com ervas](/images/batata_r_stica_assada_com_ervas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto na pressão com abóbora assada](/images/risoto_na_press_o_com_ab_bora_assada.jpg)

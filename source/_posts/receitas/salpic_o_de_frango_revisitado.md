@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salpicão de frango revisitado](/images/salpic_o_de_frango_revisitado.jpg)

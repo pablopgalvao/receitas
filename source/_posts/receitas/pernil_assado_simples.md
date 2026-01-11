@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil assado simples](/images/pernil_assado_simples.jpg)

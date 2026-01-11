@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de cogumelos com salsinha](/images/risoto_de_cogumelos_com_salsinha.jpg)

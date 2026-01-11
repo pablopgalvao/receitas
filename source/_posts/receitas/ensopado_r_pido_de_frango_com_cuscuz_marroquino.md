@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado rápido de frango com cuscuz marroquino](/images/ensopado_r_pido_de_frango_com_cuscuz_marroquino.jpg)

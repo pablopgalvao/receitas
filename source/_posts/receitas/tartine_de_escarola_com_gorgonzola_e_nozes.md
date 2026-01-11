@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tartine de escarola com gorgonzola e nozes](/images/tartine_de_escarola_com_gorgonzola_e_nozes.jpg)

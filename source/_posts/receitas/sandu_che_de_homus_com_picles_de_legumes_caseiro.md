@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sanduíche de homus com picles de legumes caseiro](/images/sandu_che_de_homus_com_picles_de_legumes_caseiro.jpg)

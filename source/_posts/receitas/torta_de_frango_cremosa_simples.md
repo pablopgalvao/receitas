@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de frango cremosa simples](/images/torta_de_frango_cremosa_simples.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Repolho assado com cominho e páprica](/images/repolho_assado_com_cominho_e_p_prica.jpg)

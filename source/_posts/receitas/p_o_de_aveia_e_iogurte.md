@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de aveia e iogurte](/images/p_o_de_aveia_e_iogurte.jpg)

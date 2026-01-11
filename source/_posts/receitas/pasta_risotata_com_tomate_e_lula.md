@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta risotata com tomate e lula](/images/pasta_risotata_com_tomate_e_lula.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Smoothie de banana com leite de coco e manga](/images/smoothie_de_banana_com_leite_de_coco_e_manga.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa fácil e rápida](/images/sopa_f_cil_e_r_pida.jpg)

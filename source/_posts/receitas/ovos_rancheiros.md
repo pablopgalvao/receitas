@@ -21,7 +21,7 @@ difficulty: médio
 servings: 25 porções
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovos rancheiros](/images/ovos_rancheiros.jpg)

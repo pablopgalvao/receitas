@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de aipim com carne seca](/images/escondidinho_de_aipim_com_carne_seca.jpg)

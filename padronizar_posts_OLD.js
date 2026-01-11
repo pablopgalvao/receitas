@@ -665,7 +665,7 @@ function shortPreview(s, max = 900) {
         servings: data.servings || "",
         time: data.time || "",
         calories: data.calories !== undefined && data.calories !== null ? data.calories : "",
-        author: data.author || "Boil",
+        author: data.author || "Lar do chef",
       };
 
       // Corpo padrão (igual ao modelo): imagens topo + Informações + Ingredientes + Modo

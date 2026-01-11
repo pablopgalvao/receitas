@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de risoto de funghi (arancini)](/images/bolinho_de_risoto_de_funghi_arancini.jpg)

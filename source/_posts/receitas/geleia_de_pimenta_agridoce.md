@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Geleia de pimenta agridoce](/images/geleia_de_pimenta_agridoce.jpg)

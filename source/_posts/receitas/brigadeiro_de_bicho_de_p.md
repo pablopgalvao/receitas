@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 150 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Brigadeiro de bicho de pé](/images/brigadeiro_de_bicho_de_p.jpg)

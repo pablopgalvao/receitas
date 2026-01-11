@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 23 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz de Natal com passas](/images/arroz_de_natal_com_passas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 150 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne de sol acebolada](/images/carne_de_sol_acebolada.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de peixe salteado (reaproveitamento)](/images/bolinho_de_peixe_salteado_reaproveitamento.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxinha da asa fácil e rápida](/images/coxinha_da_asa_f_cil_e_r_pida.jpg)

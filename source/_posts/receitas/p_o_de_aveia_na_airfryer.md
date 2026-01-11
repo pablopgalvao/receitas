@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de aveia na airfryer](/images/p_o_de_aveia_na_airfryer.jpg)

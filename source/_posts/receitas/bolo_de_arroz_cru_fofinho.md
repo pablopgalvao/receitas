@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de arroz cru fofinho](/images/bolo_de_arroz_cru_fofinho.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pizza rápida de escarola na Air Fryer da Rita Lobo](/images/pizza_r_pida_de_escarola_na_air_fryer_da_rita_lobo.jpg)

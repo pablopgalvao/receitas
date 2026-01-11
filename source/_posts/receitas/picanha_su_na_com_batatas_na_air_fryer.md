@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picanha suína com batatas na air fryer](/images/picanha_su_na_com_batatas_na_air_fryer.jpg)

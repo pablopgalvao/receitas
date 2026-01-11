@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salmão agridoce com legumes picantes](/images/salm_o_agridoce_com_legumes_picantes.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Shake de abacaxi com chá-mate e guaraná](/images/shake_de_abacaxi_com_ch_mate_e_guaran.jpg)

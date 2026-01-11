@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz perfumado com anis-estrelado](/images/arroz_perfumado_com_anis_estrelado.jpg)

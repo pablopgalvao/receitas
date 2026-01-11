@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de carne moída com molho branco](/images/lasanha_de_carne_mo_da_com_molho_branco.jpg)

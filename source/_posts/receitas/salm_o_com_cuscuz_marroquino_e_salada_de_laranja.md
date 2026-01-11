@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salmão com cuscuz marroquino e salada de laranja](/images/salm_o_com_cuscuz_marroquino_e_salada_de_laranja.jpg)

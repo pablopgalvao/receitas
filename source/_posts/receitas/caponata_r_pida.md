@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 28 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caponata rápida](/images/caponata_r_pida.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panzanella (salada de pão)](/images/panzanella_salada_de_p_o.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 200 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha no barbecue](/images/costelinha_no_barbecue.jpg)

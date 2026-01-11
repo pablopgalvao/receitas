@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Brócolis no vapor com molho de shoyu](/images/br_colis_no_vapor_com_molho_de_shoyu.jpg)

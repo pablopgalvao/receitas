@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão à putanesca em uma panela só para um](/images/macarr_o_putanesca_em_uma_panela_s_para_um.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 265 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta alemã original](/images/torta_alem_original.jpg)

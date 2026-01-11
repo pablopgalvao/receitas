@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Viradinho cremoso de milho](/images/viradinho_cremoso_de_milho.jpg)

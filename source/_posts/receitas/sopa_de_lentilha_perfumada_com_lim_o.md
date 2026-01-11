@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de lentilha perfumada com limão](/images/sopa_de_lentilha_perfumada_com_lim_o.jpg)

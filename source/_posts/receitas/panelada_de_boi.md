@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 105 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panelada de boi](/images/panelada_de_boi.jpg)

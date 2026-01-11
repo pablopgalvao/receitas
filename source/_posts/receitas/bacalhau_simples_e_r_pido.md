@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bacalhau simples e rápido](/images/bacalhau_simples_e_r_pido.jpg)

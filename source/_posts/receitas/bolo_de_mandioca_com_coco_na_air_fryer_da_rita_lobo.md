@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de mandioca com coco na Air Fryer da Rita Lobo](/images/bolo_de_mandioca_com_coco_na_air_fryer_da_rita_lobo.jpg)

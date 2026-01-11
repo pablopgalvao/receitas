@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Semifredo de amendoim com shot de café](/images/semifredo_de_amendoim_com_shot_de_caf.jpg)

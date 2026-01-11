@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vinagrete de abobrinha com manjericão](/images/vinagrete_de_abobrinha_com_manjeric_o.jpg)

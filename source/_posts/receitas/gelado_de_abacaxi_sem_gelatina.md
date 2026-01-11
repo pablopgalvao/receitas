@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 220 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gelado de abacaxi sem gelatina](/images/gelado_de_abacaxi_sem_gelatina.jpg)

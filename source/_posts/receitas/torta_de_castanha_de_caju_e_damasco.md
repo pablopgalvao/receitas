@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de castanha-de-caju e damasco](/images/torta_de_castanha_de_caju_e_damasco.jpg)

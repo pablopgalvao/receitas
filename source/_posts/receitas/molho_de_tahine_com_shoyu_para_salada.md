@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de tahine com shoyu para salada](/images/molho_de_tahine_com_shoyu_para_salada.jpg)

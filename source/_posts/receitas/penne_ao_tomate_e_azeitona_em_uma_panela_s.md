@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Penne ao tomate e azeitona em uma panela só](/images/penne_ao_tomate_e_azeitona_em_uma_panela_s.jpg)

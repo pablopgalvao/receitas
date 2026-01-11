@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de mandioca com carne-seca](/images/escondidinho_de_mandioca_com_carne_seca.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Esfiha de carne fechada](/images/esfiha_de_carne_fechada.jpg)

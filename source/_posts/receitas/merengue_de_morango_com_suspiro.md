@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 150 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Merengue de morango com suspiro](/images/merengue_de_morango_com_suspiro.jpg)

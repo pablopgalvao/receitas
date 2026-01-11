@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão caseiro de liquidificador](/images/p_o_caseiro_de_liquidificador.jpg)

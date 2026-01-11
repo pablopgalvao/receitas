@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Homus de cenoura assada na Air Fryer da Rita Lobo](/images/homus_de_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)

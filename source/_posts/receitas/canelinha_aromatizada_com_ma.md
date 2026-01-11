@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canelinha aromatizada com maçã](/images/canelinha_aromatizada_com_ma.jpg)

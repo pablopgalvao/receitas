@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 100 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango com quiabo mineiro](/images/frango_com_quiabo_mineiro.jpg)

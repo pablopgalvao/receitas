@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 22 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango ao molho fácil e rápido](/images/frango_ao_molho_f_cil_e_r_pido.jpg)

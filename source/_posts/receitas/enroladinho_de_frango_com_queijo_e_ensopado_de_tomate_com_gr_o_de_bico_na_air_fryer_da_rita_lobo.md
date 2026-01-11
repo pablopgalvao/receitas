@@ -13,7 +13,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Enroladinho de frango com queijo e ensopado de tomate com grão-de-bico na Air Fryer da Rita Lobo](/images/enroladinho_de_frango_com_queijo_e_ensopado_de_tomate_com_gr_o_de_bico_na_air_fryer_da_rita_lobo.jpg)

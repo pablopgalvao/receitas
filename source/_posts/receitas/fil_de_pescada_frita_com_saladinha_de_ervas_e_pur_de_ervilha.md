@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de pescada frita com saladinha de ervas e purê de ervilha](/images/fil_de_pescada_frita_com_saladinha_de_ervas_e_pur_de_ervilha.jpg)

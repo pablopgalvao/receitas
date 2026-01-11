@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada Caesar com crispy de queijo](/images/salada_caesar_com_crispy_de_queijo.jpg)

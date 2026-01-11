@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abobrinha agridoce de frigideira](/images/abobrinha_agridoce_de_frigideira.jpg)

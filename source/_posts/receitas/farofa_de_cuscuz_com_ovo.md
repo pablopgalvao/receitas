@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de cuscuz com ovo](/images/farofa_de_cuscuz_com_ovo.jpg)

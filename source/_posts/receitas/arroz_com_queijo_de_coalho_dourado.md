@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz com queijo de coalho dourado](/images/arroz_com_queijo_de_coalho_dourado.jpg)

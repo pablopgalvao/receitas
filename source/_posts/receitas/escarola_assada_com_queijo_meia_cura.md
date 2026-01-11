@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escarola assada com queijo meia cura](/images/escarola_assada_com_queijo_meia_cura.jpg)

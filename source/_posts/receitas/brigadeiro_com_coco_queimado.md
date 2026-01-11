@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Brigadeiro com coco queimado](/images/brigadeiro_com_coco_queimado.jpg)

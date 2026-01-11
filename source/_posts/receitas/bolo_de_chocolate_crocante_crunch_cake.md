@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de chocolate crocante (crunch cake)](/images/bolo_de_chocolate_crocante_crunch_cake.jpg)

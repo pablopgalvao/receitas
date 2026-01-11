@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Moqueca de tilápia em postas](/images/moqueca_de_til_pia_em_postas.jpg)

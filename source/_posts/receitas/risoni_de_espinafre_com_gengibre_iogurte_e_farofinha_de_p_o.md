@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoni de espinafre com gengibre, iogurte e farofinha de pão](/images/risoni_de_espinafre_com_gengibre_iogurte_e_farofinha_de_p_o.jpg)

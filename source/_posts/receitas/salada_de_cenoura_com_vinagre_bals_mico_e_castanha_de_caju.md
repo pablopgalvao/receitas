@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de cenoura com vinagre balsâmico e castanha-de-caju](/images/salada_de_cenoura_com_vinagre_bals_mico_e_castanha_de_caju.jpg)

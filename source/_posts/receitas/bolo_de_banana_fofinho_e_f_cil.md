@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de banana fofinho e fácil](/images/bolo_de_banana_fofinho_e_f_cil.jpg)

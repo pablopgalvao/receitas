@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Maçã assada com crocante de aveia](/images/ma_assada_com_crocante_de_aveia.jpg)

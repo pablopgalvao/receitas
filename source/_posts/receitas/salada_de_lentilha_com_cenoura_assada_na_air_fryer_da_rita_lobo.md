@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de lentilha com cenoura assada na Air Fryer da Rita Lobo](/images/salada_de_lentilha_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)

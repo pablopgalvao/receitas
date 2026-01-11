@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de repolho americana (coleslaw)](/images/salada_de_repolho_americana_coleslaw.jpg)

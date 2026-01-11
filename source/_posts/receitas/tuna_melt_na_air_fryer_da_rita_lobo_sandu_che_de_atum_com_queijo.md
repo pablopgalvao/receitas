@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tuna melt na Air Fryer da Rita Lobo (sanduíche de atum com queijo)](/images/tuna_melt_na_air_fryer_da_rita_lobo_sandu_che_de_atum_com_queijo.jpg)

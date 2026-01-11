@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta prática de maçã verde](/images/torta_pr_tica_de_ma_verde.jpg)

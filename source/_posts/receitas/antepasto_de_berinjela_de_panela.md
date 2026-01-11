@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Antepasto de berinjela de panela](/images/antepasto_de_berinjela_de_panela.jpg)

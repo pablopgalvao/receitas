@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Shot de vitaminas com chá de mel, gengibre e cúrcuma](/images/shot_de_vitaminas_com_ch_de_mel_gengibre_e_c_rcuma.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de frango ao molho de mostarda](/images/fil_de_frango_ao_molho_de_mostarda.jpg)

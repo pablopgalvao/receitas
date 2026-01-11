@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bombom de sorvete de doce de leite](/images/bombom_de_sorvete_de_doce_de_leite.jpg)

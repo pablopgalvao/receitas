@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de salmão com molho de raiz-forte](/images/lasanha_de_salm_o_com_molho_de_raiz_forte.jpg)

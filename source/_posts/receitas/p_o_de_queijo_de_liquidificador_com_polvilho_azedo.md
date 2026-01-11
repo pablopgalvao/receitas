@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 32 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de queijo de liquidificador com polvilho azedo](/images/p_o_de_queijo_de_liquidificador_com_polvilho_azedo.jpg)

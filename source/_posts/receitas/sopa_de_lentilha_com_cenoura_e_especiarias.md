@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de lentilha com cenoura e especiarias](/images/sopa_de_lentilha_com_cenoura_e_especiarias.jpg)

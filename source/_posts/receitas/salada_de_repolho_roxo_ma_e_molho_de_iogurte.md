@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de repolho-roxo, maçã e molho de iogurte](/images/salada_de_repolho_roxo_ma_e_molho_de_iogurte.jpg)

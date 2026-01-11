@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada fatuche com grão-de-bico](/images/salada_fatuche_com_gr_o_de_bico.jpg)

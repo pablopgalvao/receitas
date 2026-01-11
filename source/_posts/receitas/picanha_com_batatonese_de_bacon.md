@@ -19,7 +19,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picanha com Batatonese de Bacon](/images/picanha_com_batatonese_de_bacon.jpg)

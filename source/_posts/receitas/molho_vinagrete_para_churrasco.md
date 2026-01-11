@@ -24,7 +24,7 @@ difficulty: Fácil
 servings: 10 Porções
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho vinagrete para churrasco](/images/molho_vinagrete_para_churrasco.webp)

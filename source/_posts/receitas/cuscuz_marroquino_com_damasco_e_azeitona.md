@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz marroquino com damasco e azeitona](/images/cuscuz_marroquino_com_damasco_e_azeitona.jpg)

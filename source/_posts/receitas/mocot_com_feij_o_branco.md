@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mocotó com feijão-branco](/images/mocot_com_feij_o_branco.jpg)

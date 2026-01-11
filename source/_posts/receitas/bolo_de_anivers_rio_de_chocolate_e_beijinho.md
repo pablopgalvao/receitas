@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de aniversário de chocolate e beijinho](/images/bolo_de_anivers_rio_de_chocolate_e_beijinho.jpg)

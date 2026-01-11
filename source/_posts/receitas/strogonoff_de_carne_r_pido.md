@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Strogonoff de carne rápido](/images/strogonoff_de_carne_r_pido.jpg)

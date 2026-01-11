@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gratinado de lasanha na Air Fryer da Rita Lobo (reaproveitamento)](/images/gratinado_de_lasanha_na_air_fryer_da_rita_lobo_reaproveitamento.jpg)

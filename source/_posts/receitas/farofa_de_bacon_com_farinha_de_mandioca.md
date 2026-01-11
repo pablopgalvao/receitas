@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de bacon com farinha de mandioca](/images/farofa_de_bacon_com_farinha_de_mandioca.jpg)

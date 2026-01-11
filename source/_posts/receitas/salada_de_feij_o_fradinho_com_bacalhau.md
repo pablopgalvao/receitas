@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de feijão-fradinho com bacalhau](/images/salada_de_feij_o_fradinho_com_bacalhau.jpg)

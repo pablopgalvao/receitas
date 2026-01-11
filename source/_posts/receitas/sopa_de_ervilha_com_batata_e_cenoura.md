@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de ervilha com batata e cenoura](/images/sopa_de_ervilha_com_batata_e_cenoura.jpg)

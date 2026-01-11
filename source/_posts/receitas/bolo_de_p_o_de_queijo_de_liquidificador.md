@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de pão de queijo de liquidificador](/images/bolo_de_p_o_de_queijo_de_liquidificador.jpg)

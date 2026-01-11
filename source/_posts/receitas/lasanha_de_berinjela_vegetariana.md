@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de berinjela vegetariana](/images/lasanha_de_berinjela_vegetariana.jpg)

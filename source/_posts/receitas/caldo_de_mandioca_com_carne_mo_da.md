@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldo de mandioca com carne moída](/images/caldo_de_mandioca_com_carne_mo_da.jpg)

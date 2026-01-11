@@ -18,7 +18,7 @@ difficulty: Fácil
 servings: 8 Porções
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mandioca ao alho](/images/mandioca_ao_alho.webp)

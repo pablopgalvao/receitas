@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa paraguaia com milho](/images/sopa_paraguaia_com_milho.jpg)

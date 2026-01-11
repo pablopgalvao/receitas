@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de liquidificador com abobrinha](/images/torta_de_liquidificador_com_abobrinha.jpg)

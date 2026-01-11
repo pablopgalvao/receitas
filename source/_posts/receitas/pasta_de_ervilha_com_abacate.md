@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de ervilha com abacate](/images/pasta_de_ervilha_com_abacate.jpg)

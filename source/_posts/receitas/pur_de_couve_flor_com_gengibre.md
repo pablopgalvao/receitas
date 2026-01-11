@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Purê de couve-flor com gengibre](/images/pur_de_couve_flor_com_gengibre.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caldinho de feijão-preto com pimentão](/images/caldinho_de_feij_o_preto_com_piment_o.jpg)

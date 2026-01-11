@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pudim rápido de tapioca](/images/pudim_r_pido_de_tapioca.jpg)

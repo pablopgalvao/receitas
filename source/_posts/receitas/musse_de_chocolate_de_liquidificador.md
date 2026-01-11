@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Musse de chocolate de liquidificador](/images/musse_de_chocolate_de_liquidificador.jpg)

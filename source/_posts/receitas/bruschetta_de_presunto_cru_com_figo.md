@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bruschetta de presunto cru com figo](/images/bruschetta_de_presunto_cru_com_figo.jpg)

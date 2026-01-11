@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pimentão marinado com mostarda e mel na Air Fryer da Rita Lobo](/images/piment_o_marinado_com_mostarda_e_mel_na_air_fryer_da_rita_lobo.jpg)

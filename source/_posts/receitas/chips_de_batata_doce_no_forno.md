@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chips de batata-doce no forno](/images/chips_de_batata_doce_no_forno.jpg)

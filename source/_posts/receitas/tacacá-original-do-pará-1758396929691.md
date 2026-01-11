@@ -22,7 +22,7 @@ difficulty: fácil
 servings: 6 porções
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tacacá original do Pará](https://firebasestorage.googleapis.com/v0/b/boil-fc979.firebasestorage.app/o/recipes%2Ftacac%C3%A1-original-do-par%C3%A1-1758396927607.jpg?alt=media&token=526fcea4-67e7-4783-ad46-f1349edca028)

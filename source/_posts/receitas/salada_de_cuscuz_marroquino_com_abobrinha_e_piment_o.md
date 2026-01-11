@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de cuscuz marroquino com abobrinha e pimentão](/images/salada_de_cuscuz_marroquino_com_abobrinha_e_piment_o.jpg)

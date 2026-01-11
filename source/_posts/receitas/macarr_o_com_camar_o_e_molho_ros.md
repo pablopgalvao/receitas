@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com camarão e molho rosé](/images/macarr_o_com_camar_o_e_molho_ros.jpg)

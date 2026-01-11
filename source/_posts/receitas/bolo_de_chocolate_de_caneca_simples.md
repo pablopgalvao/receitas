@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 7 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de chocolate de caneca simples](/images/bolo_de_chocolate_de_caneca_simples.jpg)

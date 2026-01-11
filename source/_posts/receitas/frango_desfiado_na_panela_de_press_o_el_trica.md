@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango desfiado na panela de pressão elétrica](/images/frango_desfiado_na_panela_de_press_o_el_trica.jpg)

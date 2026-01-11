@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escarola refogada com pimenta calabresa e laranja](/images/escarola_refogada_com_pimenta_calabresa_e_laranja.jpg)

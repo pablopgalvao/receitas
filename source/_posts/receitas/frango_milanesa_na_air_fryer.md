@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango à milanesa na air fryer](/images/frango_milanesa_na_air_fryer.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chá gelado de amora e laranja com linhaça dourada](/images/ch_gelado_de_amora_e_laranja_com_linha_a_dourada.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovo mexido com aspargos grelhados](/images/ovo_mexido_com_aspargos_grelhados.jpg)

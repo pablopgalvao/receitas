@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de bacalhau na air fryer](/images/bolinho_de_bacalhau_na_air_fryer.jpg)

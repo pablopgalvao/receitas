@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijão-branco com molho de tomate](/images/feij_o_branco_com_molho_de_tomate.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 210 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sobremesa de Natal na travessa](/images/sobremesa_de_natal_na_travessa.jpg)

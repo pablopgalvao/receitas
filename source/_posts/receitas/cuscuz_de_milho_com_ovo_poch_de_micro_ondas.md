@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz de milho com ovo pochê de micro-ondas](/images/cuscuz_de_milho_com_ovo_poch_de_micro_ondas.jpg)

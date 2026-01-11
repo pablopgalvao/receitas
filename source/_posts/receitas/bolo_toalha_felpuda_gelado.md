@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 190 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo toalha felpuda gelado](/images/bolo_toalha_felpuda_gelado.jpg)

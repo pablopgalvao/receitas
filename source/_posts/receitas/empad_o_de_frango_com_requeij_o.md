@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 145 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Empadão de frango com requeijão](/images/empad_o_de_frango_com_requeij_o.jpg)

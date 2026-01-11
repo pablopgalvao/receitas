@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vinagrete de pepino com endro](/images/vinagrete_de_pepino_com_endro.jpg)

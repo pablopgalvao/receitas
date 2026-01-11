@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cocotte de ervilha com ricota](/images/cocotte_de_ervilha_com_ricota.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de batata-doce sem glúten](/images/p_o_de_batata_doce_sem_gl_ten.jpg)

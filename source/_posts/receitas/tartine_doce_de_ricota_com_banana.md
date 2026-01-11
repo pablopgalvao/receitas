@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tartine doce de ricota com banana](/images/tartine_doce_de_ricota_com_banana.jpg)

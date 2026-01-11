@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Espetinho de frango com pimentão e cebola](/images/espetinho_de_frango_com_piment_o_e_cebola.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 100 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Massa de coxinha com batata](/images/massa_de_coxinha_com_batata.jpg)

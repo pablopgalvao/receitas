@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pavlova na Air Fryer da Rita Lobo](/images/pavlova_na_air_fryer_da_rita_lobo.jpg)

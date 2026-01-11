@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango indiano na Air Fryer Oven da Rita Lobo](/images/frango_indiano_na_air_fryer_oven_da_rita_lobo.jpg)

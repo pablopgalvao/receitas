@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de macarrão com cogumelo, pimentão e pesto de espinafre](/images/salada_de_macarr_o_com_cogumelo_piment_o_e_pesto_de_espinafre.jpg)

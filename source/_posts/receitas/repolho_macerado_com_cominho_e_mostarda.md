@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Repolho macerado com cominho e mostarda](/images/repolho_macerado_com_cominho_e_mostarda.jpg)

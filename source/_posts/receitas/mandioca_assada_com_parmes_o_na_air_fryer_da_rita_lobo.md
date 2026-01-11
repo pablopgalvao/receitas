@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mandioca assada com parmesão na Air Fryer da Rita Lobo](/images/mandioca_assada_com_parmes_o_na_air_fryer_da_rita_lobo.jpg)

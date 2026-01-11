@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rabanada recheada com doce de leite](/images/rabanada_recheada_com_doce_de_leite.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 95 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão sírio caseiro](/images/p_o_s_rio_caseiro.jpg)

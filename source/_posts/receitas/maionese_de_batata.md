@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 27 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Maionese de batata](/images/maionese_de_batata.jpg)

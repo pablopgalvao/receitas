@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha assada com goiabada e melado](/images/costelinha_assada_com_goiabada_e_melado.jpg)

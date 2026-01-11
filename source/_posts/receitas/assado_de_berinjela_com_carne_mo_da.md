@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Assado de berinjela com carne moída](/images/assado_de_berinjela_com_carne_mo_da.jpg)

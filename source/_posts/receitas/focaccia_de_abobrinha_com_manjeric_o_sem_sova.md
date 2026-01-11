@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Focaccia de abobrinha com manjericão (sem sova)](/images/focaccia_de_abobrinha_com_manjeric_o_sem_sova.jpg)

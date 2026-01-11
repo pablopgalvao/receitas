@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de feijão-branco com pepino e rabanete](/images/salada_de_feij_o_branco_com_pepino_e_rabanete.jpg)

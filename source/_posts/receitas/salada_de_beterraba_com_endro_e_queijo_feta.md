@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de beterraba com endro e queijo feta](/images/salada_de_beterraba_com_endro_e_queijo_feta.jpg)

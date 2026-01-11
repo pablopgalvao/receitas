@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de abobrinha com hortelã](/images/salada_de_abobrinha_com_hortel.jpg)

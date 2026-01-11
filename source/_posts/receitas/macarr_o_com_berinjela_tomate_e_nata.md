@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com berinjela, tomate e nata](/images/macarr_o_com_berinjela_tomate_e_nata.jpg)

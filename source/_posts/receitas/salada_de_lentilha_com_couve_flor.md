@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de lentilha com couve-flor](/images/salada_de_lentilha_com_couve_flor.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de chocolate fácil e molhadinho](/images/bolo_de_chocolate_f_cil_e_molhadinho.jpg)

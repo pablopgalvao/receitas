@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de ervilha com especiarias na pressão](/images/sopa_de_ervilha_com_especiarias_na_press_o.jpg)

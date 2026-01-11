@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Massa de coxinha com mandioca](/images/massa_de_coxinha_com_mandioca.jpg)

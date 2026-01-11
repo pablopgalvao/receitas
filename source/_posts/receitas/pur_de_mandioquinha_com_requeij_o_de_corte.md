@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Purê de mandioquinha com requeijão de corte](/images/pur_de_mandioquinha_com_requeij_o_de_corte.jpg)

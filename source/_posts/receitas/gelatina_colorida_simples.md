@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 380 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gelatina colorida simples](/images/gelatina_colorida_simples.jpg)

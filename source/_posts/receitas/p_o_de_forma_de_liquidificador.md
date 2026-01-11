@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 130 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de forma de liquidificador](/images/p_o_de_forma_de_liquidificador.jpg)

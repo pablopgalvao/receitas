@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com molho de estrogonofe (reaproveitamento)](/images/macarr_o_com_molho_de_estrogonofe_reaproveitamento.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Kafta com ketchup caseiro](/images/kafta_com_ketchup_caseiro.jpg)

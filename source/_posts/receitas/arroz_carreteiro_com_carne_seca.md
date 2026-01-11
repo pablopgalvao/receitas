@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz carreteiro com carne seca](/images/arroz_carreteiro_com_carne_seca.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata na Air Fryer simples](/images/batata_na_air_fryer_simples.jpg)

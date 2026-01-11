@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de frango fácil e rápido](/images/fil_de_frango_f_cil_e_r_pido.jpg)

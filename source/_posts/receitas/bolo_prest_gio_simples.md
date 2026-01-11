@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 117 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo prestígio simples](/images/bolo_prest_gio_simples.jpg)

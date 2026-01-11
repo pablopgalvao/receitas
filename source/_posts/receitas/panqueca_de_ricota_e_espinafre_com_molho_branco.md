@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panqueca de ricota e espinafre com molho branco](/images/panqueca_de_ricota_e_espinafre_com_molho_branco.jpg)

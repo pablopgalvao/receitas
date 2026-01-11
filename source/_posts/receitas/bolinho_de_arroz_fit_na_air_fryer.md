@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de arroz fit na air fryer](/images/bolinho_de_arroz_fit_na_air_fryer.jpg)

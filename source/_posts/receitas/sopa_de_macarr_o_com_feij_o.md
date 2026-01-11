@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de macarrão com feijão](/images/sopa_de_macarr_o_com_feij_o.jpg)

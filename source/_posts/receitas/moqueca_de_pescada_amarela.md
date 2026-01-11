@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Moqueca de pescada-amarela](/images/moqueca_de_pescada_amarela.jpg)

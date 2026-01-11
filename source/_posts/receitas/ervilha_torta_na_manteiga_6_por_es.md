@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ervilha-torta na manteiga (6 porções)](/images/ervilha_torta_na_manteiga_6_por_es.jpg)

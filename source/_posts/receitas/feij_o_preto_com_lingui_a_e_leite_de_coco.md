@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijão-preto com linguiça e leite de coco](/images/feij_o_preto_com_lingui_a_e_leite_de_coco.jpg)

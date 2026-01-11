@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Asinha de frango na air fryer](/images/asinha_de_frango_na_air_fryer.jpg)

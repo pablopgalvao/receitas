@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sorvete de manga fácil](/images/sorvete_de_manga_f_cil.jpg)

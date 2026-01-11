@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Paçoca de carne com vinagrete de banana (reaproveitamento)](/images/pa_oca_de_carne_com_vinagrete_de_banana_reaproveitamento.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta rápida com ratatouille de frigideira](/images/polenta_r_pida_com_ratatouille_de_frigideira.jpg)

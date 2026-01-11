@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de amendoim sem açúcar](/images/pasta_de_amendoim_sem_a_car.jpg)

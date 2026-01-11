@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pudim de rabanada com peras carameladas](/images/pudim_de_rabanada_com_peras_carameladas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de queijo na pressão com medalhão grelhado](/images/risoto_de_queijo_na_press_o_com_medalh_o_grelhado.jpg)

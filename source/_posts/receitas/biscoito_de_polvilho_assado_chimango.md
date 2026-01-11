@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Biscoito de polvilho assado (Chimango)](/images/biscoito_de_polvilho_assado_chimango.jpg)

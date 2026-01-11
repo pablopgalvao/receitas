@@ -20,7 +20,7 @@ difficulty: fácil
 servings: 6 porções
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Acarajé](/images/arroz_carreteiro_simples.jpg)

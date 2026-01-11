@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 9 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cozido norueguês de legumes com cerveja (Lapskaus)](/images/cozido_noruegu_s_de_legumes_com_cerveja_lapskaus.jpg)

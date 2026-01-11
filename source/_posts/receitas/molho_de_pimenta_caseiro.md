@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de pimenta caseiro](/images/molho_de_pimenta_caseiro.jpg)

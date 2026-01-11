@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 130 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil assado na air fryer](/images/pernil_assado_na_air_fryer.jpg)

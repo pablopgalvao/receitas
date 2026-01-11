@@ -25,7 +25,7 @@ difficulty: Médio
 servings: 10 Porções
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijoada](/images/Feijoada_da_Veveta.jpg)

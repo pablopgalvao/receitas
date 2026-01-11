@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 80 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne assada na panela de pressão](/images/carne_assada_na_panela_de_press_o.jpg)

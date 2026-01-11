@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoles de carne moída fácil](/images/risoles_de_carne_mo_da_f_cil.jpg)

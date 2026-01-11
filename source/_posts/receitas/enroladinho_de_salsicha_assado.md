@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Enroladinho de salsicha assado](/images/enroladinho_de_salsicha_assado.jpg)

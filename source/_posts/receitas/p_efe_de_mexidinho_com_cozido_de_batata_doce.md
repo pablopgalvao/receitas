@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de mexidinho com cozido de batata-doce](/images/p_efe_de_mexidinho_com_cozido_de_batata_doce.jpg)

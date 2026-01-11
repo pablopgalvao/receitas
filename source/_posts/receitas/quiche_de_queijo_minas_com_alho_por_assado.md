@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 24 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quiche de queijo minas com alho-poró assado](/images/quiche_de_queijo_minas_com_alho_por_assado.jpg)

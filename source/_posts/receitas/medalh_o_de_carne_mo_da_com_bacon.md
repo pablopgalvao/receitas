@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Medalhão de carne moída com bacon](/images/medalh_o_de_carne_mo_da_com_bacon.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Smoothie de banana e manga](/images/smoothie_de_banana_e_manga.jpg)

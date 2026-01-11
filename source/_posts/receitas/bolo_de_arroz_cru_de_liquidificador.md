@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de arroz cru de liquidificador](/images/bolo_de_arroz_cru_de_liquidificador.jpg)

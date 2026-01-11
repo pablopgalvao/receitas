@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Negroni com hibisco e amora](/images/negroni_com_hibisco_e_amora.jpg)

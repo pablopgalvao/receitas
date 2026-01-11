@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escalopinho de lombo com bacon e sálvia](/images/escalopinho_de_lombo_com_bacon_e_s_lvia.jpg)

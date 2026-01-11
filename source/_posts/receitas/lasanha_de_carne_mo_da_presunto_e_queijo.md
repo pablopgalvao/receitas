@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 95 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha de carne moída, presunto e queijo](/images/lasanha_de_carne_mo_da_presunto_e_queijo.jpg)

@@ -14,7 +14,7 @@ difficulty: fácil
 servings: 50 porções
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Queijo cottage](/images/queijo_cottage.jpg)

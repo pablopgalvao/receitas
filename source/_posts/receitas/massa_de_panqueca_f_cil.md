@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Massa de panqueca fácil](/images/massa_de_panqueca_f_cil.jpg)

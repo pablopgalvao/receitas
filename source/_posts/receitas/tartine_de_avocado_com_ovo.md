@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tartine de avocado com ovo](/images/tartine_de_avocado_com_ovo.jpg)

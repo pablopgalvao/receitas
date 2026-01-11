@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vagem refogada com especiarias](/images/vagem_refogada_com_especiarias.jpg)

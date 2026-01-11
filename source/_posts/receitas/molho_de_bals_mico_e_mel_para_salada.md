@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de balsâmico e mel para salada](/images/molho_de_bals_mico_e_mel_para_salada.jpg)

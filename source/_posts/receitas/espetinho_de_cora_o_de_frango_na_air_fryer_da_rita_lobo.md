@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Espetinho de coração de frango na Air Fryer da Rita Lobo](/images/espetinho_de_cora_o_de_frango_na_air_fryer_da_rita_lobo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Charutinho de acelga com frango](/images/charutinho_de_acelga_com_frango.jpg)

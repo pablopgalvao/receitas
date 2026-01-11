@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta e fagioli com abobrinha](/images/pasta_e_fagioli_com_abobrinha.jpg)

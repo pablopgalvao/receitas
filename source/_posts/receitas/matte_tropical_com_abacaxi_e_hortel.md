@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Matte tropical com abacaxi e hortelã](/images/matte_tropical_com_abacaxi_e_hortel.jpg)

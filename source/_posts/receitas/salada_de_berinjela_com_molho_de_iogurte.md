@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de berinjela com molho de iogurte](/images/salada_de_berinjela_com_molho_de_iogurte.jpg)

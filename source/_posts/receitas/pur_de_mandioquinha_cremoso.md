@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Purê de mandioquinha cremoso](/images/pur_de_mandioquinha_cremoso.jpg)

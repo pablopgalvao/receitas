@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abóbora assada com tomilho na Air Fryer da Rita Lobo](/images/ab_bora_assada_com_tomilho_na_air_fryer_da_rita_lobo.jpg)

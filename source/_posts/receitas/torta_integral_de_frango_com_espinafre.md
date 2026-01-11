@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta integral de frango com espinafre](/images/torta_integral_de_frango_com_espinafre.jpg)

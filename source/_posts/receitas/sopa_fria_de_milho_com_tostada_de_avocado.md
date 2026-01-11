@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa fria de milho com tostada de avocado](/images/sopa_fria_de_milho_com_tostada_de_avocado.jpg)

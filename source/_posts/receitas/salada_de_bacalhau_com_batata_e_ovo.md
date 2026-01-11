@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de bacalhau com batata e ovo](/images/salada_de_bacalhau_com_batata_e_ovo.jpg)

@@ -25,7 +25,7 @@ difficulty: médio
 servings: 6 porções
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Maminha assada ao molho madeira com champignon](/images/maminha_assada_ao_molho_madeira_com_champignon.jpg)

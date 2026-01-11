@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 115 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxa e sobrecoxa no forno](/images/coxa_e_sobrecoxa_no_forno.jpg)

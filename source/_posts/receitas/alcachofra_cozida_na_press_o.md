@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Alcachofra cozida na pressão](/images/alcachofra_cozida_na_press_o.jpg)

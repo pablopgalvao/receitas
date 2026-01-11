@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo fudge de chocolate](/images/bolo_fudge_de_chocolate.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Flor de figo com ricota e mel](/images/flor_de_figo_com_ricota_e_mel.jpg)

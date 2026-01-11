@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de cenoura na pressão com bife](/images/risoto_de_cenoura_na_press_o_com_bife.jpg)

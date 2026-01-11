@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 250 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mousse de maracujá fácil e cremosa](/images/mousse_de_maracuj_f_cil_e_cremosa.jpg)

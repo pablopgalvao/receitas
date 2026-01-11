@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cozido de mandioca com bacon e tomate](/images/cozido_de_mandioca_com_bacon_e_tomate.jpg)

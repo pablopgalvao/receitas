@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão à putanesca de sardinha assada (reaproveitamento)](/images/macarr_o_putanesca_de_sardinha_assada_reaproveitamento.jpg)

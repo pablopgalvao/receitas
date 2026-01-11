@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bisteca de porco com shoyu](/images/bisteca_de_porco_com_shoyu.jpg)

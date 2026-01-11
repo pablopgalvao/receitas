@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela grelhada com molho mediterrâneo e cuscuz marroquino](/images/berinjela_grelhada_com_molho_mediterr_neo_e_cuscuz_marroquino.jpg)

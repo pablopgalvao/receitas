@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rocambole de carne moída fácil](/images/rocambole_de_carne_mo_da_f_cil.jpg)

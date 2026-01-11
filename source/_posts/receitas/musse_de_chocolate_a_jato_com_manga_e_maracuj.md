@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Musse de chocolate a jato com manga e maracujá](/images/musse_de_chocolate_a_jato_com_manga_e_maracuj.jpg)

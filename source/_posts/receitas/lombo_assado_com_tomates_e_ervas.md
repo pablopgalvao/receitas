@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lombo assado com tomates e ervas](/images/lombo_assado_com_tomates_e_ervas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 240 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gelatina cremosa com leite](/images/gelatina_cremosa_com_leite.jpg)

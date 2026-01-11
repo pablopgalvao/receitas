@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Paillard de frango à milanesa](/images/paillard_de_frango_milanesa.jpg)

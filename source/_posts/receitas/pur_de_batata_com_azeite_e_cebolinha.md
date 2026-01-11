@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Purê de batata com azeite e cebolinha](/images/pur_de_batata_com_azeite_e_cebolinha.jpg)

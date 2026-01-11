@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Caipirinha de maracujá com gengibre e folhas de mexerica](/images/caipirinha_de_maracuj_com_gengibre_e_folhas_de_mexerica.jpg)

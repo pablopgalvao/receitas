@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de ervilha e hortelã na pressão](/images/risoto_de_ervilha_e_hortel_na_press_o.jpg)

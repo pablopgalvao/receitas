@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Musse que vira suflê (de véspera)](/images/musse_que_vira_sufl_de_v_spera.jpg)

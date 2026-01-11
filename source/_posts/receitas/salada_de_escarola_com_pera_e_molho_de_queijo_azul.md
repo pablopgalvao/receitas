@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de escarola com pera e molho de queijo azul](/images/salada_de_escarola_com_pera_e_molho_de_queijo_azul.jpg)

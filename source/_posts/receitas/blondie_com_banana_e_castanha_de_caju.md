@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Blondie com banana e castanha-de-caju](/images/blondie_com_banana_e_castanha_de_caju.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta doce com peras ao vinho](/images/polenta_doce_com_peras_ao_vinho.jpg)

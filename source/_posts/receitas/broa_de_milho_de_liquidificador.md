@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Broa de milho de liquidificador](/images/broa_de_milho_de_liquidificador.jpg)

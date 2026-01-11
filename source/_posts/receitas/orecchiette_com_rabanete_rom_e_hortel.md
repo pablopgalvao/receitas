@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Orecchiette com rabanete, romã e hortelã](/images/orecchiette_com_rabanete_rom_e_hortel.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de tomate com salada caprese](/images/risoto_de_tomate_com_salada_caprese.jpg)

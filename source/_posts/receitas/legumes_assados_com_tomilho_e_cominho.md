@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Legumes assados com tomilho e cominho](/images/legumes_assados_com_tomilho_e_cominho.jpg)

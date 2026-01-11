@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 85 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de camarão simples e fácil](/images/risoto_de_camar_o_simples_e_f_cil.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango assado com limão-siciliano e ervas](/images/frango_assado_com_lim_o_siciliano_e_ervas.jpg)

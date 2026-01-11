@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pirão fácil e rápido](/images/pir_o_f_cil_e_r_pido.jpg)

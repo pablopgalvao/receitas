@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cookies de aveia com gotas de chocolate](/images/cookies_de_aveia_com_gotas_de_chocolate.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 22 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bruschetta fácil](/images/bruschetta_f_cil.jpg)

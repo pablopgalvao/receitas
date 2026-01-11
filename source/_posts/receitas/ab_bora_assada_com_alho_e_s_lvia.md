@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abóbora assada com alho e sálvia](/images/ab_bora_assada_com_alho_e_s_lvia.jpg)

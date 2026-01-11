@@ -21,7 +21,7 @@ difficulty: Fácil
 servings: 4 Porções
 time: 20 min (+1h de geladeira)
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Maionese prática de batata](/images/maionese_pratica_de_batata.webp)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Creme de alho para churrasco](/images/creme_de_alho_para_churrasco.jpg)

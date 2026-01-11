@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 24 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Faláfel na Air Fryer da Rita Lobo](/images/fal_fel_na_air_fryer_da_rita_lobo.jpg)

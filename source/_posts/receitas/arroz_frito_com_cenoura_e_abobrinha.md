@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz frito com cenoura e abobrinha](/images/arroz_frito_com_cenoura_e_abobrinha.jpg)

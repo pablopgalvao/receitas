@@ -29,7 +29,7 @@ difficulty: Médio
 servings: 20 Porções
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijoada completa](/images/Feijoada_completa.jpeg)

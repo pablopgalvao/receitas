@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cogumelo assado com cebola-roxa](/images/cogumelo_assado_com_cebola_roxa.jpg)

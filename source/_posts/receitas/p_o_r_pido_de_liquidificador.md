@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 110 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão rápido de liquidificador](/images/p_o_r_pido_de_liquidificador.jpg)

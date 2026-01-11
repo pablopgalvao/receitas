@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tapioca com ovo e requeijão](/images/tapioca_com_ovo_e_requeij_o.jpg)

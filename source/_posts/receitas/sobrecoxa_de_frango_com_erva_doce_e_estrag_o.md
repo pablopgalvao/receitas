@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sobrecoxa de frango com erva-doce e estragão](/images/sobrecoxa_de_frango_com_erva_doce_e_estrag_o.jpg)

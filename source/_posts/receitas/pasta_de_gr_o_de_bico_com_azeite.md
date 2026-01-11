@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de grão-de-bico com azeite](/images/pasta_de_gr_o_de_bico_com_azeite.jpg)

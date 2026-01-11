@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tarte tatin de abacaxi com calda de caramelo](/images/tarte_tatin_de_abacaxi_com_calda_de_caramelo.jpg)

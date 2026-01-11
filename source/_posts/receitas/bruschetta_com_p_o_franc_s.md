@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bruschetta com pão francês](/images/bruschetta_com_p_o_franc_s.jpg)

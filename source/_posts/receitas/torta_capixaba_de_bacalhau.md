@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta capixaba de bacalhau](/images/torta_capixaba_de_bacalhau.jpg)

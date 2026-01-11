@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 46 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarronada de frango](/images/macarronada_de_frango.jpg)

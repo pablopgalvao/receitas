@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 7 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de lentilha com salmão e avocado](/images/salada_de_lentilha_com_salm_o_e_avocado.jpg)

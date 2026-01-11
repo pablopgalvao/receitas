@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango assado com maionese e queijo](/images/frango_assado_com_maionese_e_queijo.jpg)

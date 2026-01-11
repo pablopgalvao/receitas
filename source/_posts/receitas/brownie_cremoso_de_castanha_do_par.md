@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Brownie cremoso de castanha-do-pará](/images/brownie_cremoso_de_castanha_do_par.jpg)

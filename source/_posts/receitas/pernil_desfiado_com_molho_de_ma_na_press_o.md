@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil desfiado com molho de maçã na pressão](/images/pernil_desfiado_com_molho_de_ma_na_press_o.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de carne moída com palitos de mandioca assada](/images/p_efe_de_carne_mo_da_com_palitos_de_mandioca_assada.jpg)

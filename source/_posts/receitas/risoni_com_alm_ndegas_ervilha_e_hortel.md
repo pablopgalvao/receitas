@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoni com almôndegas, ervilha e hortelã](/images/risoni_com_alm_ndegas_ervilha_e_hortel.jpg)

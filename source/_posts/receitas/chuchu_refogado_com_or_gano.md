@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Chuchu refogado com orégano](/images/chuchu_refogado_com_or_gano.jpg)

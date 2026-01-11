@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta caprese com refogado de legumes](/images/polenta_caprese_com_refogado_de_legumes.jpg)

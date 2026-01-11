@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pesto de coentro com amendoim](/images/pesto_de_coentro_com_amendoim.jpg)

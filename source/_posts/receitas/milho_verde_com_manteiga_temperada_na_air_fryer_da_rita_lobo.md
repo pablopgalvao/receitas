@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Milho-verde com manteiga temperada na Air Fryer da Rita Lobo](/images/milho_verde_com_manteiga_temperada_na_air_fryer_da_rita_lobo.jpg)

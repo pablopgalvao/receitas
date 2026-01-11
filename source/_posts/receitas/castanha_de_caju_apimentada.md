@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Castanha-de-caju apimentada](/images/castanha_de_caju_apimentada.jpg)

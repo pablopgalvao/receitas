@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Milho cozido fácil (no micro-ondas)](/images/milho_cozido_f_cil_no_micro_ondas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de carne moída com batata simples](/images/escondidinho_de_carne_mo_da_com_batata_simples.jpg)

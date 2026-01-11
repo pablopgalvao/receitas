@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 155 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Antepasto de berinjela no forno](/images/antepasto_de_berinjela_no_forno.jpg)

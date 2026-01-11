@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 265 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil assado no forno](/images/pernil_assado_no_forno.jpg)

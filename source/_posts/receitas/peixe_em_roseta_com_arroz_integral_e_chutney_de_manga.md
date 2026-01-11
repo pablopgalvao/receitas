@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peixe em roseta com arroz integral e chutney de manga](/images/peixe_em_roseta_com_arroz_integral_e_chutney_de_manga.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto na pressão com legumes grelhados](/images/risoto_na_press_o_com_legumes_grelhados.jpg)

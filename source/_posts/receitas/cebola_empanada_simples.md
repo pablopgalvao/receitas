@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 109 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cebola empanada simples](/images/cebola_empanada_simples.jpg)

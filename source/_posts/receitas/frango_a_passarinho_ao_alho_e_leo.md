@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frango a passarinho ao alho e óleo](/images/frango_a_passarinho_ao_alho_e_leo.jpg)

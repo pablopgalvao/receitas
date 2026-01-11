@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 170 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxa e sobrecoxa assada](/images/coxa_e_sobrecoxa_assada.jpg)

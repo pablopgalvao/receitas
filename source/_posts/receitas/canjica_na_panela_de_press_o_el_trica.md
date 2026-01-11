@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjica na panela de pressão elétrica](/images/canjica_na_panela_de_press_o_el_trica.jpg)

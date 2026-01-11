@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de maçã com aveia e canela](/images/bolo_de_ma_com_aveia_e_canela.jpg)

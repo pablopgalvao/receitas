@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 22 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Baba de moça com leite condensado](/images/baba_de_mo_a_com_leite_condensado.jpg)

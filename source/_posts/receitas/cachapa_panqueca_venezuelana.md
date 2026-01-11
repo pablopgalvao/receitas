@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cachapa (panqueca venezuelana)](/images/cachapa_panqueca_venezuelana.jpg)

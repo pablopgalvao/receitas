@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz-doce na panela de pressão elétrica](/images/arroz_doce_na_panela_de_press_o_el_trica.jpg)

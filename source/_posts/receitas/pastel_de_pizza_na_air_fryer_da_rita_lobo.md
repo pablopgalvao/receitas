@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pastel de pizza na Air Fryer da Rita Lobo](/images/pastel_de_pizza_na_air_fryer_da_rita_lobo.jpg)

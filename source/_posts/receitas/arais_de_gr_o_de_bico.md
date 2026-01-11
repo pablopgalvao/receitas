@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arais de grão-de-bico](/images/arais_de_gr_o_de_bico.jpg)

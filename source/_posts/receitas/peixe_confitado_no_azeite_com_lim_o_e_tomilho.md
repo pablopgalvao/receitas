@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Peixe confitado no azeite com limão e tomilho](/images/peixe_confitado_no_azeite_com_lim_o_e_tomilho.jpg)

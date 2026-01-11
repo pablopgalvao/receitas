@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Biscoito de Natal de gengibre](/images/biscoito_de_natal_de_gengibre.jpg)

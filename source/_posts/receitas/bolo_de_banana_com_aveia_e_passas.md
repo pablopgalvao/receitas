@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de banana com aveia e passas](/images/bolo_de_banana_com_aveia_e_passas.jpg)

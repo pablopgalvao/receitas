@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Banana assada na Air Fryer da Rita Lobo com merengue de mel](/images/banana_assada_na_air_fryer_da_rita_lobo_com_merengue_de_mel.jpg)

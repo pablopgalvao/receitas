@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pasta de pimentão vermelho (muhammara)](/images/pasta_de_piment_o_vermelho_muhammara.jpg)

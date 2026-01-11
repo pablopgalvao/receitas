@@ -25,7 +25,7 @@ difficulty: médio
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Strogonoff fit vegano](/images/strogonoff_fit_vegano.jpg)

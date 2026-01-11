@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Recheio para bolo de pote](/images/recheio_para_bolo_de_pote.jpg)

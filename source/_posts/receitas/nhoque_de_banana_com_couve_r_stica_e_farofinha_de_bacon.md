@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de banana com couve rústica e farofinha de bacon](/images/nhoque_de_banana_com_couve_r_stica_e_farofinha_de_bacon.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tagine de legumes com cuscuz marroquino](/images/tagine_de_legumes_com_cuscuz_marroquino.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Hambúrguer vegano de beterraba](/images/hamb_rguer_vegano_de_beterraba.jpg)

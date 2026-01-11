@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxinha da asa de frango na Air Fryer da Rita Lobo](/images/coxinha_da_asa_de_frango_na_air_fryer_da_rita_lobo.jpg)

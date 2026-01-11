@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de banana sem glúten e lactose](/images/bolo_de_banana_sem_gl_ten_e_lactose.jpg)

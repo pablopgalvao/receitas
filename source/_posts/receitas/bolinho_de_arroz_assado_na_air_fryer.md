@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolinho de arroz assado na air fryer](/images/bolinho_de_arroz_assado_na_air_fryer.jpg)

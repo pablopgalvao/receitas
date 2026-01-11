@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Strogonoff de camarão cremoso](/images/strogonoff_de_camar_o_cremoso.jpg)

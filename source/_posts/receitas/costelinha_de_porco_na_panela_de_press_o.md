@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha de porco na panela de pressão](/images/costelinha_de_porco_na_panela_de_press_o.jpg)

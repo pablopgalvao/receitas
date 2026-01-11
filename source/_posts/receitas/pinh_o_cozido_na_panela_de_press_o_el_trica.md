@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pinhão cozido na panela de pressão elétrica](/images/pinh_o_cozido_na_panela_de_press_o_el_trica.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto de camarão, alho-poró e laranja](/images/risoto_de_camar_o_alho_por_e_laranja.jpg)

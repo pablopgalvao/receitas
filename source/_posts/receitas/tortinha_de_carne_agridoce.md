@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tortinha de carne agridoce](/images/tortinha_de_carne_agridoce.jpg)

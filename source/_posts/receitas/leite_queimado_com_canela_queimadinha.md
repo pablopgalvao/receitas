@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Leite queimado com canela (Queimadinha)](/images/leite_queimado_com_canela_queimadinha.jpg)

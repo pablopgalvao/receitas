@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tapioca cor-de-rosa com queijo meia cura](/images/tapioca_cor_de_rosa_com_queijo_meia_cura.jpg)

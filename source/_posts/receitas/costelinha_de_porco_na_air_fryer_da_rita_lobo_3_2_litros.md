@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha de porco na Air Fryer da Rita Lobo (3,2 litros)](/images/costelinha_de_porco_na_air_fryer_da_rita_lobo_3_2_litros.jpg)

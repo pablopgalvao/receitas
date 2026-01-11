@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão de forno com frango simples e rápido](/images/macarr_o_de_forno_com_frango_simples_e_r_pido.jpg)

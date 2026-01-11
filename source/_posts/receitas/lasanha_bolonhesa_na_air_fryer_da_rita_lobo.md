@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha à bolonhesa na Air Fryer da Rita Lobo](/images/lasanha_bolonhesa_na_air_fryer_da_rita_lobo.jpg)

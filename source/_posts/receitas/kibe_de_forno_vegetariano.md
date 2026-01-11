@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Kibe de forno vegetariano](/images/kibe_de_forno_vegetariano.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salmão em crosta de ervas](/images/salm_o_em_crosta_de_ervas.jpg)

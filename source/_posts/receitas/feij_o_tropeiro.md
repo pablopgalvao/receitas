@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 59 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijão-tropeiro](/images/feij_o_tropeiro.jpg)

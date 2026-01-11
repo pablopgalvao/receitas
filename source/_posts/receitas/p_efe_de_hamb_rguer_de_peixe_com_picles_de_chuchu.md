@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pê-efe de hambúrguer de peixe com picles de chuchu](/images/p_efe_de_hamb_rguer_de_peixe_com_picles_de_chuchu.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata assada no micro-ondas com sardinha](/images/batata_assada_no_micro_ondas_com_sardinha.jpg)

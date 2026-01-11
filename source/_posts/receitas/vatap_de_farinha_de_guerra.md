@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vatapá de farinha de guerra](/images/vatap_de_farinha_de_guerra.jpg)

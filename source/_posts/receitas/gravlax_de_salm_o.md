@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 48 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Gravlax de salmão](/images/gravlax_de_salm_o.jpg)

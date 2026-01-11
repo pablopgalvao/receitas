@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz basmati com cardamomo](/images/arroz_basmati_com_cardamomo.jpg)

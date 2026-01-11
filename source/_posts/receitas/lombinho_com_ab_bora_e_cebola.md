@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lombinho com abóbora e cebola](/images/lombinho_com_ab_bora_e_cebola.jpg)

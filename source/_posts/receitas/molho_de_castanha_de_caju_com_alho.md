@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de castanha-de-caju com alho](/images/molho_de_castanha_de_caju_com_alho.jpg)

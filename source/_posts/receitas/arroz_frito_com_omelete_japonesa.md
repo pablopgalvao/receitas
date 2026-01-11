@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz frito com omelete japonesa](/images/arroz_frito_com_omelete_japonesa.jpg)

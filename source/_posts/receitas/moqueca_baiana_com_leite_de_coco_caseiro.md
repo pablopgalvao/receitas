@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 4 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Moqueca baiana com leite de coco caseiro](/images/moqueca_baiana_com_leite_de_coco_caseiro.jpg)

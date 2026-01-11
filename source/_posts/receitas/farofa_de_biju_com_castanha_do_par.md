@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de biju com castanha-do-pará](/images/farofa_de_biju_com_castanha_do_par.jpg)

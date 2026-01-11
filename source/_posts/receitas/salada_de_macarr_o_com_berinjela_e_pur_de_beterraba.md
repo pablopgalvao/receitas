@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de macarrão com berinjela e purê de beterraba](/images/salada_de_macarr_o_com_berinjela_e_pur_de_beterraba.jpg)

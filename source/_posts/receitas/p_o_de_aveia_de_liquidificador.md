@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de aveia de liquidificador](/images/p_o_de_aveia_de_liquidificador.jpg)

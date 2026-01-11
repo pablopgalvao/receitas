@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão com ovo e queijo na Air Fryer da Rita Lobo](/images/p_o_com_ovo_e_queijo_na_air_fryer_da_rita_lobo.jpg)

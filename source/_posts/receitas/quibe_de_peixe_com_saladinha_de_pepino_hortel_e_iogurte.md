@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibe de peixe com saladinha de pepino, hortelã e iogurte](/images/quibe_de_peixe_com_saladinha_de_pepino_hortel_e_iogurte.jpg)

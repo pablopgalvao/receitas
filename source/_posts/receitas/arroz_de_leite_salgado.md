@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 17 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz de leite salgado](/images/arroz_de_leite_salgado.jpg)

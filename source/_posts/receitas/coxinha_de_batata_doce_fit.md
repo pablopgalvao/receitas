@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Coxinha de batata-doce fit](/images/coxinha_de_batata_doce_fit.jpg)

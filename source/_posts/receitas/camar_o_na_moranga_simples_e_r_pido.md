@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Camarão na moranga simples e rápido](/images/camar_o_na_moranga_simples_e_r_pido.jpg)

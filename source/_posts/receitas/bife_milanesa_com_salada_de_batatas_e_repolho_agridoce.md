@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bife à milanesa com salada de batatas e repolho agridoce](/images/bife_milanesa_com_salada_de_batatas_e_repolho_agridoce.jpg)

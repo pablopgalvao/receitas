@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado de carne com abóbora e couve](/images/ensopado_de_carne_com_ab_bora_e_couve.jpg)

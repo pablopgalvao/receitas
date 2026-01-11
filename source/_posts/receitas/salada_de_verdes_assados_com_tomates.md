@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de verdes assados com tomates](/images/salada_de_verdes_assados_com_tomates.jpg)

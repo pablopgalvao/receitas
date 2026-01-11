@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pavlova com baba de moça](/images/pavlova_com_baba_de_mo_a.jpg)

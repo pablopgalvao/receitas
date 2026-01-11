@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ajo blanco (Sopa fria de pão com amêndoas e alho)](/images/ajo_blanco_sopa_fria_de_p_o_com_am_ndoas_e_alho.jpg)

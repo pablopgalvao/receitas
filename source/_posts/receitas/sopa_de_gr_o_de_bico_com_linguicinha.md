@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sopa de grão-de-bico com linguicinha](/images/sopa_de_gr_o_de_bico_com_linguicinha.jpg)

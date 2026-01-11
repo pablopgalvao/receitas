@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjiquinha cremosa com queijo meia-cura](/images/canjiquinha_cremosa_com_queijo_meia_cura.jpg)

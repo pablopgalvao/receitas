@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de arroz sete cereais](/images/salada_de_arroz_sete_cereais.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado de abobrinha com cuscuz marroquino](/images/ensopado_de_abobrinha_com_cuscuz_marroquino.jpg)

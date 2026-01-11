@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão rápido na Air Fryer da Rita Lobo](/images/p_o_r_pido_na_air_fryer_da_rita_lobo.jpg)

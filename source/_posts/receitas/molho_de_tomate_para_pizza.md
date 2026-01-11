@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho de tomate para pizza](/images/molho_de_tomate_para_pizza.jpg)

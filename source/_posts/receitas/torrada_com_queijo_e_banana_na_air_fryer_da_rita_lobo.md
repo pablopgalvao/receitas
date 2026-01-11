@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torrada com queijo e banana na Air Fryer da Rita Lobo](/images/torrada_com_queijo_e_banana_na_air_fryer_da_rita_lobo.jpg)

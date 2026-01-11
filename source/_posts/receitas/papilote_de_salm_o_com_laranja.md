@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Papilote de salmão com laranja](/images/papilote_de_salm_o_com_laranja.jpg)

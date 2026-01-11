@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Paillard de frango com espaguete de pupunha](/images/paillard_de_frango_com_espaguete_de_pupunha.jpg)

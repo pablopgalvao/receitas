@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopado rápido de filé mignon suíno e couve](/images/ensopado_r_pido_de_fil_mignon_su_no_e_couve.jpg)

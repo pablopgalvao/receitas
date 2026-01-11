@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz com frango na panela de pressão](/images/arroz_com_frango_na_panela_de_press_o.jpg)

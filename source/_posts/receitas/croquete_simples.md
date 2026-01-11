@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2025 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Croquete simples](/images/croquete_simples.jpg)

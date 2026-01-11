@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão com atum e molho de tomate](/images/macarr_o_com_atum_e_molho_de_tomate.jpg)

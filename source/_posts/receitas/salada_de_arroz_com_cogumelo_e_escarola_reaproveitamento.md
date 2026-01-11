@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de arroz com cogumelo e escarola (reaproveitamento)](/images/salada_de_arroz_com_cogumelo_e_escarola_reaproveitamento.jpg)

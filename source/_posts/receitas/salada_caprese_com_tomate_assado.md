@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada caprese com tomate assado](/images/salada_caprese_com_tomate_assado.jpg)

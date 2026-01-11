@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pastel de goiabada com queijo na Air Fryer da Rita Lobo](/images/pastel_de_goiabada_com_queijo_na_air_fryer_da_rita_lobo.jpg)

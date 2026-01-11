@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 12 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha de porco com geleia de damasco](/images/costelinha_de_porco_com_geleia_de_damasco.jpg)

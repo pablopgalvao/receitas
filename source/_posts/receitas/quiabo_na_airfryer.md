@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 17 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quiabo na airfryer](/images/quiabo_na_airfryer.jpg)

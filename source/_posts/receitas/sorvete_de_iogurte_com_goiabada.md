@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sorvete de iogurte com goiabada](/images/sorvete_de_iogurte_com_goiabada.jpg)

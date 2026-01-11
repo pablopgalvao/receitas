@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz marroquino com grão-de-bico, castanha e salsinha](/images/cuscuz_marroquino_com_gr_o_de_bico_castanha_e_salsinha.jpg)

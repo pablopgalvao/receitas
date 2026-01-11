@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de tomate com castanha e hortelã](/images/salada_de_tomate_com_castanha_e_hortel.jpg)

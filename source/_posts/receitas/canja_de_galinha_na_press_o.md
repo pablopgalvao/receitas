@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 7 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canja de galinha na pressão](/images/canja_de_galinha_na_press_o.jpg)

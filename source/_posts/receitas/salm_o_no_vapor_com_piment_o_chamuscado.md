@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salmão no vapor com pimentão chamuscado](/images/salm_o_no_vapor_com_piment_o_chamuscado.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de frango com repolho e abacaxi](/images/salada_de_frango_com_repolho_e_abacaxi.jpg)

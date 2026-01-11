@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picanha na air fryer com sal grosso](/images/picanha_na_air_fryer_com_sal_grosso.jpg)

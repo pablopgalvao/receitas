@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de lentilha e polenta com abóbora](/images/escondidinho_de_lentilha_e_polenta_com_ab_bora.jpg)

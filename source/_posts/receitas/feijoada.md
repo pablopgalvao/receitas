@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 24 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijoada](/images/feijoada.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ensopadinho de camarão com chuchu](/images/ensopadinho_de_camar_o_com_chuchu.jpg)

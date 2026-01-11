@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de peito de frango com leite de coco](/images/fil_de_peito_de_frango_com_leite_de_coco.jpg)

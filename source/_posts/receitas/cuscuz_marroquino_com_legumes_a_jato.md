@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cuscuz marroquino com legumes a jato](/images/cuscuz_marroquino_com_legumes_a_jato.jpg)

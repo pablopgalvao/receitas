@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 165 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha de porco assada](/images/costelinha_de_porco_assada.jpg)

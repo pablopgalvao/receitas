@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Manga flambada com cachaça](/images/manga_flambada_com_cacha_a.jpg)

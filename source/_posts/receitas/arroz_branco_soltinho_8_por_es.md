@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz branco soltinho (8 porções)](/images/arroz_branco_soltinho_8_por_es.jpg)

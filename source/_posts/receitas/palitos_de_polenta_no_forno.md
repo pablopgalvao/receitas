@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Palitos de polenta no forno](/images/palitos_de_polenta_no_forno.jpg)

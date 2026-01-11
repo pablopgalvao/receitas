@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picadinho oriental com lombo e abacaxi](/images/picadinho_oriental_com_lombo_e_abacaxi.jpg)

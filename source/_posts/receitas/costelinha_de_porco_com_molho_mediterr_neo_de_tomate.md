@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costelinha de porco com molho mediterrâneo de tomate](/images/costelinha_de_porco_com_molho_mediterr_neo_de_tomate.jpg)

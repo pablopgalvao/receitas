@@ -16,7 +16,7 @@ difficulty: fácil
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mingau de aveia fit](/images/mingau_de_aveia_fit.jpg)

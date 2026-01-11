@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escarola escabeche com aliche](/images/escarola_escabeche_com_aliche.jpg)

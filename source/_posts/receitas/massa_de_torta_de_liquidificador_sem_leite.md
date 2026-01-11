@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Massa de torta de liquidificador sem leite](/images/massa_de_torta_de_liquidificador_sem_leite.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz à piamontese com carne](/images/arroz_piamontese_com_carne.jpg)

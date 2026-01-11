@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Queijo brie aperitivo na Air Fryer da Rita Lobo](/images/queijo_brie_aperitivo_na_air_fryer_da_rita_lobo.jpg)

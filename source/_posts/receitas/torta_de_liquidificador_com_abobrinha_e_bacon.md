@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de liquidificador com abobrinha e bacon](/images/torta_de_liquidificador_com_abobrinha_e_bacon.jpg)

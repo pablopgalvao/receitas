@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ambrosia rápida de leite em pó](/images/ambrosia_r_pida_de_leite_em_p.jpg)

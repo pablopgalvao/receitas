@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bruschetta de gorgonzola com pera](/images/bruschetta_de_gorgonzola_com_pera.jpg)

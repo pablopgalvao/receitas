@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada Caesar com crocante de parmesão](/images/salada_caesar_com_crocante_de_parmes_o.jpg)

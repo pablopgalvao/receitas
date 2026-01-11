@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 130 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pirulito de chocolate recheado](/images/pirulito_de_chocolate_recheado.jpg)

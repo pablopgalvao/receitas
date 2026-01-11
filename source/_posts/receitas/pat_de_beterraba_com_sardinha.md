@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Patê de beterraba com sardinha](/images/pat_de_beterraba_com_sardinha.jpg)

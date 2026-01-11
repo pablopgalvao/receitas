@@ -18,7 +18,7 @@ difficulty: médio
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Panqueca americana fit](/images/panqueca_americana_fit.jpg)

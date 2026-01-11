@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Talharim à carbonara em uma panela só](/images/talharim_carbonara_em_uma_panela_s.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de cenoura de liquidificador](/images/bolo_de_cenoura_de_liquidificador.jpg)

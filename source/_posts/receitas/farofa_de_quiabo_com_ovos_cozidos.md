@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de quiabo com ovos cozidos](/images/farofa_de_quiabo_com_ovos_cozidos.jpg)

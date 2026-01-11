@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 150 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Doce de abóbora caseiro](/images/doce_de_ab_bora_caseiro.jpg)

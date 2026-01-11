@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão roxo de beterraba assada](/images/macarr_o_roxo_de_beterraba_assada.jpg)

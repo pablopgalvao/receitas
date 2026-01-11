@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjiquinha grelhada com folhas verdes](/images/canjiquinha_grelhada_com_folhas_verdes.jpg)

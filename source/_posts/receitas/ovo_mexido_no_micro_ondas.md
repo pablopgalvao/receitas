@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Ovo mexido no micro-ondas](/images/ovo_mexido_no_micro_ondas.jpg)

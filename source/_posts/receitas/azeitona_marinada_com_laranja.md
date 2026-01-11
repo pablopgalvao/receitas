@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Azeitona marinada com laranja](/images/azeitona_marinada_com_laranja.jpg)

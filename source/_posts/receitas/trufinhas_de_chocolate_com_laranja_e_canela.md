@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Trufinhas de chocolate com laranja e canela](/images/trufinhas_de_chocolate_com_laranja_e_canela.jpg)

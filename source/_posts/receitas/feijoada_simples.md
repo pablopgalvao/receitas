@@ -23,7 +23,7 @@ difficulty: Médio
 servings: 16 Porções
 time: 2 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijoada Simples](/images/feijoada_simples.webp)

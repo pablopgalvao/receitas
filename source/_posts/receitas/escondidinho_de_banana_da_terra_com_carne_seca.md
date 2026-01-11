@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 65 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escondidinho de banana-da-terra com carne seca](/images/escondidinho_de_banana_da_terra_com_carne_seca.jpg)

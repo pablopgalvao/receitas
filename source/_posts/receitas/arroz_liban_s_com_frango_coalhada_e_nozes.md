@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz libanês com frango, coalhada e nozes](/images/arroz_liban_s_com_frango_coalhada_e_nozes.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Knaidlach com caldo de frango](/images/knaidlach_com_caldo_de_frango.jpg)

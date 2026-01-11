@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Boeuf bourguignon na pressão](/images/boeuf_bourguignon_na_pressa_o.jpg)

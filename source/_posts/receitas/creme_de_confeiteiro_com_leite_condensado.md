@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 140 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Creme de confeiteiro com leite condensado](/images/creme_de_confeiteiro_com_leite_condensado.jpg)

@@ -398,7 +398,7 @@ function buildAutofixContent(parsed, raw) {
     servings: (data.servings || "").toString(),
     time: normalizeTime(data.time || ""),
     calories: (data.calories ?? "").toString(),
-    author: (data.author || "Boil").toString(),
+    author: (data.author || "Lar do chef").toString(),
     flags: Array.from(flags),
   };
 

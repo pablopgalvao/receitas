@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Lasanha com ragu de cogumelo em uma panela só](/images/lasanha_com_ragu_de_cogumelo_em_uma_panela_s.jpg)

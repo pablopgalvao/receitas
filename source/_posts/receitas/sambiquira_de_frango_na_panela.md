@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sambiquira de frango na panela](/images/sambiquira_de_frango_na_panela.jpg)

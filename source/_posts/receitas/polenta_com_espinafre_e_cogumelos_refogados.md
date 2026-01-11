@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Polenta com espinafre e cogumelos refogados](/images/polenta_com_espinafre_e_cogumelos_refogados.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 210 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Costela assada no forno](/images/costela_assada_no_forno.jpg)

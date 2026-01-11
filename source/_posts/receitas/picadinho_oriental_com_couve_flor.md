@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Picadinho oriental com couve-flor](/images/picadinho_oriental_com_couve_flor.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne moída com vagem, farofa de cenoura e saladinha de rabanete](/images/carne_mo_da_com_vagem_farofa_de_cenoura_e_saladinha_de_rabanete.jpg)

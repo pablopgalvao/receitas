@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 175 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibe de mandioca](/images/quibe_de_mandioca.jpg)

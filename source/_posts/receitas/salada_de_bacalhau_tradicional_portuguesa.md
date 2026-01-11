@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 25 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de bacalhau tradicional portuguesa](/images/salada_de_bacalhau_tradicional_portuguesa.jpg)

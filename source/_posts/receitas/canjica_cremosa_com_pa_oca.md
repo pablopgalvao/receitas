@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 90 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Canjica cremosa com paçoca](/images/canjica_cremosa_com_pa_oca.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 55 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Berinjela empanada com farinha de trigo](/images/berinjela_empanada_com_farinha_de_trigo.jpg)

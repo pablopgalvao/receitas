@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Carne de panela com batata e cenoura na pressão](/images/carne_de_panela_com_batata_e_cenoura_na_press_o.jpg)

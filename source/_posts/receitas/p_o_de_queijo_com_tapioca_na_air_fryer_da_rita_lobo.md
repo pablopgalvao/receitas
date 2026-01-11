@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 40 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão de queijo com tapioca na Air Fryer da Rita Lobo](/images/p_o_de_queijo_com_tapioca_na_air_fryer_da_rita_lobo.jpg)

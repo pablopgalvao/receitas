@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 265 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pudim de maria-mole sem leite condensado](/images/pudim_de_maria_mole_sem_leite_condensado.jpg)

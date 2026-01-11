@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Molho vinagrete francês para salada](/images/molho_vinagrete_franc_s_para_salada.jpg)

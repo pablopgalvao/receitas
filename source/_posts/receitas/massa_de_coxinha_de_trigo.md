@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Massa de coxinha de trigo](/images/massa_de_coxinha_de_trigo.jpg)

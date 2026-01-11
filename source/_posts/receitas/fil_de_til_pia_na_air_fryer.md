@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Filé de tilápia na air fryer](/images/fil_de_til_pia_na_air_fryer.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de couve com vinagrete de laranja](/images/salada_de_couve_com_vinagrete_de_laranja.jpg)

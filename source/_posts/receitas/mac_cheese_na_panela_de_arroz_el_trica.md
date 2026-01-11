@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Mac & cheese na panela de arroz elétrica](/images/mac_cheese_na_panela_de_arroz_el_trica.jpg)

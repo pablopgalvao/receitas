@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Abóbora grelhada com castanha-de-caju e pimenta biquinho](/images/ab_bora_grelhada_com_castanha_de_caju_e_pimenta_biquinho.jpg)

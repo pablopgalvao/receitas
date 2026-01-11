@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 8 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Suco de beterraba com cenoura e laranja](/images/suco_de_beterraba_com_cenoura_e_laranja.jpg)

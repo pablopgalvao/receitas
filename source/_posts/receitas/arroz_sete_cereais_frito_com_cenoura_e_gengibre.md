@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Arroz sete cereais frito com cenoura e gengibre](/images/arroz_sete_cereais_frito_com_cenoura_e_gengibre.jpg)

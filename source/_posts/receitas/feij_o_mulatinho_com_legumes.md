@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 70 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Feijão mulatinho com legumes](/images/feij_o_mulatinho_com_legumes.jpg)

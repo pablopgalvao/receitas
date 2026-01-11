@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Quibe de abóbora com ricota](/images/quibe_de_ab_bora_com_ricota.jpg)

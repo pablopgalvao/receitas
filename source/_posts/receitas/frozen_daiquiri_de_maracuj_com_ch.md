@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Frozen daiquiri de maracujá com chá](/images/frozen_daiquiri_de_maracuj_com_ch.jpg)

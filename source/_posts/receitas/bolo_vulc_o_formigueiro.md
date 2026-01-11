@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo vulcão formigueiro](/images/bolo_vulc_o_formigueiro.jpg)

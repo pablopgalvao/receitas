@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 60 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Batata gratinada com bacalhau](/images/batata_gratinada_com_bacalhau.jpg)

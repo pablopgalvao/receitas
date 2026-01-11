@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Macarrão a cavalo (reaproveitamento)](/images/macarr_o_a_cavalo_reaproveitamento.jpg)

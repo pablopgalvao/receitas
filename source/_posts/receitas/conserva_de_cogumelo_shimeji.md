@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Conserva de cogumelo shimeji](/images/conserva_de_cogumelo_shimeji.jpg)

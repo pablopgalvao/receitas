@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Risoto japonês com cogumelos](/images/risoto_japon_s_com_cogumelos.jpg)

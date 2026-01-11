@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Rosbife com molho de figo e vinho com purê de batatas](/images/rosbife_com_molho_de_figo_e_vinho_com_pur_de_batatas.jpg)

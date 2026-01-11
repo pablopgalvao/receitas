@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 3 hora
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil assado com molho de abacaxi](/images/pernil_assado_com_molho_de_abacaxi.jpg)

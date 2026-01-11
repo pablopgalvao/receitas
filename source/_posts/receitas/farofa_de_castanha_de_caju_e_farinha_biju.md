@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Farofa de castanha-de-caju e farinha biju](/images/farofa_de_castanha_de_caju_e_farinha_biju.jpg)

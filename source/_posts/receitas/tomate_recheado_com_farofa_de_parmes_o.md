@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Tomate recheado com farofa de parmesão](/images/tomate_recheado_com_farofa_de_parmes_o.jpg)

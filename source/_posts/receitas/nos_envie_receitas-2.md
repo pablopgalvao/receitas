@@ -26,7 +26,7 @@ difficulty: Fácil
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Diversos ingredientes](/images/ingredientes.jpg)

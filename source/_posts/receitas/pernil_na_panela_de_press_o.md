@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 71 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pernil na panela de pressão](/images/pernil_na_panela_de_press_o.jpg)

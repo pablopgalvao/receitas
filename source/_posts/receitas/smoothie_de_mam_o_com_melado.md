@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Smoothie de mamão com melado](/images/smoothie_de_mam_o_com_melado.jpg)

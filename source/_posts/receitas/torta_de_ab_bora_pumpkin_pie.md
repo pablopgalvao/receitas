@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Torta de abóbora (pumpkin pie)](/images/torta_de_ab_bora_pumpkin_pie.jpg)

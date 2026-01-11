@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 1 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Escabeche de sardinha prático](/images/escabeche_de_sardinha_pr_tico.jpg)

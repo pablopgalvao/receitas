@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 50 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pizza de sardinha da vovó](/images/pizza_de_sardinha_da_vov.jpg)

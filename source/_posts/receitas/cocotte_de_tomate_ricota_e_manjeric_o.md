@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Cocotte de tomate, ricota e manjericão](/images/cocotte_de_tomate_ricota_e_manjeric_o.jpg)

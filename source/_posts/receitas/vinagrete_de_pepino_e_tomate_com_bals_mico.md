@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Vinagrete de pepino e tomate com balsâmico](/images/vinagrete_de_pepino_e_tomate_com_bals_mico.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pudim de tahine com crocante de gergelim](/images/pudim_de_tahine_com_crocante_de_gergelim.jpg)

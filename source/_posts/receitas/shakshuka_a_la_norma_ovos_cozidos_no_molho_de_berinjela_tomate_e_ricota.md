@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 6 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Shakshuka a la norma (ovos cozidos no molho de berinjela, tomate e ricota)](/images/shakshuka_a_la_norma_ovos_cozidos_no_molho_de_berinjela_tomate_e_ricota.jpg)

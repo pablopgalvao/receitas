@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 2 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada morna de tomate com balsâmico e manjericão](/images/salada_morna_de_tomate_com_bals_mico_e_manjeric_o.jpg)

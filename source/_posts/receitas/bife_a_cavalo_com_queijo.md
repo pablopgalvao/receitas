@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bife a cavalo com queijo](/images/bife_a_cavalo_com_queijo.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 10 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de abobrinha com castanha-de-caju](/images/salada_de_abobrinha_com_castanha_de_caju.jpg)

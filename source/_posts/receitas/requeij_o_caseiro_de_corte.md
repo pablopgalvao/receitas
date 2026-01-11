@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 260 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Requeijão caseiro de corte](/images/requeij_o_caseiro_de_corte.jpg)

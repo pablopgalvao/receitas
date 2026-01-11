@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: ''
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Sal de laranja e alecrim](/images/sal_de_laranja_e_alecrim.jpg)

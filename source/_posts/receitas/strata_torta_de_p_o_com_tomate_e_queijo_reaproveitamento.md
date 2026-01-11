@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 15 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Strata, torta de pão com tomate e queijo (reaproveitamento)](/images/strata_torta_de_p_o_com_tomate_e_queijo_reaproveitamento.jpg)

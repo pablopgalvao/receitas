@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 45 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo gelado de figo com creme inglês](/images/bolo_gelado_de_figo_com_creme_ingl_s.jpg)

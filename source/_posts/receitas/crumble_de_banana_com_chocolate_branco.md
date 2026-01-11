@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 35 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Crumble de banana com chocolate branco](/images/crumble_de_banana_com_chocolate_branco.jpg)

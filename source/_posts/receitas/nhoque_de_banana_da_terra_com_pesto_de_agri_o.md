@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 20 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Nhoque de banana-da-terra com pesto de agrião](/images/nhoque_de_banana_da_terra_com_pesto_de_agri_o.jpg)

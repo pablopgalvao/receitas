@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 75 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Bolo de Natal com frutas cristalizadas](/images/bolo_de_natal_com_frutas_cristalizadas.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 110 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pão italiano de fermentação natural](/images/p_o_italiano_de_fermenta_o_natural.jpg)

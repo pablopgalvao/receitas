@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 30 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Salada de grão-de-bico à portuguesa](/images/salada_de_gr_o_de_bico_portuguesa.jpg)

@@ -11,7 +11,7 @@ difficulty: ''
 servings: ''
 time: 5 min
 calories: ''
-author: Boil
+author: Lar do chef
 flags: []
 ---
 ![Pizza rápida de muçarela com anchova na Air Fryer da Rita Lobo](/images/pizza_r_pida_de_mu_arela_com_anchova_na_air_fryer_da_rita_lobo.jpg)

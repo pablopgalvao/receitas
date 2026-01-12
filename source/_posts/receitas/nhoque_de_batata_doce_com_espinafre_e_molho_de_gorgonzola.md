@@ -2,7 +2,7 @@
 title: Nhoque de batata-doce com espinafre e molho de gorgonzola
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

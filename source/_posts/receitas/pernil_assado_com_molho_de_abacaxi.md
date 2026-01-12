@@ -2,7 +2,7 @@
 title: Pernil assado com molho de abacaxi
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

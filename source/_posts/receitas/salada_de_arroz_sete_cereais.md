@@ -2,7 +2,7 @@
 title: Salada de arroz sete cereais
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

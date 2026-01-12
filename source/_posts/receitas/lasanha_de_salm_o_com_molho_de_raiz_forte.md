@@ -2,7 +2,7 @@
 title: Lasanha de salmão com molho de raiz-forte
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

@@ -2,7 +2,7 @@
 title: Pastel de goiabada com queijo na Air Fryer da Rita Lobo
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

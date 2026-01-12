@@ -2,7 +2,7 @@
 title: 'Carne moída com vagem, farofa de cenoura e saladinha de rabanete'
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

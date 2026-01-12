@@ -2,7 +2,7 @@
 title: Cuscuz de milho com ovo pochê de micro-ondas
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

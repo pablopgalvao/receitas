@@ -2,7 +2,7 @@
 title: Pão de aveia integral
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

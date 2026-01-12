@@ -4,7 +4,7 @@ date: 2025-09-22T00:00:00.000Z
 categories:
   - Café da manhã
 tags:
-  - receitas populares
+  - Novidades populares
 ingredients:
   list:
     - farinha de arroz

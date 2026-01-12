@@ -2,7 +2,7 @@
 title: Bolinho de milho com queijo na Air Fryer Oven da Rita Lobo
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

@@ -2,7 +2,7 @@
 title: Moqueca de tilápia em postas
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

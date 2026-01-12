@@ -2,7 +2,7 @@
 title: Feijão-preto com tomate e folhas de coentro
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

@@ -2,7 +2,7 @@
 title: Farofa de abacaxi com bacon e calabresa
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

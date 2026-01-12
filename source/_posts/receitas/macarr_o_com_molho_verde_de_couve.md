@@ -2,7 +2,7 @@
 title: Macarrão com molho verde de couve
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

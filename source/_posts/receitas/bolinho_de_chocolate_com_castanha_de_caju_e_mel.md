@@ -2,7 +2,7 @@
 title: Bolinho de chocolate com castanha-de-caju e mel
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

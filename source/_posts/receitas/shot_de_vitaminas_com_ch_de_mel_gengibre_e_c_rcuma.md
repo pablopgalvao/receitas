@@ -2,7 +2,7 @@
 title: 'Shot de vitaminas com chá de mel, gengibre e cúrcuma'
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

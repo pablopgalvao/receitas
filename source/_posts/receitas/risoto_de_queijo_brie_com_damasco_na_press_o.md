@@ -2,7 +2,7 @@
 title: Risoto de queijo brie com damasco na pressão
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

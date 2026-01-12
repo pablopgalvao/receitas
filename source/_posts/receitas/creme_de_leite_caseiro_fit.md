@@ -2,9 +2,9 @@
 title: Creme de leite caseiro fit
 date: 2025-09-22T00:00:00.000Z
 categories:
-  - Receitas light / saudáveis
+  Light / saudáveis
 tags:
-  - receitas populares
+  - Novidades populares
 ingredients:
   list:
     - ovo
@@ -23,7 +23,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas light / saudáveis
+- **Categoria:** Light / saudáveis
 - **Dificuldade:** fácil
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min

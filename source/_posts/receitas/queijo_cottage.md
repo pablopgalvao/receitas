@@ -2,9 +2,9 @@
 title: Queijo cottage
 date: 2025-09-22T00:00:00.000Z
 categories:
-  - Receitas light / saudáveis
+  Light / saudáveis
 tags:
-  - receitas populares
+  - Novidades populares
 ingredients:
   list:
     - leite integral tipo a
@@ -21,7 +21,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas light / saudáveis
+- **Categoria:** Light / saudáveis
 - **Dificuldade:** fácil
 - **Rendimento:** 50 porções
 - **Tempo de preparo:** 

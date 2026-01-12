@@ -2,7 +2,7 @@
 title: 'Costelinha de porco na Air Fryer da Rita Lobo (3,2 litros)'
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

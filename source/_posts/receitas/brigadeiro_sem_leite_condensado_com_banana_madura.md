@@ -4,7 +4,7 @@ date: 2025-09-22T00:00:00.000Z
 categories:
   - Doces e bolos
 tags:
-  - receitas populares
+  - Novidades populares
 ingredients:
   list:
     - cacau em pó

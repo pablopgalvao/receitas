@@ -2,7 +2,7 @@
 title: Bombom de sorvete de doce de leite
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

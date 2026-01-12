@@ -2,7 +2,7 @@
 title: Tartine de escarola com gorgonzola e nozes
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

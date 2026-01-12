@@ -2,7 +2,7 @@
 title: Maionese prática de batata
 date: 2025-09-20T00:00:00.000Z
 categories:
-  - Receitas light / saudáveis
+  Light / saudáveis
 tags:
   - batata
   - churrasco
@@ -28,7 +28,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas light / saudáveis
+- **Categoria:** Light / saudáveis
 - **Dificuldade:** Fácil
 - **Rendimento:** 4 Porções
 - **Tempo de preparo:** 20 min (+1h de geladeira)

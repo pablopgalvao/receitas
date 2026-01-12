@@ -2,7 +2,7 @@
 title: Picadinho oriental com couve-flor
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

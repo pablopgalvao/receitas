@@ -2,7 +2,7 @@
 title: Rosbife com batata e brócolis na Air Fryer com Vapor da Rita Lobo
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

@@ -2,7 +2,7 @@
 title: Chá gelado de amora e laranja com linhaça dourada
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Receitas
+  - Novidades
 tags:
   - null
 ingredients:

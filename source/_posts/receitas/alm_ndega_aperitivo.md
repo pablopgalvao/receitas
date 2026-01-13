@@ -33,7 +33,7 @@ flags: []
 - ½ colher (chá) de cominho
 - ½ colher (chá) de sal
 - folhas de hortelã e salsinha a gosto para servir
-- No processador, junte a carne, a cebola e bata até triturar bem. Acrescente a farinha de rosca, a salsinha, a hortelã, o cominho, o sal, as raspas do limão e 1 colher (sopa) de azeite. Bata novamente para formar uma massa lisa.
+
 - --
 
 ---

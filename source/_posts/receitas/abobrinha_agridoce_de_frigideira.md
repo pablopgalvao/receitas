@@ -36,9 +36,6 @@ flags: []
 - 1 colher (sopa) de azeite Andorinha
 - 5 ramos de salsinha
 - sal e pimenta-do-reino moída na hora a gosto
-- Lave e seque as abobrinhas. Lave e seque as folhas de hortelã e de salsinha.
-- Numa tigela pequena, misture o mel com o vinagre de maçã e tempere com uma pitada de sal.
-- Com uma pinça, vire as abobrinhas, tempere com sal e pimenta a gosto e deixe dourar por 1 minuto. Abaixe o fogo, tampe a frigideira e deixe as abobrinhas cozinhar por mais 4 minutos, até que fiquem levemente macias.
 - --
 
 ---

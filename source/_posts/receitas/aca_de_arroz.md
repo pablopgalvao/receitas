@@ -32,8 +32,7 @@ flags: []
 - 400 ml de leite de coco (cerca de 1 ⅔ de xícara)
 - 1 colher (chá) de sal
 - óleo para untar a fôrma
-- No liquidificador, bata o leite de coco com 1 xícara (chá) do leite, a farinha de arroz e o sal, até ficar liso.
-- Enquanto o creme cozinha, unte com óleo uma fôrma de bolo inglês de 30 cm x 11 cm.
+
 - --
 
 ---

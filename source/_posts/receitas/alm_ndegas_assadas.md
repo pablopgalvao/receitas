@@ -32,9 +32,7 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado fino (cerca de 40 g)
 - salsinha fresca picada a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Descasque e pique fino o alho. Lave, seque e pique fino a salsinha.
-- Quebre o ovo numa tigela e junte ao miolo de pão umedecido. Acrescente as carnes, o alho e tempere com sal e pimenta-do-reino moída na hora a gosto. Misture bem com as mãos, até formar uma massa homogênea.
-- Por último, misture o queijo ralado e a salsinha.
+
 - --
 
 ---

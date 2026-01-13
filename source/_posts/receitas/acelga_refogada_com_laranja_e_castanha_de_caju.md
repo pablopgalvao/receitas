@@ -33,8 +33,7 @@ flags: []
 - 1 colher (chá) de amido de milho
 - 1 colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com o azeite, acrescente o alho e mexa por apenas 1 minuto para perfumar. Junte a acelga fatiada, tempere com sal e pimenta-do-reino a gosto e misture bem. Regue com a mistura do caldo de laranja e amido de milho, misture e deixe cozinhar por mais 5 minutos, mexendo de vez em quando, até a acelga murchar e o caldo engrossar.
-- Desligue o fogo, misture a castanha-de-caju picada e sirva a seguir. Essa acelga é um ótimo acompanhamento para o salmão em crosta de ervas.
+
 - --
 
 ---

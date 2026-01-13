@@ -36,11 +36,7 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - queijo parmesão ralado a gosto
 - folhas de hortelã a gosto
-- Com uma escovinha para legumes lave bem a casca das abobrinhas sob água corrente. Seque e corte cada uma ao meio no sentido do comprimento. Com uma colher de sobremesa retire o miolo das abobrinhas, deixando uma borda de cerca de 0,5 cm da casca - assim elas ficam no formato de uma canoa para rechear.
-- Leve uma panela pequena ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, junte a cebola e refogue por 2 minutos, até murchar. Acrescente o alho e mexa por 1 minuto para perfumar. Junte o miolo da abobrinha, tempere com sal e pimenta e refogue por 5 minutos até ficar bem macio.
-- Transfira o refogado para uma tigela, junte a ricota e misture bem com um garfo. Tempere com noz-moscada a gosto, prove e ajuste o sal. Por último misture as nozes picadas.
-- Coloque as abobrinhas numa assadeira, com a cavidade voltada para cima. Tempere o interior de cada uma com sal e pimenta-do-reino a gosto. Com uma colher, distribua o recheio de ricota nas cavidades das abobrinhas e regue com um fio de azeite.
-- Polvilhe as abobrinhas com queijo parmesão ralado e leve ao forno para assar por cerca de 30 minutos, até dourar. Retire do forno e sirva a seguir salpicado com folhas de salsinha frescas.
+
 - --
 
 ---

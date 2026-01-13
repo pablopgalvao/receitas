@@ -37,10 +37,7 @@ flags: []
 - 1/2 colher de chá de pimenta-do-reino ou a gosto
 - 1 xícara de chá de molho de tomate ou a gosto
 - Cebolinha a gosto para finalizar
-- Em uma tigela grande, adicione a carne de frango moída, a farinha de rosca, o alho em pó, a cebolinha picada e o ovo. Misture tudo muito bem até obter uma massinha de carne;
-- Em seguida, tempere com sal, pimenta-do-reino e misture novamente para incorporar. Se julgar necessário, misture com as mãos para garantir que tudo fique bem temperado;
-- Agora, pegue uma quantidade da carne com uma colher de sopa e modele com as mãos em formato de bolinhas. Faça isso com toda a carne, colocando as bolinhas sobre uma assadeira. Leve a assadeira ao freezer por 1 hora para congelar;
-- Finalize com cebolinha a gosto e está pronto! Sirva com espaguete ou arroz e salada. Bom apetite!
+
 - --
 
 ---

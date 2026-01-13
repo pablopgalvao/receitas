@@ -4,7 +4,8 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - bahia
+  - nordeste
 ingredients:
   list: []
 difficulty: ''
@@ -38,11 +39,7 @@ flags: []
 - Gengibre ralado a gosto
 - Sal a gosto
 - 3 xícaras de chá de azeite de dendê
-- Descasque e corte a cebola em 4 pedaços. Transfira para o processador. Bata até o feijão formar uma pastinha. Se preciso, no meio do processo, desligue o processador e use uma colher para espalhar a massa;
-- Despeje a pastinha em uma vasilha e tempere com sal. Com uma colher de pau, misture bem a massa para incorporar ar e dobrar de volume. Reserve.
-- Em um liquidificador, coloque os camarões secos, o leite de coco, o amendoim, a castanha-de-caju, a cebola, a farinha de mandioca e o gengibre. Bata até formar um creme homogêneo;
-- Despeje o creme em uma panela alta e tempere com sal. Deixe cozinhar em fogo médio, mexendo sempre, por cerca de 20 minutos. O ponto do vatapá é quando ele começa a desgrudar da panela;
-- Com o auxílio de uma colher de sopa, pegue pequenas porções da massa de acarajé e frite até dourar. Não coloque muitos bolinhos de uma vez só na panela. Repita o processo até acabar;
+
 - --
 
 ---

@@ -30,7 +30,6 @@ flags: []
 
 - ⅓ de xícara (chá) de amêndoa laminada torrada
 - 2 colheres (sopa) de licor de amêndoas (amaretto) (opcional)
-- Retire os cubinhos da geladeira, junte o sorvete de creme e misture. Divida nas duas metades do abacaxi, salpique com as amêndoas laminadas e sirva imediatamente.
 - --
 
 ---

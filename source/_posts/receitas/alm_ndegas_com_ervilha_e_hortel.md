@@ -41,9 +41,7 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - folhas de hortelã a gosto
 - salsinha fresca a gosto
-- Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, acrescente as almôndegas e deixe dourar por 5 minutos, mexendo a frigideira de vez em quando. Transfira as almôndegas douradas para uma travessa e mantenha a frigideira em fogo médio.
-- Regue com ½ colher (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o alho e mexa bem por 1 minuto. Adicione a água e misture raspando bem o fundo da frigideira para dissolver os queimadinhos – são eles que dão sabor ao molho. Junte o caldo do limão, tempere com sal e pimenta e deixe cozinhar até ferver.
-- Volte as almôndegas à frigideira, abaixe o fogo e deixe cozinhar por mais 5 minutos. Desligue o fogo, adicione a manteiga e faça movimentos circulares com a frigideira. Não use uma colher, não vai funcionar – tem mesmo que fazer esses movimentos até a manteiga derreter e engrossar o molho. Misture as ervilhas e deixe descongelar no próprio calor da frigideira. Sirva a seguir com folhas de hortelã e salsinha.
+
 - --
 
 ---

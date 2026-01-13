@@ -31,8 +31,7 @@ flags: []
 - Salada de abóbora assada com agrião e lascas de parmesão
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Numa assadeira grande, junte os cubos de abóbora, os dentes de alho descascados e as folhas de sálvia. Regue com o azeite e tempere com sal e pimenta-do-reino moída na hora a gosto. Misture bem para envolver todos os cubos e folhas de sálvia com o azeite.
-- Leve ao forno para assar por cerca de 30 minutos, ou até a abóbora ficar dourada e macia por dentro – na metade do tempo, vire os cubos com uma espátula para dourar por igual. Retire do forno e sirva a seguir como acompanhamento de risotos, carnes ou em saladas.
+
 - --
 
 ---

@@ -36,9 +36,7 @@ flags: []
 - 2 colheres (chá) de sal
 - óleo de gergelim a gosto
 - gergelim branco e preto torrado a gosto
-- Assim que a água ferver, adicione o sal e mergulhe as folhas de acelga em 3 etapas para branquear. Deixe cozinhar por apenas 2 minutos. Com uma pinça, transfira as folhas para a tigela com água e gelo para interromper o cozimento — assim elas ficam macias, mas sem perder a textura. Passe as folhas de acelga branqueadas para um escorredor e repita a operação com o restante.
-- Aperte delicadamente as folhas branqueadas com as mãos para tirar o excesso de água. Numa tigela pequena, misture o gengibre com o vinagre, o açúcar e o shoyu.
-- Na hora de servir, regue com óleo de gergelim e salpique com gergelim preto e branco torrados a gosto.
+
 - --
 
 ---

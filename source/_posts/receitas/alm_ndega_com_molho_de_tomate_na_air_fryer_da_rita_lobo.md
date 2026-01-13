@@ -36,12 +36,7 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - folhas de salsinha a gosto para servir
 - folhas de manjericão a gosto para servir
-- Lave, seque e corte os tomates ao meio no sentido do comprimento. Descasque e pique fino a cebola e dois dentes de alho (mantenha os outros inteiros com a casca). Lave, seque e pique fino a salsinha.
-- Coloque os tomates e os dentes de alho inteiros numa tigela grande, tempere com 2 colheres (sopa) de azeite, ½ colher (chá) de sal e pimenta a gosto.
-- Na mesma tigela em que temperou os tomates (nem precisa lavar!), coloque a carne moída, a cebola e o alho picados. Adicione 1 colher (sopa) de azeite, ½ colher (chá) de sal e pimenta a gosto e misture bem, amassando com as mãos. Forme uma bola com toda a carne e arremesse contra a tigela algumas vezes para liberar o colágeno — isso evita que as almôndegas se desmanchem na hora de assar.
-- Adicione o queijo parmesão, a salsinha e a farinha de rosca à carne e amasse novamente.
-- Na tábua, pique os tomates com os dentes de alho — a ideia é fazer um molho rústico. Transfira o tomate picado (com o caldinho) para uma tigela, adicione o manjericão, regue com 1 colher (sopa) de azeite e misture bem. Prove e, se necessário, ajuste o sal.
-- Retire as almôndegas assadas da Air Fryer e sirva com o molho de tomate e folhas de salsinha e manjericão a gosto.
+
 - --
 
 ---

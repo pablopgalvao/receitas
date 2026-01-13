@@ -32,8 +32,7 @@ flags: []
 - 2 colheres (sopa) de azeite
 - 1 colher (chá) de sal
 - pimenta-do-reino moída na hora a gosto
-- Junte os cubos de abóbora, tempere com o sal e deixe cozinhar, mexendo de vez em quando, por cerca de 10 minutos até a abóbora começar a ficar macia. Tampe a frigideira e deixe a abóbora abafada por 5 minutos, para cozinhar no próprio vapor.
-- Retire a tampa e mexa por mais alguns minutos, pressionando com as costas da colher para desmanchar os pedaços de abóbora (se preferir, utilize um amassador de batatas). Desligue o fogo, tempere com pimenta a gosto e sirva a seguir.
+
 - --
 
 ---

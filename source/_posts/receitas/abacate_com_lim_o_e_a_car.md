@@ -32,7 +32,7 @@ flags: []
 - Salada de abacate
 - 1 abacate maduro (3 xícaras (chá) em pedaços de 1,5 cm)
 - 2 colheres (sopa) de açúcar
-- Divida em 4 tigelas, polvilhe com açúcar e regue com caldo de limão. Sirva imediatamente.
+
 - --
 
 ---

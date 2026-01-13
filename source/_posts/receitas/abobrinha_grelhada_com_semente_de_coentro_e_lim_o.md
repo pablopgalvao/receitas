@@ -32,7 +32,6 @@ flags: []
 - ½ colher (chá) de sementes de coentro
 - azeite a gosto
 - sal a gosto
-- Vire os pedaços com uma pinça e mantenha em fogo médio para dourar o outro lado. Acrescente as sementes de coentro, tempere com sal e regue com mais um fio de azeite. Mexa por 1 minuto até a abobrinha ficar levemente macia e absorver o sabor do coentro.
 - --
 
 ---

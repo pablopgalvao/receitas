@@ -34,9 +34,6 @@ flags: []
 - azeite a gosto
 - folhas de salsinha a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Com uma escovinha para legumes, lave bem a casca da abóbora sob água corrente. Com uma colher, raspe e descarte as sementes. Apoie a parte plana da abóbora na tábua e corte em fatias de 1 cm, formando meias-luas.
-- Leve uma bistequeira (ou frigideira antiaderente) ao fogo médio. Quando estiver bem quente, regue com 1 colher (chá) de azeite e coloque quantas fatias de abóbora couberem, uma ao lado da outra. Tempere com sal e pimenta-do-reino e deixe dourar por cerca de 2 minutos de cada lado, até ficar macia e tostada.
-- Transfira as fatias douradas para uma uma travessa e repita com o restante, sempre regando a bistequeira com azeite. Sirva a seguir com mais um fio de azeite, as castanhas-de-caju picadas, pimenta biquinho e folhas de salsinha.
 - --
 
 ---

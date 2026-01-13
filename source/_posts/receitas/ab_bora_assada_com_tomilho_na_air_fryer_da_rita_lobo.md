@@ -31,7 +31,6 @@ flags: []
 - Salmão com brócolis na Air Fryer da Rita Lobo
 - 1 colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Corte a abóbora em cubos médios de 2 cm (no total, você vai ter cerca de 3½ xícaras [chá] de abóbora). Numa tigela, tempere a abóbora com o azeite, sal e pimenta a gosto. Misture bem com as mãos para envolver todos os pedaços no tempero.
 - --
 
 ---

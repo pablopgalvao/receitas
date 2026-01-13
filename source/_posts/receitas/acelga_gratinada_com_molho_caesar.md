@@ -33,8 +33,7 @@ flags: []
 - ½ xícara (chá) de óleo de milho
 - queijo parmesão ralado na hora a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Pique fino o filé de anchova e transfira para uma tigela. Junte a gema, a mostarda, o caldo de limão, 2 colheres (sopa) de parmesão ralado e misture bem com um batedor de arame - coloque um pano de prato sob a tigela para que ela não fique mexendo na hora de misturar. Regue com o óleo em fio, sem parar de mexer, até formar um molho grosso. Prove e tempere com sal e pimenta-do-reino a gosto.
-- Numa assadeira grande, coloque os quartos de acelga com a parte cortada para cima. Espalhe o molho sobre cada pedaço e polvilhe com queijo parmesão ralado a gosto. Leve ao forno para gratinar por cerca de 15 minutos. Sirva a seguir.
+
 - --
 
 ---

@@ -38,12 +38,7 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - 2 colheres (sopa) de farinha de rosca
 - 2 colheres (sopa) de queijo parmesão ralado fino
-- Com uma escovinha para legumes lave bem as abobrinhas sob água corrente. Seque e corte cada abobrinha ao meio no sentido do comprimento. Com uma colher de sobremesa retire o miolo das abobrinhas, deixando uma borda de cerca de 0,5 cm da casca - assim as abobrinhas ficam no formato de uma canoa para rechear.
-- Leve uma panela média ao fogo médio. Quando aquecer regue com 3 colheres (sopa) de azeite, junte a carne moída e polvilhe com a farinha de trigo. Misture, tempere com sal e pimenta e deixe dourar por cerca de 10 minutos, mexendo de vez em quando para soltar e dourar a carne por igual.
-- Transfira a carne dourada para uma tigela e mantenha a panela em fogo médio. Regue com mais 1 colher (sopa) de azeite, junte a cebola e o miolo da abobrinha picados. Tempere com uma pitada de sal e refogue por cerca de 2 minutos até murchar. Junte o alho, a canela, a páprica e a pimenta síria e misture bem por 1 minuto.
-- Regue com a água e misture, raspando bem o fundo da panela para dissolver os queimadinhos - eles dão sabor ao recheio. Volte a carne para a panela e misture bem - o recheio deve ficar ainda úmido. Desligue o fogo, prove e ajuste o sal e a pimenta-do-reino.
-- Tempere o interior das abobrinhas com sal e pimenta-do-reino moída na hora a gosto. Com uma colher, distribua o recheio de carne nas cavidades de cada abobrinha e regue com um fio de azeite.
-- Numa tigela pequena, misture a farinha de rosca com o queijo ralado. Polvilhe sobre cada abobrinha e leve a assadeira ao forno preaquecido. Deixe assar por cerca de 30 minutos, até dourar. Retire do forno e sirva a seguir com salada de folhas verdes.
+
 - --
 
 ---

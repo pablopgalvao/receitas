@@ -39,9 +39,7 @@ flags: []
 - folhas de endro (dill) a gosto para servir
 - folhas de hortelã a gosto para servir
 - amêndoas laminadas tostadas a gosto para servir
-- Numa tigela, coloque o miolo de pão e umedeça com ¼ de xícara (chá) de água gelada. Deixe descansar por cerca de 5 minutos, ou até que o miolo esteja hidratado e macio – quanto mais seco estiver o pão, mais tempo vai levar para amolecer.
-- Descasque os dentes de alho e transfira para o liquidificador. Junte as amêndoas, o pão umedecido (com a água da tigela), o restante da água gelada, o azeite e o vinagre. Tempere com uma pitada de sal, pimenta e de noz-moscada. Bata por cerca de 3 minutos, até triturar bem todos os ingredientes e a sopa ficar cremosa, bem emulsionada. Prove e, se necessário, acerte o sal e a pimenta.
-- Transfira a sopa para os pratos e sirva a seguir com as uvas verdes, as ervas e amêndoas tostadas a gosto (se preferir, você pode preparar a sopa e manter na geladeira até 1 hora antes de servir, para ficar bem fresquinha).
+
 - --
 
 ---

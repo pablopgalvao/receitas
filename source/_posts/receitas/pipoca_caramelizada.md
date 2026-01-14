@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de milho de pipoca (100 gramas)
 - 1 colher de sopa de óleo (cerca de 15 ml)
@@ -35,7 +35,6 @@ flags: []
 - Em uma panela grande, no fogo médio para baixo, adicione o óleo e os milhos. Mexa com uma espátula até os grãos ficarem esbranquiçados ou o primeiro milho estourar. Mantenha a tampa perto, para tampar a panela rapidamente;
 - Utilize um papel-toalha para limpar os resíduos da pipoca que sobrarem na panela. Quando estiver limpa, coloque o açúcar e ligue o fogo baixo;
 - Mexa o açúcar com a espátula até ela virar caramelo. Desligue o fogo para não queimar;
-- --
 
 ---
 

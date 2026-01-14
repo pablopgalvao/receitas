@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de açúcar
 - 3 xícaras de chá de farinha de trigo sem fermento
@@ -39,7 +39,6 @@ flags: []
 - Gradualmente, vá adicionando o açúcar e batendo até dobrar de volume e formar um creme branco;
 - Acrescente a farinha de trigo peneirada, o leite morno (não pode estar quente e nem gelado, pois estraga o fermento posteriormente) e a essência de baunilha. Bata até formar uma massa homogênea, cerca de 10 segundos;
 - Despeje a massa em uma forma média (24 cm de diâmetro X 6,8 cm de altura) untada e enfarinhada. Se preferir coloque em 2 formas, o pão de ló ficará mais fininho, perfeito para rechear sem precisar ser cortado ao meio. Leve ao forno preaquecido a 180 ºC por cerca de 55 minutos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve uma frigideira ao fogo médio, regue com 1 colher (sopa) de azeite e refogue a cebola até dourar. Desligue o fogo.
 - Escorra a água do bacalhau, transfira as lascas para a frigideira e misture com as cebolas douradas. Adicione o feijão fradinho (sem caldo) e os tomates. Regue com o azeite restante, o caldo de limão e tempere com sal e pimenta-do-reino a gosto. Misture bem.
 - Transfira para uma saladeira e finalize com a salsinha picada. Sirva a seguir em temperatura ambiente ou leve para esfriar na geladeira.
-- --
 
 ---
 

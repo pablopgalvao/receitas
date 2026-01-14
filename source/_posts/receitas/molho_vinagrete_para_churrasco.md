@@ -36,7 +36,6 @@ flags: []
 - **Rendimento:** 10 Porções
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +49,6 @@ flags: []
 - 1 xícara (chá) de azeite
 - 1/2 xícara (chá) de vinagre
 - 1/2 xícara (chá) de água
-
 
 ---
 

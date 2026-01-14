@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de bacon
 - 1 pacote de macarrão espaguete (500 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Volte para a panela com alho e cebola. Com o auxílio de uma espátula, faça um círculo no meio da frigideira para abrir espaço. Ali, adicione o extrato de tomate, o orégano, a pimenta-do-reino e a manteiga. Misture tudo por cerca de 3 minutos, até que a manteiga derreta e os temperos se incorporem;
 - Adicione 350 ml da água do cozimento do macarrão, que já vai estar al dente, e adicione o bacon fritinho de volta nessa panela. Misture tudo até virar um molho uniforme;
 - Despeje o macarrão diretamente na panela com o molho com o auxílio de um pegador (não é necessário escorrer) e finalize com a salsinha e cebolinha a gosto;
-- --
 
 ---
 

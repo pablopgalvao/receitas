@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 maço pequeno de alface (100 gramas)
 - 1/2 repolho roxo pequeno (150 gramas)
@@ -45,7 +45,6 @@ flags: []
 - Reúna os ingredientes da salada de brócolis;
 - Em outro recipiente, misture bem o sal, o azeite, o vinagre, o suco de limão, o gergelim, a salsa e a pimenta;
 - Despeje o molho sobre a salada e misture bem. Sirva essa salada refrescante e saudável na sua refeição. Bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de frango
 - 1 pote de manteiga (100 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Na mesma panela, com os alhos, junte o restante da manteiga e a farinha de trigo. Misture sem parar por aproximadamente 2 minutos, até que o molho fique douradinho;
 - Tempere com sal e pimenta-do-reino, depois acrescente os frangos;
 - Finalize com cebolinha a gosto e pronto! Sirva o frango com um arroz branco bem soltinho ou outro acompanhamento de sua preferência.
-- --
 
 ---
 

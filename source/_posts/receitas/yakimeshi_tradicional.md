@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de óleo
 - 300 gramas de arroz gohan cozido
 - 1 colher de chá de sal
 - Agora, em uma frigideira, aqueça o óleo e frite os ovos. Mexa sempre para que a gema e a clara se misturem e virem algo parecido com ovos mexidos. Tempere com sal;
-- --
 
 ---
 

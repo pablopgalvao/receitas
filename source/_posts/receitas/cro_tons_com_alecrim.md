@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal a gosto
 - Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite e acrescente os cubos de pão. Tempere com sal e mantenha em fogo médio por cerca de 5 minutos, mexendo de vez em quando, até dourar.
 - Regue os croutons com um fio de azeite e junte o alecrim picado. Mexa por mais 1 minuto para perfumar. Transfira os croûtons para uma travessa e deixe esfriar completamente antes de armazenar ou servir – eles ficam mais crocantes depois de frios. Sirva como acompanhamento de saladas, sopas ou massas.
-- --
 
 ---
 

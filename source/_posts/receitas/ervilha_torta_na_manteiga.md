@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 1 colher (sopa) de manteiga
 - sal a gosto
 - Leve uma frigideira com a manteiga ao fogo médio. Assim que derreter, junte as ervilhas-tortas, tempere com sal a gosto e refogue por 3 minutos – atenção para o ponto elas devem estar cozidas mas ainda crocantes. Sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 150 ml de água
 - 1 fatia grossa de abacaxi maduro (cerca de 100 gramas)
 - 100 ml de leite de coco ou bebida vegetal (pode ser leite comum, se preferir)
 - 1 colher de chá de mel ou agave (opcional)
 - Gelo a gosto
-- --
 
 ---
 

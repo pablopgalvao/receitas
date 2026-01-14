@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filés de frango
 - Sal e pimenta-do-reino a gosto
@@ -40,7 +40,6 @@ flags: []
 - Tempere os filés de frango com sal, pimenta-do-reino, mix de temperos e o alho amassado. Misture bem e deixe marinando por 30 minutos;
 - Para o molho, coloque em um recipiente, o tomate, a cebola, o cheiro-verde, a maionese e tempere com sal, pimenta-do-reino e páprica defumada. Misture tudo muito bem;
 - Distribua a mussarela ralada por cima e salpique um pouco de orégano;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - ¾ de xícara (chá) de açúcar
 - ¼ de xícara (chá) de água fervente
 - Separe uma fôrma redonda, com furo no meio, de 18 cm de diâmetro. Leve uma chaleira com 3 xícaras (chá) de água ao fogo alto para ferver — ela vai ser usada para fazer a calda e o banho-maria.
-- --
 
 ---
 

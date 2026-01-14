@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarão limpo com casca
 - Sal e pimenta-do-reino a gosto
@@ -40,7 +40,6 @@ flags: []
 - Com o auxílio de uma colher, disponha gradualmente os camarões nessa mistura de farinhas;
 - Polvilhe com as mãos a farinha por cima dos camarões para ficarem bem empanados;
 - Frite em óleo quente por 5 minutos ou até ficarem dourados;
-- --
 
 ---
 

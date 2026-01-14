@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Numa peneira, escorra o soro do queijo cottage, apertando delicadamente com as costas de uma colher.
 - Transfira o queijo para uma tigela, junte o azeite e as raspas de limão. Misture bem e tempere com sal e pimenta-do-reino moída na hora a gosto.
 - Retire o macarrão da geladeira e sirva cada porção com uma colherada do queijo temperado. Regue com azeite e finalize com pimenta-do-reino moída na hora e folhas de hortelã.
-- --
 
 ---
 

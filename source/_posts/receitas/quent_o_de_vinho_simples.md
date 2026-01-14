@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Gengibre picado a gosto
 - Canela em ramas a gosto
 - Cravos a gosto
 - Em uma panela, coloque o açúcar, a casca de laranja, a casca de limão, o gengibre, a canela, o cravo e a água;
 - Leve ao fogo baixo e mexa bem até o açúcar derreter;
-- --
 
 ---
 

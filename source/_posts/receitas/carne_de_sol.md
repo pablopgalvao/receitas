@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Numa tigela pequena, misture o sal com o açúcar mascavo (caso esteja utilizando o sal grosso, bata no pilão para quebrar em pedaços menores).
 - Corte a carne em 4 pedaços grandes (de cerca de 15 cm x 4 cm) e seque bem com um pano de prato (ou papel toalha). Coloque os pedaços numa tigela e polvilhe com a mistura de açúcar e sal, espalhando bem com as mãos para cobrir toda a superfície.
 - Volte a frigideira ao fogo médio para aquecer. Regue com ¼ de xícara (chá) de manteiga de garrafa e volte quantos pedaços de carne couberem na frigideira novamente. Com uma colher, vá regando a carne com a manteiga quente por 4 minutos até aquecer o interior e dourar a superfície. Transfira os pedaços para a tábua e repita com o restante.
-- --
 
 ---
 

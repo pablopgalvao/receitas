@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de maionese
 - 2 colheres de sopa de requeijão cremoso
@@ -35,7 +35,6 @@ flags: []
 - 2 colheres de sopa de salsinha
 - Lave bem as azeitonas em água corrente para amenizar o sal da conserva;
 - Acrescente o queijo parmesão e a salsinha. Bata até o patê ficar bem lisinho, cerca de mais 1 minuto;
-- --
 
 ---
 

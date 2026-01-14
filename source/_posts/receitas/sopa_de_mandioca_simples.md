@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mandioca
 - 2 gomos de calabresa (300 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Adicione as folhas de louro, os dentes de alho amassados com sal e misture bem, integrando todos os sabores;
 - Esse processo é muito importante, repita pelo menos umas 5 vezes, até o caldo da carne começar a ficar espesso. Adicione 200 ml de água a cada 5 minutos;
 - Finalize, se quiser, com pimenta-do-reino e salsinha picada;
-- --
 
 ---
 

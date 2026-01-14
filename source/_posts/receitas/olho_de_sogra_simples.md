@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de leite condensado (395 gramas)
 - 100 gramas de coco seco ralado
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela, coloque o leite condensado, o coco seco ralado e a manteiga. Misture bem antes de ir ao fogo;
 - Com as mãos levemente umedecidas com água ou untadas com manteiga, pese porções de 15 gramas da massa, ou do tamanho que desejar, e modele as bolinhas;
 - Passe os docinhos no açúcar cristal e coloque em forminhas de papel de sua preferência para servir!
-- --
 
 ---
 

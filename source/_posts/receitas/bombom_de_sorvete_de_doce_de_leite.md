@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 xícara (chá) de chocolate 55% cacau em gotas (ou picado, cerca de 150 g)
 - 2 colheres (sopa) de óleo de coco
 - Misture o óleo de coco ao chocolate derretido ainda quente — esse é o truque da receita para que os bombons fiquem com uma camada bem fina de chocolate.
-- --
 
 ---
 

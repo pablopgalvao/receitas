@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal a gosto
 - Lave e seque bem as folhas de salsinha e de hortelã – para ficar mais fácil, utilize uma centrífuga de saladas, assim as folhas ficam bem sequinhas. Pique grosseiramente a salsinha e a hortelã.
 - Numa tigela coloque a cebola, o tomate, a salsinha e a hortelã picados. Tempere com o caldo de limão, o azeite, sal a gosto e misture bem. Acrescente o trigo hidratado e misture delicadamente com uma colher – o trigo é o último a entrar na salada para não ficar encharcado. Prove e ajuste o sal. Sirva a seguir com folhas de alface a gosto.
-- --
 
 ---
 

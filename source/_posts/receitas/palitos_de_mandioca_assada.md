@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 3 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Corte cada pedaço de mandioca ao meio, no sentido do comprimento, e cada metade em palitos de cerca de 2 cm de espessura. Disponha os palitos na assadeira, um ao lado do outro, e regue com o azeite restante. Tempere com sal e pimenta a gosto.
-- --
 
 ---
 

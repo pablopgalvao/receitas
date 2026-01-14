@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 185 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de mocotó
 - 1 calabresa (230 gramas)
@@ -47,7 +47,6 @@ flags: []
 - Em outra panela de pressão, coloque o bucho, cubra com água, adicione uma pitada de sal e leve para o fogo alto. Quando a panela pegar pressão, abaixe o fogo e cozinhe por 40 minutos;
 - Leve uma panela grande ao fogo médio, coloque um fio de óleo e adicione a cebola, refogue por 2 minutos ou até ficar transparente. Adicione o alho e refogue até dourar e liberar seu aroma;
 - Prove e ajuste o sal se necessário. Desligue e finalize com cheiro-verde por cima. Sirva e aproveite!
-- --
 
 ---
 

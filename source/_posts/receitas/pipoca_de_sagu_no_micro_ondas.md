@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 1 xícara de chá de pérolas de sagu (160 gramas)
 - 1/4 de colher de chá de sal
 - Polvilhe o sal por cima ou algum outro tempero que queira usar;
-- --
 
 ---
 

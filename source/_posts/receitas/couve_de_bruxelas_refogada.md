@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de couve-de-bruxelas
 - 1 colher de sopa de azeite de oliva
@@ -35,7 +35,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - 6 colheres de sopa de água
 - Leve ao fogo baixo e regue com o azeite. Tempere com sal e pimenta-do-reino;
-- --
 
 ---
 

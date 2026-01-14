@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de azeite
 - 1 e 1/2 xícara de chá de frango cozido e desfiado
@@ -40,7 +40,6 @@ flags: []
 - 4 xícaras de chá de água quente
 - Tempere com pimenta-do-reino, orégano, sal, cheiro-verde e o pimentão picado. Refogue por alguns minutos. Acrescente o milho e o arroz cru. Misture novamente para envolver bem os sabores;
 - Despeje a água quente, mexa e prove o caldo para ajustar o sal se necessário. Tampe parcialmente a panela e deixe cozinhar em fogo médio até que a água comece a secar;
-- --
 
 ---
 

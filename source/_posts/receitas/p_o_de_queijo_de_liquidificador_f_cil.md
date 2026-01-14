@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de polvilho azedo (300 gramas)
 - 1 ovo médio
@@ -39,7 +39,6 @@ flags: []
 - Quebre o ovo em uma xícara para verificar se ele não está estragado, em seguida, despeje no liquidificador desligado. Acrescente o polvilho, o óleo, o leite, o sal e a mussarela. Misture com a colher até formar uma massa homogênea;
 - Unte forminhas de cupcake antiaderentes, de silicone, alumínio ou a que tiver em casa. Passe manteiga e enfarinhe, deixando uma camada fina, ou unte com spray desmoldante. Preaqueça o forno a 200 ºC por 10 minutos;
 - Despeje 2 colheres de sopa da massa do liquidificador em cada forminha. Se forem forminhas individuais, coloque todas elas em uma assadeira e leve ao forno preaquecido por cerca de 25 minutos ou até a massa crescer e ficar douradinha;
-- --
 
 ---
 

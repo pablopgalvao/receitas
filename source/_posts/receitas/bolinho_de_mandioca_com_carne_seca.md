@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de mandioca cozida
 - 400 gramas de carne seca
@@ -39,7 +39,6 @@ flags: []
 - Após misturar tudo muito bem, coloque a farinha de rosca aos poucos até dar o ponto de modelar;
 - Faça bolinhas iguais e reserve em uma forma com papel manteiga;
 - Frite em óleo quente até dourar;
-- --
 
 ---
 

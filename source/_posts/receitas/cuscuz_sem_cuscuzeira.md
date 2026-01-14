@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de flocão de milho (200 gramas)
 - 1 colher de café de sal (2 gramas)
 - 1 xícara de chá de água (240 ml)
 - Numa tigela, coloque o flocão de milho e o sal. Misture bem com uma colher para que o sal se distribua de maneira uniforme;
-- --
 
 ---
 

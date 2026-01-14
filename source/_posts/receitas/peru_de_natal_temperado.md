@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 265 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peru temperado (o nosso tinha 3,5 kg)
 - 1 colher de chá de sal ou a gosto
@@ -43,7 +43,6 @@ flags: []
 - Reúna todos os ingredientes na bancada. Rale a cebola finamente e amasse os dentes de alho com o sal para um sabor mais potente;
 - Em uma tigela grande, misture os dentes de alho amassados com sal, a cebola ralada, o tempero baiano, a água, o suco de laranja, o vinagre de maçã, as ervas finas, a páprica, a pimenta-do-reino e a salsinha;
 - Depois de pronto, retire do forno e sirva na sua ceia de natal acompanhado de batatas, farofa ou salpicão!
-- --
 
 ---
 

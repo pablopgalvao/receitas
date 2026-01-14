@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,19 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - ½ xícara (chá) de água
 - Com uma colher, preencha os copinhos com a musse. Sirva imediatamente com creme de leite batido e finalize com nibs de cacau (se quiser prepare com antecedência e deixe na geladeira até a hora de servir).
-- --
 
 ---
 

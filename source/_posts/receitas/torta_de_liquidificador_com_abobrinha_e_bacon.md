@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Transfira a abobrinha para uma tigela, tempere com pimenta-do-reino a gosto e 1 colher (chá) de azeite. Misture bem para envolver todas as fitas com o azeite e reserve.
 - Bata os ingredientes do liquidificador até triturar bem o milho. Adicione o fubá, a farinha de trigo, a pimenta-de-caiena e o fermento e bata por mais 30 segundos, até formar uma massa lisa.
 - Reserve 2 colheres (sopa) dos cubos de queijo e 1 colher (sopa) de cebolinha para colocar sobre a torta.Transfira a massa batida para a frigideira e misture o restante do queijo e da cebolinha.
-- --
 
 ---
 

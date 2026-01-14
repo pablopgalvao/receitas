@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal e pimenta-do-reino a gosto
 - 3 colheres de sopa de suco de limão
@@ -37,7 +37,6 @@ flags: []
 - 1/2 xícara de chá de croutons
 - Em um recipiente, coloque o frango e tempere com sal, pimenta, metade do suco de limão. Deixe marinar por alguns minutos;
 - Pique o filé de anchova bem picadinho, transfira para um recipiente, adicione o alho, metade do parmesão ralado, metade do azeite, o restante do suco de limão, a maionese, o sal, a pimenta e misture bem até formar um molho. Reserve na geladeira;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml leite integral bem gelado (cerca de 1 xícara de chá)
 - Óleo vegetal em fio (o suficiente para ficar cremoso)
@@ -35,7 +35,6 @@ flags: []
 - Abra a tampinha menor e vá despejando o óleo em fio (vire o litro de óleo na horizontal e, com cuidado, deixe escorrer um fio fininho);
 - Nem todos os liquidificadores possuem a tampinha menor. Nesse caso, desligue, abra a tampa, coloque 1 colher de sopa de óleo, feche e bata em velocidade baixa - repita o processo, ou continue colocando o óleo em fio, até formar um creme uniforme;
 - Quando o creme estiver bem lisinho e consistente, deligue o liquidificador. Adicione sal, orégano e os dentes de alho cortados em rodelas grossas (não precisa picar bem fininho). Bata por 1 minuto para incorporar bem;
-- --
 
 ---
 

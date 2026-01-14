@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - sal a gosto
 - Retire as folhas da água em vez de escorrer – assim as sujeirinhas ficam no fundo da tigela. Enxágue sob água corrente e seque numa centrífuga de saladas. Rasgue as folhas de alface e transfira para uma tigela junto com as folhas de hortelã. Acrescente os pepinos, os tomates e os rabanetes.
 - Quebre o pão em pedaços e junte metade à salada. Tempere com 3 colheres (sopa) do molho e misture bem. Transfira a salada para uma travessa, polvilhe com a outra metade dos pães e sirva a seguir com o restante do molho. Sirva com quibe assado, falafel, kafta no espeto ou abobrinha recheada.
-- --
 
 ---
 

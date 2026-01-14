@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ¾ de xícara (chá) de açúcar
 - ⅓ de xícara (chá) de água fervente
 - Separe uma fôrma redonda, com furo no meio, de 18 cm de diâmetro (capacidade de 1,5 litro). Leve uma chaleira com 1 xícara (chá) de água ao fogo alto para ferver — ela vai ser usada para fazer a calda.
-- --
 
 ---
 

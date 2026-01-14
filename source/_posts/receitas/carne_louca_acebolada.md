@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve a panela de pressão, sem a tampa, ao fogo médio para aquecer. Regue com 2 colheres (sopa) de azeite, coloque a carne e deixe dourar bem de todos os lados – vire a peça com uma pinça apenas quando estiver dourada, evite mexer em excesso para não perder os líquidos.
 - Enquanto isso, descasque e corte as cebolas em meias-luas finas. Transfira para uma tigela e tempere com o orégano e pimenta a gosto. Reserve.
 - Regue a cebola com 3 xícaras (chá) do caldo, ainda quente, que se formou na panela e misture o restante do vinagre. Deixe curar em temperatura ambiente enquanto a carne esfria.
-- --
 
 ---
 

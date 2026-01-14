@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - ½ colher (chá) de sal
 - Destaque as folhas dos talos mais grossos do agrião — os talos mais finos podem ser batidos junto com as folhas, já os talos mais grossos podem ser reaproveitados em outras receitas. Coloque as folhas e os talos mais finos numa tigela e lave com água corrente. Transfira o agrião para uma centrífuga de saladas e seque bem.
 - No liquidificador, ponha as folhas e os talos de agrião, junte as castanhas, o azeite, o caldo de limão e o gelo. Tempere com o sal e bata bem até ficar liso — comece no modo pulsar para triturar os talos; se necessário, pare de bater e raspe a lateral do copo para incorporar todos os ingredientes. Transfira para uma molheira e reserve.
-- --
 
 ---
 

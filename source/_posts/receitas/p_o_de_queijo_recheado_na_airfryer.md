@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de polvilho doce (130 gramas)
 - 1 ovo médio
@@ -43,7 +43,6 @@ flags: []
 - Acrescente a calabresa ralada, o requeijão cremoso e pique o cheiro-verde. Salpique na panela e misture até formar um recheio homogêneo. Reserve enquanto prepara a massa;
 - Para fazer a massa, em uma tigela grande, quebre o ovo e observe o aspecto e cheiro. Adicione o azeite, o requeijão cremoso, o sal, o queijo parmesão ralado, o polvilho doce e o fermento. Misture bem com a colher até esses ingredientes ficarem homogêneos e formarem uma massa firme;
 - Com as mãos higienizadas, utilize uma colher para pegar uma porção da massa. Com as pontas dos dedos, abra-a em um tamanho suficiente para colocar o recheio e fechar;
-- --
 
 ---
 

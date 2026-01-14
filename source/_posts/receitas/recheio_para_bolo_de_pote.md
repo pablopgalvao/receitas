@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/4 xícara de doce de leite firme
 - 1 caixa de creme de leite (200 gramas)
 - 4 colheres sopa de chocolate em pó 50% (40 gramas)
 - 250 gramas de chocolate meio amargo
-- --
 
 ---
 

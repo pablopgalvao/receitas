@@ -31,7 +31,6 @@ flags: []
 - **Rendimento:** 15 Porções
 - **Tempo de preparo:** 1 hora e 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +41,6 @@ flags: []
 - 4 dentes de alho picados
 - 1 cebola picada
 - Sal e pimenta-do-reino a gosto
-
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - Salada de repolho com maçã no espeto
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de ervilha partida em grão
 - 1/2 colher de sopa de tomilho fresco
@@ -37,7 +37,6 @@ flags: []
 - Sal a gosto
 - Tempere com sal, tomilho, páprica defumada, alho em pó e cebola em pó. Misture para que todos os temperos incorporem;
 - Ajuste o sal, se necessário. E está pronta! Refeição perfeita para um dia mais friozinho de inverno.
-- --
 
 ---
 

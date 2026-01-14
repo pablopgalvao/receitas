@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 coração de boi (1,1 kg)
 - 1/2 colher de sopa de pimenta calabresa
@@ -39,7 +39,6 @@ flags: []
 - 3 colheres de sopa de cheiro-verde
 - Em uma panela grande, em fogo alto, coloque os cubos de carne e tempere com sal. Adicione água fervente até quase cobrir e cozinhe com a panela aberta, por cerca de 35 minutos - se ainda tiver água na panela, retire com uma concha;
 - Hora de fritar! Adicione a banha de porco, misture bem e junte a cebola e o alho. Tempere com pimenta calabresa, curry, páprica, lemon pepper e sal, misturando bem para incorporar os sabores e fritando por 10 min. Prove e, se necessário, acerte sal e temperos;
-- --
 
 ---
 

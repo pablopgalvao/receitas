@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 repolho (700 gramas)
 - 2 cebolas roxas (180 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Tempere com sal a gosto e regue com azeite generosamente, envolvendo tudo com as mãos para misturar bem;
 - Retire do forno, ajuste o sal se necessário, finalize com mais azeite e sirva. Fica uma delícia!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz cru (400 gramas)
 - 1 pitada de sal
@@ -38,7 +38,6 @@ flags: []
 - Em uma panela grande, coloque o arroz, a canela em pau, o sal e água suficiente para o cozimento. Leve ao fogo e cozinhe por 15 minutos, até que os grãos fiquem bem macios, quase desmanchando;
 - Em outra panela, adicione o açúcar e leve ao fogo médio para caramelizar, mexendo ocasionalmente até formar uma calda dourada e líquida. Cuide para não queimar;
 - Com o fogo ainda ligado, acrescente a manteiga à calda e mexa até derreter completamente;
-- --
 
 ---
 

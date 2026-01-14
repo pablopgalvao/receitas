@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 121 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 e 1/2 xícaras de chá de farinha de trigo (500 gramas)
 - 1 xícara de chá de água quente (250 ml)
@@ -37,7 +37,6 @@ flags: []
 - Peneire a farinha de trigo, o sal e o fermento químico em uma tigela grande. Incorpore também a margarina sem sal e misture com as mãos até formar uma farofa úmida;
 - Divida a massa em 15 porções iguais de aproximadamente 56 gramas cada;
 - Polvilhe farinha na bancada e abra cada bolinha com um rolo até formar discos bem finos;
-- --
 
 ---
 

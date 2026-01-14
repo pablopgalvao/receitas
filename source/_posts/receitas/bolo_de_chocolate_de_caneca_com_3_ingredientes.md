@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,20 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 10 colheres de sopa de leite (40 ml)
 - 1 colher de café rasa de fermento (3 gramas)
-- --
 
 ---
 

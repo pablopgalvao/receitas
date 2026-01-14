@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml de água
 - 1 colher de chá de açúcar mascavo (opcional)
@@ -36,7 +36,6 @@ flags: []
 - Reúna os ingredientes. Leve a água ao fogo e separe o sachê, o açúcar mascavo e o creme de leite fresco gelado;
 - Em uma tigelinha, bata o creme de leite com o açúcar cristal com o auxílio de um fouet (ou batedeira) até atingir o ponto de chantilly, fofo e aerado, mas ainda macio. Reserve na geladeira;
 - Retire o sachê e adoce o chá com açúcar mascavo, se desejar. Misture bem;
-- --
 
 ---
 

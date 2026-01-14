@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de farinha de mandioca branca
 - 300 ml de água para hidratar a farinha
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de chá de sal
 - Vamos ao preparo do caldo de carne! Coloque o chambari em uma tigela e adicione o suco de limão, os dentes de alho, o colorau, a pimenta-do-reino e o sal. Misture bem com uma colher, garantindo que tudo esteja envolvido pelos temperos;
 - Em uma panela (sem ir ao fogo), hidrate a farinha de mandioca branca com 300 ml de água por pelo menos 10 minutos;
-- --
 
 ---
 

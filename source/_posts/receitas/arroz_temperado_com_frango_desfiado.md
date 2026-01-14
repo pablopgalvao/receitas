@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite
 - 1 colher de chá de sal
@@ -40,7 +40,6 @@ flags: []
 - Na panela de pressão, adicione o peito de frango com um pouco de água, 1 colher de sopa de vinagre e 2 colheres de chá de sal. Cozinhe por 30 minutos e desfie depois. Separe todos os ingredientes na bancada. Lave e pique o tomate em cubos. Pique a cebola em cubos;
 - Aqueça o azeite em uma panela e refogue a cebola até ficar translúcida. Depois, adicione o tomate e o sal. Refogue por mais 1 minuto;
 - Transfira o arroz para uma travessa e salpique o queijo ralado por cima. Leve ao forno preaquecido por aproximadamente 20 minutos ou até gratinar;
-- --
 
 ---
 

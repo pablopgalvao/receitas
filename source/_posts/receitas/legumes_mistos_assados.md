@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 3 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa assadeira grande coloque os legumes e regue com o azeite. Tempere com sal e pimenta a gosto, junte os galhos de alecrim e misture bem para envolver os pedaços com o azeite. Espalhe os legumes na assadeira sem amontoar – quanto mais espaço entre eles, mais dourados ficam.
-- --
 
 ---
 

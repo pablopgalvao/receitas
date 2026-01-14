@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 berinjela grande (300 gramas)
 - 20 gramas de nozes tostadas
@@ -37,7 +37,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Com uma colher, raspe toda a polpa de uma das metades e coloque no mixer, processador ou liquidificador;
 - Acrescente a polpa picada da outra metade da berinjela e pulse rapidamente para manter pedaços aparentes. Prove e ajuste sal, pimenta, azeite ou parmesão se necessário;
-- --
 
 ---
 

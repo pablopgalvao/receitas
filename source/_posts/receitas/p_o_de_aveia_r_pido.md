@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de leite em pó
 - 1 colher de sopa de aveia em flocos finos
@@ -35,7 +35,6 @@ flags: []
 - 1 pitada de sal
 - Em uma tigela, acrescente o ovo, o leite em pó, a aveia, o fermento em pó e o sal e misture bem;
 - Espere amornar e desenforme. Sirva acompanhado de manteiga ou geleia!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - 2 ramos de salsinha
 - Preaqueça o forno a 200 ºC (temperatura média). Enquanto isso, coloque os ossos numa assadeira grande, regue com o óleo e espalhe com as mãos. Leve ao forno para assar por 45 minutos.
-- --
 
 ---
 

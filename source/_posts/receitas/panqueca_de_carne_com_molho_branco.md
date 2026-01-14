@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -56,7 +57,6 @@ flags: []
 - salsinha picada a gosto
 - nozes tostadas e picadas a gosto
 - Regue as panquecas com o restante do molho e polvilhe com o queijo parmesão. Leve ao forno por cerca de 20 minutos ou até gratinar. Sirva a seguir polvilhado com nozes e salsinha.
-- --
 
 ---
 

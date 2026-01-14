@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 colher (sopa) de hortelã picada
 - 1 colher (sopa) de salsinha fresca picada
 - Ervas como coentro, hortelã e salsinha dão frescor e sabor ao prato. Sirva quente.
-- --
 
 ---
 

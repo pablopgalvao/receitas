@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de sal
 - 100 gramas de farinha de trigo para empanar
@@ -36,7 +36,6 @@ flags: []
 - Aqueça óleo suficiente para cobrir as fatias em uma frigideira ou panela funda. O óleo deve estar quente, mas não excessivamente quente;
 - Coloque as fatias de berinjela no óleo quente com cuidado, uma a uma, para evitar respingos. Com uma escumadeira, vá virando as fatias para fritarem por igual e fiquem douradas dos dois lados;
 - Ao retirar do fogo, coloque sobre um prato forrado com papel-toalha, para absorver o excesso de óleo;
-- --
 
 ---
 

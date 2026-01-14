@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de peito de frango cortado em cubos
 - Sal e pimenta-do-reino a gosto
@@ -49,7 +49,6 @@ flags: []
 - Adicione os pimentões, a cebola, o alho, o gengibre e o óleo de gergelim. Misture bem e deixe refogar, em fogo médio, por 5 minutos. Durante o processo, de vez em quando, mexa os ingredientes para não grudarem no fundo da panela;
 - Enquanto o frango refoga, em um recipiente separado, dissolva o amido de milho em 1 xícara de chá de água (temperatura ambiente). Coloque o shoyu e misture bem para desfazer todas as pelotinhas de amido;
 - Finalize com cheiro-verde e, se quiser, um fio de óleo de gergelim. Bom apetite!
-- --
 
 ---
 

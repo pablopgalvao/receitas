@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - Numa panela grande, coloque a lentilha, cubra com 6 xícaras (chá) de água e leve ao fogo alto. Quando ferver, abaixe o fogo e deixe cozinhar por cerca de 20 minutos — as lentilhas devem estar cozidas, mas ainda firmes para não se desmanchar. Enquanto isso, prepare o restante dos ingredientes.
 - Lave, seque e pique grosseiramente a salsinha. Numa tigela grande, misture o vinagre balsâmico com o azeite, o sal e pimenta a gosto.
 - Escorra a lentilha por uma peneira e passe pela água corrente para cessar o cozimento e amornar. Transfira para a tigela com o molho, junte a salsinha picada e misture delicadamente. Sirva a seguir com a beterraba assada e as folhas de salsinha.
-- --
 
 ---
 

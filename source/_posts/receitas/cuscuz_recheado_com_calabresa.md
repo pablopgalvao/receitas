@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de flocão de milho (120 gramas)
 - 1/4 de colher de chá de sal
@@ -42,7 +42,6 @@ flags: []
 - Numa tigela pequena, junte o flocão de milho, a pitada de sal e a água. Misture bem e reserve por 20 minutos para hidratar;
 - Enquanto isso, em uma frigideira, adicione o azeite e, assim que esquentar, acrescente a calabresa, a cebola, o tomate e o orégano. Misture bem, deixando refogar por 5 minutos, até dourar. Se desejar, acerte o sal;
 - Para a montagem, em uma tigela pequena, adicione metade da quantidade de flocão de milho hidratado. Alise levemente com uma colher, sem pressionar;
-- --
 
 ---
 

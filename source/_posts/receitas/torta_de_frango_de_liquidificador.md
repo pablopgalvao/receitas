@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de trigo
 - 2 xícaras de chá de leite
@@ -39,7 +39,6 @@ flags: []
 - Desligue o liquidificador e acrescente o fermento. Com uma colher ou espátula, mexa apenas para incorporar o fermento à massa. Reserve;
 - Em uma panela, esquente o azeite e refogue o frango com os temperos. Utilizamos pimenta-do-reino e sal. Se quiser, coloque 1 colher de café de açafrão para deixar o recheio amarelinho;
 - Unte a forma om azeite e farinha de trigo. Despeje metade da massa e espalhe bem;
-- --
 
 ---
 

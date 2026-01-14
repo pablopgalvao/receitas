@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Enquanto a bisteca fica de molho no soro, lave e seque bem as vagens e os tomates — quanto mais sequinhos estiverem, melhor será para assar. Corte as pontinhas das vagens e descarte. Transfira as vagens para uma tigela; adicione ½ colher (chá) de azeite, tempere com o cominho, a pimenta calabresa e uma pitada de sal.
 - Com uma pinça, retire a bisteca do soro e seque bem com um papel-toalha. Transfira a bisteca para o cesto da Air Fryer e regue com 1 colher (chá) de azeite. Feche a gaveta e deixe assar por 12 minutos.
 - Faltando 4 minutos para o tempo total da receita, adicione os tomates ao lado da bisteca e das vagens. Regue com ½ colher (chá) de azeite, tempere com uma pitada de sal e feche a gaveta para terminar de assar. Sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 180 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de fermento biológico seco
 - 3 colheres de sopa de açúcar
@@ -43,7 +43,6 @@ flags: []
 - Quando a massa começar a ficar consistente, coloque-a em uma bancada limpa e enfarinhada. Com as mãos, sove por cerca de 8 a 10 minutos até obter uma massa lisinha que não gruda;
 - Coloque os pães em assadeiras de pão de forma untadas com manteiga e farinha. Se preferir, use uma assadeira grande, porém deixe um bom espaço entre um pão e o outro. Cubra com um guardanapo e espere crescer por mais 1 hora;
 - Em um recipiente, usando um garfo bata uma gema de ovo, pincele sobre os pães e leve ao forno preaquecido a 180 ºC por 40 minutos;
-- --
 
 ---
 

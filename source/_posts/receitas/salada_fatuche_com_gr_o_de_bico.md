@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 pitada de sal
 - 1 xícara (chá) de grão-de-bico cozido escorrido (em conserva)
 - Na hora de consumir, chacoalhe o pote para misturar a salada com o molho e acrescente o pão torrado.
-- --
 
 ---
 

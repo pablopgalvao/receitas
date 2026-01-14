@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 xícaras (chá) de água
 - 1 colher (chá) de sal
 - Na panela de pressão, coloque o arroz, a água, o sal e o anis-estrelado. Misture, tampe e leve ao fogo alto.
-- --
 
 ---
 

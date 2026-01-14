@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - ½ colher (chá) de sal
 - pimenta-do-reino moída na hora a gosto
 - No processador de alimentos (ou liquidificador), coloque todos os ingredientes e bata bem até formar um molho. Prove e, se necessário, ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

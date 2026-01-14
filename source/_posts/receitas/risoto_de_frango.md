@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 350 gramas de filé de peito de frango em cubos
 - 1/2 colher de sopa de sal (ou a gosto)
@@ -58,7 +58,6 @@ flags: []
 - Em fogo médio, despeje o vinho e misture com uma colher até os grãos de arroz absorverem o líquido e ficarem secos novamente;
 - Adicione o sal, o tomate, a páprica picante, a páprica doce, o parmesão ralado e o frango frito. Misture bem;
 - Acrescente a manteiga e mexa com a colher até derreter;
-- --
 
 ---
 

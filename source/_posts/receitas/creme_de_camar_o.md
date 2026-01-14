@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas a 1 kg de camarão
 - 2 colheres de sopa de farinha de trigo
@@ -45,7 +45,6 @@ flags: []
 - Coloque os camarões em uma tigela e tempere-os com o sal, a pimenta-do-reino e o suco de limão. Deixe marinar por cerca de 15 minutos;
 - Na mesma frigideira, adicione a manteiga e coloque a cebola. Refogue por 2 minutos ou até que fique transparente. Acrescente a farinha de trigo e mexa rapidamente - isso vai ajudar a engrossar o creme. Junte o extrato de tomate e misture;
 - Prove e se necessário, ajuste o sal e a pimenta. Desligue o fogo, salpique o cheiro-verde picado por cima e está pronto.
-- --
 
 ---
 

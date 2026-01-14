@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - sal a gosto
 - Transfira para o processador, junte o alho, o caldo de limão, o tahine e uma pitada de sal. Bata até ficar liso — adicione água aos poucos e vá batendo até ficar na consistência desejada (mais rústica ou mais lisa e cremosa).
 - Prove e, se necessário, ajuste o sal. Sirva a seguir ou mantenha na geladeira até a hora de servir.
-- --
 
 ---
 

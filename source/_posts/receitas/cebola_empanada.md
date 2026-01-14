@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de farinha de trigo (60 gramas)
 - 1/2 xícara de chá de farinha de rosca (100 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Em seguida, mergulhe os anéis na mistura de ovos e leite;
 - Passe na farinha de rosca até cobrir completamente. Repita o processo até terminar todos os anéis;
 - Aqueça óleo em fogo alto, reduza para médio e frite os anéis de cebola por cerca de 2 minutos, até ficarem dourados e crocantes;
-- --
 
 ---
 

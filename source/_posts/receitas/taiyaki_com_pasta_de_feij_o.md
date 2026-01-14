@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de feijão-azuki
 - 500 ml de água para a primeira fervura
@@ -47,7 +47,6 @@ flags: []
 - Acrescente a farinha de arroz e bata mais uma vez com o fouet. Coloque a farinha de trigo aos poucos e bata a cada adição. A massa deve ficar consistente e mais encorpada;
 - Por último, coloque o fermento, o sal e o bicarbonato. Mexa delicadamente, apenas para incorporá-los na massa. Evite mexer em excesso;
 - Por cima da massa, coloque uma colher de anko e aperte levemente para espalhar a massa pelo “corpo” do peixinho. Repita o mesmo processo no outro molde e coloque mais massa por cima do recheio, completando a parte do rabo da forma do peixe;
-- --
 
 ---
 

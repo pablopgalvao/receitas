@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de água
 - 2 colheres de chá de vinagre de vinho branco
@@ -38,7 +38,6 @@ flags: []
 - Na mesma frigideira, coloque o azeite, a cebola e tempere com sal. Deixe fritando por cerca de 2 minutos ou até ficar douradinha;
 - Desligue o fogo e coloque a manteiga na frigideira para ela derreter;
 - Sirva os bifes com o molhinho de manteiga e as cebolas. Bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 pacote de macarrão tipo penne grano duro (500 gramas)
 - 400 gramas de molho de tomate
@@ -39,7 +39,6 @@ flags: []
 - Sal a gosto
 - Coloque o macarrão, o molho de tomate, a água, o sal, a cebola e o alho em uma panela de pressão. Misture bem;
 - Leve a panela ao fogo baixo e aguarde até o queijo derreter, cerca de 1 minuto. Fique de olho para o macarrão não grudar no fundo da panela. Se preciso, acerte o sal.
-- --
 
 ---
 

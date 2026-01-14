@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Numa panela pequena, misture a água com o açúcar delicadamente, sem espirrar nas laterais da panela.
 - Leve ao fogo médio para cozinhar, sem mexer, por cerca de 7 minutos ou até atingir o ponto de fio fino — ao mergulhar e levantar uma colher, deve se formar um fio entre as gotas. Desligue o fogo e deixe amornar por 5 minutos.
 - Adicione o leite de coco e misture com um batedor de arame. Sobre a panela, passe as gemas por uma peneira, raspando com uma colher — descarte a película do ovo.
-- --
 
 ---
 

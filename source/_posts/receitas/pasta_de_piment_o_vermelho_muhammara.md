@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - folhas de salsinha a gosto para servir
 - No processador, coloque os pimentões, as nozes, o alho, a farinha de rosca, o molho de romã, o caldo de limão, o cominho e o azeite. Tempere com sal e pimenta-do-reino e bata até formar uma pasta (se preferir, utilize o liquidificador). Transfira para uma tigela e deixe esfriar antes de servir. Finalize com folhas de salsinha e azeite.
-- --
 
 ---
 

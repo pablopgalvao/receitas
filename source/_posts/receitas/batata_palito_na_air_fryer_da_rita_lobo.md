@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ½ colher (chá) de sal
 - 4 colheres (chá) de azeite
 - Seque bem as batatas com um pano de prato limpo — quanto mais secas estiverem, melhor elas assam. Volte para a tigela seca, tempere com o sal e o azeite e misture bem para envolver todos os pedaços.
-- --
 
 ---
 

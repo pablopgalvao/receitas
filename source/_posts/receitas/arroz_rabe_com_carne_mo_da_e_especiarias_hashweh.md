@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Descasque e fatie a cebola em meias-luas finas. Leve uma frigideira grande com 2 colheres (sopa) de manteiga ao fogo médio. Quando derreter, acrescente a cebola, tempere com uma pitada de sal e de açúcar e deixe cozinhar, mexendo de vez em quando por cerca de 15 minutos até caramelizar – se a cebola começar a queimar, abaixe o fogo.
 - Afaste a cebola para a lateral da frigideira e acrescente mais 1 colher (sopa) de manteiga, junte a carne moída, tempere com a pimenta síria, o cominho, a páprica, a canela, 1 colher (chá) de sal, pimenta-do-reino a gosto e refogue por 5 minutos, mexendo com a espátula para desmanchar a carne em pedaços menores. Junte a uva-passa e misture bem.
 - Solte os grãos de arroz com um garfo e acrescente ao refogado de carne, mexa por mais 5 minutos para absorver o sabor do refogado. Regue com ¼ de xícara (chá) de água, desligue o fogo e misture bem para deixar o arroz úmido. Sirva a seguir com a saladinha de tomate.
-- --
 
 ---
 

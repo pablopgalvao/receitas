@@ -2,7 +2,7 @@
 title: Maionese prática de batata
 date: 2025-09-20T00:00:00.000Z
 categories:
-  Light / saudáveis
+  - Light / saudáveis
 tags:
   - batata
   - churrasco
@@ -33,7 +33,6 @@ flags: []
 - **Rendimento:** 4 Porções
 - **Tempo de preparo:** 20 min (+1h de geladeira)
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +44,6 @@ flags: []
 - 1 xícara (chá) de maionese
 - sal a gosto
 - Salsa para decorar
-
 
 ---
 

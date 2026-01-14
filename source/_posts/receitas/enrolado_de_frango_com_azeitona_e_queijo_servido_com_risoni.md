@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Assim que a água ferver, adicione o sal, o macarrão e mexa apenas para misturar. Deixe cozinhar por 11 minutos - a massa deve estar cozida, porém al dente.
 - Desligue o fogo e reserve ½ xícara (chá) da água do cozimento. Passe o macarrão por uma peneira para escorrer a água e transfira para uma tigela. Junte a manteiga, misture e deixe derreter com o calor do macarrão.
 - Adicione as folhas de manjericão e rúcula. Regue com algumas colheradas da água do cozimento para formar um molhinho. Tempere a gosto com sal e pimenta-do-reino moída na hora.
-- --
 
 ---
 

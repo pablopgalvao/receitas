@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de tilápia
 - 3 colheres de sopa de azeite
@@ -41,7 +41,6 @@ flags: []
 - 1 e 1/2 colher de sopa de sal (ou a gosto)
 - Separe todos os ingredientes na bancada para agilizar o preparo. Tempere os filés de tilápia com o suco de limão, sal e pimenta-do-reino. Reserve por 15 minutos para que absorvam os temperos;
 - Em seguida, faça uma camada com metade dos tomates e tempere com um pouco de sal. Coloque os filés de tilápia sobre os legumes;
-- --
 
 ---
 

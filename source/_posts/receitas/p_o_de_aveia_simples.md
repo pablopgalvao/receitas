@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de aveia em flocos finos ou farinha de aveia
 - 1 colher de sopa de parmesão ralado
 - 1 colher de chá de fermento químico em pó
 - Separe todos os ingredientes na bancada. Quebre o ovo e verifique se está bom;
 - Em uma tigela pequena, coloque o ovo e bata levemente com um garfo;
-- --
 
 ---
 

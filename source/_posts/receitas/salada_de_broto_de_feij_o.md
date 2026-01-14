@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de broto de feijão (moyashi)
 - 1/2 colher de café de sal
 - 1/2 colher de café de pimenta-do-reino
 - Azeite a gosto
 - Prove e ajuste o tempero conforme gosto. Se preferir uma salada extra crocante, refrigere por 15 a 30 minutos antes de servir. Por fim, tempere com sal, pimenta‑do‑reino, azeite e suco de limão. Misture com cuidado para não danificar os brotos;
-- --
 
 ---
 

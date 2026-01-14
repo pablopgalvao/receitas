@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de mel ou melado
 - 1 colher de chá de sal
@@ -38,7 +38,6 @@ flags: []
 - Nozes ou castanhas picadas a gosto
 - Em uma tigela, bata os ovos muito bem com a ajuda de um fouet (batedor de arame). Em seguida, incorpore o mel (ou melado), o sal e a canela;
 - Quando a mistura estiver bem homogênea, adicione o óleo (ou azeite), mexendo bem;
-- --
 
 ---
 

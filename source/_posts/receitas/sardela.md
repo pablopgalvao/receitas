@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Assim que os legumes estiverem bem macios, transfira-os ainda quentes para o liquidificador e bata até a mistura ficar lisa. Durante o processo, pare de bater e misture os ingredientes com uma espátula para triturar de maneira uniforme, se necessário acrescente de 1 a 2 colheres (sopa) de água filtrada. Se preferir, utilize o processador de alimentos.
 - Volte a sardela para a panela (nem precisa lavar) e leve ao fogo baixo. Deixe cozinhar por mais 4 minutos, mexendo de vez em quando, para apurar os sabores e engrossar mais um pouco – lembre-se de que a sardela fica mais firme depois de fria. Prove e ajuste o sal.
 - Transfira para um pote e deixe esfriar em temperatura ambiente, por pelo menos 1 hora, antes de tampar e levar à geladeira. Na hora de servir, regue com azeite a gosto.
-- --
 
 ---
 

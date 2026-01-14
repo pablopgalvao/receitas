@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Descasque e pique fino os dentes de alho. Lave, seque e pique a salsinha grosseiramente.
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, adicione o cogumelo shiitake, tempere com sal e pimenta a gosto e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até dourar e ficar levemente macios. Transfira para uma tigela e repita com o cogumelo-de-paris.
 - Volte o shiitake para a frigideira com o cogumelo-de-paris, regue com um fio de azeite, adicione alho e mexa por 1 minuto. Desligue o fogo e misture a salsinha.
-- --
 
 ---
 

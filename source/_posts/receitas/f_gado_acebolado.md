@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Leve uma frigideira grande ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, acrescente a cebola e refogue por cerca de 10 minutos, até dourar. Transfira para uma tigela e mantenha a frigideira em fogo médio.
 - Regue a frigideira com 1 colher (sopa) de azeite e adicione metade do fígado. Deixe dourar por cerca de 5 minutos, mexendo de vez em quando – é jogo rápido; se o fígado cozinhar demais, pode ficar duro. Transfira as tiras douradas para a tigela com a cebola, regue a frigideira com o azeite restante e repita com a outra metade da carne.
 - Volte a cebola com o fígado para a frigideira e tempere com o sal. Regue com a água, o caldo de limão e raspe bem os queimadinhos do fundo da frigideira para formar um molho ralo. Desligue o fogo, misture a salsinha picada e sirva a seguir.
-- --
 
 ---
 

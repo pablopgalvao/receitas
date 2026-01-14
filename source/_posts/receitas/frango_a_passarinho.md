@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de frango cortado a passarinho (nas juntas, com pele)
 - 4 colheres de sopa de cheiro-verde
@@ -46,7 +46,6 @@ flags: []
 - Despeje a farinha temperada em cima do frango. Se o recipiente tiver tampa, é só fechar e chacoalhar, sem fazer muita força, para empanar bem. Se não tiver tampa, misture com as mãos, cobrindo pedaço por pedaço;
 - Dê uma leve batida nos pedaços de frango para retirar o excesso de farinha. Em uma panela média e alta, esquente o óleo a 180 °C. Frite em fogo alto até dourar de todos os lados, cerca de 12 a 15 minutos;
 - Quando os pedaços de frango estiverem douradinhos, retire da panela e coloque em uma superfície com papel-toalha, deixando escorrer o excesso de óleo. Sirva ainda quente para aproveitar a crocância.
-- --
 
 ---
 

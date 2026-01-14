@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de óleo
 - 1 xícara de chá de leite integral
@@ -40,7 +40,6 @@ flags: []
 - 2 colheres de sopa de manteiga
 - 1/2 xícara de chá de leite integral
 - Transfira para uma forma redonda, untada, enfarinhada (que caiba na fritadeira) e leve para a air fryer preaquecida a 160ºC por cerca de 20 minutos;
-- --
 
 ---
 

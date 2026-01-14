@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 550 gramas de músculo
 - Azeite a gosto
@@ -44,7 +44,6 @@ flags: []
 - Adicione o vinho, misture e deixe evaporar o álcool por 1 minuto. Junte a salsinha, a folha de louro e mexa novamente. Volte a carne selada para a panela com os legumes e tempere com sal a gosto. Despeje água até cobrir todos os ingredientes;
 - Volte o caldo coado para uma panela grande e deixe ferver em fogo médio. Assim que levantar fervura, adicione os capelettis de carne e cozinhe de acordo com as instruções da embalagem (cerca de 6 a 8 minutos). Prove o caldo e, se necessário, acerte o sal;
 - Tem que servir quentinho! No prato, finalize o capeletti in brodo com parmesão ralado a gosto.
-- --
 
 ---
 

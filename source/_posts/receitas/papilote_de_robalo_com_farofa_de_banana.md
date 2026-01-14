@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Coloque a manteiga numa frigideira grande e leve ao fogo médio. Quando derreter, abaixe o fogo, junte o alho e refogue por 1 minuto para perfumar. Acrescente as bananas e deixe cozinhar por cerca de 3 minutos, mexendo de vez em quando até ficarem macias, mas sem desmanchar. Tempere com sal a gosto e misture a pimenta dedo-de-moça.
 - Adicione a farinha de milho aos poucos, misturando com a espátula para incorporar. Deixe cozinhar por mais 2 minutos, mexendo de vez em quando, para ficar crocante.
 - Passado os 20 minutos, retire a assadeira do forno e abra os papilotes com cuidado para não se queimar com o vapor. Transfira os peixes e legumes para dois pratos e sirva a seguir com a farofa de banana e folhas de coentro a gosto.
-- --
 
 ---
 

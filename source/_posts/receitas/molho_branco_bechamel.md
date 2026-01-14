@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Numa panela média, leve a manteiga para derreter em fogo médio. Junte a farinha e mexa bem com uma espátula por 2 minutos — essa mistura, chamada roux, vai engrossar o molho.
 - Adicione todo o leite gelado de uma só vez, misturando bem com o batedor de arame para dissolver a farinha e evitar que o molho fique com gruminhos. Aumente o fogo e mexa até ferver.
 - Assim que ferver, abaixe o fogo e tempere com o sal e noz-moscada a gosto. Deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando com a espátula, até formar um molho mais espesso.
-- --
 
 ---
 

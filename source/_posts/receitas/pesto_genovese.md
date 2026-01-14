@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de sopa de sal grosso
 - 50 gramas de nozes chilenas (ou outra castanha de sua preferência)
@@ -37,7 +37,6 @@ flags: []
 - 1/4 de copo de azeite de oliva extra virgem (60ml)
 - No pilão (ou mixer), adicione o sal grosso e os dentes de alho. Amasse até obter uma pasta homogênea;
 - Adicione o parmesão, o pecorino (caso utilize) e o azeite. Misture bem com o pilão ou uma colher até incorporar completamente os ingredientes;
-- --
 
 ---
 

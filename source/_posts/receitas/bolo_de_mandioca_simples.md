@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 pacote de mandioca (cerca de 800 gramas a 1kg)
 - 50 gramas de coco ralado
@@ -37,7 +37,6 @@ flags: []
 - Em uma vasilha, coloque os ovos, o açúcar e bata bem com um fouet;
 - Acrescente a mandioca, o leite de coco, o coco ralado, a manteiga, o fermento em pó e misture até ficar homogêneo;
 - Transfira a massa para uma untada e enfarinhada e leve para assar em forno preaquecido a 180 °C por 35 minutos;
-- --
 
 ---
 

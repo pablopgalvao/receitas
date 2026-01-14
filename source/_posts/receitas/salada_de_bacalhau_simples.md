@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 unidades de lombo de bacalhau já dessalgado (600 gramas)
 - 15 unidades de ovos de codorna cozidos (ou a gosto)
@@ -41,7 +41,6 @@ flags: []
 - Em uma panela alta, coloque os lombos de bacalhau (já dessalgados e descongelados). Se preciso, pode cortar os lombos em pedaços menores. Cubra com água e leve ao fogo médio. Quando a água começar a ferver, marque 5 minutos;
 - No mesmo refratário, ou em uma tábua de carne, usando as mãos higienizadas, desfie os lombos de bacalhau. Não precisa faz um desfiado muito pequeno, é interessante deixar algumas lascas maiores para trazerem textura à salada;
 - Acrescente os ovos de codorna cozidos, o tomate-cereja e as azeitonas. Tempere com sal, azeite, pimenta-do-reino e salsinha. Misture levemente e leve para gelar até na hora de servir.
-- --
 
 ---
 

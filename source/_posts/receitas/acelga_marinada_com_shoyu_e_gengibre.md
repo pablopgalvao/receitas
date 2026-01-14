@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,8 +37,6 @@ flags: []
 - 2 colheres (chá) de sal
 - óleo de gergelim a gosto
 - gergelim branco e preto torrado a gosto
-
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de aveia em flocos finos
 - Canela em pó a gosto
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Em outro recipiente, coloque os ovos e, com o auxílio de um fouet ou garfo, bata-os muito bem;
 - Espere o bolo amornar, desenforme e sirva com uma xícara de chá. Bom apetite!
-- --
 
 ---
 

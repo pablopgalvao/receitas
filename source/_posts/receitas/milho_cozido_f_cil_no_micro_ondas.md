@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga
 - Sal a gosto
 - 1 xícara de chá de água
 - Passe manteiga com uma espátula. Finalize com sal;
-- --
 
 ---
 

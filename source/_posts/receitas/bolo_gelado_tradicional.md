@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 235 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 copo de iogurte natural sem açúcar (170 gramas)
 - 1 copo de óleo (200 ml)
@@ -43,7 +43,6 @@ flags: []
 - Acrescente o açúcar e peneire a farinha de trigo. Misture até obter uma massa homogênea e finalize com o fermento em pó, mexendo delicadamente para incorporar;
 - Por fim, para a cobertura, derreta a manteiga na frigideira e doure o coco ralado por 5 minutos, mexendo por todo o tempo, até ficar levemente tostado;
 - E está pronto! Finalize o bolo com o coco tostado por cima e sirva gelado. Perfeito para aquela sobremesa gostosa em família!
-- --
 
 ---
 

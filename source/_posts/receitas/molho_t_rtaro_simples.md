@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de maionese
 - 1 xícara de chá de picles ou pepinos picados
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de chá de açúcar refinado (caso fique muito ácido)
 - Pimenta-do-reino a gosto
 - Coloque todos os ingredientes em uma vasilha, exceto o açúcar, e misture. Se o molho estiver muito ácido, acerte o sabor com o açúcar;
-- --
 
 ---
 

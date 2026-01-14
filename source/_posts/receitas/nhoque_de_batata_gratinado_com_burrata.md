@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma panela grande com água ao fogo alto. Unte duas assadeiras grandes (ou refratários) com óleo. Assim que a água ferver, misture 1 colher (sopa) de sal.
 - Enquanto a água ferve, polvilhe a bancada e duas assadeiras com farinha. Para modelar os nhoques, com uma porção de massa, faça um rolinho de cerca de 1 cm de diâmetro; corte em nhoques de cerca de 2 cm cada. Transfira para as assadeiras polvilhadas e repita o procedimento com o restante da massa.
 - Com uma escumadeira, mergulhe cerca de 15 nhoques por vez na água fervente e deixe cozinhar até subirem à superfície. Retire os nhoques com a escumadeira, escorrendo bem a água, e transfira para a assadeira untada com óleo. Cozinhe todos os nhoques.
-- --
 
 ---
 

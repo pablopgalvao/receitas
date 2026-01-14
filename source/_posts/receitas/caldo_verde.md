@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 batatas (aproximadamente 600 gramas)
 - 1 linguiça portuguesa (aproximadamente 200 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Quando começar a ferver, abaixe o fogo, coloque sal e pimenta-do-reino. Cozinhe por aproximadamente 25 minutos até as batatas ficarem macias ao serem espetadas por um garfo;
 - Em cima de uma tábua, coloque uma folha em cima da outra e corte em tirinhas (assim, elas ficarão mais práticas de serem consumidas com uma colher);
 - Volte o creme para a panela, adicione as linguiças, cozinhe por mais 5 minutos e acerte o sal, se necessário;
-- --
 
 ---
 

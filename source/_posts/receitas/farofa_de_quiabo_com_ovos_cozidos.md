@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande com a manteiga ao fogo médio. Quando derreter, junte a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até murchar. Junte o quiabo e refogue por 5 minutos, mexendo de vez em quando (não mexa muito para não soltar muita baba e amolecer).
 - Junte a farinha aos poucos, mexendo com a espátula para incorporar. Desligue o fogo, tempere com sal e pimenta a gosto, misture os ovos cozidos e sirva a seguir.
-- --
 
 ---
 

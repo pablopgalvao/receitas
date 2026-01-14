@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de grão-de-bico cozido ou em conserva (240 gramas)
 - 1/2 xícara de chá de tomate picado (80 gramas)
@@ -42,7 +42,6 @@ flags: []
 - No fogo médio, leve uma frigideira com um fio de azeite. Adicione o pimentão, tempere com sal e refogue por cerca de 3 minutos ou até dourar. Reserve;
 - Adicione o pimentão reservado, os tomates, a cebola, o suco de limão, o sal e o azeite. Misture bem;
 - Finalize com a salsinha e sirva com as lascas de queijo parmesão. Bom apetite!
-- --
 
 ---
 

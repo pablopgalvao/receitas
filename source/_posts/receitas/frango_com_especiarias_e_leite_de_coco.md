@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - folhas de coentro a gosto para servir
 - No pilão, bata as sementes de mostarda e de erva-doce até triturar bem. Misture a páprica, a cúrcuma, a pimenta-de-caiena e o sal. Descasque e pique fino a cebola.
 - Leve uma panela média ao fogo médio para aquecer. Regue com o óleo, acrescente a cebola e tempere com uma pitada de sal. Refogue por 2 minutos até murchar.
-- --
 
 ---
 

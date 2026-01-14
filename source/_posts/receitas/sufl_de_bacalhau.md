@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de batata inglesa
 - 3 colheres de sopa de farinha de trigo
@@ -42,7 +42,6 @@ flags: []
 - Aos poucos, adicione a farinha, o leite de coco e a manteiga, misturando bem até formar um purê. Reserve;
 - Em uma frigideira refogada com azeite, refogue o bacalhau com cebola, salsa e azeitonas. Deixe esfriar;
 - Cubra o refratário com essa mistura, salpique queijo ralado e leve ao forno para gratinar;
-- --
 
 ---
 

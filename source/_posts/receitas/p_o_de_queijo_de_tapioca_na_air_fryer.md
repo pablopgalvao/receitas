@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de tapioca (goma hidratada) (300 gramas)
 - 2 colheres de sopa (bem cheias) de requeijão cremoso (100 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Misture inicialmente com uma colher, até começar a incorporar os ingredientes. Em seguida, misture bem com as mãos. Leve a massa à geladeira por 15 a 20 minutos para deixá-la menos grudenta;
 - Retire a massa da geladeira, unte as mãos com um pouco de óleo e modele bolinhas no tamanho desejado;
 - Disponha as bolinhas diretamente na cesta da air fryer, se ela estiver em bom estado; senão, forre o cesto com papel manteiga para não grudar;
-- --
 
 ---
 

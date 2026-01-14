@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma bistequeira (ou frigideira antiaderente) ao fogo médio. Quando aquecer, regue com um fio do azeite, acrescente os dentes de alho e doure os quiabos em etapas - não coloque todos de uma só vez, eles precisam estar em contato com o fundo da bistequeira para ficar tostadinho. Tempere com sal e pimenta e deixe dourar por cerca de 3 minutos de cada lado. Transfira para um prato e repita com o restante, regando a bistequeira com azeite a cada leva.
-- --
 
 ---
 

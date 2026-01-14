@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de manteiga sem sal
 - ½ xícara de chá de farinha de trigo
@@ -39,7 +39,6 @@ flags: []
 - Coloque a farinha e misture bem;
 - Adicione o caldo de galinha quente, as batatas, o açúcar, o manjericão, o sal, misture e deixe cozinhar com a panela semitampada até a batata ficar macia;
 - Salpique queijo parmesão e sirva. Bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarão seco dessalgado (separe as cabeças para o caldo)
 - 3 colheres de sopa de azeite de dendê
@@ -41,7 +41,6 @@ flags: []
 - Enquanto isso, bata a farinha de trigo e a água no liquidificador. Essa mistura é que vai dar a textura cremosa ao prato;
 - Acrescente a mistura de farinha e mexa sem parar para não empelotar, até obter uma consistência cremosa. Cozinhe por cerca de 10 minutos, mexendo às vezes. É importante cozinhar bem para não ficar com gosto de farinha;
 - Prove o sabor e acerte o sal se necessário. Finalize com o leite de coco e misture até incorporar. Cozinhe por mais 2 minutos;
-- --
 
 ---
 

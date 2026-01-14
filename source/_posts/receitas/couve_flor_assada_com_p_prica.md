@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (chá) de páprica doce
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela pequena, misture o azeite com a páprica, sal e pimenta-do-reino moída na hora a gosto. Regue os pedaços de couve-flor com o azeite temperado e espalhe com as mãos para cobrir toda a superfície dos floretes (se preferir, espalhe com um pincel).
-- --
 
 ---
 

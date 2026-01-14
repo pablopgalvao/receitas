@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 265 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de leite condensado (395 gramas)
 - 2 colheres de sopa de amido de milho (30 gramas)
@@ -41,7 +41,6 @@ flags: []
 - 1 xícara de chá de leite (240 ml)
 - 100 gramas de coco ralado
 - Para o doce de abacaxi, coloque em uma panela o abacaxi picado, o açúcar e a água;
-- --
 
 ---
 

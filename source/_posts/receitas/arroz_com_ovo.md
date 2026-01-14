@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz branco
 - 500 ml de água morna
@@ -35,7 +35,6 @@ flags: []
 - Adicione a água morna e, assim que levantar fervura, junte o sal;
 - Enquanto isso, quebre os ovos, verifique se estão bons e separe as claras das gemas;
 - Sirva imediatamente e aproveite essa versão cremosa e diferente de arroz com ovo!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Lave bem os maxixes com uma escovinha para legumes sob água corrente. Descarte o cabo e, com uma faca pequena, raspe a superfície de cada maxixe para retirar os espinhos. Corte os maxixes em rodelas finas, de 0,5 cm e transfira para uma tigela. Regue com ½ colher (sopa) do azeite e misture bem para envolver todas as fatias.
 - Leve uma grelha (ou frigideira grande), de preferência antiaderente, ao fogo médio. Quando aquecer, coloque quantas rodelas de maxixe couberem, uma ao lado da outra, sem amontoar. Tempere com sal e deixe dourar por 2 minutos, de cada lado. Transfira o maxixe grelhado para outra tigela e repita com o restante.
 - Escorra a água e junte a cebola ao maxixe. Acrescente a pimenta, o caldo de limão, o azeite e o vinagre restantes. Tempere com sal a gosto e misture delicadamente. Sirva a seguir ou mantenha na geladeira até a hora de servir – o vinagrete fica ainda mais gostoso depois de curtir por 30 minutos na geladeira.
-- --
 
 ---
 

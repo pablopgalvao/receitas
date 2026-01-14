@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ¼ de xícara (chá) de queijo parmesão ralado
 - Numa panela média, coloque a água e leve ao fogo alto. Quando ferver, adicione o sal e o espinafre e deixe cozinhar por 2 minutos para descongelar.
 - Quando a polenta estiver cremosa, parecendo um mingau, desligue o fogo e misture a manteiga e o queijo parmesão. Sirva a seguir com as nozes e folhas de miniagrião.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de peito de frango
 - 1 colher de sopa rasa de sal
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de chá de páprica picante
 - Cheiro-verde picado a gosto
 - Corte os filés de frango em cubos grandes. Coloque-os em uma tigela e tempere com o suco do limão, sal, pimenta-do-reino e a páprica picante. Misture bem para incorporar em todos os pedaços;
-- --
 
 ---
 

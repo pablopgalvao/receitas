@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 coração de salsão
 - 40 gramas de uvas-passas brancas
@@ -44,7 +44,6 @@ flags: []
 - Corte as berinjelas em cubos médios, mantendo a casca. Pique também a cebola, os tomates, as azeitonas, o pimentão e o salsão;
 - Aqueça duas frigideiras grandes e adicione azeite e óleo vegetal em quantidade suficiente para dourar os cubos de berinjela. Doure os cubos de berinjela em pequenas porções para evitar que fiquem encharcados ou crus. Reserve os cubos já dourados em um recipiente e tempere com sal;
 - Adicione as alcaparras, a pimenta calabresa e a dedo-de-moça picada ao refogado, temperando com sal;
-- --
 
 ---
 

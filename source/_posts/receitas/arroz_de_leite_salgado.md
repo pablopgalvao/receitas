@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 17 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 copos de arroz branco (340 gramas)
 - 4 copos de água (800 ml)
 - 1 colher de sopa de sal (ou a gosto)
 - 4 copos de leite integral (800 ml)
 - Em uma panela grande, coloque o arroz branco, a água e o sal. Misture e leve ao fogo médio;
-- --
 
 ---
 

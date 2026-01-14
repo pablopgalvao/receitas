@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de bacalhau
 - 2 colheres de sopa de farinha de trigo
@@ -37,7 +37,6 @@ flags: []
 - Cozinhe as batatas no vapor por 12 minutos, com essa mesma água até ficarem macias, depois as amasse ainda quentes. Ajuste o sal se necessário;
 - Em uma tigela grande, junte o bacalhau desfiado, a batata amassada, a farinha de trigo, o ovo, o cheiro-verde e a pimenta-do-reino;
 - Regue com azeite a gosto e sirva essa delícia acompanhado de algum molho de sua preferência!
-- --
 
 ---
 

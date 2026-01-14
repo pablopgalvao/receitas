@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de tapioca
 - 1 pitada de sal rosa
@@ -36,7 +36,6 @@ flags: []
 - O ideal é utilizar goma de tapioca, pois já vem hidratada. Não é possível fazer crepioca com tapioca granulada, pérolas ou a farinha seca. Fatie o tomate-cereja bem fininho;
 - Em um recipiente, coloque o ovo (verifique se ele não está estragado), a tapioca e o sal. Misture bem para incorporar todos os ingredientes;
 - Em um dos lados da crepioca, coloque as duas fatias de queijo frescal (uma do lado do outro). Por cima do queijo, disponhas as fatias de tomatinho-cereja. Polvilhe o orégano (se quiser, adicione uma pitada de sal). Tampe a frigideira e cozinhe por 1 ou 2 minutos;
-- --
 
 ---
 

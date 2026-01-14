@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ½ xícara (chá) de azeite Andorinha
 - 1 colher (sopa) de tomilho debulhado
 - Lave e seque bem o tomilho e a casca do limão antes de debulhar e fazer as raspas, respectivamente. No pilão, macere as folhas de tomilho com as raspas de limão e 1 colher (sopa) do azeite Andorinha.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de frango em pedaços (coxa, sobrecoxa e peito)
 - 2 colheres de sopa de azeite
@@ -44,7 +44,6 @@ flags: []
 - Em uma panela grande, aqueça o azeite em fogo alto e adicione o açúcar. Deixe caramelizar até ganhar cor, sem deixar queimar;
 - Em uma frigideira quente com azeite, coloque os quiabos e deixe refogar por cerca de 5 minutos até soltar e secar a baba. Adicione uma pitada de sal;
 - Finalize salpicando coentro e cebolinha;
-- --
 
 ---
 

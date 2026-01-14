@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 1 lata de creme de leite sem soro (300 gramas)
 - 1 lata de leite condensado (395 gramas)
 - 1/2 xícara de chá de suco de limão (120 ml)
-- --
 
 ---
 

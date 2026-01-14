@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de queijo mussarela light ralado na hora (30 gramas)
 - 1 colher de sopa cheia de requeijão light ou ricota light (30 gramas)
 - 5 colheres de sopa de tapioca (50 gramas)
 - Misture bem com uma colher, depois com as mãos, envolvendo todos os ingredientes;
-- --
 
 ---
 

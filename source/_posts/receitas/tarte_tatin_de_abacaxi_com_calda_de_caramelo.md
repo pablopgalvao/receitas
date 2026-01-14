@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ colher (sopa) de manteiga
 - Coloque o açúcar na mesma frigideira usada para dourar as rodelas de abacaxi (nem precisa lavar). Leve ao fogo médio para derreter até formar um caramelo dourado e liso - mexa de vez em quando com uma espátula para não queimar.
 - Desligue o fogo e adicione a manteiga. Mexa bem com a espátula até derreter. Acrescente o leite quente em fio, mexendo com a espátula, até formar uma calda - se o caramelo endurecer, volte a frigideira ao fogo baixo e mexa até dissolver. Transfira a calda para uma molheira e reserve.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ½ xícara (chá) de farinha de trigo
 - 3 colheres (sopa) de açúcar demerara
 - Numa tigela, junte a manteiga gelada, a farinha e o açúcar demerara. Misture com as pontas dos dedos, apenas para formar uma farofa grossa.
-- --
 
 ---
 

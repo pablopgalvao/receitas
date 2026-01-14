@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 2 xícaras (chá) de água ao fogo baixo para ferver.
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola, tempere com uma pitada de sal e refogue por cerca de 2 minutos até murchar. Acrescente a folha de louro, o arroz e mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar o arroz soltinho depois de cozido.
 - Meça 2 xícaras (chá) da água fervente e regue sobre o arroz. Tempere com o sal, misture bem e aumente o fogo para médio. Não mexa mais.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ½ xícara (chá) de vinho do Porto (120 ml)
 - cubos de gelo a gosto
 - Separe 2 copos e coloque em cada um ¼ de xícara (chá) do vinho do Porto.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite (ou a gosto)
 - 1 colher de chá de pimenta-do-reino
@@ -38,7 +38,6 @@ flags: []
 - Acrescente o restante da água, a pimenta, o sal e o caldo de galinha. Misture bem até derreter;
 - Aqueça uma panela com óleo e, enquanto isso, empane as polentas. Passe-as no fubá, cobrindo toda a superfície;
 - Quando o óleo estiver bem quente, adicione algumas polentas. Se elas estiverem boiando na panela, significa que estão fritas o suficiente;
-- --
 
 ---
 

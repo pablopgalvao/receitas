@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml de leite morno
 - 3 colheres de sopa de margarina
@@ -47,7 +47,6 @@ flags: []
 - Salpique um pouco de farinha na bancada, pegue uma das bolinhas e abra-a com um rolo;
 - Coloque 1 ou 2 colheres de recheio no centro da massa aberta;
 - Monte todas as esfihas até acabar a massa e o recheio e deixe-as descansar em uma forma enfarinhada por mais 15 a 20 minutos;
-- --
 
 ---
 

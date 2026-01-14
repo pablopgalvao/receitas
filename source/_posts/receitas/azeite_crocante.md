@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ colher (chá) de pimenta calabresa
 - ½ colher (chá) de sal
 - Numa frigideira pequena, coloque o azeite, a castanha-de-caju, as sementes de girassol e de coentro, a pimenta calabresa, o alecrim e o sal. Leve ao fogo baixo, por cerca de 4 minutos, mexendo de vez em quando.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícaras de chá de farinha de trigo tipo 1 (400 gramas)
 - 1 e 1/2 xícaras de chá de água filtrada (300 ml)
@@ -39,7 +39,6 @@ flags: []
 - Polvilhe a bancada e as mãos com farinha (sempre que perceber as mãos grudando, polvilhe mais). Vire a massa sobre a bancada e modele-a em rolinho ou outro formato desejado, tensionando levemente as extremidades;
 - Transfira para um banneton (ou tigela forrada com pano enfarinhado), com a costura voltada para cima. Cubra com um plástico e leve à geladeira por 12 a 18 horas;
 - No dia seguinte, retire a massa da geladeira e vire-a sobre um papel antiaderente, retirando o excesso de farinha da superfície. Faça um corte inclinado na superfície da massa;
-- --
 
 ---
 

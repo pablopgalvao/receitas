@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de farinha de trigo (255 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Acrescente a manteiga derretida e bata por mais alguns minutos, até ganhar uma consistência mais espessa;
 - Adicione a farinha de trigo aos poucos, batendo continuamente para que não se formem grumos na massa;
 - Desenforme e polvilhe açúcar de confeiteiro. O bolo está pronto. Passe um café quentinho e sirva aos seus familiares!
-- --
 
 ---
 

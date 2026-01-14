@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Cubra os cubos de carne com 5 xícaras (chá) de água fria e deixe na geladeira durante 12 horas – troque a água da carne-seca pelo menos 2 vezes durante a dessalga.
 - Leve uma frigideira, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga de garrafa, junte a cebola, tempere com uma pitada de sal refogue por 2 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar.
 - Acrescente a carne-seca e refogue por cerca de 10 minutos, até ficar bem dourada. Junte a farinha de mandioca torrada, aos poucos, mexendo por 2 minutos apenas para aquecer. Prove e, se necessário tempere com sal. Sirva a seguir, fica uma delícia com salada de pimentão.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - folhas de manjericão a gosto para servir
 - Unte com azeite uma assadeira grande. Disponha as metades de tomate com a casca para baixo e o lado da polpa para cima – assim solta menos água. Distribua o restante dos legumes na assadeira, regue com azeite e tempere com sal e pimenta a gosto.
-- --
 
 ---
 

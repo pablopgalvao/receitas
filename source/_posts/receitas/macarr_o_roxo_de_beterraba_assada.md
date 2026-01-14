@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Quando faltar 10 minutos para o tempo da beterraba, leve uma panela média com cerca de 3 litros de água ao fogo alto. Assim que ferver, adicione 1 colher (sopa) de sal, junte o macarrão e misture. Deixe cozinhar pelo tempo indicado na embalagem ou até ficar al dente, mexendo de vez em quando.
 - Retire a assadeira do forno e, com cuidado para não se queimar com o vapor, abra a trouxinha de papel-alumínio. Transfira as beterrabas (com o líquido que se formou na trouxinha) para o liquidificador, junte o alho, 1 colher (sopa) de azeite e tempere com ½ colher (chá) de sal. Adicione ½ xícara (chá) da água do cozimento do macarrão e bata até ficar liso.
 - Assim que estiver cozido, escorra a água e transfira o macarrão para uma tigela grande. Adicione o molho de beterraba e misture delicadamente – ele vai absorver parte do molho e ficar com a cor da beterraba. Sirva a seguir com ricota esfarelada, folhas de endro, azeite e pimenta-do-reino moída na hora a gosto.
-- --
 
 ---
 

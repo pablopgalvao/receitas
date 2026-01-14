@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Descasque e corte a cenoura ao meio no sentido da largura. Corte cada metade em quartos e transfira para uma assadeira grande. Tempere com 2 colheres (sopa) de azeite, sal e pimenta-do-reino a gosto. Misture bem para envolver todos os pedaços com o azeite.
 - Lave, seque bem e transfira as folhas de manjericão para o copo do mixer. Descasque o dente de alho e junte ao manjericão. Acrescente as castanhas, o queijo parmesão, 1/2 xícara (chá) de azeite, o cubo de gelo - ele deixa a cor do molho bem verde - e bata até ficar liso (se preferir bata no liquidificador). Misture as raspas de laranja e tempere com sal e pimenta-do-reino a gosto.
-- --
 
 ---
 

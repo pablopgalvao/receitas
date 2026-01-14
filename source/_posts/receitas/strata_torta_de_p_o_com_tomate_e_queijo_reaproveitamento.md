@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se algum estiver estragado, você não perde a receita. Mexa bem com o batedor de arame apenas para misturar as claras com as gemas. Acrescente o leite, o alho ralado e as ervas picadas; tempere com o sal, a pimenta calabresa e misture bem.
 - Coloque os cubos de pão, os tomates e ¾ de xícara (chá) do queijo parmesão ralado no refratário. Regue com 1 colher (sopa) de azeite e misture delicadamente com as mãos para não desmanchar os tomatinhos. Acomode os ingredientes preenchendo todo o fundo do refratário.
 - Regue tudo com a mistura de ovos e leite — distribua bem o líquido no refratário para que a mistura não fique concentrada num lugar só. Polvilhe o restante do queijo ralado e deixe descansar por 15 minutos — nesse tempo, o pão amanhecido absorve parte do leite e fica mais macio antes de assar.
-- --
 
 ---
 

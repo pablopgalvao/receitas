@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ¼ de colher (chá) de pimenta calabresa seca
 - queijo parmesão ralado a gosto para servir
 - Leve uma panela média (cerca de 20 cm) ao fogo médio. Quando aquecer, regue com o azeite, junte a cebola, tempere com o sal e refogue por 3 minutos, até murchar. Adicione os filés de anchova, o alho e mexa por mais 1 minuto para desmanchar as anchovas.
-- --
 
 ---
 

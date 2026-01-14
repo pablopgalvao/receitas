@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 ovos cozidos
 - 1 colher de sopa de creme de ricota light (ou requeijão)
@@ -39,7 +39,6 @@ flags: []
 - Descasque os ovos cozidos, transfira para uma tigela seca e amasse com um garfo até formar uma pasta;
 - Na tigela, adicione o creme de ricota (ou requeijão), a cebolinha picada, molho de pimenta, sal e pimenta-do-reino. Misture delicadamente até incorporar tudo;
 - Coloque por cima uma porção farta da pasta de ovo, alisando com as costas da colher;
-- --
 
 ---
 

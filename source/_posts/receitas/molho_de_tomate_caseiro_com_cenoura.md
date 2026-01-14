@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Regue apenas o alho com um fio de azeite, temperando todo o restante com sal e pimenta-do-reino. Asse na air fryer em 180 ºC por cerca de 20 a 25 minutos;
-- --
 
 ---
 

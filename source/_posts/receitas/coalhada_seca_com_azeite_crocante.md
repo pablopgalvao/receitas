@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - folhas de hortelã a gosto para servir
 - Numa tigela, misture o iogurte com 1 colher (chá) de sal e transfira para a peneira forrada com pano. Leve à geladeira para drenar por 8 horas — o iogurte vai liberar o soro aos poucos e ficar com a consistência de uma coalhada firme.
 - Numa frigideira pequena, coloque o azeite, a castanha-de-caju, as sementes de girassol e de coentro, a pimenta calabresa, o alecrim e ½ colher (chá) de sal. Leve ao fogo baixo, por cerca de 4 minutos, mexendo de vez em quando.
-- --
 
 ---
 

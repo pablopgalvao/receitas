@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Bata o queijo cottage no processador (com o soro) até formar uma pasta. Misture as nozes e tempere com sal, pimenta e noz-moscada a gosto.
-- --
 
 ---
 

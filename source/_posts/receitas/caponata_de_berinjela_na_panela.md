@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 155 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 berinjelas médias fatiadas (400 gramas)
 - 1 colher de sopa rasa de sal
@@ -47,7 +47,6 @@ flags: []
 - Fatie as berinjelas, coloque-as em uma tigela grande e adicione o sal. Misture bem utilizando as mãos, tampe e deixe descansar por 1 hora em temperatura ambiente, para soltar toda a água;
 - Em uma panela grande, adicione as colheres de azeite e o alho ralado. Leve ao fogo alto para dourar, mas tome cuidado para não queimar. Após isso, reduza para o fogo médio;
 - Adicione a xícara de azeite de oliva, a azeitona, o orégano, a pimenta calabresa, o vinagre de vinho e a pimenta-do-reino. Misture bem e continue cozinhando, mexendo de vez em quando. Deixe cozinhando por mais 10 minutos, até que o pimentão fique mais macio;
-- --
 
 ---
 

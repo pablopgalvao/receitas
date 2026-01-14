@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal e pimenta-branca moída na hora a gosto
 - Descarte as pontas, corte cada pepino ao meio no sentido do comprimento e, com uma colher de café, raspe as sementes. Corte cada metade em 4 tiras e as tiras em fatias de 0,5 cm. Corte os tomates ao meio, descarte as sementes e corte cada metade em cubos de cerca de 1 cm. Descasque e corte a cebola em cubinhos.
 - Numa tigela média, coloque o azeite, o vinagre balsâmico e o óleo de gergelim; tempere com sal e pimenta e misture bem com um garfinho (ou batedor de arame) para emulsionar. Adicione os legumes picados e misture delicadamente. Prove e, se necessário, ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

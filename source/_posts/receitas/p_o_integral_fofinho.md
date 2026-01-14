@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 ml de água morna
 - 3 colheres de sopa de óleo (ou azeite)
@@ -38,7 +38,6 @@ flags: []
 - Em um recipiente, adicione a água morna, o óleo, o açúcar, o fermento e misture bem até ficar homogêneo;
 - Acrescente a farinha (gradualmente), o sal e vá misturando até ficar uma massa bem firme;
 - Transfira a massa para uma assadeira de pão (ou de bolo inglês) untada com óleo (ou azeite), pincele azeite por cima, cubra com um pano de prato e deixe descansar (em um local mais quentinho) por 1 hora ou até dobrar de tamanho;
-- --
 
 ---
 

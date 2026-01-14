@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Numa tigela grande, junte o extrato de tomate, ½ xícara (chá) de azeite, o molho de romã, o caldo de limão, o coentro, o cominho e a pimenta-da-jamaica em pó. Tempere com 1 colher (chá) de sal e misture bem com um batedor de arame.
 - Numa assadeira grande, junte os cubos de abóbora e os dentes de alho, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture bem e leve ao forno para assar por cerca de 30 minutos, ou até a abóbora ficar dourada – na metade do tempo, vire os cubos com uma espátula para assar por igual.
 - Na hora de servir, misture as nozes e a salsinha picada no trigo temperado. Junte metade dos cubos de abóbora e alho assados e misture delicadamente. Sirva a salada de trigo com o iogurte cremoso, folhas de miniagrião e o restante da abóbora assada.
-- --
 
 ---
 

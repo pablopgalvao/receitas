@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de panceta
 - 2 colheres de café de açúcar
@@ -44,7 +44,6 @@ flags: []
 - Assim que os pedaços estiverem bem cozidos, salpique o açúcar por cima, agregando também os dentes de alho e a metade da cebola. Mexa tudo muito bem por 2 minutos;
 - Adicione a páprica defumada, a pimenta-do-reino, o gengibre em pó, o shoyu e o sal, ajustando conforme sua preferência. Mexa para incorporar todos os ingredientes;
 - Está pronto! Sirva esse prato acompanhado de arroz ou saladinha, fica uma delícia!
-- --
 
 ---
 

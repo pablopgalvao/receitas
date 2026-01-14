@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ⅓ de xícara (chá) de azeite
 - ⅓ de xícara (chá) de vinagre de vinho branco
 - Retire as folhas da tigela, em vez de escorrer a água - assim as sujeirinhas ficam no fundo da tigela. Enxague sob água corrente, transfira para uma centrífuga de saladas e seque bem.
-- --
 
 ---
 

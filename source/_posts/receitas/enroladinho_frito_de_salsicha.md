@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 gramas de margarina
 - 1 colher de sopa de sal
@@ -39,7 +39,6 @@ flags: []
 - Divida a massa em algumas partes e recheie com a salsicha (você pode optar por colocar ela inteira ou em pedaços);
 - Passe no leite e na farinha de rosca;
 - Frite em óleo quente e deixe escorrer em um prato coberto por toalha de papel;
-- --
 
 ---
 

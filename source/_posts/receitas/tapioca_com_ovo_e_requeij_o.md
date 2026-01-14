@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de farinha de tapioca hidratada
 - 1 colher de sopa de manteiga
@@ -37,7 +37,6 @@ flags: []
 - Em uma frigideira, espalhe a farinha de tapioca, formando uma camada uniforme de espessura média;
 - Na mesma frigideira, em fogo médio, derreta a manteiga e prepare o ovo mexido, temperando com sal e orégano a gosto;
 - Coloque o ovo mexido sobre a tapioca e dobre ao meio;
-- --
 
 ---
 

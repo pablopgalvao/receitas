@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Leve uma frigideira grande ao fogo médio. Regue com 2 colheres (sopa) de azeite, adicione a ervilha, tempere com sal e pimenta e mexa por cerca de 2 minutos, apenas para descongelar.
 - Junte a ervilha batida e o coentro picado ao avocado, adicione mais um fio de azeite, tempere com sal e misture bem.
 - Transfira a pasta para um prato e regue com mais azeite. Decore com sal moído na hora (ou sal grosso pilado) e folhas de coentro. Sirva a seguir.
-- --
 
 ---
 

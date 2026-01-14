@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de água
 - 1 xícara de chá de leite
 - 3 colheres de sopa de água
 - Com uma colher, vá despejando essa mistura do liquidificador por cima das gelatinas com o chocolate, até encher a forminha;
-- --
 
 ---
 

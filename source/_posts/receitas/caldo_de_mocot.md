@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de mocotó em pedaços
 - Óleo para fritar
@@ -41,7 +41,6 @@ flags: []
 - Se o mocotó continuar com cheiro forte, repita o processo de escaldar mais 1 ou 2 vezes. Em uma panela grande, esquente bem o óleo e frite os mocotós até ficarem bem sequinhos, cerca de 5 minutos, mexendo para não queimar. Reserve;
 - Acrescente o mocotó frito, tempere com cominho, tempero baiano, sal e pimenta-do-reino. Misture bem para incorporar os temperos;
 - Despeje o creme batido, os copos do caldo reservados e um litro de água fervente. Em fogo baixo, deixe cozinhar até o creme engrossar. Acerte os temperos e o sal;
-- --
 
 ---
 

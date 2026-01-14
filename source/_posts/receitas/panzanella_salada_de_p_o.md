@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - folhas de manjericão a gosto
 - Descasque o dente de alho e corte a fatia de pão em cubos grandes. Leve ao fogo médio uma frigideira, de preferência antiaderente. Quando aquecer, regue com 1 colher (sopa) de azeite e junte o alho (inteiro), e refogue por 1 minuto apenas para perfumar. Acrescente os cubos de pão e deixe dourar por cerca de 2 minutos, virando com uma pinça. Reserve os cubos de pão e descarte o alho.
 - Escorra a água da cebola fatiada e junte à tigela com os legumes. Acrescente as alcaparras, as folhas de manjericão, o pão e regue com o molho. Misture bem. A salada fica ainda melhor preparada com antecedência, para o pão absorver o molho.
-- --
 
 ---
 

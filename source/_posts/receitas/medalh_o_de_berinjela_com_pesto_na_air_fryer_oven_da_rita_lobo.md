@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - ⅓ de xícara (chá) de azeite
 - sal a gosto
 - No miniprocessador de alimentos, bata primeiro o azeite com as nozes, o alho e o queijo parmesão, até triturar. Junte as folhas de manjericão e bata novamente para formar o molho — quanto menos você bater as folhas, mais verdinho o molho vai ficar. Prove e ajuste o sal — alguns queijos são mais salgados que outros.
-- --
 
 ---
 

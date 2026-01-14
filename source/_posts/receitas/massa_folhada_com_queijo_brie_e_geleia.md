@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de geleia de amora
 - 1 gema de ovo
 - Sobre o queijo, adicione 1 colher de sopa bem cheia de geleia e espalhe levemente;
 - Dobre cada aba da massa sobre o queijo, intercalando as dobras para um acabamento bonito, e pincele gema de ovo em cada parte. Pressione bem as emendas da massa para evitar que o recheio vaze durante o cozimento;
-- --
 
 ---
 

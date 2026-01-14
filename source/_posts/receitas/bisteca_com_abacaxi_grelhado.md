@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Numa tigela, coloque as bistecas e junte o açúcar, o sal e o gengibre ralado. Esfregue bem os temperos dos dois lados de cada bisteca, cubra com água, tampe e deixe descansar por 20 minutos em temperatura ambiente - o soro vai deixar a carne de porco úmida.
 - Retire as bistecas da salmoura, lave sob água corrente para tirar o excesso de sal e seque bem com um papel-toalha ou pano de prato limpo.
 - Leve uma frigideira grande (ou bistequeira) ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e coloque 2 bistecas. Tempere com pimenta a gosto e deixe dourar por cerca de 3 minutos de cada lado. Transfira para um prato, regue a frigideira com mais azeite e repita com as outras bistecas.
-- --
 
 ---
 

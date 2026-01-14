@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 3 colheres (sopa) de azeite
 - Descasque, lave sob água corrente e seque bem os chuchus com um pano de prato limpo – assim eles não escorregam na hora de cortar. Corte cada chuchu ao meio. Com uma colher, descarte a semente. Corte cada metade ao meio no sentido da largura, a parte mais fina corte em 3 tiras, no sentido do comprimento, e a mais grossa em 4 tiras. Fatie as tiras em cubos de 2 cm.
 - No pilão, dê uma leve batida no alho para descascar e descarte a casca. Junte o sal e bata bem até formar uma pastinha. Misture o cominho, a canela e o azeite.
-- --
 
 ---
 

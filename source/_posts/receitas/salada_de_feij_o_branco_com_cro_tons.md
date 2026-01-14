@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - azeite a gosto
 - sal a gosto
 - Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite e acrescente os cubos de pão. Tempere com sal e deixe dourar por cerca de 5 minutos, mexendo de vez em quando.
-- --
 
 ---
 

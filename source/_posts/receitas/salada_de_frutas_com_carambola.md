@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - Salada de folhas com carambola
 - 1½ xícara (chá) de morango (cerca de 125 g)
 - Numa tigela, misture os pedaços de manga, kiwi e morango com cuidado para não desmanchar as frutas. Distribua a salada de frutas em 3 tigelas, disponha as fatias de carambola e sirva a seguir.
-- --
 
 ---
 

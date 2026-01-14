@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 180 ºC e programe para assar por 15 minutos. Numa tigela grande, coloque a cenoura, tempere com ½ colher (chá) de sal e 1 colher (chá) de azeite e misture bem para envolver todos os pedaços.
 - No miniprocessador de alimentos (ou liquidificador), coloque o grão-de-bico escorrido, a cenoura assada, o tahine, o caldo de limão, 3 colheres (sopa) de azeite e ½ colher (chá) de sal.
 - Bata até formar uma pastinha — pare de bater e raspe a lateral do processador com uma espátula quantas vezes forem necessárias para misturar os ingredientes. Vá adicionando a água filtrada aos poucos, batendo a cada adição, até atingir a textura que preferir (mais rústica e firme ou mais lisa e cremosa). Prove e, se necessário, ajuste o sal.
-- --
 
 ---
 

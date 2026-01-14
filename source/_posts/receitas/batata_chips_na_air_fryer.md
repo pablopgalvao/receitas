@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de batata-asterix
 - 1 colher de sopa de azeite de oliva
 - Sal a gosto
 - Volte as batatas à tigela, tempere as fatias com sal e regue com azeite de oliva, misturando bem. Nesse momento, preaqueça a air fryer a 200ºC por 5 minutos;
 - Pronto! Sua batata chips sequinha e crocante, feita na air fryer, está pronta. Se necessário, acerte o sal e sirva com os molhinhos de sua preferência ou até mesmo como acompanhamento nas suas refeições;
-- --
 
 ---
 

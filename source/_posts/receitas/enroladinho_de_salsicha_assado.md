@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de farinha de trigo
 - 5 gramas de fermento biológico seco
@@ -42,7 +42,6 @@ flags: []
 - Transfira para uma superfície limpa e enfarinhada e sove por 10 minutos;
 - Abra a massa, faça tirinhas, enrole nas salsichas e corte em três pedaços;
 - Antes de levar ao forno, pincele um ovo batido por cima;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Meça 4 xícaras (chá) da água fervente e regue o arroz. Misture e deixe cozinhar em fogo médio sem mexer. Assim que a água atingir o mesmo nível do arroz, abaixe o fogo e tampe parcialmente a panela. Deixe cozinhar até que o arroz absorva toda a água – para verificar, fure o arroz com um garfo e afaste delicadamente alguns grãos do fundo da panela.
 - Desligue o fogo e mantenha a panela tampada por 5 minutos para que os grãos terminem de cozinhar no próprio vapor. Enquanto isso, lave e seque as ervas. Fatie fino a cebolinha e pique fino a salsinha. Em seguida, solte os grãos de arroz com um garfo.
 - Leve uma frigideira (ou panela) grande com a manteiga ao fogo médio. Quando derreter, adicione as amêndoas e mexa por 1 minuto apenas para aquecer e perfumar. Junte a cebolinha e refogue até murchar. Acrescente a salsinha, o arroz e mexa por 3 minutos para absorver os sabores. Transfira para uma tigela e, com uma tesoura corte as folhas de endro sobre o arroz. Sirva a seguir.
-- --
 
 ---
 

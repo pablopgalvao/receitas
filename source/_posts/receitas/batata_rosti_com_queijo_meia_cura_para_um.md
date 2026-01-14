@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - ¼ de xícara (chá) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Num pote de vidro com tampa, junte a mostarda de Dijon, o mel, o vinagre de vinho tinto e o azeite. Tampe e chacoalhe bem até formar um molho liso. Prove — algumas mostardas são mais picantes e salgadas que outras — e então tempere com sal e pimenta-do-reino. Tampe novamente e agite apenas para misturar.
-- --
 
 ---
 

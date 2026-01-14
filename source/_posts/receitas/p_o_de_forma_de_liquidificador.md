@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de óleo de milho ou margarina
 - 4 colheres de sopa de açúcar (50 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Transfira a mistura líquida para uma tigela grande e acrescente a farinha de trigo aos poucos, mexendo com uma colher ou espátula até formar uma massa pesada e grudenta;
 - Transfira a massa para a forma untada, espalhe com uma colher e cubra com um pano limpo. Deixe descansar em local fechado e aquecido até dobrar de volume (pode variar entre 40 minutos e 1h15, dependendo da temperatura ambiente);
 - Pincele a superfície do pão com o ovo batido com leite para obter um dourado bonito;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Unte as mãos com óleo. Com uma colher de chá, retire uma porção da massa e modele uma bolinha do tamanho de um brigadeiro e transfira para uma travessa. Repita com toda a massa.
 - Leve uma panela média com água ao fogo alto. Quando ferver, abaixe o fogo, tempere com 1 colher (sopa) de sal e adicione metade das bolinhas. Deixe cozinhar por 15 minutos, contados depois que subirem para a superfície – as bolinhas ficam cozidas e aeradas. Com uma escumadeira, transfira as bolinhas para os pratos de servir e repita com a outra metade (se preferir, cozinhe as bolinhas com antecedência e reserve numa travessa).
 - Enquanto a última leva de bolinhas cozinha, aqueça metade do caldo de frango numa panela e tempere com sal e pimenta-do-reino a gosto. Sirva as bolinhas de matzá com o caldo quente e folhas de endro frescas.
-- --
 
 ---
 

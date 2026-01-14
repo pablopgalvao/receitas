@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Junte o vinho e misture, raspando o fundo da panela para dissolver os queimadinhos da cebola, até evaporar. Polvilhe com a farinha de trigo e mexa por cerca de 1 minuto - essa misturinha de farinha com manteiga vai engrossar levemente a sopa.
 - Junte o caldo de uma só vez e misture bem com uma espátula, para dissolver os gruminhos de farinha. Assim que ferver, abaixe o fogo e deixe cozinhar por 30 minutos, mexendo de vez em quando para não grudar no fundo.
 - Após os 30 minutos, desligue o fogo e tempere com sal e pimenta-do-reino a gosto. Transfira a sopa para um refratário ou panela que possa ir ao forno. Disponha as fatias de pão italiano, uma ao lado da outra, com a parte tostada para baixo - assim elas absorvem menos líquido e não desmancham. Polvilhe com o queijo ralado e leve ao forno.
-- --
 
 ---
 

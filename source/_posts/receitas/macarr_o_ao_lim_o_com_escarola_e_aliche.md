@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Assim que a água ferver, misture 1 colher (sopa) de sal, acrescente o macarrão e deixe cozinhar pelo tempo indicado na embalagem ou até ficar al dente. Enquanto o macarrão cozinha, refogue a escarola.
 - Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, adicione o alho e mexa por 1 minuto para perfumar. Acrescente a escarola, tempere com sal e refogue por cerca de 2 minutos, até murchar levemente. Reserve.
 - Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão. Transfira o espaguete para a tigela com o limão e misture bem. Vá acrescentando aos poucos a água do cozimento reservada, misturando delicadamente, para deixar o molho mais fluido – não coloque toda a água de uma só vez, o molho pode ficar aguado.
-- --
 
 ---
 

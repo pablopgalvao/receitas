@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Transfira a massa para a assadeira untada e espalhe com uma colher ou espátula. Leve ao forno para assar por 15 a 20 minutos ou até que a massa comece a dourar.
 - Umedeça um pano de prato limpo, estique sobre uma superfície de trabalho e polvilhe com açúcar. Retire o bolo do forno e vire sobre o pano.
 - Espalhe o doce de leite em uma camada uniforme. Vá erguendo o pano e enrolando o bolo. Transfira para um prato de rocambole, polvilhe o açúcar de confeiteiro e sirva a seguir.
-- --
 
 ---
 

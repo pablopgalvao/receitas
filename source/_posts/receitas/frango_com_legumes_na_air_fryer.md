@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de sobrecoxas
 - Sal a gosto
@@ -38,7 +38,6 @@ flags: []
 - 3 colheres de sopa de manteiga
 - Em um recipiente, tempere as sobrecoxas com sal, pimenta, açafrão e alho. Reserve;
 - Tempere as batatas com sal, orégano, manteiga e, então, coloque-as sobre o frango. Leve tudo para a fritadeira preaquecida a 180 ºC por 15 minutos;
-- --
 
 ---
 

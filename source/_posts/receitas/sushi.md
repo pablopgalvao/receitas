@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz para sushi (250 gramas)
 - 2 xícaras de chá de água (480 ml)
@@ -48,7 +48,6 @@ flags: []
 - Em um recipiente separado, quebre um ovo de cada vez, verificando se estão bons. Bata com sal e pimenta usando um garfo;
 - Aqueça uma frigideira com o óleo e despeje metade dos ovos batidos. Quando formar uma omelete fina, dobre-a sobre si mesma 3 vezes, formando um rolinho, e deixe-o no canto da frigideira;
 - Despeje o restante do ovo e enrole em volta da omelete novamente. Quando terminar de enrolar, desligue o fogo. Corte esse rolinho de omelete em tiras compridas e reserve;
-- --
 
 ---
 

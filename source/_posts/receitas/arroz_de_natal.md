@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de azeite ou óleo
 - 1 gomo de linguiça calabresa (180 gramas)
@@ -47,7 +47,6 @@ flags: []
 - Coloque a calabresa na frigideira com o azeite/óleo e espere ela dourar. Mexa nesse processo para que ela não queime;
 - Após ela soltar o óleo e fritar, acrescente a cebola e o alho picados. Deixe dourar com a calabresa até eles ficarem douradinhos;
 - Quando estiver tudo dourado, acrescente o arroz e a cenoura picada. Tempere com sal e continue mexendo com a colher para refogar todos os ingredientes;
-- --
 
 ---
 

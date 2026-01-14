@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 1/3 de xícara de chá de água (80 ml)
 - 1 xícara de chá de açúcar (220 gramas)
 - Transfira a pasta para uma panela e adicione o açúcar. Leve ao fogo baixo, mexendo até o açúcar se dissolver por completo;
-- --
 
 ---
 

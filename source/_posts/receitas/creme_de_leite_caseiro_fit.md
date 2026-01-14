@@ -2,7 +2,7 @@
 title: Creme de leite caseiro fit
 date: 2025-09-22T00:00:00.000Z
 categories:
-  Light / saudáveis
+  - Light / saudáveis
 tags:
   - Novidades populares
 ingredients:
@@ -28,7 +28,6 @@ flags: []
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +37,6 @@ flags: []
 - 6 colheres de sopa de leite em pó (95 gramas)
 - 1/2 xícara de chá de leite desnatado fervente (120 ml)
 - 1/2 xícara de chá de água fervente (120 ml)
-
 
 ---
 

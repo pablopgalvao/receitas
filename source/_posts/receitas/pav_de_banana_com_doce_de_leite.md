@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -51,7 +52,6 @@ flags: []
 - 1 xícara (chá) de açúcar
 - Leve uma panela pequena com água ao fogo médio – ela vai servir de base para o banho-maria. Numa tigela de vidro refratário (ou inox), coloque as 4 claras reservadas e o açúcar. Encaixe a tigela na panela com água e mexa com o batedor de arame, por 4 minutos – para ter certeza de que está no ponto, com uma colher retire uma porção da mistura e com a ponta dos dedos verifique se as claras estão aquecidas e sem grãozinhos de açúcar.
 - Transfira para a batedeira e bata em velocidade alta por cerca de 10 minutos, até formar um merengue brilhante. Com duas colheres, distribua o merengue como última camada do pavê. Se quiser um acabamento ainda mais especial, queime com o maçarico.
-- --
 
 ---
 

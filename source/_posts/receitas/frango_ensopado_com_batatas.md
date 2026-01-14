@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de peito e sobrecoxa de frango
 - 2 colheres de sopa de vinagre ou caldo de limão
@@ -37,7 +37,6 @@ flags: []
 - Tempere o frango com vinagre, ou caldo de limão, sal, alho, pimenta-do-reino, cebola, cheiro-verde e louro. Pode incluir outros temperos a gosto. Deixe marinar por cerca de 1 hora, ou mais, na geladeira;
 - Leve uma panela com óleo ao fogo médio. Quando estiver quente, adicione os pedaços de frango - reserve a marinada para usar posteriormente;
 - Desligue o fogo, acerte os sal e os temperos. Se quiser, adicione cheiro-verde, salsinha ou coentro para finalizar. Sirva com arroz branco ou integral. Bom apetite!
-- --
 
 ---
 

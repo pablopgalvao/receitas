@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de margarina
 - 1 xícara de chá de açúcar
@@ -37,7 +37,6 @@ flags: []
 - 1/2 colher de sopa de cravo triturado
 - Quando eles estiverem hidratados, quebre os ovos em um potinho separado e junte na bacia com os pães. Adicione o açúcar, a canela em pó e o cravo triturado. Mexa bastante com uma espátula até obter uma massa homogênea;
 - Quando estiver completamente assado, retire do forno e espere amornar. Desenforme e, se desejar, polvilhe açúcar de confeiteiro ou a canela em pó por cima. Sirva e bom apetite!
-- --
 
 ---
 

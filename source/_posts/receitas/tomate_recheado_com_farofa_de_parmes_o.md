@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Lave e seque os tomates. Corte uma fatia bem fina na base de cada tomate - assim eles ficam de pé na assadeira. Corte e descarte a tampa de cada tomate e, com uma colher ou dedo, retire e descarte as sementes.
 - Tempere a parte interna dos tomates com sal a gosto e deixe de ponta-cabeça num prato para drenar um pouco, enquanto prepara o recheio.
 - Descasque e pique fino o dente de alho. Transfira para uma tigela pequena e junte 3 colheres (sopa) de azeite, a farinha de rosca e o parmesão ralado. Misture até formar uma farofa úmida.
-- --
 
 ---
 

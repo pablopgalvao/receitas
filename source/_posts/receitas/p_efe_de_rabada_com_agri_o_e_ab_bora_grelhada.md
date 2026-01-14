@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - ⅓ de xícara (chá) de castanha-de-caju picada grosseiramente
 - pimenta biquinho a gosto
 - Sirva a rabada com a abóbora grelhada, arroz com castanha-de-caju, caldinho de feijão-preto e folhas de miniagrião. Salpique com a castanha-de-caju e pimentas biquinho.
-- --
 
 ---
 

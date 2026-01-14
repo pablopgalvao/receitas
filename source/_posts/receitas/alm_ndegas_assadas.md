@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,8 +33,6 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado fino (cerca de 40 g)
 - salsinha fresca picada a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-
-- --
 
 ---
 

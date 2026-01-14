@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 3/4 xícara de chá de leite integral (500 ml)
 - 1 caixa de leite condensado (395 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Em outra tigela, bata os ovos com a essência de baunilha na batedeira ou com fouet (batedor de arame) por cerca de 5 minutos, até formar uma espuma clara e aerada;
 - Passe as fatias umedecidas no ovo batido, escorrendo o excesso;
 - Misture açúcar com canela em um prato e passe as rabanadas ainda mornas para finalizar. Agora é só se deliciar!
-- --
 
 ---
 

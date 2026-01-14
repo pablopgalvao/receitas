@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Adicione o óleo e misture com as pontas dos dedos.
 - Aos poucos, junte o restante da água, sovando a massa com a mão. Aperte, amasse, estique e amasse novamente, dentro da tigela, por cerca de 5 minutos, até atingir uma textura macia e elástica. Se preferir sovar na bancada, polvilhe a superfície com uma camada bem fina de farinha de trigo. Mas evite juntar mais farinha na massa. Ela fica bem molenga inicialmente e, à medida que vamos sovando, ela fica no ponto.
 - Polvilhe uma bancada de trabalho com farinha de trigo e faça um rolinho com a massa. Com uma faca (ou espátula) divida em 10 porções. Enrole com as mãos cada pedaço, como se fosse um brigadeiro. Abra a bolinha com o rolo de macarrão, até formar um disco fino – se a massa começar a grudar no rolo ou na bancada polvilhe mais farinha.
-- --
 
 ---
 

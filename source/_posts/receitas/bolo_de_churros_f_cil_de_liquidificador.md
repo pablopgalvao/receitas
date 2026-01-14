@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos médios
 - 1 e 1/2 xícara de chá de açúcar (265 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Quebre os ovos em um potinho separado e verifique se eles estão bons para uso. Caso estejam, despeje cada um no liquidificador desligado. Adicione o açúcar, o óleo e o leite. Ligue o liquidificador e bata por cerca de 2 minutos. Reserve;
 - Em uma tigela grande, peneire a farinha de trigo com fermento e a canela. Mexa com um fouet até todos os ingredientes secos ficarem misturados;
 - Quando a cobertura começar a engrossar, está pronta. Utilize uma colher para espalhar por cima do bolo assado;
-- --
 
 ---
 

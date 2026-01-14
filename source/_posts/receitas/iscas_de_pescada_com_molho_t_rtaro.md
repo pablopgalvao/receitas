@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Num prato fundo, coloque a farinha de trigo e tempere com sal e pimenta-do-reino. Passe as tirinhas de peixe pela farinha, empanando bem dos dois lados.
 - Leve uma panela ao fogo médio com cerca de 1 dedo de óleo para aquecer. Forre um prato raso com papel-toalha e reserve.
 - Quando o óleo estiver quente, coloque as iscas de peixe em etapas, sem amontoar. Frite por cerca de 4 minutos de cada lado ou até ficar com a casquinha dourada. Com uma escumadeira, retire do óleo e transfira para o prato forrado com papel-toalha. Repita o procedimento com o resto das iscas.
-- --
 
 ---
 

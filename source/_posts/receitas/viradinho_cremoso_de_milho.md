@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal a gosto
 - Leve uma panela grande ao fogo médio. Adicione a manteiga e, quando derreter, acrescente a cebola. Tempere com uma pitada de sal e refogue por 3 minutos até murchar. Junte o milho congelado e refogue por 6 minutos, para descongelar e cozinhar até ficar macio – os grãos mudam de cor para um tom de amarelo mais vibrante.
 - Reserve ½ xícara (chá) dos grãos refogados numa tigela pequena. Regue a panela com a água, tempere com 1 colher (chá) de sal e aumente o fogo. Deixe cozinhar até ferver.
-- --
 
 ---
 

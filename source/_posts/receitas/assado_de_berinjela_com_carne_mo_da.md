@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - 1 colher de sopa de sal
@@ -38,7 +38,6 @@ flags: []
 - Forre o fundo e as laterais de um refratário (20x20 cm) com as rodelas de berinjela. Regue com azeite e salpique sal. Reserve;
 - Em um recipiente, coloque a carne moída, o ovo, o parmesão, as azeitonas, o sal e o alho. Misture com as mãos, envolvendo bem os ingredientes;
 - Cubra com mais uma camada de berinjela e salpique mais sal e orégano;
-- --
 
 ---
 

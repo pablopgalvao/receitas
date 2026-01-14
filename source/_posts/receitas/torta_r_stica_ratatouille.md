@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Retire a assadeira do forno e junte os outros legumes. Tempere com sal e pimenta-do-reino, regue com o azeite restante e misture delicadamente. Volte a assadeira ao forno por 30 minutos. Retire a assadeira e baixe a temperatura do forno para 180 ºC (temperatura média).
 - 1 colher (chá) de água
 - Numa bancada, polvilhe um pouco de farinha e, com um rolo de macarrão, abra a massa num formato arredondado até ficar com cerca de 0,5 cm de espessura.
-- --
 
 ---
 

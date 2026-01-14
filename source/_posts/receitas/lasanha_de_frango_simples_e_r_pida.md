@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de peito de frango cozido e desfiado
 - 2 sachês de molho de tomate (480 ml)
@@ -43,7 +43,6 @@ flags: []
 - 1 colher de chá de pimenta-do-reino
 - Junte a água e tempere com o sal e a pimenta-do-reino. Abaixe o fogo, tampe e deixe cozinhar por cerca de 5 minutos para encorpar;
 - Retire a tampa da panela, prove e, se necessário, ajuste os temperos. Acrescente a cebolinha e a salsinha picada, misture e desligue o fogo;
-- --
 
 ---
 

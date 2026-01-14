@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Junte a mistura de ovos. À medida que as beiradas começarem a cozinhar, empurre-as para o centro da frigideira; não se assuste, ela vai ficar toda enrugada mesmo. Com este processo, a parte que ainda está líquida escorre para a borda e cozinha rapidamente - o resultado é uma omelete mais úmida. Repita até que não escorra mais, por cerca de 1 minuto.
 - Quando a omelete já estiver cozida (as beiradas desgrudam das laterais, mas o centro ainda está úmido), dobre na metade. Adicione ½ colher (chá) de manteiga e, com a ajuda de uma espátula, deixe escorrer para baixo da omelete. Desta maneira, o lado em contato com a frigideira ganha uma tonalidade dourada. Deixe por cerca de 1 minuto.
 - Para servir, segure a frigideira pelo cabo e vire a omelete sobre o prato. Acompanhe com uma refrescante salada de folhas e tomate assado.
-- --
 
 ---
 

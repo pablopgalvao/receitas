@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de acém
 - 100 gramas de salsão
@@ -47,7 +47,6 @@ flags: []
 - Após 40 minutos, desligue o fogo e deixe a pressão sair sozinha. Então, abra a panela, adicione as batatas, misture levemente e prove o sabor do molho. Se necessário, acerte o sal e os temperos;
 - Se tiver pouco molho, adicione mais água. Se achar que o molho está muito ralo, dissolva 1 colher de café de amido de milho em um pouquinho de água (apenas o necessário para dissolver tudo) e despeje no preparo. Volte a panela ao fogo, sem a tampa e cozinhe por 20 minutos, ou até as batatas ficarem macias;
 - Se preferir, para agilizar o processo, após adicionar as batatas, volte a panela tampada ao fogo. Quando pegar pressão, conte 5 minutos. Então, desligue e espere a pressão sair naturalmente. Acerte o sal se precisar e finalize com cheiro-verde. Já pode servir!
-- --
 
 ---
 

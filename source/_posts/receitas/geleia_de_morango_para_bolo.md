@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de morangos
 - 1/2 xícara de chá de açúcar cristal (100 gramas)
@@ -35,7 +35,6 @@ flags: []
 - Coloque os morangos picados em uma panela e adicione o açúcar. Misture bem ainda com o fogo desligado;
 - Deixe cozinhar em fogo médio-baixo, mexendo de vez em quando, por cerca de 8 minutos. Quando começar a levantar fervura, retire a espuma que acumular com auxílio de uma colher, isso ajuda a geleia a ficar com a cor mais intensa;
 - Adicione a manteiga e misture bem, ela deixará a geleia mais brilhosa e aveludada;
-- --
 
 ---
 

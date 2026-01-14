@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - Sal a gosto
@@ -39,7 +39,6 @@ flags: []
 - Couve a gosto
 - Em uma panela, aqueça o óleo em fogo médio e acrescente o alho. Mexa devagar até dourar. Em seguida, adicione o açafrão, o colorau, a cebola a pimenta-da-jamaica e o lemon pepper. Misture bem;
 - Finalize com cheiro-verde a gosto, misture, e pronto. Sirva sua sopa de fubá cremosa bem quentinha!
-- --
 
 ---
 

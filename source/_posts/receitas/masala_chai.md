@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - ½ colher (chá) de sementes de erva-doce
 - 1½ colher (chá) de açúcar mascavo
 - Com uma faquinha para legumes, corte as pontas e abra as bagas de cardamomo. Transfira as sementes para uma panela pequena e junte a água, os grãos de pimenta, a canela, o cravo, a erva-doce e o açúcar. Misture e leve ao fogo médio.
-- --
 
 ---
 

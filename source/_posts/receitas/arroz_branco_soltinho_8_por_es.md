@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 4 xícaras (chá) de água ao fogo baixo, até ferver.
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite e refogue a cebola, mexendo sempre por cerca de 2 minutos, até murchar. Tempere com uma pitada de sal e junte o louro.
 - Meça 4 xícaras (chá) da água fervente e regue o arroz. Tempere com o sal, misture bem e aumente o fogo para médio. Não mexa mais.
-- --
 
 ---
 

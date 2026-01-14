@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de bacalhau cozido e desfiado
 - 600 gramas de batatas pré-cozidas com sal
@@ -43,7 +43,6 @@ flags: []
 - Junte o bacalhau cozido e desfiado, o sal, a pimenta e o cheiro-verde. Mexa para espalhar os temperos;
 - Espalhe o bacalhau com molho sobre as batatas e nivele com uma colher ou espátula;
 - Salpique o queijo mussarela por toda a superfície e decore com azeitonas. Leve ao forno preaquecido a 180 ºC por 15 a 20 minutos para gratinar;
-- --
 
 ---
 

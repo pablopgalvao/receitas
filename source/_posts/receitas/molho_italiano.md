@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 6 colheres de sopa de azeite
 - 2 colheres de sopa de vinagre tinto
@@ -35,7 +35,6 @@ flags: []
 - Orégano a gosto
 - Sal e pimenta-do-reino a gosto
 - Sirva o molho na salada. Bom apetite!
-- --
 
 ---
 

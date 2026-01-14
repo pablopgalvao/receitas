@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Passado o tempo de fermentação, transfira a massa para uma assadeira antiaderente de 30 cm × 20 cm — se sua assadeira não for antiaderente, regue o fundo com 1 colher (sopa) de azeite. Numa tigela pequena, misture o açúcar com a canela em pó.
 - Polvilhe a massa com 3 colheres (sopa) da mistura de açúcar com canela e dobre a massa sobre ela mesma 2 vezes para misturar. Com as mãos (ou com a espátula), espalhe a massa no fundo da assadeira — ela não precisa ser esticada para ocupar certinho toda a área, pois vai crescer um pouco mais e se acomodar na assadeira.
 - Umedeça a ponta dos dedos com água e pressione a massa sem perfurar nem rasgar. Distribua as fatias de maçã sobre a massa, pressionando levemente — a ideia é que parte da maçã fique entremeada na massa; quanto mais rústico ficar, melhor o resultado. Polvilhe o restante do açúcar com canela sobre a maçã.
-- --
 
 ---
 

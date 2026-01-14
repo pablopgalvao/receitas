@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 colher (chá) de sal
 - pimenta-do-reino moída na hora a gosto
 - Acrescente as vagens, tempere com o sal, o cominho e pimenta-do-reino; deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até ficarem levemente macias — elas não podem cozinhar demais para que não fiquem moles.
-- --
 
 ---
 

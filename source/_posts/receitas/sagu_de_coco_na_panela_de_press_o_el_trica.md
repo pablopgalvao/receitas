@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ⅓ de xícara (chá) de leite de coco
 - ½ xícara (chá) de açúcar
 - Coloque o sagu, o leite e o açúcar na panela de pressão elétrica da linha Electrolux por Rita Lobo. Misture, feche a tampa e ajuste a válvula para cozinhar na pressão.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve ao fogo médio uma panela média. Quando aquecer, regue com 1 colher (sopa) de azeite e doure as tiras de carne aos poucos – se colocar todas ao mesmo tempo, elas vão soltar o próprio líquido e cozinhar no vapor, em vez de dourar. Vire com a pinça para dourar por igual.
 - Diminua o fogo da panela para baixo e regue com mais 1 colher (sopa) de azeite. Adicione a cebola e refogue até murchar por cerca de 3 minutos, raspando bem o fundo da panela – os queimadinhos da carne vão dar sabor ao preparo. Junte o alho e mexa por apenas 1 minuto para perfumar.
 - Regue com o creme de leite, tempere com sal e pimenta-do-reino a gosto. Misture bem e deixe cozinhar em fogo médio. Depois que começar a ferver, deixe cozinhar por mais 15 minutos, mexendo de vez em quando, até o molho engrossar. Desligue o fogo e sirva a seguir.
-- --
 
 ---
 

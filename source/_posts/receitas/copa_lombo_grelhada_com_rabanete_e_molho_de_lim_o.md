@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 7 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Tempere os bifes de copa lombo com 1 colher (chá) de sal e pimenta a gosto.
 - Adicione os rabanetes, tempere com uma pitada de sal e deixe dourar por cerca de 2 minutos, mexendo de vez em quando.
 - Volte a frigideira ao fogo médio. Quando ferver, adicione a manteiga e mexa a frigideira para derreter. Volte os bifes para cozinhar por cerca de 2 minutos, para aquecer e para que o molho encorpe levemente. Sirva a seguir.
-- --
 
 ---
 

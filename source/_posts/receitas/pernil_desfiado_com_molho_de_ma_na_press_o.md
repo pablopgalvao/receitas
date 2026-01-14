@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Tempere o pernil com 1 colher (chá) de sal e a páprica. Espalhe bem com as mãos para cobrir toda a superfície e mantenha a carne em temperatura ambiente enquanto prepara o restante dos ingredientes — ela não pode estar gelada na hora de ir para a panela.
 - Leve uma panela de pressão (sem a tampa) ao fogo alto. Regue com 2 colheres (sopa) de azeite, coloque os pedaços de pernil, um ao lado do outro, e deixe dourar por cerca de 1 minuto de cada lado.
 - Transfira o pernil dourado para uma assadeira. Abaixe o fogo da panela, regue com mais um fio de azeite e acrescente a cebola. Tempere com uma pitada de sal e refogue por cerca de 5 minutos, até murchar bem. Junte o alho, o cominho e mexa por 1 minuto para perfumar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Leve uma panela média com a manteiga ao fogo baixo. Quando derreter, acrescente a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Junte as bananas (com o caldo de limão) e misture bem.
 - Regue com a água, tempere com sal e pimenta, tampe e deixe cozinhar em fogo baixo por cerca de 5 minutos, mexendo de vez em quando, até as bananas ficarem bem macias – o tempo de cozimento das bananas pode variar, se a banana estiver menos madura, mais firme, junte mais água e deixe cozinhar mais um pouquinho.
 - Desligue o fogo e, com o mixer, bata as bananas na própria panela até formar um purê bem liso e cremoso – se preferir uma textura mais rústica, amasse as bananas com a colher de pau. Sirva a seguir.
-- --
 
 ---
 

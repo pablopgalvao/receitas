@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 17 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/4 xícara de chá de manteiga (50 gramas)
 - 1/3 de xícara de chá de farinha de trigo (35 gramas)
@@ -36,7 +36,6 @@ flags: []
 - Em uma panela grande, coloque a manteiga e leve ao fogo baixo até derreter completamente. Adicione a cebola picada e refogue até que fique levemente dourada;
 - Acrescente a farinha de trigo e mexa vigorosamente, sem parar, até que comece a soltar os aromas;
 - Tempere com sal e noz-moscada ralada a gosto e continue mexendo até o molho engrossar e atingir consistência cremosa. Ajuste os temperos, se necessário;
-- --
 
 ---
 

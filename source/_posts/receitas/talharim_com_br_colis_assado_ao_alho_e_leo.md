@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - pimenta-do-reino em grãos moída na hora a gosto
 - Quando colocar o brócolis no forno, leve ao fogo alto uma panela grande, com 4 litros de água e 2 colheres (sopa) de sal. Quando a água ferver, com bolhas bem grandes, coloque o macarrão e deixe cozinhar conforme as instruções da embalagem. Cuidado para não deixar o macarrão cozinhar demais, ele deve ficar al dente.
 - Antes de escorrer o macarrão, reserve uma xícara de água da panela. Escorra a seguir.
-- --
 
 ---
 

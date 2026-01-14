@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - pimenta-do-reino em grãos moída na hora a gosto
 - Leve uma chaleira com 2 ½ xícaras (chá) de água ao fogo alto para ferver. Numa tigela grande, coloque o cuscuz marroquino, misture a cenoura ralada e tempere com o azeite e o sal.
 - Solte o cuscuz com um garfo, junte a cebola, os tomates e metade da hortelã e salsinha picadas. Acrescente o caldo de limão, tempere com pimenta a gosto e misture delicadamente com o garfo. Transfira para uma saladeira (ou tigelas individuais), regue com um fio de azeite e finalize com o restante das ervas picadas. Sirva a seguir.
-- --
 
 ---
 

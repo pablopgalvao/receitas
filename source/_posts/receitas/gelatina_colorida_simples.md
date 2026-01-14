@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,20 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 380 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - Em recipiente, coloque um saquinho de gelatina com 100 ml de água quente. Misture bem para dissolver tudo. Adicione a água gelada e continue mexendo. Não siga as orientações de preparo da embalagem, pois, se seguir, a gelatina não chegará ao ponto de corte. Para esta receita, a gelatina tem que ficar bem firme;
 - Prepare a gelatina de abacaxi reservada com 50 ml de água quente e 50 ml de água fria, apenas para hidratá-la e ela endurecer o creme de leite condensado com creme de leite;
-- --
 
 ---
 

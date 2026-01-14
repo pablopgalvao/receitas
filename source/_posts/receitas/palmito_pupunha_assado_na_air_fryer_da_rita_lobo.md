@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 colheres (chá) de azeite Andorinha
 - sal grosso moído na hora a gosto
 - Tempere a parte cortada dos palmitos com o azeite e sal moído na hora a gosto — o sal moído na hora, além de temperar, dá uma textura crocante à receita (se preferir, use sal refinado).
-- --
 
 ---
 

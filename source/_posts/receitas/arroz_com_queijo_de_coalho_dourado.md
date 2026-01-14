@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite e junte a cebola. Tempere com uma pitada de sal e refogue por cerca de 2 minutos até murchar.
 - Acrescente o arroz, a folha de louro e mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar o arroz soltinho depois de cozido. Regue com 3 xícaras (chá) da água fervente, tempere com 1 colher (chá) de sal e misture bem. Aumente o fogo para médio e não mexa mais.
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga e deixe derreter. Junte o queijo de coalho e deixe por cerca de 5 minutos até ficar bem dourado - mexa de vez em quando com a espátula para dourar por igual.
-- --
 
 ---
 

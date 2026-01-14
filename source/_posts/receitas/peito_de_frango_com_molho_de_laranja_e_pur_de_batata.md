@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Passe as batatas ainda quentes pelo espremedor, voltando para a mesma panela. Junte as 2 colheres (sopa) de manteiga e o leite quente à batata espremida.
 - Tempere com sal, pimenta-do-reino moída na hora e uma boa pitada de noz-moscada. Misture muito bem.
 - O purê está pronto, mas se quiser um purê extra cremoso, corte 50 g de manteiga gelada em cubinhos e bata com o purê quente na batedeira.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve uma panela média ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, junte a cebola picada, tempere com uma pitada de sal e refogue por 2 minutos até murchar. Regue com um fio de azeite, junte o alho, o cominho, a cúrcuma, as sementes de coentro, a folha de louro e a canela em rama. Mexa bem por 1 minuto para perfumar.
 - Junte o tomate pelado (com o líquido), misturando bem com o refogado. Regue com a água, tempere com 1 colher (chá) de sal e adicione a couve-flor, a abobrinha e abóbora.
 - Passado os 20 minutos, desligue o fogo e misture o mel. Sirva a tagine com folhas de coentro a gosto. Fica uma delícia com cuscuz marroquino ou arroz branco.
-- --
 
 ---
 

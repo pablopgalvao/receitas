@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - óleo para untar
 - Unte uma assadeira pequena com um pouco de óleo. Numa frigideira média, coloque o açúcar e leve ao fogo baixo para derreter, mexendo com uma espátula de silicone, até formar um caramelo dourado.
 - Retire a panela do fogo, misture o gergelim e o sal e despeje na assadeira untada — caso endureça muito rápido, volte a panela ao fogo apenas para o caramelo amolecer e você conseguir transferir para a assadeira.
-- --
 
 ---
 

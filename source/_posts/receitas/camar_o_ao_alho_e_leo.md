@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarão cinza fresco limpo e sem casca
 - 2 colheres de sopa de óleo
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de cebolinha picada (ou a gosto)
 - Coloque os camarões limpos em uma tigela e tempere com sal, noz-moscada e pimenta-do-reino, misturando bem para incorporar em todos os filés. Deixe marinando por uns 10 minutos;
 - Aqueça uma frigideira com óleo em fogo alto e disponha alguns camarões, sem sobrepor. Se não couber todos na frigideira, sele em etapas. Doure por cerca de 50 segundos. Não doure muito nessa etapa, para que o camarão não fique borrachudo;
-- --
 
 ---
 

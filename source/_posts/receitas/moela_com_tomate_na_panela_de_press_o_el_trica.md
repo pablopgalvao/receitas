@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Ligue a panela novamente (sem a tampa) e programe para cozinhar na função refogar. Quando a panela aquecer, regue com o azeite, adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 7 minutos, ou até começar a dourar. Junte o alho, a pimenta picada e as folhas de louro. Tempere com o cominho, o colorau, pimenta-do-reino moída na hora a gosto e mexa por 2 minutos para perfumar.
 - Adicione o tomate pelado (com o líquido) e misture bem. Junte a moela, regue com ½ xícara (chá) de água e tempere com 1 colher (chá) de sal. Tampe e programe a panela para cozinhar por 25 minutos em pressão alta. Enquanto isso, lave, seque e pique fino a salsinha.
 - Após o tempo de cozimento, a panela vai desligar sozinha e manter o preparo aquecido. Deixe o vapor sair completamente antes de abrir a tampa. Misture a salsinha e sirva a seguir.
-- --
 
 ---
 

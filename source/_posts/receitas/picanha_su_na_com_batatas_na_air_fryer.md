@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de picanha suína
 - 400 gramas de batata-bolinha
@@ -36,7 +36,6 @@ flags: []
 - 3 colheres de sopa de azeite
 - Tempere a peça de carne suína, ainda crua, com o alho, o sal, as pimentas e um pouquinho de limão;
 - Enquanto isso, coloque as batatas já lavadas para cozinhar na panela de pressão com um pouquinho de sal;
-- --
 
 ---
 

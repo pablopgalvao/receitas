@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 400 ml de água bem gelada
 - 5 colheres de sopa de leite condensado
 - Gelo a gosto (cerca de 1 xícara ou o suficiente para 2 copos cheios)
-- --
 
 ---
 

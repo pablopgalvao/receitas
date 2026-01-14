@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de óleo
 - 1/2 xícara de chá de milho para pipoca
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela, coloque o milho para pipoca, o óleo e fique mexendo até os grãos começarem a estourar;
 - Em uma segunda panela, coloque o açúcar e deixe derreter até formar um caramelo;
 - Neste caramelo, adicione o leite condensado, a manteiga e mexa sem parar, até ficar homogêneo;
-- --
 
 ---
 

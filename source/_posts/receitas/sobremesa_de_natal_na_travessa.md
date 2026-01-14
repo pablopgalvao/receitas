@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 210 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de leite integral (1 L)
 - 5 colheres de sopa de amido de milho (40 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Em uma tigelinha, coloque algumas colheres do creme quente com o chocolate em pó. Misture até formar uma pastinha;
 - Com cuidado, adicione o creme de chocolate por cima, colocando a colheradas para não perfurar a camada branca;
 - Finalize com o restante do creme branco, também em colheradas, e alise delicadamente a superfície;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Antes de começar a grudar no fundo da panela, meça 4 xícaras (chá) de água fervente e regue o arroz. Misture bem, raspando o fundo com a colher de pau e tampe parcialmente a panela.
 - Desligue o fogo e mantenha a panela tampada por 5 minutos para que o arroz termine de cozinhar no próprio vapor. Enquanto isso, lave, seque e pique fino a salsinha.
 - Sirva a seguir com salsinha picada e pimenta-do-reino moída na hora a gosto. Fica ótimo com gotas de limão.
-- --
 
 ---
 

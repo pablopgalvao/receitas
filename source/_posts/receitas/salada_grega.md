@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Transfira o tomate drenado para uma tigela. Escorra a água das cebolas e junte aos tomates. Misture o pepino fatiado, as azeitonas e por último os cubos de queijo. Tempere com bastante azeite e pimenta-do-reino moída na hora a gosto - lembre-se que o tomate já foi polvilhado com sal e o queijo feta também é salgado. Sirva a seguir.
-- --
 
 ---
 

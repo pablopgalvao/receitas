@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sobremesa de salsinha desidratada
 - 1 colher de chá de cebola ou alho em pó
@@ -35,7 +35,6 @@ flags: []
 - 1/2 colher de chá de sal
 - 1/2 colher de chá de pimenta-do-reino
 - Depois de secas, transfira as batatas para uma tigela grande. Adicione a salsinha, a cebola ou alho em pó, o azeite, o sal e a pimenta-do-reino. Misture bem com o auxílio de uma colher até que os temperos agreguem em todas as rodelas de batata;
-- --
 
 ---
 

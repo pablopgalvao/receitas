@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - Debulhe os ramos de tomilho. Lave e seque a salsinha. Pique fino a salsinha e o tomilho. Transfira para uma tigela, junte a pimenta calabresa, o vinagre e 3 colheres (sopa) de azeite. Tempere com sal, misture bem e reserve.
 - Leve uma frigideira ao fogo médio para aquecer. Enquanto isso, tempere o bife com sal e pimenta a gosto.
 - Quando a frigideira estiver bem quente, regue com 1 colher (chá) de azeite e coloque o bife. Deixe dourar sem mexer por 3 minutos, até soltar da frigideira. Com uma pinça, vire o bife e deixe dourar por mais 2 minutos (se preferir um bife ao ponto deixe por mais 30 segundos de cada lado). Transfira para a tábua e corte o bife em fatias finas. Sirva com o risoto e o molho de ervas.
-- --
 
 ---
 

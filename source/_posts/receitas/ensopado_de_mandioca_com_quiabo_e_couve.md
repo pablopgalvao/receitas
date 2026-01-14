@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Leve uma panela grande ao fogo médio para aquecer. Regue com 2 colheres (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Junte o alho, as folhas de louro, o cominho, a erva-doce e mexa por 1 minuto para perfumar. Adicione a mandioca, tempere com uma pitada de sal e pimenta a gosto e misture bem.
 - Junte o tomate pelado (com o líquido), regue com a água, tempere com 1 colher (chá) de sal, misture bem e aumente o fogo. Quando ferver, abaixe o fogo, tampe a panela e deixe cozinhar por cerca de 35 minutos, ou até que a mandioca fique macia — mexa de vez em quando com a espátula para a mandioca não grudar no fundo da panela.
-- --
 
 ---
 

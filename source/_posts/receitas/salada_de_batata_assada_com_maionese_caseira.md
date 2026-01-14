@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Escorra bem a água e transfira as batatas para uma assadeira média. Regue com o azeite e tempere com sal e a pimenta-do-reino a gosto. Misture bem e espalhe na assadeira - quanto mais espaço entre as batatas, mais crocantes elas ficam. Leve ao forno para assar por cerca de 40 minutos, virando na metade do tempo, até dourar.
 - Retire a assadeira do forno e deixe as batatas esfriarem (se preferir, sirva a salada morna). Transfira para uma tigela, junte a maionese caseira, as folhas de endro e misture bem. Sirva a seguir.
-- --
 
 ---
 

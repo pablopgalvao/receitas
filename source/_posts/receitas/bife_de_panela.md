@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de carne bovina em fatias grossas
 - 5 colheres de sopa de óleo
@@ -36,7 +36,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - Em um recipiente, tempere os bifes com sal, pimenta, vinagre e alho. Misture;
 - Em uma panela, no fogo alto, esquente 3 colheres de sopa de óleo e, quando estiver bem quente, sele a carne. Conforme for selando os bifes, vá reservando eles;
-- --
 
 ---
 

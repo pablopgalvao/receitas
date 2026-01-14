@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de farinha de trigo (210 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Entre com a farinha e o fermento peneirados, para garantir uma finalização mais fofinha. Bata delicadamente para que não sobre gruminhos;
 - Transfira a massa para uma forma redonda de furo central (20x9 cm), untada com óleo;
 - E está pronto! Sirva no café da manhã ou lanche da tarde, com uma xícara de café bem quentinho.
-- --
 
 ---
 

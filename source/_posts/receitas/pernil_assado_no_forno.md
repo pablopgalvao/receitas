@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 265 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 paleta pernil (5 kg)
 - 4 colheres de sopa de sal (60 gramas)
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de manteiga (40 gramas)
 - Em um recipiente, tempere o pernil com o alho, sal, pimenta-do-reino, suco de limão e suco de laranja;
 - Retire o papel-alumínio, pincele a manteiga por cima do pernil e volte ao forno para dourar a 220 ºC por cerca de 40 minutos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 6 colheres de sopa de fubá fino (90 gramas)
 - 8 colheres de sopa de açúcar (160 gramas)
@@ -36,7 +36,6 @@ flags: []
 - Canela em pó a gosto para polvilhar (opcional)
 - Em uma panela, adicione o fubá, o açúcar, o sal e o leite. Misture bem até dissolver todo o fubá;
 - Acrescente a manteiga ou margarina e leve a panela ao fogo médio. Mexa até levantar fervura e borbulhar;
-- --
 
 ---
 

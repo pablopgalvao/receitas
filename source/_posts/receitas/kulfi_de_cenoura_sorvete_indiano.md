@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 1 colher (sopa) de manteiga
 - 1 xícara (chá) de iogurte natural sem açúcar (2 potes de 170 g)
 - Numa panela pequena, coloque a manteiga e leve ao fogo médio. Quando derreter, acrescente as cenouras raladas, as sementes de cardamomo e refogue por cerca de 5 minutos, mexendo de vez em quando, até ficar macia.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de batata asterix
 - 8 a 10 colheres de sopa de farinha de trigo
@@ -44,7 +44,6 @@ flags: []
 - No centro, coloque uma colher rasa de carne moída e um pouco de ovo picado;
 - Salpique um pouco de farinha sobre o bolinho a fim de deixá-lo mais firme ao fritar e vá deixando cada um que fizer na forma previamente separada com farinha;
 - Frite-os em óleo bem quente. Ao fritar de um lado, vire-o com cuidado para não rachar e sair o recheio;
-- --
 
 ---
 

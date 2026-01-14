@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 2 xícaras (chá) de sorvete de baunilha (cerca de 300 g)
 - pistache a gosto para servir
 - Corte o abacate ao meio, descarte o caroço e, com uma colher, transfira a polpa para o liquidificador. Junte o sorvete de baunilha, o caldo de limão e bata até formar um creme bem lisinho – se necessário, no meio do processo, pare de bater e misture os ingredientes com uma colher.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarões eviscerados
 - 1 xícara de chá de arroz arbóreo (200 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Leve uma frigideira ao fogo médio e acrescente mais um pouco de azeite. Derreta a manteiga em temperatura ambiente no azeite quente e refogue a cebola até que murche. Junte o tomate e misture para incorporar. Abaixe o fogo;
 - Enquanto o tomate refoga, em uma tigela, tempere os camarões com sal, pimenta e azeite. Mexa tudo para espalhar os temperos;
 - Finalize com o queijo parmesão ralado e a manteiga gelada. Desligue o fogo e misture bem. O queijo e a manteiga derretem no próprio calor da panela;
-- --
 
 ---
 

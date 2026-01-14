@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Assim que a frigideira aquecer, regue com 1 colher (sopa) de óleo e junte as tirinhas de carne. Deixe dourar por cerca de 2 minutos - só mexa quando a carne descolar da panela.
 - Afaste as tirinhas de carne para as laterais da panela e regue o centro com o óleo restante. Acrescente a cebola, o pimentão e a ervilha-torta. Refogue por 2 minutos, sem misturar a carne.
 - Regue com a mistura de água, shoyu, vinagre e amido. Mexa por cerca de 2 minutos até formar um molho grosso. Desligue o fogo, acrescente o óleo de gergelim torrado e misture.
-- --
 
 ---
 

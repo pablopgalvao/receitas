@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Enquanto o feijão cozinha, descasque e pique fino a cebola e o alho. Descasque e rale ½ colher (sopa) do gengibre e fatie o restante em tiras finas para servir.
 - Leve uma frigideira ao fogo médio. Quando aquecer, regue com o azeite, junte a cebola, tempere com sal e refogue por cerca de 3 minutos, até murchar. Adicione o alho, o gengibre e mexa por mais 1 minuto para perfumar. Acrescente 2 conchas do feijão cozido (com caldo), misture e amasse os grãos com a espátula - esse purê ajuda a engrossar o caldo.
 - Junte o purezinho de feijão ao restante do feijão cozido e misture bem. Tempere com sal e pimenta a gosto e deixe cozinhar em fogo baixo por mais 10 minutos, ou até o caldo engrossar - o tempo pode variar de acordo com a consistência desejada, mais ralo ou mais cremoso. Mexa de vez em quando para não grudar no fundo da panela. Desligue o fogo e sirva a seguir com as tiras de gengibre fresco.
-- --
 
 ---
 

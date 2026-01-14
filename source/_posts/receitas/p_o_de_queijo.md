@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de mussarela ralada (ou queijo minas padrão)
 - 500 gramas de polvilho azedo
@@ -42,7 +42,6 @@ flags: []
 - Adicione os ovos e comece a misturar com as mãos. Se a massa estiver quente, os ovos vão cozinhar;
 - Unte a mão com óleo vegetal. Pegue pequenas porções da massa, molde em formato de bolinhas (cerca de 20 gramas cada ou maiores, conforme você preferir);
 - Disponha os pães de queijo em uma forma untada com óleo vegetal, deixando um bom espaço entre um e o outro. Leve ao forno preaquecido a 180 ºC por 30 minutos;
-- --
 
 ---
 

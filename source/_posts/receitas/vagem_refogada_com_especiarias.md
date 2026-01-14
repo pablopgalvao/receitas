@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Leve uma frigideira grande o fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione o dente de alho e mexa por 1 minuto para perfumar.
 - Acrescente as vagens, tempere com uma pitada de sal e refogue por cerca de 7 minutos até começarem a dourar e ficar levemente macias – não deixe cozinhar demais, para que não fiquem moles.
 - Desligue o fogo e misture folhas de salsinha. Transfira para uma travessa e sirva a seguir com gomos de limão.
-- --
 
 ---
 

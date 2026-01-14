@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de linguiça fina
 - 2 xícaras de chá de arroz cru
@@ -42,7 +42,6 @@ flags: []
 - Acrescente o tomate picado e refogue por 2 minutos. Coloque o arroz e frite por uns 2 minutos, mexendo constantemente. Tempere com sal, pimenta-do-reino e páprica, misturando para incorporar os sabores;
 - Quando a água secar, coloque o requeijão em colheradas por cima e salpique o queijo mussarela ralado. Tampe por uns 5 minutos para o queijo derreter;
 - Finalize com a salsinha e a batata palha. Sirva em seguida!
-- --
 
 ---
 

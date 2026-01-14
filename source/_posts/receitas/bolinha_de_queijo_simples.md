@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 e 1/2 xícaras de chá de farinha de trigo (500 gramas)
 - 500 ml de leite
@@ -47,7 +47,6 @@ flags: []
 - Agora, com cuidado, passe as bolinhas pelo ovo batido e depois empane na farinha de rosca. Atente-se para que fiquem totalmente cobertas pela farinha, para criar uma casquinha firme ao fritar. Leve as bolinhas empanadas ao freezer por 1 hora, para ficarem pré-congeladas;
 - Retire as bolinhas de queijo do freezer e esquente uma panela grande com óleo em 145°C. Com uma escumadeira, apoie as bolinhas e coloque na panela, com cuidado para não espirrar;
 - Assim que dourar bem, retire da panela e transfira para um prato forrado com papel-toalha, para absorver os excessos de óleo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 12 sardinhas médias (800 gramas)
 - 1 sachê de molho de tomate (300 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Organize sua bancada e separe todos os ingredientes. Fatie a cebola, o tomate e o pimentão em rodelas, e pique o dente de alho finamente. Higienize as sardinhas e deixe-as temperadas com sal;
 - Acrescente o tomate, o pimentão, o alho e o restante da cebola e, em seguida, a água, o óleo e o vinagre;
 - Após o tempo, desligue o fogo e espere a pressão sair naturalmente antes de abrir. Prove o molho e ajuste o sal, se necessário;
-- --
 
 ---
 

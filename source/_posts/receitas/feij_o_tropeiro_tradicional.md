@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 135 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de toucinho
 - 500 gramas de feijão roxinho (ou vermelho) demolhado
@@ -44,7 +44,6 @@ flags: []
 - Acrescente a couve fatiada, coloque a farinha de mandioca torrada e adicione metade dos torresmos. Misture bem;
 - Quebre os ovos em um potinho e frite em uma panela grande com manteiga derretida. Quando um lado estiver firme, vire para o outro e despedace;
 - Adicione o ovo mexido na panela com os demais ingredientes, tempere com sal, prove e ajuste se achar necessário.
-- --
 
 ---
 

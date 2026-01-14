@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Adicione a carne desfiada, as azeitonas e as uvas-passas. Tempere com sal e regue com o caldo. Misture e deixe cozinhar por cerca de 1 minuto, sem deixar secar - o recheio deve ficar úmido. Desligue o fogo e misture o ovo e a cebolinha picados. Transfira para uma tigela.
 - Coloque cerca de 2 colheres (sopa) do recheio no centro de um disco de massa. Passe água em toda a borda da massa com o dedo - isso impede que os pastéis abram na hora de assar. Cubra com outro disco e pressione bem as bordas para fechar.
 - Numa tigela, misture a gema com 1 colher (sopa) de água e pincele sobre os pastéis. Leve ao forno e deixe assar por cerca de 20 minutos, até dourar. Retire do forno e sirva a seguir.
-- --
 
 ---
 

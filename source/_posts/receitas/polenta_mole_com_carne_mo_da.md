@@ -34,7 +34,6 @@ flags: []
 - **Rendimento:** 25 porções
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +49,6 @@ flags: []
 - 1 colher de chá de sal
 - 1 xícara de chá de fubá (160 gramas)
 - Queijo gorgonzola a gosto
-
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - sal a gosto
 - Sobre uma jarra medidora (ou tigela média) coe o líquido da assadeira por uma peneira. Deixe descansar por 1 minuto para gordura e líquido se separarem. Com uma colher (ou papel toalha), retire e descarte a camada de gordura formada.
 - Junte o amido de milho e mexa bem com uma colher para dissolver. Transfira para uma panela pequena e leve ao fogo médio. Quando ferver, diminua o fogo e deixe cozinhar, mexendo de vez em quando, por cerca de 10 minutos até formar um molho encorpado e brilhante. Acerte o sal e transfira para uma molheira.
-- --
 
 ---
 

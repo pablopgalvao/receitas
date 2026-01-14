@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,18 +20,16 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - Retire o ovo da geladeira alguns minutos antes de colocar para cozinhar — isso evita que a casca rache com o choque térmico. Lave o ovo (ou os ovos, se for cozinhar mais de um ao mesmo tempo).
-- --
 
 ---
 

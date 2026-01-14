@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - sal a gosto
 - Assim que estiver dourada, transfira a batata palha para uma travessa e repita o processo com a outra metade — a batata palha fica mais crocante depois de esfriar. Tempere com sal a gosto e sirva a seguir.
-- --
 
 ---
 

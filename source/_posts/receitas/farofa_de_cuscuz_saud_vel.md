@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2/4 de xícara de chá de flocão de milho (80 gramas)
 - 4 colheres de sopa de água (60 ml)
@@ -38,7 +38,6 @@ flags: []
 - Em uma tigela, adicione o flocão de milho, o sal e umedeça com 2 colheres de sopa de água. Misture e leve ao micro-ondas por 2 minutos. Em seguida, aguarde esfriar e desmanche com as mãos ou garfo, até formar uma farofinha;
 - Adicione a cenoura ralada e 2 colheres de sopa de água. Misture e deixe cozinhar por 3 minutos;
 - Ajuste o sal e os temperos, e acrescente a farofa de flocão de milho. Misture até que se incorpore aos demais ingredientes e desligue o fogo;
-- --
 
 ---
 

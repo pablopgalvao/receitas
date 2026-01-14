@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Com uma faquinha de legumes, corte a ponta e abra as bagas de cardamomo ao meio. Transfira as sementes para um pilão, bata até virar um pó e adicione à mistura de ovos. Junte também a canela, a noz-moscada e misture novamente com o batedor de arame.
 - Com uma concha, adicione toda a mistura de leite e ovos, regando cada uma das fatias de pão. Cubra com filme e deixe descansar por pelo menos 1 hora na geladeira para os pães umedecerem (se preferir, prepare na noite anterior e deixe na geladeira de um dia para o outro).
 - Retire o filme e leve ao forno preaquecido para assar por cerca de 40 minutos, ou até dourar – os pães vão estufar e a mistura de ovos ficar cremosa como um pudim. Retire do forno e sirva a seguir com mel e creme batido. Mas também fica uma delícia servido gelado.
-- --
 
 ---
 

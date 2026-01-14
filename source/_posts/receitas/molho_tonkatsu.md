@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de ketchup
 - 1 colher de sopa de molho inglês
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de chá de mel
 - Acrescente também o mirin, o gengibre ralado, o alho moído, o açúcar e o mel;
 - Em seguida, misture tudo muito bem com uma colher até obter um molho homogêneo e brilhante;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - sal a gosto
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite, adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 5 minutos, até começar a dourar. Acrescente o alho, o extrato de tomate, o curry, a pimenta e o gengibre e mexa por 2 minutos.
 - Desligue o fogo e misture as folhas de couve - elas cozinham com o calor do caldo. Tempere com sal e sirva a seguir com iogurte.
-- --
 
 ---
 

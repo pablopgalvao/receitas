@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com o caldo de laranja ao fogo médio. Assim que começar a ferver, tempere com ½ colher (chá) de sal e pimenta a gosto. Adicione o creme de leite, misture delicadamente com uma espátula e mantenha a panela em fogo médio.
 - Enquanto o molho cozinha, aproveite para dourar os nhoques. Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, regue com 1 colher (chá) de azeite e coloque quantos nhoques couberem, sem amontoar. Deixe dourar por cerca de 2 minutos e mexa a frigideira para dourar a superfície dos nhoques por igual.
-- --
 
 ---
 

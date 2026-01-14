@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de peixe (pintado)
 - 2 xícaras de chá de água (480 ml)
@@ -43,7 +43,6 @@ flags: []
 - Lave o peixe em água corrente e tempere com o suco de limão, o sal e a pimenta-do-reino. Deixe marinar por 30 minutos;
 - Coloque a água, tampe a panela e deixe cozinhar por cerca de 10 minutos, ou até o peixe ficar cozido. Prove e ajuste o sal, se necessário;
 - Junte o leite de coco e os ovos cozidos inteiros no caldo e salpique coentro por cima. Tampe a panela novamente, cozinhe por mais 5 minutos e desligue o fogo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ½ xícara (chá) de coco seco ralado
 - ½ xícara (chá) de queijo parmesão ralado fino
 - Numa tigela pequena quebre um ovo de cada vez para separar a clara da gema. Transfira as gemas para uma tigela média e as claras noutra tigela – nessa receita só usaremos as gemas, você pode armazenar as claras na geladeira por até 2 dias para preparar outra receita.
-- --
 
 ---
 

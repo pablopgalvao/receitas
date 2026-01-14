@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal a gosto
 - Pimenta-do-reino a gosto
@@ -39,7 +39,6 @@ flags: []
 - Enquanto as batatas cozinham, coloque o óleo para esquentar e prepare o mix de pápricas. Em um potinho com pilão adicione as pápricas doce, defumada e picante e misture, acrescentando sal e pimenta;
 - Agora, com o óleo bem quente, frite as batatas e depois coloque-as num recipiente com papel toalha;
 - Salpique o mix de pápricas com sal e pimenta sobre as batatas e se delicie!
-- --
 
 ---
 

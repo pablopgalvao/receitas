@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de amido de milho
 - 2 colheres de sopa de açúcar
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa de açúcar
 - Bata as claras em neve com açúcar. Reserve;
 - Bata a nata com o açúcar até chegar no ponto de chantilly;
-- --
 
 ---
 

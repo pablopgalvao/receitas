@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Descasque e corte a cebola ao meio. Descarte a ponta da raiz e corte a cebola em fatias finas. Transfira para uma tigela pequena, tempere com ¼ de colher (chá) de sal e misture bem com a ponta dos dedos, soltando e massageando as fatias. Cubra com 2 colheres (sopa) de vinagre e deixe de molho enquanto prepara a receita — é quase que picles instantâneos, a cebola vai ficar menos ardida e macia.
 - Descasque, lave e seque bem o chuchu — assim ele não escorrega na hora de cortar. Com uma colher, descarte as sementes. Corte o chuchu em fatias de 1 cm, as fatias em tiras de 1 cm e as tiras em cubos. Lave, seque e pique grosseiramente a salsinha.
 - Adicione a cebola (com o líquido), a salsinha, regue com 2 colheres (sopa) de azeite e misture bem. Sirva a seguir.
-- --
 
 ---
 

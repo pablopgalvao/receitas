@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - folhas de endro (dill) a gosto
 - Descasque e pique bem fino a cebola. Corte a tranche de salmão em tiras finas e as tiras em cubos. Pique novamente os pedaços, até ficarem bem miúdos.
 - Numa tigela misture o salmão com a cebola e a mostarda. Junte a maionese aos poucos, até dar o ponto - a ideia é unificar a textura e os sabores. Prove e tempere com sal a gosto. Coloque sobre as torradas, salpique com as folhas de endro e sirva a seguir.
-- --
 
 ---
 

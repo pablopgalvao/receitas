@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - gomos de limão a gosto para servir
 - Corte o avocado ao meio, no sentido do comprimento. Descarte o caroço e descasque com as mãos para manter o formato da fruta. Apoie a parte plana de cada metade na tábua e corte em fatias de 0,5 cm. Regue com o caldo de limão e tempere com azeite, sal e pimenta a gosto.
-- --
 
 ---
 

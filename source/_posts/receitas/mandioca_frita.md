@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mandioca
 - 1 colher de sopa de sal (ou a gosto)
@@ -36,7 +36,6 @@ flags: []
 - Enquanto isso, em uma panela média, coloque o óleo - o suficiente para cobrir as mandiocas. Leve ao fogo alto para aquecer;
 - Quando o óleo estiver quente, aos poucos, coloque os pedaços de mandioca refrigerados e frite até que eles fiquem ligeiramente dourados;
 - Se necessário, tempere com mais sal e sirva. Você pode preparar molhos para acompanhar esse preparo delicioso, como molho de alho, rosé ou de pimenta. Aproveite!
-- --
 
 ---
 

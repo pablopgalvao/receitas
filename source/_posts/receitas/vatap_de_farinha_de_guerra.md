@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de amendoim torrado e sem pele (150 gramas)
 - 1 xícara de chá de camarão seco (100 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Adicione o restante da água e mexa bem para que a farinha e os líquidos se incorporem de forma homogênea. Coloque o sal e o açúcar, misture bem para equilibrar os temperos;
 - Agora, leve a panela ao fogo médio e comece a mexer sem parar, principalmente para dissolver possíveis bolinhas de farinha e evitar que o vatapá queime no fundo da panela;
 - À medida que ele vai aquecendo, começará a engrossar. Continue mexendo até atingir uma consistência mais espessa. Acerte o sal se necessário e deixe cozinhar por mais 15 minutos, até que chegue a um ponto mais elástico;
-- --
 
 ---
 

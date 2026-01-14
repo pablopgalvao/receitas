@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Junte as folhas do salsão e do alho-poró e regue com 2 xícaras (chá) da água fervente. Misture bem e deixe cozinhar por cerca de 5 minutos, ou até secar, mexendo de vez em quando para não grudar no fundo.
 - Quando o líquido secar, regue com mais 2 xícaras (chá) de água fervente. Misture bem e deixe cozinhar por mais 5 minutos, mexendo de vez em quando, até secar novamente.
 - Desligue o fogo. Misture o queijo ralado, as raspas e o caldo de limão. Junte a manteiga, sem misturar e tampe a panela por alguns minutos - só abra a panela e misture novamente na hora de servir. Enquanto isso, prepare o acompanhamento.
-- --
 
 ---
 

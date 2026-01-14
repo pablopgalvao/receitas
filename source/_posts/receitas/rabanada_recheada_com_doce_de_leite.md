@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Doce de leite a gosto (para o recheio)
 - 500 ml de leite
@@ -40,7 +40,6 @@ flags: []
 - Esquente uma panela com 500ml de óleo, até você colocar um pedacinho de pão e formar bolhinhas ao redor dele;
 - Mergulhe a rabanada no leite, passe no ovo e frite no óleo quente até dourar os dois;
 - Passe elas no açúcar com canela e sirva.
-- --
 
 ---
 

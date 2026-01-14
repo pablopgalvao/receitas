@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de picanha (nossa peça tinha 1,126kg)
 - 1 colher de café de pimenta-do-reino (ou a gosto)
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa de manteiga (20 gramas)
 - Sobre uma tábua, tempere a carne com pimenta-do-reino e sal grosso;
 - Passe manteiga no lado da gordura e tempere com mais pimenta-do-reino. Cubra essa parte com uma quantidade generosa de sal grosso;
-- --
 
 ---
 

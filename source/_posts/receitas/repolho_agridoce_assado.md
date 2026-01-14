@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Corte o repolho roxo ao meio, descarte o miolo central e corte cada metade em fatias de 1,5 cm. Transfira para uma tigela e lave sob água corrente. Seque bem numa centrífuga para saladas – quanto mais sequinhas estiverem as fatias melhor para assar.
 - Transfira o repolho para uma assadeira grande e de borda alta – o volume de repolho parece muito, não se assuste, ele murcha ao assar. Regue com o azeite e tempere com sal e pimenta a gosto. Não se preocupe em espalhar as fatias de repolho, elas vão ficar sobrepostas.
 - Retire do forno e, com uma pinça, transfira o repolho para uma tigela. Tempere ainda quente com o mel, o vinagre e misture bem. Prove e, se necessário, ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

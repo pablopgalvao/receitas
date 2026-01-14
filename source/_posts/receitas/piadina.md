@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.
 - Transfira a massa para uma bancada lisa e enfarinhada. Trabalhe, sovando a massa, por no máximo 3 minutos!
 - Leve uma frigideira antiaderente ao fogo alto. Enquanto isso, polvilhe a bancada com farinha e abra um pedaço de massa com rolo de macarrão (ou com uma garrafa de vinho), até formar um disco com cerca de 20 cm de diâmetro.
-- --
 
 ---
 

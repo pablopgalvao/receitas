@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de presunto
 - 500 gramas de queijo mussarela
@@ -37,7 +37,6 @@ flags: []
 - Orégano a gosto
 - Utilizamos patinho, porém você pode usar outra carne moída. Escolha o molho de tomate de sua preferência (caseiro ou de sachê), ou coloque 1/4 de xícara de chá de extrato de tomate para 300 ml de água;
 - Quando a carne estiver douradinha, adicione o molho de tomate, o sal, o orégano e a pimenta. Se preferir, adicione outros temperos, como manjericão, tomilho e páprica picante;
-- --
 
 ---
 

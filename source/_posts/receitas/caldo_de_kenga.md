@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de frango desfiado (200 gramas)
 - 1 kg de mandioca cozida
@@ -40,7 +40,6 @@ flags: []
 - 1 colher de sopa de salsinha (ou a gosto)
 - Tempere com sal, pimenta-do-reino e açafrão/cúrcuma. Adicione metade do milho e misture bem;
 - Fatie a salsinha com uma faca em uma tábua e misture no caldo de mandioca. Acerte o sal e os temperos;
-- --
 
 ---
 

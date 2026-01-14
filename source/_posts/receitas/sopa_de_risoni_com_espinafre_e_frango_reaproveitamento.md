@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1½ xícara (chá) de água
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma panela pequena ao fogo médio para aquecer. Adicione o azeite, a cenoura e o salsão, tempere com uma pitada de sal e pimenta-do-reino e refogue por cerca de 3 minutos, até dourar — capriche nesse refogado, pois ele é a base de sabor para a receita.
-- --
 
 ---
 

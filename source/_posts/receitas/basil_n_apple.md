@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de água fervente
 - 1 colher de sopa de açúcar mascavo
@@ -35,7 +35,6 @@ flags: []
 - Gelo a gosto
 - Em um copo rocks, adicione as folhas de manjericão, a maçã, o açúcar mascavo e o suco de limão;
 - Macere bem todos os ingredientes no fundo do copo, até o manjericão liberar aroma e o açúcar começar a dissolver;
-- --
 
 ---
 

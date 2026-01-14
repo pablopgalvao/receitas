@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite
 - Sal a gosto
@@ -39,7 +39,6 @@ flags: []
 - Adicione o molho de tomate à panela e misture bem com o refogado, tempere com sal a gosto;
 - Assim que a água estiver fervendo, adicione o macarrão cabelo de anjo. Com o tempo, ele vai amolecendo e "descendo" na panela, use uma colher ou pegador para submergir os fios aos poucos;
 - Desligue o fogo, salpique cheiro-verde por cima, para um toque de frescor. Prontinho para consumir!
-- --
 
 ---
 

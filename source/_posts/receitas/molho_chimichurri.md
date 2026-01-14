@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de salsinha fresca
 - 1/2 xícara de chá de orégano seco
@@ -39,7 +39,6 @@ flags: []
 - Inicie preparando a salmoura. Em uma panela pequena, coloque a água e o sal grosso. Leve ao fogo alto e deixe cozinhar até levantar fervura. Transfira para um recipiente e espere esfriar;
 - Enquanto isso, lave, seque e pique as folhas de salsinha finamente. Lave e corte as pimentas dedo-de-moça sem sementes em cubinhos pequenos. Descasque os dentes de alho e pique-os em pedaços bem pequenos (ou rale);
 - Quando a salmoura esfriar, adicione a salsinha, as pimentas, os dentes de alho, o orégano, o vinagre e o azeite. Misture bem e deixe descansar na geladeira por, no mínimo, 1 hora antes de consumir;
-- --
 
 ---
 

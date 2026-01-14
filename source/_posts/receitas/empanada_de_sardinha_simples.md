@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 xícara de chá de óleo (180 ml)
 - 1 e 1/4 xícara de leite (300 ml)
@@ -43,7 +43,6 @@ flags: []
 - 1/4 colher de chá de pimenta-do-reino moída na hora
 - No liquidificador, adicione os ovos, o óleo, o leite, o queijo ralado e a farinha de trigo. Bata até obter uma massa cremosa e levemente espessa. Reserve;
 - Unte uma forma (30x21x06) com óleo ou manteiga. Despeje metade da massa no fundo, espalhando bem;
-- --
 
 ---
 

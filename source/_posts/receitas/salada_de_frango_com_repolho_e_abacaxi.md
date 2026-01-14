@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - folhas de coentro a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, misture o repolho com o abacaxi e o frango. Tempere com o molho de iogurte e tempere com folhas de coentro a gosto. Misture bem e sirva a seguir com croutons.
-- --
 
 ---
 

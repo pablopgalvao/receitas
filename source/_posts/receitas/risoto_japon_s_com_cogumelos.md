@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - cebolinha fatiada a gosto para servir
 - gergelim preto torrado a gosto para servir
 - Leve uma frigideira grande para aquecer em fogo médio. Quando aquecer, coloque a manteiga e deixe derreter. Acrescente os cogumelos e mexa por 2 minutos até ficarem macios. Adicione o mirin, o shoyu e o açúcar, mexa bem por mais 1 minuto e desligue o fogo.
-- --
 
 ---
 

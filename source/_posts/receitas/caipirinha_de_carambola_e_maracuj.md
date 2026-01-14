@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 3 colheres (sopa) de açúcar
 - cubos de gelo a gosto
 - Corte uma das pontas do maracujá e, com uma colher, transfira a polpa para a coqueteleira. Junte o açúcar e amasse bem com um socador. Acrescente a cachaça e cubos de gelo. Feche a coqueteleira e chacoalhe bem para misturar.
-- --
 
 ---
 

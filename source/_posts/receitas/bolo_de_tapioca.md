@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos médios
 - 2 colheres de sopa de manteiga (ou margarina)
@@ -43,7 +43,6 @@ flags: []
 - Após esse tempo, adicione os ovos em temperatura ambiente (quebre-os separadamente em um pote para verificar se eles estão bons para uso). Mexa mais uma vez;
 - Incremente com o amido de milho e o fermento para bolo. Com a colher, misture mais um pouco até os ingredientes se dissolverem na massa;
 - Despeje a massa na forma untada e enfarinhada. Leve ao forno preaquecido a 180ºC por cerca de 40 minutos ou até passar no teste do palito (espete o meio do bolo com cuidado, se ele sair limpo, está pronto!);
-- --
 
 ---
 

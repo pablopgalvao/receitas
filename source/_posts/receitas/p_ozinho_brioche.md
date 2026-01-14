@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 165 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de farinha de trigo (140 gramas)
 - 1/4 de xícara de chá de açúcar (50 gramas)
@@ -45,7 +45,6 @@ flags: []
 - Misture o sal com a farinha e, aos poucos, despeje na tigela, mexendo a massa com as mãos até ela ficar homogênea. Acrescente a margarina ou manteiga e incorpore com as mãos à massa. Adicione mais um pouco de farinha até que a massa fique firme e consistente;
 - Pegue uma porção de cerca de 100 gramas de massa e molde um pãozinho em formato de bola, usando as mãos e a superfície como apoio;
 - Retire do forno com cuidado e espere esfriar em temperatura ambiente. Sirva com manteiga, geleias ou monte sanduíches!
-- --
 
 ---
 

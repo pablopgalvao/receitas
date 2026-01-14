@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 180 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2/3 de xícara de chá de água (150ml)
 - 2/3 de xícara de chá de leite (150ml)
@@ -42,7 +42,6 @@ flags: []
 - Após o tempo, jogue a massa sobre uma superfície levemente enfarinhada e corte-a em 8 partes iguais;
 - Transfira para uma assadeira (23x33cm) com papel manteiga ou papel antiaderente e cubra com um pano de prato. Deixe descansar por aproximadamente 30 minutos, até a massa expandir de tamanho;
 - Retire do forno com cuidado e sirva uma fatia ainda quente acompanhada de manteiga, geleia, caponata ou antepastos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de margarina
 - 2 colheres de sopa de farinha de trigo
@@ -37,7 +37,6 @@ flags: []
 - Pimenta-do-reino a gosto (opcional)
 - Acrescente a farinha de trigo e misture, cozinhando até formar uma pastinha e começar a dourar levemente;
 - Tempere com sal a gosto e, se desejar, acrescente pimenta-do-reino;
-- --
 
 ---
 

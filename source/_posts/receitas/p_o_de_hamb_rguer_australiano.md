@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá farinha de trigo (210 gramas)
 - 1/2 xícara de chá de farinha integral (90 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Quando a massa estiver um pouco mais firme, abra-a e acrescente a manteiga. Sove novamente de 7 a 10 minutos, até que a manteiga fique totalmente agregada;
 - Em uma forma untada com manteiga, acrescente as bolinhas de massa, dando uma leve achatada em cada uma delas;
 - Salpique fubá por cima dos pães e leve ao forno a 180 °C, por cerca de 3
-- --
 
 ---
 

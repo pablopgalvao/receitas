@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - mexico
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite
 - 500 gramas de carne moída
@@ -41,7 +41,6 @@ flags: []
 - Coentro picado a gosto (ou salsinha)
 - Adicione a cebola, o pimentão e a pimenta. Refogue até murcharem e tempere com sal;
 - Junte o extrato de tomate, a água, os feijões, sal e misture bem;
-- --
 
 ---
 

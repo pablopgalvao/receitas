@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 colher (chá) de sal
 - Numa chaleira, leve um pouco mais de 1 xícara (chá) de água ao fogo alto para ferver.
 - Coloque o cuscuz marroquino numa tigela média e tempere com o azeite e o sal. Quando a água ferver, regue sobre o cuscuz e misture bem. Cubra a tigela com um prato e deixe hidratar abafado por 5 minutos.
-- --
 
 ---
 

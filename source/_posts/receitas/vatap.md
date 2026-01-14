@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 gramas de camarão seco (sem os olhos)
 - 170 gramas de castanha-de-caju seca
@@ -40,7 +40,6 @@ flags: []
 - Em um liquidificador, processe separadamente, um por vez, o camarão seco, as castanhas e o amendoim, até obter um ponto de farinha fina de cada um deles. Repita o mesmo processo com a cebola, até obter uma pasta - não precisa adicionar água;
 - Em uma panela fora do fogo, coloque a farinha de mandioca, as castanhas, o amendoim, o camarão e a cebola - todos processados. Adicione o gengibre e tempere com sal. Misture bem os ingredientes para incorporar;
 - Experimente e, se necessário, acerte o sal. Quando a farinha já estiver bem cozida, retire do fogo. Decore com alguns camarões e sirva em seguida com um arroz soltinho. Bom apetite!
-- --
 
 ---
 

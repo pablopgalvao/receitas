@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de chá de polvilho azedo (100 gramas)
 - 1 xícara de chá de queijo meia-cura ralado grosso (75 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Reúna todos os ingredientes para preparar um pão de queijo de liquidificador. Já deixe as forminhas de cupcake untadas com óleo e o forno pré-aquecendo a 200ºC;
 - Em um liquidificador, coloque o ovo (mas quebre-o em um recipiente separado, para verificar se está bom), o polvilho, o queijo (reserve duas colheres de sopa para finalizar), o leite, o óleo e o sal. Bata por 1 minutinho ou até que a mistura fique lisa;
 - Despeje essa mistura nas forminhas de cupcake já untadas com óleo, preenchendo cerca de 3/4 das forminhas;
-- --
 
 ---
 

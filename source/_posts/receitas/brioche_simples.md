@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícara de chá de farinha de trigo (560 gramas)
 - 1 e 1/4 xícara de chá de leite integral (300 ml)
@@ -42,7 +42,6 @@ flags: []
 - Adicione o restante da farinha aos poucos, misturando bem a cada adição para incorporar completamente;
 - Acrescente a manteiga em ponto pomada à massa e sove novamente até que esteja totalmente incorporada, aproximadamente 5 minutos;
 - Após descansar, abra a massa com as mãos, espalhe um pouco de manteiga por cima, enrole como um rocambole e corte fatias de aproximadamente 1 cm de espessura;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de molho de tomate pronto
 - 1 colher de café de orégano (ou a gosto)
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de chá de sal
 - Corte as berinjelas em cubos e deixe de molho por 10 minutos em água com sal, para tirar o amargor. Depois escorra bem;
 - Junte o orégano, o tempero desidratado e o tomate picado, misturando bem. Acerte o sal, lembrando que a berinjela já foi deixada de molho em água salgada;
-- --
 
 ---
 

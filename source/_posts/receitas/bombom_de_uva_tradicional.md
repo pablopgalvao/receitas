@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de leite condensado (395 gramas)
 - 2 colheres de sopa de manteiga sem sal (50 gramas)
@@ -36,7 +36,6 @@ flags: []
 - Em uma panela de fundo grosso, coloque o leite condensado, a manteiga e o creme de leite. Leve ao fogo médio, mexendo sempre, até o brigadeiro soltar do fundo da panela, cerca de 15 minutos;
 - Derreta o chocolate fracionado de 30 em 30 segundos no microondas e prepare uma assadeira forrada com papel manteiga;
 - Banhe cada bombom no chocolate derretido com o auxílio de um garfinho, escorra o excesso e acomode sobre o papel manteiga. Se necessário, corrija pequenos furos com uma colher e mais um pouco de chocolate derretido;
-- --
 
 ---
 

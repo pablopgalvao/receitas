@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 6 claras de ovo
 - 1½ xícara (chá) de açúcar
 - Com uma espátula de confeitar, espalhe primeiro uma camada fina de merengue sobre toda a superfície do bolo – assim a cobertura fica perfeita, sem nenhum pedacinho de bolo aparecendo. Cubra o bolo com o restante do merengue e decore com as costas da colher para ficar bem rústico, formando picos. Sirva a seguir ou leve para a geladeira até a hora de servir.
-- --
 
 ---
 

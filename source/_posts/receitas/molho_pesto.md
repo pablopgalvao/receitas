@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de chá de sal (ou a gosto)
 - 1 xícara de chá de nozes torradas levemente (90 gramas)
@@ -36,7 +36,6 @@ flags: []
 - 250 ml de azeite de oliva
 - Em um pilão, coloque os dentes de alho, uma pitada de sal e amasse bem com o socador;
 - Junte o queijo parmesão e o azeite, misturando bem para incorporar. Se preciso, acerte o sal. Se quiser, pode temperar com pimenta-do-reino;
-- --
 
 ---
 

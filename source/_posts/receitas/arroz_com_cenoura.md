@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Lave, descasque e passe a cenoura pela parte fina do ralador. Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 3 xícaras (chá) de água ao fogo baixo para ferver.
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola e a cenoura. Tempere com o sal e refogue por cerca de 2 minutos até murchar. Acrescente o arroz, o louro e mexa bem para envolver todos os grãos com o azeite - isso ajuda a deixar o arroz soltinho depois de cozido.
 - Meça 3 xícaras (chá) da água fervente e regue sobre o arroz, misture bem e aumente o fogo para médio. Não mexa mais.
-- --
 
 ---
 

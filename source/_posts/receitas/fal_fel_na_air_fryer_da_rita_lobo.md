@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - No mini-processador, coloque a cebola, o alho, a salsinha e o coentro. Bata por cerca de 1 minuto, para triturar bem. Junte metade do grão de bico, o sal e as especiarias e bata até formar uma pasta – pelo menos uma vez, pare de bater e raspe as laterais do processador com uma espátula para que fique uniforme.
 - Transfira a massa de falafel para uma tigela, junte o bicarbonato, a farinha de trigo e o azeite. Misture bem.
 - Feche a gaveta e pronto – não precisa mexer na metade do tempo. Sirva a seguir, com salada de tomate, pepino, ervas e molho de tahine.
-- --
 
 ---
 

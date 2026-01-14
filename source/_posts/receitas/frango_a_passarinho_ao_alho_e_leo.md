@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de frango cortado a passarinho
 - 2 colheres de sopa de cebolinha
@@ -40,7 +40,6 @@ flags: []
 - Coloque o alho cortado em lâminas para fritar e saborizar o óleo. Escorra sobre um papel toalha;
 - Frite os pedaços de frango no óleo quente. Vire-os conforme dourarem, para que fiquem uniformes. Vá tirando e colocando sobre um papel-toalha;
 - Prato finalizado! Desligue o fogo e sirva seu frango a passarinho ao alho e óleo, acrescentando as lâminas de alho frito e a cebolinha picada para um toque de frescor.
-- --
 
 ---
 

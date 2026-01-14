@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 colher (sopa) de vinagre
 - sal e pimenta-do-reino moída na hora a gosto
 - Retire as folhas, ao invés de escorrer a água - desse modo, as sujeirinhas ficam no fundo da tigela e não grudam novamente nas folhas. Passe para uma centrífuga de saladas e seque bem (ou deixe num escorredor por alguns minutos).
-- --
 
 ---
 

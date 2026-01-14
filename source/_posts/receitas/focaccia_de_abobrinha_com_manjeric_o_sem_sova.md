@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Descasque o dente de alho e transfira para o liquidificador. Junte o azeite, as folhas de manjericão, o parmesão e bata até formar um molho. Prove e, se necessário, tempere com sal – alguns queijos são mais salgados que outros. Reserve.
 - Com uma colher, distribua metade do molho de manjericão sobre a massa. Disponha as fatias de abobrinha de maneira rústica, dobrando uma sobre a outra e pressionando levemente sobre a massa – a ideia é que parte das abobrinhas fique entremeada na massa.
 - Regue as abobrinhas com um fio de azeite e tempere com sal moído na hora a gosto – assim elas não ressecam no forno e além de temperadas ganham uma textura mais crocante.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de atum (170 gramas)
 - 1/2 pacote de espaguete ou linguine (200 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Cebolinha a gosto
 - Sal a gosto
 - Adicione sal e ajuste conforme sua necessidade. Acrescente a cebolinha e misture tudo muito bem;
-- --
 
 ---
 

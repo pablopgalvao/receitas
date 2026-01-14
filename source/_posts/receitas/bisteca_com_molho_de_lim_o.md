@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 bistecas de porco (aproximadamente 600 gramas)
 - 2 colheres de chá de sementes de erva-doce (pode ser moída)
@@ -44,7 +44,6 @@ flags: []
 - Despeje a água e o caldo de limão. Aproveite para fazer a deglaçagem dos queimadinhos raspando o fundo da panela (eles dão o sabor irresistível da carne). Coloque sal e pimenta. Deixe cozinhando por cerca de 2 minutos;
 - Pare o fogo e adicione a manteiga gelada. Segure no cabo da panela e movimenta-a em círculos até manteiga derreter e o molho ficar mais consistente;
 - Está pronto! Sirva as bistecas com esse molho delicioso e salpique as raspas de limão e coentro por cima. Bom apetite!
-- --
 
 ---
 

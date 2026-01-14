@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Lave, seque, descarte as folhas e corte o salsão em fatias finas, reserve.
 - Limpe os cogumelos com um pano úmido – não lave em água corrente nem deixe de molho, eles são como esponjas e isso acabaria com a textura e o sabor da salada. Corte cada um em 4 fatias, no sentido do comprimento; os menores corte ao meio.
 - Numa tigela misture bem o queijo parmesão ralado, o caldo de limão e o azeite para formar um molho. Junte as fatias de cogumelo e de salsão e misture delicadamente. Tempere com pimenta a gosto e prove antes de temperar com sal – alguns queijos são mais salgados que outros. Sirva a seguir com torradinhas de pão italiano.
-- --
 
 ---
 

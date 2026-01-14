@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Coloque os pedaços de frango numa assadeira grande e, com as mãos, espalhe bem a manteiga temperada sob e sobre a pele de cada pedaço. Esprema o caldo da laranja (utilizada para as raspas) e regue na assadeira com mais ½ xícara (chá) de água - assim o frango permanece úmido ao assar.
 - Tempere com sal e pimenta-do-reino a gosto e leve ao forno para assar por cerca de 30 minutos até a pele começar a dourar. Abaixe a temperatura do forno para 180 ºC e deixe por mais 30 minutos para o frango terminar de assar e a pele ficar bem dourada. Sirva a seguir com o caldo que se formou na assadeira, as cebolas assadas, o arroz com curry e o feijão com beterraba.
-- --
 
 ---
 

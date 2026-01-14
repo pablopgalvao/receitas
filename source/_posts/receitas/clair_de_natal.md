@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -51,7 +52,6 @@ flags: []
 - ½ xícara (chá) de creme de leite fresco
 - açúcar de confeiteiro para polvilhar
 - Cubra com a outra metade de massa, deixando as amêndoas para cima, e leve à geladeira por pelo menos 1 hora antes de servir — a éclair é mais gostosa servida fria, além disso, fica mais fácil de fatiar. Na hora de servir, polvilhe com açúcar de confeiteiro.
-- --
 
 ---
 

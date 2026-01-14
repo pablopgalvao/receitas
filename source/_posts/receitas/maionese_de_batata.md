@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 27 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de sopa de vinagre
 - 1 pitada de sal (ou a gosto)
@@ -38,7 +38,6 @@ flags: []
 - Agora, junte as gemas cozidas com a gema crua, o vinagre e o sal. Misture bem para que tudo se incorpore;
 - Com um fouet (batedor de arame), bata vigorosamente, adicionando óleo em fio, até atingir o ponto de maionese (se você tive um mixer de mão, usá-lo por alguns segundos ajuda a chegar no ponto mais rapidamente).
 - Finalize espremendo o limão por cima e salpique cebolinha a gosto, para um toque de frescor! Bom apetite.
-- --
 
 ---
 

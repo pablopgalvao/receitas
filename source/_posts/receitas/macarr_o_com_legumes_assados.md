@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Enquanto o macarrão cozinha, lave e seque o limão siciliano. Com um zéster, faça raspas da casca do limão e reserve. Numa tigela grande, misture o caldo de limão com azeite, uma pitada de sal e pimenta a gosto.
 - Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento. Escorra o macarrão, transfira para a tigela com o caldo de limão temperado e misture bem.
 - Divida o macarrão em 4 pratos e distribua o restante dos legumes assados sobre o macarrão. Polvilhe com as raspas de limão e sirva com uma colherada de iogurte cremoso e as ervas frescas.
-- --
 
 ---
 

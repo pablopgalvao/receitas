@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 72 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 pacote de ervilha (500 gramas)
 - 200 gramas de bacon
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Ao sair a pressão, abra a panela para terminar de temperar. Ajuste o sal, acrescente a pimenta e retire a folha de louro. Mexa e deixe apurar por mais 2 minutinhos;
-- --
 
 ---
 

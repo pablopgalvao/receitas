@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Assim que a panela aquecer, regue com 1 colher (sopa) de óleo e junte as tirinhas de carne. Deixe dourar por cerca de 2 minutos – só mexa quando a carne descolar da panela.
 - Transfira a carne para uma tigela e regue com o restante do óleo. Acrescente a couve-flor e a cenoura e refogue por 6 minutos até começar a dourar. Junte a cebola e refogue por mais 2 minutos.
 - Desligue o fogo e, por último misture o óleo de gergelim torrado. Salpique com cebolinha fatiada e gergelim. Sirva com arroz japonês.
-- --
 
 ---
 

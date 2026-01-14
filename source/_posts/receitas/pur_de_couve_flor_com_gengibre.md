@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - Numa panela grande, coloque a couve-flor, a batata, o dente de alho, a folha de louro e cubra com água. Tempere com 2 colheres (chá) de sal e leve ao fogo alto. Quando ferver, abaixe o fogo, tampe a panela e deixe cozinhar por cerca de 15 minutos, até a couve-flor ficar bem macia.
 - Adicione o leite, tempere com o gengibre e noz-moscada a gosto e bata com o mixer (na panela mesmo) até que o purê fique bem liso. Acrescente a manteiga e misture com a espátula até derreter. Prove e, se necessário, ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

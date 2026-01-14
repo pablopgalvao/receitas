@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Em seguida, junte a água, o macarrão e tempere com sal e pimenta-do-reino a gosto. Vá soltando os ninhos com um garfo. Quando a água começar a ferver, pare de mexer e conte 5 minutos.
 - Enquanto isso, misture bem o ovo com o parmesão numa tigela.
 - Desligue o fogo e junte imediatamente a mistura de ovo com queijo. Mexa delicadamente - o ovo vai cozinhar apenas com o calor da panela de inox. Transfira para um prato, finalize com o bacon reservado e mais pimenta-do-reino moída na hora.
-- --
 
 ---
 

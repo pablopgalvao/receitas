@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de mocotó
 - 500 gramas de mandioca
@@ -37,7 +37,6 @@ flags: []
 - Sal a gosto
 - Entre com o mocotó escaldado e cubra com água. Adicione o sal e misture. Cozinhe na pressão por cerca de 45 minutos;
 - Ajuste o sal, se necessário, e sirva! Pode finalizar com cheiro-verde se gostar. Está pronto, aproveite!
-- --
 
 ---
 

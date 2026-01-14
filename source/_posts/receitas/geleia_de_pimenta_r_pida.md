@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (180 gramas)
 - 1 pitada de sal (ou a gosto)
@@ -35,7 +35,6 @@ flags: []
 - Acrescente a pitada de sal, a água e bata até virar um líquido levemente homogêneo, mas ainda com pedacinhos;
 - Transfira o líquido para uma panela em fogo baixo e acrescente o açúcar e as duas pimentas picadas sem membrana e sementes;
 - Mexa com uma espátula de silicone por 20 minutos, até que o açúcar derreta por completo. Quando levantar fervura, vá retirando a camada de espuminha que formar com o auxílio de uma colher;
-- --
 
 ---
 

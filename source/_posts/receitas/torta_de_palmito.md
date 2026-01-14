@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Com uma espátula (ou faca) corte a massa de torta ao meio. Polvilhe a bancada com farinha de trigo e, com um rolo de macarrão, abra uma das metades num círculo 4 cm maior que o diâmetro da fôrma. Para transferir, enrole o círculo de massa no rolo de macarrão e desenrole sobre a fôrma - com as mãos, ajeite e pressione delicadamente para forrar o fundo e lateral da fôrma.
 - Polvilhe mais um pouco de farinha sobre a bancada e abra o restante da massa, formando um retângulo de 41 cm x 24 cm. Com a faca (ou carretilha), corte 5 tiras largas de 4 cm de largura e 21 tiras finas de 1 cm de largura - as tiras devem ser longas o suficiente para cobrir a torta.
 - Numa tigela, misture o ovo com a água e pincele sobre toda a massa. Leve a torta ao forno e deixe assar por cerca de 45 minutos até ficar bem dourada. Retire do forno e deixe amornar antes de desenformar. Sirva a seguir.
-- --
 
 ---
 

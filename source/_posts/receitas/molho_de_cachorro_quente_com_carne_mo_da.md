@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Água suficiente para cozinhar as salsichas
 - 2 colheres de sopa de azeite
@@ -44,7 +44,6 @@ flags: []
 - Adicione a salsinha e a cebolinha, os 300 ml de água e o molho de tomate. Deixe cozinhar por 10 minutos, mexendo de vez em quando, até a mistura encorpar;
 - Adicione as salsichas ao molho e incorpore o milho-verde, cozinhando por mais 5 minutos;
 - Finalize com pimenta-de-cheiro a gosto e sirva logo em seguida, acompanhado do pão de cachorro-quente!
-- --
 
 ---
 

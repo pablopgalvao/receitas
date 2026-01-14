@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - 300 gramas de peito de frango em cubos médios
@@ -37,7 +37,6 @@ flags: []
 - Corte o frango em cubos médios - tente deixá-los mais ou menos do mesmo tamanho para a canja ficar uniforme. Despeje os cubos na panela, misture bem, tempere com sal a gosto e espere fritar até dourar, cerca de 3 minutos em fogo médio;
 - Assim que o caldo levantar fervura, despeje o arroz, acerte o sal e abaixe o fogo (se quiser, adicione outros temperos de sua preferência, como pimenta-do-reino e folha de louro). Deixe cozinhar por 20 minutos, ou até o arroz ficar bem macio;
 - Experimente, acerte o sal, desligue o fogo e finalize com cheiro-verde;
-- --
 
 ---
 

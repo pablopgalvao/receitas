@@ -34,7 +34,6 @@ flags: []
 - **Rendimento:** 5 porções
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +47,6 @@ flags: []
 - 500 g de camarão salgado seco
 - 4 folhas de chicória picadas
 - 2 maços de jambu
-
 
 ---
 

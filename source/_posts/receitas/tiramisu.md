@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Acrescente ¼ de xícara (chá) do açúcar às gemas e bata até formar um creme claro – no meio do processo, pare de bater e raspe a lateral da tigela com uma espátula para bater de maneira uniforme. Junte o mascarpone e bata apenas para incorporar. Transfira o creme para outra tigela e reserve. Lave e seque bem a tigela e o globo da batedeira.
 - Junte o restante do açúcar às claras e encaixe a tigela na panela do banho-maria. Mexa com uma espátula até aquecer e o açúcar dissolver – cuidado para não cozinhar a clara. Com a espátula levante uma porção da mistura e, com a ponta dos dedos, verifique se as claras estão aquecidas sem grãozinhos de açúcar.
 - Transfira a mistura de claras e açúcar para a batedeira e bata até formar um merengue bem leve – cuidado para não bater em excesso, pois fica mais difícil incorporar o creme de mascarpone a um merengue muito firme. Bata até o merengue formar picos. Adicione ⅓ do merengue ao creme de mascarpone e mexa bem com a espátula para incorporar. Junte o restante aos poucos, mexendo delicadamente, de baixo para cima. Reserve.
-- --
 
 ---
 

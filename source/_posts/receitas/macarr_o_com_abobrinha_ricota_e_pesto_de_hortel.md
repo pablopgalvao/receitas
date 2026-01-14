@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite, junte os dentes de alho e metade das abobrinhas - não coloque todas de uma só vez, as fatias devem ficar em contato com o fundo da frigideira para dourar. Tempere com sal e pimenta-do-reino e deixe dourar por 2 minutos de cada lado. Transfira para uma tigela grande e repita com o restante, regando a frigideira com mais azeite.
 - Numa tigela coloque a ricota e tempere com 1 colher (sopa) de azeite, sal e pimenta-do-reino a gosto. Misture bem com um garfo.
 - Assim que estiver cozido, escorra a água e junte o macarrão às abobrinhas. Regue com o molho pesto e misture bem. Sirva as porções com uma colherada de ricota temperada e folhas de hortelã.
-- --
 
 ---
 

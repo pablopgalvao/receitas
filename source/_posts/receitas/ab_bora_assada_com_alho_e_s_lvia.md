@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - sudeste
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,8 +32,6 @@ flags: []
 - Salada de abóbora assada com agrião e lascas de parmesão
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-
-- --
 
 ---
 

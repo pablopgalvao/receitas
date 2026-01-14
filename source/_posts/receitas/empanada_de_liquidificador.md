@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de óleo (120 ml)
 - 2 xícaras de chá de leite (480 ml)
@@ -45,7 +45,6 @@ flags: []
 - Numa tigela, adicione a mistura do liquidificador e, aos poucos, adicione a farinha de trigo, misture com um batedor de arame ou fouet e misture até obter uma massa cremosa e levemente espessa;
 - Adicione o atum ou a sardinha levemente amassada com um garfo, o milho, a ervilha e o extrato de tomate. Tempere com o tempero caipira e, se considerar necessário, acrescente sal a gosto (lembre que o peixe já é salgado e a massa tem bastante queijo ralado);
 - Unte uma forma (30x20cm) com óleo ou manteiga;
-- --
 
 ---
 

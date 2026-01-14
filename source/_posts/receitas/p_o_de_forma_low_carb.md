@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/4 xícaras de mix de castanhas (150 gramas)
 - 2 colheres de sopa de linhaça
@@ -41,7 +41,6 @@ flags: []
 - Acrescente a farinha a essa mistura, junto do sal e do fermento. Misture bem;
 - Transfira a massa para uma forma (30cm x 10 x 07 cm de altura) de pão untada e forrada com papel-manteiga. Polvilhe gergelim por cima;
 - Retire do forno e desenforme. Sirva quentinho com manteiga ou com algum patê de sua preferência!
-- --
 
 ---
 

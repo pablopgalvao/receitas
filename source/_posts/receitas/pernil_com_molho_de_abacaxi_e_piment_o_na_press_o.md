@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Leve ao fogo médio uma panela de pressão (sem a tampa) com capacidade para 6 litros. Quando aquecer, regue com 1 colher (sopa) de azeite e adicione quantos pedaços couberem, um ao lado do outro sem amontar. Deixe dourar por 3 minutos e vá virando com uma pinça para dourar todos os lados. Transfira para uma travessa e repita com o restante, regando a panela com ½ colher (sopa) de azeite a cada leva.
 - Mantenha a panela em fogo médio e regue com ½ colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue por 3 minutos, até murchar. Junte o alho, a pimenta dedo-de-moça e as folhas de louro, mexa por mais 1 minuto. Regue com o suco de abacaxi e pimentão e misture com a espátula, raspando bem o fundo da panela para dissolver os queimadinhos da carne - isso vai dar sabor ao molho.
 - Junte o restante do molho ao pernil desfiado e misture bem. Prove e, se necessário, adicione sal e pimenta-do-reino. Salpique com folhas de coentro e sirva a seguir com o molho reservado.
-- --
 
 ---
 

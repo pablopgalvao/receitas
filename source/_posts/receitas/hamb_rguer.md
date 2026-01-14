@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Espalhe azeite na superfície dos hambúrgueres e tempere com sal e pimenta a gosto.
-- --
 
 ---
 

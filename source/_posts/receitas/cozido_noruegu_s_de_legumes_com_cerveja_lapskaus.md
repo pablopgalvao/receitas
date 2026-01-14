@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 9 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Regue com a água, abaixe o fogo e deixe cozinhar com a tampa entreaberta por cerca de 1 hora, ou até que as batatas e cenouras estejam macias e o caldo bem saboroso. Enquanto isso, lave, seque e pique grosseiramente a salsinha.
 - Numa tigela pequena, misture o amido de milho com 2 colheres (sopa) de água e acrescente ao cozido. Mexa por cerca de 2 minutos para o caldo engrossar levemente.
 - Desligue o fogo, misture a salsinha picada e sirva a seguir.
-- --
 
 ---
 

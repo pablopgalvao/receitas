@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Numa panela média, junte o chocolate, o açúcar, o leite e a água. Leve ao fogo médio e mexa com uma espátula por cerca de 5 minutos, até aquecer os líquidos e o chocolate derreter. Retire do fogo, acrescente a manteiga em pedaços, o óleo e misture com um batedor para incorporar. Reserve a mistura de líquidos na panela para amornar.
 - Numa tigela grande misture a farinha, o cacau e o fermento em pó. Adicione a mistura de chocolate morna, mexendo bem com o batedor de arame até ficar liso. Quebre um ovo de cada vez numa tigela pequena e acrescente à massa. Misture bem com o batedor para incorporar – se um ovo estiver estragado você não perde a receita.
 - Com uma colher, espalhe o chantilly sobre o bolo frio e sirva a seguir.
-- --
 
 ---
 

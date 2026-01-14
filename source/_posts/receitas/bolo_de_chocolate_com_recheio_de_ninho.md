@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 180 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de trigo
 - 1/2 xícara de chá de chocolate em pó
@@ -52,7 +52,6 @@ flags: []
 - Adicione a farinha de trigo, o fermento e o bicarbonato peneirados. Mexa bem;
 - Despeje a massa em uma forma (redonda de aro 22 cm e fundo removível) untada com manteiga e chocolate em pó e leve para assar em forno preaquecido a 180 ºC por cerca de 30 minutos.
 - Em fogo baixo, derreta a manteiga e coloque o leite condensado e o leite em pó;
-- --
 
 ---
 

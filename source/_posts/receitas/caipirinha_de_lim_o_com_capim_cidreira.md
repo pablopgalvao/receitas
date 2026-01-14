@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 doses de cachaça (100 ml)
 - cubos de gelo a gosto
 - Descasque os limões – assim a caipirinha fica menos amarga. Corte cada um ao meio e as metades em quatro pedaços. Transfira para um pote com tampa, junte o açúcar, as folhas de capim-cidreira e amasse bem com um socador.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 17 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 450 gramas de quiabo
 - 1 colher de chá de sal (ou a gosto)
@@ -36,7 +36,6 @@ flags: []
 - Salsa desidratada com alho (a gosto)
 - Cebola em pó (a gosto)
 - Coloque o quiabo em uma tigela grande, adicione o sal, a pimenta‑do‑reino, a mistura de especiarias e o azeite, e misture bem até que tudo fique bem coberto;
-- --
 
 ---
 

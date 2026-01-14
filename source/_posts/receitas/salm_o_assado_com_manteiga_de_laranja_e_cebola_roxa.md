@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Leve a panela ao fogo médio para a manteiga derreter. Deixe cozinhar por cerca de 3 minutos, mexendo de vez em quando, até que a cebola fique levemente macia.
 - Coloque o salmão no centro de um refratário médio (nós usamos um refratário oval de 29 cm de comprimento), tempere com o sal e pimenta a gosto. Com uma colher, espalhe a cebola na superfície do salmão e regue com a manteiga derretida e o azeite da panela.
 - Leve ao forno para assar por 15 minutos — o salmão fica com um tom mais rosado e levemente resistente ao toque; não deixe tempo demais no forno para que o peixe não resseque. Enquanto isso, lave e seque os ramos de salsinha e endro.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de canjiquinha/quirera de milho
 - 100 gramas de bacon picado
@@ -36,7 +36,6 @@ flags: []
 - Cheiro-verde a gosto
 - Junte a canjiquinha, o sal e a pimenta. Misture e refogue por 1 minuto para a canjiquinha dar uma leve douradinha. Despeje a água e misture tudo novamente;
 - Espere a pressão sair naturalmente. Abra a panela e veja se a canjiquinha está macia, se não estiver, cozinhe na pressão novamente por mais alguns minutos. Acerte os temperos e o sal. Finalize com cheiro-verde.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com 1½ colher (sopa) de azeite, adicione a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Acrescente o tomate e deixe cozinhar por 3 minutos, mexendo de vez em quando, até ficar levemente macio – cuidado para não cozinhar demais e desmanchar
 - Desligue o fogo, regue com o balsâmico e tempere com sal e pimenta a gosto. Misture as folhas de manjericão, transfira para um prato e regue com mais um fio de azeite. Sirva a seguir.
-- --
 
 ---
 

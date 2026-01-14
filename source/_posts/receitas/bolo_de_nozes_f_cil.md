@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar
 - 75 gramas de manteiga sem sal derretida
@@ -42,7 +42,6 @@ flags: []
 - Coloque a farinha de trigo (peneirada), a canela, o fermento, as nozes e misture bem até ficar homogêneo;
 - Transfira para uma forma pequena, untada e enfarinhada, e leve ao forno preaquecido a 180ºC por cerca de 35 minutos;
 - Em outro recipiente, adicione o açúcar de confeiteiro e vá colocando leite gradualmente. Continue misturando até formar um creme ou glacê;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de proteína de soja texturizada
 - Água fervente para hidratar (500 ml)
@@ -46,7 +46,6 @@ flags: []
 - Numa panela grande, aqueça o óleo ou azeite e refogue a cebola e o alho picadinhos. Entre com a proteína e refogue por cerca de 5 minutinhos;
 - Em seguida, adicione açúcar, páprica defumada, orégano e shoyu. Misture bem para que todos os ingredientes se incorporem;
 - Por fim, coloque o molho de tomate, ketchup e água em temperatura ambiente. Mexa novamente e tempere com sal a gosto, de acordo com suas preferências;
-- --
 
 ---
 

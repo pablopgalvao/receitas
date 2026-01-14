@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Leve uma panela grande ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite e acrescente a carne - espalhe bem no fundo da panela para dourar melhor. Polvilhe com a farinha de trigo e deixe dourar, mexendo de vez em quando com a espátula para soltar os pedaços de carne. Se sua panela for pequena, doure a carne em duas etapas.
 - Transfira a carne dourada para uma tigela e mantenha a panela em fogo médio. Regue com o azeite restante, junte a cebola e o pimentão, tempere com uma pitada sal e refogue por cerca de 3 minutos. Acrescente o alho, o louro e mexa por mais 1 minuto para perfumar.
 - Adicione o extrato de tomate e misture bem. Regue com a cerveja preta aos poucos, raspando o fundo da panela com a espátula para dissolver os queimadinhos - eles dão sabor extra ao molho. Junte a água fervente, tempere com sal e pimenta e deixe cozinhar até ferver.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve uma panela média com cerca de 2,5 litros de água ao fogo alto. Quando ferver, acrescente 1 colher (sopa) de sal, adicione o macarrão e deixe cozinhar pelo tempo da embalagem, ou até ficar al dente, mexendo de vez em quando para que a massa não grude.
 - Assim que o macarrão estiver cozido, reserve cerca de 1 xícara (chá) da água do cozimento e escorra o macarrão. No miniprocessador de alimentos, coloque a ricota, o caldo de limão, tempere com ½ colher (chá) de sal e noz-moscada ralada. Adicione ¼ de xícara da água do cozimento do macarrão aos poucos e bata bem até formar um creme — a quantidade de água pode variar de acordo com a ricota; algumas são mais cremosas que outras.
 - Reserve ⅓ de xícara (chá) dos legumes assados e misture o restante ao macarrão. Divida em dois pratos, cubra com os legumes reservados e salpique folhas de manjericão. Sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz (pode ser integral se preferir)
 - 1 xícara chá de lentilha
@@ -38,7 +38,6 @@ flags: []
 - Com cuidado, coloque 2 xícaras de água fervente.
 - Acrescente o sal, açafrão e a lentilha.
 - Enquanto o arroz cozinha, em uma frigideira coloque a manteiga e o açúcar e deixe derreter.
-- --
 
 ---
 

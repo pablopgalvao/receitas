@@ -6,7 +6,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -20,12 +22,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Leve uma panela média com 2,5 litros de água ao fogo alto. Quando ferver, misture 1 colher (sopa) de sal, acrescente o macarrão e deixe cozinhar pelo tempo indicado na embalagem, ou até que fique al dente, mexendo de vez em quando.
 - Leve uma frigideira grande com a manteiga ao fogo médio. Quando a manteiga derreter, adicione a cebola caramelizada e mexa por 1 minuto para aquecer. Tempere com noz-moscada, sal e pimenta a gosto. Regue com o vinho e misture bem por 1 minuto.
 - Assim que estiver cozido, escorra o macarrão, reservando ½ xícara (chá) da água do cozimento.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e junte metade das abobrinhas - não coloque todas de uma só vez, as fatias devem ficar em contato com o fundo da frigideira para dourar. Tempere com sal e pimenta-do-reino e deixe dourar por cerca de 2 minutos de cada lado. Transfira para uma tigela grande e repita com o restante, regando a frigideira com mais azeite.
 - Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e passe o o macarrão pelo escorredor.
 - Junte o macarrão cozido às abobrinhas grelhadas, regue com o molho e misture bem. Acrescente a água do cozimento aos poucos para deixar o molho mais fluido. Sirva a seguir com folhas de salsinha frescas.
-- --
 
 ---
 

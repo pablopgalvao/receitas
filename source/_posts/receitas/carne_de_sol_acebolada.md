@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 150 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de carne de sol (alcatra)
 - 3 colheres de sopa de manteiga de garrafa
@@ -36,7 +36,6 @@ flags: []
 - Para dessalgar a carne, corte-a em tiras de aproximadamente 1 dedo de espessura, depois coloque em uma tigela com água. Leve à geladeira por 12 horas e troque a água de 2 a 3 vezes durante esse tempo;
 - Em uma frigideira larga, aqueça a manteiga de garrafa, depois acrescente a carne de sol. Deixe refogar por alguns minutos, sem mexer;
 - Finalize com salsinha picada e misture delicadamente para distribuir o sabor;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 filé de peixe tilápia sem espinho fatiado (300 gramas)
 - 2 colheres de sopa óleo/azeite
@@ -45,7 +45,6 @@ flags: []
 - Despeje os 400 ml de água na panela, mexa bem e deixe ferver por mais 3 minutos, para que o molho se misture com a água;
 - Com a mistura fervendo, adicione a farinha de mandioca aos poucos, mexendo sempre para evitar grumos. Continue mexendo até que o pirão atinja a consistência desejada;
 - Quando o pirão estiver bem encorpado, retire do fogo e finalize com a cebolinha e a salsinha picadas a gosto. Misture delicadamente. Sirva o pirão quente, como acompanhamento para o peixe ou qualquer prato de sua escolha.
-- --
 
 ---
 

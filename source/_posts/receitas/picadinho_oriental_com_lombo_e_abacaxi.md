@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Assim que a frigideira aquecer, regue com 1 colher (sopa) de óleo e junte os cubos de lombo. Refogue rapidamente por 3 minutos até começar a dourar.
 - Afaste os cubos de carne para as laterais da panela e regue o centro com o óleo restante. Acrescente a cebola e o pimentão e refogue por 2 minutos, sem misturar a carne. Junte o alho, a pimenta e o gengibre e misture bem, inclusive com a carne, por mais 1 minuto. Acrescente o abacaxi e deixe cozinhar por 2 minutos – a ideia é que os cubos se mantenham firmes e liberem um pouco do caldo para o preparo.
 - Abaixe o fogo e regue com a mistura de água, shoyu e amido. Mexa por 2 minutos até formar um molho brilhante. Desligue o fogo e misture a couve picada – o calor da panela é suficiente para murchar as folhas. Se necessário, regue aos poucos com a água quente da chaleira para deixar o molho mais fluido. Adicione óleo de gergelim a gosto, polvilhe o amendoim torrado e sirva a seguir.
-- --
 
 ---
 

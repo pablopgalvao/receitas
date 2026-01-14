@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de leite condensado (395 gramas)
 - 1 caixinha de creme de leite (200 gramas)
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa de manteiga ou margarina
 - Em uma frigideira grande e antiaderente, coloque o leite condensado, o creme de leite, a gelatina e a manteiga. Com uma espátula, misture bem para incorporar os ingredientes;
 - Após 8 - 12 horas, já pode enrolar os brigadeiros. Unte a mão com um pouco de manteiga, pegue uma pequena porção do doce e enrole com a palma da mão, formando uma bolinha. Passe o brigadeiro no chocolate granulado;
-- --
 
 ---
 

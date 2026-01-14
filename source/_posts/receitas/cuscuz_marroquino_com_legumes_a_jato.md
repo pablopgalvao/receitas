@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Adicione o alho, o louro, tempere com a páprica, pimenta a gosto e mexa por 1 minuto. Junte o cuscuz marroquino tempere com 1 colher (chá) de sal, 1 colher (sopa) de azeite e misture bem.
 - Meça 2 xícaras (chá) da água fervente e regue sobre o cuscuz. Misture delicadamente e desligue o fogo. Tampe a frigideira e deixe o cuscuz hidratar por 5 minutos. Enquanto isso, escorra o grão-de-bico em uma peneira. Lave, seque e pique grosseiramente as folhas de coentro.
 - Passado os 5 minutos, solte o cuscuz marroquino com um garfo, junte o grão-de-bico, metade da castanha e o coentro picado. Misture delicadamente e sirva a seguir polvilhado com o restante da castanha, folhas de coentro e de hortelã a gosto e iogurte cremoso. Se preferir, sirva frio.
-- --
 
 ---
 

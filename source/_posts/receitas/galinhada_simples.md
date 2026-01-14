@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de coxinha da asa
 - 500 gramas de sobrecoxa desossada
@@ -44,7 +44,6 @@ flags: []
 - Em uma tigela, tempere as carnes com o suco de limão, alho amassado, páprica, tempero baiano, pimenta-do-reino, sal e azeite. Misture bem com as mãos para envolver todos os pedaços. Deixe marinar por 10 minutos;
 - Aqueça uma frigideira ou panela grande em fogo médio-alto. Adicione o óleo e disponha os pedaços de frango sem sobrepor. Espalhe pedaços de manteiga sobre a carne e frite sem mexer até dourar a parte de baixo;
 - Adicione o arroz e misture bem, refogando por mais 2 minutos. Junte a água quente, misture novamente e ajuste o sal, se necessário;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,2 kg de lagarto
 - 50 ml de azeite
@@ -39,7 +39,6 @@ flags: []
 - Alecrim fresco a gosto
 - Polvilhe sal sobre a carne, massageando bem todos os lados para distribuir o tempero uniformemente. Finalize a marinada com pimenta-do-reino moída a gosto e deixe a carne descansar por 30 minutos fora da geladeira;
 - Adicione o azeite e a manteiga na panela. Quando derreter, acrescente os dentes de alho e as ervas frescas;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de merluza (também testamos com filé de tilápia)
 - 2 colheres de sopa de azeite
@@ -39,7 +39,6 @@ flags: []
 - Acrescente o pimentão, o restante do óleo de dendê e metade do leite de coco. Tempere com sal e pimenta-do-reino a gosto, misture e cozinhe por mais 2 minutos;
 - Prove o molho e, se necessário, acerte o sal e temperos. Verifique se o peixe está completamente cozido, caso ainda não esteja, cozinhe por mais 5 minutos. Finalize com salsinha e misture bem;
 - Agora é só servir essa moqueca baiana deliciosa! Você pode servir com arroz branco, farofa de dendê, pirão de peixe e uma salada fresca, fica incrível!
-- --
 
 ---
 

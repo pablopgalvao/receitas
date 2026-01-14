@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de óleo (240 ml)
 - 2 xícaras de chá de farinha de trigo com fermento (280 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Transfira a mistura para uma tigela. Adicione o açúcar e a farinha de trigo com fermento e misture bem com a ajuda de um fuê (batedor de bolo) ou garfo. Não mexa por muito tempo para não ativar o glúten da farinha;
 - Coloque a massa em uma forma (utilizamos uma forma redonda de 20 cm com furo central) untada com manteiga (ou margarina) e polvilhada com farinha. Leve ao forno preaquecido por 40 minutos, ou até o bolo ficar douradinho (ao espetar um palito de dente, ele deve sair limpo);
 - Para a calda, junte o açúcar e o suco de laranja em uma panela. Leve para ferver em fogo médio;
-- --
 
 ---
 

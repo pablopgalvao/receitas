@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 9 colheres de sopa de margarina (200 gramas)
 - 300 gramas de bacon
@@ -35,7 +35,6 @@ flags: []
 - 2 colheres de café de sal
 - Em uma panela grande, derreta a manteiga em fogo médio;
 - Junte a farinha de mandioca, mexendo continuamente por cerca de 1 minuto. Adicione o sal e continue mexendo por aproximadamente 2 minutinhos;
-- --
 
 ---
 

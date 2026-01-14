@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 320 ml de água em temperatura ambiente
 - 2 ovos médios
@@ -41,7 +41,6 @@ flags: []
 - Em um liquidificador, coloque os ovos, a água e o óleo. Bata por uns 2 minutos até obter uma mistura homogênea;
 - Numa tigela, coloque a farinha de trigo, o açúcar, o sal e o fermento biológico, misturando com uma colher para incorporar os ingredientes;
 - Retire do forno e, se quiser, pincele um pouco de manteiga para amaciar a casca. Espere amornar e desenforme. Corte as fatias e sirva com requeijão, manteiga, geleia e o que mais preferir. Bom apetite!
-- --
 
 ---
 

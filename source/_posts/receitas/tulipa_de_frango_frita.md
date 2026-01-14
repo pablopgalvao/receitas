@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de tulipa de frango
 - 1/2 colher de sopa de sal
@@ -46,7 +46,6 @@ flags: []
 - Em uma tigela média, adicione as tulipas de frango, o sal, o lemon pepper, o orégano, a páprica, o chimichurri e a mostarda. Misture bem com as mãos até envolver completamente as tulipas nos temperos;
 - Enquanto isso, aqueça o óleo em fogo médio. Retire da geladeira e passe cada tulipa na farinha de trigo seca, retirando o excesso. Esse passo cria a casquinha crocante;
 - Quando estiverem douradas e crocantes por fora, retire com cuidado e coloque sobre papel-toalha para escorrer o excesso de óleo;
-- --
 
 ---
 

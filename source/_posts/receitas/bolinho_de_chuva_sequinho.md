@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 ovos médios
 - 1/2 xícara de chá de açúcar (120 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Leve uma panela ao fogo médio e esquente o óleo;
 - Molde os bolinhos com a ajuda de duas colheres e coloque-os para fritar;
 - Passe os bolinhos na mistura de açúcar e canela e sirva-os em seguida;
-- --
 
 ---
 

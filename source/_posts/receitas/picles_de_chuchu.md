@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ½ colher (sopa) de sal
 - Numa peneira, coloque as fitas de chuchu, misture com o sal e deixe desidratar sobre uma tigela por cerca de 10 minutos.
 - Após os 10 minutos, lave o chuchu sob água corrente para retirar o excesso de sal. Transfira as fitas para um pote de vidro e regue com a mistura de vinagre e mel. Tampe e leve à geladeira por no mínimo 1 hora - o picles fica ainda melhor no dia seguinte ao preparo. Sirva com grelhados ou sanduíches.
-- --
 
 ---
 

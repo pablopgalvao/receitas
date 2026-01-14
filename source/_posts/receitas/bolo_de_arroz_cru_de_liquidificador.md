@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz cru (200 gramas)
 - 2 xícaras de chá de água fervente (480 ml)
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de chá de manteiga ou óleo para untar a forma
 - Vamos ao preparo! Com o arroz demolhado e escorrido, adicione-o no liquidificador junto dos ovos e óleo. Bata por 5 minutos em potência média;
 - Transfira o creme para uma bacia e acrescente o açúcar, a baunilha e o fermento. Mexa delicadamente com um fouet (batedor de arame) por 1 minuto até homogeneizar;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Lave sob água corrente e seque bem as vagens com um pano de prato – quanto mais sequinhas estiverem, melhor para chamuscar. Corte e descarte as pontas com o cabinho de cada vagem. Lave, seque e pique grosseiramente as folhas de salsinha.
 - Leve uma frigideira antiaderente (ou de ferro) ao fogo médio. Quando estiver bem quente, acrescente metade das vagens para chamuscar por 5 minutos, mexendo de vez em quando, até ficarem tostadas. Tempere com sal e pimenta a gosto, transfira para uma travessa e repita com o restante.
 - Passe os feijões-brancos por uma peneira e escorra bem a água. Transfira os grãos para uma tigela. Acrescente o molho, a salsinha picada e misture delicadamente. Sirva a seguir com as vagens chamuscadas.
-- --
 
 ---
 

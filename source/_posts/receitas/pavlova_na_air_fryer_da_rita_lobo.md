@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 3 colheres (sopa) de geleia de frutas vermelhas
 - 3 colheres (chá) de água filtrada
 - Lave, seque e corte as cerejas ao meio; descarte o cabinho e os caroços e transfira para uma tigela. Junte as sementes de romã, o licor e o açúcar. Misture e deixe macerar por 15 minutos.
-- --
 
 ---
 

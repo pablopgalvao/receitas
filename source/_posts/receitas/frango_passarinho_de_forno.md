@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - No pilão, bata o alho, o sal, a páprica e o cominho até formar uma pastinha. Por último, misture o azeite à pastinha.
 - Numa tigela grande, tempere o frango com a pasta de alho e especiarias. Espalhe bem o tempero com as mãos, para envolver todos os pedaços. Polvilhe com a farinha e misture novamente – o aspecto é meio seco e grudento, é assim mesmo. A farinha ajuda a formar a casquinha crocante do frango, sem ressecar a carne.
 - Enquanto isso, lave, seque e pique a salsinha. Retire a assadeira do forno e, com a pinça, transfira os pedaços de frango para uma tigela. Misture a salsinha e sirva a seguir com gomos de limão.
-- --
 
 ---
 

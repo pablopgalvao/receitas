@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de bacon picado
 - 200 gramas de parmesão ralado
@@ -49,7 +49,6 @@ flags: []
 - Agora, monte cada uma das saladas individualmente. Primeiro, coloque a alface e salpique um pouco de bacon por cima;
 - Depois, acrescente uma porção do molho e salpique queijo ralado;
 - Agora é só servir essa salada deliciosa. Aproveite!
-- --
 
 ---
 

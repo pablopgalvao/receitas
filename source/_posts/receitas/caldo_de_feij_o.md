@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de feijao cozido
 - 300 ml de água
@@ -38,7 +38,6 @@ flags: []
 - Cheiro-verde picado a gosto
 - Xícara de chá = 200 ml
 - Assim que ele dourar bem, despeje o feijão batido, tempere com páprica defumada, o sal, a pimenta, misture bem, deixe a panela semitampada e cozinhando de 5 a 7 minutos (contados após começar a ferver);
-- --
 
 ---
 

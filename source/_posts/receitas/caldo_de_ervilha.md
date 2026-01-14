@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 50 gramas de bacon
 - 150 gramas de linguiça calabresa (ou 1 gomo)
@@ -38,7 +38,6 @@ flags: []
 - 3 colheres de sopa de azeite
 - Retire os embutidos fritos da panela - reserve. Adicione as ervilhas secas, a água e o sal na mesma panela. Tampe e, assim que pegar pressão, reduza o fogo para baixo e deixe cozinhar por 12 minutos;
 - Desligue o fogo e espere a pressão sair naturalmente. Abra a panela e retorne com o bacon, a calabresa e o paio. Adicione o refogado com tomate, prove e ajuste o sal se necessário;
-- --
 
 ---
 

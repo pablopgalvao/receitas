@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de carne bovina (indicamos filé mignon)
 - 1 colher de sopa de manteiga
@@ -40,7 +40,6 @@ flags: []
 - Já na panela, tempere a carne com sal e pimenta-do–reino;
 - Adicione a manteiga e o azeite e sele a carne em fogo alto, até dourar. Reserve;
 - Continue o processo até que o risoni fique al dente ou no ponto desejado. Use cerca de 800 ml do total da água, ajustando conforme necessário. Quando o risoni estiver no ponto, adicione o queijo gorgonzola e misture até derreter e incorporar;
-- --
 
 ---
 

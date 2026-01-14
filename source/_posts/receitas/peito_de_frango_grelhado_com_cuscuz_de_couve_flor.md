@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Abaixe o fogo e deixe cozinhar por 5 minutos de cada lado - o fogo tem que estar baixo, do contrário os filé queima por fora e fica crú dentro. Antes de virar, tempere com sal e pimenta-do-reino a gosto.
-- --
 
 ---
 

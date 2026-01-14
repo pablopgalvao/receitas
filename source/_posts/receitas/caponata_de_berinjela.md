@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 berinjelas (500 gramas)
 - 4 cebolas (400 gramas)
@@ -46,7 +46,6 @@ flags: []
 - Escorra os cubinhos de berinjela, lave e aperte com as mãos para retirar o excesso de água. Transfira todos os alimentos cortados para uma assadeira e tempere com orégano, pimenta, vinagre, azeite e sal. Misture bem;
 - Em uma panela, coloque 1 xícara de chá de azeite e adicione o alho triturado. Frite em fogo baixo até dourar, mexendo sempre para não queimar, cerca de 1 minuto;
 - Retire do forno, adicione as uvas-passas. Se preciso acerte o sal e regue com um pouco mais de azeite. Misture todos os ingredientes e retorne a caponata ao forno por mais 20 minutos;
-- --
 
 ---
 

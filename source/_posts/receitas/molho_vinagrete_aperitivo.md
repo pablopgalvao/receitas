@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave e seque os tomates. Corte cada um ao meio, descarte as sementes e corte cada metade em cubos bem pequenos, de cerca de 0,5 cm. Descasque e pique fino a cebola. Lave, seque e pique fino a salsinha.
 - Numa tigela misture todos os ingredientes e tempere com sal e pimenta-do-reino moída na hora a gosto. Mantenha na geladeira até a hora de servir.
-- --
 
 ---
 

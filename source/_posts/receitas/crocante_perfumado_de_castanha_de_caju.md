@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1½ colher (chá) de café em pó
 - Numa tigela, misture a castanha-de-caju, as sementes de girassol, o gergelim, a canela, o café e o cardamomo moído. Unte com óleo uma assadeira pequena.
 - Numa frigideira coloque o açúcar e leve ao fogo médio até derreter completamente e formar um caramelo dourado – mexa de vez em quando com uma espátula de silicone para não queimar e desfazer os cristais de açúcar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de bucho
 - Suco de 1 limão ou 2 colheres de sopa de vinagre
@@ -41,7 +41,6 @@ flags: []
 - Em uma panela de pressão, aqueça o óleo (ou azeite) e refogue a cebola até murchar levemente. Agregue o alho picado e refogue até dourar;
 - Junte o bucho escorrido ao refogado e tempere com páprica defumada, colorau, chimichurri, lemon pepper, folha de louro e sal a gosto;
 - Finalize com cheiro-verde e ajuste o sal antes de servir. Acompanhe de arroz branco soltinho e bom apetite!
-- --
 
 ---
 

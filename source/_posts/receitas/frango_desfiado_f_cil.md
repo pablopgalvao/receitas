@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de peito de frango cru com osso
 - 300 ml de água para cozinhar o frango
@@ -44,7 +44,6 @@ flags: []
 - Cheiro-verde picado a gosto
 - Tempere o refogado com açafrão, páprica, lemon pepper e sal, misturando bem para incorporar os sabores. Cozinhe até os legumes ficarem al dente, cerca de 3 a 5 minutos;
 - Junte o frango desfiado e adicione cerca de 200 ml do caldo do cozimento do frango para deixar o preparo molhadinho. Misture tudo muito bem, prove o sabor e acerte sal e temperos, se necessário;
-- --
 
 ---
 

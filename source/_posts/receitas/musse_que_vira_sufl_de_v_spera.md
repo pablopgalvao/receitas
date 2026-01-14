@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Separe as claras das gemas dos 4 ovos, que devem estar em temperatura ambiente.
 - Na batedeira, bata as claras até que tripliquem de volume. Para começar, deixe a batedeira em velocidade baixa; assim que as claras começarem a espumar, junte a metade do açúcar. Aumente a velocidade. Quando as claras começarem a firmar, junte o restante do açúcar. Elas precisam estar firmes, mas não podem endurecer excessivamente.
 - Transfira os ramequins da geladeira para uma assadeira e leve ao forno para assar por cerca de 15 minutos, até crescer. Decore com açúcar de confeiteiro e sirva a seguir.
-- --
 
 ---
 

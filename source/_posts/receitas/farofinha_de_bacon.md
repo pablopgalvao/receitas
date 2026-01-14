@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,19 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - ¼ de xícara (chá) de farinha de rosca caseira
 - No copo do mini-processador, junte a farinha de rosca e as fatias de bacon em pedaços. Bata por cerca de 2 minutos até triturar e formar uma farofa. Sirva a seguir ou armazene num pote com fechamento hermético por até 15 dias. Sirva com massas, risotos, sopas e saladas.
-- --
 
 ---
 

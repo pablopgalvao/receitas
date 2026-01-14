@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 colher (sopa) de manteiga
 - ⅓ de xícara (chá) de água
 - Numa panela pequena, coloque o chocolate, o açúcar, a manteiga e a água. Leve ao fogo médio mexendo com o batedor de arame até ferver. Após a fervura, mexa por mais 2 minutos, ou até que a calda forme bolhas grandes e esteja com a espessura mais grossa — a agitação da calda é essencial para que ela cristalize e endureça depois.
-- --
 
 ---
 

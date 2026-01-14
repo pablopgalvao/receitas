@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Regue o refogado com o leite de coco, salpique com a farinha e misture bem. Desligue o fogo.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para outra tigela – se um estiver estragado você não perde a receita. Bata com um garfo, apenas para misturar as claras com as gemas – não bata demais ou o resultado vai ser uma frigideira dura.
 - Junte ao refogado de palmito cerca de ⅓ dos ovos batidos e misture delicadamente. Acrescente o restante dos ovos batidos (não precisa misturar) e leve ao forno para assar por 20 minutos ou até ficar firme. Sirva a seguir. Fica uma delícia com salada de brotos e molho de alcaparras.
-- --
 
 ---
 

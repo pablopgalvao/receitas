@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - Sal a gosto
@@ -36,7 +36,6 @@ flags: []
 - Reúna todos os ingredientes para esse preparo sinônimo de praticidade! Pique a salsinha finamente e preaqueça sua air fryer a 200 ºC;
 - Disponha os cubinhos de batata em uma assadeira ou diretamente em um bowl. Regue com azeite e tempere com sal e pimenta-do-reino. Misture bem para que todos os pedaços fiquem bem revestidos pelo tempero;
 - Retire da air fryer e transfira para uma tigela ou travessa. Polvilhe salsinha misturando levemente para espalhar o sabor!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - 1 xícara (chá) de chutney de manga
 - Aos poucos, regue o arroz com o caldo que se formou na frigideira, misturando com uma colher - ele deve ficar caldoso, mas sem excesso de líquido.
 - No centro de cada prato, coloque algumas colheradas de arroz integral. Posicione uma ou duas rosetas de peixe sobre o arroz, duas colheradas de chutney de manga e polvilhe com folhas de coentro. Sirva a seguir.
-- --
 
 ---
 

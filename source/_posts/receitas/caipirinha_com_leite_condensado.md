@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/4 de xícara de chá de leite condensado (80 gramas)
 - 1/4 de xícara de chá de açúcar (100 gramas)
 - 200 ml de cachaça
 - Gelo a gosto
 - No liquidificador, coloque o leite condensado, a cachaça e o açúcar.
-- --
 
 ---
 

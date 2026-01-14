@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/4 de suco de limão-siciliano (25 ml)
 - 1 colher de sopa de mostarda dijon ou comum
@@ -37,7 +37,6 @@ flags: []
 - Quebre o ovo e separe a clara da gema. Coloque um pano em uma panela e a tigela onde a maionese será preparada por cima. Transfira as gemas para a tigela, coloque o suco de limão-siciliano, a mostarda, o sal e a pimenta-do-reino. Bata com o fouet por 1 minuto, até ficar homogêneo;
 - Continue batendo vigorosamente com um fouet e despeje o óleo em fio;
 - Quando emulsionar e atingir o ponto cremoso, observe se a mistura escorre lentamente da colher;
-- --
 
 ---
 

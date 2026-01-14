@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Transfira a carne dourada para uma tigela e repita com o restante, regando a panela com um pouco de azeite a cada leva. Na última etapa, volte toda a carne dourada para a panela, polvilhe a farinha e mexa com a espátula para desmanchar a carne em pedaços menores e incorporar a farinha.
 - Volte toda a carne refogada para a tigela e mantenha a panela em fogo médio. Regue com 1 colher (sopa) de azeite, adicione a cebola e o pimentão, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até murchar. Junte o alho, o louro e mexa por 1 minuto para perfumar.
 - Acrescente o extrato de tomate e misture bem. Regue com a cerveja aos poucos, raspando bem o fundo da panela com a espátula para dissolver os queimadinhos — eles dão mais sabor ao molho. Junte 1 xícara (chá) da água fervente, tempere com sal e pimenta e deixe cozinhar até ferver.
-- --
 
 ---
 

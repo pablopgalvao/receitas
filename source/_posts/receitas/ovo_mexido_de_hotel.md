@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de leite integral (30 ml)
 - 1 colher de sopa de requeijão cremoso (25 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Quando notar a formação de pequenos grumos e o fundo começar a engrossar, adicione sal a gosto e continue mexendo devagar;
 - Assim que os ovos estiverem cremosos, úmidos e ainda brilhantes, desligue o fogo. O ponto correto é quando o preparo ainda escorre levemente pela espátula, mas já tem estrutura;
 - Sirva imediatamente sobre um pão levemente tostado com manteiga e finalize com cebolinha picada, se desejar!
-- --
 
 ---
 

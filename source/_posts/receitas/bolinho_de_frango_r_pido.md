@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de sopa de azeite ou óleo
 - 1/4 de xícara de chá de cebola ralada
@@ -45,7 +45,6 @@ flags: []
 - Assim que o frango esfriar, coloque mais 2 colheres de sopa de requeijão e misture;
 - Passe os bolinhos no amido de milho, depois na clara de ovo e finalize colocando eles na farinha de rosca;
 - Frite em óleo quente, por imersão, até dourarem;
-- --
 
 ---
 

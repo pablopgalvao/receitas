@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de açúcar
 - 2 xícaras de chá de leite
@@ -35,7 +35,6 @@ flags: []
 - Em uma leiteira (ou panela), coloque o açúcar e derreta-o em fogo médio;
 - Mexa sempre, até que o açúcar derreta e fique na cor de caramelo;
 - O açúcar se cristalizará, então, continue mexendo até que ele se desmanche novamente e comece a ferver;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,350 kg de batata-doce (5 unidades)
 - 3/4 de xícara de chá de farinha de trigo (90 gramas)
@@ -50,7 +50,6 @@ flags: []
 - Adicione as folhas de espinafre, tempere com sal e refogue por cerca de 2 minutos. Aqui, o espinafre vai murchar e soltar um pouco de água;
 - Retire o alho e transfira esse espinafre refogado para a travessa com os nhoques. Mantenha a frigideira em fogo médio e coloque a água do cozimento do nhoque reservada. Quando ferver, desligue o fogo e junte a manteiga de gorgonzola, fazendo movimentos circulares com a frigideira, para tudo incorporar;
 - Tempere com sal e pimenta-do-reino a gosto. Regue esse molho nos nhoques com espinafre e está pronto! Polvilhe nozes picadas e sirva ainda quentinho.
-- --
 
 ---
 

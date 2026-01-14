@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de mostarda
 - 5 colheres de sopa de mel
@@ -37,7 +37,6 @@ flags: []
 - Salsinha a gosto
 - Pimenta-do-reino a gosto
 - Adicione as ervas finas, a salsinha, o sal, a pimenta e misture novamente;
-- --
 
 ---
 

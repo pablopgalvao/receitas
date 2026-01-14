@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de azeite
 - 2 colheres de sopa de manteiga
@@ -36,7 +36,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Em uma panela, adicione os alhos, o azeite e o sal;
 - Transfira essa mistura de alho para um liquidificador e bata com o parmesão, o orégano, a pimenta-do-reino e a manteiga;
-- --
 
 ---
 

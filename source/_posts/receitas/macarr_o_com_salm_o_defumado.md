@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Assim que estiver cozido, reserve 1 xícara (chá) de água do cozimento e passe o macarrão pelo escorredor. Reserve.
 - Numa frigideira grande, coloque o creme de leite fresco e leve ao fogo médio - o creme de leite deve aquecer junto com a panela para não correr o risco de queimar. Quando começar a ferver, junte as tiras de salmão, tempere com sal a gosto e deixe cozinhar por cerca de 3 minutos.
 - Desligue o fogo, junte as raspas de limão, o endro e o macarrão cozido. Misture e junte a água do cozimento reservada para deixar o molho mais fluido. Sirva a seguir com folhas de endro e pimenta rosa a gosto.
-- --
 
 ---
 

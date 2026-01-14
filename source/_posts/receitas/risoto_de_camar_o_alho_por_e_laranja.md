@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Junte o arroz e misture bem por 2 minutos, envolvendo todos os grãos com o azeite. Tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto — lembre-se de que o caldo caseiro não leva sal.
 - Na última adição de caldo, misture e desligue o fogo — o risoto deve ficar cremoso. Misture as raspas de laranja e a manteiga. Tampe a panela e reserve.
 - Tempere os camarões com ½ colher (chá) de sal e pimenta a gosto. Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Regue com 1 colher (sopa) de azeite, coloque metade dos camarões e doure por cerca de 1 minuto de cada lado.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - zatar a gosto para servir
 - Retire as berinjelas do forno e deixe amornar. Corte cada berinjela ao meio, no sentido do comprimento, e raspe a polpa com uma colher. Na tábua, pique a polpa das berinjelas até formar uma pasta e transfira para uma tigela.
 - Junte o tahine, o caldo de limão e o alho. Tempere com sal e 1 colher (chá) de azeite e misture bem. Transfira para um prato, regue com azeite e polvilhe com zatar. Sirva a seguir.
-- --
 
 ---
 

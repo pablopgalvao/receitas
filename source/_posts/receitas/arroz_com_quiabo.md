@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de quiabo (uma bandeja pequena)
 - 1 colher de chá de bicarbonato de sódio
@@ -42,7 +42,6 @@ flags: []
 - 4 xícaras de chá de água fervente
 - Em uma panela grande, aqueça o óleo em fogo médio e frite o bacon para soltar a gordura. Antes que fique dourado, adicione o frango e deixe refogar até tudo dourar levemente;
 - Acrescente o arroz e os temperos secos. O sal, orégano, pimenta-do-reino e tempero baiano. Misture para incorporar;
-- --
 
 ---
 

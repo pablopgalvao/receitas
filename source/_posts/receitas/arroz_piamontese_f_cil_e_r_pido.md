@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 bandeja de cogumelo Paris (150 gramas)
 - 100 ml de vinho branco seco
@@ -40,7 +40,6 @@ flags: []
 - Cheiro-verde a gosto
 - Coloque o arroz cozido, a manteiga, o creme de leite, o parmesão e o cheiro-verde. Com o auxílio de uma colher, incorpore todos os ingredientes;
 - Acerte o sal e a pimenta-do-reino, misturando bem uma última vez. Está pronto para servir! Suave e cremoso na medida certa.
-- --
 
 ---
 

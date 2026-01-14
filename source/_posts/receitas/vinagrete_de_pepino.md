@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ⅓ de xícara (chá) de vinagre de arroz
 - sal a gosto
 - Numa tigela, coloque os legumes e tempere com o azeite, o vinagre e sal. Sirva a seguir ou mantenha na geladeira até a hora de servir – o vinagrete fica ainda mais gostoso se curtir por 20 minutos na geladeira antes de servir.
-- --
 
 ---
 

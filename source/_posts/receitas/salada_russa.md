@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Tomilho a gosto
 - Louro a gosto
@@ -44,7 +44,6 @@ flags: []
 - Na tábua limpa, pique os picles, os ovos e desfie ou corte o frango em pedaços pequenos;
 - Em uma tigela, junte as batatas, as cenouras, os picles, as ervilhas, os ovos e o frango. Misture tudo delicadamente até incorporar todos os ingredientes;
 - Adicione as cebolinhas e endro dill picadinhos e tempere com suco de limão, sal, mostarda e maionese. Misture tudo muito bem, prove e, se necessário, adicione mais sal ou suco de limão;
-- --
 
 ---
 

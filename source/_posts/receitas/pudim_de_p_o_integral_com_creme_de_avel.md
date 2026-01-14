@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ¼ de xícara (chá) de água fervente
 - Coloque o açúcar numa panela média. Leve ao fogo baixo para derreter, mexendo de vez em quando com uma espátula, por cerca de 5 minutos, ou até formar um caramelo dourado. Meça ¼ de xícara (chá) da água fervente e regue sobre o caramelo. Com cuidado, mexa com a espátula até formar uma calda - é importante usar uma panela média, pois a mistura pode borbulhar. Desligue o fogo.
 - Quebre os ovos, um de cada vez, numa tigela e transfira para o copo do liquidificador. Acrescente o creme de avelã com cacau, a canela e os pães umedecidos - não esqueça de juntar o leite que sobrar na tigela, ele é essencial para a consistência final do pudim. Bata por cerca de 3 minutos ou até ficar liso.
-- --
 
 ---
 

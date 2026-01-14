@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite, acrescente a cebola e tempere com uma pitada de sal. Refogue até murchar, junte o pimentão picado e refogue por mais 2 minutos. Por último, acrescente o alho e mexa por 1 minuto para perfumar.
 - Adicione o feijão cozido, regue com o caldo de legumes caseiro (ou água) e misture bem. Tempere com sal e pimenta a gosto e deixe cozinhar até ferver.
 - Desligue o fogo e bata com um mixer na própria panela até ficar liso (se preferir, bata no liquidificador; nesse caso, segure a tampa com um pano de prato para evitar que o vapor quente empurre e abra a tampa). Sirva a seguir com salsinha picada e caldo de limão.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de leite
 - 1 pitada de sal (1/2 colher de chá)
@@ -36,7 +36,6 @@ flags: []
 - Em um liquidificador ou mixer desligado, despeje o leite, um dente de alho descascado, o sal e o cheiro-verde. Ligue-o e bata por cerca de 5 minutos até ficar uma mistura homogênea;
 - Com o liquidificador ligado, comece a despejar um fiozinho de óleo;
 - A quantidade de óleo despejada é o segredo para a maionese pegar a consistência mais encorpada. Incorpore-o aos poucos, de forma consistente;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma panela ao fogo médio. Quando aquecer, regue com o azeite e refogue o alho por cerca de 1 minuto, apenas para perfumar. Misture o tomate batido e o orégano. Tempere com sal e pimenta-do-reino moída na hora a gosto. Deixe cozinhar por cerca de 5 minutos, mexendo bem, até encorpar. Desligue o fogo e sirva a seguir.
-- --
 
 ---
 

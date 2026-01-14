@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 150 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de leite condensado (395 gramas)
 - 2 colheres de margarina sem sal (40 gramas)
@@ -35,7 +35,6 @@ flags: []
 - Açúcar cristal para decorar
 - Unte as mãos com um pouco de margarina, pegue pequenas porções da massa com uma colher de sobremesa e enrole em formato de bolinha;
 - Passe os brigadeiros no açúcar e acomode em forminhas de papel de sua preferência. Sirva em seguida ou mantenha refrigerado até o momento de consumir!
-- --
 
 ---
 

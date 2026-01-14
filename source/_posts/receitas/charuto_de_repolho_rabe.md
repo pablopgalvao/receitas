@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 150 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída
 - 3 xícaras de chá de arroz cru (645 gramas)
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de óleo de soja
 - 4 sachês de molho de tomate (300 gramas cada)
 - Em uma tigela grande, misture a carne moída, o arroz cru, os tomates, a cebola, o alho, a pimenta, o limão espremido, a salsa, a cebolinha, o sal, o óleo e 3 sachês do molho de tomate;
-- --
 
 ---
 

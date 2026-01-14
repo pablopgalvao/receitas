@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 berinjelas (500 gramas)
 - 400 gramas de tomate cereja
@@ -39,7 +39,6 @@ flags: []
 - 1/8 de colher de chá de açúcar
 - Tomilho a gosto
 - Disponha as berinjelas numa assadeira. Adicione também os tomates-cereja inteiros, o alho laminado, o sal, a pimenta-do-reino, o azeite, o vinagre balsâmico e finalize com o açúcar. Misture bem com as mãos ou espátula para envolver todos os ingredientes;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Após retirar os últimos cubos, regue a panela com 1 xícara (chá) da água quente e o caldo de limão. Com uma colher de pau, raspe bem o fundo da panela para dissolver o queimadinho que se formou, apenas até limpar a panela, cerca de 1 minuto. Transfira esse caldo para a tigela da carne, passando por uma peneira.
 - Adicione o extrato de tomate e misture bem. Volte a carne, com o caldo, para a panela e mexa apenas para aquecer. Regue com mais 2 xícaras (chá) da água fervente e misture o molho inglês. Quando começar a ferver, deixe cozinhar por mais 6 minutos.
 - Enquanto isso, lave, seque e pique a salsinha. Desligue o fogo, prove e ajuste o sal e a pimenta-do-reino. Salpique a salsinha e sirva a seguir, acompanhado de arroz branco.
-- --
 
 ---
 

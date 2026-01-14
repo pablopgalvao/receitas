@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga ou margarina
 - 80 gramas de champignon
@@ -37,7 +37,6 @@ flags: []
 - Sal, pimenta e salsinha a gosto
 - Em uma panela alta de fundo largo, derreta a manteiga e refogue o alho (e a cebola se for usar) em fogo baixo;
 - Finalize com sal, pimenta e salsinha a gosto. Se quiser, use outras ervas de sua preferência. Desligue o fogo;
-- --
 
 ---
 

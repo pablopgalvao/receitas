@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Polvilhe a bancada com um pouco de farinha e, com as mãos, abra uma porção da massa até formar um disco de 16 cm de diâmetro — vá apertando a massa na bancada com as pontas dos dedos para deixar a bordinha mais alta e esticando a massa com as duas mãos para abrir a circunferência do disco.
 - Transfira a massa para um disco de papel próprio para assar na Air Fryer (se preferir, use papel-manteiga cortado) — assim fica mais fácil colocar a massa no cesto, sem perder o formato. Com um garfo faça furos em toda a massa, exceto na borda, para o disco não estufar ao pré-assar.
 - Espalhe metade do molho sobre a massa cubra com ¼ de xícara (chá) da muçarela. Distribua metade do cogumelo e da cebola-roxa fatiados; tempere com um fio de azeite, sal e pimenta-do-reino.
-- --
 
 ---
 

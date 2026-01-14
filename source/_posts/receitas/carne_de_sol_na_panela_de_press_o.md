@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de carne de sol
 - 1 pimentão médio (110 gramas)
@@ -36,7 +36,6 @@ flags: []
 - 3 colheres de sopa de óleo (45 ml)
 - UmOrganize sua bancada e os ingredientes! Corte a carne de sol em pedaços médios e, para retirar o excesso de sal, enxágue em água corrente algumas vezes. Pique a cebola e o pimentão em cubinhos. Corte o alho e o cheiro-verde finamente;
 - Na panela de pressão, aqueça o óleo. Adicione o alho e a cebola, e refogue até que fiquem levemente dourados;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de postas de tilápia
 - 1 colher de sopa de sal (ou a gosto)
@@ -47,7 +47,6 @@ flags: []
 - Finalize com as demais camadas, começando pelas cebolas, pimentões e tomates. Antes de colocar a tampa, tempere com uma pitadinha de sal, o leite de coco e o azeite de dendê. Tampe a panela e aumente o fogo para médio e deixe cozinhar por cerca de 20-30 minutos;
 - Lave a salsinha, cebolinha e coentro. Pique-os finamente e salpique por cima do preparo. Prove o caldo e, se for preciso, ajuste os temperos conforme preferir;
 - Sirva essa moqueca de tilápia em postas com arroz branco soltinho e uma salada de alface com tomates. Bom apetite!
-- --
 
 ---
 

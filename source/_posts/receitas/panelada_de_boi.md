@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 105 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de tripa de boi pré-cozida
 - 500 gramas de bucho de boi
@@ -43,7 +43,6 @@ flags: []
 - Cheiro-verde a gosto
 - Em uma panela de pressão, aqueça o óleo e refogue o alho picado e a cebola até dourar;
 - Adicione 500 ml de água, as folhas de louro e o sal. Tampe a panela e cozinhe na pressão por 40 minutos;
-- --
 
 ---
 

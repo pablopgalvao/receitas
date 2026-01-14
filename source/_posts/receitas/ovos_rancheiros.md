@@ -33,7 +33,6 @@ flags: []
 - **Rendimento:** 25 porções
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +47,6 @@ flags: []
 - 1 cebola picada
 - 2 dentes de alho picados
 - 200 ml de molho de tomate
-
 
 ---
 

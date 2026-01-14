@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de chá de sal
 - Pimenta-do-reino a gosto
@@ -41,7 +41,6 @@ flags: []
 - ½ xícara de chá de queijo parmesão ralado
 - Leve uma panela com água ao fogo alto e, quando ela começar a ferver, cozinhe as batatas com sal. Quando ficarem al dente, descasque-as e amasse-as com o auxílio de um garfo;
 - Leve outra panela ao fogo médio, coloque o restante do azeite, refogue o alho e acrescente o bacalhau, a pimenta, o manjericão, a salsinha e misture. Depois, tampe a panela e deixe tudo cozinhar por cerca de 5 minutos, mexa de vez em quando para não queimar;
-- --
 
 ---
 

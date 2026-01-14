@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de batata
 - Farinha de trigo para empanar (100 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Bata o lemon pepper, a páprica picante, o tempero (cebola, o alho e a salsa), o sal e o parmesão em um mixer ou liquidificador até virar pó. Reserve;
 - Passe-as rapidamente pela farinha de trigo e bata para tirar todo o excesso;
 - Agora, frite-as por imersão no óleo quente até que fiquem bem douradas;
-- --
 
 ---
 

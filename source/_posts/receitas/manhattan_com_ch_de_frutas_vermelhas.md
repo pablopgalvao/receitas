@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 45 ml de whisky (centeio, bourbon ou blended)
 - 50 ml de água fervente
 - 10 ml de vermute doce (rosso)
 - Retire o sachê e deixe o chá esfriar completamente. Meça 20 ml do chá para usar no coquetel;
-- --
 
 ---
 

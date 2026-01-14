@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 23 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de gergelim preto sem casca (130 gramas)
 - 2 colheres de sopa de azeite (30 ml)
 - 1/2 colher de chá de sal
 - Em seguida, coloque o gergelim torrado e o sal num processador ou liquidificador, e bata até formar uma farinha fina;
 - Bata novamente, mas dessa vez, adicionando o azeite aos poucos, até atingir a consistência cremosa. Adicione sal;
-- --
 
 ---
 

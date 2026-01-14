@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Abaixe o fogo e regue a frigideira com a água, aos poucos, mexendo com a espátula para dissolver os queimadinhos da frigideira — eles dão mais sabor ao preparo. Acrescente a passata e tempere com ½ colher (chá) de sal. Deixe cozinhar por cerca de 5 minutos, para o molho encorpar levemente.
 - 50 g de massa seca para lasanha com ovos (4 folhas)
 - 3 colheres (sopa) de queijo parmesão ralado
-- --
 
 ---
 

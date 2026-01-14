@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de leite integral
 - 1 pitada de sal
 - 1 xícara de chá de cheiro-verde
 - No liquidificador, coloque o leite, o alho, o sal e o cheiro-verde. Bata bem até triturar os temperos;
 - Com o liquidificador ainda ligado, retire a tampinha da tampa e adicione o óleo em fio, lentamente, até a mistura ganhar consistência cremosa de maionese;
-- --
 
 ---
 

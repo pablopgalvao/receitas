@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Abra as latas de feijão e escorra a água por uma peneira. Passe os grãos sob a água corrente, delicadamente, para tirar o sal da conserva e deixe escorrer bem a água. Enquanto isso, prepare o restante dos ingredientes.
 - Transfira a cebola com todo o azeite e alecrim para uma tigela grande, adicione o vinagre e tempere com sal e pimenta.
-- --
 
 ---
 

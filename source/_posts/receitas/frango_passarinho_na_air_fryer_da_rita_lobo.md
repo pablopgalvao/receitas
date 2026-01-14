@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Numa tigela grande, coloque o frango e tempere com a páprica, o sal e a pimenta. Junte o alho, a salsinha e misture bem para envolver todos os pedaços. Deixe descansar por 15 minutos em temperatura ambiente — assim o frango perde o gelo e absorve os sabores da marinada.
 - Regue o azeite no frango e misture. Polvilhe a farinha e misture bem para envolver todos os pedaços — o azeite e a farinha deixam o frango mais crocante e evitam que a carne fique ressecada.
 - Transfira o frango à passarinho para uma travessa e polvilhe salsinha picada. Sirva acompanhado de gomos de limão.
-- --
 
 ---
 

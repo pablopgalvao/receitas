@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Pimenta-do-reino a gosto
 - Páprica doce a gosto
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de café de açúcar
 - Cheiro-verde a gosto
 - Em um copo, coloque o shoyu, a água, o amido de milho, o açúcar e misture bem para dissolver;
-- --
 
 ---
 

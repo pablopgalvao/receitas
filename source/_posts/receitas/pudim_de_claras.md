@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 pitada de sal
 - Bata as claras na velocidade baixa da batedeira com 1 pitada de sal. Quando começarem a espumar, aumente a velocidade e continue batendo até ficarem em ponto de neve firme, formando picos durinhos - cerca de 10 a 15 minutos.
 - Nesse ponto, acrescente o açúcar aos poucos, sem desligar a batedeira. Bata por mais 10 minutos, até formar um merengue firme.
-- --
 
 ---
 

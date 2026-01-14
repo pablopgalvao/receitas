@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 250 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de biscoito do tipo maisena
 - 100 gramas de manteiga sem sal
@@ -37,7 +37,6 @@ flags: []
 - Você pode quebrar as bolachas em pedaços pequenos para ajudar no próximo passo. Retire a manteiga da geladeira 5 minutos antes de começar a receita. Assim, ficará mais fácil de manusear;
 - Em um mixer ou liquidificador, triture a bolacha até formar uma farinha. Não tem problema se ficar alguns gruminhos de bolachas. Se quiser uma massa bem lisinha, peneire a farinha;
 - Em uma tigela, coloque a farinha de bolacha, a manteiga, a água e as raspas de limão. Com as mãos, misture bem até formar uma massa úmida, que fique compacta e lisa ao apertar;
-- --
 
 ---
 

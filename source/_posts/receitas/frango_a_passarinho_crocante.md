@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Cominho em pó a gosto
 - Páprica doce a gosto
@@ -46,7 +46,6 @@ flags: []
 - Em uma panela, coloque o óleo para esquentar e enquanto isso, adicione na farinha um pouco de gengibre em pó, uma pitada generosa de sal e pimenta-do-reino. Misture bem;
 - Passe os pedaços de frango na farinha temperada;
 - E está pronto! Coloque em um prato e finalize com alho frito e salsinha. Aproveite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 ovos médios
 - 1 xícara de chá de óleo (240 ml)
@@ -39,7 +39,6 @@ flags: []
 - Reúna todos os ingredientes em sua bancada. Após higienizar bem a laranja, corte-a em pedaços pequenos, retirando a parte branca central, pois ela amarga o bolo. Unte a forma com margarina e polvilhe-a com açúcar. Preaqueça o forno a 180 °C;
 - No liquidificador, adicione os ovos, o óleo, a laranja picada com casca, o açúcar e a pitada de sal. Bata por cerca de 2 minutos, até obter uma mistura homogênea e bem cremosa;
 - Transfira essa mistura para uma tigela grande e acrescente a farinha de trigo peneirada, aos poucos, misturando delicadamente com uma espátula ou fouet (batedor de arame), até incorporar completamente;
-- --
 
 ---
 

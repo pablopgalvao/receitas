@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de coxa e sobrecoxa de frango cortadas em pedaços pequenos
 - 1 colher de sopa rasa de sal
@@ -37,7 +37,6 @@ flags: []
 - Enquanto o óleo aquece, coloque a carne em uma tigela com o alho, o sal e o tempero baiano. Misture com as mãos;
 - Com o auxílio de um pegador, transfira cuidadosamente os pedaços de frango temperados para a panela com óleo quente. Se necessário, faça várias levas. Vire-os para dourarem uniformemente;
 - Retire o frango frito com uma escumadeira para escorrer o excesso de óleo e reserve em um prato forrado com papel-toalha. Aproveite com gotinhas de limão!
-- --
 
 ---
 

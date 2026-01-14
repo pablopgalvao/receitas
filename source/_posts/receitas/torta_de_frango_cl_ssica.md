@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -51,7 +52,6 @@ flags: []
 - Com um garfo, faça furos no fundo da massa. Cubra a massa com papel-manteiga e preencha o fundo da fôrma com feijões crus, apenas para fazer peso. Leve ao forno preaquecido para assar por 20 minutos.
 - Retire a massa de torta do forno e, com cuidado, retire o papel-manteiga com os feijões.
 - Com as sobras de massa, faça bolinhas de cerca de 1,5 cm para decorar a torta. Molhe a base de cada bolinha na clara de ovo reservada e distribua por toda a beirada da torta. Se desejar uma aparência mais brilhante, pincele a massa com uma gema de ovo batida com 1 colher (chá) de água.
-- --
 
 ---
 

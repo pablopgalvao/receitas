@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de leite de coco
 - 1 colher de sopa de mostarda
 - 1 colher de chá de molho inglês
 - Sal e pimenta-do-reino a gosto
 - Coloque o leite de coco, o creme de leite, o requeijão, a mostarda, o molho inglês, o sal e a pimenta-do-reino em uma tigela e misture até obter um molho homogêneo;
-- --
 
 ---
 

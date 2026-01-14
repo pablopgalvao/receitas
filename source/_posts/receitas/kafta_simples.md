@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de acém moído
 - 1 colher de chá cheia de alho picado
@@ -41,7 +41,6 @@ flags: []
 - Em uma tigela grande, misture a carne moída com o alho, azeite, cheiro-verde, páprica picante e sal, até formar uma massa homogênea;
 - Repita o processo com toda a carne. Essa receita rende aproximadamente 5 kaftas, com cerca de 100 gramas cada uma;
 - Sirva em seguida, acompanhada de salada, pão sírio ou molho de iogurte.
-- --
 
 ---
 

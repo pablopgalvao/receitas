@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ¼ de colher (chá) de cominho em pó
 - 2 colheres (sopa) de fubá mimoso
 - Numa tigela, coloque as coxinhas da asa, regue com o azeite e tempere com o sal e as especiarias. Misture bem com as mãos para envolver todo o frango com os temperos. Polvilhe o fubá e misture novamente com as mãos para cobrir toda a superfície das coxinhas — fica um pouco grudento mesmo; a ideia não é fazer um empanamento tradicional.
-- --
 
 ---
 

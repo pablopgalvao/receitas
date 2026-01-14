@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Lave e seque o pimentão e os tomates. Corte cada tomate ao meio no sentido do comprimento. Transfira o pimentão e os tomates, com a parte cortada para cima, para uma assadeira grande. Tempere os tomates com 2 colheres (chá) de azeite Andorinha e sal a gosto.
 - Puxe e descarte a pele do pimentão. Se preferir, raspe a pele com uma colher para tirar as partes que estiverem mais grudadinhas. Corte o pimentão ao meio, descarte o cabo e as sementes.
 - No processador de alimentos, coloque primeiro as amêndoas e o alho e bata até triturar. Adicione os tomates assados, o pimentão sem a pele, a farinha de rosca, a pimenta calabresa, a páprica, o vinagre, 1 colher (chá) de sal e ¼ de xícara (chá) de azeite. Bata bem até formar um molho encorpado.
-- --
 
 ---
 

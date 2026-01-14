@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Tempere os medalhões com sal e pimenta-do-reino a gosto. Leve ao fogo médio uma frigideira grande com a lateral alta. Quando aquecer, regue com 1/2 colher (sopa) de óleo e doure os medalhões por cerca de 3 minutos. Quando soltar da frigideira, com uma pinça, vire e deixe dourar do outro lado.
 - Transfira os medalhões dourados para uma travessa e mantenha a frigideira em fogo médio. Regue com ½ colher (sopa) de azeite e acrescente as cebolas, as cenouras, os dentes de alho, o louro e 4 ramos de alecrim. Tempere com sal e deixe cozinhar por cerca de 2 minutos - durante o cozimento, vire os legumes com a pinça para dourar por igual.
-- --
 
 ---
 

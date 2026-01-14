@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de chá de leite morno (200 ml)
 - 1 colher de sopa de fermento biológico seco (10 gramas)
@@ -49,7 +49,6 @@ flags: []
 - Após o crescimento, polvilhe um pouco de farinha sobre a bancada e transfira a massa. Modele a massa em formato redondo e divida em 10 partes iguais. Modele bolinhas com as mãos;
 - Coloque as bolinhas em uma forma untada e enfarinhada ou forrada com tapete de silicone, mantendo espaço entre elas. Cubra a forma com um pano e deixe crescer novamente por 30 minutos;
 - Retire do forno, espere amornar e polvilhe açúcar de confeiteiro por cima, se desejar. Aproveite!
-- --
 
 ---
 

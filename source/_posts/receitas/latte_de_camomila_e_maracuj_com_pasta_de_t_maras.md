@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água
 - 100 ml de leite vegetal (amêndoas, aveia ou coco)
@@ -37,7 +37,6 @@ flags: []
 - Escorra as tâmaras, reservando um pouco da água. Bata no processador ou liquidificador com cerca de 4 colheres da água morna até formar uma pasta cremosa e uniforme;
 - Em uma panela pequena, aqueça o leite vegetal com 1 colher (sopa) da pasta de tâmaras caseira. Mexa até incorporar bem;
 - Sirva em uma caneca e finalize com raspas de laranja e uma pitada de canela, se desejar.
-- --
 
 ---
 

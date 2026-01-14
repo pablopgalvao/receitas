@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,19 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - ½ xícara (chá) de água
 - Com uma colher, preencha as tacinhas com a musse de chocolate e cubra com as frutas. Se preferir, prepare com antecedência e deixe na geladeira até a hora de servir.
-- --
 
 ---
 

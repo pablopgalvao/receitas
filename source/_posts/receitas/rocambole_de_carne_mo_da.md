@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída
 - Alho, sal, tempero baiano e coentro a gosto
@@ -36,7 +36,6 @@ flags: []
 - 5 batatas cortadas ao meio e pré-cozidas (cozinhe as batatas e depois tempere com sal, azeite e alecrim)
 - Vinagrete a gosto
 - Tempere a carne com creme de cebola, alho, sal, tempero baiano e coentro. Misture bem com as mãos;
-- --
 
 ---
 

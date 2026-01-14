@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - 1¾ de xícara (chá) de leite
 - 1½ xícara (chá) de coco seco ralado
 - Com uma espátula de bolo, retire uma fatia de bolo de cada vez e passe pelo coco ralado, pressionando delicadamente para cobrir bem todos os lados e embale no papel alumínio. Mantenha os bolos na geladeira até a hora de servir. Para deixar o bolo gelado de coco ainda mais especial, sirva num prato com uma colherada de beijinho.
-- --
 
 ---
 

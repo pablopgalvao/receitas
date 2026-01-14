@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Coloque o feijão-fradinho na panela de pressão e cubra com 4 xícaras (chá) de água. Tampe e leve ao fogo alto. Assim que começar a apitar, abaixe o fogo e deixe cozinhar por 10 minutos. Enquanto isso, prepare o vinagrete.
 - Junte o feijão aos legumes picados, tempere com o azeite, o vinagre, o caldo de limão, sal e pimenta a gosto. Misture delicadamente e sirva a seguir, decorado com folhas de coentro inteiras a gosto.
-- --
 
 ---
 

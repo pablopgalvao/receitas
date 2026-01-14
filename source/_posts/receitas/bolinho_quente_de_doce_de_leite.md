@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Numa tigela média, coloque a manteiga e leve ao micro-ondas por 1 minuto para derreter. Junte o doce de leite, o açúcar e misture bem com uma espátula até ficar liso.
 - Numa tigela pequena, quebre um ovo de cada vez e junte ao doce de leite – se um estiver estragado, você não perde a receita. Acrescente uma pitada de sal e misture bem. Acrescente a farinha, aos poucos, passando pela peneira. Misture delicadamente com a espátula para incorporar.
 - Retire do forno, polvilhe com açúcar de confeiteiro ou cacau em pó e sirva imediatamente.
-- --
 
 ---
 

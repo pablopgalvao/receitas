@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Na tigela da batedeira, coloque a manteiga e o açúcar. Se a manteiga não estiver em temperatura ambiente, leve ao micro-ondas para rodar por 15 segundos para ficar no ponto pomada. Comece batendo na velocidade baixa e aumente gradualmente – assim evita que o açúcar espirre para fora da batedeira. Bata por 2 minutos até formar uma farofa úmida.
 - Numa tigela pequena, quebre um ovo de cada vez e junte à mistura de manteiga com açúcar, batendo a cada adição para incorporar. Bata por mais 2 minutos até formar um creme claro – se necessário, pare de bater e raspe a lateral da tigela com uma espátula.
 - Diminua a velocidade da batedeira e adicione a farinha em 3 etapas, intercalando com o leite – termine com a farinha para evitar que a massa fique com aspecto talhado. Bata a cada adição apenas para incorporar os ingredientes – novamente, caso precise, pare de bater e raspe a lateral da tigela com a espátula durante o processo.
-- --
 
 ---
 

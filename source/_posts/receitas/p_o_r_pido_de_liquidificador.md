@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de açúcar (24 gramas)
 - 1/2 xícara de chá de óleo (120 ml)
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, adicione o ovo, o óleo, o açúcar, o leite morno, o sal e o fermento biológico seco. Bata por cerca de 1 minuto, até obter uma mistura homogênea;
 - Transfira essa mistura para uma tigela grande e vá adicionando a farinha de trigo aos poucos, misturando com uma espátula ou fouet (batedor de arame) até obter uma massa cremosa, elástica e um pouco pegajosa – não precisa sovar;
 - Sirva em fatias e, se quiser, acompanhe com manteiga para realçar a maciez!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peça de maminha (cerca de 1 kg)
 - 3 colheres de sopa de azeite
@@ -48,7 +48,6 @@ flags: []
 - Regue novamente a panela com azeite. Coloque a cebola e refogue por 2 minutos ou até ficar transparente. Junte o alho e refogue até dourar. Acrescente a cenoura e o salsão. Tempere com sal e pimenta-do-reino e mexa;
 - Espalhe os legumes sobre o fundo da panela e disponha a carne com a gordura virada para baixo sobre os legumes. Adicione o molho inglês, as folhas de louro e cubra com a água. Prove e ajuste o sal e a pimenta-do-reino;
 - Retire a carne da panela e transfira para uma travessa. Regue com o molho que ficou na panela. Salpique cebolinha e salsinha picada e está pronto para servir!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Coloque a água na panela de pressão (sem a tampa) e leve ao fogo alto. Quando começarem a subir as primeiras bolhas acrescente o sal e junte a sêmola de milho aos poucos, mexendo com um batedor de arame para não empelotar.
 - Volte a panela ao fogo baixo e mexa com o batedor por mais 2 minutos, até a polenta ficar cremosa. Desligue o fogo e misture a manteiga e o parmesão ralado. Prove e ajuste o sal.
 - Divida a polenta em 6 tigelas pequenas (que possam ir ao forno) e coloque sobre cada uma 1 fatia de gorgonzola. Transfira as tigelas para uma assadeira grande e leve ao forno por cerca de 5 minutos, ou até o queijo derreter (se seu forno tiver a opção grill, pode usar). Retire do forno com cuidado e sirva a seguir com um fio de azeite e pimenta-do-reino moída na hora a gosto.
-- --
 
 ---
 

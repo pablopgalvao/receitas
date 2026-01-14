@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Quando a cebola dourar, junte o colorau, a páprica, o cominho e 1 colher (chá) de sal. Misture bem. Acrescente o alho e mexa por apenas 1 minuto. Junte a folha de louro, o tomilho e misture bem.
 - Junte ao refogado 3 xícaras (chá) de água e o caldo do limão. Misture com uma espátula, raspando bem o fundo da panela para dissolver os queimadinhos – eles dão sabor ao preparo. Aumente o fogo para alto.
 - Na hora de servir, misture metade da cebolinha na galinhada. O restante do tomate picado e da cebolinha use para finalizar os pratos. Regue com um fio de azeite e pimenta-do-reino moída na hora a gosto.
-- --
 
 ---
 

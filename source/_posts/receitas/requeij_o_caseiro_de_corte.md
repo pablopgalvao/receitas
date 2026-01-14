@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de queijo mussarela
 - 200 gramas de queijo prato
 - 2 caixas de creme de leite (400 gramas)
 - Sal a gosto
 - Vamos começar! Corte os queijos mussarela e prato em cubinhos pequenos e finos. Unte (com manteiga ou fio de óleo) um pote retangular de plástico (15x11 cm), que será utilizado para a receita. Organize sua bancada e separe os ingredientes;
-- --
 
 ---
 

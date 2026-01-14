@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 8 bifes de coxão mole (cerca de 1,2 kg)
 - 6 gomos de linguiça toscana (cerca de 600 gramas)
@@ -48,7 +48,6 @@ flags: []
 - Em fogo baixo, acrescente um fio de óleo, o salsão, a cenoura e a cebola picadinhos. Refogue bem todos os ingredientes. Entre com o alho e o sal e mexa bem, raspando o fundo da panela, para que solte seus sabores;
 - Acrescente duas folhas de louro e as folhas de salsão que sobraram. tampe a panela e cozinhe por mais 15 minutinhos na pressão;
 - Para finalizar, sirva o seu bife a rolê em uma travessa e espalhe o molho por cima. Agora é só escolher o acompanhamento de sua preferência e servi-lo em um almoço ou jantar especial!
-- --
 
 ---
 

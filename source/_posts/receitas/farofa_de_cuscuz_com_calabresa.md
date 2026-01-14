@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de flocão de milho (200 gramas)
 - 1 xícara de chá de água (240 ml)
@@ -42,7 +42,6 @@ flags: []
 - Corte a banana-da-terra em rodelas ou cubos médios. Frite-as em 1 colher de sopa de manteiga, até que fiquem bem douradas. Reserve;
 - Ainda na mesma frigideira, adicione mais 1 colher de sopa de manteiga e refogue a cebola roxa;
 - Agora, entre com a calabresa e o bacon reservados, assim como o cheiro-verde. Misture bem com uma colher para que tudo se incorpore;
-- --
 
 ---
 

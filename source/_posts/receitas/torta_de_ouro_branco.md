@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 ml de leite integral
 - 2 colheres de sopa de amido de milho
@@ -36,7 +36,6 @@ flags: []
 - 2 colheres de sopa de amido de milho
 - 300 gramas de chocolate meio amargo picado
 - 200 ml de mistura para chantilly
-- --
 
 ---
 

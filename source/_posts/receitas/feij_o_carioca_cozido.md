@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de azeite (45 ml)
 - 1/2 xícara de chá de extrato de tomate
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa de sal a gosto
 - 1 colher de chá de pimenta-do-reino a gosto
 - Acrescente o feijão e misture com os ingredientes refogados, envolvendo bem os grãos no tempero. Tempere com o sal e a pimenta-do-reino, misturando bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos grandes
 - 1 colher de chá de essência de baunilha
@@ -45,7 +45,6 @@ flags: []
 - Na tigela da batedeira, adicione os ovos, o açúcar e o óleo. Bata por cerca de 5 minutos até ficar homogêneo;
 - Com o auxílio de uma peneira, adicione uma xícara de farinha de trigo à massa e misture com uma espátula até incorporar;
 - Adicione a segunda xícara de farinha peneirada e misture até a massa ficar homogênea. Incorpore o fermento químico delicadamente à massa;
-- --
 
 ---
 

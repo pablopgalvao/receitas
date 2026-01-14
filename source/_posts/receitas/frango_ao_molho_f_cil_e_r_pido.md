@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 22 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de coxa e sobrecoxa (3 unidades de cada, separadas)
 - 2 colheres de sopa de óleo
@@ -40,7 +40,6 @@ flags: []
 - Aqueça bem a panela de pressão em fogo médio e adicione o óleo. Coloque os pedaços de frango com a parte sem pele voltada para baixo e sele por 2 minutos de cada lado, até dourar levemente;
 - Acrescente a cebola e os tomates picados, misture tudo delicadamente. Tempere com o colorau, sal, pimenta-do-reino, salsinha e cebolinha;
 - Transfira para uma travessa e sirva com arroz branco e salada. Aproveite!
-- --
 
 ---
 

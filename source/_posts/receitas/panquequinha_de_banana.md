@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Pique grosseiramente a castanha-de-caju. Descasque e transfira a banana para um prato fundo (ou tigela). Amasse bem com um garfo até formar um purê rústico. No total, você vai precisar de cerca de 1/3 de xícara (chá) de banana amassada.
 - Numa tigela pequena, quebre os ovos e bata para misturar a gema com a clara. Junte os ovos batidos ao purê de banana, acrescente o fermento e a canela. Mexa com o garfo para misturar - o resultado é uma massa bem líquida.
 - Leve ao fogo médio uma frigideira antiaderente para aquecer. Acrescente a manteiga e deixe derreter. Com uma concha pequena, coloque uma porção de massa delicadamente para não espalhar pela frigideira - cozinhe até 3 porções de uma só vez, deixando espaço entre uma panqueca e outra. Diminua o fogo e deixe cozinhar por cerca de 1 minuto, até as bordas ficarem douradas e a panqueca quase cozida - o meio ainda deve estar úmido. Se quiser incrementar sua panqueca com castanhas ou chocolate picados esta é a hora!
-- --
 
 ---
 

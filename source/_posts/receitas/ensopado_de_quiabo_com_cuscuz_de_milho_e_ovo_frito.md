@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Numa tigela pequena quebre um ovo, com cuidado para não furar a gema. Volte a frigideira antiaderente ao fogo baixo e regue com 1 colher (chá) de azeite (se ela não for antiaderente, você pode usar outra frigideira menor só para o preparo dos ovos).
 - Com cuidado, transfira o ovo para a frigideira e deixe cozinhar por cerca de 2 minutos – com uma espátula de silicone, vá puxando a borda da clara para perto da gema, para manter o formato arredondado do ovo.
 - Assim que a clara começar a firmar, tempere com sal a gosto e tampe a frigideira para o ovo terminar de fritar mas a gema ainda ficar mole – o vapor permite que a clara cozinhe por igual sem a base do ovo queimar. Transfira o ovo frito para um prato e repita com os outros, regando a frigideira com um fio de azeite a cada leva.
-- --
 
 ---
 

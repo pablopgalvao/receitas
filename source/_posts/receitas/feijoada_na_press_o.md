@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Ainda na panela de pressão (nem precisa lavar!), coloque os grãos de feijão escorridos, os paios inteiros e as folhas de louro. Cubra com as 4 xícaras (chá) do caldo de cozimento das carnes e mais 4 xícaras (chá) de água. Tampe e leve a panela ao fogo alto. Assim que começar a apitar, abaixe o fogo e conte 15 minutos.
 - Leve uma panela grande ao fogo médio para aquecer. Regue com o azeite, adicione a cebola picada, tempere com uma pitada de sal e refogue por cerca de 5 minutos, até começar a dourar. Junte o alho, o cominho e mexa por mais 2 minutos.
 - Deixe a feijoada cozinhar em fogo médio por cerca de 20 minutos, para engrossar o caldo e unificar os sabores. Sirva a seguir com gomos de laranja, arroz e farinha de mandioca torrada.
-- --
 
 ---
 

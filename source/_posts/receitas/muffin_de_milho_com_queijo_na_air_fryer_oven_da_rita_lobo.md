@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Em outra tigela pequena, quebre um ovo de cada vez e transfira para o liquidificador — se um deles estiver estragado, você não perde a receita. Junte o leite, a manteiga derretida, o açúcar, o sal e bata bem até ficar liso. Adicione o milho e bata 2 vezes no modo pulsar, apenas para dar uma quebrada nos grãos — assim o milho transfere seu sabor à massa mas alguns grãos permanecem inteiros para dar textura ao muffin.
 - Transfira os ingredientes batidos para uma tigela grande, adicione a farinha de trigo, a farinha de milho, o fermento e o tomilho debulhado. Tempere com pimenta e noz-moscada a gosto e misture bem com uma espátula. Por último, misture o queijo ralado.
 - Preencha as forminhas com cerca de ¼ de xícara (chá) de massa (não ultrapassando ¾ do volume).
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira média, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com um fio de azeite e junte quantos floretes couberem, sem amontoar um sobre o outro. Tempere com sal e pimenta a gosto e deixe dourar por 6 minutos, mexendo de vez em quando. Transfira para uma travessa e repita com o restante.
 - Retire as folhas de agrião da água em vez de escorrer – assim as sujeirinhas ficam no fundo. Enxágue e seque bem as folhas numa centrífuga para salada. Misture o agrião aos floretes grelhados, regue com o molho e sirva a seguir.
-- --
 
 ---
 

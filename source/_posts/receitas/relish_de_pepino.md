@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Com uma escovinha para legumes, lave bem a casca dos pepinos e pimentão sob água corrente. Descarte as pontas e corte os pepinos ao meio no sentido do comprimento. Com uma colher de chá, raspe e descarte as sementes; corte cada metade em três tiras e as tiras em cubos de 1 cm. Corte o pimentão ao meio, descarte as sementes e corte as metades em cubos de 1 cm.
 - Numa tigela, misture os pepinos e o pimentão cortados com o sal. Transfira para uma peneira, coloque sobre a tigela e leve à geladeira para drenar por 1 hora – além de desidratar o pepino, o sal diminui o amargor do pimentão. Enquanto isso, prepare os outros ingredientes.
 - Numa panela média misture o vinagre com a água, o açúcar, as sementes de mostarda e a cúrcuma. Leve ao fogo alto e deixe cozinhar até ferver e o açúcar dissolver. Abaixe o fogo, junte o pepino e pimentão drenados, a pimenta e a cebola. Misture e deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando, até que os legumes estejam levemente macios.
-- --
 
 ---
 

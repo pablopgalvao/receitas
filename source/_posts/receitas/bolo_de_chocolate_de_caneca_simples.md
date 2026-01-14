@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 7 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de leite (45 ml)
 - 1 colher de sopa rasa de manteiga (15 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Separe os ingredientes para preparar a receita. Aproveite para quebrar o ovo e verificar se está apropriado para utilizar. Escolha uma caneca ou recipiente alto para conseguir finalizar com uma deliciosa ganache;
 - Em um recipiente bata bem o ovo. Coloque o leite, a manteiga e incorpore bem os ingredientes;
 - Agora adicione os ingredientes secos. Comece pelo açúcar, seguido pelo chocolate, pitada de sal e farinha de trigo. Misture muito bem com um garfo, até ficar homogêneo;
-- --
 
 ---
 

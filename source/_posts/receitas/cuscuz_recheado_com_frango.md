@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de flocão de milho
 - 1 xícara de chá da água do cozimento do frango (120 ml)
@@ -44,7 +44,6 @@ flags: []
 - Adicione o frango desfiado, adicione os temperos e sal. Refogue por 2 minutos até o frango absorver os sabores;
 - Unte a cuscuzeira com manteiga e adicione uma camada de flocão de milho hidratado;
 - Nivele a superfície suavemente com o auxílio de uma colher, sem pressionar, para que o cuscuz fique soltinho;
-- --
 
 ---
 

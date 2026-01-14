@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 ovos (claras e gemas separados)
 - 1 xícara de chá de leite
@@ -40,7 +40,6 @@ flags: []
 - No liquidificador, bata as gemas, o leite, a manteiga e o açúcar;
 - Aos poucos, vá adicionando a farinha de trigo, mexendo sempre;
 - Despeje a massa em uma forma redonda com furo no meio (de 25 cm de diâmetro) untada com manteiga e leve ao forno preaquecido a 180 ºC por 40 minutos.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - mel a gosto
 - nozes tostadas e picadas a gosto
 - Com uma espátula, transfira uma fatia de queijo grelhado para cada fatia de pão. Cubra com um pouco da pera cozida, regue com mel e polvilhe com nozes a gosto. Sirva a seguir.
-- --
 
 ---
 

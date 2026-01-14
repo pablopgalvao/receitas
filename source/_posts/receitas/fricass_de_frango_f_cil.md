@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 32 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de milho-verde (170 gramas)
 - 1 copo de requeijão cremoso (200 gramas)
@@ -40,7 +40,6 @@ flags: []
 - 100 gramas de batata palha (ou a gosto)
 - Despeje o creme do liquidificador em uma panela grande e leve-a ao fogo médio. Adicione o frango desfiado e as azeitonas cortadas em rodelas ou bem picadinhas. Tempere com sal. Mexa com uma espátula continuamente até obter uma consistência bem cremosa, cerca de 2 minutos;
 - Salpique a mussarela ralada por cima do fricassê, formando uma camada uniforme. Leve ao forno preaquecido por 20 minutos, ou até gratinar;
-- --
 
 ---
 

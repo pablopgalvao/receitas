@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Abra as latas e escorra a água (ou óleo) das sardinhas. Com um garfo, abra os peixes ao meio e descarte a espinha central. Pique as sardinhas em pedaços rústicos e transfira para uma tigela. Tempere com azeite, sal e pimenta a gosto. Adicione folhas de endro e misture delicadamente – cuidado para não quebrar demais os pedaços de peixe.
-- --
 
 ---
 

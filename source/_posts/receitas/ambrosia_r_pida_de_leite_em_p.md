@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,8 +38,6 @@ flags: []
 - Numa panela pequena, junte 1 xícara (chá) de água com o açúcar e misture com o dedo indicador - isso vai ajudar a não queimar a calda.
 - Quando o açúcar dissolver, junte a canela, os cravos e leve a panela ao fogo médio.
 - Enquanto a calda aquece, no liquidificador junte o ovo, as 3 colheres (sopa) de água, o leite em pó e a pitada de sal. Bata por 1 minuto; desligue e raspe as laterais; bata mais um pouco, apenas para formar uma mistura lisa - ela fica bem grossa.
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

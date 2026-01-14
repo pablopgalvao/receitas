@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de manteiga gelada
 - Lave, descasque e corte as mandioquinhas ao meio, no sentido do comprimento, e cada metade em fatias de 1 cm. Transfira para uma panela média, cubra com água e tempere com 1 colher (chá) de sal.
 - Volte a panela ao fogo médio e vá acrescentando o leite quente, mexendo bem com uma espátula, até formar um purê cremoso. Desligue o fogo, adicione o requeijão de corte e a manteiga e misture bem. Prove e, se necessário, ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

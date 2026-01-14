@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Numa assadeira média, coloque a abóbora e tempere com 2 colheres (chá) de azeite, sal e pimenta a gosto. Misture bem com as mãos e espalhe os cubos na assadeira, deixando espaço entre cada um. Leve ao forno para assar junto com a base da quiche por 10 minutos. Enquanto isso, numa tigela, tempere os brócolis com 2 colheres (chá) de azeite, sal e pimenta a gosto.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela média — se algum estiver estragado você não perde a receita. Mexa com o batedor de arame apenas para misturar as claras com as gemas. Junte o creme de leite fresco, o tomilho debulhado e tempere com ½ colher (chá) de sal e noz-moscada a gosto. Misture bem.
 - Com cuidado, retire o papel-manteiga com os grãos de feijão da fôrma. Distribua os cubos de abóbora e os floretes de brócolis assados sobre a base da quiche. Coloque os cubos de queijo entre os legumes. Regue com o creme de ovos delicadamente para cobrir os legumes e, por último, distribua os tomatinhos sobre o creme, com a rama para cima.
-- --
 
 ---
 

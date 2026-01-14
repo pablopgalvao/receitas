@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve ao fogo médio uma panela média. Quando aquecer, regue com 1 colher (sopa) de azeite doure os cubos de frango em etapas, sem amontoar – para que fiquem dourados. Tempere com sal e vire com a pinça para dourar os cubos por igual. Transfira para uma tigela e repita com o restante, regando a panela com azeite a cada leva.
 - Abaixe o fogo da panela e regue com mais 1 colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue até murchar, por 3 minutos – aproveite para ir raspando o fundo da panela, dissolvendo os queimadinhos que são essenciais para dar sabor ao preparo. Junte o alho e mexa por 1 minuto para perfumar.
 - Acrescente o extrato de tomate, o ketchup e mexa bem. Volte o frango dourado para a panela, junte o conhaque e mexa para evaporar o álcool. Junte o molho inglês, o creme de leite e misture bem. Tempere com sal e pimenta e deixe cozinhar em fogo médio por cerca de 10 minutos, mexendo de vez em quando, até engrossar.
-- --
 
 ---
 

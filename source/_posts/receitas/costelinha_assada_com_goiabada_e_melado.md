@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - No miniprocessador, coloque a goiabada, o melado, o caldo de limão, a pimenta fatiada, os dentes de alho e 1 colher (chá) de sal. Bata por cerca de 2 minutos, até que a mistura fique lisa — se necessário, pare de bater e raspe a lateral do processador com uma espátula para poder bater por igual.
 - Posicione a costelinha com a parte da carne para cima. Com uma colher, espalhe metade do molho de goiabada e melado sobre toda a superfície da carne. Distribua os gomos de cebola e os ramos de alecrim ao redor da peça e tempere com sal, pimenta-do-reino e o azeite.
 - Retire a assadeira do forno e descubra a costelinha. Aumente a temperatura do forno para 220 ºC (temperatura alta). Com a colher, espalhe o restante do molho sobre a costelinha e regue a assadeira com a cachaça e a água.
-- --
 
 ---
 

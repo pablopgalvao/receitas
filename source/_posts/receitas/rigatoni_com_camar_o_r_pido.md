@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de camarão rosa pequeno
 - 1 kg de macarrão tipo rigatoni
@@ -42,7 +42,6 @@ flags: []
 - Aqueça uma frigideira em fogo médio com azeite e 1 colher de sopa de manteiga até que derreta. Sele os camarões dos dois lados. É bem rápido, assim que mudar de cor, vire. Cerca de 1 minuto de cada lado é suficiente para dourar;
 - Nessa mesma frigideira, adicione a outra colher de manteiga e refogue a cebola até murchar;
 - Em uma panela grande, ferva a água já salgada até borbulhar. Cozinhe o macarrão como manda a embalagem. Com o macarrão cozido, volte o molho ao fogo. Adicione 1 concha da água do cozimento do macarrão e o queijo parmesão ralado. Misture bem para incorporar. Coloque também a massa;
-- --
 
 ---
 

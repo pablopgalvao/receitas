@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Passado o tempo da berinjela, transfira os pedaços para uma assadeira grande de borda alta. Junte o restante dos legumes cortados, as azeitonas, as uva-passas e alcaparras. Regue com o azeite, o vinagre, a erva-doce e misture bem — não é necessário adicionar sal; o sal da berinjela já é suficiente para temperar a receita.
 - Retire do forno e deixe amornar. Transfira para uma tigela e leve à geladeira para esfriar por pelo menos 2 horas antes de misturar a salsinha e as nozes (se preferir, prepare no dia anterior; a caponata fica ainda mais gostosa quando permanece mais tempo na geladeira).
 - Na hora de servir, misture a salsinha e as nozes. A caponata pode ser mantida na geladeira por até 1 semana.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - manteiga e açúcar para untar e polvilhar a fôrma
 - Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga uma fôrma para pudim de 22 cm de diâmetro. Polvilhe com açúcar, chacoalhe para espalhar e bata sobre a pia para retirar o excesso.
 - No liquidificador coloque o leite condensado, o chocolate em pó, o leite e a manteiga. Numa tigela separada, quebre um ovo de cada vez e transfira para o copo do liquidificador - se um estiver estragado você não perde toda a receita. Bata bem até ficar liso e dissolver todo o chocolate.
-- --
 
 ---
 

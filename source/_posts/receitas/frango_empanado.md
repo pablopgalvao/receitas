@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 118 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de peito de frango
 - 200 ml de leite
@@ -41,7 +41,6 @@ flags: []
 - Para empanar, coloque a farinha Panko em uma tigela grande. Dê uma leve sacudida no filé para retirar o excesso da marinada e empane um pedaço por vez. Com as mãos, espalhe a farinha por todos os lados da carne, pressionando levemente para garantir a aderência;
 - Enquanto empana os filés, coloque uma panela larga e alta com óleo para esquentar em fogo médio. Quando o óleo atingir a temperatura de 180 ºC, comece a fritar - caso não tenha termômetro culinário, coloque uma colher de pau dentro do óleo, quando o óleo começar a borbulhar ao redor da colher, a temperatura está boa para fritura;
 - Com cuidado e em pequenas porções, coloque os filés na panela com óleo quente. Frite até dourar completamente (cerca de 6 minutos). Se necessário, vire os empanados para dourar de ambos os lados;
-- --
 
 ---
 

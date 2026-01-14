@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - raspas de limão a gosto (opcional)
 - Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão numa peneira. Volte o risoni para a mesma panela (nem precisa lavar), junte a manteiga e misture bem para derreter. Regue aos poucos com ½ xícara (chá) da água do cozimento reservada, até o macarrão ficar cremoso.
-- --
 
 ---
 

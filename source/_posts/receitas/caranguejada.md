@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 tomates médios (450 gramas)
 - 3 cebolas médias (480 gramas)
@@ -41,7 +41,6 @@ flags: []
 - 1 fio de óleo
 - Em uma tábua, pique os tomates, os pimentões, as cebolas e o alho em cubos médios (cerca de 0,5 cm). Leve uma panela grande e alta ao fogo alto, coloque 1 fio de óleo e refogue os tomates, pimentões e cebolas por cerca de 2 minutos;
 - Misture e espere o caldo ferver novamente. Quando estiver fervendo, coloque o creme de leite, a mostarda, o sal e o coentro picado. Mexa bem para todos os temperos se espalharem. Deixe os caranguejos cozinharem em fogo médio por 15 minutos;
-- --
 
 ---
 

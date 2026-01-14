@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - manteiga e açúcar para untar a fôrma
 - Unte com manteiga uma fôrma de furo no meio com 16 cm de diâmetro. Polvilhe com açúcar, chacoalhe para cobrir o fundo e bata na pia para tirar o excesso.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para o processador — se um estiver estragado, você não perde a receita. Junte a mandioca, o açúcar, o leite de coco e a manteiga e bata por cerca de 1 minuto — a massa fica com pedacinhos pequenos de mandioca, a ideia é não ficar totalmente lisa mesmo.
-- --
 
 ---
 

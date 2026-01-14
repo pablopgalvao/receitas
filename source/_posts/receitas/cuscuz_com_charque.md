@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de flocos de milho (120 gramas)
 - 1/2 colher de chá de sal
@@ -45,7 +45,6 @@ flags: []
 - Misture bem até que os ovos fiquem cozidos, e incorpore o queijo ralado. Assim que estiver bem derretido, reserve em uma tigela à parte;
 - Acrescente o cuscuz já cozido, a manteiga e os ovos mexidos. Misture muito bem;
 - Finalize com salsinha e cebolinha a gosto, e pronto. Hora de se servir e aproveitar!
-- --
 
 ---
 

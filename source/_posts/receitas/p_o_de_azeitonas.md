@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Passado o descanso, numa tigela pequena, misture o fermento com a água restante (4 colheres (chá) ou 20 ml). Acrescente o fermento diluído à tigela com a farinha e misture bem com a espátula, dobrando a massa sobre ela mesma para incorporar – a massa é um pouco pegajosa, mas se preferir, faça esse processo com as mãos.
 - Depois de 1 hora, vire a massa na bancada levemente enfarinhada. Delicadamente, com as mãos, aplaine e abra a massa. Distribua bem os pedaços de azeitona sobre a massa aplainada – assim o pão fica com recheio em todas as fatias.
 - Transfira o pão para um banneton enfarinhado, deixando a emenda para cima (se preferir, utilize um uma tigela forrada com um pano de prato enfarinhado). Cubra com um pano de prato e deixe descansar por 45 minutos.
-- --
 
 ---
 

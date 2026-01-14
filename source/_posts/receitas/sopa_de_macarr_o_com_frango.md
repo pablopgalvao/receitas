@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de azeite de oliva (13 ml)
 - 400 gramas de frango cozido e desfiado
@@ -36,7 +36,6 @@ flags: []
 - 1 e 1/2 xícara de chá de macarrão de sua preferência (150 gramas)
 - Cebolinha a gosto
 - Depois, junte o frango desfiado, as batatas, a cenoura, o caldo do cozimento do frango e tempere com sal;
-- --
 
 ---
 

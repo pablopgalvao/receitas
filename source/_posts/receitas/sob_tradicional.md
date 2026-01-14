@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de macarrão para sobá
 - 500 gramas de coxão mole
@@ -43,7 +43,6 @@ flags: []
 - Acrescente os pedaços de cenoura, o gengibre ralado, o açúcar e o shoyu, e mexa para incorporar. Acrescente a água aquecida, tampe a panela e, quando pegar pressão, reduza o fogo e deixe cozinhar por 2 a 3 minutos. Depois, desligue e espere a pressão sair naturalmente;
 - Em um recipiente pequeno, quebre um ovo por vez e transfira para uma tigela maior. Acrescente o amido de milho e tempere com sal. Mexa bem até dissolver totalmente o amido de milho;
 - Leve uma frigideira ao fogo baixo, unte com óleo e acrescente metade dos ovos batidos. Deixe fritar até que fique uma omelete bem fina. Com uma espátula transfira para uma tábua e deixe esfriar. Repita com a outra metade dos ovos batidos;
-- --
 
 ---
 

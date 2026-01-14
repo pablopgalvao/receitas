@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Mantenha a panela em fogo médio, regue com mais 2 colheres (sopa) de azeite e junte a cebola. Tempere com uma pitada de sal e refogue por 2 minutos até murchar. Acrescente a cenoura e o salsão e refogue por mais 3 minutos, raspando bem o fundo da panela para dissolver os queimadinhos. Junte o alho, as sementes de erva-doce, o louro e mexa por apenas 1 minuto para perfumar.
 - Volte a linguiça para a panela, regue com o vinho e misture bem. Deixe cozinhar até secar. Adicione o tomate pelado (com o líquido), regue com a água e misture bem. Tempere com sal e pimenta a gosto - cuidado, pois a linguiça já é salgada - e deixe cozinhar em fogo alto até ferver.
 - Abaixe o fogo e deixe cozinhar por mais 1 hora com a tampa entreaberta, até o molho encorpar - nos últimos 10 minutos de cozimento, acrescente o manjericão para dar sabor ao molho. Prove e ajuste o sal, sirva a seguir com polenta mole ou macarrão caseiro.
-- --
 
 ---
 

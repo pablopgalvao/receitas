@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite de oliva (30 ml)
 - Orégano a gosto
@@ -35,7 +35,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Sal a gosto
 - Em uma assadeira forrada com papel-manteiga. Distribua as fatias de batata-doce em uma única camada, evitando sobreposições para garantir o assamento uniforme;
-- --
 
 ---
 

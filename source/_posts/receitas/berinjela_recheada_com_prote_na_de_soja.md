@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de proteína de soja (50 gramas)
 - 3 colheres de sopa de creme de ricota (130 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Descarte o papel-toalha e, com cuidado para não se queimar, corte a berinjela ao meio no sentido do comprimento. Retire o miolo com a ajuda de uma colher e descarte-o. Reserve as duas metades;
 - Aqueça um fio de azeite em uma panela e refogue a cebola e o alho até murcharem, por cerca de 3 minutos. Adicione a proteína de soja escorrida, tempere com sal, pimenta-do-reino e páprica, e misture bem para incorporar os sabores;
 - Prove o recheio e ajuste o sal e os temperos, se necessário. Refogue por mais 2 minutos. Desligue o fogo e misture o creme de ricota, deixando o recheio cremoso;
-- --
 
 ---
 

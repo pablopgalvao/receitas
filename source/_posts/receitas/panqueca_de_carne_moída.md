@@ -38,7 +38,6 @@ flags: []
 - **Rendimento:** 10 Porções
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -55,7 +54,6 @@ flags: []
 - 1/2 tomate cortado em cubos
 - 1 caixa de creme de leite
 - 400 g de muçarela fatiado
-
 
 ---
 

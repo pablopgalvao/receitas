@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Tempere as sobrecoxas com 1½ colher (chá) de sal, o curry e pimenta-do-reino a gosto — espalhe bem os temperos pela carne, mas com cuidado para a pele do frango não se soltar. Mantenha as sobrecoxas em temperatura ambiente enquanto o forno preaquece — elas não podem estar geladas na hora de ir para a panela.
 - Regue a panela com 1 colher (chá) de azeite, adicione a cebola, tempere com uma pitada de sal e refogue por 5 minutos, até começar a dourar. Junte o alho e o gengibre e mexa por 1 minuto para perfumar.
 - Acrescente o arroz e misture bem. Regue com a água e o caldo de laranja. Tempere com ½ colher (chá) de sal, junte as folhas de louro e misture. Volte as sobrecoxas para a panela, com cuidado, deixando a pele para fora do caldo — assim elas ficam douradas e crocantes ao assar.
-- --
 
 ---
 

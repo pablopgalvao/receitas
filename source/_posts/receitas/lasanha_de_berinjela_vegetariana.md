@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 latas de tomate pelado sem pele (400 gramas cada)
 - 1/2 xícara de chá de água (120 ml)
@@ -38,7 +38,6 @@ flags: []
 - 1/2 colher de chá de sal (ou a gosto)
 - Adicione os tomates pelados já amassados e a água. Tempere com sal e pimenta-do-reino e misture bem. Quando o molho começar a ferver, deixe cozinhar por mais 10 minutos. Prove o sabor e acerte o sal se necessário. Finalize com as folhas de manjericão e reserve o molho;
 - Leve uma frigideira ao fogo médio-alto e deixe esquentar. Assim que estiver bem quente, coloque de 1 a 3 fatias por vez na frigideira, sem sobrepor. Tempere com sal e doure por 1 minuto;
-- --
 
 ---
 

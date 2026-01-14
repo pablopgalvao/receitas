@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Regue com a água e mexa bem para dissolver os queimadinhos. Acrescente o extrato de tomate, o molho inglês, o chutney e misture bem. Volte a carne para a panela, misture e deixe cozinhar por cerca de 5 minutos, até formar um recheio úmido. Prove e acerte o sal. Transfira para uma tigela e deixe amornar. Enquanto isso, abra a massa.
 - Polvilhe farinha de trigo na bancada. Com um rolo de macarrão, abra a massa até ficar com cerca de 0,5 cm de espessura e, com a boca de uma das forminhas, corte 6 discos - eles vão ser a tampa das tortinhas.
 - Distribua o recheio nas forminhas e tampe com os discos de massa. Dobre a borda sobre a tampa - isso ajuda a selar a tortinha e evita que o recheio vaze. Numa tigela pequena, misture a gema com 1 colher (chá) de água e pincele sobre as tortinhas. Leve ao forno preaquecido para assar por 30 minutos, até dourar. Sirva a seguir.
-- --
 
 ---
 

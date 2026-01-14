@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 105 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de salmão fresco com pele
 - 1 xícara de chá de arroz japonês (250 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Misture em um potinho o açúcar, o sal e o vinagre de arroz até ficar transparente e o açúcar dissolver todo, e despeje por cima do arroz morno. Misture com a colher (chamoji), espalhando os grãos sem amassá-los. Separe até esfriar e prepare a pele do salmão;
 - Para retirar a skin (pele) do salmão, utilize uma faca afiada para desgrudar a pele e ainda deixar algumas lasquinhas de 3 mm grudadas. Tire 2 fileiras de salmão finas, para dar mais sabor e crocância. Isso deixará o temaki ainda mais saboroso;
 - Para fritar, coloque 1 fio generoso de óleo na frigideira no fogo médio e coloque a pele virada para baixo por 1 minuto ou até ficar crocante e dourada;
-- --
 
 ---
 

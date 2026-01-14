@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -58,7 +59,6 @@ flags: []
 - ½ colher (chá) de sal
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola, tempere com uma pitada de sal e refogue por cerca de 2 minutos até murchar. Acrescente a folha de louro, o arroz e mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar o arroz soltinho depois de cozido.
 - Regue o arroz com a água fervente, tempere com o sal, misture bem e aumente o fogo para médio. Não mexa mais. Assim que a água começar a secar e atingir o mesmo nível do arroz, abaixe o fogo e tampe parcialmente a panela. Deixe cozinhar até que o arroz absorva toda a água - para verificar se a água secou, fure os grãos com um garfo até conseguir ver o fundo da panela.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 kg de carne moída (500 gramas)
 - 2 colheres de sopa de farinha de rosca
@@ -37,7 +37,6 @@ flags: []
 - 140 gramas de presunto picado
 - Azeite a gosto (para pincelar)
 - Misture, em uma tigela, os ovos, a carne moída, farinha de rosca, o sal, o suco de limão, o alho e o cheiro-verde. Envolva bem com as mãos;
-- --
 
 ---
 

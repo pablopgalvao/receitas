@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 3/4 de xícara de chá de água (60 ml)
 - 1 pitada de sal (opcional)
 - O dente de alho cozinhará na própria mistura da geleia. Quando ele estiver macio, aperte até que ele se despedace e incorpore bem. Desligue o fogo, prove e adicione uma pitada de sal, se achar necessário;
-- --
 
 ---
 

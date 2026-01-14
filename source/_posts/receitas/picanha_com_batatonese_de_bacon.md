@@ -31,7 +31,6 @@ flags: []
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +43,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - ½ peça de picanha bovina (cerca de 500 g) em bifes
 - Sal grosso a gosto
-
 
 ---
 

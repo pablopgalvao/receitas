@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 coração bovino (1,7kg)
 - 3 colheres de sopa de vinagre
@@ -38,7 +38,6 @@ flags: []
 - 1 e 1/2 colher sopa cheiro-verde a gosto
 - Coloque o óleo na panela e junte o alho com a cebola. Mexa bem até eles ficarem dourados;
 - Coloque a carne picada em cubos e tempere com tempero baiano, colorau e o sal. Misture e acrescente água até quase cobrir;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Manteiga para untar
 - 1/2 lata de leite condensado (198 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Unte uma travessa de vidro (24x20cm) com manteiga e disponha as rodelas de pão uma ao lado da outra. Reserve;
 - No liquidificador, faça a calda! Coloque os ovos, o leite condensado, o leite e a baunilha, se desejar;
 - Misture o açúcar com a canela, depois polvilhe sobre as fatias de pão;
-- --
 
 ---
 

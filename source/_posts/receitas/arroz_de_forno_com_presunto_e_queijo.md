@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz cru (200 gramas)
 - 2 xícaras de chá de água (480 ml)
@@ -40,7 +40,6 @@ flags: []
 - 2/3 de xícara de chá de queijo parmesão ralado (60 gramas)
 - 1/4 de xícara de chá de cheiro-verde picado (15 gramas)
 - Adicione o arroz cru e refogue por 2 minutos, mexendo sempre. Acrescente a água e o sal, ajustando conforme a necessidade;
-- --
 
 ---
 

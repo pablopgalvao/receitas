@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 9 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa panela pequena, coloque os ovos e cubra com água - coloque o ovo para cozinhar na água fria, assim ele não racha. Assim que a água começar a ferver, diminua o fogo e deixe cozinhar por 9 minutos. Enquanto isso, prepare os outros ingredientes.
 - Assim que estiverem cozidos, retire os ovos da panela com uma escumadeira e passe sob água corrente para esfriar. Sobre a tábua, role delicadamente para rachar a casca e descasque os ovos. Transfira para uma tigela e amasse bem com um garfo. Junte a maionese, tempere com sal e misture bem para formar uma pastinha.
-- --
 
 ---
 

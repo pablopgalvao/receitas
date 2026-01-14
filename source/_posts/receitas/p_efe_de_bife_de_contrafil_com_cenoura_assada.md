@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 colher (chá) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande ao fogo alto. Quando aquecer, regue com o azeite e tempere os bifes com sal e pimenta-do-reino a gosto. Coloque os bifes na frigideira e deixe dourar, sem mexer, até que descolem do fundo - isso leva uns 2 minutos. Vire os bifes e deixe dourar por mais 2 minutos.
-- --
 
 ---
 

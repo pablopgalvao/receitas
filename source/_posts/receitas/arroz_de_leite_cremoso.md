@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 ml de água
 - 1 colher de sopa de margarina (ou manteiga)
@@ -38,7 +38,6 @@ flags: []
 - Em uma panela grande, ainda com o fogo desligado, coloque o arroz, a água e metade do leite (500 ml). Acrescente sal a gosto e misture bem;
 - Adicione a margarina ou manteiga, mexendo até derreter completamente;
 - Acrescente os 500 ml restantes do leite e continue mexendo para manter a cremosidade, sem deixar o arroz secar completamente;
-- --
 
 ---
 

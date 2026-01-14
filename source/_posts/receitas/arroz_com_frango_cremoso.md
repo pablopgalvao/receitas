@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de peito de frango (sem osso)
 - 2 colheres de sopa de óleo
@@ -43,7 +43,6 @@ flags: []
 - Em uma panela de pressão, aqueça o óleo e refogue o alho até liberar aroma, sem dourar demais. Adicione o frango picado e mexa até que ele fique completamente esbranquiçado;
 - Tempere com o caldo de galinha esfarelado, pimenta-do-reino, colorau e sal. Misture bem. Acrescente o arroz cru, misture para envolver com os temperos e cubra com água fervente;
 - Ligue o fogo novamente, adicione o creme de leite, o leite e o extrato de tomate. Misture até obter um arroz bem cremoso. Finalize com cheiro-verde picado e ajuste o sal, se necessário. Deixe ferver até atingir a textura desejada;
-- --
 
 ---
 

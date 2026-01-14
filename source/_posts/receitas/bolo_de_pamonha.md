@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - canela em pó a gosto para polvilhar
 - Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga um refratário pequeno (que comporte 1,3 litros). Polvilhe com fubá e chacoalhe bem para enfarinhar. Bata sobre a pia para tirar o excesso.
 - No liquidificador, bata o milho, o leite, o açúcar e a manteiga, até triturar bem os grãos. Acrescente os ovos e bata apenas para misturar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de frango a passarinho
 - 1 e 1/2 colher de chá de páprica doce
@@ -38,7 +38,6 @@ flags: []
 - Azeite a gosto
 - No pilão, ou outro recipiente, adicione a páprica doce, o cominho, o sal e os dentes de alho. Soque todos os ingredientes até que eles virem uma pasta. Depois, acrescente o azeite aos ingredientes e mexa bem;
 - Em seguida, acrescente a farinha de trigo e continue mexendo;
-- --
 
 ---
 

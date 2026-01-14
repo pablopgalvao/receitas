@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa tigela grande, coloque o cuscuz marroquino, junte 2 colheres (sopa) de azeite e tempere com 1 colher (chá) de sal. Regue com a água fervente, misture e tampe com um prato para abafar. Deixe hidratar por 5 minutos. Enquanto isso, prepare o restante dos ingredientes.
 - Leve uma frigideira grande com o óleo ao fogo médio — a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente para cobrir bem o fundo. Forre uma travessa com papel-toalha.
 - Leve uma frigideira antiaderente grande ao fogo médio. Regue com 2 colheres (chá) de azeite, adicione os cubos de queijo e deixe dourar por cerca de 5 minutos. Nos primeiros minutos, deixe o queijo dourar sem mexer, assim ele não derrete. Depois, mexa para dourar todos os lados por igual.
-- --
 
 ---
 

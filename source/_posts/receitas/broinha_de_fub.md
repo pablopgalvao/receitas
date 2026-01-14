@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Desligue o fogo e transfira a massa para a tigela da batedeira. Bata em velocidade baixa, com a raquete, por cerca de 5 minutos, para esfriar — isso evita que os ovos cozinhem ao ser adicionados e a massa desande.
 - Numa tigela pequena, quebre um ovo de cada vez e adicione à massa, batendo bem a cada adição — pare de bater e raspe a lateral da tigela no meio do processo. Depois do último ovo, deixe bater por cerca de 2 minutos, até formar uma massa lisa e brilhante.
 - Com um boleador de sorvete, retire uma porção de massa e transfira para a assadeira (se preferir, modele as broinhas usando 2 colheres de sopa). Repita o processo com toda a massa, deixando um espaço de 3 cm entre cada uma — as broinhas crescem bastante ao assar.
-- --
 
 ---
 

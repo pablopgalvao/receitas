@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Corte o avocado ao meio, no sentido do comprimento. Descarte o caroço e descasque uma das metades com cuidado para manter o formato da fruta. Com uma colher, retire a polpa da outra metade do avocado e transfira para a tábua. Amasse bem com um garfo e tempere com limão, azeite, sal e pimenta a gosto. Reserve.
-- --
 
 ---
 

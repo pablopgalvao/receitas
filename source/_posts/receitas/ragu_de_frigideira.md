@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Volte a primeira leva de carne para a frigideira, tempere com sal e polvilhe com a farinha de trigo. Deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando com uma espátula para desmanchar os pedaços de carne e dourar tudo por igual.
 - Transfira a carne dourada para a tigela novamente e mantenha a frigideira em fogo médio. Regue com o azeite restante, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 2 minutos, até murchar. Junte o alho e a pimenta calabresa e mexa por 1 minuto para perfumar.
 - Acrescente o tomate pelado, tempere com 1 colher (chá) de sal e deixe cozinhar até ferver. Abaixe o fogo, volte a carne para a frigideira e deixe cozinhar por mais 2 minutos, para o molho encorpar levemente.
-- --
 
 ---
 

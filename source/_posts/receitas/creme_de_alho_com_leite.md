@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de chá de leite (200 ml)
 - 450 ml de óleo de soja
 - 1 pitada de sal
 - 1/2 xícara de chá de cebolinha (ou a gosto)
 - No copo do liquidificador, coloque o leite, o alho, a cebolinha e uma pitada de sal;
-- --
 
 ---
 

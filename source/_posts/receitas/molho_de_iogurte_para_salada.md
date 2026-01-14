@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de iogurte natural
 - 1 colher de sopa de suco de limão (ou vinagre)
 - 1 colher de sopa de mostarda
 - Sal, pimenta-do-reino e temperos a gosto (alho em flocos, salsa desidratada...)
 - Por fim, acrescente o sal, a pimenta-do-reino e outros temperos de sua preferência. Misture até incorporar bem;
-- --
 
 ---
 

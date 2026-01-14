@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 1/2 xícara de chá de água para a pamonha (120 ml)
@@ -35,7 +35,6 @@ flags: []
 - Transfira metade do milho para o liquidificador com um pouco de água, cerca de 1/2 xícara de chá. Não coloque água demais, apenas o suficiente para triturar o milho com facilidade. Bata por 3 a 5 minutos. Adicione o restante do milho e bata novamente;
 - Passe esse creme de milho para uma tigela e junte o açúcar. Misture com uma colher até tudo incorporar, formando a massa da pamonha;
 - Para fazer a montagem, pegue uma palha grande e enrole-a um pouco, deixando uma cavidade no centro, onde a massa será colocada. Para que a pamonha não vaze, dobre a metade final da palha para cima e segure firmemente. Adicione a massa com cuidado na cavidade, em colheradas;
-- --
 
 ---
 

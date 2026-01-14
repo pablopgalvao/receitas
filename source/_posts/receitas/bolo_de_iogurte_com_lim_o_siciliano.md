@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 170 gramas de Iogurte natural (1 pote)
 - 80 ml de óleo (1/3 de xícara)
@@ -41,7 +41,6 @@ flags: []
 - Acrescente a farinha de trigo aos poucos e vá misturando até obter uma massa homogênea. Em seguida adicione e incorpore o fermento;
 - Transfira para uma forma untada e enfarinhada de 26 cm de diâmetro e leve ao forno pré-aquecido a 180°C por aproximadamente 40 minutos ou até que esteja assado;
 - Misture bem o açúcar com o suco de limão e despeje sobre o bolo;
-- --
 
 ---
 

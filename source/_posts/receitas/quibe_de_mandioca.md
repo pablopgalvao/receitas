@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 175 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mandioca
 - 1 colher de sopa de margarina (20 gramas)
@@ -45,7 +45,6 @@ flags: []
 - Agora, quebre os ovos em uma tigela e bata levemente com um garfo até que formem uma mistura homogênea;
 - Passe os bolinhos no ovo batido e depois na farinha de rosca;
 - Aqueça o óleo em uma panela média até ficar bem quente. Frite os bolinhos aos poucos até dourarem;
-- --
 
 ---
 

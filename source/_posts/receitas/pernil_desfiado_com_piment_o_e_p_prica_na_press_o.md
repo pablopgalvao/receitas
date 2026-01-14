@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve a panela de pressão (sem a tampa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite e doure os pedaços de pernil em duas etapas, sem amontoar — se colocar todos de uma só vez, a carne vai soltar água e eles vão cozinhar no vapor em vez de dourar. Deixe dourar bem por 3 minutos de cada lado. Transfira para uma tigela e repita o processo com o restante da carne, regando a panela novamente com azeite. Reserve os pedaços dourados na tigela.
 - Mantenha a panela em fogo médio, adicione 1 colher (sopa) de azeite e junte a cebola e o pimentão. Tempere com 1 colher (chá) de sal e refogue até murchar, por cerca de 5 minutos. Junte o alho, a erva-doce e as folhas de louro e mexa por 1 minuto para perfumar.
 - Volte a carne desfiada para a panela com o caldo do cozimento, misture a salsinha picada e sirva a seguir.
-- --
 
 ---
 

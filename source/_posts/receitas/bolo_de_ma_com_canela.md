@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de óleo
 - 2 xícaras de chá de farinha de trigo
@@ -41,7 +41,6 @@ flags: []
 - Em uma tigela, coloque a farinha de trigo, o açúcar, a canela e o sal, e misture até envolver todos os ingredientes;
 - Despeje a massa na forma untada e enfarinhada. Leve para assar no forno preaquecido a 180 °C por cerca de 40 minutos ou até ele dourar;
 - Retire o bolo do forno e deixe amornar. Desenforme, polvilhe açúcar de confeiteiro e sirva este bolo de maçã delicioso. Bom apetite!
-- --
 
 ---
 

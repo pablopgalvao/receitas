@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,19 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - 1 colher (chá) de sal
 - Transfira os pinhões para a panela de pressão elétrica, cubra com 1,5 litro de água e tempere com o sal. Tampe e programe a panela para cozinhar em pressão alta por 40 minutos.
-- --
 
 ---
 

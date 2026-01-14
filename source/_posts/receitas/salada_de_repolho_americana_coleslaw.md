@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - 2 colheres (chá) de sal
 - Corte o repolho ao meio e, com um fatiador de legumes (ou mandolim), corte as metades em fatias finas. Transfira para um escorredor e lave bem sob água corrente. Coloque o escorredor sobre uma tigela, tempere o repolho com o sal, o açúcar e misture bem. Deixe descansar por 10 minutos enquanto separa o restante dos ingredientes – assim o repolho libera o excesso de água e fica mais macio.
 - Passados os 10 minutos, pressione o repolho com as mãos para escorrer bem e junte à cenoura. Acrescente a maionese, o vinagre, as uvas-passas e misture bem. Prove e, se necessário, tempere com mais sal. Sirva a seguir.
-- --
 
 ---
 

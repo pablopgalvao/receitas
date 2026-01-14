@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Numa tigela grande, coloque o cuscuz marroquino e tempere com o sal e o azeite.
 - Enquanto isso, lave, seque e pique fino a salsinha. Pique grosseiramente a castanha-de-caju. Escorra a lata de grão-de-bico.
 - Após os 5 minutos, solte o cuscuz com um garfo — mesmo que você não vá servir na hora, solte os grãos, caso contrário o cuscuz vai grudar. Junte o grão-de-bico, a castanha e a salsinha e misture delicadamente. Sirva a seguir.
-- --
 
 ---
 

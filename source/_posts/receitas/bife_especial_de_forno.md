@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de bife
 - Sal, pimenta-do-reino, orégano e cominho a gosto
@@ -38,7 +38,6 @@ flags: []
 - Em uma frigideira grande, derreta 2 colheres de manteiga e frite os bifes. Cuidado para a carne não passar do ponto, pois ela ainda vai para o forno;
 - Reserve os bifes e, na mesma frigideira, coloque o restante da manteiga, o creme de leite, o caldo de carne e misture bem até formar um molho homogêneo;
 - Acrescente as fatias de mussarela por cima, as rodelas de tomate, salpique orégano e leve ao forno preaquecido a 180 ºC por cerca de 20 minutos;
-- --
 
 ---
 

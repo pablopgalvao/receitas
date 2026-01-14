@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Coloque o cuscuz marroquino numa tigela grande, junte 2 colheres (sopa) de azeite e tempere com ½ colher (chá) de sal. Regue com a água fervente, misture e tampe com um prato. Deixe abafado por 5 minutos.
 - Leve uma frigideira ao fogo médio para aquecer. Regue com o azeite restante, junte a cebola e tempere com uma pitada de sal. Refogue por cerca de 2 minutos até murchar, acrescente as alcaparras, as amêndoas e mexa por mais 1 minuto. Desligue o fogo e misture as raspas de limão.
 - Solte o cuscuz marroquino com um garfo, junte o refogado, tempere com pimenta-do-reino a gosto e misture delicadamente. Sirva a seguir.
-- --
 
 ---
 

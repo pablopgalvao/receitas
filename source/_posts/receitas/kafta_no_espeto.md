@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída (alcatra ou patinho)
 - 2 colheres de sopa de salsinha
@@ -35,7 +35,6 @@ flags: []
 - 1/2 colher de sopa de sal (ou a gosto)
 - Comece descascando a cebola e cortando em cubos pequenos. Pique a salsinha finamente e corte o limão ao meio. Organize todos os ingredientes em sua bancada;
 - Em uma tigela, coloque a carne moída, a cebola picada, a salsinha, o suco de limão, a pimenta-síria e o sal;
-- --
 
 ---
 

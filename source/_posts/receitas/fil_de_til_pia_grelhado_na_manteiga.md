@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 Filés de tilápia (500 gramas)
 - 1/2 colher de chá de sal de parrilla ou sal grosso (ou a gosto)
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa de manteiga
 - Em uma forma, disponha os filés e tempere com o sal e o lemon pepper. Espalhe bem com as mãos dos dois lados e reserve por 20 minutos;
 - Aqueça uma frigideira antiaderente com azeite e manteiga. Aguarde a manteiga derreter por completo;
-- --
 
 ---
 

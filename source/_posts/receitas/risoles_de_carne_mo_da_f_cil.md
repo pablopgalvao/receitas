@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml de leite
 - 200 ml de água
@@ -53,7 +53,6 @@ flags: []
 - Para empanar, quebre os ovos em um recipiente, adicione a água e o sal, e misture com um garfo. Coloque a farinha de rosca em um outro recipiente;
 - Empane os risoles passando primeiramente na mistura de ovos e, em seguida, na farinha de rosca, apertando levemente para grudar bem;
 - Leve uma panela com óleo ao fogo médio até esquentar bem. Depois, frite os risoles aos poucos até dourarem. Coloque poucos risoles ao mesmo tempo para que o óleo não perca temperatura;
-- --
 
 ---
 

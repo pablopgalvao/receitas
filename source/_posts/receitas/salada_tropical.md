@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de azeite
 - 1 colher de sopa de mel
@@ -37,7 +37,6 @@ flags: []
 - Reúna todos os ingredientes da salada tropical;
 - Em uma vasilha, coloque o azeite, o mel, o aceto e tempere com sal e pimenta;
 - Sirva sua salada bem fresca e aproveite!
-- --
 
 ---
 

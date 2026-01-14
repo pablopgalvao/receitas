@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 3 xícaras (chá) de água
 - gergelim branco a gosto para servir
 - Desligue o fogo, tampe a panela e deixe o arroz terminar de cozinhar no próprio vapor por mais 5 minutos. Na hora de servir, salpique com gergelim branco. Ele é perfeito para acompanhar preparos orientais.
-- --
 
 ---
 

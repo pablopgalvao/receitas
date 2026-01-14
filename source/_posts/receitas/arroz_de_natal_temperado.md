@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/4 de xícara de chá de bacon (50 gramas)
 - 2 colheres de sopa de azeite (25 ml)
@@ -51,7 +51,6 @@ flags: []
 - Tempere com o sal e a pimenta-do-reino. Misture mais uma vez para homogeneizar o sabor;
 - Por fim, adicione a batata palha e a salsinha picada. Mexa delicadamente e desligue o fogo;
 - Sirva o arroz quente, diretamente da panela ou em um refratário bonito, decorando com mais salsinha por cima, se desejar.
-- --
 
 ---
 

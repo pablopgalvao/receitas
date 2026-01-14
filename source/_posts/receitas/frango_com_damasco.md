@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Preaqueça o forno a 250 ºC (temperatura alta). Numa tigela, misture a geleia com a páprica e o gengibre e tempere com um pouco de sal.
 - No refratário, junte os damascos, regue com a água e o vinho e tempere com sal e pimenta-do-reino. Leve ao forno para assar por 20 minutos. Após esse tempo, abaixe a temperatura para 180 ºC (temperatura média) e deixe assar por mais 40 minutos, até que as coxas estejam bem douradas e cozidas. Na hora de servir, regue com o molhinho que se formou no refratário.
-- --
 
 ---
 

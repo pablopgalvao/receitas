@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - Bife à milanesa com salada de batatas e repolho agridoce
 - Transfira os cubos de pão em etapas para o liquidificador (ou processador de alimentos) e bata no modo pulsar até formar uma farinha (mais fina ou mais grossa, de acordo com sua preferência).
 - A farinha de rosca caseira pode ser armazenada num pote com fechamento hermético por até 3 meses.
-- --
 
 ---
 

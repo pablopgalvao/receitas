@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mandioca cozida e amassada
 - 1 xícara de chá de leite (240 ml)
@@ -44,7 +44,6 @@ flags: []
 - Para a montagem, unte um refratário com 2 colheres de sopa de azeite. Faça uma primeira camada de purê, usando metade do preparo. Espalhe bem por toda a superfície, nivelando com uma colher ou espátula;
 - Agora, faça uma camada com todo o recheio de carne seca dessalgada. Espalhe muito bem também;
 - Finalize com o restante do purê reservado e salpique parmesão ralado para um toque gratinado e douradinho;
-- --
 
 ---
 

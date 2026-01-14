@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ¼ de xícara (chá) de amêndoa tostada e picada
 - Transfira os rabanetes para o centro de uma assadeira grande. Tempere com ½ colher (sopa) de azeite, sal e pimenta a gosto. Misture bem com as mãos e distribua os pedaços pela assadeira, com a parte cortada para baixo.
 - Num pote de vidro com tampa, coloque o balsâmico, o mel e o azeite restante. Tempere com uma pitada de sal, tampe e chacoalhe bem para misturar. Reserve.
-- --
 
 ---
 

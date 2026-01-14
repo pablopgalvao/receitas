@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Descasque, corte a cebola em pedaços grandes e transfira para o processador. Tempere com a pimenta síria, o sal, 2 colheres (sopa) de azeite e bata até triturar bem. Acrescente a hortelã, as raspas e o caldo de limão e bata novamente.
 - Com as mãos úmidas, espalhe metade da massa do quibe no refratário untado, pressionando delicadamente com as mãos até cobrir todo o fundo e formar uma base uniforme. Com uma colher, distribua o recheio sobre a base do quibe.
 - Com uma faca pequena, corte o quibe ainda cru na travessa formando losangos. Regue com 3 colheres (sopa) de azeite e leve ao forno por cerca de 25 minutos, até assar por igual e começar a descolar das bordas. Sirva a seguir, acompanhado de salada fatuche. O quibe, que pode ser servido quente ou frio, também fica uma delícia com folhas de hortelã, uma colherada de coalhada ou iogurte cremoso, molho de tahine ou salada de iogurte com pepino.
-- --
 
 ---
 

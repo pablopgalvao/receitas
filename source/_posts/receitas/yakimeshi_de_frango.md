@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de arroz cozido
 - 225 gramas de filé de peito de frango
@@ -40,7 +40,6 @@ flags: []
 - Quebre os ovos e despeje na panela com alho e cebola. Adicione sal e pimenta-do-reino, ajustando conforme sua preferência;
 - Mexa até que os ovos fiquem bem cozidos e incorporados;
 - Finalize com mais cebolinha picada se quiser, e pronto! Sirva ainda quente, acompanhado de uma saladinha ou outro acompanhamento de sua preferência.
-- --
 
 ---
 

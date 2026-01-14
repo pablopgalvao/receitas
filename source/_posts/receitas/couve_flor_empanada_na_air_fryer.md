@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 37 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 couve-flor média (430 gramas)
 - 1 xícara de chá de farinha de trigo (140 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Para essa receita, deixe a salsinha já picada e a couve-flor cortada em floretes médios. A água precisa estar bem gelada e a air fryer preaquecida a 200 °C;
 - Em uma tigela, misture a farinha de trigo, o parmesão, a páprica, o alho em pó, a salsinha, o sal e a pimenta-do-reino;
 - Passe os floretes de couve-flor pela massa, garantindo que fiquem bem cobertos por ela e as disponha na cesta da air fryer, forrada com papel manteiga;
-- --
 
 ---
 

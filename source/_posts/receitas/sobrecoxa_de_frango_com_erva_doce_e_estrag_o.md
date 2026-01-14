@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Tempere as sobrecoxas com 1 colher (chá) de sal e pimenta-do-reino a gosto – cuidado para não soltar a pele do frango. Leve ao fogo médio uma caçarola baixa, de 28 cm e que possa ir ao forno.
 - Mantenha a panela em fogo médio e disponha as fatias de erva-doce uma ao lado da outra – nem precisa de azeite, elas vão dourar na gordura do frango. Tempere com uma pitada de sal e doure por cerca de 2 minutos. Vire com uma pinça e doure o outro lado por mais 1 minuto.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Lave, seque e coloque os pimentões inteiros no cesto da Air Fryer. Feche a gaveta e deixe assar pelo tempo programado. Na metade do tempo, vire os pimentões com uma pinça para a pele tostar de maneira uniforme.
 - Enquanto os pimentões assam, descasque e corte a cebola em tiras finas. Transfira a cebola para uma tigela e deixe imersa em água, gelo e ½ colher (sopa) de vinagre — assim ela fica com o sabor menos ardido.
 - Escorra a água e transfira a cebola fatiada para uma tigela grande. Passe o feijão branco por uma peneira e junte à cebola. Adicione os pimentões cortados, o molho, a salsinha picada e as nozes. Misture delicadamente, prove e ajuste o sal. Sirva a seguir ou mantenha na geladeira até a hora de servir — a salada fica ainda mais gostosa depois de marinar por 20 minutos na geladeira.
-- --
 
 ---
 

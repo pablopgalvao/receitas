@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - No pilão, dê uma leve batida nos dentes de alho para tirar a casca. Junte 1 colher (chá) de sal, o cominho e bata até formar uma pastinha. Adicione a páprica, tempere com pimenta a gosto, junte a manteiga e misture bem (se o seu pilão for pequeno, transfira para uma tigela).
 - Com a faca (ou uma espátula pequena), espalhe a manteiga temperada nas partes cortadas de cada gomo.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 3 colheres (sopa) de vinagre de vinho branco
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, misture todos os ingredientes e tempere com sal e pimenta-do-reino moída na hora a gosto. Mantenha na geladeira até a hora de servir.
-- --
 
 ---
 

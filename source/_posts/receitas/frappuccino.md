@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml de café
 - 250 ml de leite
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de sopa de chocolate em pó
 - Faça um café coado que resulte em 250 ml de líquido;
 - Coloque os cubinhos congelados de café no liquidificador, o leite, o açúcar e o chocolate em pó e bata bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de coxinha de frango
 - 250 gramas de sobrecoxa desossada
@@ -43,7 +43,6 @@ flags: []
 - Acrescente o leite e mexa bem novamente, para que tudo fique bem incorporado. Tempere com sal, orégano e Sazon novamente;
 - Passe o frango na mistura de ovos, envolva bem com a farinha de trigo e, por fim, empane na farinha de rosca. Repita esse processo duas vezes e com todos os pedaços;
 - Em uma panela média, aqueça óleo o suficiente para cobrir parcialmente os frangos. É importante que o óleo não esteja nem muito frio nem muito quente, para não ficar cru por dentro;
-- --
 
 ---
 

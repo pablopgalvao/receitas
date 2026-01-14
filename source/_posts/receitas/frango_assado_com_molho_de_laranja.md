@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - sal a gosto
 - Leve uma panela pequena ao fogo baixo. Regue com o azeite, adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 10 minutos, até dourar. Adicione o alho, o pescoço do frango e as folhas de sálvia. Deixe dourar por mais 3 minutos, mexendo de vez em quando.
 - Volte a panela ao fogo médio (nem precisa lavar), coloque a manteiga e deixe derreter. Adicione a farinha de trigo e mexa bem por 1 minuto. Acrescente o caldo coado com o líquido da assadeira, mexendo bem com um batedor de arame para dissolver os gruminhos de farinha.
-- --
 
 ---
 

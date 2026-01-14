@@ -34,7 +34,6 @@ flags: []
 - **Rendimento:** 6 porções
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +47,6 @@ flags: []
 - 3 pimentas-de-cheiro
 - 2 maços de jambu
 - 2 litros de tucupi
-
 
 ---
 

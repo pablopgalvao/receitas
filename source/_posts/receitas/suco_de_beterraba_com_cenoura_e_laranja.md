@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 2 e 1/3 xícara de chá de água (500 ml)
 - 2 colheres de sopa de açúcar
 - Adoce com açúcar, mel ou o adoçante de sua escolha e mexa bem para dissolver completamente. Se preferir um suco mais leve, coe utilizando uma peneira fina. Caso queira consumir com mais fibras, sirva sem coar;
-- --
 
 ---
 

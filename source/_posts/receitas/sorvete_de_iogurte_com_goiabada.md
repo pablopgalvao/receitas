@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ¾ de xícara (chá) de goiabada cremosa
 - 1½ colher (sopa) de água filtrada
 - Adicione a goiabada ao sorvete, de colher em colher. Com a ponta da espátula de silicone, faça movimentos em diferentes direções para mesclar a goiabada na massa do sorvete — cuidado para não misturar demais, a ideia é fazer um sorvete mesclado e não cor-de-rosa.
-- --
 
 ---
 

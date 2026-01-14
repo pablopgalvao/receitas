@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal a gosto
 - Páprica a gosto
@@ -38,7 +38,6 @@ flags: []
 - 800 ml de água para cozinhar
 - Aqueça um fio de azeite na panela de pressão. Adicione o frango em cubos e tempere com sal, páprica e açafrão. Refogue até dourar bem os pedaços;
 - Ajuste o sal se necessário. Desligue o fogo e finalize com a cebolinha picada para um toque de frescor. E pronto! Uma canja cremosa, nutritiva e reconfortante.
-- --
 
 ---
 

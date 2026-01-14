@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - sal a gosto
 - Passe um papel toalha na frigideira utilizada para refogar os cogumelos apenas para tirar o excesso de azeite (não precisa lavar). Coloque 2 ½ xícaras (chá) de água na frigideira e volte ao fogo médio.
 - Desligue o fogo, junte a manteiga, o queijo parmesão, as folhas de espinafre e misture bem – o espinafre vai cozinhar no calor da polenta. Por último, misture as castanhas picadas e as raspas de limão. Sirva a seguir com os cogumelos refogados.
-- --
 
 ---
 

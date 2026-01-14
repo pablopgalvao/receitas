@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de manteiga
 - ¼ de xícara (chá) de rum ou licor de laranja
 - Coloque a manteiga numa frigideira média e leve ao fogo médio para derreter. Quando começar a espumar, junte os morangos cortados, polvilhe com o açúcar e deixe cozinhar por cerca de 2 minutos, mexendo de vez em quando até o açúcar derreter.
-- --
 
 ---
 

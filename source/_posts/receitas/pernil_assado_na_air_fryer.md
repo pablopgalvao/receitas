@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peça de pernil (1 kg)
 - 1 colher de sopa de sal
 - 1 colher de chá de alho em pó
 - 2 colheres de sopa de azeite
 - Comece temperando muito bem a peça de pernil com sal dos dois lados; Reserve 1 colher de chá do sal para usar nas batatas;
-- --
 
 ---
 

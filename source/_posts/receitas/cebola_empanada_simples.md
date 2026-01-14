@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 109 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite (250 ml)
 - 1 xícara de chá de farinha de trigo (140 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Passe cada anel de cebola no leite, depois na farinha de trigo temperada, retire o excesso e volte ao leite;
 - Em seguida, empane na farinha de rosca, dê leves batidinhas e repita o processo no leite e novamente na farinha de rosca, para formar uma camada dupla bem crocante;
 - Aqueça o óleo em fogo alto, reduza para o médio e frite os anéis de cebola até dourarem e ficarem crocantes;
-- --
 
 ---
 

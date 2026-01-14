@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Tempere os filezinhos de sassami com o sal, o cominho, as raspas de limão e pimenta-do-reino moída na hora a gosto.
 - Numa tigela, misture bem a farinha de rosca com o azeite — isso deixa a crostinha de frango mais crocante e dourada. Transfira para um prato raso.
 - Numa tigela média, coloque o ovo, o iogurte, a farinha de trigo, tempere com uma pitada de sal e misture bem com o batedor de arame.
-- --
 
 ---
 

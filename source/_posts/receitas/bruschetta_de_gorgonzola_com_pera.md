@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga
 - 1 colher de sopa de azeite
@@ -35,7 +35,6 @@ flags: []
 - 80 gramas de queijo gorgonzola (4 colheres de sopa depois de esmigalhado)
 - 1/3 de xícara de chá de nozes
 - Em uma frigideira em fogo médio, adicione a manteiga e, assim que derreter, despeje as lâminas de pera. Deixe dourar por 15 minutos e reserve;
-- --
 
 ---
 

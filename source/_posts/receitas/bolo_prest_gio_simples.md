@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 117 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de manteiga (100 gramas)
 - 1/2 xícara de chá de açúcar (90 gramas)
@@ -46,7 +46,6 @@ flags: []
 - Acrescente os ovos inteiros e bata novamente até incorporar;
 - Coloque aos poucos o chocolate em pó e a farinha de trigo peneirados, incorporando até obter uma massa homogênea;
 - Despeje a massa sobre o recheio na forma, com cuidado, colocando aos poucos, com o auxílio de uma colher ou espátula, para não afundar. Alise a superfície para ficar bem nivelado;
-- --
 
 ---
 

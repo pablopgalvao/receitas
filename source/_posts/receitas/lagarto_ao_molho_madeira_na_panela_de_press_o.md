@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de lagarto bovino
 - 3 colheres azeite
@@ -48,7 +48,6 @@ flags: []
 - Retire a carne e reserve até esfriar completamente para facilitar o corte. Coe o caldo do cozimento para eliminar resíduos sólidos e reserve 500 ml para o molho;
 - Para preparar o molho, em outra panela, derreta a manteiga e refogue os dois dentes de alho picados;
 - Acrescente o vinho tinto e mexa sem parar até o molho engrossar. Ajuste o sal e adicione o champignon escorrido;
-- --
 
 ---
 

@@ -41,7 +41,6 @@ flags: []
 - **Rendimento:** 20 Porções
 - **Tempo de preparo:** 2 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -58,7 +57,6 @@ flags: []
 - 1 cebola normal grande
 - 5 g de louro em pó ou 5 folhas secas
 - Sal e pimenta a gosto
-
 
 ---
 

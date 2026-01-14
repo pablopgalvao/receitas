@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 60 ml de vodka
 - 30 ml de Curaçau Blue
@@ -35,7 +35,6 @@ flags: []
 - Gelo a gosto
 - Encha um copo alto com bastante gelo e adicione cerca de 150 ml do chá gelado preparado anteriormente;
 - Usando uma colher bailarina (ou de bar) encostada na parede interna do copo, despeje lentamente a mistura azul sobre o chá;
-- --
 
 ---
 

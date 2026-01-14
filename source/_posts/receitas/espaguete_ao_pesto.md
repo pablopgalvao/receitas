@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - farofinha de pão a gosto para servir
 - Leve uma panela média com cerca de 2 litros de água ao fogo alto. Quando ferver misture 2 colheres (chá) de sal e cozinhe o macarrão pelo tempo indicado na embalagem ou até ficar al dente.
 - Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento, escorra o espaguete e transfira para uma tigela. Junte o molho pesto ao macarrão e misture delicadamente. Vá regando aos poucos com a água reservada para deixar o molho mais fluido. Sirva a seguir com farofinha de pão a gosto.
-- --
 
 ---
 

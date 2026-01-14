@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Descarte as folhas e a base grossa do talo e corte a couve-flor em floretes médios com cerca de 4 cm. Transfira para uma tigela, cubra com água e lave bem. Seque os floretes numa centrífuga para salada — quanto mais sequinhos estiverem, melhor para dourar na Air Fryer.
 - No pilão, dê uma leve batida no alho para descascar. Junte o sal, as sementes de coentro e bata bem até desmanchar o alho. Adicione o azeite, o mel, o extrato de tomate, a páprica, tempere com pimenta a gosto e misture bem (se o seu pilão for pequeno, misture os ingredientes numa tigela grande, onde for temperar a couve-flor).
-- --
 
 ---
 

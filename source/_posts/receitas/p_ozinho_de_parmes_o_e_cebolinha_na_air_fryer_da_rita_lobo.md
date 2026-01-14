@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Polvilhe a bancada com um pouco de farinha. Com o rolo, abra a massa até formar um retângulo de cerca de 50 cm x 30 cm — polvilhe levemente a massa com farinha para não grudar.
 - Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 180 ºC e programe para assar por 25 minutos — os pães vão assar em levas de cerca de 7 minutos. Numa tigela pequena, quebre o ovo e misture bem com 1 colher (chá) de água. Em outra tigela, misture o restante do parmesão com o gergelim.
 - Pincele os pães com a mistura de ovo e água e polvilhe com o parmesão e gergelim. Coloque 6 pães no cesto da Air Fryer (ou quantos couberem, um ao lado do outro sem amontoar) e deixe assar por cerca de 7 minutos, ou até dourar. Sirva a seguir.
-- --
 
 ---
 

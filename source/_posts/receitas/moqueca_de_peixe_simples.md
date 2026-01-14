@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 filés de robalo grandes (cerca de 1,5 kg)
 - 1/2 xícara de coentro picado
@@ -40,7 +40,6 @@ flags: []
 - Coloque os pedaços de peixe em uma tigela e tempere com limão e 1 colher de sopa de sal. Adicione-os na panela sobre os vegetais com a pele virada para baixo;
 - Acomode os ingredientes cortados sobre o peixe e adicione o leite de coco. Coloque o azeite de dendê e um raminho de coentro. Com uma colher, dê uma leve apertadinha na superfície e espere a mistura ferver;
 - Destampe a panela e acerte o sal se necessário. Desligue o fogo, pique o restante do coentro e adicione na panela;
-- --
 
 ---
 

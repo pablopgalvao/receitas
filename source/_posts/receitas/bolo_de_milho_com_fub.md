@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos médios
 - 1 xícara de chá de açúcar refinado
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de fermento químico em pó (fermento para bolo)
 - Coloque no liquidificador os ovos e o açúcar. Bata até misturar bem (cerca de 2 minutos);
 - Adicione o milho, o leite, o óleo e o sal. Bata por mais 2 minutos;
-- --
 
 ---
 

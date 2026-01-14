@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne bovina (coxão mole ou acém)
 - 2 colheres de sopa de óleo
@@ -39,7 +39,6 @@ flags: []
 - Cheiro-verde a gosto
 - Sal a gosto
 - Em uma panela de pressão, aqueça o óleo e adicione a carne. Mexa bem e tempere com colorau, pimenta-do-reino, sal e curry. Deixe refogar por alguns minutos até dourar levemente;
-- --
 
 ---
 

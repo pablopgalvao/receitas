@@ -2,7 +2,7 @@
 title: Queijo cottage
 date: 2025-09-22T00:00:00.000Z
 categories:
-  Light / saudáveis
+  - Light / saudáveis
 tags:
   - Novidades populares
 ingredients:
@@ -26,7 +26,6 @@ flags: []
 - **Rendimento:** 50 porções
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +33,6 @@ flags: []
 - 1 litro de leite integral (tipo A)
 - 1/4 de xícara de chá de suco de limão coado
 - sal a gosto
-
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - azeite (ou óleo)
 - Com uma colher, quebre a polenta em pedaços — vá tirando a polenta endurecida do recipiente às colheradas mesmo; quanto mais rústico o corte, melhor, assim os pedaços ficam com pontinhas, que vão deixar a polenta ainda mais crocante.
 - Com um pincel, espalhe azeite (ou óleo) sobre os pedaços de polenta. Abra a gaveta e espalhe azeite também no cesto da Air Fryer. Coloque metade dos pedaços de polenta, um ao lado do outro, deixando espaço entre cada um — assim o ar circula melhor e eles ficam mais crocantes. Deixe assar por 15 minutos — nem precisa virar na metade do tempo.
-- --
 
 ---
 

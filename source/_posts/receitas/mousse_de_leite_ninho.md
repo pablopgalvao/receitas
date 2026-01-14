@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícaras de chá de leite Ninho em pó
 - 400 ml de leite morno
 - 5 colheres de sopa de água
 - Em um recipiente, hidrate a gelatina incolor com as 5 colheres de sopa de água e leve ao micro-ondas por 15 segundos para derreter;
-- --
 
 ---
 

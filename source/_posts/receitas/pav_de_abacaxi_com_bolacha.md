@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de leite condensado (395 gramas)
 - 2 caixas de creme de leite (400 gramas)
@@ -37,7 +37,6 @@ flags: []
 - 1 xícara de chá de açúcar
 - Descasque o abacaxi, pique em cubos não muito pequenos e ferva em água com açúcar por 20 minutos. Escorra e reserve. Caso prefira, use o abacaxi em calda, sem a necessidade de ferver;
 - Para decorar, polvilhe coco ralado por cima a gosto;
-- --
 
 ---
 

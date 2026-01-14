@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga
@@ -38,7 +38,6 @@ flags: []
 - Transfira o brigadeiro para um refratário untado com manteiga e cubra com plástico-filme. Para não criar uma casquinha cristalizada, toda a parte visível da massa precisa estar envolvida no plástico. Espere esfriar;
 - Com o brigadeiro já frio, unte as mãos com um pouco de manteiga, pegue uma porção do brigadeiro e molde em formato de bolinha. Passe no granulado e acomode na forminha. Repita o processo com o restante da massa;
 - Está pronto! Pode guardar na geladeira por até 3 dias ou servir imediatamente. Se preferir, coloque em copinhos plásticos, enfeite com granulado e sirva brigadeiro de colher. Aproveite!
-- --
 
 ---
 

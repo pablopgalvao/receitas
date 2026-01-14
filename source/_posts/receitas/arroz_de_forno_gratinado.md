@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Enquanto isso, prepare as abobrinhas. Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com o azeite e disponha os pedaços de abobrinha, um ao lado do outro, com a parte cortada para baixo. Deixe dourar por cerca de 2 minutos e vire com uma pinça, para dourar o outro lado por igual. Transfira para a tábua, tempere com uma pitada de sal e corte a abobrinha em fatias rústicas de 3 cm, com cortes diagonais.
 - Acrescente o arroz cozido ao molho bechamel com alho-poró, junte o frango e ¾ de xícara (chá) do queijo parmesão ralado. Misture bem e transfira para os refratários untados. Disponha os pedaços de abobrinha em cada refratário, aperte para que afundem no arroz com fiquem com algumas pontinhas para fora.
 - Numa tigela pequena, misture a farinha de rosca com o restante do queijo ralado. Polvilhe a mistura sobre o arroz de cada refratário e leve ao forno para assar por cerca de 25 minutos até dourar. Sirva com molho de pimentão.
-- --
 
 ---
 

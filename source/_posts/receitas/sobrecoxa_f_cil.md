@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de mel
 - 6 colheres de sopa de mostarda
@@ -40,7 +40,6 @@ flags: []
 - Tempere as sobrecoxas com sal e pimenta-do-reino. Despeje também o amido de milho e misture com as mãos, envolvendo bem todos os lados;
 - Em uma frigideira grande, derreta a manteiga em fogo médio;
 - Finalize com salsinha e sirva ainda quentinho!
-- --
 
 ---
 

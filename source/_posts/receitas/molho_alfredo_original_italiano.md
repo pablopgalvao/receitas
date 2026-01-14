@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa bem cheia de manteiga (25 gramas)
 - 500 gramas de creme de leite fresco
@@ -38,7 +38,6 @@ flags: []
 - Em uma panela média e limpa, derreta a manteiga em fogo médio;
 - Adicione o alho em pó, uma pitada de sal e pimenta-do-reino a gosto;
 - Continue mexendo até o molho começar a engrossar levemente. Prove e ajuste o sal, se necessário. Assim que atingir a consistência cremosa, desligue o fogo e mantenha aquecido até a hora de servir;
-- --
 
 ---
 

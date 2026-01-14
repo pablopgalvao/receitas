@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de azeite
 - 1 colher de sopa de queijo parmesão ralado
 - 1/2 caixa de creme de leite (100 ml)
 - Agora é só temperar sua salada ou armazenar em um pote hermético na geladeira. Bom apetite!
-- --
 
 ---
 

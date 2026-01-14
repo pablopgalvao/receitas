@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ colher (sopa) de gengibre ralado
 - 2 colheres (chá) de sal
 - Coloque todos os ingredientes picados numa panela média. Acrescente a uva-passa, o gengibre ralado, o vinagre, o açúcar, o sal e a canela em rama. Misture e leve ao fogo médio.
-- --
 
 ---
 

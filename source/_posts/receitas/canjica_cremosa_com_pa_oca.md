@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de canjica (500 gramas)
 - 1 xícara de chá de açúcar (180 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Leite em pó (50 gramas)
 - Escorra a água do remolho e transfira a canjica para a panela de pressão. Adicione as 8 xícaras de água;
 - Transfira a canjica com a água do cozimento para uma panela maior. Essa água deve ser aproveitada, pois ajuda a engrossar o doce. Acrescente o leite, o açúcar, os cravos-da-índia e a canela em pau. Misture bem e deixe ferver em fogo médio, mexendo de vez em quando para não grudar;
-- --
 
 ---
 

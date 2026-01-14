@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de coxinha da asa (13 unidades)
 - 1 colher de sopa de mostarda
@@ -35,7 +35,6 @@ flags: []
 - Sal a gosto
 - Páprica defumada a gosto
 - Coloque o frango em um prato fundo ou tigela e misture com a mostarda, o iogurte, o sal, a páprica e o alho triturado. Utilize uma colher ou as próprias mãos para espalhar tudo muito bem;
-- --
 
 ---
 

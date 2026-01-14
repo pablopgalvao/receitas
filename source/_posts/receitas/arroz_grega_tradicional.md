@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz agulhinha cru
 - 1/2 xícara de chá de pimentão vermelho médio picado
@@ -37,7 +37,6 @@ flags: []
 - 4 xícaras de chá de água
 - 3 colheres de sopa de cheiro-verde picado
 - Coloque a água e o sal. Misture bem e tampe a panela. Deixe o arroz à grega cozinhar em fogo médio por 20 minutos, ou até secar a água;
-- --
 
 ---
 

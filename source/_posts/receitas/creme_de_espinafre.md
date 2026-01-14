@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Leve uma panela média com a manteiga ao fogo baixo. Quando derreter, junte a farinha e mexa bem por 2 minutos, até ficar levemente dourada.
 - Adicione o leite gelado de uma só vez e mexa vigorosamente com um batedor de arame para não empelotar. Quando a mistura de farinha dissolver, aumente o fogo para médio. Tempere com noz-moscada e cozinhe, sem parar de mexer, até engrossar (cerca de 10 minutos).
 - Acrescente o espinafre congelado e mexa para que os cubos derretam e o creme fique uniforme. Tempere com sal a gosto.
-- --
 
 ---
 

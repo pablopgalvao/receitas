@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Corte o acém em cubos de cerca de 3 cm e tempere com o cominho, o colorau, a canela, 1 colher (chá) de sal e pimenta-do-reino a gosto. Numa chaleira, leve um pouco mais de 1 xícara (chá) de água ao fogo médio para ferver.
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, adicione a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Junte o alho, o extrato de tomate e as folhas de louro e mexa por 1 minuto. Acrescente 1 colher (sopa) de azeite e a farinha e mexa bem por mais 2 minutos.
 - Regue com o vinagre e 1 xícara (chá) de água fervente. Tempere com mais 1 colher (chá) de sal, junte a carne e misture delicadamente. Tampe a panela e aumente o fogo. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos. Enquanto isso, prepare os demais ingredientes.
-- --
 
 ---
 

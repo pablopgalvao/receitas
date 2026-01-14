@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 6 talos de salsão
 - Lave e seque a cenoura, o salsão, o pimentão e os rabanetes. Corte a base do bulbo da erva-doce, separe os talos e lave bem sob água corrente.
 - Descasque, descarte as pontas e corte a cenoura ao meio, no sentido da largura. Corte cada metade em fatias e as fatias em tiras de 1,5 cm de espessura. Descarte as folhas, lave e seque bem os talos de salsão. Corte cada talo em 4 pedaços – assim os crudités ficam do mesmo tamanho – e cada pedaço em tiras de cerca de 1,5 cm de espessura.
-- --
 
 ---
 

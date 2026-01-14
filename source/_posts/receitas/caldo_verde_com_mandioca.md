@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de mandioca descascada
 - 500 ml de água para o caldo
@@ -37,7 +37,6 @@ flags: []
 - 1 colher de sopa rasa de sal (ou a gosto)
 - Leve uma panela grande no fogo médio e despeje um fio de óleo. Adicione a calabresa e frite até dourar, mexendo às vezes, por aproximadamente 4 minutos;
 - Adicione o creme de mandioca, a mandioca picada, água para o caldo e tempere com colorau e sal. Mexa com uma colher para espalhar bem os temperos. Cozinhe por 10 minutos sem tampar;
-- --
 
 ---
 

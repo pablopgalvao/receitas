@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 180 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de polenta instantânea
 - Sal a gosto
@@ -44,7 +44,6 @@ flags: []
 - Passe os pedaços de polenta na farinha de trigo, cobrindo bem todos os lados;
 - Aqueça o óleo em uma panela funda e frite os pedaços de polenta por aproximadamente 5 minutos, ou até ficarem dourados e crocantes por fora;
 - Com a polenta ainda quente, salpique parmesão ralado por cima para derreter levemente. Sirva em seguida com um molho de sua preferência!
-- --
 
 ---
 

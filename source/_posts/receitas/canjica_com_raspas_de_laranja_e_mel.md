@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - mel a gosto para servir
 - amendoim torrado sem casca e picado a gosto para servir
 - Numa tigela, coloque a canjica e cubra com 3 xícaras (chá) de água. Tampe com um prato e deixe de molho em temperatura ambiente por 12 horas – o demolho amolece o milho e retira o excesso de amido.
-- --
 
 ---
 

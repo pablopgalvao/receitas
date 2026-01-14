@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água
 - 100 ml de suco de uva integral
 - 1 colher de chá de hibisco seco ou pétalas de rosa comestíveis
 - Mel ou pasta de tâmaras a gosto (opcional)
 - Adoce a gosto com mel ou pasta de tâmaras. Sirva em seguida!
-- --
 
 ---
 

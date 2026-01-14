@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se algum estiver estragado, você não perde a receita. Junte o caldo e as raspas da laranja e mexa com o batedor de arame para misturar as claras com as gemas — não precisa espumar. Adicione a mistura de farinha, açúcar e fermento e misture bem para incorporar — o resultado é uma massa bem líquida mesmo.
 - Coloque a manteiga numa tigela pequena e leve ao micro-ondas para derreter por 30 segundos. Junte à massa e misture bem.
 - Enquanto o rocambole assa, abra um pano de prato limpo sobre a bancada e polvilhe açúcar — assim o rocambole não gruda no pano e fica mais fácil para enrolar.
-- --
 
 ---
 

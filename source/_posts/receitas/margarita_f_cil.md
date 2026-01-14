@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml (4 doses) de tequila
 - 100 ml (2 doses) de Cointreau
@@ -37,7 +37,6 @@ flags: []
 - Sal a gosto
 - Em um pirex despeje o sal de forma uniforme;
 - Pegue uma taça, passe o limão na borda e logo em seguida encoste ela no pirex com sal, para fazer a clássica bordinha salgada;
-- --
 
 ---
 

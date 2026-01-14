@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Numa panela média, de lateral alta, misture a água com o açúcar. Junte a canela, os cravos, a casca do limão e leve ao fogo médio. Deixe cozinhar por cerca de 15 minutos, sem mexer, até a calda atingir o ponto de fio fino – mergulhe uma colher e levante um pouco da calda, se formar um fio fino entre as gotas, está pronta.
 - Enquanto a calda cozinha, quebre um ovo de cada vez numa tigela pequena e transfira para outra maior – se um estiver estragado, você não perde a receita. Bata com um garfo apenas para misturar as claras com as gemas. Junte o leite, o caldo de ½ limão e misture bem.
 - Assim que a calda atingir o ponto de fio fino, abaixe o fogo e adicione a mistura de ovos com leite. Deixe cozinhar por cerca de 30 minutos, sem mexer, ou até os ovos começarem a coagular.
-- --
 
 ---
 

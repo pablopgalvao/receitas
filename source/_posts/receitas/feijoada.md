@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Escorra a água das carnes dessalgadas e transfira para um caldeirão grande (ou panela) com capacidade para 11 litros. Cubra as carnes com água e leve ao fogo alto – cerca de 4 litros bastam, a quantidade pode variar de acordo com o tamanho da panela, o importante é que as carnes devem ficar completamente imersas. Deixe cozinhar por 10 minutos em fogo alto, contados após a fervura – o pré-cozimento elimina o excesso de gordura e sal das carnes.
 - Volte o caldeirão ao fogo alto. Quando aquecer, regue com o azeite, adicione a cebola e tempere com uma pitada de sal. Refogue por cerca de 8 minutos até começar a dourar. Junte o alho, o cominho, as folhas de louro e mexa por 1 minuto para perfumar.
 - Faltando 30 minutos para o fim do cozimento, com uma pinça, transfira os paios para a tábua e corte cada um em fatias de 1 cm, na diagonal. Volte as fatias para a panela e deixe cozinhar até completar as 5 horas de cozimento total, ou até que as carnes estejam bem macias e o caldo da feijoada comece a engrossar. Sirva com arroz, couve refogada, gomos de laranja e farinha de mandioca torrada.
-- --
 
 ---
 

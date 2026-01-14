@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga ou margarina (45 gramas)
 - 1 colher de chá de sal
@@ -49,7 +49,6 @@ flags: []
 - Pegue uma bolinha de massa do tamanho de um ovo pequeno e abra em formato de disco com a ajuda de um rolo;
 - Recheie com uma colherada de carne moída e um cubinho de queijo minas;
 - Esquente uma panela com óleo. Já separe um prato forrado com papal-toalha. Para saber se o óleo está quente o suficiente, jogue um pedacinho de massa. Se borbulhar, está pronto para fritar;
-- --
 
 ---
 

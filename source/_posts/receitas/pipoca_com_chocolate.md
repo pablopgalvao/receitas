@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de óleo (120 ml)
 - 1 xícara de chá de milho de pipoca
@@ -37,7 +37,6 @@ flags: []
 - 3 colheres de chocolate em pó 50% cacau para finalizar
 - Em uma panela grande (cerca de 20 x 13 cm) no fogo alto, coloque o açúcar, a água, o óleo e o milho de pipoca. Misture bem com uma espátula. Quando começar a ferver, continue mexendo até a mistura reduzir;
 - Ao parar de ouvir os barulhos da pipoca estourando, desligue o fogo e transfira somente as pipocas para uma travessa. Retire as queimadas e os grãos que não estouraram. Espalhe com a colher e deixe esfriar;
-- --
 
 ---
 

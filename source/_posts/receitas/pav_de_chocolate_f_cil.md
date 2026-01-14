@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 200 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 ml de leite
 - 1 colher de sopa de amido de milho
@@ -40,7 +40,6 @@ flags: []
 - 2 pacotes de bolacha maisena (340 gramas)
 - 1 xícara de chá de leite para molhar as bolachas (240 ml)
 - Despeje uma camada de creme branco por cima das bolachas. Use uma espátula ou colher para deixar a camada uniforme;
-- --
 
 ---
 

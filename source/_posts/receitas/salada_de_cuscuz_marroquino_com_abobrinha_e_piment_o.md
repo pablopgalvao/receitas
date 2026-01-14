@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma jarra de vidro com 1/3 de xícara (chá) de água para aquecer no micro-ondas por cerca de 1 minuto. Numa tigela pequena, coloque o cuscuz marroquino, regue com a água quente, tempere com uma pitada de sal e um fio de azeite. Misture, tampe com um prato e deixe abafando por 5 minutos.
 - Leve ao fogo médio uma frigideira, de preferência antiaderente. Quando aquecer, regue com 1 colher (chá) de azeite e acrescente o pimentão. Deixe dourar por cerca de 3 minutos, mexendo de vez em quando com uma espátula. Tempere com sal e pimenta a gosto e transfira para um prato.
-- --
 
 ---
 

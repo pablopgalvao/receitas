@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 210 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 a 4 kg de costela (janela) (para esta receita, foi utilizada uma peça de 2.774 kg)
 - Sal grosso/sal de parrilla a gosto
 - Pimenta-do-reino e outros temperos de sua preferência a gosto
 - Óleo ou azeite a gosto
 - Tempere com o sal grosso, a pimenta e espalhe bem;
-- --
 
 ---
 

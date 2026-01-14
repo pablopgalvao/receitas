@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 135 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de açúcar (200 gramas)
 - 1 e 1/2 xícara de farinha de trigo peneirada (180 gramas)
@@ -52,7 +52,6 @@ flags: []
 - Para a compota, leve ao fogo médio o abacaxi picado e o açúcar, mexendo ocasionalmente até que o líquido seque e os cubos fiquem caramelizados. Reserve e deixe esfriar;
 - Para a mousse, bata o leite condensado com a margarina (ou manteiga) na batedeira, em velocidade alta, até formar um creme, por aproximadamente 4 minutos;
 - Adicione uma camada da compota de abacaxi, nivelando com uma colher;
-- --
 
 ---
 

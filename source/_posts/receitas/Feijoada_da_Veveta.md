@@ -13,7 +13,6 @@ tags:
 ingredients:
   list:
     - feijão preto
-    - '?'
     - lombo suíno cortado
     - paio
     - rabo salgado
@@ -37,7 +36,6 @@ flags: []
 - **Rendimento:** 10 Porções
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -51,7 +49,6 @@ flags: []
 - 50g de Banha suína
 - 5 dentes de Alho picados
 - 2 folhas de Louro
-
 
 ---
 

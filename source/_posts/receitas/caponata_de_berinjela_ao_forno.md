@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 180 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de chá de sal
 - 1/3 de xícara de chá de azeitona picada
@@ -41,7 +41,6 @@ flags: []
 - Transfira as berinjelas para um escorredor de macarrão e adicione 2 colheres de chá de sal. Misture bem e deixe descansando por 30 minutos;
 - Adicione na assadeira o vinagre de vinho tinto, as sementes de erva-doce, e o azeite. Com uma colher, misture tudo muito bem;
 - Quando já estiver fria e antes de levar para a mesa, adicione as nozes picadas e a salsinha. Misture tudo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo. Junte a água e tempere com o alecrim, sal e pimenta calabresa seca. Bata com um garfo apenas para misturar as claras com as gemas.
 - Num prato raso, coloque a farinha de rosca, em outro a farinha de trigo e tempere com uma pitada de sal. Forre uma travessa com papel-toalha.
 - Com cuidado, mergulhe 2 bifes para fritar de cada vez (se sua frigideira for pequena frite 1 por vez). Deixe fritar por 1 minuto até dourar, com uma escumadeira (ou pinça) vire os bifes para dourar o outro lado por igual. Transfira para a travessa forrada com papel-toalha e repita com o restante. Sirva a seguir com uma colherada de mostarda Dijon.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Descasque a manga e corte 2 fatias grossas, no sentido do comprimento, bem rentes ao caroço – você pode reservar o restante da fruta na geladeira por até dois dias para comer pura ou noutra receita. Polvilhe uma pitada de sal e de pimenta-de-caiena na parte plana das fatias.
 - Leve uma frigideira antiaderente ao fogo médio para aquecer. Regue com 1 colher (chá) de azeite e coloque as fatias, com a parte plana para baixo. Deixe dourar por cerca de 5 minutos sem mexer, ou até formar uma crostinha bem dourada. Reserve as fatias em dois pratos.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - azeite a gosto
 - Leve uma chapa de ferro (ou frigideira com grelha) ao fogo médio. Quando estiver bem quente, pincele 1 colher (chá) de azeite nas espigas de milho e coloque na chapa para dourar. Conforme o milho for dourando, vire a espiga com uma pinça para tostar toda a superfície – isso leva cerca de 20 minutos. Se preferir você pode grelhar o milho na churrasqueira.
 - Escorra a água e junte a cebola ao milho. Adicione o pimentão, a pimenta, o caldo de limão e 2 colheres (sopa) de azeite. Tempere com o cominho e o sal. Misture as folhas de coentro e sirva a seguir. Se preferir, mantenha a salada na geladeira e finalize com as folhas de coentro só na hora de servir.
-- --
 
 ---
 

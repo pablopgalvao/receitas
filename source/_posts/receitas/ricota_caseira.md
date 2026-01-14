@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 2 colheres (sopa) de caldo de limão peneirado
 - Deixe o ácido do limão agir por cerca de 5 minutos, até talhar — o leite deve formar grumos, com uma parte sólida branca bem visível, imersos num líquido levemente amarelado. Se demorar muito, acenda o fogo novamente e deixe ferver de novo. Desligue, mexa e espere mais alguns minutos até talhar.
 - Transfira a trouxinha (com o queijo) para um refratário individual (tipo ramequin). Abra o pano e nivele o queijo com uma colher para ficar enformado. Volte a fechar o pano sobre o queijo e, sobre ele, apoie uma lata cilindrica — pode ser de tomate pelado ou leite condensado, por exemplo — para prensar. A ideia é que o queijo solte um pouco mais de líquido e fique perfeitamente modelado.
-- --
 
 ---
 

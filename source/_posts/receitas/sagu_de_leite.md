@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de sagu (100 gramas)
 - 2 xícaras de chá de água (para hidratar o sagu) (480 ml)
@@ -36,7 +36,6 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 1/3 xícara de chá de manga para decorar (opcional)
 - Hidrate o sagu em 2 xícaras de água, deixe descansando por 30 minutos. Em uma panela grande no fogo médio para baixo, coloque o leite e o sagu hidratado. Mexa com a colher constantemente, sem parar de mexer, por cerca de 30 minutos;
-- --
 
 ---
 

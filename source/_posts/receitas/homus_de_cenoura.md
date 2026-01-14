@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, adicione o alho e mexa por alguns segundos para perfumar. Junte a cenoura ralada, tempere com uma pitada de sal e refogue por 5 minutos, até murchar.
 - Passe o grão-de-bico por uma peneira e deixe escorrer bem a água. Transfira para o processador, junte a cenoura refogada (com o alho), o tahine, o caldo de limão e 2 colheres (sopa) de azeite. Tempere com 1 colher (chá) de sal e bata até formar uma pasta. Vá adicionando a água, aos poucos, até ficar na consistência desejada (mais rústica ou mais lisa e cremosa).
 - Transfira o homus para uma tigela, regue com azeite, polvilhe com páprica e amendoim a gosto. Sirva a seguir.
-- --
 
 ---
 

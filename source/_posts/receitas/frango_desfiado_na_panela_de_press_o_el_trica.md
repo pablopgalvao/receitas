@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de filés de peito de frango
 - 1 colher de chá de orégano
@@ -38,7 +38,6 @@ flags: []
 - 1/4 de xícara de chá de água
 - Coloque os filés de frango em uma tigela e tempere com o suco do limão, orégano, açafrão, páprica, sal, pimenta-do-reino e os dentes de alho amassados. Misture tudo muito bem para incorporar os temperos em todos os pedaços. Deixe marinando por uns 30 minutos;
 - Em seguida, com a colher mesmo, desfie o frango amassando até ficar bem soltinho. Nesse momento, prove o sabor e acerte o sal e temperos, se necessário;
-- --
 
 ---
 

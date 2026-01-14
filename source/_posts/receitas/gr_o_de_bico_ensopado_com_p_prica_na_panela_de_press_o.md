@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Passado o tempo do demolho, escorra a água e transfira os grãos para a panela de pressão. Acrescente 3 xícaras (chá) de água, junte o louro, tampe e leve ao fogo alto. Assim que a panela começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.
 - Leve uma frigideira ao fogo médio. Regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue por 5 minutos, até começar a dourar. Acrescente o alho, a páprica e mexa por 1 minuto para perfumar.
 - Volte os grãos amassados para a panela e leve ao fogo médio (sem a tampa). Tempere com sal e deixe cozinhar por mais 10 minutos, mexendo de vez em quando, até o caldo engrossar. Transfira para uma tigela, regue com azeite a gosto e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de abobrinha ralada
 - 2 colheres de sopa de cebola picada (30 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Tempere com sal, pimenta, salsinha e hortelã picadinhas. Mexa com as mãos novamente, até a massa ficar úmida e com liga;
 - Modele porções dessa massa na mão ou com a ajuda de duas colheres, para deixar no formato do croquete. Despeje a farinha de rosca em um prato raso e empane todas as porções;
 - Aqueça uma panela com óleo no fogo alto. Quando estiver bem quente, deixe no fogo médio e frite de 2 a 3 croquetes por vez por cerca de 3 minutos, ou até que fiquem dourados e crocantes;
-- --
 
 ---
 

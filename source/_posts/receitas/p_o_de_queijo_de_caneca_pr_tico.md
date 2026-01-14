@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de leite
 - 2 colheres de sopa de óleo
@@ -37,7 +37,6 @@ flags: []
 - 1 pitada de sal
 - Óleo para untar
 - Despeje em uma caneca grande untada com óleo (ou em duas pequenas) e leve ao micro-ondas, em potência alta, por cerca de 2 minutos;
-- --
 
 ---
 

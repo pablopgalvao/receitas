@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 3 colheres (chá) de azeite Andorinha
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando ela estiver bem quente, regue com 1 colher (chá) de azeite, coloque ⅓ da couve rasgada, tempere com sal e pimenta e refogue por cerca de 2 minutos. É jogo rápido mesmo — a couve é refogada em etapas na frigideira bem quente para que fique levemente tostada e não acumule água.
-- --
 
 ---
 

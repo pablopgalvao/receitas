@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - ⅔ de xícara (chá) de açúcar
 - Numa tigela, coloque as gemas, junte ⅓ de xícara (chá) de açúcar e misture bem com o batedor de arame até formar um creme claro.
 - Numa panela média, misture o leite, o creme de leite e o restante do açúcar. Com a ponta da faca, corte a fava de baunilha ao meio, no sentido do comprimento, raspe e junte as sementes à panela. Reserve a fava de baunilha raspada, você pode armazenar junto com o açúcar dentro de um pote e, assim, ter seu próprio açúcar de baunilha aromatizado.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Miolo de acém (1,5 kg)
 - 1 colher de chá de tempero mineiro
@@ -45,7 +45,6 @@ flags: []
 - Coloque o alho ralado, cebola cortada, o pimentão-verde picado, tempero mineiro, cominho, coentro e sal;
 - Junte os tomates picadinhos, deixe cozinhar por 10 minutos, e acrescente o açúcar;
 - Incorpore o restante dos ingredientes secos - cominho, coentro, tempero mineiro e sal -, misture e envolva o molho de tomate. Deixe cozinhando por 10 minutinhos e depois desligue o fogo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Numa tigela grande, junte o azeite, o molho de romã, o caldo de limão, o extrato de tomate, o coentro, o cominho, a pimenta-da-jamaica e o sal. Misture bem com um garfo.
 - Junte o trigo à tigela com o molho e misture bem. Prove e, se necessário, ajuste o sal. Leve à geladeira para que o trigo absorva melhor o sabor do molho e deixe resfriar por pelo menos 3 horas antes de servir (se preferir, prepare no dia anterior).
 - Na hora de ir à mesa, misture as nozes e a salsinha picada.
-- --
 
 ---
 

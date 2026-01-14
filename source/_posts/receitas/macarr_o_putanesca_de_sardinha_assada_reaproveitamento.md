@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - rúcula italiana a gosto para servir
 - Leve uma panela média com 2,5 litros de água ao fogo alto. Quando ferver, misture 1 colher (sopa) de sal e adicione o macarrão. Deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente — mexa de vez em quando para soltar os fios e o macarrão cozinhar por igual.
 - Assim que o macarrão estiver cozido, reserve 1 xícara (chá) da água do cozimento. Escorra a água restante e transfira o macarrão para a frigideira com o molho. Misture delicadamente e vá acrescentando um pouco da água do cozimento reservada para deixar o molho mais fluido. Sirva a seguir com folhas de rúcula.
-- --
 
 ---
 

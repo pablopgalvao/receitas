@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Numa tigela, coloque os legumes cortados, regue com o azeite e tempere com sal a gosto. Misture bem com as mãos para envolver todos os pedaços com o azeite.
 - Enquanto isso, leve uma chaleira com um pouco mais de 2½ xícaras (chá) de água ao fogo médio para aquecer (se preferir, use uma chaleira elétrica).
 - Adicione a manteiga gelada e bata novamente — além de acrescentar sabor, a manteiga deixa a sopa mais aveludada. Se preferir uma sopa mais fluida acrescente água quente aos poucos, até atingir a consistência desejada. Sirva a seguir com croûtons, endro e sementes de abóbora tostadas.
-- --
 
 ---
 

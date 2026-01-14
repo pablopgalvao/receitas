@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá + 2 colheres de sopa de farinha de trigo sem fermento (300 gramas)
 - 220 ml de água morna
@@ -38,7 +38,6 @@ flags: []
 - Em um recipiente grande, misture a farinha, o sal, o açúcar e o fermento. Transfira essa mistura de ingredientes para a tigela da batedeira. Despeje também o azeite e a água morna;
 - Ligue o forno a 250 ºC para preaquecer e coloque a forma em que assará os pães dentro dele. Sobre uma superfície plana, coloque uma toalha limpa e polvilhe farinha nela. Divida a massa em 6 porções e modele-as em bolinhas;
 - Salpique farinha de trigo em uma mesa ou bancada higienizada. Utilize um rolo de massa para abrir uma bolinha em formato arredondado, com cerca de 0,3 cm de espessura. Coloque a massa aberta sobre a toalha polvilhada. Repita o processo com o restante da massa;
-- --
 
 ---
 

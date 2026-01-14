@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de vísceras de bode (fígado, rins, coração, tripas, pulmão e língua)
 - 2 colheres de sopa de cominho
@@ -38,7 +38,6 @@ flags: []
 - Coloque os buchos recheados em uma panela grande, ainda fora do fogo, e tempere com o restante do colorau, pimenta-do-reino, cominho e o sal a gosto. Junte os temperos separados na outra tigela, um pouco de azeite e a água até cobrir com 1 dedo acima do bucho;
 - Ligue em fogo baixo, tampe a panela e deixe cozinhar por cerca de 1 hora. Após o tempo, abra a panela, prove o sabor do caldo e acerte sal e temperos se necessário;
 - Finalize com mais um pouquinho de coentro e sirva quentinho com farinha! Se quiser, faça um pirão com o caldo da buchada, fica delicioso também. Bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Descasque e corte a cebola roxa em cubos pequenos (de 0,5 cm). Transfira para uma tigela pequena, regue com 3 colheres (sopa) de vinagre, junte cubos de gelo e cubra com água. Deixe descansar enquanto prepara o polvo e os outros ingredientes – quanto mais tempo de molho, menos ardida fica a cebola.
 - Lave, seque e corte os tomates ao meio. Descarte as sementes e corte as metades em cubos pequenos de 0,5 cm. Lave, seque e pique fino a salsinha. Escorra a água das cebolas. Transfira os legumes e a salsinha picados para uma tigela média.
 - Junte o polvo aos legumes picados. Regue com o azeite, 4 colheres (sopa) de vinagre e misture delicadamente. Tempere com as raspas de limão, sal e pimenta a gosto. Leve à geladeira por, no mínimo, 1 hora antes de servir – assim o vinagrete fica bem fresquinho e temperado, quanto mais tempo na geladeira apurando os sabores, mais gostoso fica.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 6 xícaras de chá de feijão-branco (500 gramas)
 - 1/3 de xícara de chá de azeite (80 ml)
@@ -44,7 +44,6 @@ flags: []
 - Em uma tigela grande, coloque o azeite, o suco de limão, o sal e a pimenta-do-reino, misturando para incorporar;
 - Escorra a cebola-roxa e acrescente à tigela. Adicione os tomates e os pimentões, e misture bem. Coloque o feijão-branco já frio e mexa para envolver todos os componentes da salada;
 - Salpique salsinha e cebolinha picada. Leve à geladeira até a hora de servir ou sirva a seguir. Regue com mais azeite e aproveite no seu almoço ou jantar.
-- --
 
 ---
 

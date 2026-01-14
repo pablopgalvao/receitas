@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de tomate-cereja
 - 1/2 xícara de chá de azeite
@@ -38,7 +38,6 @@ flags: []
 - Coloque o sal e a pimenta-do-reino, mexendo levemente para incorporar os temperos;
 - Enquanto isso, em uma frigideira, adicione um fio de azeite, o sal, a pimenta-do-reino e o alho-poró fatiado. Refogue por cerca de 2 minutos, até murchar;
 - Sirva ainda morno, acompanhado de torradas, saladas, massas ou como aperitivo. Aproveite!
-- --
 
 ---
 

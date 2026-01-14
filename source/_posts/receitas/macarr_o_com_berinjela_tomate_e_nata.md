@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Numa tigela grande, coloque a nata, o caldo de limão e tempere com ½ colher (chá) de sal e noz-moscada ralada. Retire os legumes do forno e reserve.
 - Assim que o macarrão estiver cozido, reserve cerca de ½ xícara (chá) da água do cozimento e escorra o macarrão. Adicione o macarrão ao molho e misture bem. Vá acrescentando aos poucos a água do cozimento, caso seja necessário, para deixar o molho mais fluido.
 - Reserve ⅓ de xícara (chá) dos legumes assados e misture o restante ao macarrão. Divida em dois pratos, cubra com os legumes reservados e salpique folhas de manjericão. Sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - 1 colher (sopa) de licor de amêndoas (amaretto) (opcional)
 - sal e pimenta-do-reino moída na hora a gosto
 - Após 10 minutos que a abóbora estiver no forno, leve ao fogo alto uma panela grande com 3 litros de água e 2 colheres (sopa) de sal. Quando ferver (leva cerva de 15 minutos), coloque o macarrão e deixe cozinhar a metade do tempo sugerido na embalagem. Na receita, ele ficou na panela por 4,5 minutos. Desligue o fogo, escorra a água e volte com o macarrão à panela.
-- --
 
 ---
 

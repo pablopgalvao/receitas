@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de óleo
 - 500 gramas de carne moída
@@ -39,7 +39,6 @@ flags: []
 - Cheiro-verde a gosto
 - Na panela de pressão coloque o óleo e aqueça. Agora, adicione o alho e deixe dar uma douradinha;
 - Assim que a carne estiver refogada, adicione o tomate, o colorau, o sal, a pimenta-do-reino e misture tudo muito bem;
-- --
 
 ---
 

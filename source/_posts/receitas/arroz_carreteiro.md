@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz (400 gramas)
 - 4 xícaras de chá de água (800 ml)
@@ -42,7 +42,6 @@ flags: []
 - Em uma chaleira, coloque 4 xícaras de chá de água para ferver em fogo baixo;
 - Leve uma panela ao fogo médio e aqueça o óleo. Adicione o bacon e a linguiça calabresa. Frite por aproximadamente 5 minutos, ou até dourar levemente. Mexa de vez em quando para não queimar;
 - Lave a salsinha, fatie em pedaços pequenos e salpique no arroz. Tempere com pimenta-do-reino a gosto e caldo de limão;
-- --
 
 ---
 

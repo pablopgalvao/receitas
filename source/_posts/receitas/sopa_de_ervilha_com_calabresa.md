@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de ervilha
 - 1 colher de sopa de sal
 - Leve outra panela ao fogo médio e acrescente a calabresa picada. Refogue para que ela solte sua gordura, não precisa colocar azeite ou óleo. Se necessário, adicione algumas gotinhas de água;
 - Tempere com o sal, prove e acerte se sentir necessidade. Ligue o fogo médio, tampe a panela e ferva a sopa por mais 5 minutos;
-- --
 
 ---
 

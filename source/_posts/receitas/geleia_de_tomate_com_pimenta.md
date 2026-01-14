@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 colher (chá) de pó de café
 - sal a gosto
 - Numa tábua, corte os tomates ao meio e descarte as sementes. Pique as metades grosseiramente e transfira para uma panela média. Junte o restante dos ingredientes, tempere com uma pitada de sal e misture bem.
-- --
 
 ---
 

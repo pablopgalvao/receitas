@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de arroz cozido
 - 1 colher de sopa de requeijão light
@@ -37,7 +37,6 @@ flags: []
 - Em uma tigela grande, adicione o arroz cozido, o ovo, o requeijão light, os queijos, a farinha e os temperos;
 - Misture tudo muito bem com uma colher até incorporar os ingredientes;
 - Modele os bolinhos formando porções do mesmo tamanho e com formato arredondado ou mesmo com a colher;
-- --
 
 ---
 

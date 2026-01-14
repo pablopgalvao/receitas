@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 2 xícaras (chá) de mamão formosa em pedaços (cerca de 300 g)
 - 1 pote de iogurte natural sem açúcar (170 g ou ⅔ de xícara (chá) de iogurte caseiro)
 - ½ colher (sopa) de melado de cana
-- --
 
 ---
 

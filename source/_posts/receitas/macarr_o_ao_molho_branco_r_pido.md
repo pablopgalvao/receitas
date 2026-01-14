@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 pacote do macarrão de sua preferência (250 gramas)
 - 1 copo de requeijão (200 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Em uma panela grande, coloque a água e espere pegar fervura. Adicione o sal e acrescente o macarrão para ferver. Siga as orientações da embalagem, deixando a massa no ponto al dente;
 - Em uma panela, aqueça o azeite ou óleo. Refogue a cebola e o alho, em fogo baixo, até dourar levemente (cerca de 1 minuto);
 - Adicione o creme de leite, a cebolinha, a salsinha e tempere com sal e noz-moscada. Misture para incorporar e desligue o fogo;
-- --
 
 ---
 

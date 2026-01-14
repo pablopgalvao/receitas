@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - ¼ de xícara (chá) de água filtrada
 - sal a gosto
 - Descasque o dente de alho e bata no pilão com uma pitada de sal até formar uma pastinha. Junte o tahine, o caldo de limão e misture bem. Acrescente a água, aos poucos, até ficar na consistência desejada (mais fluido ou mais encorpado). Tempere com sal e transfira para uma molheira.
-- --
 
 ---
 

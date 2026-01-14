@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 kg de bucho em tiras e limpo
 - 4 tomates picados (350 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Azeite a gosto
 - Adicione o bucho, feijão-branco, sal e pimenta. Misture tudo muito bem. Acrescente o extrato de tomate e água até cobrir tudo. Mexa bem e feche a panela. Após pegar pressão, cozinhe por 1 hora e 15 minutos;
 - Se necessário, acerte os temperos e o sal. Finalize com cheiro-verde a gosto e sirva a dobradinha quentinha. Bom apetite!
-- --
 
 ---
 

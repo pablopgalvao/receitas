@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de farinha de trigo
@@ -43,7 +43,6 @@ flags: []
 - Em uma panela de fundo grosso, derreta a manteiga em fogo médio. Acrescente a farinha de trigo e mexa continuamente por 5 minutos para formar um roux (base de molho bechamel);
 - Incorpore o creme de leite e mexa bem. Em seguida, adicione as gemas, passando por uma peneira (isso tira o cheiro forte de ovo). Mexa rapidamente para que não forme gruminhos;
 - Ajuste a textura da sopa com adição de leite, conforme preferir. Corrija o sal com atenção, pois os queijos já são salgados;
-- --
 
 ---
 

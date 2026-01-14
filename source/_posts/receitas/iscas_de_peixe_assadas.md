@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal a gosto
 - No copo do mixer coloque as gemas, a mostarda, o caldo de limão e o óleo. Pressione o mixer ainda desligado contra o fundo do copo e só então ligue. Bata por 10 segundos sem mexer.
 - Quando a maionese começar a se formar, mova o mixer delicadamente para junto da lateral do copo, primeiro de um lado e depois do outro, sem parar de bater. Repita o movimento até formar um molho firme — não mexa muito rápido nem faça movimentos de cima para baixo, a maionese pode talhar. Em 15 segundos a maionese fica pronta! Transfira para uma tigela, misture o endro picado, as raspas de limão, prove e ajuste o sal.
-- --
 
 ---
 

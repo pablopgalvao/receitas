@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peito de frango com pele e osso (800 gramas)
 - 1/2 cebola (120 gramas)
@@ -66,7 +66,6 @@ flags: []
 - Em uma tigela, peneire a farinha de rosca (isso deixará a coxinha uniforme e bem empanada). Em outra tigela, adicione as claras e a água - bata com o garfo até formar uma mistura homogênea (evite bater em excesso, pois a espuma atrapalha no momento de empanar);
 - Com uma mão, molhe a coxinha na mistura de claras com água. Com a outra mão, passe a coxinha na farinha de rosca. Repita o mesmo processo para empanar duas vezes e garantir uma casquinha crocante. Reserve em uma travessa;
 - Coloque o óleo em uma panela de bordas altas e leve ao fogo médio. Espere esquentar e chegar a temperatura de 180 ºC - deixe a base de uma colher de pau mergulhada no óleo, quando começar a formar bolhas ao redor da colher, pode iniciar a fritura;
-- --
 
 ---
 

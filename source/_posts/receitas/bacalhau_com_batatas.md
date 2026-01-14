@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - 100 gramas de azeitonas
@@ -40,7 +40,6 @@ flags: []
 - 200 gramas de queijo ralado
 - Tempere com sal, pimenta, salsinha e cebolinha. Misture;
 - Salpique o queijo ralado e leve ao forno preaquecido a 170 ºC por cerca de 15 a 20 minutos;
-- --
 
 ---
 

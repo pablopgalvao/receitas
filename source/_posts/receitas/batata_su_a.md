@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 6 batatas médias com casca (800 gramas)
 - 100 gramas de queijo tipo emmental (pode ser gouda, minas meia‑cura, canastra, parmesão ou outro)
@@ -39,7 +39,6 @@ flags: []
 - Enquanto a cebola refoga, tempere as batatas raladas com sal, pimenta‑do‑reino branca e cerca de 50 gramas de manteiga em cubinhos. Misture bem;
 - No refratário untado, distribua cubos de manteiga, faça uma camada com metade das batatas raladas;
 - Amasse levemente para compactar, adicione alguns cubinhos de manteiga por cima. Leve ao forno preaquecido a 180 °C por cerca de 45 minutos ou até dourar por cima;
-- --
 
 ---
 

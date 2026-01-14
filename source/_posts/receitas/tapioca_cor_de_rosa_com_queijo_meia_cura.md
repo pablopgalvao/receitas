@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Descasque e corte a beterraba em pedaços. Transfira para o liquidificador e bata com a água até triturar bem. Passe o suco por uma peneira e pressione o bagaço com as costas de uma colher para extrair todo o líquido.
 - Coloque o polvilho doce numa tigela e cubra com o suco de beterraba coado. Misture com uma colher para dissolver o polvilho, cubra com filme e deixe de molho, na geladeira por cerca de 8 horas (se preferir, prepare da noite para o dia) - o polvilho vai absorver a maior parte do líquido e ficar com a aparência de gesso molhado.
 - Com uma colher, quebre a massa em pedaços e passe por uma peneira - o resultado é uma farinha úmida, sedosa, que modela ao ser apertada. Se quiser, tempere com sal a gosto.
-- --
 
 ---
 

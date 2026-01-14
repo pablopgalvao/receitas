@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de frango cozido e desfiado
 - 1 colher de sopa de manteiga (20 gramas)
@@ -47,7 +47,6 @@ flags: []
 - Enquanto isso, em uma panela, aqueça a manteiga e refogue a cebola e o alho até dourar levemente. Adicione o frango desfiado e o tomate picado, misturando bem;
 - Tempere com sal, pimenta-do-reino, páprica, chimichurri e colorau a gosto. Coloque o extrato de tomate, mexa e deixe cozinhar por alguns minutos. Finalize o recheio com coentro picado, desligue o fogo e reserve;
 - Acrescente a manteiga, o creme de leite e o leite, misturando até obter consistência cremosa. Tempere com sal e pimenta-do-reino a gosto;
-- --
 
 ---
 

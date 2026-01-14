@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Seque bem o frango com papel-toalha. Coloque o frango numa tigela grande (ou travessa) e tempere com a marinada seca – esfregue bem a mistura de sal com especiarias sobre toda a pele, entre a pele e a carne do peito e dentro da cavidade do frango. Tampe a tigela (ou cubra com filme) e leve à geladeira para marinar por 1 hora.
 - Descasque e corte a cebola em rodelas grossas de 1,5 cm. Regue o fundo de uma assadeira grande com um fio de azeite e distribua as rodelas de cebola, uma ao lado da outra, formando uma cama para o frango. Disponha sobre as cebolas 3 ramos de alecrim untados com azeite e 1 ramo de louro; coloque também na assadeira a cabeça de alho inteira. Regue tudo com um 1 colher (sopa) de azeite.
 - Regue o frango com 2 colheres (sopa) de azeite e espalhe bem com as mãos. Corte em quartos o limão siciliano que você usou para fazer as raspas. Coloque os quartos de limão no interior da cavidade do frango, com 4 folhas de louro. Pique fino as folhas do ramo de alecrim restante e misture com 2 colheres (sopa) de azeite numa tigela pequena.
-- --
 
 ---
 

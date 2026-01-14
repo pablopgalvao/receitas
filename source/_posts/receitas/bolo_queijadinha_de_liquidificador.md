@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de açúcar (350 gramas)
 - 2 e 1/3 xícara de leite (500 ml)
@@ -40,7 +40,6 @@ flags: []
 - Numa panela, adicione o açúcar e deixe derreter até formar um caramelo;
 - Para preparar a massa, pegue um liquidificador. Adicione o leite, o leite condensado, os ovos, a farinha de trigo, o açúcar e o coco ralado. Bata bem até que tudo fique homogêneo;
 - Espere esfriar por cerca de 3 horas, desenforme e saboreie cada colherada!
-- --
 
 ---
 

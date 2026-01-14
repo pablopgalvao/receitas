@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de bacalhau dessalgado
 - 1 kg de batatas
@@ -40,7 +40,6 @@ flags: []
 - 1 colher de sopa de sal (ou a gosto)
 - Adicione as batatas na panela e misture até incorporar tudo. Transfira para um refratário e finalize com os ovos cozidos cortados em rodelas;
 - Retire do forno, salpique cebola ou salsinha e sirva. Bom apetite!
-- --
 
 ---
 

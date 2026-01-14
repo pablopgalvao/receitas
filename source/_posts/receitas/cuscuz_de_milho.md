@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Preencha o fundo da cuscuzeira com água e encaixe o cesto de vapor na panela. Transfira a farinha de milho hidratada para o cesto, sem compactar. Tampe e leve ao fogo alto.
 - Numa tigela, misture a manteiga com ⅓ de xícara (chá) da água fervente da cuscuzeira. Mexa com uma colher até derreter pelo menos metade da manteiga — ela vai terminar de derreter com o calor residual do cuscuz.
 - Regue o cuscuz com a água com manteiga e misture com o garfo — a água com manteiga vai deixar o cuscuz mais úmido e saboroso. Sirva a seguir.
-- --
 
 ---
 

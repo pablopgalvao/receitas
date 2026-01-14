@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de peixe branco bem fresco (optamos por tilápia)
 - Sal a gosto
 - Coentro a gosto
 - Tempere com sal a gosto, misture bem e deixe descansar por 2 minutos;
 - Acrescente o coentro, acerte o sal e misture;
-- --
 
 ---
 

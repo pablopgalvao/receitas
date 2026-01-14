@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de maionese
 - 2 colheres de sopa de manteiga (ou margarina)
@@ -35,7 +35,6 @@ flags: []
 - 120 gramas de queijo mussarela ralado
 - Ervas de sua preferência e a gosto (opcional)
 - Em uma travessa, misture bem a maionese, os alhos, a manteiga/margarina, parmesão, queijo mussarela e as ervas;
-- --
 
 ---
 

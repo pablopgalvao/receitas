@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal a gosto
 - Descasque e corte a cebola em cubos pequenos, de 0,5 cm. Transfira para uma tigela pequena, adicione ½ colher (sopa) do vinagre, os cubos de gelo e cubra com água. Mantenha a cebola imersa por pelo menos 10 minutos para perder o ardido. Enquanto isso, prepare os outros ingredientes.
 - Escorra a cebola e adicione ao chuchu. Tempere com o azeite, o caldo de limão, o restante do vinagre e sal a gosto. Misture bem e sirva a seguir ou mantenha na geladeira até a hora de servir – o vinagrete fica ainda mais gostoso depois de curtir na geladeira por 30 minutos.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Numa panela média, coloque a manteiga e leve ao fogo baixo. Quando derreter, adicione a cebola e tempere com uma pitada de sal. Refogue por cerca de 3 minutos até murchar.
 - Junte o mel e misture bem. Polvilhe a farinha e mexa por cerca de 3 minutos, até ficar parecendo uma cola - essa mistura de manteiga com farinha, chamada roux, vai engrossar o molho.
 - Regue o líquido da marinada aos poucos, misturando bem com um batedor de arame para dissolver todos os gruminhos de farinha. Deixe cozinhar, mexendo de vez em quando, por 5 minutos depois que começar a ferver. Desligue a panela, acerte o sal e a pimenta-do-reino e transfira para uma molheira.
-- --
 
 ---
 

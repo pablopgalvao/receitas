@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite em pó desnatado
 - 2 colheres de sopa de leite ou água
 - Acrescente o leite ou a água aos poucos e comece a misturar com o auxílio de uma colher ou espátula;
 - A consistência ideal é parecida com a do brigadeiro de colher, levemente pegajosa, mas que não grude demais nas mãos. Se estiver muito seca, adicione mais algumas gotas de leite ou água. Se ficar muito mole, acrescente mais leite em pó para ajustar;
-- --
 
 ---
 

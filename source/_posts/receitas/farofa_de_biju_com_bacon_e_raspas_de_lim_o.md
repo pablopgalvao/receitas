@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Descasque e fatie a cebola em meias-luas finas. Corte a manteiga em cubos - assim ela derrete mais rápido.
 - Adicione os cubos de manteiga e mexa até derreter completamente. Junte a cebola, tempere com sal e refogue, por cerca de 2 minutos, até murchar.
 - Diminua o fogo e coloque a farinha, aos poucos, sem parar de mexer. Deixe cozinhar por cerca de 3 minutos para ficar crocante, mexendo de vez em quando. Desligue o fogo e misture as raspas de limão. Prove e acerte o sal. Transfira para uma travessa e sirva a seguir.
-- --
 
 ---
 

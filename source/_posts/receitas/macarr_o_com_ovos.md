@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 pacote de macarrão tipo espaguete (250 gramas)
 - Sal a gosto
@@ -42,7 +42,6 @@ flags: []
 - Em outra panela, aqueça o óleo e adicione a manteiga. Aguarde derreter completamente. Acrescente o alho picado e refogue até começar a dourar levemente;
 - Junte o molho de tomate, a páprica doce, o sal, a pimenta-do-reino e a salsinha desidratada. Misture bem;
 - Acrescente os ovos à panela e mexa constantemente até que estejam bem cozidos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Numa tigela média, quebre o ovo e bata com o garfo apenas para misturar a clara com a gema.
 - Pique grosseiramente o macarrão (com o molho e os legumes mesmo, assim fica mais fácil fazer a massa do bolinho), transfira para a tigela com o ovo e misture bem. Adicione a farinha de rosca e misture novamente — é uma massa mais molinha mesmo; não dá para modelar com as mãos.
 - Numa frigideira grande antiaderente, distribua o queijo ralado formando 9 montinhos de queijo parmesão (com cerca de 2 colheres [chá] em cada um). Deixe espaço entre eles. Coloque cerca de 1 colher (sopa) da massa do bolinho de macarrão sobre cada porção de queijo.
-- --
 
 ---
 

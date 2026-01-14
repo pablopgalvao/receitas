@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz para sushi (200 gramas)
 - 1 e 1/2 xícaras de chá de água (500 ml)
@@ -40,7 +40,6 @@ flags: []
 - 2 colheres de sopa de cebolinha picada
 - Em uma tábua, com uma faca bem afiada, retire a pele do salmão, caso seja necessário. Corte a peça em fatias finas, e depois em cubos de cerca de 1,5 cm;
 - Posicione o recheio de salmão, por cima do arroz, na diagonal - siga a direção do polegar ao dedo mindinho;
-- --
 
 ---
 

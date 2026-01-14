@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de água gelada
 - 60 ml de espumante brut bem gelado
 - 40 ml de água com gás ou club soda
 - 20 ml de licor de cassis ou xarope de groselha (opcional, para cor e dulçor)
 - Gelo a gosto
-- --
 
 ---
 

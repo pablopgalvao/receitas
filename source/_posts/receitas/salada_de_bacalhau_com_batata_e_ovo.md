@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1kg de bacalhau em lascas
 - 4 colheres de sopa de azeite (60 ml)
@@ -38,7 +38,6 @@ flags: []
 - Reúna os ingredientes necessários para essa receita! O bacalhau já deve estar desfiado e dessalgado;
 - Cozinhe os ovos por 10 min e fatie em rodelas, reserve;
 - Finalize com as azeitonas e os ovos. Ajuste o sal se necessário;
-- --
 
 ---
 

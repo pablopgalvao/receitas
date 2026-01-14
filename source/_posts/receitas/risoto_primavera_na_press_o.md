@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Regue com mais 1 colher (sopa) de azeite, junte o arroz e mexa bem por 1 minuto para envolver todos os grãos no azeite. Regue com o vinho e mexa até secar. Junte a água, a folha de salsão, a cebola cravejada, tempere com 1 colher (chá) de sal e pimenta a gosto. Misture, tampe a panela e aumente o fogo.
 - Assim que a panela começar a apitar, diminua o fogo para médio e conte 3 minutos — esse é o tempo exato para o risoto não passar do ponto. Enquanto isso, leve uma chaleira com 1 xícara (chá) de água ao fogo alto para ferver.
 - Abra a panela e, com uma pinça, pesque a folha de salsão e a cebola cravejada. Adicione os legumes refogados, a ervilha congelada e misture bem — se necessário, volte a panela ao fogo baixo e vá regando com a água fervente para manter o risoto bem úmido. Por último, misture a manteiga e o queijo parmesão. Sirva a seguir com folhas de salsinha.
-- --
 
 ---
 

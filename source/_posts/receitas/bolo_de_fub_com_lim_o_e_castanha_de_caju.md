@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Diminua a velocidade da batedeira para média. Numa tigela pequena, quebre um ovo de cada vez e junte ao creme de manteiga, batendo bem a cada adição para incorporar.
 - Adicione o fubá e bata em velocidade média apenas para misturar. Junte a castanha, as raspas e o caldo de limão, o fermento e o sal e bata novamente, apenas para incorporar os ingredientes — se necessário, pare de bater e raspe a lateral da tigela novamente com a espátula.
 - Retire o bolo do forno e deixe esfriar completamente antes de servir. Polvilhe açúcar de confeiteiro, corte as fatias e sirva o bolo diretamente da fôrma.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - canela em pó a gosto para polvilhar
 - No liquidificador, bata o milho com o leite até triturar bem. Sobre uma panela, passe o leite batido por uma peneira, pressionando com as costas de uma colher para extrair bem todo o líquido – descarte o bagaço.
 - Misture o açúcar, leve ao fogo médio e mexa com um batedor de arame até começar a ferver. Abaixe o fogo e continue mexendo por mais 5 minutos, até formar um creme grosso – o curau engrossa de repente, se começar a empelotar ou grudar no fundo da panela, retire do fogo e mexa vigorosamente com o batedor.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de costela limpa
 - 1 colher de chá de sal (ou a gosto)
@@ -41,7 +41,6 @@ flags: []
 - Agora, tempere a costela com sal e pimenta-do-reino, cortando-a em pedaços menores. Coloque-os na panela de pressão, selando ambos os lados para extrair bastante sabor. Retire a carne e reserve numa tigela;
 - Na mesma panela e aproveitando seu fundinho, acrescente a cebola, deixando dourar levemente. Adicione também as pápricas e mais um pouco de sal. Refogue por cerca de 2 minutos;
 - Passe as mandiocas cozidas e frias para um liquidificador, com cerca de 4 xícaras da água do seu cozimento, e bata até formar um caldo homogêneo. Vá acrescentando os pedaços aos poucos no liquidificador e dê o ponto com a água. Evite colocar tudo de uma vez;
-- --
 
 ---
 

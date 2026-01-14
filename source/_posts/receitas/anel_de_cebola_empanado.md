@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de farinha de trigo sem fermento
 - Sal e pimenta-do-reino a gosto
@@ -36,7 +36,6 @@ flags: []
 - Em uma tigela, coloque a farinha de trigo e tempere-a com sal e pimenta. Retire as cebolas da água e molhe uma por uma no leite, passe-as na farinha temperada, coloque-as mais uma vez no leite e finalize passando as cebola na farinha de rosca;
 - Para que os anéis fiquem bem crocantes, passe as cebolas empanadas mais uma vez no leite e por último na farinha de rosca. Na sequência, leve-as ao congelador cerca de 20 minutos;
 - Depois, frite as cebolas em óleo quente até que fiquem bem douradinhas;
-- --
 
 ---
 

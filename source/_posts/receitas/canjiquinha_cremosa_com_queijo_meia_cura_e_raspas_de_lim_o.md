@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ½ colher (sopa) de manteiga gelada
 - Acrescente a água, junte a canjiquinha e tempere com o sal. Misture bem, tampe a panela e cozinhe em fogo médio. Assim que começar a sair vapor pela válvula, abaixe o fogo e conte 20 minutos.
 - Desligue o fogo e espere toda a pressão sair antes de abrir a panela. Junte o queijo, a manteiga gelada e misture bem até derreter. Por último, misture as raspas de limão e sirva imediatamente.
-- --
 
 ---
 

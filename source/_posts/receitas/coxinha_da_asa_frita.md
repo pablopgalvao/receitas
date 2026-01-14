@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de coxinha da asa
 - Sal a gosto
@@ -37,7 +37,6 @@ flags: []
 - Em uma tigela com o frango, adicione o alho triturado, o sal, a pimenta, a mostarda e esprema o limão. Misture com as mãos mesmo, para espalhar melhor os temperos. Cubra com plástico filme e deixe na geladeira por 25 minutos marinando;
 - Aqueça uma panela com bastante óleo para submergir os pedaços de frango. Coloque uma colher de pau para saber se está quente o suficiente - algumas bolhinhas devem se formar em torno da colher;
 - Acrescente os pedaços de frango com cuidado para não espirrar. Não agregue o caldo da marinada na panela com óleo. Mexa apenas quando começar a dourar. Frite a primeira metade, e depois a outra;
-- --
 
 ---
 

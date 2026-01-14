@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de manteiga (45 gramas)
 - 3/4 de xícara de chá de vinho branco seco (200 ml)
@@ -38,7 +38,6 @@ flags: []
 - Em seguida, tempere os medalhões com sal e pimenta;
 - Em uma panela, derreta a manteiga em fogo baixo com as folhas de sálvia para saborizar. Retire as folhas da manteiga;
 - Na mesma frigideira onde selou os medalhões, adicione o vinho branco e o amido de milho dissolvido. Deixe ferver até o molho engrossar, ajustando o sal e a pimenta-do-reino;
-- --
 
 ---
 

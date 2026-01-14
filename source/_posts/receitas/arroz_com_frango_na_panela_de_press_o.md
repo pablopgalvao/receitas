@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa óleo
 - 1 filé de frango (150 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Em uma panela de pressão, aqueça o óleo e doure levemente o alho amassado e os cubinhos de frango;
 - Adicione então o arroz, o sal, o tempero baiano e mexa para envolver todos os ingredientes;
 - Finalize com cheiro-verde e sirva. Esse arroz vai bem com uma saladinha!
-- --
 
 ---
 

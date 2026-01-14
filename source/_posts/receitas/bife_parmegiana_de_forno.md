@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 ou mais bifes de contrafilé ou alcatra (500 gramas)
 - 2/3 de xícara de chá de molho de tomate (160 ml)
@@ -44,7 +44,6 @@ flags: []
 - Para empanar um bife, passe ambos os lados na farinha de trigo, chacolhe-o levemente para retirar o excesso;
 - Em seguida, empane o bife no ovo batido. Escorra o excesso;
 - Coloque um grão de farinha de rosca no óleo, se ele borbulhar imediatamente, está quente. Coloque um bife e frite por cerca de 40 segundos. Após esse tempo, utilize um pegador de metal para virar e fritar o outro lado por mais 40 segundos;
-- --
 
 ---
 

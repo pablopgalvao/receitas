@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Leve uma panela média com 2 litros de água ao fogo alto. Quando ferver, misture 2 colheres (chá) de sal, acrescente o macarrão e deixe cozinhar pelo tempo indicado na embalagem ou até ficar al dente. Enquanto o macarrão cozinha, prepare o molho.
 - Numa tigela grande, junte as raspas e o caldo de limão, o azeite e o parmesão ralado. Tempere com pimenta-do-reino a gosto e mexa bem com um garfo (ou batedor de arame pequeno) para desmanchar o parmesão e emulsionar os ingredientes.
 - Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão numa peneira. Transfira o macarrão ainda quente para a tigela com o molho de limão e misture bem.
-- --
 
 ---
 

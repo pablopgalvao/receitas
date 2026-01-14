@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de feijão preto
 - 1 litro de água para cozimento + 1 xícara para engrossar (240 ml)
@@ -36,7 +36,6 @@ flags: []
 - Desligue o fogo e deixe a pressão sair naturalmente. Ao abrir, verifique o ponto do caldo. Se desejar um feijão mais encorpado, acrescente mais meia xícara de água quente. Misture e leve novamente ao fogo, sem tampar, até que o caldo engrosse;
 - Hora de temperar! Em outra panela, aqueça o óleo e doure o alho amassado até começar a liberar seus aromas e sabores;
 - Despeje o feijão cozido (com caldo) sobre o refogado, tempere com sal e misture bem, deixando ferver por mais alguns minutos para que o sabor se integre;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz cru (360 gramas)
 - 4 xícaras de chá de água fervendo (960 ml)
@@ -40,7 +40,6 @@ flags: []
 - Em seguida, separe todos os ingredientes sobre a bancada. Escorra a água e reserve o arroz hidratado. Preaqueça o forno a 180 ºC e unte uma forma (20x5) com manteiga;
 - No liquidificador, adicione os ovos, o açúcar, o óleo e o leite. Bata por cerca de 1 minuto apenas para misturar;
 - Adicione o fermento em pó e misture delicadamente com uma espátula ou colher, sem bater demais para não perder a leveza;
-- --
 
 ---
 

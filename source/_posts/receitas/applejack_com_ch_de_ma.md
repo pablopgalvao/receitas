@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 45 ml de Applejack (ou outro destilado de maçã)
 - 50 ml de água fervente
@@ -35,7 +35,6 @@ flags: []
 - Gelo a gosto
 - Infusione o sachê de chá em 50 ml de água quente por 5 a 7 minutos. Retire e deixe amornar ou leve à geladeira por 2 minutos antes de usar. A ideia é que esteja quente o suficiente para liberar aroma, mas não ao ponto de derreter o gelo instantaneamente;
 - Encha uma coqueteleira com cubos de gelo e adicione o applejack, apenas 30 ml do chá de maçã infusionado e o xarope simples;
-- --
 
 ---
 

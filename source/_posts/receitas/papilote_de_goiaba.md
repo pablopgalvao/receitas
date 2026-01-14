@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ½ colher (chá) de manteiga
 - 1 colher (sopa) de água
 - Com o descascador de legumes (ou uma faca bem afiada), descasque as goiabas, com cuidado para manter o formato da fruta bem redondinho. Corte cada goiaba ao meio e, com uma colher de sobremesa, retire o miolo com as sementes – você pode reservar esta parte da polpa na geladeira e preparar um suco. Corte cada metade da goiaba ao meio novamente.
-- --
 
 ---
 

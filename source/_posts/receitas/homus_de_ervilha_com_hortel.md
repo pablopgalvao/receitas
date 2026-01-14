@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - folhas de hortelã a gosto para decorar
 - Numa tigela coloque a ervilha, cubra com 2 xícaras (chá) de água fervente e deixe de molho por 30 minutos – isso diminui o tempo de cozimento da ervilha. Enquanto isso, prepare os outros ingredientes.
 - Transfira o homus para uma tigela e leve à geladeira por, no mínimo, 1 hora, para esfriar. Na hora de servir, regue com azeite e polvilhe folhas de hortelã a gosto.
-- --
 
 ---
 

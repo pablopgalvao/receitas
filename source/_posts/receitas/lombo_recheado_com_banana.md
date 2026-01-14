@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Coloque a manta escorrida sobre a camada de bacon, com a lombada (o meio que não foi cortado) paralelo às tiras. Centralize a manta e espalhe a pasta de alho e tempere com pimenta-do-reino moída na hora a gosto.
 - Descasque as bananas e corte uma ponta de cada, na diagonal para facilitar o encaixe de uma na outra. Coloque as bananas a cerca de três dedos da borda da manta, no sentido perpendicular ao bacon. Tempere as bananas com sal e pimenta-do-reino e enrole o lombo, com auxílio do filme, apertando para ficar bem justinho.
 - Retire o lombo do forno, transfira para uma tábua, mas mantenha coberto com o papel-alumínio. Junte cerca de 3 a 4 colheres dos líquidos que se formaram na assadeira ao molho e volte a panela ao fogo alto, apenas para misturar e aquecer bem. Se quiser, passe o molho pela peneira.
-- --
 
 ---
 

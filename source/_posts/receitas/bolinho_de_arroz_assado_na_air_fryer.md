@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz branco cozido
 - 1/2 xícara de chá de farinha de trigo (70 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Em seguida, adicione os ovos, o mix de salsinha e cebolinha, orégano, pimenta-do-reino e sal. Misture novamente;
 - Quando estiver bem misturadinho, adicione a farinha de trigo aos poucos e vá incorporando;
 - Coloque a air fryer para aquecer por 20 minutos a 200°C. Enquanto isso, com uma colher de sobremesa, pegue porções do bolinho e acomode-os no cesto da air fryer;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Adicione o extrato de tomate e mexa bem. Regue com a água e misture raspando o fundo da panela para dissolver os queimadinhos – eles dão sabor ao molho. Tempere com sal e, assim que ferver, volte as bracciolas para panela, tampe e aumente o fogo para alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por mais 30 minutos.
 - Enquanto isso coloque a manteiga numa frigideira pequena e leve ao fogo médio. Assim que derreter, acrescente a farinha de trigo e mexa bem por 2 minutos – essa mistura de manteiga e farinha, chamada roux, vai engrossar o molho. Desligue o fogo e reserve.
 - Passado o tempo de cozimento, desligue o fogo. Deixe o vapor sair e a válvula parar de apitar antes de abrir a panela de pressão. Com uma concha, transfira 1 xícara (chá) do caldo do cozimento para a frigideira com o roux e misture bem para dissolver os gruminhos de farinha. Volte a mistura para a panela com as bracciolas e deixe cozinhar em fogo médio por mais 15 minutos, até o molho engrossar. Desligue o fogo e misture a salsinha picada e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 150 ml de água filtrada ou mineral
 - 1 pacote de gelatina incolor e sem sabor (12 gramas)
 - 1 pacote de gelatina sabor morango (25 gramas)
 - Adicione uma colher de sopa de água e deixe a mistura descansar por 10 minutos para hidratar completamente;
-- --
 
 ---
 

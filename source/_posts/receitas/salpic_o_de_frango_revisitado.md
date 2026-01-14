@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Passe as maçãs inteiras (em pé) no mandolim para corta-las em rodelas finas. Corte também os talos de salsão em fatias finas, na diagonal (no mandolim). Pique fino o punhado de salsinha, reservando algumas folhas inteiras para decorar.
 - Misture o restante das maçãs, o salsão, a salsinha picada, as uvas-passas hidratadas e o frango desfiado com o molho de iogurte preparado.
 - No centro do círculo de maçãs, disponha o salpicão. Salpique com as nozes e as folhas de salsinha. Sirva a seguir ou leve à geladeira.
-- --
 
 ---
 

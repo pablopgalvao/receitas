@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - 1 colher (sopa) de creme de leite
 - ½ colher (chá) de mostarda de Dijon
 - Numa tigela de vidro pequena, leve o gorgonzola para derretor no micro-ondas por 15 segundos. Retire a tigela do micro-ondas e mexa bem com uma colher (caso ainda não esteja derretido completamente, volte ao micro-ondas por mais 10 segundos).
-- --
 
 ---
 

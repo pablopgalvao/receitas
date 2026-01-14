@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Na mesma panela junte os cubos de frango. Tempere com sal e pimenta-do-reino a gosto e deixe dourar em fogo médio. Com a pinça, vire os cubos para dourar por igual. Transfira para o mesmo prato das linguiças.
 - Mantenha a panela em fogo médio e regue com mais ½ colher (sopa) de azeite. Adicione a cebola, a cenoura, o salsão e o louro. Tempere com uma pitada de sal e refogue por cerca de 5 minutos até a cebola dourar. Junte o alho e mexa por mais 1 minuto.
 - Em seguida, junte o feijão escorrido. Misture delicadamente e deixe cozinhar, sem a tampa, por mais 5 minutos, para engrossar levemente o caldo. Desligue o fogo e divida o cassoulet em 2 pratos. Sirva a seguir salpicado com a farofinha de pão.
-- --
 
 ---
 

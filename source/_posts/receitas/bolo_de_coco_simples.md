@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Em uma tigela, coloque os ovos, o açúcar, o óleo e bata com um fouet (batedor de arame) até ficar homogêneo;
 - Acrescente a farinha, o coco ralado, o leite, o sal e misture novamente para obter uma massa lisa;
 - Por fim, junte o fermento e mexa com uma colher delicadamente, apenas para incorporar;
-- --
 
 ---
 

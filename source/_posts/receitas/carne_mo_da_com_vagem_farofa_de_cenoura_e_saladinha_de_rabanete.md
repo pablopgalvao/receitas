@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -51,7 +52,6 @@ flags: []
 - Transfira a carne dourada para uma tigela e mantenha a panela em fogo médio. Regue com o azeite restante e acrescente a cebola. Tempere com uma pitada de sal e refogue por cerca de 2 minutos, até murchar.
 - Adicione as vagens, tempere com sal, pimenta e refogue por 2 minutos até dourar levemente e começarem a ficar macias – não é para cozinhar demais, a ideia é que fiquem crocantes. Junte o alho e tempere com o cominho e a páprica. Mexa por 1 minuto para perfumar.
 - Regue a frigideira com 1 xícara (chá) da água quente, aos poucos, misturando com a espátula para incorporar o sabor do refogado. Volte a carne para a panela e deixe cozinhar por mais 2 minutos para o molho encorpar. Sirva a seguir com farofa de cenoura e a salada de rabanete com ervas.
-- --
 
 ---
 

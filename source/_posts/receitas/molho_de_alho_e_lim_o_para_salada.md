@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 2 colheres (sopa) de caldo de limão (½ limão)
 - ½ colher (chá) de sal
 - No pilão, bata o dente de alho com o sal até formar uma pastinha. Transfira para um pote de vidro (que tenha tampa), junte o caldo do limão, o azeite Andorinha, tampe e chacoalhe bem para misturar. Utilize a seguir ou mantenha na geladeira por até 3 dias.
-- --
 
 ---
 

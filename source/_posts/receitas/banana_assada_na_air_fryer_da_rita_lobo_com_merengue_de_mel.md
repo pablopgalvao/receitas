@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 2 colheres (sopa) de açúcar
 - Numa tigela média de borda alta, misture o mel com o açúcar — é importante ter a borda alta, pois a mistura pode borbulhar. Leve ao micro-ondas para aquecer por 30 segundos. Retire a tigela do micro-ondas, misture bem os ingredientes com uma colher (ou espátula de silicone pequena) e volte ao micro-ondas por mais 30 segundos para que o açúcar se dissolva completamente.
 - Com o batedor de claras acoplado ao mixer, bata a clara de ovo por cerca de 1 minuto, até o ponto de neve. Adicione a calda de mel aquecida e bata por mais 2 minutos, até virar um merengue firme e brilhante.
-- --
 
 ---
 

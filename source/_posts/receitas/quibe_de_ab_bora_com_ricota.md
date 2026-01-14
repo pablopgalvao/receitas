@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -51,7 +52,6 @@ flags: []
 - Misture o trigo com o purê de abóbora, as especiarias, o sal e 1 colher (sopa) de azeite, amassando bem com as mãos.
 - Espalhe metade da massa do quibe no refratário untado, pressionando delicadamente com as mãos até cobrir todo o fundo e formar uma base uniforme. Com uma colher, distribua o recheio sobre a massa do quibe.
 - Regue o quibe com 3 colheres (sopa) de azeite e gire delicadamente a assadeira para cobrir toda a superfície. Leve ao forno para assar por cerca de 35 minutos ou até dourar a superfície.
-- --
 
 ---
 

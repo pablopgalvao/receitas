@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarão rosa limpo
 - Sal a gosto
@@ -42,7 +42,6 @@ flags: []
 - Em uma terceira tigela, misture a farinha de trigo, o fubá e o amido de milho;
 - Agora, passe os camarões primeiro na mistura de farinhas, depois nos ovos batidos e, por último, envolva-os na farinha panko;
 - Em uma panela, coloque o óleo e deixe esquentar em fogo alto;
-- --
 
 ---
 

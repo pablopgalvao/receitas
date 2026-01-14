@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de peito de boi moído
 - 1 colher de chá de sal (ou a gosto)
@@ -37,7 +37,6 @@ flags: []
 - 300 gramas de alface
 - 7 colheres de sopa de Ketchup (ou a gosto)
 - Em um recipiente grande, coloque a carne moída. Tempere com sal e pimenta-do-reino. Use as mãos para garantir que os temperos vão se espalhar bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Mantenha a frigideira em fogo médio, regue com o azeite, adicione a cebola e doure por cerca de 6 minutos, mexendo de vez em quando. Junte o alho e mexa por 1 minuto para perfumar. Acrescente as sardinhas, tempere com pimenta-do-reino moída na hora a gosto e cozinhe por 1 minuto, mexendo delicadamente para não desmanchar os filés.
 - Desligue o fogo, junte o caldo e as raspas do limão. Prove e se necessário, ajuste o sal – lembre-se que a sardinha é salgada. Sirva as sardinhas quentes (ou em temperatura ambiente) com a cebola e o molho que se formou na frigideira sobre os pães.
-- --
 
 ---
 

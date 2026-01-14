@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - oriental
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - Numa panela grande, coloque 2 colheres (sopa) de manteiga e leve ao fogo médio para derreter. Adicione o alho e o gengibre e refogue por 1 minuto para perfumar. Junte as folhas de espinafre, tempere com uma pitada de sal e de pimenta e refogue por 2 minutos, até murchar — não deixe o espinafre cozinhar demais, pois escurece e fica amargo.
 - Volte a panela ao fogo alto para ferver. Adicione 1½ colher (chá) de sal, tempere com pimenta a gosto e acrescente o risoni. Abaixe o fogo e deixe cozinhar por cerca de 8 minutos, mexendo de vez em quando para não grudar no fundo, ou até que os grãos estejam cozidos e o risoni bem cremoso.
 - Desligue o fogo e misture 1 colher (sopa) de manteiga e as raspas de limão. Sirva a seguir com o iogurte drenado e farofinha de pão.
-- --
 
 ---
 

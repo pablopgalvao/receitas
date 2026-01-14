@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 kg de sobrecoxa de frango com pele
 - 1 colher de sopa de lemon pepper
@@ -39,7 +39,6 @@ flags: []
 - 200 ml de vinho branco seco
 - Em um bowl grande, adicione as sobrecoxas e tempere com alho, lemon pepper, páprica, raspas e suco dos limões, sal e azeite. Misture bem com as mãos limpas, massageando o tempero em toda a carne;
 - Forre o fundo de uma assadeira grande com as rodelas de cebola, distribuindo bem. Polvilhe uma pitada leve de sal sobre elas. Espalhe as rodelas de cenoura por cima da cebola, formando uma camada uniforme;
-- --
 
 ---
 

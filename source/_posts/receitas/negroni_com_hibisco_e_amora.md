@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 25 ml de gin
 - 25 ml de Vermute Rosso
@@ -35,7 +35,6 @@ flags: []
 - 25 ml de água quente para infusão
 - Gelo a gosto
 - Coe e sirva em um copo baixo com gelo novo, de preferência uma pedra grande;
-- --
 
 ---
 

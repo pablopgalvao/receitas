@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 118 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 copo de leite (120 ml)
 - 1/2 xícara de chá de farinha de trigo (70 gramas)
@@ -35,7 +35,6 @@ flags: []
 - Páprica picante a gosto
 - Flocão de milho (300 gramas)
 - Em uma tigela, bata o ovo, o leite, a farinha de trigo, o sal e a páprica até formar uma massa cremosa e levemente espessa;
-- --
 
 ---
 

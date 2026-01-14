@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - sal a gosto
 - 1 xícara (chá) de queijo de coalho ralado fino
 - Adicione o leite e leve a panela ao fogo baixo. Mexa bem com uma espátula por cerca de 5 minutos até formar um purê bem cremoso. Tempere com sal e misture a manteiga.
-- --
 
 ---
 

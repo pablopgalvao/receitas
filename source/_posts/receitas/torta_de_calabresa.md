@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de linguiça calabresa defumada picada
 - 200 gramas de milho-verde
@@ -43,7 +43,6 @@ flags: []
 - Para a massa, em um liquidificador, coloque os ovos, o leite, o óleo, o creme de leite e um pouquinho de sal. Bata até misturar bem (cerca de 2 minutos);
 - Com o liquidificador batendo, acrescente a farinha de trigo e o fermento. Deixe bater até tudo incorporar;
 - Para a montagem, coloque 2/3 da massa em uma forma untada e enfarinhada;
-- --
 
 ---
 

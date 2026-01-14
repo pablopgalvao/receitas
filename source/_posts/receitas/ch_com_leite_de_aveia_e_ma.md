@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água
 - 100 ml de leite de aveia
 - 1/2 colher de chá de canela em pó (ou 1 pau de canela)
 - 1 colher de chá de mel ou pasta de tâmaras (opcional)
 - Sirva em uma caneca, finalize com raspas de maçã fresca ou uma pitada de canela por cima. Ideal para um momento de presença e aconchego!
-- --
 
 ---
 

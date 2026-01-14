@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - 1 pitada de sal
 - Numa tigela, misture a farinha de mandioca, o coco, o açúcar demerara, a canela e o sal.
 - Leve uma frigideira média com a manteiga ao fogo médio. Quando derreter, acrescente a mistura de secos. Deixe dourar por 3 minutos, mexendo de vez em quando com uma espátula, até a farofa ficar dourada, crocante e sequinha.
-- --
 
 ---
 

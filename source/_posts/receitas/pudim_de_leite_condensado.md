@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 1/2 xícara de chá de água quente (120 ml)
@@ -37,7 +37,6 @@ flags: []
 - Para fazer a calda, escolha uma panela de fundo grosso e coloque o açúcar. Ligue o fogo baixo e derreta até não restar quase nenhum cristal;
 - Cuidadosamente, coloque a água quente na panela e misture vigorosamente para derreter os cristais de açúcar novamente ou até os torrões de açúcar se desmancharem e formar a calda em ponto de xarope;
 - Quebre um ovo de cada vez em um pote separado e, se ele estiver bom, adicione no liquidificador. Junte o leite, o leite condensado e bata por aproximadamente 1 minuto até a mistura ficar completamente homogênea;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com a manteiga ao fogo médio. Quando derreter, acrescente o repolho, tempere com uma pitada de sal e refogue por cerca de 3 minutos até murchar.
 - Acrescente a água, o vinagre, o cravo, o açúcar e a maçã (com o caldo). Misture bem e deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando, até o repolho ficar bem macio. Prove e tempere com sal e pimenta-do-reino moída na hora a gosto. Sirva a seguir.
-- --
 
 ---
 

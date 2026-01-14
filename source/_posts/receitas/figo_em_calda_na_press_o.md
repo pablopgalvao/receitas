@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de água
 - 2 colheres (sopa) de caldo de limão
 - Cubra o fundo da panela de pressão com o açúcar e acomode os figos de pé (ou deitados), um ao lado do outro. Regue com a água e o caldo de limão. Adicione a rama de canela, tampe a panela e leve ao fogo alto. Quando a panela começar a apitar, abaixe o fogo e deixe cozinhar por 10 minutos.
-- --
 
 ---
 

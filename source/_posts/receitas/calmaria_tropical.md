@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água fervente
 - 150 ml de água de coco gelada
 - 1 colher de chá de mel ou xarope de agave (opcional)
 - Gelo a gosto
 - Em 200 ml de água fervente, coloque os sachês e deixe em infusão por 5 minutos. Depois, retire os sachês e leve à geladeira para esfriar;
-- --
 
 ---
 

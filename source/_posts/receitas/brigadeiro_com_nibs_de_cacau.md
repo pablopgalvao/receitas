@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 xícara (chá) de nibs de cacau
 - Com as mãos, quebre o chocolate em pedaços e transfira para uma panela média. Junte o leite condensado e a manteiga.
 - Unte as mãos com um pouco de água – assim os nibs de cacau grudam melhor no brigadeiro. Com uma colher de chá, retire uma porção da massa, enrole numa bolinha e transfira para o prato com nibs. Faça de uma só vez quantos brigadeiros couberem no prato.
-- --
 
 ---
 

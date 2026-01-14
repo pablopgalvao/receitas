@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - pimenta-do-reino em grãos moída na hora a gosto
 - Transfira os pães para dois pratos. No centro de cada pão, espalhe cerca de 3 colheres (sopa) de homus. Disponha fatias de rabanete, sobre o homus, formando um disco.
 - Com dois garfos retire uma porção de picles da tigela - deixe escorrer o excesso de caldo - e coloque no centro de cada sanduíche. Salpique com grão-de-bico assado, regue com azeite e tempere com pimenta-do-reino a gosto.
-- --
 
 ---
 

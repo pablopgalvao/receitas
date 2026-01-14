@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de feijão cozido (600 gramas)
 - 2 xícaras de chá de água filtrada (480 ml)
@@ -38,7 +38,6 @@ flags: []
 - 1 xícara de chá de macarrão Ave Maria
 - 1 colher de sopa de cheiro-verde picado (5 gramas)
 - Despeje na panela todo o feijão batido. Tempere com sal e pimenta-do-reino, misturando bem para que tudo se incorpore;
-- --
 
 ---
 

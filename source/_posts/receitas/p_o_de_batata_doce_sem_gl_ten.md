@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de batata-doce descascada, picada e cozida
 - 1/2 xícara de chá de água
@@ -37,7 +37,6 @@ flags: []
 - 1/2 xícara de chá de aveia em flocos finos sem glúten
 - 1 colher de sopa de fermento biológico seco
 - Coloque a água, os ovos, a batata amassada, o sal, o orégano, a farinha e a aveia no liquidificador, e bata até atingir uma mistura homogênea;
-- --
 
 ---
 

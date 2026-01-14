@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Numa tigela, coloque os gomos e esprema o suco do que sobrou da laranja. Regue com um fio de azeite, tempere com sal e pimenta-do-reino moída na hora a gosto. Misture as folhas de coentro e sirva a seguir.
 - Num prato, coloque o cuscuz marroquino e a tranche de salmão por cima. Regue com o líquido que ficou no papilote.
 - Disponha a saladinha de laranja pelo prato e regue tudo com o molho que se formou. Sirva.
-- --
 
 ---
 

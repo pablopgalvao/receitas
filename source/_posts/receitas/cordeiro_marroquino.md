@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Leve uma panela média ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite e doure os cubos de carne em etapas – se colocar toda a carne de uma só vez, ela vai soltar água e cozinhar em vez de dourar. Transfira a carne dourada para uma travessa e repita a operação, regando com mais ½ colher (sopa) de azeite a cada leva – os queimadinhos que ficam no fundo da panela são essenciais para dar sabor ao molho.
 - Mantenha a panela em fogo médio e regue com mais 1 colher (sopa) de azeite. Junte a cebola, tempere com uma pitada de sal e refogue até murchar, por 3 minutos. Tempere com o cominho, a páprica, a canela e o louro, misture bem. Junte a farinha e mexa bem por mais 2 minutos – ela ajuda a engrossar o molho.
 - Volte a carne para a panela e misture bem. Regue com a água fervente, aos poucos, raspando bem o fundo da panela com uma espátula para dissolver os queimadinhos. Junte o grão-de-bico escorrido, tempere com mais um pouco de sal e pimenta e deixe cozinhar em fogo alto até ferver.
-- --
 
 ---
 

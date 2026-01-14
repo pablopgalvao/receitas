@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de camarão médio descascado e limpo
 - 300 ml litro de leite integral
@@ -45,7 +45,6 @@ flags: []
 - Na mesma frigideira, derreta a manteiga e refogue a cebola e o alho até começar a dourar. Depois, adicione a farinha de trigo e o leite aos poucos até incorporar completamente no molho;
 - Em seguida, coloque o ketchup, a mostarda, o leite de coco e o creme de leite, misturando tudo muito bem. Prove o sabor e acerte o sal se necessário;
 - Volte os camarões para a panela, misture bem e finalize com a salsinha picada;
-- --
 
 ---
 

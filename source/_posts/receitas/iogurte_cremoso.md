@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - Sopa de iogurte com manteiga de hortelã
 - 2 xícaras (chá) de iogurte natural sem açúcar (ou 3 potes de 170 g)
 - Transfira o iogurte para uma tigela e utilize a seguir — se preferir, tampe e mantenha na geladeira até a hora de consumir. Você pode comer puro, com mel, frutas ou até utilizar em receitas salgadas.
-- --
 
 ---
 

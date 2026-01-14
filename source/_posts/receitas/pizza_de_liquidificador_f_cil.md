@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite (240 ml)
 - 1 ovo grande
@@ -45,7 +45,6 @@ flags: []
 - Para a massa, em um liquidificador, coloque o leite, o ovo, o sal, o açúcar, a manteiga e a farinha de trigo. Bata até obter uma massa homogênea e lisinha. Com o liquidificador desligado, adicione o fermento químico e mexa com uma colher apenas para incorporar;
 - Em uma forma redonda para pizza, untada com manteiga, despeje a massa. Com uma colher, espalhe bem para a massa ficar uniforme. Leve para pré-assar no forno preaquecido a 180 ºC por 20 minutos;
 - Cubra o molho com o queijo gouda. Salpique parmesão ralado por cima e disponha os tomatinhos e as azeitonas;
-- --
 
 ---
 

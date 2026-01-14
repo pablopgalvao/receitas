@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de costelinha suína bem carnuda
 - 1 talo de salsão cortado em cubos médios
@@ -42,7 +42,6 @@ flags: []
 - Esquente uma panela de pressão. Assim que ficar quente, coloque um fio de azeite e os pedaços de costelinha, e deixe dourar. Passado um tempo, acrescente o sal por cima e cubra com mais um fio de azeite. Vá mexendo para pegar cor em toda a carne por cerca de 10 minutos;
 - Após dourar, retire as costelinhas da panela e reserve. Na mesma panela, acrescente o alho e deixe dourar levemente. Depois, junte a cebola, o pimentão e o salsão. Deixe refogar, mexendo bem o fundo, para pegar todo o sabor da crostinha que se formou do refogado da carne;
 - Quando começar a grudar no fundo de novo, volte as costelinhas para a panela. Acrescente os tomates, o shoyu e a cerveja. Mexa bem, para misturar tudo, e acerte o sal. Tampe a panela e, assim que começar a pegar pressão, deixe no fogo mais baixo e conte 15 minutos;
-- --
 
 ---
 

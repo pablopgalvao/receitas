@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - açúcar de confeiteiro para polvilhar a gosto
 - hortelã a gosto
 - Desenforme o brownie e descarte o papel da lateral. Cubra com um prato e vire de uma só vez. Retire delicadamente a base da fôrma e o papel manteiga do fundo do brownie. Desvire sobre o prato de servir e polvilhe com açúcar de confeiteiro a gosto. Sirva com as frutas picadas, folhas de hortelã e creme de leite fresco batido.
-- --
 
 ---
 

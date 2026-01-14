@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 7 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Enquanto isso, separe uma tigela com gelo e água. Lave, seque e pique fino a salsinha. Lave, seque e pique o dill.
 - Passados os 7 minutos, com a escumadeira, transfira os ovos cozidos para a tigela com água e gelo para cessar o cozimento e esfriar – assim fica mais fácil para descascar.
 - Numa tigela misture bem a maionese com as ervas picadas. Corte os ovos em quartos, no sentido do comprimento. Corte cada quarto em 3 pedaços no sentido da largura e transfira para a tigela com a maionese. Misture bem com uma colher e ajuste o sal – não se preocupe se as gemas se soltarem dos pedaços de ovo, a idéia é incorporar parte delas ao molho para ficar cremoso. Sirva a seguir com pães, legumes e salada de folhas.
-- --
 
 ---
 

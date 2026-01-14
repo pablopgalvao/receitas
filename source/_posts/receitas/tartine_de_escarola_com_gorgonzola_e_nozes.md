@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal a gosto
 - Destaque as folhas do maço de escarola e lave sob água corrente. Transfira para uma centrífuga de saladas e seque bem.
 - Mantenha a frigideira em fogo médio, regue com o azeite, adicione o alho e mexa por 2 minutos para perfumar. Acrescente a escarola, tempere com sal e refogue por cerca de 2 minutos, até murchar levemente (caso sua frigideira seja pequena, refogue a escarola em duas etapas).
-- --
 
 ---
 

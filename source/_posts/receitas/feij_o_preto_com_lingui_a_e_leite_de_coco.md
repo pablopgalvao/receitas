@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - sal a gosto
 - Leve uma panela média ao fogo médio. Regue com o azeite, junte a cebola, tempere com uma pitada de sal e refogue até murchar. Acrescente os tomates, o coentro e a cebolinha picados e refogue por mais 5 minutos. Junte duas conchas do feijão cozido (com o caldo à panela), misture e amasse com a espátula - esse purezinho ajuda a engrossar o caldo.
 - Misture o restante do feijão cozido (com o caldo), acrescente a linguiça, tempere com sal e deixe cozinhar em fogo alto até ferver. Abaixe o fogo e deixe cozinhar por mais 20 minutos, ou até o caldo engrossar. Junte o leite de coco e deixe cozinhar mais 5 minutos antes de servir.
-- --
 
 ---
 

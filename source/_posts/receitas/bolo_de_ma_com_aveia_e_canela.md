@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de adoçante (20 gramas)
 - 1 colher de chá de óleo de coco sem sabor
@@ -39,7 +39,6 @@ flags: []
 - Em um mixer (ou processador), adicione a maçã, o ovo, o óleo de coco e o adoçante. Bata bem, até que a massa fique homogênea e consistente;
 - Transfira a massa para uma tigela grande, agregue a farinha de aveia e a canela, misturando bem com um fouet (batedor de arame);
 - Prontinho. Deguste dessa delicia com uma xícara de café quentinha ao lado!
-- --
 
 ---
 

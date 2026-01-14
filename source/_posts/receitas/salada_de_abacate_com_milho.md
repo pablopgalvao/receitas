@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - ½ xícara de chá de milho cozido
 - Sal a gosto
@@ -35,7 +35,6 @@ flags: []
 - Alface lisa a gosto
 - Acrescente o suco de limão, principalmente sobre os pedaços de abacate para que eles não oxidem (escureçam); na sequência, adicione o sal, o azeite de oliva e misture;
 - Forre uma travessa com folhas de alface, coloque a salada temperada sobre elas e sirva na sequência.
-- --
 
 ---
 

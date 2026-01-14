@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de azeite
 - 1/4 xícara de chá (mais o suficiente para decorar) de azeitona verde sem caroço picada
@@ -48,7 +48,6 @@ flags: []
 - Use um fio de azeite para untar uma forma tubo média (22 cm de diâmetro e 8 cm de altura). No fundo, coloque 4 rodelas de ovo cozido (não corte muito finas), 2 rodelas de tomate, metade da lata de sardinha e um punhado de azeitonas picadas;
 - Com uma colher, acomode metade da massa de cuscuz na forma, pressionando levemente. Decore as laterais da forma com mais 4 rodelas de ovo cozido, 4 rodelas de tomate e a outra metade da lata de sardinha;
 - Acrescente o restante do cuscuz e aperte bem com o auxílio de uma colher. Leve à geladeira por 30 minutos;
-- --
 
 ---
 

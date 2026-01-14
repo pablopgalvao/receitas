@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Enquanto isso, descasque e passe a cenoura pela parte grossa do ralador. Lave e seque as ervas. Fatie fino a cebolinha e os talos da salsinha (reserve as folhas para servir).
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) do óleo, junte a cenoura, tempere com uma pitada de sal e refogue por 4 minutos até murchar bem. Junte o gengibre, a cebolinha e o talo da salsinha fatiados e mexa bem por 1 minuto para perfumar.
 - Acrescente o óleo restante, adicione o arroz e tempere com sal. Frite bem por 15 minutos para absorver os sabores do refogado e os grãos ficarem soltinhos, levemente tostados. Sirva a seguir com folhas da salsinha frescas.
-- --
 
 ---
 

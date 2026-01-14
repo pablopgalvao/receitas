@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 batata-doce média (300 gramas)
 - 3 colheres de sopa de azeite (45ml)
@@ -35,7 +35,6 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Transfira as fatias para uma tigela e tempere com azeite, páprica doce, sal e pimenta-do-reino. Misture bem com as mãos, até que todos os chips fiquem envolvidos pelos temperos;
-- --
 
 ---
 

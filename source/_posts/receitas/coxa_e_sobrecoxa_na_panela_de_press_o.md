@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 8 colheres de sopa de azeite
 - 1 colher de sopa de manteiga
@@ -37,7 +37,6 @@ flags: []
 - 1 kg de coxa e sobrecoxa de frango sem pele
 - Em uma tigela, adicione a coxa e a sobrecoxa, o suco de limão, o alho, o sal, o colorau, a pimenta-do-reino e as 4 colheres de azeite. Misture muito bem com as mãos e reserve;
 - Na panela de pressão, acrescente o restante do azeite, a manteiga, as batatas, os tomates, a cebola e a pimenta-biquinho;
-- --
 
 ---
 

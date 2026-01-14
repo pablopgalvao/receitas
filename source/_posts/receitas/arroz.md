@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 18 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz agulhinha
 - 1 colher de sopa de óleo
@@ -36,7 +36,6 @@ flags: []
 - Utilizamos apenas um dente de alho. Se você prefere um sabor acentuado, utilize dois. Também pode usar meia cebola fatiada bem fininha. É possível substituir o óleo por azeite;
 - Em uma panela média, esquente o óleo em fogo baixo. Leve o alho para refogar (e a cebola, se quiser), mexendo constantemente. Assim que o alho dourar, adicione o arroz e o sal. Mexa bem para os grãos ficarem soltinhos;
 - Após refogar o arroz por cerca de 1 minuto (isso ajuda a deixar o arroz soltinho), acrescente a folha e a água fervente. Experimente a água do cozimento e, se preciso, acerte o sal;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - 2½ colheres (sopa) de água filtrada
 - sal a gosto
 - No mini-processador de alimentos, junte o abacate, o caldo de limão, o azeite, as folhas de coentro e tempere com 1 pitada de sal. Bata bem, até formar um molho cremoso. Adicione a água filtrada aos poucos, batendo a cada adição até atingir a consistência desejada (mais espesso ou mais fluido). Prove e ajuste o sal. Sirva com sanduíches, grelhados ou saladas.
-- --
 
 ---
 

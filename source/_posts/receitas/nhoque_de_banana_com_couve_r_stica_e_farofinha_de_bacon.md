@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Numa tigela, misture o amido de milho com a água, até dissolver. Junte ao creme de banana e leve ao fogo médio para cozinhar por cerca de 5 minutos, sem parar de mexer, até soltar do fundo. Tempere com sal e pimenta-do-reino, junte o queijo e misture bem.
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite e junte metade dos nhoques. Deixe dourar por cerca de 1 a 2 minutos de cada lado e transfira para um prato. Repita com a massa restante.
 - Regue com mais 2 colheres (sopa) de azeite e refogue as folhas de couve até chamuscar levemente as bordas. Tempere com sal e pimenta-do-reino a gosto. Volte os nhoques para a frigideira, misture com a couve e transfira para dois pratos. Salpique cada porção de nhoque com a farofinha de bacon crocante e sirva a seguir.
-- --
 
 ---
 

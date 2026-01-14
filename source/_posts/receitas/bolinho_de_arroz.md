@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz já cozido
 - 1 ovo (levemente batido)
@@ -40,7 +40,6 @@ flags: []
 - 1 colher de sopa de cebolinha picadinha
 - Óleo para fritar
 - Em uma panela média, coloque uma quantidade de óleo suficiente para os bolinhos ficarem submersos. Esquente o óleo entre 160 ºC e 170 ºC. Coloque um pedaço da massa na panela, quando ele começar a borbulhar, a temperatura está boa para fritar;
-- --
 
 ---
 

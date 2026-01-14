@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa tigela, coloque a farinha de milho e vá adicionando 1 xícara (chá) de água, aos poucos, mexendo com as mãos até ficar com a consistência de areia molhada. Deixe descansar por 5 minutos para hidratar.
 - Leve uma panela grande ao fogo médio. Regue com ¼ de xícara (chá) de azeite, adicione a cebola e refogue por 3 minutos, até murchar bem. Junte a abóbora picada, tempere com uma pitada de sal e refogue por 4 minutos até ficar levemente macia, mas sem desmanchar. Acrescente as pimentas, os tomates e mexa bem por 1 minuto.
 - Adicione o feijão cozido (e escorrido) ao refogado, tempere com sal e misture para aquecer. Solte o cuscuz cozido com um garfo e junte à panela, adicione o coentro picado e misture delicadamente. Transfira para uma tigela, regue com azeite a gosto e sirva.
-- --
 
 ---
 

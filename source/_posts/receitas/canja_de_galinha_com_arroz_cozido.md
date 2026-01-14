@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de coxinha da asa
 - 1 colher de chá de páprica defumada
@@ -39,7 +39,6 @@ flags: []
 - Cheiro-verde a gosto
 - Aqueça uma panela com um fio de óleo. Refogue o alho e a cebola na panela rapidamente, até que fiquem levemente amarelados;
 - Quando os pedaços de frango já estiverem esbranquiçados, acrescente as cenouras, a páprica, o extrato de tomate, o sal e misture bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de azeite
 - 2 colheres de chá de páprica defumada
@@ -41,7 +41,6 @@ flags: []
 - 1 xícara de chá de água
 - 1 colher de sopa (rasa) de amido de milho
 - Coloque o azeite, a páprica defumada, a páprica picante, a pimenta, o sal, o alho e o suco de limão em uma tigela, misture, e mergulhe o frango no tempero;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - 1 colher (chá) de sal
 - Coloque a água numa panela média e leve ao fogo alto. Assim que ferver, junte o sal, o arroz e misture. Abaixe o fogo e tampe parcialmente a panela. Deixe cozinhar por cerca de 12 minutos, até o arroz absorver toda a água - para verificar, espete os grãos com um garfo até conseguir ver o fundo da panela.
 - Assim que o arroz estiver cozido, junte a manteiga e o leite. Mexa por mais 5 minutos até o arroz ficar cremoso - não deixe o leite secar completamente; o arroz deve ficar bem úmido, como um risoto. Sirva imediatamente.
-- --
 
 ---
 

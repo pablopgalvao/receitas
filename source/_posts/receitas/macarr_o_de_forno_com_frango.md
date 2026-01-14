@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 sachê de molho de tomate (300 gramas)
 - 1 caixinha de creme de leite (200 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Queijo mussarela ralado a gosto
 - Em uma tigela, acrescente o molho, o creme de leite, o sal e a pimenta. Misture tudo com uma colher para homogeneizar;
 - Transfira o macarrão para um refratário que possa ir ao forno e salpique a mussarela ralada por cima. Leve para gratinar a 180 ºC, por cerca de 10 minutinhos;
-- --
 
 ---
 

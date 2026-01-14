@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 500 gramas de ervilha
 - 100 gramas de bacon
 - Na panela de pressão, frite o bacon (não é necessário óleo, ele mesmo libera). Quando pegar uma corzinha, acrescente as linguiças e vá misturando para que tudo fique dourado;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de manteiga (ou margarina) em temperatura ambiente
 - 2 xícaras de chá de açúcar (400 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Enquanto prepara a massa, deixe o forno preaquecendo a 180 °C. Em uma tigela grande, coloque os ovos, a manteiga em temperatura ambiente e o açúcar. Com um fuê (batedor de bolo), bata essa mistura até formar um creme bem lisinho;
 - Junte o sal e o fermento. Misture cuidadosamente para incorporar;
 - Despeje a massa em uma forma redonda com furo no meio (20 cm de diâmetro), untada e enfarinhada. Polvilhe açúcar e canela por cima da massa;
-- --
 
 ---
 

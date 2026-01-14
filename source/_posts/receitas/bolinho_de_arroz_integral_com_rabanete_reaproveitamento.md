@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Transfira as fatias de cebola douradas para uma tigela e reserve. Aumente o fogo da frigideira para médio e regue com mais 1 colher (chá) de azeite. Acrescente o rabanete e refogue por cerca de 2 minutos, até murchar. Misture a salsinha e o tomilho debulhado.
 - Junte o refogado de rabanete à cebola, acrescente o arroz cozido, as raspas de limão e misture bem. Adicione o queijo ralado, prove e tempere com sal e pimenta a gosto. Acrescente o ovo e misture novamente. Por último, misture bem o amido de milho.
 - Passe um pedaço de papel-toalha na frigideira para limpar (não precisa lavar!) e leve ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, adicione duas colheradas da massa de bolinho de arroz e achate levemente com as costas da colher formando um disco de cerca de 7 cm de diâmetro — faça de 1 a 2 bolinhos por vez, deixando espaço entre cada um na frigideira.
-- --
 
 ---
 

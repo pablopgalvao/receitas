@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de grão-de-bico cozido
 - Azeite a gosto
@@ -42,7 +42,6 @@ flags: []
 - 2 colheres de sopa de cebolinha
 - 2 colheres de sopa de salsinha
 - Por fim, adicione o espinafre cru na salada e misture para incorporar;
-- --
 
 ---
 

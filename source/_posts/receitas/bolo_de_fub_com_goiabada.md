@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de farinha de trigo sem fermento
 - 1 xícara de chá de fubá
@@ -41,7 +41,6 @@ flags: []
 - No liquidificador, coloque os ovos, o óleo, o leite e o açúcar. Bata por cerca de 2 minutos, até tudo ficar bem misturado;
 - Despeje a massa em uma forma untada com manteiga e fubá e espalhe-a;
 - Passe os cubinho de goiabada em um pouco de farinha;
-- --
 
 ---
 

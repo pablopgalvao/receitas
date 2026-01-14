@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - No liquidificador, bata a couve com o azeite, o alho, o caldo de limão, o queijo meia-cura e ⅓ de xícara (chá) da água do cozimento do macarrão, até ficar liso.
 - Numa tigela pequena, quebre o ovo e transfira para o liquidificador — se ele estiver estragado você não perde a receita. Tempere com sal e pimenta a gosto e bata por 1 minuto apenas para incorporar.
 - Assim que estiver cozido, escorra o macarrão e volte-o para a panela — nem precisa lavar nem secar a panela. Junte o molho de couve e misture bem — o calor da massa é o suficiente para cozinhar o ovo e formar um creme. Volte a panela ao fogo baixo e adicione o restante da água do cozimento reservada aos poucos, mexendo com uma espátula, até formar um molho espesso. Sirva a seguir com a farofa de castanha.
-- --
 
 ---
 

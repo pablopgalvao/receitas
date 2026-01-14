@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma panela grande com 3 litros de água ao fogo alto para ferver. Misture 1½ colher (sopa) de sal, adicione o macarrão e deixe cozinhar por 3 minutos a menos que o tempo indicado na embalagem — o macarrão deve ainda estar cru no centro para terminar de cozinhar com o molho.
 - Reserve 1 xícara (chá) da água do cozimento e escorra o macarrão.
 - Junte a massa ao molho, deixe em fogo baixo e vá adicionando, aos poucos, ½ xícara (chá) da água do cozimento, mexendo com a espátula até que o macarrão termine de cozinhar. Nesse método, o macarrão é finalizado com o molho, como se fosse um risoto — isso faz com que o molho fique mais aveludado e a massa absorva mais sabor. Acrescente a lula e misture bem. Sirva a seguir com folhas de manjericão.
-- --
 
 ---
 

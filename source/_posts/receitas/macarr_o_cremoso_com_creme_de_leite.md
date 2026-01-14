@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de macarrão penne (100 gramas)
 - 1 colher de sopa de azeite (15ml)
@@ -41,7 +41,6 @@ flags: []
 - Depois, leve uma panela grande ao fogo alto, adicione água e sal, e cozinhe o macarrão por 8 minutos, ou até que fique macio;
 - Enquanto a massa cozinha, aqueça outra panela em fogo médio com o azeite e a manteiga. Acrescente a cebola e o alho picado, fritando até dourar;
 - Em seguida, tempere com a pimenta-do-reino, o Sazón de limão, a salsinha picada e o queijo parmesão;
-- --
 
 ---
 

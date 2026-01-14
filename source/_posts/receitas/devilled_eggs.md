@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Desligue o fogo, e com a escumadeira, transfira os ovos cozidos para uma tigela com água e gelo. Deixe esfriar completamente antes de descascar.
 - Corte os ovos descascados ao meio, no sentido do comprimento, com cuidado para não rachar as claras. Com uma colher pequena, transfira as gemas cozidas para uma tigela e disponha as metades de claras num prato, com a parte oca virada para cima.
 - Com duas colheres de chá (ou saco de confeiteiro), preencha as cavidades das claras com a pastinha de gemas e leve à geladeira até a hora de servir. Polvilhe com páprica a gosto na hora de servir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Cheiro-verde a gosto
 - 3 e 1/2 colheres de café rasas de sal (ou a gosto)
@@ -40,7 +40,6 @@ flags: []
 - Salpique sal, pimenta-do-reino, páprica picante, cúrcuma e azeite de oliva. Com as mãos, misture os temperos até que se espalhem por todos os pedaços de tilápia;
 - Em seguida, adicione os pimentões, os tomates picado, sal, pimenta-do-reino, cheiro-verde e a água. Tampe a panela e deixe cozinhar por cerca de 20 minutos;
 - Desligue o fogo, finalize salpicando mais cheiro-verde e está pronto! Sirva com arroz fresquinho.
-- --
 
 ---
 

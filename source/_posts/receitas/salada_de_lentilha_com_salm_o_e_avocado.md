@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 7 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - azeite a gosto
 - Retire o salmão do caldo e desmanche a tranche em lascas, pressionando com um garfo. Despreze a pele e o caldo.
 - Misture metade das lascas com a lentilha temperada. Junte as folhas de endro e transfira para uma travessa. Disponha as metades de avocado fatiadas e as lascas de salmão restantes sobre a salada. Se quiser, regue com mais um pouco de azeite e seguir.
-- --
 
 ---
 

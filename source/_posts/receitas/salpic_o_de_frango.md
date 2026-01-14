@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -53,7 +54,6 @@ flags: []
 - Lave e seque as cenouras e os talos de salsão. Descasque as cenouras e, com um fatiador de legumes específico, corte a cenoura do centro para as pontas em tirinhas (se preferir, passe as cenouras pela parte grossa do ralador). Com o descascador de legumes, retire as fibras superficiais do salsão. Passe os talos pelo fatiador de legumes (mandolim) para cortar em fatias bem finas (se preferir, fatie fino com a faca).
 - Numa tigela grande misture bem a maionese com o iogurte. Junte as uvas-passas (com o caldo), acrescente o frango desfiado, a cenoura e o salsão fatiados. Tempere com sal e pimenta a gosto e misture bem. Você já pode servir o salpicão em seguida mas, de preferência, mantenha na geladeira por pelo menos 20 minutos para curtir – quanto mais tempo no molho, mais gostoso o salpicão fica.
 - Escorra a água das maçãs por uma peneira e acrescente ⅔ dos cubos ao salpicão, misture delicadamente, Reserve o restante numa tigela e tempere com um fio de azeite. Sirva o salpicão com as maçãs em cubos e as nozes tostadas.
-- --
 
 ---
 

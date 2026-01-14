@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Leve uma panela grande com cerca de 5 litros de água ao fogo alto para ferver. Misture 2 colheres (sopa) de sal. Quando estiver fervendo, acrescente o macarrão e deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente — mexa de vez em quando para que as tiras não grudem uma na outra.
 - Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento. Passe o macarrão pelo escorredor e transfira para a tigela com o molho de tomate.
 - Vá adicionando aos poucos a água do cozimento reservada, misturando delicadamente, para deixar o molho mais fluido — não coloque toda a água de uma só vez, pois o molho pode ficar aguado. Sirva a seguir com as burratas rasgadas e folhas de manjericão a gosto.
-- --
 
 ---
 

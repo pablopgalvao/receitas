@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de queijo parmesão (50 gramas)
 - 5 colheres de sopa de manteiga (75 gramas)
@@ -35,7 +35,6 @@ flags: []
 - Comece ralando o queijo parmesão e cortando a manteiga em cubos;
 - Em uma tigela de vidro, coloque uma concha generosa da água do cozimento do macarrão. Deixe a água por alguns minutinhos, apenas para esquentar a tigela e logo depois, descarte. Coloque a manteiga no recipiente;
 - Pegue uma porção de macarrão e coloque na tigela. Vá mexendo constantemente para que a manteiga derreta e envolva a massa;
-- --
 
 ---
 

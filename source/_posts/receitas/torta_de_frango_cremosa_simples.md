@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de frango cozido e desfiado
 - 1 xícara de chá de creme de ricota (100 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Queijo minas padrão ou mussarela para finalizar (80 gramas)
 - Em uma tigela, quebre os ovos separadamente, para verificar se estão bons;
 - Adicione o frango desfiado, o creme de ricota, a tapioca, o milho, a cebolinha, o sal e a pimenta-do-reino; Misture bem até formar uma massa homogênea;
-- --
 
 ---
 

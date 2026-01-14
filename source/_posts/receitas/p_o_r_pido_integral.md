@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - óleo para untar a fôrma
 - Separe uma fôrma de bolo inglês de 22 cm x 10 cm. Com uma folha de papel-toalha, espalhe uma camada fina de óleo na parte interna para untar.
 - Numa tigela grande coloque as farinhas de trigo branca e integral. Adicione o sal, o fermento e misture bem. Junte o leite, aos poucos, e vá misturando com uma espátula para incorporar. Mexa até formar uma massa lisa e um pouco grudenta. Não precisa sovar!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Junte o restante da água, o filé de frango, a folha de salsão e a cebola cravejada. Tampe a panela e aumente o fogo para alto. Assim que começar a sair vapor pela válvula, conte 3 minutos. Desligue o fogo imediatamente e, com a ajuda de um garfo, levante a válvula para tirar a pressão.
 - Depois que todo o vapor sair, abra a tampa da panela. Retire o filé de frango, as folhas de salsão e a cebola cravejada. Reserve o filé de frango para outra preparação e descarte a cebola e o salsão.
 - Acrescente a manteiga e o queijo de cabra ralado. Tempere com sal e misture bem. Transfira o risoto para uma tigela e sirva a seguir com os legumes grelhados.
-- --
 
 ---
 

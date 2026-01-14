@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de batatas
 - 1/2 copo de requeijão (100 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Parmesão ralado a gosto
 - Em um recipiente, coloque o requeijão, o creme de leite, a cebolinha, o bacon, a mussarela, o sal, a páprica, o orégano, a manteiga e misture bem;
 - Em um refratário untado com manteiga, disponha as batatas, fazendo camadas;
-- --
 
 ---
 

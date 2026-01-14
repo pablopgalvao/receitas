@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de açúcar (410 gramas)
 - Suco de 1 limão (30 ml)
 - Coloque o açúcar em uma panela de fundo grosso e leve ao fogo médio, até que fique dourado e se transforme em um caramelo;
 - Acrescente a rama de canela, os cravos-da-índia, o leite e o suco de limão. Quebre os ovos um por vez em um recipiente pequeno e em uma tigela à parte, bata-os levemente e incorpore à mistura e mexa;
-- --
 
 ---
 

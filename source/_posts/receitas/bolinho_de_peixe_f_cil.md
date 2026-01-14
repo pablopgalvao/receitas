@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de cação assado (testamos com filé de tilápia)
 - 1 ovo médio batido
@@ -39,7 +39,6 @@ flags: []
 - Junte o peixe desfiado na mesma tigela, tempere com sal e pimenta. Misture com as mãos para os temperos pegarem por toda a massa;
 - Leve uma panela (de 20 cm) ao fogo médio e coloque o óleo para esquentar. Enquanto isso, pegue duas colheres e modele a massa em bolinhos nem tão grandes, nem muito pequenos (caso prefira, pode modelar com as mãos também);
 - Quando o óleo estiver quente, coloque de 4 a 6 bolinhos por vez (eles não podem estar grudados uns nos outros). Frite até eles ficarem dourados e coloque-os em um prato forrado com papel toalha para retirar o excesso de óleo;
-- --
 
 ---
 

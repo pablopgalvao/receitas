@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Macarrão tipo parafuso (250 gramas)
 - 1 colher de sopa de sal
@@ -47,7 +47,6 @@ flags: []
 - Junte o pimentão picado, as azeitonas e mexa bem. Adicione os tomates picados e misture novamente. Acrescente também o extrato de tomate, o orégano, a pimenta-do-reino e a pimenta calabresa a gosto;
 - Despeje a xícara de chá de água do cozimento reservada e cozinhe o molho por 3 a 5 minutos, até encorpar;
 - Descasque os ovos cozidos, corte em quatro e sirva sobre o macarrão ou ao lado no prato. Bom apetite!
-- --
 
 ---
 

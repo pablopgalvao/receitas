@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 gramas de amendoim torrado
 - 100 gramas de castanha torrada
@@ -39,7 +39,6 @@ flags: []
 - Em seguida, adicione a cebola picada, o coentro e cerca de 1 xícara de chá de água. Bata novamente até formar um creme homogêneo e encorpado. Reserve;
 - Em uma panela média, aqueça as 3 colheres de sopa de azeite de dendê em fogo médio. Acrescente os quiabos fatiados e refogue bem. Adicione água aos poucos, conforme perceber que o quiabo começa a grudar no fundo;
 - Deixe cozinhando em fogo baixo por mais 10 a 15 minutos, mexendo com frequência para não grudar no fundo. Acerte o sal e quando chegar num ponto espesso e aromático, está pronto!
-- --
 
 ---
 

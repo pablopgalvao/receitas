@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Transfira o recheio de maçãs para a fôrma, deixando um volume um pouco mais alto no centro — regue com o caldinho que tiver se formado na tigela. Polvilhe na maçã o restante da farinha de rosca.
 - Numa tigela pequena, quebre o ovo e bata com um garfo apenas para misturar a clara com a gema. Pincele ovo na borda da base da torta.
 - Com a ponta de uma faca, faça 4 cortes em cruz no centro da torta — além de decorar, esses cortes funcionam como saída de vapor do recheio. Pincele o ovo batido sobre toda a torta e polvilhe o açúcar demerara.
-- --
 
 ---
 

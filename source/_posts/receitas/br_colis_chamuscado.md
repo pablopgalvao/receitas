@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - Salada de brócolis branqueado com molho ponzu
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira antiaderente (ou de ferro) ao fogo médio. Quando estiver bem quente, acrescente o brócolis e deixe chamuscar por 6 minutos, mexendo de vez em quando, até ficarem tostados. Tempere com sal e pimenta a gosto e sirva a seguir.
-- --
 
 ---
 

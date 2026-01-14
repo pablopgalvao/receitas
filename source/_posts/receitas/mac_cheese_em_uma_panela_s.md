@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - Numa panela média, coloque o macarrão, a água e o leite, tempere com o sal e leve ao fogo médio.
 - Desligue o fogo, adicione a manteiga e mexa por cerca de 2 minutos para derreter — nesse tempo, a temperatura do macarrão diminui um pouco, o que evita que o queijo talhe.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de tapioca hidratada
 - 75 gramas de queijo cottage (cream cheese ou creme de ricota light)
@@ -38,7 +38,6 @@ flags: []
 - Coloque a tapioca hidratada, o queijo cottage, o queijo minas, o parmesão, o sal e a linhaça. Misture bem;
 - Unte as mãos com um pouco de óleo, e molde bolinhas com a massa;
 - Disponha as bolinhas em uma forma com papel manteiga, polvilhe um pouquinho de parmesão ralado por cima de cada bolinha, e asse-as em forno preaquecido a 200ºC por cerca de 20 a 25 minutos, ou até que os pães de queijo fiquem douradinhos;
-- --
 
 ---
 

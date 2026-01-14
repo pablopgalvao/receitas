@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve ao fogo médio uma frigideira grande (nós utilizamos uma de 26 cm de diâmetro). Quando aquecer, regue com o azeite, adicione a cebola e o pimentão. Tempere com uma pitada de sal e refogue por cerca de 4 minutos, até murchar. Junte o alho, tempere com a pimenta calabresa - cuidado para não exagerar, vá aos poucos! - e mexa por mais 1 minuto.
 - Abaixe o fogo, junte o tomate pelado (com o líquido), tempere com o orégano, sal e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até encorpar.
 - Com uma espátula, abra quatro cavidades no molho - é nesse espaço que os ovos irão cozinhar. Quebre os ovos numa tigela, um de cada vez, e transfira com cuidado à frigideira. Tempere cada ovo com uma pitada de sal e deixe cozinhar em fogo baixo por 5 minutos.
-- --
 
 ---
 

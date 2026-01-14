@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 80 ml de água quente
 - 60 ml de rum branco
@@ -40,7 +40,6 @@ flags: []
 - No liquidificador, adicione o chá já frio, o rum branco, o licor de maracujá, o suco de limão, o açúcar e bastante gelo;
 - Despeje o drink em uma taça de margarita ou coupe (capacidade entre 200 a 250 ml), preenchendo até a borda;
 - Decore com as rodelas de limão na borda e finalize com uma colher de chá de polpa de maracujá no topo. Sirva imediatamente!
-- --
 
 ---
 

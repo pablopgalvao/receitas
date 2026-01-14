@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve uma panela grande ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, coloque metade das coxas de frango e deixe dourar por cerca de 4 minutos de cada lado. Transfira para uma travessa e repita o processo com o restante, regando com mais azeite.
 - Mantenha a panela em fogo médio e regue com 1 colher (sopa) de azeite. Adicione o pimentão e a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Junte o alho, a pimenta calabresa, a erva-doce e mexa por 1 minuto para perfumar.
 - Regue com o vinho e raspe bem os queimadinhos do fundo da panela — eles dão mais sabor ao preparo. Acrescente o tomate pelado (com o líquido) e a água, tempere com ½ colher (chá) de sal e misture bem.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Reserve ½ xícara (chá) dos grãos de milho e transfira o restante para o miniprocessador de alimentos. Junte os dentes de alho, as folhas de coentro, o sal e tempere com pimenta. Bata bem até triturar. Adicione o ovo e o iogurte e bata novamente.
 - Transfira a mistura batida para uma tigela, junte os grãos de milho reservados, o queijo ralado, ¼ de xícara (chá) da polenta e o fermento. Misture bem com uma espátula, cubra e leve para a geladeira para descansar por 15 minutos — esse descanso é essencial para que a polenta absorva parte da umidade e a massa fique no ponto de enrolar; se preferir prepare no dia anterior.
-- --
 
 ---
 

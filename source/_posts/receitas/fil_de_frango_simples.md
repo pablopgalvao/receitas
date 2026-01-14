@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - Sal a gosto
@@ -35,7 +35,6 @@ flags: []
 - Numa frigideira quente, adicione azeite a gosto. Agora, disponha sobre ela os filés de frango, mas sem sobreposição;
 - Em seguida, tempere com sal, pimenta-do-reino e o suco de 1/2 laranja. Deixe grelhar por cerca de 3 a 4 minutos, virando, para que o outro lado fique douradinho também;
 - Tempere com mais sal, pimenta-do-reino e o suco da outra metade da laranja. Deixe grelhando por cerca de mais 3 a 4 minutinhos;
-- --
 
 ---
 

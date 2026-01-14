@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Seque os pedaços de repolho numa centrífuga para saladas — quanto mais seco melhor para assar.
 - Transfira o repolho para uma assadeira grande e funda. Tempere com sal e pimenta e distribua a manteiga em pedaços pequenos por toda a superfície – não precisa misturar, a manteiga vai derreter enquanto o repolho estiver assando.
 - Retire do forno e sirva a seguir. Fica uma delícia com risoto de queijo ou macarrão na manteiga.
-- --
 
 ---
 

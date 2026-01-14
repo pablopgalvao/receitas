@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ¼ de colher (chá) de cúrcuma
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande, de preferência antiaderente ao fogo médio. Quando estiver bem quente regue com o azeite, e misture a cúrcuma para dissolver. Coloque as batatas uma ao lado da outra, tempere com sal e pimenta e deixe dourar por cerca de 5 minutos até formar uma casquinha dourada. Com uma espátula, vire as batatas, tempere com sal e pimenta, junte o tomilho debulhado e deixe dourar por mais 5 minutos.
-- --
 
 ---
 

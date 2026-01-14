@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Coloque a manteiga numa tigela pequena e leve ao micro-ondas por 15 segundos, até derreter.
 - Pincele a borda externa dos ramequins com um pouco da manteiga derretida — assim a massa folhada adere melhor ao ramequim.
 - Numa tigela média, dilua o amido de milho na água. Adicione a sobra de músculo, a ervilha congelada, tempere com uma pitada de sal e misture bem.
-- --
 
 ---
 

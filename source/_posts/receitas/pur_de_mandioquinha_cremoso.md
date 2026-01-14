@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de mandioquinha
 - 1 colher de chá de sal
@@ -37,7 +37,6 @@ flags: []
 - Noz-moscada a gosto (opcional)
 - Cozinhe as mandioquinhas por aproximadamente 8 minutos em uma panela com água e sal, até ficarem bem macias
 - Leve a mistura peneirada para outra panela em fogo médio. Agregue a manteiga e o creme de leite. Mexa até que fique homogêneo;
-- --
 
 ---
 

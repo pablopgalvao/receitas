@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de meio da asa
 - 1/2 xícara de chá de maionese
@@ -37,7 +37,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Azeite de oliva a gosto
 - Em uma tigela grande adicione a maionese, a páprica, o molho shoyu, o sal, a pimenta-do-reino e o azeite. Misture até que tudo fique homogêneo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 166 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de meio da asa de frango
 - 200 gramas de bacon
@@ -37,7 +37,6 @@ flags: []
 - Sal a gosto
 - Pimenta malagueta a gosto
 - Tempere as tulipas com sal, a passata de tomate e a pimenta malagueta em pó. Misture bem com as mãos, garantindo que todas fiquem envolvidas pelo tempero;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 joelhos de porco (2,3 kg)
 - 1 kg de batata bolinhas pré-cozidas
@@ -35,7 +35,6 @@ flags: []
 - 2 e 1/2 colher de sopa de sal
 - 1/2 colher de sopa de pimenta-do-reino
 - Agregue o azeite, esprema o suco do limão e tempere com sal e pimenta-do-reino. Misture bem com as mãos e reserve por 12 horas na geladeira;
-- --
 
 ---
 

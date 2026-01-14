@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - lascas de queijo parmesão a gosto para servir
 - folhas de manjericão a gosto para servir
 - Acrescente a água, o tomate pelado e o macarrão. Tempere com 1 colher (chá) de sal, pimenta a gosto e misture. Tampe, ajuste a válvula e programe a panela para cozinhar em pressão alta por 5 minutos.
-- --
 
 ---
 

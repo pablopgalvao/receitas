@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, adicione 1 colher (sopa) de manteiga e disponha metade dos nhoques na frigideira. Deixe por cerca de 2 minutos. Vire com uma espátula e deixe por mais 1 minuto para dourar por igual. Transfira para um prato e repita com a outra metade, adicionando 1 colher de sopa de manteiga a cada leva.
 - Mantenha a frigideira em fogo médio e adicione o restante da manteiga. Assim que derreter, regue com ½ xícara (chá) da água do cozimento. Desligue o fogo e mexa a frigideira, delicadamente, fazendo movimentos circulares até formar um molho liso - ao misturar com a espátula a gordura pode se separar do molho. Se desejar um molho mais ralo, adicione, aos poucos, o restante da água do cozimento e ligue o fogo novamente apenas para aquecer. Transfira para uma molheira.
 - Sirva os nhoques de ricota com o molho de manteiga, queijo parmesão em lascas e folhas de manjericão fresca a gosto.
-- --
 
 ---
 

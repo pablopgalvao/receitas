@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Prepare uma tigela com água e gelo. Leve uma panela média com água ao fogo alto. Assim que ferver adicione 1 colher (chá) de sal e o vinagre, junte os floretes e deixe cozinhar por apenas 2 minutos. Com uma escumadeira, transfira os floretes para a tigela com água e gelo.
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com o azeite, junte o alho picado e a couve-flor processada. Refogue por cerca de 2 minutos. Diminua o fogo, misture as alcaparras (sem o líquido) e deixe cozinhar por mais 5 minutos - o cuscuz deve ficar macio e úmido. Tempere com sal e pimenta-do-reino moída na hora a gosto.
 - Desligue o fogo, misture as raspas de limão e transfira para uma travessa. Sirva a seguir com folhas de salsinha e hortelã a gosto.
-- --
 
 ---
 

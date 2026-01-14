@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 130 ºC e programe para assar por 20 minutos. Numa tigela pequena, quebre o ovo e misture bem com 1 colher (chá) de água.
 - Quando a Air Fryer estiver pré-aquecida, abra a gaveta e, com um pincel, unte o cesto com óleo (se preferir, utilize um disco de papel antiaderente próprio para assar, do tamanho do fundo do cesto).
 - Disponha um pão no centro do cesto e distribua o restante ao redor — eles ficam bem próximos uns dos outros mesmo. Pincele a mistura de ovo e agua sobre toda a superfície dos pães e deixe assar pelo tempo programado, até crescerem e dourarem.
-- --
 
 ---
 

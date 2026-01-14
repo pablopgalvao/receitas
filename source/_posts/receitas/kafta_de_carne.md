@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída (usamos patinho)
 - 1/8 de colher de chá de pimenta-do-reino
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de sopa de azeite
 - Em uma tigela grande, tempere a carne moída com cebola-roxa, salsinha, pimenta síria, coentro em pó, sal e pimenta-do-reino. Misture bem com as mãos;
 - Está pronto. Prepare um molho de sua preferência ou uma salada fresca para acompanhar!
-- --
 
 ---
 

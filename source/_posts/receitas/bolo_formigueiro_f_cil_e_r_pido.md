@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 1/2 xícara de chá de óleo (120 ml)
@@ -41,7 +41,6 @@ flags: []
 - Quebre os ovos um a um em recipiente pequeno e transfira para uma tigela maior caso estejam bons. Junte o açúcar, o óleo e a essência de baunilha, e misture bem com um fouet (batedor de arame);
 - Acrescente o leite e mexa até incorporar. Em seguida, coloque a farinha de trigo peneirada aos poucos e misture até obter uma massa homogênea. Adicione o fermento em pó e misture delicadamente apenas para incorporar;
 - Depois, em uma outra tigela, misture o granulado com a colher de farinha de trigo. Esse processo é essencial para evitar que o granulado desça ao fundo da forma e garantir que ele fique bem distribuído na massa;
-- --
 
 ---
 

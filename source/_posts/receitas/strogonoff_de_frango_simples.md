@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filé de peito de frango cortado em cubos ou tirinhas
 - 1 colher de sopa de manteiga
@@ -40,7 +40,6 @@ flags: []
 - Em uma panela grande, coloque a manteiga e espere derreter. Refogue a cebola por cerca de 2 minutos, ou até ficar douradinha;
 - Acrescente o frango, o sal e a pimenta-do-reino. Misture bem e espere dourar. O frango não pode cozinhar, apenas dourar. Se você colocar muitos cubinhos de uma vez, vai soltar água e cozinhar. Se preciso, divida o processo em 2 etapas;
 - Se necessário, corrija o sal e a pimenta-do-reino. Desligue o fogo para não talhar o creme de leite;
-- --
 
 ---
 

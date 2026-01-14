@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 23 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de azeite de oliva
 - 2 colheres de chá de chimichurri (ou a gosto)
@@ -37,7 +37,6 @@ flags: []
 - Em seguida, adicione o azeite, o chimichurri, sal e o alho em pó. Misture bem para garantir que os temperos cubram igualmente os cubos de pão;
 - Forre uma assadeira com papel manteiga, e distribua os cubos de pão, deixando algum espaço entre eles;
 - Retire do forno e deixe esfriar. Sirva em saladas, como acompanhamento para sopas, ou até mesmo como lanchinho!
-- --
 
 ---
 

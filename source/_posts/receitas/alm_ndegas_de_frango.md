@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 700 gramas carne de frango moída (usamos coxa e sobrecoxa)
 - 1 xícara de chá cheia de farinha de rosca (150 gramas)
@@ -37,8 +37,6 @@ flags: []
 - 1/2 colher de chá de pimenta-do-reino ou a gosto
 - 1 xícara de chá de molho de tomate ou a gosto
 - Cebolinha a gosto para finalizar
-
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - ½ colher (chá) de sal
 - 1 colher (chá) de azeite Andorinha
 - Numa tigela grande coloque as cenouras, tempere com o sal e o azeite e misture bem para envolver todos os pedaços com o tempero.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - amendoim torrado sem sal picado a gosto
 - Numa tigela, coloque as fitas e cubos de pepino. Tempere com o shoyu, o azeite o caldo de limão e pimenta a gosto. Junte os cubos de manga e misture delicadamente. Polvilhe com o amendoim picado e sirva a seguir.
-- --
 
 ---
 

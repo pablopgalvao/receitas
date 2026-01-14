@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Na hora de servir o risoto, lave, seque e pique a salsinha Descasque e pique fininho o dente de alho. Corte o shimeji em arvorezinhas e o shitake e o cogumelo-de-paris em fatias.
 - Leve uma frigideira grande ao fogo até esquentar bastante. Coloque uma colher de azeite e adicione o shitake, aguarde dourar, tempere com sal, pimenta-do-reino a gosto e transfira para uma tigela. Repita o processo com o shimeji, reserve. Coloque o cogumelo-de-paris, junte o alho picado e espere dourar, coloque a salsinha e junte aos outros cogumelos.
 - Numa panela, coloque as 3 xícaras restantes de caldo e leve ao fogo médio para aquecer.
-- --
 
 ---
 

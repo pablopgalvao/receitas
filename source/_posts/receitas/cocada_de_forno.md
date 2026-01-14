@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 colher (sopa) de manteiga derretida
 - Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga um refratário raso que comporte cerca de 500 ml.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para outra tigela maior – se um estiver estragado, você não perde a receita. Junte a manteiga e misture com o batedor de arame. Adicione o açúcar, aos poucos, mexendo bem a cada adição. Acrescente o coco ralado e misture com uma espátula para incorporar.
-- --
 
 ---
 

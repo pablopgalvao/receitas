@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de manteiga
 - 3 xícaras de chá de farinha de trigo
 - 1 colher de fermento químico em pó (fermento para bolo)
 - Em uma vasilha, coloque os ovos, o leite, a manteiga derretida, o açúcar e bata bem com a mão (ou na batedeira);
 - Adicione a farinha. Bata até ficar homogêneo;
-- --
 
 ---
 

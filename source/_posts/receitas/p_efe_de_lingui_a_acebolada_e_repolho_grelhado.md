@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Numa tigela misture a pimenta com 2 colheres (sopa) de azeite, o caldo e as raspas do limão. Reserve.
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e acrescente 4 gomos de repolho de cada vez. Deixe dourar por 3 minutos de cada lado. Transfira para uma travessa e repita com o restante, regando a frigideira com mais azeite.
 - Tempere os repolhos grelhados com sal a gosto e sirva a seguir com o molho picante, a linguiça flambada, o arroz frito com cebolinha e o feijão com gengibre.
-- --
 
 ---
 

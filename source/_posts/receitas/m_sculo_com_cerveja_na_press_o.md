@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve a panela de pressão (sem a tampa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, coloque a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até murchar. Adicione o alho, o alecrim debulhado, o extrato de tomate, o açúcar mascavo e mexa bem por 1 minuto — é esse refogado caprichado que vai dar sabor ao preparo.
 - Adicione o músculo e misture bem. Polvilhe a farinha de trigo e mexa bem para cobrir toda a carne.
 - Acrescente a cerveja preta, a canela e tempere com ½ colher (chá) de sal. Tampe a panela e aumente o fogo. Assim que começar a apitar, abaixe o fogo e deixe cozinhar por 35 minutos.
-- --
 
 ---
 

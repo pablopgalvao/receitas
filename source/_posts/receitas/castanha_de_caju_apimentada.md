@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Numa tigela, coloque as castanhas e tempere com as especiarias, o açúcar e sal a gosto. Acrescente a água, o azeite e misture bem para envolver as castanhas com os temperos.
 - Leve uma frigideira média antiaderente ao fogo baixo. Coloque as castanhas e deixe aquecer por 1 minuto, sem mexer, até o açúcar começar a derreter. Mantenha as castanhas em fogo baixo, mexendo de vez em quando por 15 minutos, até ficarem douradas e sequinhas – evite mexer em excesso pois as especiarias podem se soltar das castanhas.
 - Transfira as castanhas para uma assadeira pequena (ou travessa) e deixe esfriar completamente antes de servir ou armazenar. Sirva como petisco no happy hour, com saladas, risotos ou sopas.
-- --
 
 ---
 

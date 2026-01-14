@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de arroz cru
 - 4 xícaras de água quente
@@ -44,7 +44,6 @@ flags: []
 - Tempere com o açafrão, a pimenta-do-reino e o sal. Misture novamente;
 - Adicione as 4 xícaras de água quente, mexa e tampe a panela de pressão. Diminua o fogo para médio e deixe cozinhar;
 - Transfira para um refratário, nivele com uma colher e finalize com batata palha e azeitonas inteiras, se desejar. Prontinho! Agora é só se esbaldar.
-- --
 
 ---
 

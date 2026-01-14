@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.
 - Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite e a cebola, com 1 pitada de sal, por cerca de 5 minutos, até murchar e começar a dourar. Junte a cenoura e o salsão e refogue por mais 5 minutos. Por último, junte o alho e o louro e mexa por 1 minuto.
 - Acrescente o tomate pelado aos poucos, mexendo bem o refogado a cada adição — essa técnica chamada pinçage dá mais sabor ao caldo. Regue com a água, junte a batata e tempere com 2 colheres (chá) de sal e pimenta a gosto. Adicione a casca de parmesão (caso esteja usando), a folha de salsão e aumente o fogo.
-- --
 
 ---
 

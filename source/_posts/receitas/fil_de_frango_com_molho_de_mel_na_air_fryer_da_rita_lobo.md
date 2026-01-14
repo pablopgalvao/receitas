@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - salsinha picada a gosto para servir
 - Coloque a manteiga numa tigela pequena e leve ao micro-ondas para rodar por 30 segundos, até derreter. Adicione o mel, uma pitada de sal, as raspas de limão e misture bem com um garfinho.
 - Com uma pinça, transfira os filés de frango assados para um prato, regue com o molho de mel e salpique a salsinha. Sirva a seguir.
-- --
 
 ---
 

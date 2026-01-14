@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peito de frango (270 gramas)
 - 2 colheres de sopa de tomate picado
@@ -53,7 +53,6 @@ flags: []
 - No liquidificador, adicione os ovos, a manteiga derretida, o leite, o açúcar, o sal, o óleo e parte da farinha de trigo. Bata até ficar homogêneo;
 - Adicione o restante da farinha de trigo aos poucos, conforme a capacidade do seu liquidificador, e bata por 5 minutos;
 - Com o liquidificador desligado, adicione o queijo parmesão e misture com uma colher. Por fim, acrescente o fermento e mexa delicadamente;
-- --
 
 ---
 

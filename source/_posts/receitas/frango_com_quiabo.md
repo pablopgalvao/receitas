@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Numa tigela grande tempere as coxas e sobrecoxas com o cominho, o colorau, 2 colheres (chá) de sal, pimenta-do-reino a gosto e o caldo de 1 limão. Espalhe bem os temperos com as mãos para cobrir toda superfície do frango e deixe marinar por 15 minutos em temperatura ambiente – além de absorver os sabores, o frango perde o gelo antes de ir para a panela. Enquanto isso, prepare os outros ingredientes.
 - Mantenha a panela em fogo médio (não precisa regar com azeite pois o frango libera a própria gordura). Acrescente a cebola, o tomate e tempere com uma pitada de sal. Refogue por cerca de 2 minutos, pressionando com a espátula para formar uma pastinha. Junte o pimentão e refogue por mais 2 minutos, até murchar. Adicione o alho e mexa por 1 minuto para perfumar.
 - Regue a panela aos poucos com a água, raspando o fundo com a espátula para dissolver os queimadinhos — eles dão sabor ao preparo. Acrescente o líquido da marinada, tempere com ½ colher (chá) de sal, e deixe cozinhar até ferver.
-- --
 
 ---
 

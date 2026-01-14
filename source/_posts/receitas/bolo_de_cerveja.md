@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de açúcar (250 gramas)
 - 1 colher de sopa de manteiga (15 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Agora, acrescente a cerveja preta e a farinha e passe a misturar com um fouet (batedor de arame), em movimentos circulares;
 - Coloque a farinha de rosca e misture novamente. Em seguida, agregue a canela em pó e o fermento em pó e misture levemente com uma espátula de silicone, apenas para incorporar;
 - Desenforme cuidadosamente e finalize polvilhando açúcar de confeiteiro. Está pronto! Sirva no café da tarde acompanhado de um café fresquinho.
-- --
 
 ---
 

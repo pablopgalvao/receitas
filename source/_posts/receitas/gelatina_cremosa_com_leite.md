@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 240 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 sachê de gelatina de morango (20 gramas)
 - 1 sachê de gelatina de uva (20 gramas)
@@ -35,7 +35,6 @@ flags: []
 - 300 ml de água fervendo
 - Óleo para untar
 - Organize sua bancada, unte uma forma redonda (20 cm de diâmetro) com óleo e separe todos os ingredientes;
-- --
 
 ---
 

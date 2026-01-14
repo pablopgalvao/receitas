@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - farinha de trigo para polvilhar a bancada
 - Numa tigela média, misture a farinha de trigo com o fermento e o sal. Abra um buraco no centro e adicione o leite e o azeite. Misture bem com a mão para a farinha absorver todo o líquido. Transfira para a bancada e sove por 5 minutos, até a massa ficar bem lisinha — evite polvilhar farinha na bancada, pois isso pode deixar o pão pesado e duro. Se preferir, sove na própria tigela.
 - Com a espátula de padeiro, divida a massa em 2. Polvilhe a bancada com um pouco de farinha — é bem pouco mesmo, só para o pão não grudar na hora de abrir — e, com as mãos, abra cada pedaço da massa num formato meio ovalado, com cerca de 0,6 cm de espessura.
-- --
 
 ---
 

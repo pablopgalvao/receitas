@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 150 gramas de queijo prato
 - 150 gramas de queijo mussarela
@@ -40,7 +40,6 @@ flags: []
 - Para o roux, em uma panela, em fogo baixo, coloque a manteiga e deixe derreter, mexendo brevemente com um fouet;
 - Assim que a manteiga estiver derretida, acrescente a farinha e mexa rapidamente por cerca de 1 a 2 minutos ou até cozinhar a farinha levemente;
 - Em seguida, acrescente os queijos e tempere com um pouco de sal, pimenta-branca e a noz-moscada, mexendo sempre até derreter todos os queijos e obter a cremosidade desejada;
-- --
 
 ---
 

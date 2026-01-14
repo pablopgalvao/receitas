@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Corte os filés de frango em cubos de 1,5 cm e transfira para uma tigela. Numa tigela pequena misture o amido de milho com 2 colheres (sopa) de shoyu, junte ao frango e deixe marinar por 20 minutos. Enquanto isso, prepare os outros ingredientes.
 - Leve uma panela wok (ou frigideira grande) ao fogo alto. Quando aquecer, regue com 1 colher (sopa) de óleo, junte o frango (sem o líquido da marinada) e deixe dourar por cerca de 3 minutos, mexendo de vez em quando.
 - Afaste o frango para as laterais da panela. Regue o centro da wok com o restante do óleo, acrescente a cebola e refogue por 1 minuto. Abaixe o fogo, junte o broto de feijão e misture com o frango e a cebola. Adicione a acelga em etapas e vá misturando para murchar. Regue com o restante do shoyu, o líquido da marinada e mexa por mais 5 minutos para incorporar os sabores e formar um molho. Desligue o fogo, prove, acerte o sal (se precisar, o shoyu já é bem salgado) e tempere a gosto com pimenta-do-reino. Sirva a seguir com o molho que se formou na panela e cebolinha fatiada. Fica uma delícia com arroz cateto integral.
-- --
 
 ---
 

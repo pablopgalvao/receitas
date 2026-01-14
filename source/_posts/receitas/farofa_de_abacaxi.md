@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de manteiga de garrafa (60 ml)
 - 4 xícaras de chá de farinha de mandioca (500 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Em uma frigideira grande, adicione a manteiga de garrafa e refogue o abacaxi escorrido, mexendo bem para que os cubos fiquem cobertos;
 - Adicione a farinha de mandioca e misture bem para que ela absorva a manteiga e incorpore o sabor do abacaxi;
 - Tempere com sal e pimenta-do-reino e continue mexendo até que a farofa fique levemente dourada e soltinha;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - folhas de hortelã a gosto
 - azeite a gosto
 - Com um garfo, solte o arroz com lentilhas, transfira para uma travessa e distribua os pedaços de frango dourados ao redor. Coloque sobre o arroz colheradas da coalhada seca, salpique com as nozes e folhas de hortelã a gosto. Regue com azeite e sirva a seguir.
-- --
 
 ---
 

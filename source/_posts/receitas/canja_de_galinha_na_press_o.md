@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 7 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Ligue a panela de pressão elétrica (sem a tampa) e coloque o peito de frango, o arroz integral, a cenoura, o salsão (com as folhas), a batata e a cebola (as duas metades). Tempere com sal e pimenta, regue com a água e feche a panela. Ajuste a válvula para cozinhar na pressão e programe para cozinhar por 7 minutos.
 - Abra a panela e, com uma pinça, pesque e descarte as folhas de salsão e a cebola cravejada. Transfira o peito de frango para um prato, descarte a pele e, com cuidado para não se queimar, desfie a metade com dois garfos – você pode congelar o restante para outras receitas.
 - Volte o frango desfiado à panela e misture bem. Prove e, se necessário, ajuste o sal. Sirva a canja com endro, azeite e pimenta-do-reino moída na hora a gosto.
-- --
 
 ---
 

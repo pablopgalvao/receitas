@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filé-mignon
 - Sal e pimenta-do-reino a gosto
@@ -40,7 +40,6 @@ flags: []
 - Pique a cebola em cubinhos pequenos ou lâminas finas. Na mesma panela, em fogo baixo, derreta 1 colher de sopa de manteiga e refogue a cebola até dourar (cerca de um minuto);
 - O arroz chegou ao ponto al dente quando você morde e ele não está nem mole e nem duro. É possível ver um pontinho mínimo e branco no interior do grão. Se preciso, acerte o sal. Adicione o filé-mignon, misture e desligue o fogo;
 - Salpique o parmesão ralado, acrescente a manteiga e misture até incorporar;
-- --
 
 ---
 

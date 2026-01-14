@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 3 xícaras (chá) de água
 - ½ colher (chá) de sal
 - Numa panela média, coloque a água, junte as bagas de cardamomo e leve ao fogo alto. Assim que ferver, adicione o arroz, o sal e misture. Diminua o fogo para médio e deixe cozinhar com a tampa entreaberta, por cerca de 15 minutos, até o arroz absorver toda a água – para verificar, fure o arroz com um garfo e afaste delicadamente alguns grãos do fundo da panela; se ainda estiver molhado, deixe cozinhar mais um pouquinho.
-- --
 
 ---
 

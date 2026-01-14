@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de açúcar
 - cubos de gelo a gosto
 - Corte um dos limões (com a casca) ao meio, no sentido do comprimento, e cada metade em quatro gomos. Transfira para um copo resistente, adicione o açúcar, 1 folha de capim-santo e, com um socador, amasse bem.
-- --
 
 ---
 

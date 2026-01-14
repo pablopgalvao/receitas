@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - folhas de endro (dill) a gosto para servir
 - Tempere os camarões com sal e pimenta a gosto. Leve uma frigideira grande com borda alta ao fogo médio (se preferir utilize uma panela de fundo grande). Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione os camarões e deixe dourar, por 1 minuto de cada lado – é jogo rápido, se cozinharem demais os camarões podem ficar duros. Transfira para um prato e reserve.
 - Mantenha a frigideira em fogo médio e adicione o tomate batido com alho. Tempere com sal e mexa, raspando o fundo da frigideira para dissolver os queimadinhos – eles são essenciais para dar sabor ao molho. Assim que o molho ferver, junte o conhaque, meça 3 ½ xícaras (chá) da água fervente e regue sobre o molho. Tempere com sal e misture bem.
-- --
 
 ---
 

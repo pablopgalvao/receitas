@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 190 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 5 ovos grandes
 - 1 xícara de chá de açúcar refinado (200 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Comece batendo as claras na batedeira até espumarem e dobrarem de volume. Sem parar de bater, adicione o açúcar aos poucos e continue até formar um merengue firme e brilhante;
 - Reduza a velocidade e despeje a margarina derretida aos poucos, apenas para incorporar. Desligue a batedeira e peneire a farinha de trigo diretamente sobre a massa. Misture com movimentos suaves de baixo para cima usando um fouet (batedor de arame);
 - Transfira a massa para uma assadeira de (32x22x5cm), forrada apenas no fundo com papel manteiga;
-- --
 
 ---
 

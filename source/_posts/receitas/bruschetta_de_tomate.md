@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Retire a pele dos tomates com uma faca, puxando suavemente a partir do corte em “X”. Corte-os ao meio e retire as sementes e o miolo com uma colher. Depois, pique-os em cubinhos e reserve
 - Tempere com sal, pimenta-do-reino e mais azeite a gosto. Mexa até que tudo fique bem incorporado;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de café de azeite de oliva ou óleo vegetal
 - 150 ml de água morna
@@ -38,7 +38,6 @@ flags: []
 - Organize todos os ingredientes em sua bancada. Quebre os ovos separadamente para verificar se estão bons;
 - No liquidificador, bata os ovos, o azeite e a água morna por 1 minuto. Acrescente a aveia em flocos finos sem glúten e o sal. Bata novamente até formar uma mistura homogênea;
 - Se quiser enriquecer o pão, misture sementes na massa antes de levar ao forno. Misture apenas com uma colher;
-- --
 
 ---
 

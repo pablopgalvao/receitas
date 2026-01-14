@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de frango (coxa e/ou sobrecoxa e/ou asinha)
 - Páprica defumada a gosto
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de sopa cheia de maionese
 - Sal a gosto
 - Coloque-os em uma tigela grande e adicione o alho, o sal, a salsinha, a páprica defumada, e a maionese. Misture os temperos para pegarem bem em todas as partes dos frangos;
-- --
 
 ---
 

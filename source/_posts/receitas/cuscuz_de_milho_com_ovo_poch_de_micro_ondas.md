@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Separe uma tigela pequena (que comporte cerca de 240 ml) e um pires que possam ir ao micro-ondas –– é importante que a tigela não seja muito grande para que o ovo fique imerso na água e a clara envolva a gema durante o cozimento.
 - Sobre outra tigela, coe o ovo numa escumadeira e transfira para um prato. Tempere com uma pitada de sal e de pimenta. Repita o processo com o outro ovo. Sirva a seguir com o cuscuz.
-- --
 
 ---
 

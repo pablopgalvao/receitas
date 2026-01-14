@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de sambiquira (ponta do rabo)
 - Suco de 1/2 limão (10 ml)
@@ -41,7 +41,6 @@ flags: []
 - Passado o tempo, retire da geladeira e, aos poucos, adicione um pouco de farinha na tigela com as sambiquiras, apenas para empanar e você conseguir aproveitar bem os temperos. Se possível, mexa com as mãos;
 - Em uma panela larga, esquente o óleo. Assim que o óleo atingir a temperatura de 180ºC, comece a fritar - caso não tenha termômetro culinário, teste colocando uma colher de pau dentro do óleo; quando começar a borbulhar ao redor da colher, você pode iniciar a fritura;
 - Com uma escumadeira, retire as sambiquiras e deixe escorrer o óleo em um prato forrado com papel-toalha - esse processo é importante para o frango ficar crocante e sequinho;
-- --
 
 ---
 

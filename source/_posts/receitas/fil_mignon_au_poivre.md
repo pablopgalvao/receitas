@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga
 - 1 colher de sopa de azeite
@@ -41,7 +41,6 @@ flags: []
 - Em uma frigideira grande, coloque a manteiga e o azeite. Leve ao fogo e aqueça bem. Quando estiver bem quente, acrescente os medalhões e doure todos os lados por cerca de 2 minutos. Reserve a frigideira para fazer o molho;
 - Dê uma leve amassada nas pimentas-verdes e acrescente-as à frigideira. Abaixe o fogo, adicione o creme de leite fresco e um pouco de sal, e vá mexendo a mistura para que ela não queime;
 - Quando o molho estiver bem reduzido e com uma aparência cremosa, utilize o truque da colher para saber se está no ponto. Passe uma colher no molho e depois, passe o dedo no fundo da colher. Se sair limpo, está no ponto correto;
-- --
 
 ---
 

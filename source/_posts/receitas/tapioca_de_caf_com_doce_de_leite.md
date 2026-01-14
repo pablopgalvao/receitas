@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Numa tigela grande, coloque o polvilho e tempere com uma pitada de sal. Vá regando com o café, aos poucos, e misturando com as mãos até que não tenha mais partes brancas de polvilho na massa – a quantidade de líquido pode variar de acordo com o polvilho, a massa deve ficar bem úmida e sedosa, que modela ao ser apertada. Assim que for hidratada a massa de tapioca já pode ser usada, mas se puder, deixe descansar por 10 minutos.
 - Sobre outra tigela, passe a massa de tapioca hidratada por uma peneira, raspando com uma colher – assim a farinha fica bem solta e fininha. Nessa etapa você pode tampar e armazenar na geladeira por até 5 dias.
 - Deixe a tapioca cozinhar por 1 minuto até firmar – não precisa virar. Espalhe uma colherada de doce de leite e polvilhe com nibs de cacau. Dobre a tapioca ao meio e deixe o recheio aquecer por alguns segundos. Sirva a seguir, com frutas picadas.
-- --
 
 ---
 

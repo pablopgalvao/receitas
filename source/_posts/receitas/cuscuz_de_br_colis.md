@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de azeite Andorinha
 - sal a gosto
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, coloque o brócolis processado e tempere com sal. Deixe cozinhar por 10 minutos, mexendo de vez em quando, até o cuscuz ficar macio e úmido. Sirva a seguir.
-- --
 
 ---
 

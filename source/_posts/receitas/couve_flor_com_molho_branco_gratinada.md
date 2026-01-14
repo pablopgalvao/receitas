@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 ml de creme de leite fresco
 - 1 xícara de chá de queijo parmesão ralado
@@ -39,7 +39,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Em uma panela, coloque a couve-flor inteira, cubra com água e adicione 1 colher de sopa de sal. Cozinhe por cerca de 20 minutos ou até que esteja macio ao espetar com um garfo;
 - Entre com metade do parmesão ralado, tempere com sal e noz-moscada ralada. Mexa sempre até engrossar levemente. Desligue o fogo e reserve;
-- --
 
 ---
 

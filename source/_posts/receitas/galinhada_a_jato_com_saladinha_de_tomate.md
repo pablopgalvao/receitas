@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Mantenha a panela em fogo médio e regue com 1 colher (sopa) de azeite. Adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 4 minutos, até começar a dourar. Junte o alho, o cominho, a cúrcuma, a páprica e 1 colher (chá) de sal. Mexa bem por 1 minuto para perfumar.
 - Adicione o arroz e mexa bem por 1 minuto. Regue com 2 xícaras (chá) da água fervente, 2 colheres (sopa) do caldo de limão, junte o louro e misture com uma espátula, raspando bem o fundo da panela para dissolver os queimadinhos — isso vai dar sabor ao preparo.
 - Na hora de servir, solte a galinhada com um garfo, misturando a ervilha. Sirva a seguir com a saladinha de tomate.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de trigo (260 gramas)
 - 1 xícara de chá de aveia em flocos finos (90 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Separe todos os ingredientes na bancada. Meça as farinhas, o óleo e o iogurte; quebre o ovo em um recipiente à parte; unte e enfarinhe uma forma retangular pequena (12x23 cm) ou forre com papel-manteiga;
 - Em uma tigela grande, misture a farinha de trigo, a aveia em flocos finos, o açúcar e o sal;
 - Adicione o ovo, o óleo e o iogurte. Misture bem com uma colher ou espátula até formar uma massa homogênea;
-- --
 
 ---
 

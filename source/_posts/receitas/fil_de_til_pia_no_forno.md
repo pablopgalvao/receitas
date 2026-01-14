@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de lemon pepper
 - 500 gramas de tomate-cereja
@@ -43,7 +43,6 @@ flags: []
 - Em um prato separado, tempere os filés com lemon pepper e uma pitada de sal. Reserve;
 - Tempere com sal, azeite, vinho branco seco e os ramos de tomilho. Mexa delicadamente com uma colher para que tudo se incorpore;
 - Quando já estiverem douradinhos, retire do forno e salpique salsinha para finalizar e adicionar um toque de frescor. E está pronto!
-- --
 
 ---
 

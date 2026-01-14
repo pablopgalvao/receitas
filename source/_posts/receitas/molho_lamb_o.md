@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ¼ de xícara (chá) de folhas de coentro
 - sal a gosto
 - No liquidificador, junte as pimentas, as folhas de coentro, a água, o vinagre e o caldo de limão. Bata bem até triturar. Junte aos legumes cortado, tempere com sal e misture bem. Sirva a seguir.
-- --
 
 ---
 

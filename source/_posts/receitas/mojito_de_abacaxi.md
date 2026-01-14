@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1½ lata de club soda gelada (cerca de 500 ml)
 - cubos de gelo a gosto
 - Transfira os limões amassados (com o caldo) para a jarra de servir, junte o suco de abacaxi, o rum, o açúcar e misture bem. Preencha a jarra com cubos de gelo e complete com o club soda gelado (ou água com gás). Sirva a seguir.
-- --
 
 ---
 

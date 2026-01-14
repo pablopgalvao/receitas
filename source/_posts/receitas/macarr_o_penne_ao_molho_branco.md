@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de macarrão penne (100 gramas)
 - 2 colheres de sopa de azeite (30 ml)
@@ -40,7 +40,6 @@ flags: []
 - 1/2 pacote de parmesão ralado (30 gramas)
 - Em uma frigideira, no fogo médio, adicione o azeite e a manteiga. Assim que a manteiga derreter, acrescente a cebola, o alho e refogue bem, depois acrescente o creme de leite;
 - Tempere com a pimenta-do-reino, lemon pepper e salsinha. Misture bem com o auxílio de uma espátula, cuidando para o molho não queimar nas laterais;
-- --
 
 ---
 

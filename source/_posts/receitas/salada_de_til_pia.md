@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de filé de tilápia
 - 1 colher de chá de sal (ou a gosto)
@@ -44,7 +44,6 @@ flags: []
 - Quebre o ovo para empanar o peixe em um prato raso e bata com um garfo. Rale o parmesão finamente em outro prato. Passe as tiras de tilápia temperada no ovo e em seguida no parmesão;
 - Em uma tigela grande, junte a batata cozida, a cebola e os pimentões fatiados. Tempere com sal, pimenta-do-reino, azeite e caldo de limão. Misture delicadamente, prove e, se achar necessário, ajuste os temperos;
 - Na hora de montar a salada, disponha as tiras crocantes de tilápia, o ovo cortado em pétalas e as azeitonas por cima. Se desejar, salpique salsinha. Sirva essa deliciosa salada de tilápia nas refeições e aproveite!
-- --
 
 ---
 

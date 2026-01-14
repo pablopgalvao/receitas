@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de extrato de tomate
 - 50 gramas de bacon
@@ -40,7 +40,6 @@ flags: []
 - Em seguida, pegue uma peneira e coe a mistura do liquidificador para a panela. Misture bem e ajuste o sal, se achar necessário;
 - Abra a panela, ligue o fogo novamente e acrescente o macarrão inteiro ou quebrado em pedaços. Mexa e acrescente mais 200 ml de água para cozinhá-lo. Deixe apurar até que o macarrão fique molinho. Mexa de vez em quando para não grudar;
 - Ajuste o sal mais uma vez, se necessário e está pronta! Sirva com coentro picadinho, se desejar e bom apetite!
-- --
 
 ---
 

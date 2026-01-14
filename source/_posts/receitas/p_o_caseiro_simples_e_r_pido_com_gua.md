@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 115 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de água morna (480 ml)
 - 3 colheres de sopa de açúcar (30 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Transfira a massa para uma bancada levemente enfarinhada e vire-a algumas vezes apenas para facilitar a modelagem;
 - Role os pães na bancada para ajustar o formato e retire o excesso de farinha;
 - Disponha os pães em uma forma untada e enfarinhada, cubra com um pano e deixe crescer por mais 30 minutos;
-- --
 
 ---
 

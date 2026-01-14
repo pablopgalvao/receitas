@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de chá de leite (200 ml)
 - 1/2 xícara de chá de óleo (120 ml)
@@ -39,7 +39,6 @@ flags: []
 - Óleo para untar a forma
 - Separe os ingredientes para preparar essa deliciosa opção para o lanche da tarde. Quebre os ovos em uma tigela separada e verifique se estão bons. Unte a forma com óleo e preaqueça o forno a 200 °C;
 - No liquidificador, adicione o leite, o óleo, os ovos e o sal. Bata tudo até ficar homogêneo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de charque
 - 1 pitada de colorau
@@ -39,7 +39,6 @@ flags: []
 - Adicione à panela as 2 xícaras do caldo do charque reservadas. Misture bem e deixe ferver por alguns minutos, para concentrar o sabor;
 - Enquanto isso, com um mixer ou liquidificador, acrescente 2 xícaras de água e a farinha de trigo. Bata bem até obter um líquido homogêneo e sem grumos;
 - Finalize acrescentando o leite de coco, o creme de leite e o cheiro-verde. Misture tudo com delicadeza, ajustando o sal se necessário. Deixe cozinhar por mais 3 a 5 minutos para os sabores se integrarem;
-- --
 
 ---
 

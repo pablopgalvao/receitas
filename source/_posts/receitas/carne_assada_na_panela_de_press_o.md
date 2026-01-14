@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de óleo
 - 1 kg de lagarto (peça inteira)
@@ -44,7 +44,6 @@ flags: []
 - Assim que dourar, acrescente a cebola, o alho, as folhas de louro, a pimenta calabresa, o sal, a páprica, o orégano e o molho shoyu. Com uma colher, misture bem os ingredientes para incorporar;
 - Adicione 2 xícaras de água, misture e tampe a panela de pressão. Coloque em fogo baixo e, após pegar pressão, conte 1 hora no relógio. Passado o tempo, desligue o fogo e deixe a pressão sair sozinha. Verifique se a carne está macia, se estiver, reserve em uma travessa;
 - Com uma concha, pegue um pouco do molho (cerca de 2 colheres) e regue a carne na travessa. Com o restante do molho que sobrou na panela, junte a última xícara de água e acrescente as batatas. Feche a panela e, em fogo baixo, cozinhe por 3 minutos após pegar pressão;
-- --
 
 ---
 

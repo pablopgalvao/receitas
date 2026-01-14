@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa tigela grande (ou na batedeira), coloque o açúcar e o chocolate em pó, passando por uma peneira. Numa tigela pequena, quebre um ovo de cada vez e junte ao açúcar - se um estiver estragado você não perde a receita. Adicione o óleo e misture bem com o batedor de arame até ficar liso. Se estiver usando a batedeira, comece batendo na velocidade baixa - para o chocolate não subir - e quando a massa estiver lisa, aumente e bata por mais alguns minutos.
 - Se estiver usando a batedeira, diminua a velocidade e, aos poucos, vá adicionando a água e a farinha, alternadamente, batendo apenas para misturar. Por último, adicione o fermento.
 - ¾ de xícara (chá) de creme de leite fresco
-- --
 
 ---
 

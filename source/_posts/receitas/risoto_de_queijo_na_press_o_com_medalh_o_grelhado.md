@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande ao fogo médio e tempere 4 medalhões (cerca de 100 g cada) dos dois lados com sal e pimenta-do-reino moída na hora a gosto.
 - Quando a frigideira estiver bem quente, regue com 1 colher (sopa) de azeite e acrescente as carnes. Deixe dourar, sem mexer, por 2 minutos de cada lado, ou até que os medalhões soltem da frigideira.
-- --
 
 ---
 

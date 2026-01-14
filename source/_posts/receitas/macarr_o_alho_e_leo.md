@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 pacote ou 250 gramas de macarrão espaguete
 - 2 dentes de alho amassados com sal
@@ -39,7 +39,6 @@ flags: []
 - Em uma panela, em fogo médio, refogue o alho no azeite, adicione a manteiga, sal a gosto e misture bem. Deixe o alho dourar, mas fique de olho para não queimar;
 - Acerte o sal, coloque a pimenta-do-reino a gosto e mexa bem. Se preciso, despeje um pouquinho da água do cozimento do macarrão para deixar o espaguete bem soltinho e ajudar a ficar o sabor;
 - Finalize com cebolinha e um pouco mais de azeite a gosto. Sirva a seguir!
-- --
 
 ---
 

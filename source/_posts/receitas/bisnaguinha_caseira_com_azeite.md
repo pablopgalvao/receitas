@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ½ xícara (chá) de água
 - 3 colheres (sopa) de azeite
 - Numa tigela grande, misture a farinha com o açúcar e o sal. Abra um buraco no centro e adicione a água com o fermento, o ovo, a gema e o azeite. Comece a incorporar os ingredientes líquidos do centro para fora — no começo a massa é um pouco seca, é assim mesmo, conforme você for sovando, ela vai ficando macia.
-- --
 
 ---
 

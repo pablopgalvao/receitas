@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma frigideira de borda alta (ou caçarola baixa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de óleo, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Adicione 1 colher (sopa) de óleo, junte o louro, o açúcar, o extrato de tomate, os temperos batidos e mexa por 1 minuto para perfumar.
 - Regue com o leite de coco, misture bem para dissolver os sabores, prove e, se necessário, ajuste o sal do caldo.
 - Tempere as postas de peixe com 1 colher (chá) de sal. Coloque as postas de peixe no caldo, abaixe o fogo, tampe a panela e deixe cozinhar por 10 minutos, até que o peixe esteja cozido mas ainda úmido. Sirva a seguir com as ervas frescas e gomos de limão.
-- --
 
 ---
 

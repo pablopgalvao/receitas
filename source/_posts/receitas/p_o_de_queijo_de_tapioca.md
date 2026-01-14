@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de goma de tapioca (280 gramas)
 - 1 xícara de chá de queijo mussarela ralado (120 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Organize os ingredientes sobre a sua bancada! Para essa receita, é ideal que a manteiga esteja em temperatura ambiente, portanto, se estiver muito gelada e consistente, aguarde uns minutinhos para começar o preparo;
 - Em uma tigela, adicione a goma de tapioca, o queijo mussarela, o queijo parmesão e o sal. Misture com as mãos até se incorporarem;
 - Agregue a manteiga e continue misturando até obter uma massa consistente que não grude nas mãos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sobremesa
+  - popular
+  - brasil
 ingredients:
   list:
     - receita
@@ -19,12 +21,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,8 +33,6 @@ flags: []
 - Salada de abacate
 - 1 abacate maduro (3 xícaras (chá) em pedaços de 1,5 cm)
 - 2 colheres (sopa) de açúcar
-
-- --
 
 ---
 

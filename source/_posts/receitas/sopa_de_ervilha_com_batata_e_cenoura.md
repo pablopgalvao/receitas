@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de ervilha
 - Lemon pepper a gosto
@@ -35,7 +35,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Azeite a gosto
 - Acrescente a cebola e o alho, e assim que murcharem, tempere com lemon pepper, sal e pimenta. Misture para agregar;
-- --
 
 ---
 

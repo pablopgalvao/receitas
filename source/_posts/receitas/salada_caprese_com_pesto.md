@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de manjericão fresco
 - 1 xícara de chá de azeite
@@ -39,7 +39,6 @@ flags: []
 - Para o molho, bata o azeite, alho, nozes, queijo e uma pitada de sal e pimenta no liquidificador ou mixer;
 - Para a salada, higienize os tomates e corte em fatias sem chegar à base;
 - Regue com azeite e tempere com sal e pimenta a gosto;
-- --
 
 ---
 

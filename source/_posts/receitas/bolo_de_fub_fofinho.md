@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de fubá (225 gramas)
 - 2 e 1/2 xícaras de chá de leite (600 ml) em temperatura ambiente
@@ -41,7 +41,6 @@ flags: []
 - No liquidificador, coloque a manteiga, os ovos, o queijo parmesão, o leite e o açúcar. Bata bem, até formar uma mistura homogênea (cerca de 2 minutos). Isso também ajuda a aerar os ingredientes, o que vai deixar a textura mais fofa posteriormente;
 - Em uma vasilha, coloque o fubá, a farinha de trigo e o fermento. Misture bem com um fuê (batedor de bolos) ou garfo;
 - Unte uma forma redonda com buraco no meio (23 cm X 8 cm) com manteiga e farinha. Despeje a massa e leve para assar no forno a 180 ºC por cerca de 30 minutos ou até dourar;
-- --
 
 ---
 

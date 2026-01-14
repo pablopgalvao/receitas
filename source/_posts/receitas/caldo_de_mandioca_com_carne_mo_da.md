@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de carne moída
 - Sal e pimenta-do-reino a gosto
@@ -42,7 +42,6 @@ flags: []
 - Coloque a carne moída e misture bem. Tempere com açafrão, pimenta-do-reino, páprica e sal. Refogue até a carne cozinhar por completo, cerca de 5 minutos;
 - Assim que a carne estiver cozida, despeje o creme da mandioca e misture bem. Se necessário, acerte o sal e os temperos. Deixe o caldo ferver por alguns minutos para engrossar e incorporar os sabores;
 - Finalize com cheiro-verde a gosto e sirva quentinho.
-- --
 
 ---
 

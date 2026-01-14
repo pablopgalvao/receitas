@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de mel
 - sal e pimenta-do-reino moída na hora a gosto
 - Transfira os figos para dois pratos e preencha cada um com ½ colher (sopa) de ricota esfarelada. Tempere cada figo com um fio de azeite, sal e pimenta a gosto. Regue com o mel e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve uma chaleira com água ao fogo baixo (essa água será usada para fazer um banho-maria). Numa tigela, misture a farinha de trigo, a de nozes e o fermento.
 - Na batedeira, junte a manteiga e o açúcar e bata até formar um creme fofo e esbranquiçado.
 - Junte os ovos, um a um, e bata bem entre cada adição. Em seguida, adicione os ingredientes secos e bata apenas para misturar.
-- --
 
 ---
 

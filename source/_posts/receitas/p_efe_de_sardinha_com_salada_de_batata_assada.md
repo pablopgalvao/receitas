@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve ao fogo médio uma frigideira com cerca de 1/3 de xícara (chá) de óleo para aquecer - a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente apenas para cobrir o fundo.
 - Quando o óleo estiver quente, coloque delicadamente as sardinhas empanadas. Deixe por 3 minutos até ficar com a casquinha dourada. Com uma escumadeira, vire para dourar o outro lado por igual. Enquanto isso, empane as sardinhas restantes.
 - Transfira as sardinhas douradas para a travessa forrada com papel-toalha e frite o restante. Sirva a seguir gomos de limão, salada de batata assada, arroz com alho-poró, feijão-carioca com cominho.
-- --
 
 ---
 

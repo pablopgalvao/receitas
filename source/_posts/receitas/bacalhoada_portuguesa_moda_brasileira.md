@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de bacalhau em lascas
 - 1 colher de chá de sal para cozinhar as batatas
@@ -42,7 +42,6 @@ flags: []
 - Adicione a água quente e o bacalhau dessalgado. Misture, reduza para o fogo baixo, tampe e cozinhe por 10 minutos ou até ele ficar macio;
 - Retire a forma do forno, descasque os ovos, corte ao meio duas vezes no sentido vertical e espalhe pela forma. Salpique o coentro e a salsinha. Regue com mais azeite;
 - Sirva a bacalhoada portuguesa à moda brasileira com arroz branco e salada. Aproveite em família!
-- --
 
 ---
 

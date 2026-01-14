@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -55,7 +56,6 @@ flags: []
 - Empane os bifes=>tempere cada bife com sal e pimenta a gosto; passe o bife pela farinha de trigo e bata com as mãos para retirar o excesso; mergulhe nos ovos batidos e deixe escorrer bem o excesso; passe pela farinha de rosca e pressione bem com a mão para cobrir toda a superfície. Se quiser fazer um segundo empanamento, passe novamente pelo ovo e farinha de rosca – dessa maneira a casquinha fica bem grudada e crocante.
 - Numa frigideira de borda alta coloque o óleo e leve ao fogo médio para aquecer. Para saber a temperatura certa para fritar=>mergulhe um palito de fósforo no óleo ainda frio, quando acender é sinal de que está no ponto.
 - Com cuidado, mergulhe 2 bifes para fritar de cada vez (se sua frigideira for pequena frite 1 por vez). Deixe fritar por 1 minuto até dourar, com uma escumadeira (ou pinça) vire os bifes para dourar o outro lado por igual. Transfira para a travessa forrada com papel-toalha e repita com o restante. Sirva a seguir com uma colherada de mostarda Dijon.
-- --
 
 ---
 

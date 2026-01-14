@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Assim que a água ferver, misture 1 colher (sopa) de sal, adicione o macarrão e deixe cozinhar até 1 minuto antes do tempo indicado na embalagem — ele vai terminar de cozinhar com o molho.
 - Com a pinça, pesque e descarte os ramos de manjericão e o dente de alho do molho. Assim que o macarrão estiver cozido, reserve pelo menos 1 xícara (chá) da água do cozimento.
 - Desligue o fogo e misture ¼ de xícara (chá) de queijo parmesão ralado. Sirva a seguir com rúcula, azeite e parmesão ralado.
-- --
 
 ---
 

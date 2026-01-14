@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma panela média ao fogo médio para aquecer. Regue com o azeite, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Junte o alho e refogue por 1 minuto para perfumar. Acrescente o tomate, tempere com uma pitada de sal e refogue por 2 minutos, até que comece a se desmanchar.
 - Adicione a carne, o arroz e misture bem. Regue com ½ xícara da água quente e mexa bem com a espátula, raspando o fundo da panela para dissolver os queimadinhos. Adicione o restante da água, tempere com ½ colher (chá) de sal e pimenta a gosto e aumente o fogo.
 - Quando ferver, tampe parcialmente a panela, abaixe o fogo e deixe cozinhar por cerca de 15 minutos, até que os grãos de arroz estejam cozidos mas com caldo ainda na panela. Desligue o fogo, misture a salsinha e sirva a seguir.
-- --
 
 ---
 

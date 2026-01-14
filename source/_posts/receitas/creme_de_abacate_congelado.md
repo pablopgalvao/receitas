@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,19 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - 1 xícara (chá) de sorvete de baunilha
 - pistache sem casca quebrado a gosto para servir
-- --
 
 ---
 

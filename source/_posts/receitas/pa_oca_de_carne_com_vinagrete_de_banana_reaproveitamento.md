@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - 1 pitada de sal
 - Descasque e pique fino a cebola roxa. Lave e seque os ramos de salsinha.
 - Numa tigela, coloque a banana em cubos e a cebola picada. Regue com o caldo de limão, o mel e o azeite. Tempere com o sal e misture bem.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 115 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peça de fraldinha (cerca de 1 kg)
 - 1 colher de sopa de páprica picante
@@ -45,7 +45,6 @@ flags: []
 - Tempere a fraldinha com sal e pimenta-do-reino;
 - Adicione o fubá diluído, mexa bem por 15 minutos em fogo baixo e ajuste o sal;
 - Depois que a carne estiver pronta, adicione na mesma panela o tomate pelado e a salsinha. Misture, incorporando bem, e abaixe o fogo. Cozinhe a carne por mais 15 minutinhos com a tampa aberta;
-- --
 
 ---
 

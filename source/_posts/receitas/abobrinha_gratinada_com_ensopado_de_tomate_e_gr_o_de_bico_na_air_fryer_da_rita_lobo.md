@@ -6,7 +6,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -20,12 +22,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 colher (chá) de mel
 - pimenta-do-reino moída na hora a gosto
 - folhas de salsinha a gosto para servir
-- --
 
 ---
 

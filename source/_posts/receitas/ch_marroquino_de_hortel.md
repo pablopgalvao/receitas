@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - Numa chaleira (ou bule que possa ir ao fogo) coloque o chá verde e verta 1 xícara (chá) da água quente nas folhas secas. Deixe infusionar por 30 segundos, coe numa jarra (ou tigela) e reserve essa primeira infusão – ela contém o sabor mais puro e concentrado do chá verde.
 - Mantenha as folhas de chá verde na chaleira e regue com mais 1 xícara (chá) da água quente. Deixe infusionar novamente por 30 segundos, coe e descarte essa segunda infusão – esse passo é essencial para diminuir o amargor do chá.
 - Volte a primeira infusão para a chaleira com as folhas de chá verde. Acrescente o restante da água quente (2 xícaras), junte os ramos de hortelã e adicione o açúcar. Leve ao fogo médio e deixe cozinhar por cerca de 5 minutos, até ferver e formar uma espuma na superfície – a espuma indica que o açúcar dissolveu completamente. O chá fervido com o açúcar ganha um toque caramelizado no sabor.
-- --
 
 ---
 

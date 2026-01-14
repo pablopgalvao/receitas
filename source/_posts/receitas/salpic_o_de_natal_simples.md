@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peito de frango inteiro (700 gramas, sem ossos)
 - 2 colheres de café de sal
@@ -48,7 +48,6 @@ flags: []
 - Higienize os legumes, frutas e ervas. Aproveite para picar o tomate, a meia cebola, a maçã verde, o presunto, a salsinha e a cebolinha. Rale a cenoura no ralador grosso. Fatie as azeitonas e escorra o milho e a ervilha;
 - Na panela de pressão, acomode o peito de frango, a cebola cortada em cruz, o alho picado, a folha de louro, o sal, a pimenta-do-reino e a páprica;
 - Em uma tigela grande, misture o frango desfiado com o tomate, a cenoura, o milho, a ervilha, as azeitonas, o presunto, a cebola, a maçã, a salsinha, a cebolinha e a uva-passa;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 envelope de fermento biológico seco (10 gramas)
 - 250 ml de água morna
@@ -52,7 +52,6 @@ flags: []
 - Acomode os croissants em uma forma untada com óleo e enfarinhada. Cubra e deixe descansar de 30 minutos a 1 hora, até dobrarem de tamanho;
 - Em um recipiente, com um garfo, bata uma gema de ovo e pincele por cima de cada croissant. Leve ao forno preaquecido a 180 ºC por cerca de 15 minutos ou até eles dourarem;
 - Prontinho! A massa fica amanteigada e crocante. Sirva quentinho.
-- --
 
 ---
 

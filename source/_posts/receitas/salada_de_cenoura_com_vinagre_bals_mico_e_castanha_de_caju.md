@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave, seque e pique fino a salsinha. Pique grosseiramente a castanha-de-caju.
 - Na tábua, amasse o dente de alho com a lateral da lâmina da faca. Descarte a casca e transfira para um pote de vidro com tampa. Junte o azeite, o vinagre balsâmico, o mel e a salsinha picada. Tempere com sal e pimenta-do-reino a gosto, tampe e chacoalhe bem para misturar.
-- --
 
 ---
 

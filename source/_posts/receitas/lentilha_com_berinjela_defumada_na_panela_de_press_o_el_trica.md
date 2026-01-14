@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Lave, seque e corte o salsão em cubinhos. Lave, seque e corte o tomate ao meio, descarte as sementes e corte as metades em cubos de 1 cm. Descasque e pique fino a cebola e o alho. Lave, seque e pique fino a salsinha — separe algumas folhas inteiras para servir.
 - Ligue a panela de pressão elétrica (sem a tampa) no modo “refogar”. Quando aquecer, regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com 1 pitada de sal e refogue por cerca de 5 minutos, até que a cebola fique levemente dourada. Adicione mais 1 colher (sopa) de azeite, o salsão e refogue por 2 minutos, até murchar. Junte o alho, o louro, tempere com o cominho, a canela e mexa por 1 minuto para perfumar. Acrescente o tomate e refogue por 2 minutos.
 - Assim que toda a pressão sair, abra a tampa da panela, adicione a berinjela amassada e a salsinha picada e misture delicadamente com a lentilha. Sirva a seguir com as folhas de salsinha reservadas.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - canela em pó a gosto para servir
 - Numa panela média misture o leite, com a água, o açúcar e o sal. Junte o arroz, as tiras da casca da laranja, a canela e os cravos. Leve ao fogo alto e mexa até começar a ferver.
 - Transfira o arroz-doce para uma tigela e cubra com filme em contato com o arroz – isso evita a formação de uma película no doce. Deixe amornar antes de levar para a geladeira – o arroz-doce fica mais cremoso depois de esfriar. Polvilhe com canela em pó a gosto na hora de servir.
-- --
 
 ---
 

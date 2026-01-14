@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - dica
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,20 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - Refogado de cebola, cenoura e salsão congelado
 - Leve 3 xícaras (chá) de água ao fogo alto para ferver. Numa tigela média, solte os dentes de alho com as mãos.
-
-- --
 
 ---
 

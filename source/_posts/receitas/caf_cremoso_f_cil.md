@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 50 gramas de café solúvel em pó
 - 2 xícaras de chá de açúcar
@@ -35,7 +35,6 @@ flags: []
 - 1 pitada de canela em pó
 - Leite fervente a gosto
 - Para servir, coloque 2 colheres de chá do café cremoso em uma xícara e complete com leite fervente, misturando bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma panela média ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Junte o alho, a folha de louro, o cominho, a erva-doce e mexa por 1 minuto para perfumar.
 - Junte o tomate pelado (com o líquido) e misture bem para incorporar o sabor do refogado. Regue com a água, tempere com ½ colher (chá) de sal, acrescente os cubos de filé mignon suíno e misture. Assim que ferver, abaixe o fogo e deixe cozinhar por mais 10 minutos, mexendo de vez em quando até que a carne esteja cozida.
 - Desligue o fogo, misture as raspas e o caldo de limão. Adicione as folhas de couve, misturando delicadamente — elas vão cozinhar e murchar no calor do ensopado. Sirva a seguir com folhas de salsinha e amendoim a gosto.
-- --
 
 ---
 

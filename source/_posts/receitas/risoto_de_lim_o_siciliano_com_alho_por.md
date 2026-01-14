@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga
 - 1 fio de azeite (ou a gosto)
@@ -41,7 +41,6 @@ flags: []
 - Adicione caldo quente aos poucos, mexendo constantemente até que o arroz absorva o líquido. Tempere com sal;
 - Quando estiver quase no ponto, ajuste o sal, se necessário, e continue mexendo até que comece a ficar cremoso;
 - Ao atingir o ponto ideal, finalize o risoto com 1 colher de sopa de manteiga gelada, o suco de meio limão-siciliano e o queijo ralado;
-- --
 
 ---
 

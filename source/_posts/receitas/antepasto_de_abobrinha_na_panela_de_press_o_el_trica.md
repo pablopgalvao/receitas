@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 colher (chá) de mostarda de Dijon com sementes (à l'ancienne)
 - ¼ de xícara (chá) de azeite
 - Lave, seque e corte as pontas das abobrinhas. Passe as abobrinhas pela parte grossa do ralador e transfira para uma peneira grande (ou escorredor de macarrão). Misture a abobrinha com o sal, coloque a peneira sobre uma tigela e deixe drenar o excesso de água por cerca de 20 minutos.
-- --
 
 ---
 

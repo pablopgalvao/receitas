@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de leite tipo A
 - 5 colheres de sopa de vinagre de álcool (75 ml)
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela grande em fogo médio, aqueça o leite. Assim que começar a ferver, adicione o vinagre de álcool e misture com uma colher ou espátula;
 - Peneire o leite talhado em uma tigela, separando o soro da proteína. Utilize uma colher para pressionar a parte sólida contra a peneira, para extrair o máximo de soro, deixando a proteína sequinha;
 - Descarte o soro do leite e transfira o que restou na peneira para o liquidificador. Adicione a manteiga, o sal e o leite, e bata por 1 minuto, até ficar cremoso e brilhante;
-- --
 
 ---
 

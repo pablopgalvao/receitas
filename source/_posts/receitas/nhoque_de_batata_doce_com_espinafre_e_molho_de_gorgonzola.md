@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Destaque as folhas de espinafre e lave sob água corrente. Transfira para uma centrífuga de saladas e seque bem. Com a lateral da faca, amasse o dente de alho e descasque.
 - Numa tigela, misture bem com um garfo a manteiga com o queijo gorgonzola até ficar cremoso.
 - Mantenha a frigideira em fogo médio e coloque a água do cozimento do nhoque reservada. Quando ferver, desligue o fogo e junte a manteiga de gorgonzola, fazendo movimentos circulares com a frigideira para incorporar a manteiga derretida. Tempere com sal e pimenta a gosto.
-- --
 
 ---
 

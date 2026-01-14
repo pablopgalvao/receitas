@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Passe a mandioca pela parte grossa do ralador, transfira para uma tigela e cubra com 2 xícaras (chá) de água. Deixe de molho enquanto separa os outros ingredientes.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande – se um estiver estragado você não perde a receita. Junte o açúcar, o sal, a manteiga e misture bem com um batedor de arame, até formar um creme ralo.
 - Passe a mandioca por uma peneira e aperte bem com uma espátula para retirar a água. Junte a mandioca na mistura de ovos, acrescente o coco, o queijo ralado, o leite e o leite de coco. Misture com a espátula apenas para incorporar os ingredientes – o resultado é uma massa mais líquida com pedaços de mandioca, queijo e coco.
-- --
 
 ---
 

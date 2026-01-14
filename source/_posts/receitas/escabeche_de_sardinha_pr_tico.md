@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - folhas de salsinha a gosto para servir
 - Leve uma frigideira antiaderente ao fogo médio. Regue com o azeite. Acrescente as sardinhas, tempere com pimenta-do-reino moída na hora a gosto e deixe cozinhar por 1 minuto, para aquecer, mexendo delicadamente com a espátula para não desmanchar completamente os filés.
 - Desligue o fogo e misture as raspas e o caldo de limão. Sirva a sardinha com o molho da frigideira e folhas de salsinha a gosto.
-- --
 
 ---
 

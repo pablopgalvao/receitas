@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de lagarto (ou outro corte de sua preferência)
 - 1 colher de sopa de sal
@@ -40,7 +40,6 @@ flags: []
 - Entre com a carne desfiada, adicione a água do cozimento da carne (cerca de 350ml) , coada e o molho de tomate. Misture bem para incorporar e aumente o fogo para reduzir e engrossar o caldo. Isso leva cerca de 10 a 15 minutos, mexendo de vez em quando;
 - Finalize com salsinha ou coentro, misture bem e desligue o fogo. Prove e acerte o sal, se necessário;
 - Para montar os lanches, tire um pouco do miolo dos mini pães e recheie com cerca de 1 colher de sopa de carne. Sirva essa maravilha quentinha!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixinha de leite condensado (395 gramas)
 - 2 caixinhas de creme de leite (200 gramas cada)
@@ -37,7 +37,6 @@ flags: []
 - 1/2 xícara de chá de açúcar (100 gramas)
 - 1 colher de sopa de amido de milho
 - Para a calda, em uma panela ainda fora do fogo, coloque a polpa de maracujá, a água, o açúcar e o amido de milho. Misture para incorporar. Leve ao fogo médio e cozinhe até engrossar, mexendo sempre. Deixe esfriar por uns 10 minutos;
-- --
 
 ---
 

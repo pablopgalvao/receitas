@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá açúcar demerara (ou mascavo)
 - 1/2 xícara de chá de óleo girassol (ou de coco)
@@ -39,7 +39,6 @@ flags: []
 - Em um liquidificador, bata as 3 bananas, os ovos, o açúcar, o óleo e a canela;
 - Em uma forma untada com óleo de coco, polvilhada com mistura de açúcar e canela, forre todo o fundo com as bananas cortadas ao meio;
 - Despeje a massa por cima, polvilhe mais um pouco de açúcar e canela por cima e leve ao forno preaquecido a 180ºC por cerca de 35 a 40 minutos;
-- --
 
 ---
 

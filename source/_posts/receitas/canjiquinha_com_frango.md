@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de sobrecoxa de frango desossada e com pele
 - 300 gramas de linguiça calabresa
@@ -39,7 +39,6 @@ flags: []
 - Tempere o frango com a páprica doce, o cominho e o sal;
 - Aqueça uma panela com um fio de óleo e doure as rodelas de linguiça e os cubos de frango. Mexa bem para as carnes dourarem de todos os lados;
 - Ajuste o sal e deixe cozinhar em fogo médio por cerca de 40 minutos, para que a canjiquinha fique totalmente cozida;
-- --
 
 ---
 

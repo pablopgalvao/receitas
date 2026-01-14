@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - cubos de gelo a gosto
 - Numa jarra, coloque as frutas picadas e o açúcar. Regue com o caldo de laranja e o gim. Deixe macerar na geladeira por 30 minutos ou até a hora de servir.
 - Na hora de servir, junte o vinho e a água tônica às frutas. Acrescente cubos de gelo a gosto.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de páprica doce
@@ -48,7 +48,6 @@ flags: []
 - Agora, polvilhe a farinha de trigo por cima de todos, criando uma camada bem fina. Isso contribui para que fiquem com uma crostinha crocante e também influencia na cremosidade do molho;
 - Em uma frigideira alta, aqueça o azeite e a manteiga em fogo médio, até que derreta bem;
 - Finalize com a salsinha picada e pimenta do reino moída na hora. Prontinho! Agora é só servir. Pode ralar mais um pouco de queijo parmesão por cima se desejar.
-- --
 
 ---
 

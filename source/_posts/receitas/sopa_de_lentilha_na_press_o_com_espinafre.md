@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve a panela de pressão, sem a tampa ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com 1 pitada de sal e refogue até começar a dourar. Adicione mais 1 colher (sopa) de azeite, junte a cenoura, o salsão e refogue por mais 2 minutos até murchar.
 - Regue com a água, aos poucos, raspando os queimadinhos do fundo da panela - eles dão sabor ao caldo. Tempere com 1 colher (chá) de sal e pimenta a gosto, tampe a panela e deixe cozinhar em fogo alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 5 minutos.
 - Misture as folhas de espinafre na sopa e volte a panela (sem a tampa) ao fogo médio. Deixe cozinhar por mais 2 minutos ou até as folhas ficarem macias, prove e ajuste o sal. Sirva a seguir com azeite e farofinha de bacon.
-- --
 
 ---
 

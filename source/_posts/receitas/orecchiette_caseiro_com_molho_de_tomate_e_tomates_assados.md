@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - 6 colheres (sopa) de queijo parmesão ralado grosso
 - azeite a gosto
 - Distribua as rodelas na assadeira e cubra cada uma com ½ colher (sopa) do queijo ralado. Leve ao forno para assar por cerca de 20 minutos, ou até o queijo dourar.
-- --
 
 ---
 

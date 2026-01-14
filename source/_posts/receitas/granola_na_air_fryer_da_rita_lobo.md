@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - 1 pitada de sal
 - Numa tigela média de vidro ou inox (que caiba dentro do cesto da Air Fryer), misture a aveia com as castanhas, as sementes, as especiarias e o sal. Junte o óleo, o mel e mexa bem com a espátula para envolver todos os ingredientes.
-- --
 
 ---
 

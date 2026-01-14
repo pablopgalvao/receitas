@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de sobrecoxa desossada
 - 1 talo de salsão ou alho-poró
@@ -38,7 +38,6 @@ flags: []
 - Junte os ingredientes! Corte as sobrecoxas em pedaços menores. Pique o chouriço em cubinhos. Descasque os dentes de alho e pique-os finamente. Retire as sementes da pimenta e corte bem pequena. Pique a cebola em cubinhos. Rale a cenoura e pique o salsão bem fininho. Corte o tomate em cubos e o cheiro-verde finamente;
 - Em uma tigela, coloque o frango e tempere com sal e pimenta-do-reino, misturando muito bem. Reserve por 10 minutos;
 - Adicione a cenoura, o salsão e o pimentão. Refogue tudo por cerca de 5 minutos, mexendo de tempos em tempos. Junte os tomates e refogue até começarem a desmanchar. Acrescente o arroz e misture bem, envolvendo-o com os temperos. Tempere com um pouco mais de sal, se necessário;
-- --
 
 ---
 

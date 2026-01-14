@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Tempere as cebolas com sal e um fio de azeite. Regue a assadeira com o vinho e cubra com papel-alumínio. Leve ao forno para assar por 1h40, ou até que a costelinha esteja bem macia.
 - Retire o papel-alumínio e separe numa tigela pequena 2 ½ colheres (sopa) do líquido que se formou na assadeira. Misture bem a geleia de damasco ao líquido reservado e espalhe com uma colher sobre a costelinha.
-- --
 
 ---
 

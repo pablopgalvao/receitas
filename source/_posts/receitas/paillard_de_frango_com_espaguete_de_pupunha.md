@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Na mesma frigideira, coloque a manteiga e leve para aquecer em fogo médio. Deixe derreter por 2 minutos, até começar a dourar. Desligue o fogo, junte as folhas de sálvia e mexa apenas para perfumar. Adicione o palmito e misture.
 - Acenda o fogo novamente, junte ¼ de xícara (chá) da água do cozimento e mexa bem, raspando todo o queimadinho do fundo da frigideira para deixar o espaguete ainda mais saboroso. Deixe cozinhar 2 minutos, apenas para aquecer.
 - Desligue o fogo, tempere a gosto com sal e pimenta-do-reino moída na hora. Transfira para um prato e regue com o molho da frigideira. Sirva a seguir com os paillards.
-- --
 
 ---
 

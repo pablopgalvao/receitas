@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de mocotó (pata de boi)
 - 1 colher de sopa de azeite
@@ -36,7 +36,6 @@ flags: []
 - Lave bem as patas de boi (mocotó) e coloque para cozinhar em uma panela com água e sal por 15 minutos;
 - Troque a água da panela, acrescente mais um pouquinho de sal, uma cebola, a cenoura e o limão (todos os três últimos cortados em rodelas);
 - Tempere com sal, pimenta e deixe cozinhar até amolecer os legumes;
-- --
 
 ---
 

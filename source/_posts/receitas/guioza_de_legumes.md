@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Fio de óleo de gergelim torrado
 - 1 colher de chá de gengibre ralado
@@ -43,7 +43,6 @@ flags: []
 - Para o recheio, em um panela, esquente o óleo de gergelim e refogue o alho, o gengibre e o pimentão até dourar.
 - Para massa, misture a farinha e o sal.
 - Coloque na bancada enfarinhada e sove por 7 minutos até não grudar mais nas mãos.
-- --
 
 ---
 

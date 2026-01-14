@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Retire a tigela do banho-maria. Acrescente o açúcar e misture delicadamente com uma espátula.
 - Quebre um ovo de cada vez numa tigela e transfira para outro recipiente - se um deles estiver estragado você não perde toda a receita. Com um garfo misture as gemas com as claras, sem bater.
 - Em seguida, junte os ovos à massa de chocolate. Misture delicadamente com a espátula, com cuidado para não formar bolhas - esse é o segredo para o bolo ficar denso e bem cremoso.
-- --
 
 ---
 

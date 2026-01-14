@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal a gosto
 - azeite a gosto
 - Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e coloque quantos espetinhos couberem, um ao lado do outro, sem amontoar. Tempere com sal a gosto e deixe dourar por cerca de 2 minutos de cada lado. Transfira os espetinhos grelhados para uma travessa e repita com o restante. Sirva a seguir acompanhado da farofa de quiabo, arroz cateto e salada de feijão-fradinho com vinagrete.
-- --
 
 ---
 

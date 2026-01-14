@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colher de sopa de água (45 ml)
 - Sal a gosto
 - Quebre o ovo dentro da frigideira e tempere com sal;
 - Continue mexendo até que os ovos estejam cozidos e soltinhos, desgrudando facilmente da frigideira;
 - Transfira os ovos mexidos para um prato e sirva imediatamente com os acompanhamentos de sua preferência!
-- --
 
 ---
 

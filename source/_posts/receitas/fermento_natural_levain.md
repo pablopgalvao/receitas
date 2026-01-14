@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 205 gramas de farinha de trigo integral
 - 100 gramas de farinha de trigo branca tradicional
@@ -39,7 +39,6 @@ flags: []
 - Pese toda a mistura, que deve chegar em torno de 210 gramas. Descarte metade para não crescer demais, isso também trará mais força para o levain;
 - Alimente com 75 gramas de farinha integral e 30 ml de água. Coloque no vidro limpo e siga o processo de tampar com papel-toalha. Mantenha em um lugar escuro por 24 horas;
 - No sétimo dia, reserve 50 gramas do fermento e descarte o restante. Em um bowl, misture com a quantia reservada 100 ml de água e 100 gramas de farinha branca tradicional. Tampe da mesma forma. Após 24 horas, você já terá um levain bem mais forte;
-- --
 
 ---
 

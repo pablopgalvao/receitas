@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 30 ml de rum branco
 - 30 ml de vodka
@@ -37,7 +37,6 @@ flags: []
 - Retire o sachê e leve o chá à geladeira ou freezer, até que esteja bem gelado. Meça 30 ml dele para o drink;
 - Em um copo alto, adicione o rum, a vodka e os 30 ml do chá gelado. Misture suavemente com uma colher;
 - Adicione bastante gelo ao copo e complete com água com gás a gosto. Mexa levemente para manter a efervescência;
-- --
 
 ---
 

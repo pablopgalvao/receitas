@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 cenouras médias (cerca de 360 gramas)
 - 1 xícara de chá de óleo de milho (240 ml)
@@ -45,7 +45,6 @@ flags: []
 - No liquidificador, coloque as cenouras, o óleo, os ovos e o açúcar. Bata por cerca de 5 minutos, ou até ficar uma misture bem homogênea. Despeje em um recipiente grande;
 - Assim que obter uma massa homogênea, despeje-a em uma forma redonda média (22 cm de diâmetro), untada e enfarinha. Leve ao forno preaquecido a 180 ºC por cerca de 45 a 50 minutos - quando você espetar o garfo e ele sair limpinho, o bolo está assado.
 - Em uma panela, coloque o leite condensado, a manteiga e o chocolate. Com uma espátula, misture bem até ficar homogêneo;
-- --
 
 ---
 

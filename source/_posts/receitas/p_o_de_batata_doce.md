@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Assim que a farinha tiver absorvido os líquidos, junte a manteiga e amasse bem – parece que não vai dar certo, a manteiga demora para ser absorvida pela massa, mas é assim mesmo, continue amassando. Aperte, amasse, estique e amasse novamente até ficar com a textura macia e úmida – marque 10 minutos no relógio! Se preferir, sove a massa na bancada ou na batedeira com o gancho.
 - Unte com manteiga uma assadeira grande de cerca de 30 cm x 40 cm (se preferir, utilize uma assadeira antiaderente).
 - Numa tigela pequena, quebre o outro ovo. Junte 2 colheres (chá) de água e misture bem com um garfo. Com um pincel, passe a mistura de ovo batido sobre os pães.
-- --
 
 ---
 

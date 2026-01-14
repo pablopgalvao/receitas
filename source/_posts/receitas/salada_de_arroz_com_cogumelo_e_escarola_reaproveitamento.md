@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - 1 colher (chá) de gergelim branco torrado
 - Destaque 3 folhas do maço de escarola, lave sob água corrente e transfira para uma tigela. Cubra com água, adicione o esterilizante de sua preferência e deixe de molho por 15 minutos. Retire as folhas da água, enxágue e seque numa centrífuga de saladas.
 - Na hora de comer, tempere a escarola com um fio de azeite e sal.
-- --
 
 ---
 

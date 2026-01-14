@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - ½ xícara (chá) de água
 - ⅓ de xícara (chá) de açúcar
 - Numa panela pequena, misture a água com o açúcar e leve ao fogo alto. Assim que ferver, abaixe o fogo e deixe cozinhar, sem mexer, por cerca de 8 minutos, até engrossar levemente.
-- --
 
 ---
 

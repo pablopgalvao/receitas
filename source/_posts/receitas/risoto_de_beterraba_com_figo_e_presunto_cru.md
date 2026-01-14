@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - 2 colheres (chá) de mel
 - Leve uma panela ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e junte a cebola. Tempere com sal e uma pitada de açúcar, refogue até murchar. Acrescente o arroz e mexa bem por 1 minuto. Tempere com sal e pimenta-do-reino moída na hora a gosto - lembre-se de que o caldo não leva sal.
 - Desligue o fogo e misture o queijo parmesão e a manteiga. Divida o risoto em dois pratos. No centro de cada um disponha as fatias de presunto cru e duas metades de figo dourados. Regue com o mel e azeite a gosto. Sirva imediatamente.
-- --
 
 ---
 

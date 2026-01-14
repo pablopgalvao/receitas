@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de macarrão tipo parafuso ou penne (250 gramas)
 - 1 tomate médio (150 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Cozinhe o macarrão em água fervente com sal até ficar al dente. Escorra e passe imediatamente em água fria para interromper o cozimento;
 - Adicione a maionese e o azeite, e misture delicadamente com uma colher até incorporar todos os ingredientes;
 - E está pronta! Sirva a salada em temperatura ambiente ou leve à geladeira por 30 minutos antes de servir.
-- --
 
 ---
 

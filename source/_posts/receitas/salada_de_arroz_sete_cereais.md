@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - ½ colher (chá) de sal
 - Numa panela média, coloque a água e leve ao fogo alto. Quando ferver, adicione o sal, o arroz e abaixe o fogo. Deixe cozinhar por 20 minutos - os grãos devem estar cozidos mas ainda firmes.
 - Escorra a água e junte a cebola ao arroz. Adicione a hortelã fatiada, tempere com o azeite, o vinagre e misture bem. Ajuste o sal, decore com as folhas de hortelã reservadas. Sirva a seguir.
-- --
 
 ---
 

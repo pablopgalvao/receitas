@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa travessa, coloque as beterrabas e os pimentões ainda mornos. Regue com o azeite, tempere com sal e pimenta-do-reino moída na hora e misture bem. Acrescente as nozes picadas e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de tilápia
 - 3 colheres de café de sal
@@ -45,7 +45,6 @@ flags: []
 - Em uma tigela, tempere os filés com alho picado, sal, pimenta-do-reino, páprica defumada, orégano e azeite. Misture bem com as mãos e reserve;
 - Tempere as batatas com sal e pimenta-do-reino e acomode os filés de tilápia sobre elas;
 - Enquanto isso, em uma tigela, misture o tomate picado, a mussarela ralada, a maionese, o sal, a pimenta-do-reino e o orégano até formar uma pasta cremosa;
-- --
 
 ---
 

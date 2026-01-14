@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de sopa de manteiga (10 gramas)
 - 1 xícara de chá de leite integral (240 ml)
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de café de sal (ou a gosto)
 - Em uma panela, refogue a cebola na manteiga até dourar bem e murchar levemente. Desligue o fogo e reserve;
 - Desligue o fogo e acrescente queijo ralado, se desejar. Mexa mais um pouco para dissolver bem e ajuste o sal, se necessário;
-- --
 
 ---
 

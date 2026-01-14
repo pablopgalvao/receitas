@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, coloque o milho, a carne desfiada e o pimentão. Escorra a água e junte a cebola picada à salada. Regue com o caldo de limão e o azeite. Tempere com o cominho, sal e pimenta-do-reino moída na hora. Misture bem e finalize com folhas de coentro. Sirva a seguir. Se for levar para o trabalho, deixe o coentro à parte e adicione na hora de consumir.
-- --
 
 ---
 

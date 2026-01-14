@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga
 - 2 colheres de sopa rasas de farinha de trigo
@@ -47,7 +47,6 @@ flags: []
 - Incorpore o requeijão cremoso, ajuste o sal e finalize com cheiro-verde. Cozinhe até obter um recheio espesso e cremoso. Reserve para esfriar completamente;
 - Para a massa, misture em uma tigela a farinha, a margarina, a banha, o sal e a gema. Trabalhe com as pontas dos dedos, apertando a massa até formar uma bola uniforme. Não sove;
 - Recheie cada empada com cerca de uma colher de sopa do recheio frio. Para fechar, abra a tampinha entre plásticos com um rolo e cubra a empada. Pressione as laterais para colar, retire o excesso de massa com uma faquinha ou com as pontas dos dedos;
-- --
 
 ---
 

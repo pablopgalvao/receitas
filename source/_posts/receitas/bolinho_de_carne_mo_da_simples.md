@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de carne moída
 - Salsinha a gosto
@@ -35,7 +35,6 @@ flags: []
 - 2 colheres de sopa de farinha de trigo
 - Coloque a carne moída, a cebola, o alho, a salsinha, o sal, a pimenta e a farinha em uma tigela, e misture até formar uma massa;
 - Frite-as em óleo quente até dourarem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de camarão tamanho médio descascado e limpo
 - 1 e 1/2 colher de sopa de suco de limão
@@ -53,7 +53,6 @@ flags: []
 - Aos poucos, vá colocando a xícara de chá de leite e, com um fuê (batedor de bolo), mexa para não empelotar. Após 1 minuto, o molho começará a engrossar;
 - Tempere com sal, pimenta e noz-moscada;
 - Salpique cheiro-verde, acerte o tempero, misture bem e desligue o fogo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 potes de iogurte natural sem açúcar (340 gramas)
 - 1 xícara de chá de frango desfiado e temperado (200 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Sal a gosto
 - Reúna e separe todos os ingredientes necessários sobre a bancada. Rale a cenoura e passe o talo de salsão em um descascador para tirar as fibras. Depois, fatie finamente usando um mandolim ou faca. Pique as folhas de hortelã da forma que desejar e reserve;
 - Incorpore a mostarda de dijon, o azeite e o sal, ajustando conforme sua preferência;
-- --
 
 ---
 

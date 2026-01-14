@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - Leve ao fogo médio uma panela média para aquecer. Regue com 1 colher (sopa) de azeite e junte a carne moída. Tempere com uma pitada de sal e polvilhe com a farinha de trigo. Deixe cozinhar por cerca de 10 minutos até a farinha dourar e a carne cozinhar - mexa de vez em quando com uma espátula para soltar a carne moída.
 - Transfira a carne dourada para uma tigela e mantenha a panela em fogo médio. Regue com mais ½ colher (sopa) de azeite e acrescente a cebola. Tempere com sal e refogue por cerca de 1 minuto até murchar. Junte a cenoura ralada e refogue por mais 2 minutos para murchar. Adicione o alho, o anchova e mexa por 1 minuto.
 - Transfira o recheio para o refratário untado com azeite e cubra com o purê de batatas reservado - espalhe com as costas de uma colher para cobrir toda a carne. Com um garfo, raspe a superfície do purê para marcar e polvilhe com queijo ralado a gosto - assim ele fica bem rústico para gratinar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 abóbora moranga média (1,6 kg)
 - 2 colheres de sopa de óleo para pincelar
@@ -45,7 +45,6 @@ flags: []
 - Em uma panela média e em fogo baixo, adicione o azeite, o alho e a cebola picados, refogando até ficarem dourados e perfumados. Acrescente a pimenta calabresa, o orégano e o sal, misturando bem para que tudo se incorpore;
 - Em seguida, adicione a polpa da abóbora reservada e os tomates pelados, mexendo bem. Se necessário, ajuste o sal. Cozinhe por uns 10 minutos;
 - Coloque o camarão no creme e misture bem. O calor desse creme irá cozinhá-lo, então deixe no fogo por alguns minutos até que esteja totalmente cozido. Ajuste o sal se necessário, mais uma vez;
-- --
 
 ---
 

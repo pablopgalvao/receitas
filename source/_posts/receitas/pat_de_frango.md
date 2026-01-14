@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de frango cozido e desfiado
 - 300 gramas de maionese
@@ -37,7 +37,6 @@ flags: []
 - Sal e cheiro-verde a gosto
 - Adicione a maionese e, com uma espátula ou colher, misture até formar uma pastinha;
 - Tempere com sal a gosto, acrescente o cheiro-verde e, se quiser, outros temperos de sua preferência;
-- --
 
 ---
 

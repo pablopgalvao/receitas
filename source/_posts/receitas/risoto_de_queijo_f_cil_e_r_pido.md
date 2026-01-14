@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Alho-poró a gosto
 - Salsinha a gosto
@@ -42,7 +42,6 @@ flags: []
 - Em uma panela, comece adicionando a manteiga, o azeite e misture levemente. Assim que derreter a manteiga, acrescente a cebola picadinha e deixe refogar por 5 minutos;
 - Quando a cebola já estiver douradinha, adicione o arroz arbóreo e o sal a gosto. Misture para incorporar e deixe cozinhar junto por mais 5 minutos;
 - Derretido os queijos, acrescente mais uma colher de sopa de manteiga e o queijo parmesão ralado. Mexa novamente até a manteiga derreter;
-- --
 
 ---
 

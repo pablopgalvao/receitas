@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal a gosto
 - Coloque a manteiga numa panela grande e leve ao fogo médio para derreter. Acrescente a cebola, o alho, a pimenta dedo-de-moça e o gengibre. Tempere com uma pitada de sal e mexa por 2 minutos até murchar.
 - Abaixe o fogo e junte as maçãs (com o caldo de limão), o abacaxi e o pimentão picados. Adicione o açúcar, tempere com o curry e ½ colher (chá) de sal. Misture bem, tampe e deixe cozinhar por 5 minutos – nesse tempo as frutas vão liberar o próprio caldo.
-- --
 
 ---
 

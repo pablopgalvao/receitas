@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 700 gramas de camarões (limpos e sem casca)
 - 3/4 xícara de chá de farinha de trigo (100 gramas)
@@ -47,7 +47,6 @@ flags: []
 - Passe os camarões enfarinhados na mistura de ovos, garantindo que fiquem bem umedecidos;
 - Em seguida, empane os camarões na farinha panko, pressionando levemente com as mãos para que a farinha grude bem;
 - Tempere com sal e pimenta-do-reino. Coloque para assar a 180 °C por 12 minutos, virando os camarões com cuidado na metade do tempo (6 minutos);
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de água gelada
 - 150 ml de saquê
@@ -36,7 +36,6 @@ flags: []
 - Mergulhe o sachê na água gelada e deixe em infusão por 5 minutos. Separe 30 ml dessa infusão para a receita;
 - Em um copo, misture os 30 ml da infusão gelada com os 150 ml de saquê;
 - Adoce com açúcar a gosto e adicione o ramo de hortelã, amassando levemente dentro do copo para liberar seus aromas e sabores;
-- --
 
 ---
 

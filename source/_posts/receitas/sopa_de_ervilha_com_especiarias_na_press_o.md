@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Acrescente a ervilha e misture bem. Regue com a água, tempere com 1½ colher (chá) de sal, pimenta e noz-moscada a gosto. Tampe a panela e aumente o fogo. Assim que a panela começar a apitar, abaixe o fogo e deixe cozinhar por 30 minutos.
 - 1 colher (chá) de manteiga
 - Lave, seque e corte a maçã em fatias de 1 cm. Descarte as sementes e corte as fatias em cubos de 1 cm. Transfira para uma tigela, regue com o caldo de limão e adicione a manteiga.
-- --
 
 ---
 

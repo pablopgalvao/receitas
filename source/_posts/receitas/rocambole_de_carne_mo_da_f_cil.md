@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de carne moída
 - Sal a gosto
@@ -43,7 +43,6 @@ flags: []
 - Coloque a carne moída em uma tigela grande. Tempere com sal, páprica doce, pimenta-do-reino, creme de cebola e alhos amassados. Com as mãos, misture tudo muito bem;
 - Agora, adicione o azeite e a farinha de trigo. Ainda com as mãos, misture, incorporando todos os ingredientes;
 - Adicione os tomates picados, as rodelas de cebola e o pimentão picadinho sobre a massa de carne moída recheada. Salpique orégano sobre todos os ingredientes;
-- --
 
 ---
 

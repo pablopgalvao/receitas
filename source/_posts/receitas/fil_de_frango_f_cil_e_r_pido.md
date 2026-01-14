@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 8 colheres de sopa de mostarda
 - 1 punhado de salsa picada
@@ -37,7 +37,6 @@ flags: []
 - Em uma tigela, misture a mostarda, o suco de limão, o alho picado, a salsa e o azeite de oliva. Tempere com sal e pimenta-do-reino a gosto;
 - Aqueça uma frigideira grande em fogo médio-alto e adicione um fio de azeite e a manteiga. Coloque os filés na frigideira e grelhe por cerca de 6 a 7 minutos de cada lado, até que fiquem dourados e totalmente cozidos;
 - Retire os filés de frango da frigideira e disponha-os em pratos. Sirva acompanhado de arroz branco ou legumes salteados!
-- --
 
 ---
 

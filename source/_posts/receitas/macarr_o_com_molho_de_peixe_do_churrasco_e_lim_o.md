@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Quando der o tempo do macarrão, reserve 1 xícara (chá) da água do cozimento e escorra.
 - Transfira o espaguete para a frigideira e misture delicadamente, ainda em fogo médio. Vá adicionando ¾ de xícara (chá) da água do cozimento reservada, mexendo com a espátula para unificar os sabores e deixar o molho mais fluido.
 - Desligue o fogo, regue com o caldo de limão e sirva a seguir com folhas de salsinha a gosto e gomos de limão extra.
-- --
 
 ---
 

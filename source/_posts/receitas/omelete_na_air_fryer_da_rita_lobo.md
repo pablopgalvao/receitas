@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma jarra medidora grande — assim fica mais fácil para preencher os ramequins com os ovos batidos (se preferir, use uma tigela e uma concha). Bata com um garfo para misturar as claras com as gemas. Junte a cebolinha, tempere com sal e pimenta e misture novamente.
 - Divida o recheio da omelete em 4 ramequins de 9 cm x 5 cm e preencha cada um com ovos batidos. Deixe cerca de 1 cm da borda do ramequim livre.
-- --
 
 ---
 

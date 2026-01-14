@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ½ colher (chá) de sal
 - ¼ de xícara (chá) de castanha-de-caju torrada e sem sal
 - Leve a panela de pressão (sem a tampa) ao fogo médio para aquecer, regue com o azeite e acrescente a cebola. Tempere com uma pitada de sal e refogue por cerca de 2 minutos, até murchar. Junte o louro, o arroz, tempere com o sal e misture bem por 1 minuto para envolver os grãos com o azeite.
-- --
 
 ---
 

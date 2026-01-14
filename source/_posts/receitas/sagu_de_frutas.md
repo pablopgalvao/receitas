@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de sagu (160 gramas)
 - 1 caixinha de leite condensado (395 gramas)
@@ -38,7 +38,6 @@ flags: []
 - 2 maçãs (390 gramas)
 - 2 kiwis (290 gramas)
 - 1 manga (440 gramas)
-- --
 
 ---
 

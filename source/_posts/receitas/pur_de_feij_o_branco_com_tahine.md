@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira pequena ao fogo médio para aquecer. Regue com o azeite, adicione a cebola e o alho, tempere com uma pitada de sal e refogue por 3 minutos, até murchar.
 - Transfira o refogado (com o azeite da frigideira) para o processador, junte o feijão, o tahine, a água do cozimento e tempere com sal e pimenta a gosto. Comece a bater no modo pulsar para ficar mais fácil de triturar os grãos, depois bata por cerca de 4 minutos, até formar um purê bem cremoso e liso — se necessário, pare de bater e raspe a lateral do processador para misturar de maneira uniforme. Sirva a seguir ou mantenha na geladeira até a hora de servir — o purê pode ser servido em temperatura ambiente ou frio.
-- --
 
 ---
 

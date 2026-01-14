@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 700 gramas de mandioca
 - 1 colher de sopa de manteiga ou margarina
@@ -44,7 +44,6 @@ flags: []
 - Passe um pouco de óleo nas mãos, pegue porções da massa de mandioca e abra em formato de disco, no tamanho que quiser;
 - Passe as coxinhas no ovo batido, escorra o excesso e envolva na farinha de rosca;
 - Em uma panela pequena e funda, aqueça óleo suficiente para cobrir as coxinhas e frite-as aos poucos, até dourarem por igual;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Transfira os legumes para a tigela com o azeite temperado e misture bem para envolver todos os pedaços. Distribua numa assadeira grande, deixando espaço entre cada um - quanto mais espaço entre eles mais dourados ficam. Regue com o azeite que sobrar na tigela e tempere com sal e pimenta-do-reino moída na hora a gosto.
 - Assim que estiverem assados, retire os legumes do forno. Enquanto isso, lave, seque e corte o limão siciliano em quartos. Leve uma frigideira pequena ao fogo médio. Quando aquecer, regue com 1 colher (chá) de azeite e coloque os pedaços de limão siciliano com o lado cortado para baixo. Deixe dourar por cerca de 3 minutos de cada lado. Reserve.
 - Escorra a água do grão-de-bico por uma peneira. Transfira os grãos para a assadeira com os legumes e misture delicadamente - assim você aproveita os temperos. Disponha a salada numa travessa, regue com mais azeite e sirva a seguir com o caldo dos limões grelhados.
-- --
 
 ---
 

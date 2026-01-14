@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal a gosto
 - Numa tigela grande, misture o azeite com o gengibre, o alho, o cominho, o coentro, a pimenta-de-caiena e uma pitada de sal. Adicione os quiabos e misture bem para envolver toda a superfície com os temperos. Junte a farinha de trigo, o fubá e misture novamente.
-- --
 
 ---
 

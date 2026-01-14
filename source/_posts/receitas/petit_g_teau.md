@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 barra (90 gramas) de chocolate meio amargo
 - 4 colheres de sopa de manteiga
@@ -36,7 +36,6 @@ flags: []
 - Em um recipiente, derreta o chocolate em barra com a manteiga no micro-ondas de 30 em 30 segundos ou em banho-maria;
 - Em uma tigela, coloque a farinha, o açúcar e os ovos. Mexa muito bem;
 - Unte as forminhas com manteiga e chocolate em pó;
-- --
 
 ---
 

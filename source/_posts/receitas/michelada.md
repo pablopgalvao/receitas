@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Separe 2 copos altos. Num pires, coloque sal e pimenta a gosto, e misture. Corte os limões ao meio, e passe metade de um limão na borda dos copos; passe os copos no pires com sal e pimenta - para fazer uma bordinha nos copos.
 - Coloque em cada copo o molho de pimenta e o molho inglês. Complete com gelo a gosto.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira média ao fogo médio. Quando aquecer, coloque a manteiga e deixe derreter. Junte os dentes de alho e os galhos de alecrim e refogue por 1 minuto para perfumar.
 - Acrescente os grãos de feijão, tempere com sal e pimenta e mexa por mais 1 minuto. Regue com 1 xícara (chá) do caldo e deixe cozinhar por cerca de 3 minutos, mexendo de vez em quando até engrossar levemente o caldo. Desligue o fogo e sirva a seguir com os dentes de alho e os ramos de alecrim.
-- --
 
 ---
 

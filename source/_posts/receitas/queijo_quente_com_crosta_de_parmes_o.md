@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Espalhe um pouco de manteiga em apenas um dos lados das quatro fatias de pão. Vamos preparar dois sanduíches.
 - Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, polvilhe 1 colher (sopa) de parmesão formando uma base para cada sanduíche, uma ao lado da outra – isso vai formar a crosta do queijo quente.
 - Com o lado da manteiga voltado para baixo, disponha duas fatias de pão na frigideira, sobre o parmesão. Disponha metade do queijo prato ralado sobre cada fatia e feche cada um dos sanduíches com uma fatia de pão, deixando o lado da manteiga voltado para cima.
-- --
 
 ---
 

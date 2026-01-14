@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Retire a frigideira do fogo, regue com o caldo de laranja e mexa com a espátula, raspando bem para dissolver os queimadinhos – eles dão sabor ao molho. Junte o creme de leite e volte a frigideira ao fogo médio. Assim que ferver, volte as almôndegas para a frigideira, tempere o molho com sal e pimenta e deixe cozinhar por mais 3 minutos – além de passar sabor ao molho, as almôndegas terminam de cozinhar no centro.
 - Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e passe o macarrão pelo escorredor.
 - Desligue o fogo do molho e adicione endro picado a gosto. Junte o macarrão cozido e misture bem – se quiser um molho mais fluido, adicione a água do cozimento reservada aos poucos. Transfira para uma travessa e finalize com mais endro, sirva a seguir.
-- --
 
 ---
 

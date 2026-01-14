@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 8 fatias de pão branco (250 gramas)
 - 4 colheres de sopa de manteiga (60 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela pequena, derreta a manteiga junto do azeite;
 - Tempere a mistura com sal e pimenta-do-reino, mexendo bem para que tudo se incorpore. Reserve;
 - Despeje a mistura da panela sobre esses pães cortados, mexendo bem com uma colher para que os temperos agreguem;
-- --
 
 ---
 

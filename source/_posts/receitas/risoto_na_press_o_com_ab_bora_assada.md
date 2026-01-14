@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Leve ao fogo médio uma panela de pressão sem a tampa. Quando aquecer, regue com 1 ½ colher (sopa) de azeite e adicione a cebola picada. Tempere com uma pitada de sal e refogue até murchar. Junte a cenoura e o salsão e refogue por mais 2 minutos.
 - Regue com mais ½ colher (sopa) de azeite, adicione o arroz e misture bem, para envolver todos os grãos com o azeite. Regue com o vinho e mexa até secar. Junte a água, a folha de salsão e a cebola cravejada. Tempere com sal e pimenta, misture bem, tampe a panela e aumente o fogo para alto.
 - Depois que todo o vapor sair, abra a tampa da panela. Com uma pinça, pesque e descarte a folha de salsão e a cebola cravejada. Acrescente a manteiga, o queijo parmesão ralado e metade da abóbora assada. Tempere com noz-moscada a gosto e misture bem. Transfira o risoto para os pratos e sirva com o restante da abóbora assada e lascas de parmesão a gosto.
-- --
 
 ---
 

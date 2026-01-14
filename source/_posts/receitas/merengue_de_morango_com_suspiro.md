@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 150 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de leite condensado (395 gramas)
 - 400 ml de leite (medido na caixa do leite condensado)
@@ -41,7 +41,6 @@ flags: []
 - Morangos a gosto (300 gramas)
 - Agregue a gema peneirada, o leite Ninho (também peneirado) e misture bem com uma colher ou fouet (batedor de arame);
 - Enquanto isso, bata a nata com o açúcar na batedeira até que fique consistente e homogêneo, sem cair da colher ou espátula facilmente;
-- --
 
 ---
 

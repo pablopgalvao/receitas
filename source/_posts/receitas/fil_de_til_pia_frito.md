@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de tilápia limpa (aproximadamente 10 filés)
 - 1 xícara de chá de farinha de trigo
@@ -44,7 +44,6 @@ flags: []
 - Espalhe a farinha de rosca por todo o filé, dando apertadinhas para grudar em todos os cantinhos. Reserve em um prato e repita o processo com o restante;
 - Em uma frigideira, adicione o óleo e deixe esquentar em fogo médio. Para saber que está devidamente quente, faça o teste do fósforo. Se jogar um ao óleo e ele ascender, está quente o suficiente;
 - Deixe escorrer o óleo e transfira para um prato forrado com papel-toalha, para absorver os excessos de gordura;
-- --
 
 ---
 

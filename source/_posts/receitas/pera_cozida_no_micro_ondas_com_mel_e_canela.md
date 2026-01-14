@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 pitada de canela em pó
 - Lave, seque e corte a pera ao meio, no sentido do comprimento. Com uma colher de chá, descarte o miolo com as sementes. Descarte o cabo e corte cada metade em fatias finas, de 0,5 cm, no sentido do comprimento.
 - Com cuidado e utilizando um pano de prato – a tigela vai estar quente – retire a tigela do micro-ondas e misture delicadamente com uma colher para que as fatias cozinhem por igual. Cubra novamente e volte ao micro-ondas para rodar por mais 2 minutos, até que a pera fique bem macia e uma caldinha se forme.
-- --
 
 ---
 

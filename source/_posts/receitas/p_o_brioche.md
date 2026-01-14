@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 envelope de fermento biológico seco (5 gramas)
 - 1/4 de xícara de chá de açúcar (50 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Retorne a massa para a tigela e polvilhe um pouco mais de farinha por cima. Então, cubra com um pano ou a tampa da tigela, deixando essa massa descansar por 1 hora, ou até dobrar de volume;
 - Modele o pão no formato que desejar. Acomode-o na forma (23x13x7cm) untada e enfarinhada;
 - Se desejar, pincele manteiga derretida assim que retirar do forno, para um brilho especial. Espere amornar antes de desenformar e sirva. Aproveite!
-- --
 
 ---
 

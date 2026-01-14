@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,2 kg de mocotó limpo
 - 1/2 xícara de chá de vinagre (120 ml)
@@ -41,7 +41,6 @@ flags: []
 - 1 sachê de molho de tomate (300 gramas)
 - Logo, adicione o feijão com o caldo no refogado, misture até todos os ingredientes se envolverem. Coloque o sal, misture e deixe cozinhar por mais 5 minutos para agregar o sabor;
 - Finalize com a salsinha e sirva quentinho! Bom apetite!
-- --
 
 ---
 

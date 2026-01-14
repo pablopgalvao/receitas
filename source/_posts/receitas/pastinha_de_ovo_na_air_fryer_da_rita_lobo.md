@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 18 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Com uma luva (ou pano de prato), retire a fôrma da Air Fryer. Com cuidado para não se queimar com o vapor, retire o papel-alumínio e escorra a água da superfície, inclinando delicadamente a fôrma na pia. Deixe que os ovos esfriem por cerca de 5 minutos. Enquanto isso, lave, seque e pique fino a salsinha.
 - Com um amassador de legumes, quebre os ovos na própria fôrma — cuidado para não virar uma massa, a ideia é deixar pedacinhos de clara e gema na pastinha.
 - Junte a maionese e a salsinha. Tempere com sal e pimenta a gosto e misture bem. Sirva a seguir ou mantenha na geladeira por até 3 dias (a pastinha gelada é ainda mais gostosa).
-- --
 
 ---
 

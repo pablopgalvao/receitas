@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ⅓ de xícara (chá) de castanha-de-caju torrada, sem sal
 - sal a gosto
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com o azeite e adicione os ramos de brócolis. Tempere com sal e refogue por cerca de 5 minutos, virando com uma pinça, até ficarem macios (se sua frigideira for pequena, refogue o brócolis em duas etapas).
-- --
 
 ---
 

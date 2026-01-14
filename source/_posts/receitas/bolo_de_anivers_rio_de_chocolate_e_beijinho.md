@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de açúcar
 - 1 colher de sopa de cacau em pó
@@ -41,7 +41,6 @@ flags: []
 - Acrescente a água, o chocolate, o cacau e a farinha. Bata até ficar homogêneo;
 - Junte o fermento e misture delicadamente com uma colher;
 - Em uma panela, coloque o leite condensado, o coco ralado, a manteiga e leve para cozinhar em fogo baixo até engrossar;
-- --
 
 ---
 

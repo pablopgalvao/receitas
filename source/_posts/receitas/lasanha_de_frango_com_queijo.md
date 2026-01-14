@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de óleo
 - 2 colheres de sopa de salsinha desidratada
@@ -43,7 +43,6 @@ flags: []
 - Coloque o forno para preaquecer a 180 ºC. Se quiser, inclua outros temperos de sua preferência, como manjericão fresco, que combina muito com o molho de tomate, ou salsinha e cebolinha. Para molho de tomate caseiro, a medida é 600 gramas;
 - Em uma panela grande, em fogo médio para alto, coloque o óleo e o peito de frango desfiado. Tempere com salsinha desidratada, sal, pimenta-do-reino, páprica e colorau. Misture bem e refogue por 1 minuto, mexendo de vez em quando para não queimar;
 - Acrescente os sachês de molho de tomate, misture novamente e refogue por cerca de 5 minutos. Se preciso, acerte o sal e os temperos a gosto;
-- --
 
 ---
 

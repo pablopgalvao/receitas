@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de sopa de bicarbonato de sódio
 - 1 colher de sopa de salsinha
@@ -38,7 +38,6 @@ flags: []
 - Em uma panela com água fervente e sal, adicione o bicarbonato de sódio e as batatas. Cozinhe até que fiquem levemente macias, sem desmanchar. Escorra as batatas e reserve, deixando que sequem bem para ficarem crocantes ao assar;
 - Retire do forno, misture as batatas e alho fritos reservados, adicione salsinha picada e finalize com páprica picante;
 - Para o sour cream, bata com um fouet (batedor de arame) a nata com as raspas e o suco de limão, até obter um creme leve e homogêneo, tempere com sal e pimenta-do-reino a gosto;
-- --
 
 ---
 

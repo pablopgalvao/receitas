@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal a gosto
 - Coloque a manteiga numa frigideira grande e leve ao fogo médio. Quando derreter, adicione o alho e mexa por 1 minuto para perfumar — é bem rápido. Se o alho queimar, pode amargar a farofa.
 - Adicione os talos de coentro e refogue por mais 1 minuto, até murchar levemente. Tempere com sal e adicione a farinha aos poucos, mexendo com a espátula. Deixe a farofa tostar por cerca de 3 minutos, mexendo de vez em quando, até dourar e ficar crocante.
-- --
 
 ---
 

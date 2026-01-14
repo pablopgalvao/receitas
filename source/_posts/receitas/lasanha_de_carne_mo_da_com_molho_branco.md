@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída
 - 1 colher de sopa de cebolinha
@@ -45,7 +45,6 @@ flags: []
 - Agora vamos para o molho branco! Em outra panela, adicione a manteiga e, assim que derreter, adicione a farinha. Mexa bem para desmanchar os gruminhos e formar uma mistura lisa;
 - Quando passar do ponto de pasta para um creme mais ralo, aumente o fogo e coloque sal a gosto;
 - Leve ao forno por aproximadamente 15 a 20 minutinhos e está pronto! Sirva como refeição única ou acompanhada de arroz e salada. Bom apetite!
-- --
 
 ---
 

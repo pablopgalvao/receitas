@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Leve uma frigideira média ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e doure por cerca de 4 minutos, mexendo de vez em quando. Adicione o alho e mexa por 1 minuto para perfumar.
 - Acrescente 1 colher (sopa) de azeite, junte as sardinhas e cozinhe por 1 minuto mexendo delicadamente — cuidado para não desmanchar completamente os filés; o objetivo é a sardinha continuar pedaçuda. Desligue o fogo, junte metade das raspas e o caldo de ½ limão. Prove e se necessário, ajuste o sal — lembre-se que a sardinha é salgada.
 - Tempere as cavidades das batatas com um fio de azeite, sal e pimenta. Recheie com a sardinha refogada, polvilhe com o restante das raspas da casca de limão e salsinha a gosto. Sirva a seguir com gomos de limão-siciliano grelhados (se preferir, regue com o caldo do limão utilizado na receita.)
-- --
 
 ---
 

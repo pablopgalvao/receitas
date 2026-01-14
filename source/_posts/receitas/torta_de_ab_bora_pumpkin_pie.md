@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Corte um círculo de papel-manteiga um pouco maior que a fôrma, coloque sobre a massa e preencha o fundo com grãos de feijão cru – eles servem de peso e evitam que a massa infle e rache ao assar.
 - Assim que o purê de abóbora estiver morno, junte as especiarias, o açúcar e misture bem com uma espátula de silicone.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo – se um estiver estragado, você não perde a receita. Bata os ovos com um garfo apenas para misturar as claras com as gemas. Junte os ovos batidos ao purê de abóbora, acrescente o creme de leite e misture bem com um batedor de arame até ficar liso, mas sem incorporar ar.
-- --
 
 ---
 

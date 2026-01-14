@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Unte com manteiga uma fôrma de bolo com 15 cm de diâmetro. Polvilhe com farinha, chacoalhe bem para espalhar e bata sobre a pia para retirar o excesso.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para o liquidificador — se algum estiver estragado, você não perde a receita. Junte o óleo, o açúcar e o leite e bata até ficar liso.
 - Transfira a mistura para uma tigela grande. Junte o fubá e a farinha, passando os dois pela peneira. Com um batedor de arame, misture delicadamente até a massa ficar lisa. Por último, misture o fermento, as sementes de erva-doce e o sal.
-- --
 
 ---
 

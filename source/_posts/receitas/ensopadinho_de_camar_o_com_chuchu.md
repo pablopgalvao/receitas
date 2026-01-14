@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Adicione os tomates, tempere com sal e misture, raspando bem o fundo da frigideira para dissolver os queimadinhos do camarão – eles dão sabor ao molho. Deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando e amassando os cubinhos de tomate com a espátula.
 - Regue com a água e o líquido da marinada dos camarões, tempere com 1 colher (chá) de sal e misture bem. Acrescente os cubos de chuchu e mantenha a frigideira em fogo médio. Quando ferver, abaixe o fogo, tampe a panela e deixe cozinhar até o chuchu ficar macio, por cerca de 30 minutos – cuidado para o chuchu não cozinhar demais e desmanchar.
 - Assim que o chuchu estiver cozido, volte os camarões para a panela. Misture e deixe cozinhar por mais 2 minutos para aquecer – se o camarão cozinhar muito, pode ficar borrachudo. Desligue o fogo e misture o coentro picado. Sirva a seguir com acaçá e folhas de coentro a gosto.
-- --
 
 ---
 

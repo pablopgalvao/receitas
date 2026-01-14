@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz (420 gramas)
 - 2 xícaras de chá de água (480 ml)
@@ -44,7 +44,6 @@ flags: []
 - 1 colher de chá de pimenta-do-reino
 - 2 colheres de sopa de azeite (30 ml)
 - Misture tudo delicadamente com uma colher grande até os ingredientes ficarem bem distribuídos. Finalize com salsinha picada para ficar ainda mais saboroso;
-- --
 
 ---
 

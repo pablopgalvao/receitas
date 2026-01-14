@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Misture o grão-de-bico ao molho que ficou na frigideira e tempere com sal.
 - Com uma espátula, abra duas cavidades no molho. Numa tigela pequena, quebre um ovo de cada vez e despeje nas cavidades, com cuidado para não estourar a gema. Com um garfo, misture delicadamente parte das claras com o molho – dessa forma as claras cozinham por completo sem correr o risco de as gemas ficarem duras. Tempere cada um com uma pitada de sal e deixe cozinhar em fogo baixo por 2 minutos.
 - Tampe a frigideira e deixe cozinhar por mais 3 minutos, até que as claras fiquem cozidas e as gemas permaneçam moles (se preferir as gemas firmes, deixe cozinhar por mais tempo). Sirva com pão italiano e folhas de manjericão a gosto.
-- --
 
 ---
 

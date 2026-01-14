@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ½ xícara (chá) de chocolate ao leite picado (cerca de 80 g)
 - óleo para pincelar os pastéis
 - Pincele os pastéis e o fundo do cesto da Air Fryer com óleo. Coloque 6 pastéis (ou quantos couberem no cesto), um ao lado do outro. Deixe assar por cerca de 6 minutos, ou até dourar — não precisa virar na metade do tempo.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de óleo ou azeite
 - 1 kg de peito de frango com osso (ou sobrecoxa com osso)
@@ -42,7 +42,6 @@ flags: []
 - Junte o sal, a páprica, o caldo de legumes desmanchado, a pimenta-do-reino e o açafrão. Mexa bem com uma colher de pau até o tempero pegar em tudo;
 - Agora, acrescente o pimentão verde, os tomates e uma parte do coentro ou salsinha bem picadinhos. Mexa e refogue por mais 2 minutinhos;
 - Para sua segurança, deixe a pressão sair naturalmente. Com a panela aberta e em fogo médio, adicione o arroz, acerte o sal e deixe cozinhar por mais 10 minutos;
-- --
 
 ---
 

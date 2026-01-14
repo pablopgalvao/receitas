@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de ravioli seco
 - Azeite a gosto
@@ -40,7 +40,6 @@ flags: []
 - Parmesão ralado a gosto
 - Organize a bancada! Descasque e rale a cebola. Descasque o alho e pique finamente. Lave e pique a salsinha e o manjericão grosseiramente. Higienize os tomates, tire sua casca (faça uma cruz na ponta e coloque em água fervente por 1 minuto, retire e passe em água corrente) e corte em cubos;
 - Acrescente a passata de tomate e tempere com sal, salsinha e manjericão frescos. Mexa para que tudo se incorpore. Coloque açúcar mascavo para equilibrar a acidez. Ferva por mais 5 minutos. Reserve;
-- --
 
 ---
 

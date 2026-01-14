@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de feijão (400 gramas)
 - 2 xícaras de macarrão ave maria (160 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Numa frigideira ou panela grande, aqueça o óleo ou banha de porco, até que fique bem derretido. Adicione o bacon e doure até que esteja bem fritinho. Reserve 1/3 da quantidade de bacon para finalização;
 - Entre com o alho amassado, sal a gosto e refogue até liberar aroma e começar a dourar;
 - Agora, adicione o macarrão ao caldo e cozinhe até que a massa esteja al dente, cerca de 8 minutos, mexendo de vez em quando. Prove e ajuste o sal, se necessário;
-- --
 
 ---
 

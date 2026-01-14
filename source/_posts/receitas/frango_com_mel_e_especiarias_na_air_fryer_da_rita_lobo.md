@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - No pilão, dê uma leve batida no alho para descascar. Adicione o sal, as sementes de coentro e bata até o alho se desmanchar. Junte o azeite, o mel, o extrato de tomate e a páprica e misture bem (se o seu pilão for pequeno, misture numa tigela).
 - Corte o frango em pedaços de cerca de 3 cm — não é preciso que sejam cubos perfeitos para não haver desperdício, mas os pedaços devem ter o tamanho uniforme para assar por igual. Transfira o frango para uma tigela, adicione a marinada e pimenta a gosto; misture bem com uma espátula para envolver todos os pedaços.
-- --
 
 ---
 

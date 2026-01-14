@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure os cubos de carne, em etapas, sem amontoar — se colocar tudo de uma vez só, a carne vai cozinhar no vapor em vez de dourar e o resultado será um ensopado menos saboroso. Transfira a carne dourada para uma travessa e repita com o restante, regando a panela com azeite a cada leva.
 - Mantenha a panela em fogo médio, acrescente o bacon e mexa até começar a dourar. Junte a cebola, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Adicione o alho, o extrato de tomate e mexa por 1 minuto. Junte a cenoura e o salsão, regue com o líquido reservado da marinada (com as ervas) e misture bem para incorporar o sabor do refogado. Volte a carne para a panela e tempere com sal e pimenta a gosto e misture bem.
 - Após os 25 minutos, desligue o fogo da panela de pressão e deixe o vapor sair completamente antes de abrir a tampa. Misture os cogumelos, volte a panela ao fogo médio e deixe cozinhar por mais 5 minutos, sem tampar. Desligue e sirva a seguir, com salsinha picada.
-- --
 
 ---
 

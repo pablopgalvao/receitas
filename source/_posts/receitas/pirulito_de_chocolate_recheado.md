@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite (240 ml)
 - 200 gramas de leite condensado (meia caixinha)
@@ -38,7 +38,6 @@ flags: []
 - 300 gramas de cobertura fracionada meio amargo
 - 50 gramas de cobertura fracionada branca (para decorar)
 - Com uma colher, espalhe uma camada fina de chocolate nas cavidades da forma, garantindo que não fique muito grossa nem muito fina;
-- --
 
 ---
 

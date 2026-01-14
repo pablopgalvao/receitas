@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Afaste os cubos de frango para a lateral da frigideira, regue com 1 colher (sopa) de azeite e acrescente a cebola. Tempere com 1 pitada de sal e refogue até murchar. Junte o tomate e refogue por mais 2 minutos.
 - Por último, misture o cuscuz marroquino e tempere com ½ colher (chá) de sal. Meça 2 xícaras (chá) da água fervente, regue sobre o cuscuz e misture delicadamente. Desligue o fogo, tampe a panela e deixe o cuscuz hidratar por 5 minutos. Enquanto isso, lave e seque as folhas de coentro.
 - Solte o cuscuz marroquino com um garfo e regue a galinhada com o caldo de limão. Sirva a seguir com folhas de coentro a gosto.
-- --
 
 ---
 

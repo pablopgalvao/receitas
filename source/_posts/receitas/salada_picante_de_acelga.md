@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - sal a gosto
 - Corte, descarte a base e fatie fino o maço de acelga. Transfira para uma tigela com 1 litro de água e 1 colher (sopa) do bactericida da sua escolha. Deixe de molho por 15 minutos. Enquanto isso prepare os outros ingredientes.
 - Retire a acelga da água em vez de escorrer - assim as sujeirinhas ficam no fundo da tigela. Transfira para um escorredor, enxague e escorra bem a água. Junte aos outros ingredientes e regue com o azeite e o caldo dos limões. Tempere com sal a gosto e sirva a seguir.
-- --
 
 ---
 

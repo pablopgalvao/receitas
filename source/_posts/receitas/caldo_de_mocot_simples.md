@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,2 kg de mocotó bovino
 - 1 colher de sopa de banha de porco (ou óleo)
@@ -40,7 +40,6 @@ flags: []
 - 1 e 1/2 colher de sopa de sal
 - Coentro e cebolinha a gosto
 - Finalize com cheiro-verde picado e, se desejar, ajuste o sal ou adicione um pouco mais de água para deixar o caldo mais ralo. Misture bem e sirva quente!
-- --
 
 ---
 

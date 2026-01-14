@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Numa tigela pequena, quebre um ovo de cada vez e junte ao creme de manteiga, batendo bem entre cada adição para incorporar. Acrescente a ricota esfarelada, uma pitada de sal e bata apenas para misturar – nesse momento a massa pode parecer talhada, não se preocupe é assim mesmo.
 - Desencaixe a tigela da batedeira, junte a maçã ralada, as raspas de limão, a canela e misture com uma espátula. Acrescente aos poucos a mistura de farinha com fermento, sempre peneirando. Mexa delicadamente com a espátula a cada adição.
 - Deixe o bolo amornar por 20 minutos antes de desenformar. Cubra a fôrma com um prato e vire de uma só vez, deixe o bolo esfriar. Na hora de servir, polvilhe com uma mistura de açúcar de confeiteiro e canela a gosto. Fica uma delícia com gomos de laranja macerados.
-- --
 
 ---
 

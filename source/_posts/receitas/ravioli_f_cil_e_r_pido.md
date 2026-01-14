@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de farinha de trigo
 - 3 ovos inteiros
@@ -41,7 +41,6 @@ flags: []
 - Para preparar o recheio, em uma tigela, adicione a ricota, o frango, a cebolinha, o suco de limão, o sal e amasse tudo com um garfo. Misture bem, cubra com um pano limpo ou plástico filme e reserve;
 - Para a massa, em uma bancada, coloque a farinha e deixe um buraco no meio. No centro, acrescente os ovos, o azeite e o sal. Mexa com as pontas dos dedos e em movimentos circulares até o ponto de sovar. Sove por aproximadamente 10 minutos ou até ficar homogênea e desgrudar das mãos;
 - Com a massa aberta sobre a bancada, disponha pequenas porções do recheio em um dos lados (cerca de 1 colher de chá) e deixe 2 dedos de espaçamento entre as porções;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de carne moída
 - 1 colher de sopa de creme de cebola
@@ -43,7 +43,6 @@ flags: []
 - Em uma tigela grande, coloque a carne moída, o creme de cebola, a farinha de trigo, o azeite, a pimenta-do-reino e o sal. Misture bem com as mãos até formar uma massa uniforme;
 - Adicione o tomate, a cebola, a ervilha e o milho sobre a camada de presunto. Tempere com sal e adicione o queijo ralado;
 - Com a ajuda de uma colher, cubra a carne com o molho de tomate, espalhando sobre toda a superfície visível. Se quiser, polvilhe mais um pouco de queijo ralado por cima;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Lave e seque a abobrinha, o pimentão e a salsinha. Corte a abobrinha ao meio, no sentido do comprimento e fatie uma das metades em meias-luas finas - reserve a outra metade para uma próxima receita. Corte o pimentão ao meio, descarte as sementes e corte uma das metades em cubos pequenos - reserve o restante para outra receita.
 - Numa panela pequena (nós usamos uma de 16 cm de diâmetro), misture o macarrão, a abobrinha, o pimentão, as ervilhas, o azeite, o sal e a água. Leve ao fogo médio e, quando ferver, deixe cozinhar por mais 10 minutos, mexendo de vez em quando - assim os legumes e o macarrão cozinham por igual.
 - Desligue o fogo, junte o parmesão ralado e misture bem. Transfira para um prato, tempere com pimenta-do-reino moída na hora a gosto e salpique com as folhas de salsinha. Sirva a seguir com lascas de queijo parmesão.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 46 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de peito de frango em cubos
 - 4 colheres de sal (ou a gosto)
@@ -44,7 +44,6 @@ flags: []
 - Em uma panela de pressão de fundo grosso, aqueça um fio de óleo e coloque o frango. Refogue até começar a dourar, depois adicione a água, tampe e conte 7 minutos após pegar pressão, no fogo alto. Retire a pressão com cuidado e confira o ponto;
 - Com o fogo desligado, coloque o presunto, o queijo mussarela e misture tudo. Experimente o sal;
 - Transfira a macarronada de frango para o recipiente em que será servida, finalize com salsinha e aproveite essa delícia!
-- --
 
 ---
 

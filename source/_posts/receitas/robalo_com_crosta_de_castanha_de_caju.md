@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Pique a castanha-de-caju grosseiramente e corte a manteiga em cubos.
 - Numa tigela, misture a castanha com a farinha de mandioca, tempere com uma pitada de sal e pimenta a gosto. Junte a manteiga e misture com as pontas dos dedos, até formar uma farofa úmida.
 - Tempere o robalo com o caldo de limão, sal e pimenta a gosto. Transfira as tranches para a assadeira com a pele voltada para baixo e regue cada uma com um fio de azeite. Divida a farofa em quatro porções e disponha sobre cada tranche, pressionando delicadamente para fixar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de pernil
 - 1 colher de sopa de banha de porco (pode ser óleo, se preferir)
@@ -38,7 +38,6 @@ flags: []
 - Reúna os ingredientes! Corte o pernil em cubos médios. Descasque e pique a cebola em rodelas. Descasque e triture o alho em um processador ou bem batidinho na faca. Pique a cebolinha a gosto;
 - Agora, adicione o alho picado, sal e pimenta, misture e deixe refogar por mais 3 minutos;
 - Acrescente os 200 ml de água, misture, abaixe o fogo e deixe na pressão por 5 minutos depois que a panela chiar;
-- --
 
 ---
 

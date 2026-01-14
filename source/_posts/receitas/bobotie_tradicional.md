@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de patinho moído
 - 1 xícara de chá de leite (240 ml)
@@ -44,7 +44,6 @@ flags: []
 - Pique as amêndoas grosseiramente. Retire a frigideira do fogo. Adicione o pão, as amêndoas picadas, o curry, a cúrcuma ou colorau amarelo, as uvas-passas, os damascos, o suco de limão, o sal e a pimenta-do-reino. Pressione todos os ingredientes sobre as folhas de louro. Reserve;
 - Quebre os ovos em um pote separado e, se estiverem bons, adicione em uma tigela média. Junte o leite, tempere com sal e pimenta-do-reino. Bata a mistura até ela ficar homogênea;
 - Despeje essa mistura e a do pão por cima da frigideira com a carne moída. Leve ao forno preaquecido a 170ºC por cerca de 45 minutos, até os ovos e o leite se misturarem na massa ou a carne ficar cozida. Retire do forno e decore com folhas de louro por cima da carne;
-- --
 
 ---
 

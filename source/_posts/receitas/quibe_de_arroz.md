@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz cru (430 gramas)
 - 5 xícaras de chá de água (1,2 litros)
@@ -45,7 +45,6 @@ flags: []
 - Acrescente a carne moída, tempere com sal e mexa até cozinhar por completo;
 - Com as mãos úmidas, retire porções da massa, abra em formato oval e coloque uma colher do recheio de carne moída ou alguns cubos de queijo;
 - Aqueça o óleo em fogo médio-alto e frite os quibes em pequenas porções, por cerca de 3 minutos, até ficarem dourados e crocantes;
-- --
 
 ---
 

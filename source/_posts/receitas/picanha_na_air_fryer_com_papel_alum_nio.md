@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,20 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - Sal de parrilla a gosto
 - Acomode os bifes da picanha sobre uma tábua e tempere-os com sal de parilla em apenas um dos lados;
-- --
 
 ---
 

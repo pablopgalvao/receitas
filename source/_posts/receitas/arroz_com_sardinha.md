@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz
 - 3 colheres de sopa de óleo
@@ -43,7 +43,6 @@ flags: []
 - Aqueça uma panela grande e adicione o óleo. Refogue o alho até começar a dourar, depois acrescente a cebola e refogue até murchar. Adicione os pimentões e refogue por uns 3 minutos até amaciarem;
 - Acrescente as sardinhas desfiadas grosseiramente, o tomate e o milho escorrido. Tempere com páprica, orégano, açafrão, colorau, pimenta-do-reino e sal;
 - Cubra com água quente até dois dedos acima do arroz, mexa e ajuste o sal, se necessário. Deixe cozinhar em fogo médio, com a panela semitampada até a água secar;
-- --
 
 ---
 

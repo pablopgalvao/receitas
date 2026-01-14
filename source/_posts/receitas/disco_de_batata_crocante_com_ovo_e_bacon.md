@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - cebolinha fatiada a gosto para servir
 - Volte a frigideira ao fogo médio; nem precisa lavar — a gordurinha do bacon vai dar sabor às batatas. Regue com 1 colher (sopa) de azeite e coloque 2 batatas amassadas, uma ao lado da outra. Tempere com sal e doure as batatas por 2 minutos, até que fiquem com a base bem crocante — o sal moído na hora, além de temperar, dá uma textura crocante extra às batatas; se preferir, use sal refinado. Regue as batatas com ½ colher (sopa) de azeite, vire para dourar o outro lado e tempere com sal. Transfira as batatas douradas para um prato e repita a operação com o restante.
 - Sirva as batatas com o bacon, os ovos cozidos, a pasta de abacate e cebolinha fatiada a gosto.
-- --
 
 ---
 

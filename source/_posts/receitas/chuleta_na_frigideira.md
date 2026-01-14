@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de chá sal (ou a gosto)
 - 1/4 colher de chá de pimenta-do-reino (ou a gosto)
@@ -38,7 +38,6 @@ flags: []
 - Acomode as chuletas na frigideira e tempere com sal e pimenta-do-reino por cima da carne. Frite por cerca de 3 minutos, ou até a carne começar a soltar um caldo vermelho por cima (cor de sangue);
 - Com um pegador, vire as bistecas para fritar do outro lado (a carne deve estar dourada), tempere com sal e pimenta-do-reino novamente e deixe cerca de 1 a 2 minutos para uma carne ao ponto. Se quiser uma carne bem passada, deixe por mais alguns minutos;
 - Agora é só servir! Sirva com massas, arroz, saladas ou corte em fatias e ofereça como petisco. Aproveite!
-- --
 
 ---
 

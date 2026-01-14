@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de óleo
 - 1/2 xícara de chá de pipoca
@@ -38,7 +38,6 @@ flags: []
 - Em uma panela, adicione o óleo, a pipoca, mexa bem, tampe a panela e deixe estourar;
 - Em outra panela, coloque a água, o açúcar, a manteiga, misture e deixe ferver. Quando você passar a colher e formar um caminho, desligue o fogo;
 - Finalize colocando o Ovomaltine e misture bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo alto. Quando aquecer, regue com ½ colher (sopa) de azeite e adicione o alho-poró. Diminua o fogo para médio e refogue por 3 minutos, até começar a dourar.
 - Afaste o alho-poró para o canto da frigideira, adicione a abobrinha e não mexa no primeiro minuto para a abobrinha dar uma tostada. Refogue a abobrinha por 5 minutos, junto com o alho-poró. Abra um espaço no centro da frigideira, regue com 1 colher (chá) de azeite e junte o alho picado. Deixe o alho fritar por 30 segundos, apenas para perfumar, e misture com os legumes. Tempere o refogado com sal e pimenta a gosto e divida em 2 pratos de servir.
 - Desligue o fogo e misture a manteiga e o queijo ralado. Sirva imediatamente a polenta sobre os legumes refogados. Com as mãos, rasgue a muçarela de búfala em pedaços e disponha sobre a polenta, cubra com saladinha de tomate e folhas de manjericão. Sirva a seguir.
-- --
 
 ---
 

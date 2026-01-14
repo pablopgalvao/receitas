@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 ovos inteiros
 - 1 xícara de chá de açúcar demerara (opcional)
@@ -39,7 +39,6 @@ flags: []
 - Utilizamos a banana-nanica, entretanto também pode ser a maçã ou a prata. Preferencialmente, utilize um óleo com sabor neutro, como de canola ou girassol. Pode ajustar a quantidade de açúcar de acordo com seu paladar;
 - Em um liquidificador, coloque os ovos, o óleo e 4 bananas picadas. Bata até obter uma mistura lisa e homogênea. Experimente a massa, se necessário, adicione o açúcar (utilizamos 1 xícara de chá) e bata novamente;
 - Transfira a massa para uma forma média (19 cm x 30 cm) untada com manteiga ou óleo e polvilhada com açúcar. Leve para assar em forno preaquecido a 180 ºC por cerca de 40 minutos, ou até dourar;
-- --
 
 ---
 

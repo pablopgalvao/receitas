@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Água fervente (200 ml)
 - 1 xícara de chá de folhas de manjericão
@@ -36,7 +36,6 @@ flags: []
 - 1/2 xícara de castanha-do-pará (60 gramas)
 - Em outra panela, coloque o chuchu, a água e sal. Cozinhe por aproximadamente 10 minutos, até que fiquem macios. Reserve;
 - No liquidificador ou mini processador, coloque o chuchu cozido, as folhas de manjericão, o alho, o azeite, o óleo e o sal;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de milho-verde em conserva (510 gramas)
 - 4 xícaras de chá de leite integral (1 litro)
@@ -40,7 +40,6 @@ flags: []
 - 2 colheres de sopa de cheiro-verde
 - 1 e 1/2 xícaras de queijo parmesão ralado (150 gramas)
 - Tempere com sal, pimenta-do-reino, noz-moscada e cheiro-verde. Mexa sem parar, em fogo médio, até o creme engrossar;
-- --
 
 ---
 

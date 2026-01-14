@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - farinha de trigo para polvilhar
 - Encha uma panela pequena com água, acrescente o caldo de limão e leve ao fogo alto para ferver. Tempere o peixe com sal e pimenta-do-reino e mergulhe na água fervente. Diminua o fogo e deixe cozinhar por cerca de 5 minutos.
 - Leve ao fogo médio uma frigideira (de preferência antiaderente). Quando aquecer, regue com óleo apenas para cobrir o fundo da frigideira. Coloque os bolinhos e deixe dourar por cerca de 2 minutos. Com uma espátula, vire cada bolinho para dourar o outro lado por igual. Transfira para um prato e sirva a seguir. Fica ótimo acompanhado de picles de beterraba e coalhada seca.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de carne seca dessalgada
 - 3 colheres de sopa de coentro picado
@@ -48,7 +48,6 @@ flags: []
 - Ainda na panela, adicione o tomate picado, o creme de leite fresco, o coentro e a manteiga em tablete. Misture tudo muito bem até que a manteiga derreta e os ingredientes estejam bem refogados, cerca de 3 minutos. Desligue o fogo e reserve o recheio;
 - Despeje o aipim amassado na panela novamente. Acrescente a manteiga, o leite e o sal. Mexa vigorosamente por cerca de 5 minutos até que o purê esteja cremoso e desligue o fogo;
 - Vamos para a montagem! Em um refratário, ou recipiente de sua preferência, despeje uma porção do purê de aipim, espalhando por toda a superfície. Adicione o recheio de carne seca por cima e salpique queijo mussarela;
-- --
 
 ---
 

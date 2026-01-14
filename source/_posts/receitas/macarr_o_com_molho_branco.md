@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Adicione todo o leite de uma só vez, misturando bem com o batedor para dissolver os gruminhos de farinha. Aumente o fogo e mexa sem parar até ferver.
 - Leve uma panela média com 2,5 litros de água ao fogo alto. Quando ferver, misture 1 colher (sopa) de sal e adicione o macarrão. Deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente — mexa de vez em quando para soltar os fios e o macarrão cozinhar por igual.
 - Assim que o molho bechamel tiver engrossado, desligue o fogo e tempere com sal e noz-moscada a gosto. Misture o queijo parmesão ralado e reserve.
-- --
 
 ---
 

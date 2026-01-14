@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de farinha de trigo
 - 1 xícara de chá de açúcar
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 colher de sopa de extrato de baunilha
 - 1 xícara de chá de gotas de chocolate
-- --
 
 ---
 

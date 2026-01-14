@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de fubá pré-cozido (320 gramas)
 - 1 xícara de chá de queijo mussarela ralado (70 gramas)
@@ -38,7 +38,6 @@ flags: []
 - 150 gramas de mussarela fatiada para rechear
 - Em uma tigela grande, coloque o fubá, o queijo ralado e o sal. Misture para incorporar os ingredientes secos. Acrescente o leite e a manteiga derretida. Misture bem até a massa absorver completamente o líquido. Deixe descansar por 2 minutos;
 - Em uma frigideira antiaderente, em fogo médio, derreta a manteiga. Coloque as arepas e deixe dourar de um lado por 5 minutos. Vire para dourar o outro lado igualmente por mais 5 minutos. Desligue o fogo e retire as arepas da frigideira;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml creme de leite fresco
 - 1 colher de sopa de açúcar
@@ -38,7 +38,6 @@ flags: []
 - Gelo a gosto
 - Em uma tigela gelada, coloque o creme de leite, o açúcar, o suco de limão, o gengibre e bata até quase chegar no ponto de chantilly (o ponto certo é quando você levantar o batedor e a espuma cair lentamente). Reserve;
 - Em uma caneca de cobre, coloque o suco de limão, o xarope, a Angostura, a vodka, o gelo e misture bem com uma colher bailarina;
-- --
 
 ---
 

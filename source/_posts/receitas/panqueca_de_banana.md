@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Quebre o ovo numa tigela média. Junte o açúcar, a canela, o sal e mexa bem com o batedor de arame até começar a espumar. Adicione o leite e o óleo e misture bem.
 - Acrescente a farinha e misture novamente para incorporar e desmanchar os gruminhos. Deixe a massa descansar por 10 minutos – isso deixa a panqueca mais levinha.
 - Leve uma frigideira antiaderente pequena ao fogo médio (nós usamos uma de 15 cm de diâmetro). Quando aquecer, com um pedaço de papel-toalha, unte o fundo da frigideira com óleo (ou manteiga). Coloque 1 concha da massa no centro da frigideira – a massa da panqueca fica no formato redondo sozinha, não tente espalhar com uma espátula pois a panqueca pode ficar solada.
-- --
 
 ---
 

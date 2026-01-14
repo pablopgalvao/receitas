@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 350 gramas de carne seca dessalgada e desfiada
 - 220 gramas de bacon
@@ -39,7 +39,6 @@ flags: []
 - 4 colheres de sopa de coentro ou cheiro-verde picado
 - Junte todos os ingredientes necessários para o preparo. Certifique-se que a carne seca já esteja dessalgada e desfiada para começar a receita;
 - Coloque a água quente sobre o arroz e adicione o sal. Deixe o arroz cozinhar em fogo médio, com a panela semi tampada, por cerca de 15 minutos ou até a água secar e o arroz ficar macio;
-- --
 
 ---
 

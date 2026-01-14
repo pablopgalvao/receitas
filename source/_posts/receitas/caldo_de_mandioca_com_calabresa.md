@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 kg de mandioca amarela
 - 600 ml de caldo de costela
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de chá de louro em pó
 - 1 colher de sopa de sal (ou a gosto)
 - Em uma panela, aqueça um fio de óleo e adicione o bacon com as calabresas. Refogue até dourarem, cerca de 5 minutos. Separe 1/4 desse bacon e calabresas para a finalização;
-- --
 
 ---
 

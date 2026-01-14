@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,3 kg de ossobuco
 - Páprica picante, tempero bovino e alho amassado a gosto
@@ -43,7 +43,6 @@ flags: []
 - Cheiro-verde a gosto
 - Tempere o ossobuco com os temperos de sua preferência. Utilizamos páprica picante, tempero bovino, fumaça em pó, alho picado, cebola, salsa e sal. Misture bem pela carne e deixe descansar por 30 minutos;
 - Misture bem, acerte o sal e os temperos. Se quiser, adicione cheiro-verde ou folha de louro. Tampe a panela e deixe cozinhar por 30 minutos, em fogo médio, contados após pegar pressão;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Feijão carioca (500 gramas)
 - 120 gramas de bacon
@@ -37,7 +37,6 @@ flags: []
 - Na panela de pressão, coloque o feijão escorrido, 1/2 cebola inteira, o tomate, a batata inteira descascada, as folhas de louro e o sal. Cubra com 800 ml de água;
 - Em uma frigideira grande, aqueça o óleo e em fogo médio, refogue o bacon e a cebola picada, até que fiquem bem dourados e levemente crocantes;
 - Adicione o alho picado e deixe dourar por mais 30 segundos, cuidando para não queimar. Acrescente 2 ou 3 conchas do feijão cozido na frigideira, misture e deixe reduzir um pouco. Ajuste o sal, se necessário;
-- --
 
 ---
 

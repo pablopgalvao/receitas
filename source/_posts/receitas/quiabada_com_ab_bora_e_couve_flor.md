@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Acrescente a abóbora, regue com a água, tempere com sal e misture para incorporar os sabores do refogado. Quando a água ferver, conte 5 minutos. Enquanto isso, prepare a couve flor.
 - Numa tigela média, coloque a couve-flor, tempere com 2 colheres (sopa) de azeite, a páprica defumada, uma pitada de sal e misture bem. Leve uma frigideira antiaderente ao fogo médio para aquecer. Coloque os floretes de couve-flor e doure por 5 minutos, mexendo de vez em quando.
 - Numa tigela pequena, misture o polvilho com 2 colheres (sopa) de água para dissolver – essa misturinha vai engrossar o caldo.
-- --
 
 ---
 

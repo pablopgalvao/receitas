@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de quiabo
 - 1 colher de sobremesa (rasa) de sal temperado
 - 1 fio de óleo
 - Numa panela média, aqueça o óleo e refogue o alho picado, até que fique levemente dourado. Mexa sempre para evitar que queime;
 - Adicione as rodelas de quiabo e o sal temperado. Misture tudo com uma colher para para que tudo se agregue;
-- --
 
 ---
 

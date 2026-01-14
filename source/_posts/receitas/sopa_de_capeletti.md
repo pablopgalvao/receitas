@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filé de frango
 - 3 colheres de sopa de azeite
@@ -44,7 +44,6 @@ flags: []
 - Aqueça a panela de pressão com o azeite. Adicione os cubos de frango e doure bem, mexendo de vez em quando. Tempere com sal e pimenta-do-reino;
 - Adicione a água filtrada, experimente o sal e ajuste se necessário. Tampe a panela e, em fogo médio, deixe pegar pressão. Assim que começar a chiar, abaixe o fogo e conte 10 minutos de cozimento;
 - Desligue o fogo e finalize com salsinha picada, mexendo bem. Sirva em pratos fundos ou tigelas, com parmesão ralado por cima, que derrete e enriquece ainda mais a sopa! Bom apetite.
-- --
 
 ---
 

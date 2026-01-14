@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de milho (170 gramas)
 - 300 ml de leite
@@ -40,7 +40,6 @@ flags: []
 - 50 gramas de queijo ralado
 - Pré-aqueça o forno a 180°C e unte uma forma redonda de 24 cm de diâmetro com óleo e, se desejar, enfarinhe. Organize sua bancada e seus ingredientes;
 - Em um liquidificador, adicione o milho enlatado sem a água, os ovos, o leite, o óleo, o açúcar e a pitadinha de sal. Bata por 3 minutos. Acrescente o queijo ralado e bata mais um minuto;
-- --
 
 ---
 

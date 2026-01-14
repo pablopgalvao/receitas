@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 140 gramas de macarrão Ave Maria (macarrão para sopa)
 - 2 colheres de sopa de azeite
@@ -37,7 +37,6 @@ flags: []
 - Cheiro-verde a gosto
 - Tempere com sal, pimenta-do-reino e páprica a gosto. Misture bem para incorporar todos os ingredientes;
 - Experimente a sopa, acerte os temperos e o sal. Finalize com cheiro-verde;
-- --
 
 ---
 

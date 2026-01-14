@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, acrescente metade do fígado, tempere com sal e pimenta e deixe dourar por 4 minutos, mexendo de vez em quando – é jogo rápido, se o fígado cozinhar demais pode ficar duro. Transfira para uma tigela e repita com a outra metade, regando a panela com mais um fio de azeite.
 - Mantenha a panela em fogo médio e regue com 1 colher (sopa) de azeite, junte a cebola, tempere com uma pitada de sal e refogue até murchar. Adicione o arroz e misture bem por 1 minuto para envolver os grãos no azeite. Tempere com sal e pimenta-do-reino a gosto – lembre-se que o caldo caseiro não leva sal.
 - Na última adição, mexa e desligue o fogo. Não deixe o caldo secar completamente, o risoto deve ficar bem úmido. Volte o fígado para a panela, junte a manteiga, o parmesão e misture bem. Por último, misture as ervilhas, as raspas de limão e as folhas de hortelã. Sirva a seguir.
-- --
 
 ---
 

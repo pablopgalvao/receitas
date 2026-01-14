@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Pimenta-do-reino a gosto
 - Sal a gosto
@@ -39,7 +39,6 @@ flags: []
 - Coloque a farinha de rosca em um recipiente raso, para facilitar o processo de empanamento;
 - Passe os filés nos ovos temperados, cobrindo bem os dois lados;
 - Em seguida, passe na farinha de rosca, pressionando levemente para fixar. Repita esse processo dos ovos e da farinha novamente (duas vezes);
-- --
 
 ---
 

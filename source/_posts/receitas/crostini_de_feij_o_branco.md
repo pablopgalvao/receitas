@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - azeite a gosto para servir
 - Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) de azeite, adicione a cebola e o dente de alho. Refogue por 3 minutos até a cebola murchar bem.
 - Transfira a pasta de feijão para uma tigela e deixe esfriar em temperatura ambiente. Enquanto isso, lave seque e pique grosseiramente a salsinha. Descarte o caroço e pique fino as azeitonas. Numa tigela pequena misture as azeitonas, a salsinha, as raspas de limão siciliano e ⅓ de xícara (chá) de azeite.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - lascas de queijo parmesão a gosto para servir
 - Disponha as metades de tomate com a casca para baixo e o lado da polpa para cima – assim solta menos água. Distribua o restante dos legumes na assadeira, deixando espaço entre eles.Tempere com sal e pimenta a gosto e regue com 3 colheres (sopa) de azeite. Leve ao forno para assar por cerca de 20 minutos, ou até que os legumes estejam macios e levemente tostados.
 - Enquanto isso, corte as bolinhas de muçarela de búfala ao meio, lave e seque as folhas de manjericão. Leve uma panela média com água ao fogo alto para ferver. Acrescente 1 colher (sopa) de sal, coloque o macarrão e deixe cozinhar pelo tempo indicado na embalagem, até ficar al dente.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - folhas de coentro a gosto
 - Corte os damascos em cubinhos e reserve. Numa panela média, coloque o arroz, cubra com 3 xícaras (chá) de água e leve para cozinhar em fogo médio. Quando começar a ferver, diminua o fogo e deixe cozinhar por mais 20 minutos – ele deve ficar cozido, mas ainda firme.
 - Numa peneira, escorra a água e, se quiser resfriar rapidamente, passe o arroz sob água corrente. Transfira para uma tigela e misture com o damasco picado. Tempere com o azeite, o vinagre, sal e pimenta-do-reino. Sirva com a berinjela assada e folhas de coentro a gosto.
-- --
 
 ---
 

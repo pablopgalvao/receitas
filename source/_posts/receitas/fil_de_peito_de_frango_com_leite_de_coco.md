@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de peito de frango
 - 2 colheres de sopa de azeite de oliva
@@ -36,7 +36,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - Tempere com sal e pimenta-do-reino e deixe fritar até dourar bem;
 - Adicione o leite de coco e, se necessário, acerte o sal e os temperos. Mexa bem e cozinhe por uns 4 minutos para os ingredientes incorporarem;
-- --
 
 ---
 

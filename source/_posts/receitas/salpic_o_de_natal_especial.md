@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 talo grande de salsão
 - 1 colher de sopa de azeite de oliva
@@ -53,7 +53,6 @@ flags: []
 - Com o liquidificador ainda ligado, vá despejando o restante do óleo lentamente até a mistura emulsificar e ficar cremosa;
 - Assim que o frango ferver, abaixe o fogo ao mínimo possível para que cozinhe lentamente. Cubra com um papel-manteiga, com um furo no centro, e coloque um pires ou tampa menor para manter o frango submerso. Cozinhe por 1 hora e 15 minutos;
 - Em seguida, retire o frango do caldo e, com as mãos, comece a desfiá-lo em uma tigela. Adicione o sal, ajustando conforme sua preferência, e o salsão picado. Junte a maçã e misture bem;
-- --
 
 ---
 

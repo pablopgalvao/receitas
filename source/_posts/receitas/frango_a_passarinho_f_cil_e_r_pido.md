@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,2 kg de coxas e sobrecoxas picadas
 - 1 colher de chá de páprica doce
@@ -46,7 +46,6 @@ flags: []
 - Coloque o frango limpo em uma tigela, junto com a páprica, suco de limão e 1 colher de sobremesa do tempero pronto. Misture com as mãos, cubra a tigela com plástico filme e deixe marinar por 2 horas na geladeira;
 - Após marinar o frango, passe cada pedaço na farinha temperada, apertando para grudar em toda a superfície. Reserve-os em um prato ou refratário;
 - Leve uma panela ao fogo médio para aquecer com óleo suficiente para fritar por imersão. Transfira o frango para a panela assim que o óleo estiver bem quente, e vire às vezes para dourarem uniformemente;
-- --
 
 ---
 

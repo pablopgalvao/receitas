@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de sal
 - 1 colher de sopa de colorau
@@ -35,7 +35,6 @@ flags: []
 - 3/4 do pacote de farinha de trigo (750 gramas)
 - Adicione sal, colorau, o caldo de galinha e o óleo na panela. Misture e mantenha em fogo até ferver;
 - Quando ferver, misture novamente para que o caldo de galinha se dissolva por completo, e adicione a farinha de trigo. Incorpore até que a massa fique homogênea e solte da panela;
-- --
 
 ---
 

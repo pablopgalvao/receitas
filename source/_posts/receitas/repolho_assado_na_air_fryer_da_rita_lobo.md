@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - No pilão, dê uma leve batida no alho para tirar a casca. Junte ½ colher (chá) de sal, o cominho e bata até formar uma pastinha. Transfira a pastinha para uma tigela; junte a manteiga, a páprica e tempere com pimenta a gosto. Misture bem.
 - Com cuidado, lave o repolho sob água corrente e seque delicadamente com um pano. Tempere a parte cortada dos gomos com sal. Com as costas de uma colher (ou uma espátula pequena), espalhe a manteiga temperada na parte cortada de cada gomo.
-- --
 
 ---
 

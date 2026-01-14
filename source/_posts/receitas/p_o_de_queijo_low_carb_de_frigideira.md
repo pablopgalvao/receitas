@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 ovo médio
 - 1 colher de sopa de queijo cottage
@@ -38,7 +38,6 @@ flags: []
 - Em um recipiente, quebre o ovo e, com um garfo, bata por 10 segundos;
 - Acrescente o queijo cottage, o parmesão ralado e a mussarela. Misture apenas para incorporar os ingredientes. Por fim, adicione uma pitada de fermento e mexa para misturar;
 - Unte a frigideira com um pouco de azeite e leve ao fogo baixo. Despeje a massa do pão de queijo, espalhando bem com uma colher. Feche a panela e deixe o pão de queijo assar por cerca de 3 minutos, até dourar levemente;
-- --
 
 ---
 

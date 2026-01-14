@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/4 de xícara de chá de grão-de-bico seco (250 gramas)
 - 1/4 de xícara de chá de folhas de salsinha (aproximadamente 8 ramos)
@@ -51,7 +51,6 @@ flags: []
 - A massa deve apresentar uma textura firme, no ponto de bolinho, caso contrário, o faláfel vai se desmanchar ou quebrar na panela. Com o fogo aquecido, pegue uma porção da massa na colher de sopa e pressione na lateral da tigela;
 - Aproxime a colher do óleo quente e, com o auxílio de outra colherzinha, transfira a massa para a panela. Reduza o fogo e coloque até 6 bolinhos para fritar de cada vez;
 - Quando estiverem prontos, pegue os bolinhos com uma escumadeira e retire o excesso de óleo. Transfira para uma assadeira forrada com papel toalha e repita o processo até a massa acabar;
-- --
 
 ---
 

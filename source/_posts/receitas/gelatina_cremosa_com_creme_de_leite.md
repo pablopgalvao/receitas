@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 265 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 + 1/3 de xícara de chá de água (800 ml)
 - 4 envelopes de gelatina sabor morango (80 gramas)
@@ -36,7 +36,6 @@ flags: []
 - Adicione 250 ml de água fria à mistura de gelatina, mexa bem e despeje em um refratário (20x10) levemente untado;
 - Para a outra parte, aqueça 150 ml de água e dissolva os outros 2 envelopes de gelatina. Adicione 150 ml de água fria e misture bem;
 - Despeje essa mistura sobre os cubinhos de gelatina no recipiente. Se houver bolhas na superfície, estoure com uma colher para nivelar;
-- --
 
 ---
 

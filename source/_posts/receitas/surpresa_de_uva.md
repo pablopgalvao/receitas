@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de leite condensado (395 gramas)
 - 1 caixinha de creme de leite (200 gramas)
@@ -37,7 +37,6 @@ flags: []
 - 250 gramas de chocolate meio amargo
 - 1 caixinha de creme de leite (200 gramas)
 - 100 gramas de granulado ou raspas de chocolate para decorar
-- --
 
 ---
 

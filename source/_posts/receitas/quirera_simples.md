@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 pacote de quirera (250 gramas)
 - 2 colheres de sopa de azeite
@@ -38,7 +38,6 @@ flags: []
 - Tempere com sal, a folha de louro e misture bem, para que tudo se incorpore;
 - Cubra a quirera com 500ml de água e tampe a panela. Cozinhe até que fique macia, cerca de 15 minutos;
 - Por fim, adicione o cheiro-verde. Misture até incorporar tudo e acerte o sal, se necessário;
-- --
 
 ---
 

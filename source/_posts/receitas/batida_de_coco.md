@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 6 colheres (sopa) de leite condensado
 - cubos de gelo a gosto
 - No liquidificador coloque todos os ingredientes e junte cubos de gelo a gosto (quanto mais gelada estiver a batidinha melhor). Bata bem para misturar os ingredientes e triturar o gelo. Sirva a seguir.
-- --
 
 ---
 

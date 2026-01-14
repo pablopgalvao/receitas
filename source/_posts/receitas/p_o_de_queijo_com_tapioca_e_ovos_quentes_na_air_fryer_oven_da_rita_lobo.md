@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Para modelar os pãezinhos, enrole porções de 1 colher (sopa) da massa em bolinhas e coloque na grelha da Air Fryer, uma ao lado da outra — não precisa untar as mãos, se a massa começar a grudar nos dedos, lave as mãos no meio do processo e continue enrolando os pãezinhos.
 - Coloque os ovos na gaveta da Air Fryer e leve para assar junto com os pães por 10 minutos.
 - Transfira os pães assados para uma travessa e coloque os ovos em um porta-ovos (ou outro suporte), com a base para cima. Com as costas da colher, quebre delicadamente o ovo e retire uma tampinha da casca. Tempere com sal e pimenta e sirva a seguir com os pães de queijo.
-- --
 
 ---
 

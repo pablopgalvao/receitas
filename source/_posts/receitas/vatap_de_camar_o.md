@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de camarão seco (limpo e dessalgado - reserve as cabeças)
 - 600 ml de leite
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de óleo para refogar (30ml)
 - Em uma panela grande e em fogo médio, coloque o óleo e 2 colheres de sopa de azeite de dendê. Refogue a cebola até que fique levemente translúcida;
 - Tempere com sal, adicione o leite de coco e as últimas 2 colheres de sopa de azeite de dendê. Finalize acrescentando o cheiro-verde e misturando tudo muito bem por mais 5 minutinhos;
-- --
 
 ---
 

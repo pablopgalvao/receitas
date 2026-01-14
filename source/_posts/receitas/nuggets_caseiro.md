@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de azeite (15 ml)
 - 1/2 pacote de creme de cebola (25 gramas)
@@ -45,7 +45,6 @@ flags: []
 - Comece passando o nugget modelado na farinha de trigo. Dê leves batidinhas para retirar o excesso e, em seguida, mergulhe no ovo batido rapidamente;
 - Passe pela farinha de rosca e, novamente, dê leves batidas para remover o excesso e não formar uma casquinha muito grossa. Faça isso com todos os nuggets;
 - Para fritar, adicione o óleo em uma panela e, assim que aquecer, adicione alguns nuggets com cuidado, para não espirrar. Deixe fritando por 6 minutos, até ficar douradinho. Depois, transfira para um prato forrado com papel-toalha, para absorver o excesso de gordura;
-- --
 
 ---
 

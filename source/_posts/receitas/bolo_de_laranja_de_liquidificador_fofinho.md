@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (215 gramas)
 - 1/2 xícara de chá de óleo (120 ml)
@@ -40,7 +40,6 @@ flags: []
 - No liquidificador, adicione os ovos, as laranjas picadas, o açúcar e o óleo. Bata os ingredientes até que a mistura fique bem clarinha e homogênea;
 - Transfira a mistura preparada no liquidificador para um recipiente. Adicione 1 pitada de sal e com auxílio de uma peneira, vá adicionando a farinha de trigo aos poucos. Misture com um fouet (batedor de arame);
 - Coloque uma colher de sopa de fermento e incorpore delicadamente;
-- --
 
 ---
 

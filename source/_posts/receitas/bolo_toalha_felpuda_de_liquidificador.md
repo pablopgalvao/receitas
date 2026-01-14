@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite (240 ml)
 - 2 colheres de sopa de margarina (40 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Ainda no liquidificador, adicione o açúcar. Bata até ficar homogêneo e reserve;
 - Em uma tigela, peneire a farinha de trigo e adicione o coco ralado;
 - Enquanto o bolo assa, vamos preparar a cobertura. Num recipiente, coloque o leite de coco, o leite condensado e o coco ralado. Com uma colher, mexa bem para ficar homogêneo;
-- --
 
 ---
 

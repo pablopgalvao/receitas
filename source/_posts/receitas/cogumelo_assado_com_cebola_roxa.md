@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - 2 colheres (sopa) de vinagre balsâmico
 - Transfira os gomos de cebola para a assadeira — é importante que a parte cortada da cebola fique em contato com a assadeira para dourar. Distribua os cogumelos entre as cebolas, sem se preocupar com o espaço — eles podem ficar meio amontoados pois murcham bastante. Junte os ramos de tomilho e regue tudo com 3 colheres (sopa) de azeite.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de soja em grãos (300 gramas)
 - 1 colher de sopa de extrato de tomate
@@ -40,7 +40,6 @@ flags: []
 - 1/2 colher de chá de pimenta-preta (ou a gosto)
 - 1 colher de chá de páprica defumada (ou a gosto)
 - 1 colher de café de orégano (ou a gosto)
-- --
 
 ---
 

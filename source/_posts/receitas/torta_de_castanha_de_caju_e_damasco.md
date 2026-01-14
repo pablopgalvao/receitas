@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 colher (chá) de amido de milho
 - No miniprocessador de alimentos, triture a castanha-de-caju até formar uma farinha grossa. Corte o damasco em pedaços de 0,5 cm.
 - Na batedeira, coloque a manteiga e o açúcar e bata com a raquete, em velocidade média, até formar uma pasta branca — pare de bater e raspe o fundo e a lateral da tigela com uma espátula para misturar por igual. Aumente a velocidade da batedeira e acrescente um ovo de cada vez, batendo bem a cada adição para incorporar. Adicione o amido de milho e bata bem para misturar. Por último, junte a castanha triturada e bata por mais 2 minutos.
-- --
 
 ---
 

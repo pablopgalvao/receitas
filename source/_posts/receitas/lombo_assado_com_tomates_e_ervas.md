@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Com a lateral da lâmina da faca, amasse e descasque os dentes de alho. Lave os tomates com cuidado para não soltar das ramas e disponha na assadeira ao redor do lombo. Distribua também na assadeira os galhos de alecrim, os dentes de alho e os ramos de louro. Regue as ervas e os legumes com azeite e tempere os tomates com sal.
 - Sobre uma jarra medidora, coe o líquido da assadeira numa peneira. Leve uma panela pequena com a manteiga ao fogo baixo. Assim que derreter, acrescente a farinha de trigo e mexa com uma espátula por 1 minuto até começar a dourar – essa mistura de farinha e manteiga, chamada roux, serve para engrossar o molho.
 - Desligue o fogo, junte o caldo da assadeira ao roux e mexa bem com um batedor de arame para dissolver os gruminhos de farinha. Volte ao fogo baixo e mexa por mais 3 minutos para o molho engrossar. Transfira para uma molheira.
-- --
 
 ---
 

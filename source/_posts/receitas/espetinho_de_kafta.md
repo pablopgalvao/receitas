@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de acém moído
 - 1 colher de sopa de pimenta-do-reino
@@ -37,7 +37,6 @@ flags: []
 - 1 colher de sopa de sal
 - Cheiro-verde picado a gosto
 - Em uma tigela grande, tempere a carne moída com pimenta-do-reino, cominho, páprica, alho, azeite e sal;
-- --
 
 ---
 

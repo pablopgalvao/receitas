@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - frança
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
 - 1/2 xícara de chá de manteiga com sal gelada (115 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Adicione o sal, a pimenta-do-reino e o alho triturado. Continue mexendo por mais 10 minutos e desligue o fogo. Reserve. Nesse momento, também preaqueça o forno a 180°C;
 - Enquanto isso, vamos preparar o creme. Em uma tigela, adicione os ovos e bata com um fouet (batedor de arame) para misturar claras e gemas;
 - Junte o sal, a pimenta-do-reino, as raspas de noz-moscada, o creme de leite e o parmesão ralado. Misture tudo com uma espátula até que todos os ingredientes estejam incorporados;
-- --
 
 ---
 

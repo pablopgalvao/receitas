@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,3 kg de frango em pedaços
 - 3 colheres de chá de sal
@@ -42,7 +42,6 @@ flags: []
 - Cheiro-verde a gosto
 - Coloque o frango em uma tigela grande, tempere com 2 colheres de chá de sal, colorau, páprica defumada, páprica picante e açafrão. Com as mãos limpas, mexa tudo para que os temperos se distribuam;
 - Acrescente a água quente e mexa bem. Acrescente mais 1 colher de chá de sal e a pimenta-do-reino. Tampe e deixe cozinhar por cerca de 15 a 20 minutos;
-- --
 
 ---
 

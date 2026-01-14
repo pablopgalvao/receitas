@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filé de peito de frango cortado em cubos
 - Sal a gosto
@@ -41,7 +41,6 @@ flags: []
 - Em uma panela em fogo baixo, derreta 1 colher de sopa de manteiga e adicione a farinha, mexendo sem parar;
 - Assim que a farinha cozinhar, acrescente o suco de laranja, o mel e uma pitada de sal. Mexa até o molho engrossar e reserve;
 - Em uma frigideira, coloque o restante da manteiga e frite o frango;
-- --
 
 ---
 

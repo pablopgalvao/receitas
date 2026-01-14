@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de arroz arbóreo
 - 3 xícaras de chá de água fervente
@@ -35,7 +35,6 @@ flags: []
 - Azeite a gosto
 - Sal a gosto
 - Adicione o alho-poró fatiado e mexa mais um pouco, para incorporar todos os ingredientes. Coloque o sal e ajuste conforme a sua preferência;
-- --
 
 ---
 

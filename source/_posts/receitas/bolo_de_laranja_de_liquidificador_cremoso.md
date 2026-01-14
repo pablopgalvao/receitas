@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de chá de açúcar (150 gramas)
 - 4 colheres de sopa de manteiga (100 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Transfira essa mistura para uma tigela. Agora aos poucos, adicione a farinha de trigo, depois a baunilha e o amido de milho. Misture com um fouet (batedor de arame) até incorporar, sem bater demais;
 - Para a calda, em uma panela pequena, misture o açúcar, o suco e as raspas de laranja. Leve ao fogo baixo, mexendo sempre até levantar fervura e engrossar levemente;
 - Assim que o bolo assado estiver morno, desenforme e despeje a calda por cima, espalhando com uma colher para absorver bem. Bom apetite!
-- --
 
 ---
 

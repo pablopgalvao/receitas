@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Descasque e corte a metade da cebola ao meio, no sentido de comprimento. Corte a cebola em fatias finas, para formar meias-luas. Transfira a cebola fatiada para uma tigela pequena, adicione 1 colher (sopa) do vinagre, o açúcar e cubra com ½ xícara (chá) de água. Misture e conte pelo menos 5 minutos – isso faz com que a cebola perca o ardido. Se quiser que fique bem suave, conte até 15 minutos. Enquanto isso, separe os outros ingredientes.
 - Lave, seque e pique grosseiramente a salsinha e o endro. Adicione as ervas picadas ao feijão. Acrescente o azeite, o vinagre restante, as sementes de erva-doce e a pimenta calabresa. Tempere com sal a gosto e misture delicadamente.
 - Escorra bem as cebolas numa peneira. Adicione as fatias de cebola ao feijão e misture novamente. Sirva a seguir ou mantenha a salada marinando na geladeira por 1 hora, ela fica ainda mais gostosa.
-- --
 
 ---
 

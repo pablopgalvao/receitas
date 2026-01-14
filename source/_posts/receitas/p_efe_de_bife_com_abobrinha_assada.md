@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Coloque a manteiga no congelador – quanto mais gelada ela estiver, mais aveludado fica o molho.
 - Prepare dois bifes de cada vez para não ter o risco de queimar a frigideira – os queimadinhos vão ser usados para o preparo do molho. Tempere os bifes com sal e leve uma frigideira ao fogo médio. Quando estiver bem quente, regue com 1 colher (chá) do azeite e coloque os bifes um ao lado do outro. Deixe dourar, sem mexer, até que se soltem do fundo da frigideira – isso leva uns 2 minutos. Com uma pinça, vire os bifes e deixe dourar por mais 2 minutos. Desligue o fogo, transfira os bifes para um prato e cubra com papel-alumínio.
 - Regue a frigideira com ⅓ de xícara (chá) da água e volte ao fogo médio. Raspe com uma espátula, soltando todo o queimadinho que se formou no fundo da panela – ele dá sabor ao molho. Junte o caldo de limão e mexa por mais 1 minuto até o fundo da frigideira ficar bem limpo. Desligue o fogo, junte 1 colher (sopa) da manteiga gelada e faça movimentos circulares com a panela – assim a manteiga emulsifica e engrossa o molho. Regue sobre os bifes grelhados e repita com o restante (nem precisa lavar a frigideira). Sirva os bifes com a abobrinha assada, arroz e feijão.
-- --
 
 ---
 

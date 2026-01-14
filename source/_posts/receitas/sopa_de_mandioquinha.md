@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Lave, descasque e corte as mandioquinhas em rodelas de 1 cm. Lave, seque e corte o talo de salsão em cubinhos. Descasque e pique fino a cebola e os dentes de alho.
 - Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite, adicione a cebola e o salsão, tempere com uma pitada de sal e refogue por 4 minutos até começar a dourar. Junte o alho, o louro e mexa apenas por 1 minuto para perfumar.
 - Acrescente o vinho e misture bem com uma espátula, raspando o fundo da panela para dissolver os queimadinhos e evaporar o álcool. Junte as rodelas de mandioquinha, a água e tempere com 2 colheres (chá) de sal e pimenta a gosto. Misture e deixe cozinhar em fogo médio.
-- --
 
 ---
 

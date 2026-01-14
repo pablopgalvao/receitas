@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Transfira a castanha batida com o açúcar para uma tigela grande e junte a farinha de trigo, a manteiga e o sal. Amasse bem com as mãos até formar uma massa lisa e modelável — é preciso apertar bem, pois a castanha batida solta um pouco de gordura que ajuda a dar ponto à massa.
 - Leve os biscoitos ao forno para assar por cerca de 10 minutos, ou até começarem a dourar nas pontinhas. Enquanto isso, separe uma tigela pequena com 3 colheres (sopa) de açúcar.
 - Retire os biscoitos do forno e deixe amornar por 10 minutos — assim, eles não quebram. Passe os biscoitos pelo açúcar e deixe esfriar completamente antes de armazenar ou servir.
-- --
 
 ---
 

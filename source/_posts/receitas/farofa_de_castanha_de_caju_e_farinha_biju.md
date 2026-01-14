@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Na tábua, pique grosseiramente as castanhas. Se a manteiga estiver gelada, corte em pedaços.
 - Leve uma frigideira grande com a manteiga ao fogo médio. Quando derreter, junte as castanhas picadas e mexa por 2 minutos. Tempere com sal e pimenta a gosto.
 - Abaixe o fogo e adicione a farinha de mandioca aos poucos, mexendo bem para incorporar. Deixe cozinhar por mais 3 minutos até ficar crocante, mexendo de vez em quando para não queimar. Sirva a seguir.
-- --
 
 ---
 

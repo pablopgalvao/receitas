@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 beterraba pequena (75 gramas)
 - 1 xícara de chá de feijão fradinho cru (200 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Páprica a gosto
-- --
 
 ---
 

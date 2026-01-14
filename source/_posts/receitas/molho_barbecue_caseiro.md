@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de molho inglês
 - 1/2 xícara de chá de açúcar mascavo
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de vinagre de maçã
 - 2 colheres de sopa de páprica doce defumada
 - Em uma panela, coloque o açúcar mascavo e leve ao fogo baixo, mexendo até começar a derreter e formar um caramelo leve;
-- --
 
 ---
 

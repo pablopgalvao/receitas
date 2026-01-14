@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de quiabo (cerca de 60 unidades)
 - 1/4 de xícara de chá de camarão seco (descascado e sem olhos)
@@ -41,7 +41,6 @@ flags: []
 - Aqueça uma panela no fogo médio - se possível uma panela de barro. Acrescente o azeite de dendê, deixe aquecer e, em seguida, coloque a mistura pastosa do liquidificador. Com uma colher, misture para o creme incorporar bem com o azeite;
 - Refogue o creme por cerca de 3 minutos e, em sequência, acrescente o quiabo cortado. Misture bem e, se o creme ficar com a cor muito clara, adicione mais azeite de dendê. Tempere com sal;
 - Cozinhe o caruru por cerca de 40 minutos, mexendo sempre para não queimar, ou até o quiabo ficar bem cozido e macio - o creme fica com uma coloração mais escura e esverdeada, com um brilho lindo. Se necessário, acerte o sal;
-- --
 
 ---
 

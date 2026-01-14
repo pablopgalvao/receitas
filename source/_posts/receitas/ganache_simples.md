@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,20 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 150 gramas de chocolate meio amargo
 - 1/2 xícara de chá de creme de leite de caixinha ou fresco aquecido (150 ml)
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - lascas de queijo parmesão a gosto para servir
 - folhas de manjericão a gosto para servir
 - Acrescente a água, o tomate pelado e o macarrão. Tempere com 1 colher (chá) de sal, pimenta a gosto e misture. Tampe a panela e leve ao fogo alto. Assim que começar a apitar, abaixe o fogo e deixe cozinhar por 5 minutos.
-- --
 
 ---
 

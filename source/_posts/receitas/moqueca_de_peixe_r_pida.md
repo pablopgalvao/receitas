@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filé de pescada branca (ou qualquer outro peixe de sua preferência)
 - 1 vidro de leite de coco (200 ml)
@@ -39,7 +39,6 @@ flags: []
 - Numa tigela, coloque os filés de peixe e tempere com suco do limão, dentes de alho amassados, sal e talos de coentro. Misture tudo muito bem e deixe marinando enquanto corta os legumes;
 - Coloque a cebola e os pimentões picados por cima e tempere com um pouco de sal e pimenta-do-reino;
 - Depois, acrescente os tomates e tempere com mais um pouco de sal. Misture os legumes levemente com as mãos. Adicione o azeite de dendê e o leite de coco, e leve a panela ao fogo médio;
-- --
 
 ---
 

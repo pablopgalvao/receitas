@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - 1 pitada de sal
 - Numa tigela, misture a farinha de trigo, o açúcar, a aveia, as nozes e o sal.
 - Corte a manteiga em cubos pequenos e acrescente à tigela com os ingredientes secos. Misture, amassando com as pontas dos dedos até formar uma farofa grossa.
-- --
 
 ---
 

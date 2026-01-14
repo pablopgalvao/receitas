@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/4 xícara de chá de salsinha bem picadinha
 - 1/4 xícara de chá de cebolinha em rodelas bem fininhas
@@ -36,7 +36,6 @@ flags: []
 - 1/2 colher de sopa de tomilho (opcional)
 - Sal e pimenta-do-reino a gosto
 - Despeje o azeite. Tempere com sal, pimenta-do-reino e tomilho. Adicione a salsinha e a cebolinha picadinhas. Misture bem e leve para a geladeira;
-- --
 
 ---
 

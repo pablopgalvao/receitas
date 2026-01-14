@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 kg de mocotó
 - 500 gramas de mandioca
@@ -43,7 +43,6 @@ flags: []
 - Junte a pimenta-do-reino, o cominho, o colorau, o sal e o vinagre de maçã, e bata até que a mistura fique homogênea;
 - No liquidificador, novamente, bata a mandioca cortada em pedaços menores com mais 2 xícaras de água do cozimento. Despeje sobre o caldo fervente e mexa bem até que ele fique encorpado;
 - Ajuste os temperos, se necessário, e finalize acrescentando salsinha e cebolinha. Sirva-se de uma porção e aproveite!
-- --
 
 ---
 

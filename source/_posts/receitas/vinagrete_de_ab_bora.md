@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Descasque e fatie a cebola roxa em pétalas finas. Transfira para uma tigela pequena, adicione ½ colher (sopa) do vinagre, cubos de gelo e cubra com água. Mantenha a cebola imersa por pelo menos 10 minutos para perder o ardido. Enquanto isso prepare os outros ingredientes.
 - Descasque e corte a rodela de abóbora ao meio, formando duas meias-luas. Com um descascador de legumes faça fitas da abóbora – passe o descascador na parte cortada da abóbora, é mais fácil de cortar e as fitas ficam mais longas. Se preferir medir depois de fatiada, são 2 xícaras (chá).
 - Escorra a cebola e transfira para uma tigela. Junte as fitas de abóbora e a pimenta picada. Adicione o azeite, o caldo de limão, o restante do vinagre e as folhas de coentro. Tempere com sal a gosto e misture delicadamente com dois garfos. Sirva a seguir ou mantenha na geladeira até a hora de servir – o vinagrete fica ainda mais gostoso depois de curtir por 30 minutos.
-- --
 
 ---
 

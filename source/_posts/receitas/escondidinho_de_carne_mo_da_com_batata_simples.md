@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - 500 gramas de carne moída
@@ -43,7 +43,6 @@ flags: []
 - Acrescente o sal e a pimenta e deixe refogar;
 - Coloque a azeitona, a salsinha, a cebolinha e o molho de tomate. Deixe cozinhar até reduzir um pouco e reserve.
 - Coloque a manteiga para derreter em uma panela e tempere com sal e pimenta;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 13 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 pitada de sal
 - Com uma faca de serra, corte o pão em fatias de 2,5 cm de espessura. Corte e descarte a bordinha com a casca. Numa tigela média, misture bem a manteiga com o açúcar, o mel e o sal.
 - Com uma espátula pequena (ou faca sem serra), espalhe uma camada fina da mistura de manteiga sobre os dois lados de cada fatia de pão, incluindo as laterais — toda a superfície da fatia precisa ter manteiga.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite
 - Pimenta, sal e salsinha a gosto
@@ -43,7 +43,6 @@ flags: []
 - Após fritar todas as panquecas, prepare uma superfície plana, como bancada ou tábua de carne, para rechear. Pegue um disco de massa, coloque 2 colheres de sopa de recheio bem centralizado. Enrole a panqueca seguindo a disposição do recheio;
 - Aqueça o restante do molho de tomate e espalhe por cima das panquecas. Salpique parmesão ralado e leve ao forno preaquecido a 180 °C por 5 minutos;
 - Sirva as panquecas quentinhas com arroz branco e salada fresca.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 1 pitada de sal
 - Com uma faca de pão, corte os pães franceses em fatias finas, de 0,5 cm. Descasque e transfira o alho para o pilão. Tempere com uma pitada de sal, bata até formar uma pastinha e misture com azeite.
 - Numa assadeira grande, distribua as fatias de pão uma ao lado da outra. Com um pincel (ou colher), espalhe um pouco da pastinha de alho sobre cada fatia e leve ao forno para assar por cerca de 10 minutos, ou até ficarem crocantes e levemente douradas.
-- --
 
 ---
 

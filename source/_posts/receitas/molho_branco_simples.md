@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de farinha de trigo
@@ -39,7 +39,6 @@ flags: []
 - Mexa sem parar até a farinha cozinhar (cerca de 3 a 5 minutos), ou até subir um cheiro amendoado - cuidado para não escurecer ou queimar;
 - Assim que o roux estiver no ponto, aos poucos, vá adicionando o leite gelado e mexendo sem parar. A farinha precisa ser dissolvida completamente para o molho não ficar com gruminhos. Aumente o fogo e continue mexendo até o molho começar a ferver (cerca de 5 minutos);
 - Assim que ferver, abaixe o fogo para médio, tempere com sal e noz-moscada e cozinhe por mais 10 minutos, mexendo de vez em quando para não grudar no fundo da panela. É importante cozinhar bem para o molho engrossar e não ficar com gosto de farinha;
-- --
 
 ---
 

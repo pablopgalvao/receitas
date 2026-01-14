@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de óleo (210 ml)
 - 2 xícaras de chá de açúcar (370 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Adicione o açúcar e bata novamente por mais 1 minuto, até ficar homogêneo;
 - Feito isso, entre com o fermento em pó, o amido de milho, o leite e a farinha de trigo. Bata até incorporar todos os ingredientes e formar uma massa lisa e uniforme;
 - Se desejar, finalize polvilhando açúcar de confeiteiro ou glaçúcar por cima para dar um charme a mais; Aproveite esse bolo para deixar o seu café da tarde mais gostoso. Sirva com um cafézinho ou chá!
-- --
 
 ---
 

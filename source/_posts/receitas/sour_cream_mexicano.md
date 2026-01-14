@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de creme de leite gelado (300 gramas)
 - 1 caixinha de cream cheese (150 gramas)
 - 1/2 xícara de chá de pimenta
 - Em seguida, adicione o cream cheese e misture bem com o auxílio de um fouet (batedor de arame) ou colher, até formar um creme homogêneo;
 - Depois, se quiser, adicione uma pitada de pimenta e misture para dar um toque picante ao molho;
-- --
 
 ---
 

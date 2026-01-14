@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sobremesa (rasa) de sal
 - 1 pacote de talharim (500 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Tempere com sal, chimichurri e páprica picante, acrescente também as azeitonas fatiadas. Refogue por cerca de 2 minutos, mexendo constantemente para não queimar;
 - Acrescente o orégano e uma pitada de açúcar, para quebrar a acidez do preparo. Finalize adicionando cheiro-verde picadinho, misture e reserve para fazer a massa;
 - Em uma panela grande no fogo médio, coloque a água para cozinhar o macarrão. Acrescente o sal, misture e coloque o macarrão. Com um garfo, mexa delicadamente para que seus ninhos se soltem;
-- --
 
 ---
 

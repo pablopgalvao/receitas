@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Feijão-verde (400 gramas)
 - Água (960 ml)
@@ -40,7 +40,6 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 1/3 xícara de chá de leite (80 ml)
 - Para temperar, aqueça o azeite em uma panela e doure a cebola e o alho. Adicione também o sal e misture bem;
-- --
 
 ---
 

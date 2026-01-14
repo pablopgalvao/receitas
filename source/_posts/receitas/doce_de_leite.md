@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de açúcar
 - 1 pitada de sal
@@ -35,7 +35,6 @@ flags: []
 - Utilizamos o açúcar cristal, também é possível usar o refinado. Evite o açúcar de confeiteiro, pois ele queima muito rápido. Se quiser, pode dobrar a receita;
 - Em uma panela de fundo grosso e largo, coloque o leite e o açúcar. Misture bem;
 - Assim que pegar fervura, despeje o bicarbonato de sódio e o sal. Misture;
-- --
 
 ---
 

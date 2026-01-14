@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícara de chá de farinha de trigo (300 gramas)
 - 1 colher de chá de sal
@@ -53,7 +53,6 @@ flags: []
 - Novamente em um bowl, com um fouet (batedor de arame) misture os ovos, o creme de leite e o requeijão. Bata até que fique bem homogêneo;
 - Adicione ao creme o refogado de cebola e alho que reservou anteriormente, a farinha de trigo, o queijo parmesão, noz-moscada e o sal. Misture bem;
 - Vamos a montagem da quiche! Despeje na massa já assada e fria, o recheio de frango. Depois espalhe o alho-poró por cima e derrame a cobertura por cima de tudo. Utilize uma espátula ou colher para espalhar e nivelar;
-- --
 
 ---
 

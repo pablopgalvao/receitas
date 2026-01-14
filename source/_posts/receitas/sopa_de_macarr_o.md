@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de macarrão cabelo de anjo
 - 100 ml de molho de tomate
@@ -38,7 +38,6 @@ flags: []
 - Cebolinha a gosto
 - Tempere com sal, pimenta-do-reino e caldo de galinha. Mexa bem para que os temperos se incorporem;
 - Acrescente cebolinha gosto e mexa uma última vez. Se quiser, finalize com alho frito crocante por cima e um fio de azeite extra. E está pronto!
-- --
 
 ---
 

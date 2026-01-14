@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de trigo
 - 250 ml de água
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de chá de sal
 - Quebre os ovos um a um em um recipiente pequeno, comprovando se estão bons e transfira para o copo do liquidificador. Adicione o óleo e a água, e bata os ingredientes por cerca de 2 minutos;
 - Transfira o conteúdo do liquidificador para uma tigela, acrescente a farinha de trigo peneirada e o sal. Mexa com um batedor de arame ou fouet até obter uma mistura homogênea;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de sobrecoxas
 - 500 gramas de batatas médias ou pequenas
@@ -40,7 +40,6 @@ flags: []
 - Manteiga para untar (ou outro tipo de gordura)
 - Para temperar, em um recipiente, misture o alho triturado, o sal, a pimenta-do-reino, o orégano, a maionese e a salsinha. Em seguida, adicione o tempero cremoso na tigela com as batatas e o frango e misture até incorporar bem em todos os pedaços;
 - Coloque os pedaços de frango em uma forma ou refratário untado com manteiga e acomode as batatas em volta da carne. Depois, leve ao forno preaquecido a 180 ºC por cerca de 1h20 ou até tudo cozinhar e dourar;
-- --
 
 ---
 

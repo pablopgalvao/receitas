@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de feijão carioca (400 gramas)
 - 2 colheres de sopa de óleo
@@ -39,7 +39,6 @@ flags: []
 - Em outra panela grande, aqueça o óleo e refogue o alho picado com a pimenta até o alho começar a dourar;
 - Acrescente as batatas e os chuchus picados, adicione uma pitada de sal e pimenta-do-reino, e refogue bem até os legumes começarem a dourar. Coloque um pouquinho de água, apenas o suficiente para que os legumes não grudem no fundo, e cozinhe até ficarem levemente macios, por aproximadamente 15 minutos;
 - Finalize com a salsinha picada e desligue o fogo;
-- --
 
 ---
 

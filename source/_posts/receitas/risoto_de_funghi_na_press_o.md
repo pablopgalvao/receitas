@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Adicione ½ colher (sopa) de azeite, junte o arroz e misture bem para envolver todos os grãos. Acrescente o vinho e mexa até secar. Tempere com sal e pimenta a gosto, junte a água do funghi reservada, as folhas de salsão e a cebola cravejada. Tampe a panela e aumente o fogo.
 - Assim que a panela começar a apitar, conte 3 minutos. Enquanto isso, leve uma chaleira com 1 xícara (chá) de água ao fogo médio.
 - Desligue o fogo da panela e, com um garfo, levante a válvula para tirar a pressão. Depois que todo o vapor sair, abra a panela e, com uma pinça, pesque e descarte as folhas de salsão e a cebola cravejada. Caso o risoto ainda esteja duro ou tenha secado demais, acrescente um pouco da água quente. Misture a manteiga e o queijo parmesão ralado e sirva a seguir com folhas de salsinha a gosto.
-- --
 
 ---
 

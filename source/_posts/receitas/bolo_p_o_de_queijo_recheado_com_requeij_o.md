@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite integral (240 ml)
 - 3 ovos médios
@@ -43,7 +43,6 @@ flags: []
 - Na liquidificador, coloque os ovos, o leite, o óleo e o queijo parmesão ralado. Bata bem até obter uma mistura homogênea;
 - Acrescente o polvilho doce e o sal, e bata novamente até incorporar. Adicione o fermento químico em pó e misture delicadamente com uma espátula ou fouet (batedor de arame);
 - Distribua colheradas generosas de requeijão por cima dessa primeira camada de massa, formando o recheio;
-- --
 
 ---
 

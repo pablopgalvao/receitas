@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Leve uma frigideira média antiaderente ao fogo médio. Coloque 1 colher (sopa) de manteiga na frigideira e gire para derreter e untar todo o fundo.
 - Assim que virar as primeiras, mergulhe as próximas fatias de pão no leite para umedecer e repita o processo adicionando um pouco mais de manteiga na frigideira.
 - Sirva as rabanadas quentes com uma colherada de iogurte cremoso, gomos de laranja e mel.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 50 gramas de mostarda em grãos
 - 150 gramas de vinagre
@@ -37,7 +37,6 @@ flags: []
 - 5 gramas de cúrcuma
 - Em um recipiente, coloque os grãos de mostarda, cubra com água e adicione o sal. Misture e deixe hidratar por 24h, em temperatura ambiente e coberto por um pano ou plástico filme;
 - Passado o tempo, escorra a água, adicione os 150 ml de água, o vinagre, o açúcar e a cúrcuma. Deixe de molho por mais 24 horas, em temperatura ambiente e tampado;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água
 - 50 ml de suco de laranja-bahia fresco
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de chá de mel ou agave (opcional)
 - Gelo a gosto
 - Aqueça os 200 ml de água e prepare a infusão com o sachê de chá Reequilibra por 5 minutos. Retire o sachê e deixe esfriar completamente;
-- --
 
 ---
 

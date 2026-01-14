@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 caixas de creme de leite (400 gramas)
 - 1 caixa de leite condensado (395 gramas)
 - 6 colheres de sopa de leite em pó (120 gramas)
 - Acrescente as 6 colheres generosas de leite em pó e bata novamente por mais alguns minutos, até tudo estar totalmente incorporado;
-- --
 
 ---
 

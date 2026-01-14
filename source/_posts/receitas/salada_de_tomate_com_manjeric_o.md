@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Transfira os gomos para uma peneira grande (ou escorredor de macarrão) e apoie sobre uma tigela. Salpique o sal grosso e misture para envolver bem todos os gomos de tomate com o sal.
 - Na hora de servir, retire a tigela da geladeira. Descarte a água com sal que saiu dos tomates e chacoalhe delicadamente cada gomo para retirar qualquer excesso de sal grosso.
 - Transfira os tomates para um prato e tempere com azeite, pimenta-do-reino e folhas de manjericão a gosto.
-- --
 
 ---
 

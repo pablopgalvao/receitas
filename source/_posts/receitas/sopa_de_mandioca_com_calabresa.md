@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 a 3 fios de óleo
 - 300 gramas de linguiça calabresa
@@ -44,7 +44,6 @@ flags: []
 - Junte os tomates picados e misture bem. Tempere com colorau, sal e pimenta-do-reino. Refogue até os tomates começarem a murchar;
 - Verifique a textura da sopa e, se necessário, adicione mais 500 ml de água para deixá-la mais líquida. Volte ao fogo, incorpore o extrato de tomate, ajuste o sal e mexa bem;
 - Finalize com salsinha e cebolinha picadas. Deixe ferver por mais 5 minutos para engrossar e apurar o sabor. Sirva quente!
-- --
 
 ---
 

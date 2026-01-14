@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa panela média, coloque o óleo e a manteiga. Leve ao fogo médio e, quando aquecer, adicione a cebola e refogue até ficar transparente. Junte a cenoura e o salsão picados, e refogue por mais 3 minutos, sem parar de mexer.
 - Acrescente a carne moída e misture com um garfo. Tempere com sal e pimenta-do-reino e refogue até que a carne perca a cor rosada.
 - Junte o leite e mexa até evaporar completamente. Tempere com noz-moscada ralada na hora, a gosto. Adicione o vinho e deixe cozinhar até secar, mexendo sempre.
-- --
 
 ---
 

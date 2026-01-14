@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de água quente para cada gelatina
 - 100 ml de água fria para cada gelatina
 - Escolha um sabor de gelatina e dissolva em 100 ml de água quente. Depois acrescente 100 de ml água fria;
 - Na outra metade adicione 2 colheres de creme de leite, 2 colheres de leite condensado e misture;
-- --
 
 ---
 

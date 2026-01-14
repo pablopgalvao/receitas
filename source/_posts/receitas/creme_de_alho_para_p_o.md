@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de creme de leite (200 gramas)
 - 2 ovos cozidos
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, adicione o creme de leite, o alho, a páprica defumada, o orégano, o suco de limão e o sal;
 - Com o liquidificador ligado na velocidade média, adicione o óleo em fio, até o molho ganhar consistência;
 - Acrescente os ovos cozidos e bata novamente até formar um creme firme e aveludado;
-- --
 
 ---
 

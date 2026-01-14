@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/3 xícara de chá de azeitonas picadas
 - 1/2 xícara de chá de uvas-passas brancas
@@ -37,7 +37,6 @@ flags: []
 - 3 colheres de sopa de vinagre branco
 - 1/2 xícara de chá de azeite de oliva
 - Adicione as azeitonas, as uvas-passas, o orégano, o sal, o manjericão, o tomilho e a pimenta-do-reino. Em seguida, coloque o vinagre e o azeite de oliva. Misture e deixe cozinhar até atingir o ponto que mais te agrada;
-- --
 
 ---
 

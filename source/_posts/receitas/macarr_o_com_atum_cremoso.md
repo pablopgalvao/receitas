@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite
 - 1/2 sachê de molho de tomate (150 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Quando estiverem bem douradinhos, entre com o atum e deixe refogar por mais 1 minutinho. Mexa bem com uma colher de pau ou espátula;
 - Misture tudo muito bem, prove para verificar a textura do macarrão e o tempero. Se julgar necessário, acerte o sal;
 - Seu macarrão cremoso está prontinho! Sirva com um pouco de queijo ralado ou mais uma pitada de cheiro-verde picadinho por cima.
-- --
 
 ---
 

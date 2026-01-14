@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ¼ de xícara (chá) de nozes
 - Transfira os pedaços para uma tigela, misture com 1 colher (sopa) de sal, cubra com água e deixe de molho por 10 minutos – isso diminui o amargor da berinjela.
 - Leve uma frigideira média, de preferência antiaderente, ao fogo baixo. Quando aquecer, regue com ½ colher (sopa) de azeite, junte a cebola e tempere com sal. Refogue por cerca de 5 minutos, até começar a dourar. Junte a pimenta síria e misture bem.
-- --
 
 ---
 

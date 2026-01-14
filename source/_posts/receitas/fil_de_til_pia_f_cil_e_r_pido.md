@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal a gosto
 - Lemon pepper a gosto
@@ -44,7 +44,6 @@ flags: []
 - Agora, acrescente o creme de leite, temperando com sal, pimenta-do-reino e o suco do limão. Mexa e desligue o fogo para não talhar;
 - Adicione a salsinha picada, misture novamente e jogue por cima dos peixes grelhados;
 - Finalize com raspas de limão a gosto e está pronto!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Assim que a água ferver, junte 2 colheres (chá) de sal e diminua o fogo para médio. Acrescente a sêmola de milho aos poucos, mexendo com um batedor de arame para não empelotar.
 - Desligue o fogo e misture bem o queijo e a manteiga. Prove e, se necessário, ajuste o sal. Junte ½ maço das folhas de couve rasgadas, misture delicadamente e deixe a couve cozinhar no calor da polenta. Enquanto isso, refogue o restante da couve.
 - Leve uma frigideira grande ao fogo médio. Regue com 2 colheres (sopa) de azeite, junte o dente de alho e mexa por 1 minuto para perfumar. Acrescente a couve rasgada, tempere com sal e refogue por 2 minutos até murchar. Sirva a polenta cremosa com a couve refogada.
-- --
 
 ---
 

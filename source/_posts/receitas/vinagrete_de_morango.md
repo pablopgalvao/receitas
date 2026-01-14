@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 3 colheres (sopa) de vinagre balsâmico
 - ½ colher (chá) de sal
 - Numa tigela, junte o morango, o tomate e a cebola picados. Acrescente o vinagre balsâmico, o azeite e tempere com o sal. Misture delicadamente e reserve para apurar o gosto até a hora de servir - o vinagrete fica ainda mais gostoso se preparado com antecedência.
-- --
 
 ---
 

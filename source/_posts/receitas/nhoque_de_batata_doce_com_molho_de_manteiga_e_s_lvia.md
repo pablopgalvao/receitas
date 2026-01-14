@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Com uma escumadeira, mergulhe cerca de 10 nhoques por vez na água fervente. Deixe cozinhar até subirem à superfície. Retire os nhoques, escorrendo bem a água pela escumadeira e transfira para a assadeira untada com óleo. Cozinhe o restante dos nhoques e não despreze a água do cozimento - ela vai ser utilizada para fazer o molho.
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, junte ½ colher (sopa) de manteiga e adicione cerca de 30 nhoques. Deixe por 1 minuto de cada lado para dourar por igual. Transfira para uma travessa e doure o restante dos nhoques, adicionando manteiga a cada leva.
 - Depois que dourar todos os nhoques, diminua o fogo da frigideira para baixo e acrescente 4 colheres (sopa) de manteiga. Assim que derreter, junte as folhas de sálvia e deixe cozinhar por cerca de 1 minuto para perfumar. Desligue o fogo e acrescente 1 concha da água do cozimento do nhoque. Faça movimentos circulares com a frigideira para misturar e formar um molho liso - não mexa com uma espátula, a gordura da manteiga pode se separar do molho.
-- --
 
 ---
 

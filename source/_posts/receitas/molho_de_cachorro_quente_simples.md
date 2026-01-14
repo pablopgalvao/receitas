@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de extrato de tomate (130 gramas)
 - 650 gramas de passata de tomate
@@ -39,7 +39,6 @@ flags: []
 - Em uma panela, aqueça um fio de óleo ou azeite e refogue a cebola e o alho até dourarem levemente;
 - Junte a passata de tomate, o sal, a água e mexa por 2 minutos até incorporar;
 - Adicione as salsichas e cozinhe em fogo médio por cerca de 25 minutos, ou até o molho encorpar;
-- --
 
 ---
 

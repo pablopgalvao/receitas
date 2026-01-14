@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de milho para canjica
 - 1 xícara de chá de extrato de tomate
@@ -35,7 +35,6 @@ flags: []
 - Salsinha a gosto
 - 50 gramas de queijo parmesão ralado
 - Finalize com o sal, a pimenta, a salsinha e misture bem.
-- --
 
 ---
 

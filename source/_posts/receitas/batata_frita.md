@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 litro e 1/2 de óleo para fritar
 - Sal e pimenta-do-reino a gosto
@@ -35,7 +35,6 @@ flags: []
 - Se preciso, frite as batatas por etapas, evitando que elas fiquem muito amontoadas na panela. Coloque-as em um prato forrado com papel-toalha e espere escorrer bem o óleo. Depois, espalhe as batatas em uma assadeira e leve para o congelador por 30 minutos;
 - Se preciso, frite as batatas por etapas. Se você colocar uma grande quantidade na panela, o óleo vai resfriar e as batatas ficarão moles. Deixe elas escorrerem em uma grade ou no papel-toalha;
 - Tempere as batatas com sal e pimenta. Crocância aprovadíssima, já pode servir!
-- --
 
 ---
 

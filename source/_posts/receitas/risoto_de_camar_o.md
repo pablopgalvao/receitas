@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de camarão
 - 110 gramas de manteiga (20 gramas para fritar o camarão e 90 gramas para o risoto)
@@ -44,7 +44,6 @@ flags: []
 - Coloque o parmesão e mexa até ele derreter. Se precisar, acerte o sal e a pimenta;
 - Acrescente 60 gramas de manteiga e mexa até incorporar e derreter;
 - Deixe o risoto descansar por cerca de 2 a 3 minutos. Adicione a salsinha e misture novamente;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de filé de tilápia congelado
 - 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
@@ -41,7 +41,6 @@ flags: []
 - Aqueça uma panela com óleo ou azeite para fritar o peixe por imersão. Coloque uma colher de pau na panela e, se formar bolhinhas em volta dela, está quente;
 - Passe os filés marinados no mix de farinha, empanando bem ambos os lados. Após empanar, frite dois filés por vez;
 - Agora é só servir esse peixinho delicioso como entrada, petisco, acompanhamento de uma salada ou do clássico arroz e feijão. Bom apetite!
-- --
 
 ---
 

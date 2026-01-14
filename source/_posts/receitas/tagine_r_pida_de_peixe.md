@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve ao fogo médio uma frigideira grande com bordas altas (se preferir, utilize uma caçarola). Quando aquecer, regue com o azeite e adicione a cebola. Tempere com sal e refogue por cerca de 3 minutos, até murchar.
 - Adicione as postas de cação, tempere com mais um pouco de sal e deixe cozinhar por 5 minutos - o peixe deve ficar cozido, mas ainda macio. Junte o grão-de-bico e regue com o mel. Misture e deixe cozinhar por mais 2 minutos, apenas para aquecer. Enquanto isso, lave e seque as folhas de coentro.
 - Desligue o fogo. Com uma espátula, parta as postas de peixe em pedaços médios, retire e descarte o ossinho de cada uma. Salpique folhas de coentro e sirva a seguir, com o molho que se formou na frigideira. Fica perfeito com cuscuz marroquino.
-- --
 
 ---
 

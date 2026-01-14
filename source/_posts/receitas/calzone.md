@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 240 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de farinha de trigo (420 gramas)
 - 1 e 1/2 colher de chá de fermento biológico seco instantâneo (cerca de 5 gramas)
@@ -49,7 +49,6 @@ flags: []
 - Com o auxílio do rolo de macarrão, abra uma porção da massa em formato de disco (aproximadamente 20 cm), com cerca de 0,5 cm de espessura. Polvilhe a bancada com farinha sempre que precisar para a massa não grudar;
 - Em uma metade do disco, coloque 2/3 xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
 - Repita os processos de abrir, rechear e fechar com o restante da massa, sempre lembrando de polvilhar a bancada com farinha de trigo. Transfira os calzones moldados para uma assadeira. Deixe um espaço entre um e o outro;
-- --
 
 ---
 

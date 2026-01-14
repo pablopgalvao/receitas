@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - gergelim branco e preto torrado a gosto
 - Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).
 - Numa tigela, misture o arroz com o shoyu, o azeite e o caldo de limão. Transfira para um prato, cubra com o frango desfiado e as tiras de salsão e de pimenta. Salpique com a cebolinha, o gergelim e sirva a seguir. Se quiser levar a salada como marmita, deixe para salpicar a cebolinha e o gergelim na hora de comer.
-- --
 
 ---
 

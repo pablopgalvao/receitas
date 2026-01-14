@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 125 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 1 caixinha de leite condensado (395 gramas)
 - 1 caixinha de creme de leite (200 gramas)
 - 1 pacotinho de suco em pó sabor abacaxi (18 gramas)
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ½ xícara (chá) de creme de leite fresco
 - amendoim torrado, sem sal picado a gosto
 - Retire o semifredo do congelador e deixe em temperatura ambiente por 10 minutos antes de servir - assim ele perde um pouco do gelo e fica mais cremoso. Sirva acompanhado de um shot de café e amendoim picado a gosto.
-- --
 
 ---
 

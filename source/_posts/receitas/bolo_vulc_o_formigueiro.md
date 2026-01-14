@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de óleo
 - 1 xícara de chá de leite
@@ -42,7 +42,6 @@ flags: []
 - Adicione o restante da farinha de trigo e bata novamente;
 - Coloque o granulado e a farinha em uma tigela e misture; depois, adicione os ingredientes à massa e mexa;
 - Salpique o chocolate granulado e sirva. Bom apetite!
-- --
 
 ---
 

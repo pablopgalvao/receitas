@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Lave, seque e corte as maçãs ao meio no sentido do comprimento. Descarte as sementes e corte as metades em meias-luas de 0,5 cm. Coloque a manteiga numa tigela e leve ao micro-ondas por 20 segundos para derreter.
 - Unte com manteiga derretida uma assadeira grande, de preferência antiaderente. Polvilhe 1 colher (sopa) de açúcar na assadeira formando 6 áreas retangulares de cerca de 6 cm x 8 cm. Deixe espaço entre cada uma delas — não precisa ser um retângulo perfeito, é só para marcar o lugar onde a maçã e a massa de cada tortinha vão caramelizar.
 - Coloque 6 fatias de maçã sobrepostas formando uma escama em cada área de açúcar. Cubra as fatias com um retângulo de massa folhada, pressionando delicadamente as bordas na assadeira. Pincele manteiga derretida sobre as tortinhas e polvilhe um pouco de açúcar demerara sobre a massa — assim elas ficam mais douradas e crocantes.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - folhas de manjericão variadas (comum, basilicão, miúdo e roxo) a gosto
 - Adicione os ramos de manjericão, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture com as mãos para envolver todos os pedaços no azeite e distribua os gomos na assadeira, com a parte da pele voltada para baixo — assim ela não se solta ao assar.
 - Retire os tomates do forno e deixe esfriar. Disponha numa travessa os gomos de tomate e a muçarela de búfala rasgada; tempere com sal e pimenta a gosto e regue com 2 colheres (sopa) de azeite. Finalize com as folhas de manjericão e sirva a seguir.
-- --
 
 ---
 

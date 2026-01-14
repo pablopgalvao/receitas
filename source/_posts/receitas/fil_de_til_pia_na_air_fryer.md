@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal a gosto
 - Lemon pepper a gosto
@@ -38,7 +38,6 @@ flags: []
 - Coloque o filé de tilápia em um prato. Tempere com sal, lemon pepper e azeite a gosto. Lembre-se de fazer esse processo dos 2 lados do peixe, espalhando bem com a ajuda das mãos;
 - Forre a cestinha da air fryer com papel-manteiga e disponha o filé temperado sobre ela. Em volta, nos espaços que sobraram, disponha os tomates-cereja com uma pitada de sal. Coloque também um ramo de tomilho e os dentes de alho laminados sobre a tilápia;
 - Desligue, retire da cestinha e finalize com salsinha para um toque de frescor!
-- --
 
 ---
 

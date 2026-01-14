@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de flocão de milho
 - 1 xícara de chá de leite
@@ -37,7 +37,6 @@ flags: []
 - 1 xícara de chá de farinha de trigo
 - 1 colher de sopa de fermento químico em pó
 - Coloque o flocão, o leite, o óleo, o açúcar, os ovos e a farinha no liquidificador. Bata por aproximadamente 3 minutos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Enquanto isso, lave, seque e corte os tomates ao meio. Descarte as sementes e corte as metades em cubos de cerca de 1 cm. Lave, seque e pique fino a salsinha.
 - Passado o tempo de cozimento, ajuste a válvula da panela para liberar a pressão antes de abrir a tampa. Acrescente ao arroz a ervilha, o tomate e a salsinha; misture delicadamente e tampe novamente a panela. Deixe descansar por 5 minutos para que a ervilha descongele e cozinhe no vapor do arroz — a panela entrará automaticamente no modo Manter Aquecido.
 - Sirva as porções da galinhada nos pratos, salpique folhas de salsinha e regue com um fio de azeite.
-- --
 
 ---
 

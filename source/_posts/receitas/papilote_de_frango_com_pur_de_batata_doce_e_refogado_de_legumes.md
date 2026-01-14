@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - folhas de salsinha a gosto
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione a abobrinha e tempere com uma pitada de sal. Deixe dourar, mexendo de vez em quando, por 2 minutos.
 - Acrescente a ervilha torta, tempere com sal e pimenta e refogue por 2 minutos até começarem a ficar macias, mas ainda resistentes a mordida. Junte o alho e mexa por 1 minuto para perfumar. Desligue o fogo, misture as folhas de salsinha e reserve uma tigela.
-- --
 
 ---
 

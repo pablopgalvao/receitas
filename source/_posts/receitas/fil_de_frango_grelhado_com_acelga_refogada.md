@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com o azeite, acrescente o alho e mexa por 1 minuto para perfumar. Junte a acelga fatiada, tempere com sal e pimenta-do-reino a gosto e misture bem. Regue com a mistura caldo de laranja e amido, misture e deixe cozinhar por mais 5 minutos, mexendo de vez em quando, até a acelga murchar e o caldo engrossar levemente.
-- --
 
 ---
 

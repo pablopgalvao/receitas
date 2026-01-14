@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 ovo grande
 - 3/4 de xícara de chá de farinha de rosca (120 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Coloque a farinha de rosca em um prato raso e deixe ao lado do ovo batido;
 - Passe cada pedaço de banana no ovo, deixando escorrer o excesso;
 - Empane na farinha de rosca, pressionando levemente com as mãos para que o empanado grude bem;
-- --
 
 ---
 

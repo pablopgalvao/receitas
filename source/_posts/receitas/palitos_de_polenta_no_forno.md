@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - queijo parmesão ralado fino a gosto
 - pimenta-do-reino moída na hora a gosto
 - Unte duas assadeiras grandes com azeite e distribua os palitos de polenta, um ao lado do outro, sem sobrepor – quanto mais espaçados na assadeira, mais crocantes ficam. Regue os palitos com um fio de azeite, tempere com pimenta a gosto e polvilhe com queijo parmesão ralado.
-- --
 
 ---
 

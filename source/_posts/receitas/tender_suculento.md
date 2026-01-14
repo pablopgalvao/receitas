@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 Tender (1kg)
 - 1/4 xícara de chá de azeite (4 colheres de sopa)
@@ -37,7 +37,6 @@ flags: []
 - Cebola crispy a gosto
 - Lave bem as batatas e corte em formato rústico. Cozinhe em água com sal por 10 minutos e escorra;
 - Retire do forno e finalize com tomates-cereja, mais azeitonas e cebola crispy a gosto. Sirva em seguida.
-- --
 
 ---
 

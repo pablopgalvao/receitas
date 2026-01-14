@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de lombo de bacalhau dessalgado
 - 800 gramas de batatas
@@ -42,7 +42,6 @@ flags: []
 - Espalhe o tomate e os pimentões. Adicione os dentes de alho e afunde no óleo;
 - Quando ferver, retire cuidadosamente do forno, coloque os ovos cozidos, as azeitonas e adicione a pimenta-do-reino moída na hora;
 - Retorne ao forno por mais 10 minutos. Salpique a salsinha para finalizar;
-- --
 
 ---
 

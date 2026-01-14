@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - espanha
+  - europa
+  - refrescante
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,8 +40,6 @@ flags: []
 - folhas de endro (dill) a gosto para servir
 - folhas de hortelã a gosto para servir
 - amêndoas laminadas tostadas a gosto para servir
-
-- --
 
 ---
 

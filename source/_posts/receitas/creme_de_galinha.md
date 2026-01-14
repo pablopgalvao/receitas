@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de azeite
 - 1 cebola média (120 gramas)
@@ -45,7 +45,6 @@ flags: []
 - 3 colheres de sopa de cebolinha (ou a gosto)
 - Em uma panela grande no fogo alto, com um fio de azeite, coloque a cebola e refogue até murchar. Acrescente o alho e continue refogando até ficar douradinho. Adicione o tomate picado, o sal, a pimenta-do-reino e o colorau. Misture bem e refogue por 1 minuto;
 - Em um recipiente, misture 1 xícara de leite e a farinha de trigo - mexa até dissolver bem todos os gruminhos. Despeje essa misturinha na panela e bata com um mixer até ficar um creme homogêneo. Se não tiver mixer, mexa sem parar com uma colher de pau;
-- --
 
 ---
 

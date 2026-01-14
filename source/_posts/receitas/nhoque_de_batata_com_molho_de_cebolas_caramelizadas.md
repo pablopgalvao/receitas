@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - lascas de queijo parmesão a gosto
 - Assim que as cebolas estiverem douradas, abaixe o fogo e junte o restante da manteiga. Tempere com sal e pimenta a gosto e deixe cozinhar até derreter completamente, mexendo de vez em quando. Desligue o fogo e acrescente ½ xícara (chá) da água do cozimento dos nhoques. Faça movimentos circulares com a frigideira para misturar e formar um molho liso – não mexa com a espátula, a gordura da manteiga pode se separar do molho.
-- --
 
 ---
 

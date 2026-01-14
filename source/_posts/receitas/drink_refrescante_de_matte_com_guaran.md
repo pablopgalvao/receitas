@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água filtrada ou mineral
 - 50 ml de rum branco
@@ -35,7 +35,6 @@ flags: []
 - 10 ml de suco de limão fresco
 - Gelo a gosto
 - Complete com o refrigerante de guaraná bem geladinho. Mexa suavemente com uma colher longa, para não perder o gás do refrigerante;
-- --
 
 ---
 

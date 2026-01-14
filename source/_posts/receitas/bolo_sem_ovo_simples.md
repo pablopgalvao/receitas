@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de leite condensado (395 gramas)
 - 2 caixas de creme de leite (400 gramas)
 - 2 xícaras de chá de fubá fino (240 gramas)
 - 1 colher de sopa de fermento em pó
 - Misture bem com um fouet (batedor de arame) ou colher até obter um creme homogêneo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mocotó
 - 1 e 1/2 colher de chá de pimenta calabresa
@@ -41,7 +41,6 @@ flags: []
 - Tempere o mocotó com sal, colorau, pimenta calabresa e pimenta-do-reino. Misture bem e adicione também o vinagre, que ajuda a realçar os sabores. Reserve;
 - Aqueça uma panela de pressão com um fio de óleo e doure a cebola e o alho por cerca de 2 minutos;
 - Acrescente o mocotó temperado na panela. Junte os pimentões, o tomate, as pimentas e metade do cheiro-verde. Mexa com uma colher para incorporar todos os ingredientes;
-- --
 
 ---
 

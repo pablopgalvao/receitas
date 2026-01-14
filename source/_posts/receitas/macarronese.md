@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de macarrão parafuso
 - 300 gramas de frango cozido, temperado e desfiado
@@ -39,7 +39,6 @@ flags: []
 - Sal a gosto
 - Confira se você tem todos os ingredientes para preparar macarronese. Já tempere o frango desfiado a gosto. Corte a mussarela e o presunto em cubos médios;
 - Se preciso, adicione um pouco mais de maionese até chegar à cremosidade desejada. Junte o macarrão cozido e o sal. Misture novamente, com cuidado para não despedaçar o macarrão;
-- --
 
 ---
 

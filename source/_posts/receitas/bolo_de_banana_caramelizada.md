@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (para a calda)
 - 1 xícara de chá de água (para a calda)
@@ -42,7 +42,6 @@ flags: []
 - Adicione a água com cuidado e mexa bem até o açúcar dissolver e formar uma calda;
 - Em uma vasilha, coloque as gemas, a manteiga, o açúcar e bata na batedeira até formar um creme clarinho;
 - Acrescente a farinha, o sal e bata até misturar bem. Reserve;
-- --
 
 ---
 

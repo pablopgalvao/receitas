@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Leve uma wok (ou frigideira grande) com 2 colheres (sopa) da manteiga ao fogo médio. Quando derreter, acrescente os rabanetes e doure por cerca de 8 minutos, mexendo de vez em quando. Regue com a água e mantenha a frigideira em fogo médio até secar e os rabanetes ficarem macios.
 - Acrescente mais 1 colher (sopa) de manteiga, tempere com sal e pimenta a gosto e desligue o fogo. Mexa a frigideira fazendo movimentos circulares para a manteiga derreter no calor dos rabanetes.
 - Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento e passe os orechiettes pelo escorredor.
-- --
 
 ---
 

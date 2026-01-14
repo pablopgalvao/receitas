@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +51,6 @@ flags: []
 - 1 colher (sopa) de óleo
 - Volte a frigideira ao fogo alto. Quando estiver bem quente regue com 1 colher (sopa) de óleo. Disponha as tranches de salmão, com a lateral em contato com a frigideira. Deixe dourar por 3 minutos, vire com uma espátula e deixe dourar por mais 2 minutos. Ele não vai chegar ao ponto do cozimento nesta etapa, não deixe tempo a mais, ele vai terminar de cozinhar no molho.
 - Transfira o salmão dourado para uma travessa. Descarte o excesso de gordura da frigideira e volte ao fogo alto. Despeje a mistura de shoyu – ela vai borbulhar no início, mas depois começa a engrossar. Deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando com uma espátula de silicone, até o molho engrossar e ficar brilhante – para verificar o ponto, raspe o fundo da frigideira com a espátula formando um caminho, o molho deve demorar para cobrir o fundo da panela novamente.
-- --
 
 ---
 

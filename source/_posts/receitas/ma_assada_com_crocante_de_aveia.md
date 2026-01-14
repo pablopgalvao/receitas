@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Lave, seque e corte as maçãs ao meio no sentido do comprimento. Com uma colher de café, retire e descarte o miolo e as sementes de cada metade.
 - Corte a manteiga em cubos pequenos e transfira para uma tigela. Junte a farinha, a aveia e o açúcar. Misture com as pontas dos dedos até formar uma farofa grossa - não amasse demais para a manteiga não desmanchar completamente.
 - Com uma colher, disponha a farofa de aveia sobre cada metade de maçã, formando um montinho. Leve ao forno preaquecido e deixe assar por cerca de 30 minutos, até dourar. Retire do forno e sirva a seguir ainda quente.
-- --
 
 ---
 

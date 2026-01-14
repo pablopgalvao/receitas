@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne macia em tiras
 - 1 colher de sopa de azeite
@@ -42,7 +42,6 @@ flags: []
 - Batata palha a gosto
 - Leve uma panela ao fogo baixo com azeite e manteiga. Refogue a cebola por 2 minutos, ou até murchar e dourar. A dica é picar bem fininho para a cebola quase desmanchar no molho. Se quiser, pode acrescentar um dente de alho triturado;
 - Adicione as tiras de carne, tempere com sal e pimenta, e espere dourar (cerca de 5 minutos). Se a panela for pequena, doure as tiras aos poucos, pois elas soltam líquido e cozinham no vapor ao invés de dourar. Na metade do tempo, vire as tiras de carne para garantir um dourado uniforme;
-- --
 
 ---
 

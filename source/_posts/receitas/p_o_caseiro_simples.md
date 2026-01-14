@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 190 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de água (240 ml)
 - 2 colheres de sopa de farinha de trigo (18 gramas)
@@ -45,7 +45,6 @@ flags: []
 - Após esse descanso, sove a massa, incorporando aos poucos a manteiga em temperatura ambiente. Caso ainda esteja muito grudenta, polvilhe levemente farinha de trigo apenas o suficiente para manusear melhor, a massa deve permanecer macia;
 - Transfira a massa para uma bancada enfarinhada, polvilhe um pouco de farinha por cima e modele no formato desejado;
 - Coloque a massa em uma forma untada (24x16cm) com manteiga e farinha, e polvilhe as sementes de gergelim;
-- --
 
 ---
 

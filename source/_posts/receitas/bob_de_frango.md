@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve ao fogo médio uma panela grande. Quando estiver quente, regue com 2 colheres (sopa) de azeite e doure os cubos de frango aos poucos, sem cobrir todo o fundo da panela - se colocar todos numa tacada só, em vez de selar e dourar, vão cozinhar no próprio líquido. Vire os cubos com uma pinça para dourar por igual. Transfira para outra tigela e repita com o restante do frango (não descarte o caldo de limão).
 - Acrescente o creme de mandioca ao refogado e misture bem. Quando ferver, volte o frango (com o caldo) para a panela, misture e deixe cozinhar por cerca de 2 minutos. Junte o leite de coco, o azeite de dendê e misture bem. Prove e tempere com sal a gosto.
 - Desligue o fogo, salpique com as folhas de coentro e sirva a seguir acompanhado de arroz branco.
-- --
 
 ---
 

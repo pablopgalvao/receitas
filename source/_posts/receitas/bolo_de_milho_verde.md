@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga em temperatura ambiente
 - 1 lata ou caixinha de leite condensado (395 gramas)
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Em um liquidificador, adicione os ovos, a manteiga e o leite condensado. Bata por cerca de 5 minutos;
 - Adicione o coco ralado, o queijo ralado e o fermento. Misture delicadamente com o auxílio de uma colher, sem bater;
-- --
 
 ---
 

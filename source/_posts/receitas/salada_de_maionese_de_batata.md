@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de vinagre (15 ml)
 - 1/2 xícara de chá de óleo (120 ml)
@@ -38,7 +38,6 @@ flags: []
 - Junte as claras às batatas e adicione o sal e o vinagre. Misture bem e reserve;
 - Vá adicionando o óleo aos poucos, em fio, mexendo vigorosamente o tempo todo para não desandar a maionese caseira;
 - Adicione o cheiro-verde à salada, misturando novamente para incorporar os sabores;
-- --
 
 ---
 

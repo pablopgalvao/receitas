@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 cenouras médias (300 gramas)
 - 3 batatas médias (450 gramas)
 - 2 beterrabas médias (400 gramas)
 - 1/3 de xícara de maionese
 - Coloque a salada de maionese sobre as folhas, formando uma camada central generosa;
-- --
 
 ---
 

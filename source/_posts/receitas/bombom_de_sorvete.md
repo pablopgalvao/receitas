@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Numa tigela, misture o iogurte drenado com o leite condensado. Preencha as cavidades das fôrmas com 1 colher (sopa) do creme e leve ao freezer por, no mínimo, 6 horas (se preferir, prepare no dia anterior).
 - 2 colheres (sopa) de óleo de coco
 - Misture o óleo de coco ao chocolate derretido ainda quente — esse é o truque da receita para que os bombons fiquem com uma camada bem fina de chocolate.
-- --
 
 ---
 

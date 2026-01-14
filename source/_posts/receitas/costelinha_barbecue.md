@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 195 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de costelinha de porco inteira
 - 1 colher de sopa de alho em pó
@@ -45,7 +45,6 @@ flags: []
 - 250 ml de água
 - Para a carne, em uma tigela, misture o alho, a páprica, o sal, o açúcar, a pimenta calabresa e o café solúvel;
 - Adicione o ketchup, a mostarda, o açúcar, o molho inglês, o vinagre e a água. Misture bem e cozinhe em fogo médio-baixo por 20 a 25 minutos com a panela tampada. Mexa a cada 5 minutos para não queimar. Se preferir uma textura mais lisa, bata no liquidificador. Reserve;
-- --
 
 ---
 

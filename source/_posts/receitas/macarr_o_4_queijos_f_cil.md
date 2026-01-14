@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de talharim ou espaguete
 - 2 colheres de sopa de manteiga sem sal
@@ -44,7 +44,6 @@ flags: []
 - Depois, aos poucos, vá adicionando o leite e mexendo com um batedor de arame (fouet), para não formar grumos no molho. Assim que a farinha incorporar com todo o leite, tempere com noz-moscada e continue mexendo até que o molho esteja levemente espesso;
 - Quando o molho engrossar levemente, coloque a mussarela e mexa até derreter por completo. Em seguida, coloque o provolone e mexa para incorporar. Adicione o parmesão e misture bem até derreter todo. E por fim, coloque o gorgonzola e mexa rapidamente;
 - Se o molho já estiver cremoso e reduzido, desligue o fogo. Caso ainda esteja muito líquido, cozinhe mais um pouco para reduzir e atingir a consistência ideal. Prove e, se necessário, acerte o sal e tempere com pimenta-do-reino - lembre-se que os queijos já possuem sal;
-- --
 
 ---
 

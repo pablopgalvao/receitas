@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de leite em pó (200 gramas)
 - 1 e 1/2 xícaras de chá de Ovomaltine (150 gramas)
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de chá de canela em pó (opcional)
 - Em uma tigela grande, adicione o leite em pó, o Ovomaltine, o café solúvel, o bicarbonato de sódio e a canela em pó (se desejar);
 - Misture muito bem todos os ingredientes secos com uma colher ou fouet (batedor de arame), até que estejam completamente incorporados;
-- --
 
 ---
 

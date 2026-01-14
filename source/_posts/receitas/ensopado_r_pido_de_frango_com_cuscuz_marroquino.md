@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 colher (chá) de sal
 - 1 xícara (chá) de água fervente
 - Numa tigela pequena, coloque o cuscuz marroquino e tempere com o azeite e o sal. Regue o cuscuz com a água fervente, misture e tampe com um prato para abafar. Deixe hidratar por 5 minutos. Solte os grãos com um garfo e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de chá de manteiga de garrafa (5 gramas)
 - 2 xícaras de chá de arroz branco (360 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Descasque os dentes de alho, amasse com o sal, e frite o bacon;
 - Leve uma panela ao fogo e adicione a manteiga de garrafa. Depois que derreter, refogue o alho até dourar levemente;
 - Depois, adicione a água e misture com uma colher. Deixe cozinhar em fogo médio, com a panela semiaberta, até que a maior parte do líquido evapore;
-- --
 
 ---
 

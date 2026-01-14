@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Quebre um ovo por vez numa tigela e transfira para uma tigela grande - se um não estiver bom, você não perde toda a receita. Junte o açúcar e o óleo e misture bem com um batedor de arame, até ficar um creme liso.
 - Com as costas de uma colher, aperte a mandioca numa peneira para retirar a água. Junte a mandioca na mistura de ovos, acrescente o coco e o queijo ralado. Misture com a colher, apenas para incorporar os ingredientes - o resultado é uma massa mais líquida com pedaços de mandioca, queijo e coco.
 - Coloque a massa às colheradas nas forminhas preparadas, sem ultrapassar - do volume (o bolinho cresce). Não aperte a massa nas forminhas. Se a massa na tigela começar a se separar, misture antes de transferir para as forminhas.
-- --
 
 ---
 

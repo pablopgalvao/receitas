@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de filé de tilápia
 - 20 ml de leite (ou água)
@@ -47,7 +47,6 @@ flags: []
 - Depois, cubra os filés com a mistura de ovo e leite. Por fim, empane com a farinha panko. Pressione delicadamente a farinha nos filés com as mãos, para grudar bem. Reserve os empanados;
 - Aqueça uma frigideira com óleo, aguarde esquentar bem. Jogue um pouquinho de farinha na frigideira e, se borbulhar, está quente o suficiente. Frite um filé por vez até dourar os dois lados;
 - Para fazer o molho, em uma tigela, adicione a maionese, o alho, o lemon pepper, o suco de limão, a cebola e o sal. Misture bem com uma colher para homogeneizar. Prove e, se sentir necessidade, ajuste os temperos;
-- --
 
 ---
 

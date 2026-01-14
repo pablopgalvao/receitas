@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Enquanto o macarrão cozinha, corte a manteiga gelada em cubos – assim ela derrete mais rápido na hora de fazer o molho.
 - Assim que o macarrão estiver cozido, reserve 1 xícara (chá) da água do cozimento e escorra o macarrão.
 - Volte o espaguete para a panela em que foi cozido e adicione ⅓ de xícara (chá) da água do cozimento reservada. Adicione a manteiga e mexa bem com uma espátula para derreter e envolver o macarrão. Junte o parmesão ralado, as raspas de limão e tempere com pimenta a gosto. Misture novamente e, caso necessário, acrescente um pouco mais da água do cozimento para deixar o molho mais fluido.
-- --
 
 ---
 

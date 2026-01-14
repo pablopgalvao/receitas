@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve ao fogo alto uma panela média com cerca de 1,5 litro de água. Assim que ferver, adicione ½ colher (sopa) de sal. Junte o macarrão e deixe cozinhar pelo tempo indicado na embalagem, até ficar al dente. Enquanto isso prepare os outros ingredientes.
 - Transfira para dois pratos e tempere com pimenta-do-reino moída na hora a gosto. Sirva a seguir.
-- --
 
 ---
 

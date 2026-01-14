@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Numa tigela grande, misture as farinhas com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar.
 - Junte o leite, em etapas e vá misturando com as mãos até formar uma massa úmida. Transfira a massa para a bancada de trabalho enfarinhada e sove por 3 minutos – no início a massa pode grudar nos dedos, mas ela fica mais consistente durante a sova.
 - Leve uma frigideira grande (de preferência de ferro, ou uma chapa), para aquecer em fogo alto. Polvilhe farinha na bancada e, com um rolo de macarrão, abra uma porção da massa até formar um disco de 22 cm de diâmetro. Quando a frigideira estiver bem quente, coloque o disco e faça vários furos com um garfo – isso evita que a massa infle ao assar. Diminua o fogo para médio e deixe assar por 3 minutos, até que o lado em contato com a frigideira esteja dourado e com pintinhas chamuscadas. Com uma espátula (ou pinça), vire e deixe dourar por mais 2 minutos dourar por igual.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - cebolinha fatiada a gosto para servir
 - Leve uma frigideira média (de preferência antiaderente) ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite, junte a cenoura e a abobrinha, tempere com uma pitada de sal e refogue por 2 minutos, até murchar. Junte alho e mexa por 1 minuto para perfumar.
 - Acrescente o restante do azeite, junte o arroz e deixe fritar por cerca de 10 minutos, mexendo de vez em quando, até ficar bem dourado – raspe o fundo da frigideira com a espátula para soltar os queimadinhos e deixar os grãos bronzeados. Tempere com sal e pimenta a gosto. Sirva a seguir com cebolinha fatiada a gosto.
-- --
 
 ---
 

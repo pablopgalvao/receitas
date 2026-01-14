@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Enquanto isso, leve uma frigideira grande ao fogo médio para aquecer. Regue com ¼ de xícara (chá) de azeite, adicione a cebola, tempere com uma pitada de sal e deixe dourar, mexendo de vez em quando, por cerca de 8 minutos.
 - Reserve 2 colheres (sopa) de pistache picado para decorar e junte o restante à cebola. Adicione o damasco, a azeitona, tempere com a canela e ½ colher (chá) de sal. Mexa por 2 minutos para perfumar.
 - Solte o cuscuz marroquino com um garfo. Junte o refogado, adicione as raspas de limão e misture delicadamente. Transfira para uma travessa, polvilhe com o restante do pistache e salpique as folhas de coentro. Sirva a seguir.
-- --
 
 ---
 

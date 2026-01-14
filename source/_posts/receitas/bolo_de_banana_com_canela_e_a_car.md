@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Transfira metade da massa para a forma já untada. Posicione 3 bananas fatiadas e polvilhe a mistura de açúcar e canela sobre elas;
 - Adicione 3 bananas cortadas em rodelas, polvilhe com açúcar e canela;
 - Retire do forno e polvilhe mais um pouco de açúcar se desejar. Sirva ainda morno com uma xícara de chá ou café. Bom apetite!
-- --
 
 ---
 

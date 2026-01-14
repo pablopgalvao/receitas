@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 10 fatias de pão de forma (240 gramas)
 - Separe as fatias de pão que você utilizará. É importante optar pelo pão de forma com a massa branca, para que a farinha fique com a cor característica. Preaqueça o forno a 180 ºC;
 - Transfira os pães cortados para um liquidificador ou processador. Triture por cerca de 30 segundos ou até obter uma farinha grossa com os farelos;
 - Transfira a farinha para uma forma antiaderente rasa e espalhe por toda a superfície. Leve ao forno preaquecido por cerca de 15 minutos. A cada 5 minutos, abra o forno e misture a farinha, para desidratar completamente;
 - Retire do forno e espere a farinha esfriar completamente. Depois é só armazenar em um pote com fecho hermético e utilizar nas suas receitas!
-- --
 
 ---
 

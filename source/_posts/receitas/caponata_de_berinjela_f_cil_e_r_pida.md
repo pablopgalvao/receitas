@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 berinjela grande (620 gramas)
 - 1/2 pimentão amarelo (140 gramas)
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de sopa de sal (ou a gosto)
 - Transfira a berinjela e o tomate para a panela e misture tudo até incorporar todos os ingredientes. Adicione o sal e deixe refogar em fogo baixo por aproximadamente 12 minutos, ou até que a berinjela murche o suficiente;
 - Passado o tempo, despeje o restante do azeite, as azeitonas, as nozes e o orégano a gosto. Acerte o sal se achar necessário, mexa por mais 1 minutinho e desligue o fogo;
-- --
 
 ---
 

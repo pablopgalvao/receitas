@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 1 colher (chá) de açúcar
 - cubos de gelo a gosto
 - Numa tábua, corte o limão com a casca ao meio e despreze as sementes. Corte uma das metades em quatro partes e transfira para um copo alto. Adicione o açúcar, as folhas de hortelã restantes e, com um macerador, amasse bem. Junte a dose de rum e misture.
-- --
 
 ---
 

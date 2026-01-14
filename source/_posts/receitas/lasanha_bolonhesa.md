@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Retire a panela do fogo e, sem parar de mexer, acrescente metade do leite. Mexa vigorosamente e, de preferência, com um batedor de arame para desmanchar os gruminhos de farinha. Volte a panela ao fogo médio, junte o restante do leite e continue mexendo até ferver.
 - Quando começar a ferver, abaixe o fogo e tempere com sal, pimenta-do-reino e noz-moscada. Deixe cozinhar por cerca de 12 minutos, mexendo de vez em quando até o molho engrossar levemente (ele deve ficar ainda líquido pois irá hidratar a massa e engrossar durante o cozimento no forno).
 - ¾ de xícara (chá) de queijo parmesão ralado
-- --
 
 ---
 

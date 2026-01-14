@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 xícara de chá de água quente (240 ml)
@@ -39,7 +39,6 @@ flags: []
 - Em uma tigela grande, misture o açúcar com a água quente. Acrescente o óleo e misture com um fouet (batedor de arame), até derreter um pouco do açúcar;
 - Adicione o sal, a essência de baunilha e, aos poucos, vá incorporando a farinha de trigo, mexendo sempre para evitar grumos;
 - Unte uma forma redonda média (20cm de diâmetro) com margarina e farinha de trigo;
-- --
 
 ---
 

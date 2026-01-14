@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - mexico
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Coentro picado a gosto
 - 2 colheres de sopa de azeite
 - Sal e pimenta-do-reino a gosto
 - Lave bem o coentro e pique-o fininho. Coloque o coentro juntamente com o purê de avocado e os cubinhos de tomate. Tempere com azeite, sal e pimenta-do-reino;
 - Com uma colher, misture todos os ingredientes até incorporar bem. Leve à geladeira por alguns minutos antes de servir;
-- --
 
 ---
 

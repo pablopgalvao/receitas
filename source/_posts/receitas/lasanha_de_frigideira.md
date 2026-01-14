@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 fio de óleo
 - 500 gramas de carne moída
@@ -45,7 +45,6 @@ flags: []
 - Em uma frigideira quente com óleo, refogue o alho e a cebola;
 - Acrescente a carne moída e tempere com sal, pimenta, páprica e orégano. Refogue bem;
 - Desligue o fogo e salpique cheiro-verde. Misture;
-- --
 
 ---
 

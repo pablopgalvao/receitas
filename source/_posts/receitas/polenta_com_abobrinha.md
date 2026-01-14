@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - Leve uma panela média ao fogo médio para aquecer. Regue com o azeite, junte a abobrinha, o tomilho debulhado, tempere com uma pitada de sal, pimenta-do-reino e noz-moscada a gosto. Deixe cozinhar por cerca de 8 minutos, mexendo de vez em quando — assim a abobrinha fica mais saborosa, sem soltar muita água, e levemente douradinha. Reserve a abobrinha numa tigela enquanto prepara a polenta, na mesma panela (nem precisa lavar!).
 - Desligue o fogo e misture a manteiga e o queijo parmesão até derreter. Por último, misture a abobrinha refogada e sirva a seguir.
-- --
 
 ---
 

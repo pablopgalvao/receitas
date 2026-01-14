@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 kg de sarapatel (miúdos de boi, porco ou carneiro)
 - 4 colheres de chá de páprica defumada
@@ -42,7 +42,6 @@ flags: []
 - Em uma tigela, coloque os miúdos e tempere com páprica, pimenta-do-reino, sal e os dentes de alho amassados. Misture bem e deixe descansar por uns 10 minutos;
 - Com a tampa fechada, cozinhe por aproximadamente 35 minutos, mexendo a cada 5 minutos. Nos últimos 10 minutos, prove o sabor e acerte sal se necessário. Os miúdos devem estar com uma consistência macia;
 - Desligue o fogo e finalize com o coentro. Sirva quentinho acompanhado de arroz, farinha e molho de pimenta. Bom apetite!
-- --
 
 ---
 

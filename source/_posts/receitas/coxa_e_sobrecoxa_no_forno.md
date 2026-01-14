@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 115 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,4 kg de coxa e sobrecoxa de frango
 - 1 colher de chá de sal (ou a gosto)
@@ -37,7 +37,6 @@ flags: []
 - Orégano a gosto (opcional)
 - Em seguida, incorpore os dentes de alho amassados e a cebola ralada, misturando bem com as mãos. Ajuste o sal se necessário;
 - Despeje o restante do tempero que ficou no recipiente, depois salpique orégano por cima, se desejar;
-- --
 
 ---
 

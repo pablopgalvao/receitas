@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 e 1/2 xícara de farinha de trigo (460 gramas)
 - 24 colheres de sopa de manteiga (360 gramas)
@@ -49,7 +49,6 @@ flags: []
 - Adicione o frango cozido e desfiado e misture bem. Tempere com sal, pimenta-do-reino, páprica defumada e alho em pó;
 - Para a massa, misture a farinha e o sal em uma tigela grande. Adicione a manteiga em ponto de pomada e incorpore com as pontas dos dedos até formar uma massa homogênea e moldável;
 - Salpique a mussarela ralada por cima do catupiry;
-- --
 
 ---
 

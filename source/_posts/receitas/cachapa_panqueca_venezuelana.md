@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de chá de açúcar
 - 1/2 colher de chá de sal
@@ -36,7 +36,6 @@ flags: []
 - 1 colher de sopa de manteiga
 - Transfira esse milho para uma tigela e adicione o açúcar, o sal e os ovos, misturando bem com uma colher até ficar uniforme;
 - Aqueça uma frigideira pequena própria para panquecas (base de 15cm), de preferência, adicione manteiga e óleo. Misture e espere dissolver completamente;
-- --
 
 ---
 

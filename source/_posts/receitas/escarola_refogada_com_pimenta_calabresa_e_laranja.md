@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Esprema o caldo da laranja, coe e misture com o amido de milho e uma pitada de sal. Reserve.
 - Transfira a escarola fatiada para uma tigela, cubra com água e lave bem. Seque a escarola lavada numa centrífuga de saladas — quanto mais sequinha estiver, melhor para refogar.
 - Leve a frigideira ao fogo médio por 1 minuto para aquecer e perfumar o azeite com o alho e a pimenta. Adicione a escarola, tempere com uma pitada de sal e refogue por cerca de 2 minutos — é rapidinho mesmo; a ideia é que a escarola murche levemente, mantenha a cor bem viva e ainda tenha textura crocante na mordida.
-- --
 
 ---
 

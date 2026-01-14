@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ½ colher (chá) de mostarda em grão
 - sal a gosto
 - Lave, seque e coloque os pimentões inteiros no cesto da Air Fryer. Feche a gaveta e deixe assar pelo tempo programado. Na metade do tempo, vire os pimentões com uma pinça para a pele tostar de maneira uniforme.
-- --
 
 ---
 

@@ -28,7 +28,6 @@ flags: []
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +37,6 @@ flags: []
 - 1/4 de colher de café de canela em pó (ou a gosto)
 - 1 cravo (ou a gosto)
 - 1 banana amassada
-
 
 ---
 

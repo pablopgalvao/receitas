@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - azeite a gosto
 - sal a gosto
 - Leve uma bistequeira (ou frigideira) antiaderente ao fogo médio. Quando aquecer, regue com um fio de azeite e disponha as fatias uma ao lado da outra, sem sobrepor. Tempere com uma pitada de sal e deixe dourar por 3 minutos de cada lado até ficarem macios e marcados pela grelha. Transfira para um prato e repita com o restante. Sirva a seguir. Fica uma delícia com molho de tahine.
-- --
 
 ---
 

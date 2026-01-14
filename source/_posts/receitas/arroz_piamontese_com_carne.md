@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 colher de sopa de sal (ou a gosto)
 - 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
@@ -43,7 +43,6 @@ flags: []
 - Para o preparo da carne, tempere os medalhões com sal e pimenta-do-reino;
 - Em uma frigideira grande, adicione a manteiga. Quando derreter, acrescente os dentes de alho e o alecrim desidratado, refogue por alguns segundos;
 - Em outra panela, adicione mais manteiga. Nela, refogue a cebola até que fique bem douradinha;
-- --
 
 ---
 

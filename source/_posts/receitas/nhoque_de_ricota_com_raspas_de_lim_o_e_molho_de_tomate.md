@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Numa tigela grande esfarele a ricota com as mãos. Em outra tigela pequena, quebre os ovos, um de cada vez, e junte à ricota – se um estiver estragado você não perde a receita. Adicione ½ xícara (chá) de queijo parmesão ralado, as raspas do limão siciliano e as folhas de tomilho debulhadas. Tempere com o sal, noz-moscada e pimenta a gosto e misture bem com uma colher. Junte a farinha de trigo aos poucos, misturando com as mãos, até formar uma massa úmida que não grude nos dedos.
 - Num refratário que possa ir ao forno, coloque um pouco do molho de tomate, apenas para cobrir o fundo. Disponha os nhoques um ao lado do outro, cubra com o restante do molho e polvilhe com parmesão ralado a gosto.
 - Leve ao forno para assar por cerca de 20 minutos, até que os nhoques estejam cozidos e firmes. Sirva a seguir. Fica uma delícia acompanhado de salada de espinafre.
-- --
 
 ---
 

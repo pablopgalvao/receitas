@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal a gosto
 - Retire as folhas da tigela em vez de escorrer – assim eventuais sujeirinhas ficam no fundo. Enxágue sob água corrente e seque bem numa centrífuga de saladas (se preferir, deixe uns minutinhos no escorredor de macarrão).
 - Transfira as folhas para um tigela, regue com o limão, azeite e tempere com sal. Junte as lascas de parmesão, misture delicadamente e sirva a seguir.
-- --
 
 ---
 

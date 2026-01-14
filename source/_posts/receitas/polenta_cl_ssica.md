@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 colher (chá) de sal
 - Assim que ferver, adicione o sal e diminua o fogo para médio. Acrescente a sêmola de milho, em fio constante, mexendo com um batedor de arame para não empelotar.
 - Desligue o fogo, adicione o queijo e a manteiga. Misture bem para a manteiga derreter e a polenta ficar cremosa. Sirva imediatamente.
-- --
 
 ---
 

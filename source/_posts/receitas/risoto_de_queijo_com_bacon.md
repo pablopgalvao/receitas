@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz arbóreo
 - ½ xícara de chá de vinho branco seco
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela grande, adicione a água e o caldo de legumes dissolvido. Caso opte por fazer o caldo de legumes natural, adicione a essa água pedaços de cenoura, cebola, salsão, alho e ervas. Depois de 20 minutos de fervura, coe e reserve;
 - Em outra panela, frite o bacon em cubinhos. Não precisa adicionar óleo, ele já solta bastante gordura. Assim que ficar bem dourado e crocante, reserve mantendo o óleo na panela;
 - Desligue o fogo e adicione a manteiga e misture. Isso vai ajudar a dar cremosidade e brilho ao prato;
-- --
 
 ---
 

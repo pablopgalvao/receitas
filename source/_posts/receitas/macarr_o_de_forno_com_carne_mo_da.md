@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 fio de óleo vegetal
 - Sal a gosto
@@ -43,7 +43,6 @@ flags: []
 - Acrescente a carne e misture com os outros ingredientes para fritar. Quando a carne já estiver bem douradinha, tempere com sal e pimenta, e mexa novamente para incorporar;
 - Agora é hora de cozinhar o macarrão. Coloque a massa em uma panela com água fervente e sal. Retire 1 minuto antes do tempo indicado na embalagem e escorra o macarrão. É importante que ele fique al dente, para dar estrutura ao prato;
 - Despeje o restante do molho por cima, para cobrir tudo. Finalize com mais mussarela sobre o molho, em fatias ou ralada. Salpique orégano sobre o queijo e leve ao forno a 200 ºC por 15 minutos para gratinar;
-- --
 
 ---
 

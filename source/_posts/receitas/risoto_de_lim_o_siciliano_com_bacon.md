@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de arroz arbóreo
 - 200 gramas de bacon
@@ -39,7 +39,6 @@ flags: []
 - Agora, entre com o arroz arbóreo, uma pitada de sal e refogue por mais 1 minutinho;
 - Continue o processo de adição de caldo até que arroz cozinhe em ponto al dente. Prove e corrija o sal, se necessário;
 - Por fim, desligue o fogo, espalhe o bacon crocante por cima do risoto e salpique raspas do limão;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de carne patinho moído
 - Pimenta-de-cheiro a gosto
@@ -42,7 +42,6 @@ flags: []
 - Separe um recipiente e coloque a carne moída. Adicione metade do tomate e da cebola, a pimenta-de-cheiro, o alho, o coentro, o sal e a pimenta-preta. Incorpore tudo, mexendo com uma colher;
 - Em uma panela, adicione azeite e refogue o restante da cebola. Junte o restante do tomate, alho, sal e molho de tomate, sempre mexendo;
 - Quando o molho reduzir, acomode os charutos na panela e adicione água. Ajuste o sal, se necessário, e coloque o coentro. Cozinhe em fogo médio por 30 minutos;
-- --
 
 ---
 

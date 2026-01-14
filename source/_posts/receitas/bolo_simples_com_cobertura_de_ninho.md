@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
@@ -35,7 +35,6 @@ flags: []
 - 100 gramas de chantilly batido
 - No liquidificador, bata os ovos, o açúcar, o óleo e o leite;
 - Misture a farinha aos poucos e finalize com o fermento;
-- --
 
 ---
 

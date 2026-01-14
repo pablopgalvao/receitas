@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Numa panela grande, coloque 1 colher (sopa) de manteiga e leve ao fogo médio. Quando derreter, junte o alho e refogue por 1 minuto, apenas para perfumar.
 - Adicione a abóbora, tempere com o sal, regue com a água e deixe cozinhar até ferver. Tampe a panela, abaixe o fogo e cozinhe por cerca de 20 minutos, ou até a abóbora ficar bem macia — a quantidade de água é pequena mesmo, o que evita um purê aguado.
 - Desligue o fogo e, com o mixer, bata a abóbora ainda quente, direto na panela, até formar um purê bem lisinho e cremoso. Tempere com noz-moscada a gosto, junte a manteiga restante e misture bem até derreter. Prove e, se necessário, ajuste o sal.
-- --
 
 ---
 

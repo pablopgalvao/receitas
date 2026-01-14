@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de óleo
 - 1/2 xícara de chá de açúcar (90 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Em uma tigela, misture o ovo, o açúcar e o óleo até formar uma pastinha;
 - Acrescente a farinha de trigo e o fermento em pó, e incorpore até formar uma massa homogênea;
 - Unte uma forma pequena (16 cm de diâmetro) com óleo/manteiga e farinha de trigo;
-- --
 
 ---
 

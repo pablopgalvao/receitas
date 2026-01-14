@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml de água fervendo
 - 300 ml de leite
 - Óleo (para untar a forma)
 - Despeje em uma forma de pudim untada com óleo, cubra com plástico filme e leve para a geladeira por cerca de 4 a 6 horas (ou de um dia para o outro);
-- --
 
 ---
 

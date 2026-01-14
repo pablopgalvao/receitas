@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de bacon
 - 1 cebola média (80 gramas)
@@ -47,7 +47,6 @@ flags: []
 - Tempere com sal e pimenta-do-reino. Com uma colher, comece a mexer os ovos ainda crus na panela. As claras e as gemas vão se misturarem, cozinhando juntas. Assim que os ovos mexidos estiverem cozidos, desligue o fogo, acrescente o bacon refogado e misture;
 - Verifique se a água do arroz secou e se ele está completamente cozido. Desligue o fogo, deixe o arroz descansar por 10 minutos. Em um refratário, despeje o arroz e os ovos mexidos. Acrescente o cheiro-verde e misture até incorporar os ingredientes;
 - Na hora de servir, salpique batata palha a vontade por cima. Agora é só aproveitar!
-- --
 
 ---
 

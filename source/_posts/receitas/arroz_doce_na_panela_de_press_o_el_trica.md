@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 pitada de sal
 - canela em pó a gosto para servir
 - Na panela de pressão elétrica, coloque o arroz, o leite, a água, a casca de laranja, a rama de canela, os cravos e o sal. Misture, tampe e programe a panela para cozinhar na pressão alta por 10 minutos.
-- --
 
 ---
 

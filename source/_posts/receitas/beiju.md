@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de mandioca fresca descascada
 - Cerca 100 ml de água
@@ -35,7 +35,6 @@ flags: []
 - Sal a gosto
 - Coloque a massa coada em uma tigela, tempere com sal e, com as mãos, esfregue e misture a massa para ficar mais soltinha, sem grumos. A massa ficará mais rústica, deixando o beiju crocante por fora e macio por dentro depois de assar;
 - Assim que as bordas do beiju começarem a soltar e a cor do beiju ficar um pouco mais branca, com uma espátula, vire o beiju para assar do outro lado. Passe um pouco de manteiga por cima para finalizar. Se quiser, faça mais beiju ou guarde a massa na geladeira;
-- --
 
 ---
 

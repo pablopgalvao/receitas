@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - nozes torradas e picadas a gosto para servir
 - Na mesma frigideira onde os nhoques foram dourados, abaixe o fogo, acrescente 1 colher (sopa) de manteiga e as folhas de sálvia. Deixe cozinhar por alguns segundos, até perfumar e desligue o fogo – reserve 1 ramo de sálvia crocante para servir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de azeite (15 ml)
 - 1 colher de sopa de cebola (15 gramas)
@@ -39,7 +39,6 @@ flags: []
 - 1/2 colher de sopa de mostarda (7 gramas)
 - 4 colheres de sopa de água (60 ml)
 - Acrescente o açúcar mascavo, o molho inglês, o vinagre de álcool, o ketchup, a mostarda e a água;
-- --
 
 ---
 

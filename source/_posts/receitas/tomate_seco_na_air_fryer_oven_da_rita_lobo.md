@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Transfira os tomates para uma tigela grande, misture o açúcar com o sal e espalhe bem com as mãos nos tomates. Deixe descansar por 30 minutos, ou até começar a escorrer um pouco da água dos tomates.
 - Enquanto isso, lave e seque bem as folhas de manjericão — quanto mais sequinhas estiverem, melhor para a conserva. Numa tigela pequena, misture o orégano com as sementes de erva-doce. Numa jarra, misture o óleo com o azeite — esse é o truque para que o azeite não endureça na geladeira.
 - Num pote de vidro esterilizado, com capacidade para 600 ml, coloque ¼ da mistura de óleo com azeite. Faça camadas com os tomates, os dentes de alho, a mistura de orégano com semente de erva-doce e as folhas de manjericão. Cubra com o restante do óleo e bata delicadamente no fundo do pote para tirar as bolhas de ar que ficarem entre os tomates. Tampe e armazene na geladeira por até 1 mês.
-- --
 
 ---
 

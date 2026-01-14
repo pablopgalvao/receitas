@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - sal moído na hora a gosto
 - pimenta-do-reino moída na hora a gosto
 - Com o dedão, aperte o centro dos hambúrgueres para fazer um buraquinho — isso ajuda a manter o formato durante o cozimento. Tempere as duas superfícies dos hambúrgueres com sal e pimenta moídos na hora — além de salgar, o sal moído na hora também dá textura aos hambúrgueres.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 pacote de biscoito maisena (200 gramas)
 - 120 gramas de manteiga (derretida)
@@ -39,7 +39,6 @@ flags: []
 - Morangos a gosto para decorar
 - Transfira para um recipiente, coloque a manteiga e misture até ficar bem incorporado e formar uma farofinha úmida;
 - Em uma batedeira, adicione o açúcar e as gemas. Bata até formar um creme branquinho;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1kg de batata
 - Sal a gosto
@@ -51,7 +51,6 @@ flags: []
 - Tempere o molho com pimenta-do-reino, noz-moscada ralada e sal. Misture e está prontinho. Reserve;
 - Volte para o preparo da calabresa. Coloque a cebola, o alho, o tomate e refogue muito bem. Finalize com salsinha e reserve o recheio;
 - Amasse as batatas e tempere-as com sal, pimenta, lemon pepper, alho em pó e salsinha. Coloque o creme de leite e a manteiga, incorpore tudo;
-- --
 
 ---
 

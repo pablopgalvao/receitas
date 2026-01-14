@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de farinha de aveia
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
@@ -35,7 +35,6 @@ flags: []
 - Manteiga para untar
 - Em um recipiente, quebre os ovos e bata usando um fouet;
 - Usando a manteiga, unte uma forma e despeje a massa do bolo;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de chá de sal
 - 3 colheres de sopa de manteiga
@@ -41,7 +41,6 @@ flags: []
 - Acrescente as 450 gramas de farinhas e mexa tudo com o auxílio de uma espátula, até que fique bem homogêneo;
 - Enfarinhe a batedeira ou bancada e comece a sovar a massa. Adicione mais 40 gramas de farinha depois de 5 minutos de sova, até desgrudar das mãos;
 - Unte a forma (27x11x5) com um pouco de manteiga ou margarina e farinha. Posicione as tranças na assadeira, cubra novamente e deixe descansar por mais 30 minutos
-- --
 
 ---
 

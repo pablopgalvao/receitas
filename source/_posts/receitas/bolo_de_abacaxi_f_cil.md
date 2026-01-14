@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de chá de suco natural de abacaxi (200ml)
 - 1/2 xícara de chá de abacaxi picado (125 gramas)
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, adicione os ovos, o açúcar, a manteiga, a farinha de trigo e o suco natural de abacaxi. Bata bem, até chegar num resultado homogêneo;
 - Transfira a mistura para uma tigela grande e adicione a farinha de trigo peneirada e o fermento, mexendo delicadamente para que não perca seu efeito;
 - Unte uma forma de 23 X 33 cm com óleo e farinha;
-- --
 
 ---
 

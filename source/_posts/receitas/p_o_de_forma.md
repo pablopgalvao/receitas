@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de fermento biológico seco
 - 1 colher de sopa de açúcar
@@ -43,7 +43,6 @@ flags: []
 - Após o crescimento, transfira a massa para a bancada enfarinhada. Aperte-a com as pontas dos dedos para retirar o ar, e divida em 2 partes iguais;
 - Usamos formas de bolo inglês (22 cm x 10 cm) untadas com manteiga e enfarinhadas. Se quiser, enrole o pão como preferir. Também é possível utilizar uma assadeira grande, deixando um bom espaço entre um pão e o outro;
 - Pincele os pães com uma gema de ovo batida (use um garfo para bater o ovo em uma xícara. Para pincelar, use um pincel de culinária ou espalhe delicadamente com uma colher). Leve os pães ao forno preaquecido a 180 °C por cerca de 30 minutos;
-- --
 
 ---
 

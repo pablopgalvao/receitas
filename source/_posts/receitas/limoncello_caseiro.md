@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 1½ xícara (chá) de açúcar
 - 1½ xícara (chá) de água
 - Junte a calda de açúcar ao pote com vodca e cascas de limão, misture, tampe e deixe descansar por mais 5 dias (se estiver com tempo, deixe descansar por 1 semana; o licor fica ainda mais gostoso).
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 700 gramas de galinha picada
 - 2 xícaras de chá de arroz
@@ -37,7 +37,6 @@ flags: []
 - Tempere a galinha a gosto, com os temperos que preferir. Utilizamos sal, pimenta-do-reino, colorau, alho, vinagre e chimichurri. Deixe marinando por, pelo menos, 30 minutos;
 - Em uma panela grande, aqueça o óleo, coloque a galinha e espere fritar bem, aproximadamente 5 minutos em fogo médio. De vez em quando, mexa para não grudar no fundo da panela;
 - Por fim, acrescente a água, misture e experimente o caldo. Se necessário, ajuste os temperos e o sal;
-- --
 
 ---
 

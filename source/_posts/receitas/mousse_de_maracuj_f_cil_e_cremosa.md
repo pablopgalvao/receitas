@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 250 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 envelope de gelatina sem sabor (8 gramas)
 - 5 colheres de sopa de água
@@ -39,7 +39,6 @@ flags: []
 - 3 colheres de sopa de suco de maracujá natural (apenas a poupa coada)
 - 3 colheres de sopa de açúcar
 - Com a mousse já pronta e textura consistente, comece a preparar a calda. Em uma panela, fora do fogo, coloque a água e o amido de milho - misture bem para dissolver. Acrescente o suco de maracujá natural e o açúcar;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Assim que ferver, abaixe o fogo, tempere com o sal e noz-moscada a gosto. Deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando com a espátula, até formar um molho mais espesso. Reserve.
 - Leve uma panela grande com cerca de 3 litros de água ao fogo alto para ferver. Acrescente 1½ colher (sopa) de sal, adicione o macarrão e deixe cozinhar pelo tempo da embalagem, ou até ficar al dente, mexendo de vez em quando para não grudarem uns nos outros.
 - Assim que o macarrão estiver cozido, escorra a água e volte a massa para a panela. Misture com o molho branco e sirva a seguir com as ervilhas assadas, lascas de parmesão, pimenta calabresa seca e endro a gosto.
-- --
 
 ---
 

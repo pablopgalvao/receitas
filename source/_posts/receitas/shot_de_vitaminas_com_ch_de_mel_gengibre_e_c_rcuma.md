@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - oriental
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de água fervente
 - 1 colher de chá de mel
 - 1 colher de café de cúrcuma em pó
 - 1 pitada de pimenta-do-reino preta
 - Agora, acrescente 40 a 50 ml da infusão de chá e mexa vigorosamente até tudo se incorporar;
-- --
 
 ---
 

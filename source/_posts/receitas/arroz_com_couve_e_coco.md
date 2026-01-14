@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Numa frigideira média, misture o coco com 1 colher (sopa) de azeite. Espalhe o coco na frigideira e leve ao fogo médio. Mexa de vez em quando por cerca de 2 minutos, ou até o coco dourar.
 - Transfira o coco para a tigela com o arroz, raspando bem o fundo da frigideira com uma espátula para tirar qualquer pedacinho que tiver sobrado e também o óleo residual do coco.
-- --
 
 ---
 

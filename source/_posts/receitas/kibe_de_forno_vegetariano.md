@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de trigo para quibe
 - 1 pacote de creme de cebola (60 gramas)
@@ -42,7 +42,6 @@ flags: []
 - 750 ml de água
 - Transfira o trigo escorrido para uma tigela grande e adicione o creme de cebola, a cebola picada, o tomate, o cheiro-verde, a aveia, a páprica, a pimenta, as azeitonas e o sal. Misture com as mãos até incorporar bem os ingredientes;
 - Unte uma assadeira média com azeite e distribua a massa de kibe, alisando com as costas de uma colher para nivelar a superfície;
-- --
 
 ---
 

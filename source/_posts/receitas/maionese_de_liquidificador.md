@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal a gosto
 - Antes de começar o preparo, coloque o óleo na geladeira e deixe por pelo menos 15 minutos - o óleo gelado emulsiona melhor a maionese.
 - Numa tigela pequena quebre o ovo e transfira para o liquidificador. Junte as gemas, a mostarda, o vinagre e tempere com uma pitada de sal. Tampe e bata apenas para misturar.
-- --
 
 ---
 

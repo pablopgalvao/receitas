@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com o azeite, adicione a cebola, a cenoura e o salsão. Tempere com uma pitada de sal e pimenta a gosto e refogue por cerca de 3 minutos até murchar.
 - Junte a abóbora, regue com 2 ½ xícaras (chá) de água (se preferir uma sopa menos cremosa, utilize 3 xícaras de água).
-- --
 
 ---
 

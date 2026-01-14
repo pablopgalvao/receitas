@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Passado o tempo de descanso, retire a mistura de coco e açúcar da geladeira, junte as gemas peneiradas e misture com uma espátula de silicone para incorporar – evite bater a massa, isso pode deixar o quindim opaco; no início ela parece dura mas vai amolecendo conforme as gemas vão sendo incorporadas. Deixe a massa descansar na tigela em temperatura ambiente por 30 minutos enquanto o forno pré aquece – esse descanso também ajuda a garantir um quindão saboroso e brilhante.
 - Preaqueça o forno a 180 °C (temperatura média). Leve uma chaleira com cerca de 7 xícaras de água ao fogo médio – ela vai ser usada para assar o quindim em banho-maria, é bastante água mesmo, para não secar no forno.
 - Unte generosamente com manteiga uma fôrma com furo no meio de 18 cm de diâmetro. Polvilhe com açúcar para cobrir bem a superfície e ainda sobrar uma camadinha fina no fundo da fôrma (cerca de 2 colheres (sopa) são suficientes).
-- --
 
 ---
 

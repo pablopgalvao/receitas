@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de leite condensado (395 gramas)
 - 1 caixa de creme de leite (200 gramas)
@@ -38,7 +38,6 @@ flags: []
 - 250 ml de água quente
 - 250 ml de água fria
 - Despeje o creme em uma forma redonda, com furo central e untada com óleo. Cubra com plástico filme e leve para a geladeira por 2 horas ou até firmar bem. Reserve
-- --
 
 ---
 

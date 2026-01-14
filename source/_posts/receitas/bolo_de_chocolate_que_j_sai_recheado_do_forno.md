@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga
 - 1 xícara de chá de leite
@@ -49,7 +49,6 @@ flags: []
 - Com o creme já frio, distribua colheradas por cima da massa crua, uma colherada ao lado da outra. Leve ao forno preaquecido a 180ºC por cerca de 40 a 50 minutos;
 - Em uma panela fora do fogo, coloque a manteiga, o leite, o açúcar e o chocolate em pó. Misture bem todos os ingredientes;
 - Desenforme o bolo, despeje a cobertura por cima e salpique o granulado;
-- --
 
 ---
 

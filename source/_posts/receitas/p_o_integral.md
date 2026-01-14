@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de farinha de trigo integral
 - 10 gramas (1 sachê) de fermento biológico seco
@@ -42,7 +42,6 @@ flags: []
 - Gradualmente, coloque a farinha integral enquanto continua mexendo a mistura, com uma colher, até incorporar. Vá controlando a quantidade de farinha para uniformizar a massa. Se ficar muito dura, coloque um pouquinho mais de água;
 - Se a massa estiver grudando na mão, continue sovando. Não acrescente farinha nessa etapa, pois pode ressacar o pão;
 - Passado o tempo de crescimento, divida a massa em duas partes mais ou menos iguais. Na bancada enfarinhada, abra uma das partes com um rolo de massa, com aproximadamente 1 cm de espessura. Enrole o pão na horizontal, como um rocombolê;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola, tempere com uma pitada de sal e refogue por cerca de 5 minutos, até começar a dourar. Adicione o alho e o cominho e mexa por mais 1 minuto para perfumar. Acrescente 2 conchas do feijão cozido (com caldo), misture e amasse os grãos com a espátula - esse purê ajuda a engrossar o caldo.
 - Transfira o refogado com os grãos amassados para a panela com o feijão cozido. Tempere com sal e pimenta a gosto, misture e deixe cozinhar em fogo baixo, sem a tampa, por mais 10 minutos, ou até o caldo engrossar - o tempo pode variar de acordo com a consistência desejada, mais ralo ou mais cremoso. Mexa de vez em quando para não grudar no fundo da panela. Desligue o fogo e sirva a seguir.
-- --
 
 ---
 

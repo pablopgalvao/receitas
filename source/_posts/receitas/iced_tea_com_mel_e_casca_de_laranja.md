@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 ml de água fervente
 - 2 colheres de sopa de mel (ou a gosto)
@@ -35,7 +35,6 @@ flags: []
 - Gelo a gosto
 - Em uma jarra média, adicione os sachês e as cascas. Despeje os 500 ml de água fervente e deixe em infusão por 5 minutos;
 - Complete a jarra com os 500 ml de água gelada e bastante gelo. Misture delicadamente para resfriar;
-- --
 
 ---
 

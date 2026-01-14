@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 240 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de farinha de trigo
 - 60 ml de água
@@ -38,7 +38,6 @@ flags: []
 - Delicadamente vá misturando os ingredientes, começando pelo centro e gradualmente puxando a farinha das laterais para ir incorporando;
 - Polvilhe um pouco de farinha em uma bancada lisa e abra a massa com um rolo, cerca de 05 mm;
 - Agora é só cozinhar eles em água fervente com sal. Assim que começarem a boiar, estão pronto. Escolha um molho de sua preferência e sirva com os raviólis e sirva.
-- --
 
 ---
 

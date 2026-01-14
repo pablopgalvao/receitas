@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de azeite de dendê
 - 200 ml de leite de coco
@@ -39,7 +39,6 @@ flags: []
 - Coentro a gosto
 - Sal a gosto
 - Se desejar, adicione alguns camarões secos para dar mais textura. Acerte o sal e continue mexendo. Caso a mistura fique muito espessa, vá acrescentando mais um pouco de água aos poucos;
-- --
 
 ---
 

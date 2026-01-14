@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peça de fraldinha (1 kg)
 - 1 colher de sopa de manteiga (15 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Sal a gosto
 - Quando estiver quase no ponto, adicione a manteiga e misture até derreter por completo, umedecendo bem a cebola;
 - Regue com o azeite e tempere com sal a gosto. Refogue tudo, sem mexer demais para dourar bem a carne;
-- --
 
 ---
 

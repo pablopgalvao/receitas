@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 coco médio (150 gramas)
 - 1 e 2/3 xícara de chá de água morna (400 ml)
@@ -36,7 +36,6 @@ flags: []
 - 150 gramas de chocolate branco nobre
 - 1 e 1/2 xícara de chá de cachaça ou vodka (360 ml)
 - 1/2 vidro de leite de coco (100 ml)
-- --
 
 ---
 

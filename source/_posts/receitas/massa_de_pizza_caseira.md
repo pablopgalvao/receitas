@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Enquanto isso, na tigela da batedeira, misture a farinha com o sal e abra um buraco no centro. Separe uma tigela ou outro recipiente grande e unte com 2 colheres (sopa) de azeite – ela tem que ter espaço suficiente para a massa crescer bastante.
 - Assim que espumar, despeje a mistura de fermento no centro da tigela com farinha. Adicione ¼ de xícara (chá) de azeite e misture, com uma espátula, apenas para incorporar.
 - Polvilhe uma bancada lisa com farinha de trigo; transfira a massa de pizza para a bancada e, com uma espátula (ou faca) divida em 4 porções. Separe uma porção da massa para abrir e cubra o restante com um pano de prato para não ressecar.
-- --
 
 ---
 

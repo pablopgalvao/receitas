@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 71 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 kg de pernil
 - 2 colheres de sobremesa de páprica defumada
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de óleo
 - Em uma tigela, coloque o pernil e tempere com páprica, pimenta calabresa, mix de alho e salsa e sal. Espalhe bem sobre os dois lados da carne;
 - Aqueça uma frigideira com um fio de óleo e acrescente a carne para selar. Assim que dourar de um lado, vire para dourar do outro. São aproximadamente 2 minutos de cada. Desligue o fogo e reserve;
-- --
 
 ---
 

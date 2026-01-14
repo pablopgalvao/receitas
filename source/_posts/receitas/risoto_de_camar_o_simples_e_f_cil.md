@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 10 talos de salsinha
 - 500 gramas de camarão
@@ -45,7 +45,6 @@ flags: []
 - Na mesma panela, derreta a manteiga, coloque a cebola e doure por cerca de 2 minutos;
 - Repita esse processo até o grão estar al dente. Ao morder, ele não pode estar muito mole, se não, ficará empapado. Acrescente o molho de tomate, os camarões, o queijo parmesão ralado, tempere com sal, pimenta-do-reino, salsinha e mexa bem;
 - Desligue o fogo, adicione a manteiga bem gelada e misture rapidamente. Finalize com a salsinha picada e mais queijo ralado. Bom apetite!
-- --
 
 ---
 

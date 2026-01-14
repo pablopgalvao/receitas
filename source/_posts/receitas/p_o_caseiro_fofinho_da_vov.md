@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 155 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 e 2/3 de xícara de chá de farinha de trigo sem fermento (800 gramas)
 - 1/2 xícara de chá de óleo (120 ml)
@@ -44,7 +44,6 @@ flags: []
 - Polvilhe farinha sobre a massa e pressione levemente com as mãos, para retirar o ar da fermentação;
 - Transfira a massa para a bancada enfarinhada novamente e divida em duas partes iguais;
 - Retire do forno e, se quiser, pincele manteiga derretida por cima. Aguarde amornar antes de cortar e servir. Aproveite!
-- --
 
 ---
 

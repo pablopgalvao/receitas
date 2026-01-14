@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 32 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite (240 ml)
 - ½ xícara de chá de óleo (120 ml)
@@ -36,7 +36,6 @@ flags: []
 - 2 xícaras de chá de polvilho azedo (185 gramas)
 - No copo do liquidificador, adicione o leite, o ovo, o óleo, o sal, o queijo parmesão ralado e o polvilho azedo. Bata por cerca de 2 minutos, até obter uma mistura homogênea e lisa;
 - Unte forminhas de empada ou pão de mel com óleo e distribua a massa, preenchendo apenas até a metade de cada forminha, para não derramar;
-- --
 
 ---
 

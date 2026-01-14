@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 160 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de farinha de trigo integral (600 gramas)
 - 1 e 1/2 colher de sopa de fermento biológico seco (15 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Unte a forma de cerca de 28 x 11 centímetros com manteiga e farinha. Estique a massa com as mãos com cuidado e enrole, fechando as pontas.
 - Unte a forma de cerca de 28 x 11 centímetros com manteiga e farinha. Estique a massa com as mãos com cuidado e enrole, fechando as pontas. Coloque na forma, cubra e deixe descansar até que cresça mais um pouco, por cerca de 20 minutos;
 - Se gostar, passe uma camada fininha de água e salpique gergelim por cima. Coloque para assar em forno preaquecido a 180 º por cerca de 40 minutos;
-- --
 
 ---
 

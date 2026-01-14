@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - Leve uma frigideira média antiaderente ao fogo médio para aquecer. Enquanto isso, polvilhe um dos lados das fatias com um pouco de açúcar (cerca de ¼ de colher de chá).
 - Coloque a manteiga na frigideira e gire para untar todo o fundo. Distribua as fatias de goiaba, uma ao lado da outra, com o lado salpicado de açúcar para baixo. Deixe dourar sem mexer, por cerca de 1 minuto, ou até formar uma casquinha dourada.
 - Polvilhe as fatias com mais açúcar e vire com uma espátula para dourar o outro lado por 1 minuto. Sirva a seguir com fatias de queijo minas frescal.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de milho de pipoca
 - 1 colher de chá de óleo
@@ -38,7 +38,6 @@ flags: []
 - Coloque o óleo em uma panela média e alta. Leve para aquecer em fogo médio. Para testar a temperatura, adicione 3 grãos de milho, quando eles ficarem branquinhos, acrescente o restante;
 - Mexa o milho continuamente até estourar a primeira pipoca. Abaixe o fogo, acrescente a manteiga e o açafrão. Misture bem para a manteiga derreter e incorporar em todos os grãos.
 - Ao abrir a panela, cuidado com o vapor. Coloque a pipoca em um recipiente, tempere com sal, pimenta e outras especiarias de sua preferência. Pode servir!
-- --
 
 ---
 

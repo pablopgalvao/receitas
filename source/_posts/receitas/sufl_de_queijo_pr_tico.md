@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Unte com manteiga um refratário oval com 29 cm de comprimento (que comporte cerca de 1,5 litro). Polvilhe 2 colheres (sopa) do queijo parmesão ralado para cobrir o fundo e as laterais.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande. Mexe bem com o batedor de arame para misturar as claras com as gemas.
 - Adicione o bechamel em etapas, misturando bem para incorporar aos ovos. Por último, junte o queijo meia-cura ralado, em duas etapas, para ficar mais fácil de misturar com o batedor.
-- --
 
 ---
 

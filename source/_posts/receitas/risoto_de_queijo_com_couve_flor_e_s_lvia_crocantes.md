@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - ½ xícara (chá) de amêndoa inteira com pele
 - 1 colher (sopa) de manteiga
 - Leve uma frigideira pequena com a manteiga fogo médio. Quando derreter, junte as amêndoas e mexa até dourar. Transfira para uma tigela e deixe esfriar completamente antes de servir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - óleo de gergelim torrado a gosto (opcional)
 - Numa tigela, misture o missô com 1 colher (chá) de água e o óleo de gergelim torrado. Misture bem para dissolver e formar uma pastinha. Quebre o macarrão bifum em pedaços menores para caber dentro do pote.
 - Leve uma chaleira com 2 xícaras (chá) de água ao fogo alto. Assim que ferver, derrame a água dentro do pote até cobrir todo o conteúdo - a quantidade de água pode variar de acordo com o tamanho do pote. Tampe e deixe por 5 minutos para o macarrão cozinhar. Com um garfo (ou hashi) misture e consuma a seguir.
-- --
 
 ---
 

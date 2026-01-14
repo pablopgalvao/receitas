@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,3 kg de camarão-rosa descascados e limpos
 - Sal e pimenta a gosto
@@ -43,7 +43,6 @@ flags: []
 - Descasque a cebola e pique-a em cubinhos. Na mesma frigideira, coloque a manteiga e doure a cebola;
 - Incorpore bem a farinha e mexa até obter uma cor acastanhada;
 - Misture mais um pouco e, em seguida, adicione salsinha picada;
-- --
 
 ---
 

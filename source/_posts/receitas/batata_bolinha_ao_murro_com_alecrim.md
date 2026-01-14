@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Unte com azeite uma assadeira média. Transfira as batatas para a assadeira e tempere com sal e pimenta a gosto – o sal moído na hora, além de temperar, dá uma textura crocante para a receita (se preferir utilize sal refinado). Debulhe o ramo de alecrim sobre as batatas e regue com 2 colheres (sopa) de azeite.
-- --
 
 ---
 

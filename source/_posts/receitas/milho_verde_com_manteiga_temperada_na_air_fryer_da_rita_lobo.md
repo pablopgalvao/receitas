@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Lave, seque e pique fino a salsinha. Descasque e rale o dente de alho. Numa tigela pequena, coloque a manteiga, a salsinha e o alho. Tempere com o sal e pimenta e misture bem para formar uma pastinha.
 - Coloque uma espiga de milho no centro de um pedaço de papel-alumínio (com o lado brilhante para cima), meça 1 colher (sopa) da manteiga temperada e espalhe sobre toda a superfície do milho. Embale formando uma trouxinha bem justa — é importante fechar bem para que a manteiga não vaze. Repita o processo com o restante das espigas.
 - Com uma pinça, transfira as espigas para um prato e desembale com cuidado para não se queimar. Sirva a seguir com a manteiga derretida que sobrar na trouxinha.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e doure as costelinhas em etapas – se colocar todas de uma só vez vão cozinhar em vez de dourar. Deixe dourar por 2 minutos de cada lado. Transfira os pedaços dourados para uma tigela e repita com o restante, regando a panela com azeite a cada leva.
 - Mantenha a panela em fogo médio e regue com ½ colher (sopa) de azeite. Junte a cebola, tempere com uma pitada de sal e refogue por 3 minutos até murchar bem, raspando o fundo da panela para dissolver os queimadinhos – eles são essenciais para dar sabor ao molho. Junte o alho e mexa por 1 minuto para perfumar. Tempere com a páprica defumada, a pimenta calabresa seca e a erva-doce.
 - Volte as costelinhas para a panela, tempere com o sal, tampe e deixe em fogo alto. Assim que a válvula começar a apitar, abaixe o fogo e deixe cozinhar por 40 minutos.
-- --
 
 ---
 

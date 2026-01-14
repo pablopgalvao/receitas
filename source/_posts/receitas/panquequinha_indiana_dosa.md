@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Enquanto isso, coloque a manteiga numa tigela pequena e leve ao micro-ondas para rodar de 30 em 30 segundos, até derreter.
 - Leve uma frigideira média antiaderente ao fogo médio para aquecer. Coloque ½ colher (chá) de manteiga derretida e espalhe no fundo da frigideira com uma espátula de silicone.
 - Assim que a massa firmar na frigideira, após cerca de 1 minuto, espalhe ½ colher (chá) de manteiga sobre a panqueca e deixe dourar por mais 2 minutos, até as pontinhas ficarem bem crocantes e a base dourada.
-- --
 
 ---
 

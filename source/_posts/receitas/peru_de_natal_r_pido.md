@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peru inteiro (o nosso tinha 3,8 kg)
 - 1/2 xícara de chá de manteiga sem sal em temperatura ambiente (100 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Enquanto isso, em um bowl, misture a manteiga em temperatura ambiente com as pápricas, as pimentas, o sal, as raspas e o suco de limão. Envolva também o gengibre e o alho ralado até formar uma pasta homogênea;
 - Faça bolinhas com parte dessa manteiga temperada e coloque-as entre a pele e a carne do peito do peru, pressionando para facilitar o tempero. Em seguida, espalhe no lado externo o restante da manteiga;
 - Após reduzir, incorpore a manteiga gelada ao caldo quente, mexendo vigorosamente para emulsificar e obter um molho brilhante;
-- --
 
 ---
 

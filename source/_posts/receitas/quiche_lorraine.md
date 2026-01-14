@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Coloque o bacon numa frigideira e leve ao fogo médio por 3 minutos, mexendo de vez em quando, até começar a dourar — assim ele ganha sabor e perde parte da gordura. Com uma colher, transfira o bacon para um prato forrado com papel-toalha e reserve.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se algum estiver estragado, você não perde a receita. Junte o creme de leite fresco e misture bem com um batedor de arame. Tempere com uma pitada de sal, pimenta-do-reino e noz-moscada a gosto — cuidado com o sal, pois alguns bacons e queijos são mais salgados que outros.
 - Volte a fôrma ao forno para assar por cerca de 30 minutos, ou até a quiche inflar e ficar bem dourada. Sirva a seguir com salada de folhas.
-- --
 
 ---
 

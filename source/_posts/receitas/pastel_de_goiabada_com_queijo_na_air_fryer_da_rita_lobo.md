@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,18 +20,16 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - Pincele os pastéis e o fundo do cesto da Air Fryer com óleo. Coloque 6 pastéis (ou quantos couberem no cesto), um ao lado do outro. Deixe assar por cerca de 6 minutos, ou até dourar — não precisa virar na metade do tempo.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de peito de frango
 - 1 e 1/2 de xícara de chá de quirera
@@ -40,7 +40,6 @@ flags: []
 - Água para cozimento (600ml)
 - Em uma tigela, tempere o frango com 1/3 do alho triturado, açafrão, sal e pimenta-do-reino. Misture bem com as mãos, para pegar em todos os pedaços. Deixe descansar por 20 minutos;
 - Deixe a pressão sair naturalmente e abra a panela para finalizar. Adicione o cheiro-verde picadinho e acerte o sal. Misture bem novamente e apure por mais 2 minutos ou até engrossar;
-- --
 
 ---
 

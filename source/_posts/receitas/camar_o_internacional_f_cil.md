@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarão limpo
 - Sal a gosto
@@ -43,7 +43,6 @@ flags: []
 - Aqueça uma panela com azeite e manteiga, e refogue os camarões até ficarem dourados. Reserve;
 - Na mesma panela, acrescente um pouco mais de óleo ou azeite e doure as cebolas até murcharem;
 - Adicione a mussarela ralada, mexa bem até derreter, depois ajuste o sal;
-- --
 
 ---
 

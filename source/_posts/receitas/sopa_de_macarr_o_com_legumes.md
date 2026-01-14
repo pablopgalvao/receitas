@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de macarrão Padre Nosso
 - 200 gramas de abóbora pescoço
@@ -38,7 +38,6 @@ flags: []
 - Aqueça o óleo em uma panela grande e refogue a cebola até começar a dourar;
 - Em seguida, adicione o macarrão e o sal. Cozinhe por aproximadamente 12 minutos, ou até a massa ficar al dente;
 - Finalize com a salsinha picada por cima, e sirva em pratos fundos ou tigelas decoradas.
-- --
 
 ---
 

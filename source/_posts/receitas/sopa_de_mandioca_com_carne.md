@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de carne (acém ou coxão mole)
 - 500 gramas de mandioca
@@ -39,7 +39,6 @@ flags: []
 - Bata metade da mandioca com 400 ml de água e a corte a outra metade em pedaços menores. Reserve;
 - Na panela de pressão com um fio de óleo adicione a carne em cubos. Tempere com o alho, o tempero pronto, a páprica doce e a pimenta calabresa;
 - Acerte o sal, deixando cozinhar por mais 10 minutos, até o caldo engrossar e os sabores se incorporarem;
-- --
 
 ---
 

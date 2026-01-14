@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 115 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
 - 1/2 pacotinho de fermento biológico para pão (5 gramas)
@@ -46,7 +46,6 @@ flags: []
 - Unte um recipiente com manteiga e coloque a massa dentro. Tampe ou cubra com um pano úmido e deixe fermentar em temperatura ambiente por 30 minutos;
 - Polvilhe um pouco de farinha na bancada, abra a massa em formato de um disco não muito fino e divida-a em 6 partes iguais;
 - Unte uma forma rasa com manteiga ou óleo e distribua as 6 massas modeladas. Pincele na superfície, sem exagero, a mistura de ovo, leite e sal preparada no início;
-- --
 
 ---
 

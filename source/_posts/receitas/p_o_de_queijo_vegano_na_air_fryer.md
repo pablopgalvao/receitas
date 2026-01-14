@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de tofu
 - 1 colher de sopa de levedura nutricional (10 gramas)
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de sobremesa de alho em pó (ou a gosto)
 - Em um recipiente, coloque azeite, o pedaço de tofu, a levedura nutricional e o sal. Amasse tudo com auxílio de um garfo ou colher, até ficar como uma farofinha;
 - Com a massa bem homogênea, faça bolinhas de aproximadamente 40 gramas, e acomode-as em uma forma para levar ao freezer por no mínimo 2 horas, ou até ficar completamente congelados;
-- --
 
 ---
 

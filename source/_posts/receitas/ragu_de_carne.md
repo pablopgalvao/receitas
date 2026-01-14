@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Descasque e pique fino a cebola e os dentes de alho. Lave, seque e corte o talo de salsão em cubinhos. Corte a carne em cubos grandes, de cerca de 5 cm, e tempere com o sal e pimenta.
 - Leve a panela de pressão (sem a tampa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite e adicione cerca de ⅓ dos cubos de carne — se colocar todos ao mesmo tempo, eles vão soltar o próprio líquido e cozinhar no vapor, em vez de dourar. Deixe dourar por cerca de 3 minutos e vire com uma pinça para dourar de todos os lados por igual.
 - Mantenha a panela em fogo médio. Caso não tenha sobrado azeite na panela, regue com mais 1 colher (chá) e adicione o bacon. Deixe dourar por cerca de 3 minutos. Junte a cebola e o salsão, tempere com uma pitada de sal e refogue por 3 minutos, até murchar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite (240 ml)
@@ -46,7 +46,6 @@ flags: []
 - Adicione o leite, o sal e o açúcar, e misture. Acrescente a farinha de trigo aos poucos, mexendo a cada adição até incorporar totalmente. Junte o fermento em pó e misture apenas para envolver;
 - Transfira a massa para a forma preparada e espalhe com a ajuda de uma colher. Leve ao forno preaquecido a 180ºC para assar por 10 minutos;
 - Na panela, adicione o tomate picado, deixe murchar, acrescente a sardinha e misture. Junte o molho de tomate, as azeitonas, tempere com sal, pimenta-do-reino e orégano. Desligue o fogo. Retire a pizza do forno, espalhe o molho por cima e retorne a pizza para assar por mais 10 minutos;
-- --
 
 ---
 

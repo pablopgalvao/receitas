@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - Sal a gosto
@@ -35,7 +35,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Alho em pó a gosto
 - Transfira para outra tigela, regue com azeite e tempere com sal, páprica, pimenta-do-reino e alho em pó. Com as mãos, misture para que os temperos se distribuam;
-- --
 
 ---
 

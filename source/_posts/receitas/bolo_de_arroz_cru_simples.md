@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz cru (420 gramas)
 - 1 vidro de leite de coco (200 ml)
@@ -36,7 +36,6 @@ flags: []
 - 50 gramas de coco ralado
 - 1 colher de sopa de fermento em pó (15 gramas)
 - Adicione os ovos, o óleo vegetal e o açúcar. Bata novamente por mais 1 minuto para incorporar;
-- --
 
 ---
 

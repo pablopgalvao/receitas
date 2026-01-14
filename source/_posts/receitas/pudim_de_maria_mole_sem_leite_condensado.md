@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 265 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar refinado (180 gramas)
 - 3 colheres de sopa de água fervente (45 ml)
@@ -39,7 +39,6 @@ flags: []
 - 2 caixas de creme de leite (400 gramas)
 - Vamos começar pela calda! Na forma, adicione o açúcar refinado e leve ao fogo médio para derreter. Abaixe o fogo e continue mexendo até derreter completamente;
 - Adicione o açúcar às claras em neve e bata por mais 2 minutos. Reserve;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma frigideira grande antiaderente ao fogo médio. Regue com 1 colher (sopa) de azeite e coloque 2 batatas amassadas, uma ao lado da outra. Tempere com sal e doure as batatas por 2 minutos, até que fiquem com a base bem crocante — o sal moído na hora, além de temperar, dá uma textura crocante extra às batatas, mas, se preferir, use sal refinado. Regue as batatas com ½ colher (sopa) de azeite, vire para dourar o outro lado e tempere com sal. Transfira as batatas douradas para um prato e repita a operação com o restante.
 - Mantenha a frigideira em fogo médio e regue com um fio de azeite. Coloque as fatias de cogumelo, uma ao lado da outra, sem sobrepor. Tempere com uma pitada de sal e deixe dourar por 3 minutos de cada lado, até ficarem douradas e macias.
 - Sirva os discos de batata com os cogumelos dourados, os ovos cozidos, a pasta de abacate e cebolinha fatiada a gosto.
-- --
 
 ---
 

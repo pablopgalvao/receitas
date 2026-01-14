@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 2 colheres (sopa) de azeite Andorinha
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa assadeira grande, faça uma cama com os ramos de alecrim. Tempere o cordeiro generosamente com sal e pimenta-do-reino a gosto. Disponha as peças de cordeiro sobre o alecrim e regue com o azeite.
-- --
 
 ---
 

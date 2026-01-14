@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Lave, seque e corte a pimenta dedo-de-moça ao meio no sentido do comprimento. Com a ponta de uma colher, retire e descarte as sementes. Fatie fino cada uma das metades. Lave, seque e pique grosseiramente a salsinha.
 - Passado o tempo de cozimento, desligue a panela e ajuste a válvula para liberar a pressão — não espere o vapor sair naturalmente, pois, nesse meio-tempo, o chuchu pode passar do ponto e ficar mole demais para a salada.
 - Escorra a água e transfira o chuchu para uma tigela (descarte o alho e o louro). Escorra também a água da cebola e junte ao chuchu. Adicione a pimenta e a salsinha, tempere com o caldo de limão, o azeite e sal a gosto. Leve à geladeira para esfriar por, pelo menos, 30 minutos antes de servir.
-- --
 
 ---
 

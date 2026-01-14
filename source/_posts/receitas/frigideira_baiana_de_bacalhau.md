@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo – se um estiver estragado você não perde a receita. Bata os ovos com um garfo, apenas para misturar as claras com as gemas – não bata em excesso ou o resultado será uma frigideira dura.
 - Junte ao refogado de bacalhau cerca de ⅓ dos ovos batidos e misture delicadamente com a espátula. Transfira para o refratário untado e regue com o restante dos ovos batidos – não precisa misturar.
 - Leve ao forno para assar por cerca de 30 minutos ou até que a cobertura esteja firme. Sirva a seguir com o restante das folhas de coentro e pimenta biquinho em conserva a gosto.
-- --
 
 ---
 

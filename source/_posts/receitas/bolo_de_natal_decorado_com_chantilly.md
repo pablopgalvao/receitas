@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 106 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 xícara de chá de açúcar (190 gramas)
 - 1 e 1/4 de xícara de chá de farinha de trigo (150 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Na batedeira, bata os ovos com o açúcar até obter uma mistura clara e bem aerada, cerca de 3 minutos;
 - Incorpore a farinha peneirada aos poucos, em três partes, misturando com movimentos delicados de baixo para cima, para não perder volume. Derreta a manteiga no micro-ondas e adicione ela, a baunilha e o sal, mexendo com cuidado;
 - Transfira a massa para a forma com papel manteiga e leve ao forno preaquecido a 180°C por cerca de 40 minutos; (caso seu forno seja bastante potente, observe o ponto a partir de 25 minutos)
-- --
 
 ---
 

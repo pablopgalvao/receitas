@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 13 salsichas (cozidas por 5 minutos)
 - 2 colheres de sopa de óleo de soja
@@ -39,7 +39,6 @@ flags: []
 - Em uma panela, esquente o óleo e doure o alho;
 - Corte a salsicha em rodelas e sele elas em uma frigideira com um pouco de óleo;
 - Transfira as salsichas para o molho, misture e deixe cozinhar por 2 a 3 minutos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Leve uma frigideira ao fogo médio. Quando aquecer, regue com um fio de azeite, junte o pimentão, tempere com uma pitada de sal e refogue por 3 minutos, até dourar. Reserve.
 - Assim que estiverem cozidas, passe as lentilhas por uma peneira e deixe escorrer bem a água. Transfira os grãos para uma tigela grande e tempere ainda morna com o caldo de laranja, 2 colheres (sopa) de azeite, o coentro em pó, sal e pimenta – a lentilha morna absorve melhor os sabores.
 - Escorra a água das cebolas e junte à lentilha temperada, misture o pimentão e leve à geladeira para esfriar. Na hora de servir, misture as folhas de coentro picadas a gosto e regue com mais azeite. Sirva a seguir.
-- --
 
 ---
 

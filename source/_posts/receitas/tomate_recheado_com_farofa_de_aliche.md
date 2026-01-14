@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Tempere a parte interna dos tomates com sal a gosto e transfira para uma assadeira, com as cavidades voltadas para baixo - o sal libera o excesso de água do legume. Deixe drenar por alguns minutos enquanto prepara o recheio.
 - No pilão coloque os filés de anchova, o dente de alho e ½ colher (sopa) de azeite. Bata até formar uma pastinha e transfira para uma tigela. Adicione a farinha de rosca, o parmesão ralado, o tomilho debulhado e 3 colheres (sopa) de azeite. Misture até formar uma farofa molhada.
 - Unte uma assadeira pequena com azeite e disponha os tomates de pé, um ao lado do outro, com as cavidades para cima. Recheie cada um com a farofinha de anchova, regue com mais um fio de azeite e polvilhe com tomilho a gosto. Leve ao forno preaquecido e deixe assar por cerca de 30 minutos até dourar. Retire do forno e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Coloque o tomate pelado (com o líquido) no liquidificador e bata no modo pulsar para formar um molho pedaçudo. Tempere com sal e pimenta a gosto – cuidado com o sal pois o aliche já é salgado.
 - Espalhe o molho de tomate sobre a massa – pode parecer muita quantidade, mas o molho vai secando enquanto a pizza assa e mantém a massa úmida. Distribua os filés de aliche sobre o molho e polvilhe metade da pizza com o queijo ralado. Regue a outra metade sem queijo com o azeite a gosto.
 - Leve ao forno para assar por cerca de 50 minutos, até crescer e dourar. Retire do forno e salpique com folhas de manjericão a gosto. Corte o sfincione em pedaços e sirva a seguir com salada de rúcula. A pizza siciliana também fica uma delícia servido frio.
-- --
 
 ---
 

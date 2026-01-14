@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de amoras
 - 250 gramas de açúcar
@@ -36,7 +36,6 @@ flags: []
 - Em uma panela grande, adicione as amoras, o açúcar, o suco do limão e a água;
 - Mantenha a panela no fogo e, ao notar que a mistura começou a engrossar, adicione a pitada de bicarbonato de sódio;
 - Continue mexendo por mais alguns minutos, até que a calda reduza e atinja a textura típica de geleia. O ponto ideal é quando a mistura adere levemente à colher. Desligue o fogo e transfira a geleia ainda quente para potes de vidro esterilizados;
-- --
 
 ---
 

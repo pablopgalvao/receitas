@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -55,7 +56,6 @@ flags: []
 - Unte uma das fôrmas com mais manteiga e polvilhe com cacau. Misture o restante do fermento na massa reservada, transfira para a fôrma untada e repita o passo
 - Coloque o fundo removível de uma das fôrmas sobre uma grade e apoie o disco sobre o fundo. Corte o topo com uma faca de confeiteiro (ou de pão bem longa) para nivelar. Use o fundo de fôrma como suporte para transferir o disco para o prato de bolo. Com um pincel, espalhe a calda de açúcar sem encharcar a massa. Isso vai evitar que ela quebre. Notou que estamos usando o fundo removível como se fosse uma espátula passa-bolo?
 - Coloque no centro do bolo metade da quantidade do creme. Com a espátula de confeiteiro (ou as costas de uma colher) espalhe uma camada lisa e uniforme, levando o creme para até 1 cm das bordas, sem deixar escorrer pelas laterais. Lembre-se de que o peso das camadas de bolo irá espremer o creme.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve uma panela de barro média ao fogo baixo (se preferir, prepare o refogado em qualquer panela e transfira para um refratário que comporte cerca de 2 litros antes de finalizar com os ovos batidos e ir ao forno). Quando aquecer, regue com 3 colheres (sopa) de azeite e adicione a cebola. Tempere com uma pitada de sal e refogue por cerca de 3 minutos até murchar. Junte o alho e misture bem para perfumar. Acrescente os tomates, a pimenta e o urucum, mexa bem por cerca de 1 minuto para formar uma pastinha. Junte o palmito, tempere com sal e refogue por mais 5 minutos.
 - Abra espaço no centro da panela e regue com 1 colher (sopa) de azeite, acrescente os camarões, tempere com sal e mexa por apenas 1 minuto – se o camarão cozinhar demais pode ficar borrachudo. Junte o bacalhau, as azeitonas e mexa por cerca de 5 minutos, para o bacalhau desmanchar em pedaços menores. Regue com o caldo de limão, misture bem, prove e acerte o sal. Desligue o fogo, misture o coentro e a cebolinha picados e finalize com mais um fio de azeite. Reserve.
 - Com a espátula, nivele o refogado de bacalhau na panela de barro (ou transfira para o refratário) e cubra com os ovos batidos. Leve ao forno por cerca de 30 minutos, até inflar e dourar. Sirva a seguir com azeite e folhas de coentro a gosto.
-- --
 
 ---
 

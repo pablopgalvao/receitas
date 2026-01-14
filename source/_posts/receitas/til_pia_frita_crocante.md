@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal a gosto
 - Pimenta-do-reino a gosto
@@ -37,7 +37,6 @@ flags: []
 - Enquanto o peixe fica marinando, misture a farinha de trigo e o fubá em uma vasilha;
 - Após marinar, passe os filés na mistura de farinhas, pressionando-os levemente;
 - Coloque o óleo em uma panela, leve-a fogo médio, espere esquentar e frite as tilápias até que fiquem bem douradinhas;
-- --
 
 ---
 

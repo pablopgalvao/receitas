@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer, regue com o azeite e junte a cebola. Tempere com uma pitada de sal e refogue por cerca de 5 minutos até dourar. Junte o alho, o tomilho, o louro e mexa por 1 minuto apenas para perfumar.
 - Acrescente o tomate pelado (com o líquido), aos poucos, raspando os queimadinhos do fundo da panela - esse processo dá mais sabor ao molho. Tempere com sal e pimenta a gosto, junte o feijão, a água e misture bem. Tampe a panela e aumente o fogo para alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por mais 15 minutos.
 - Passado o tempo de cozimento, desligue o fogo e deixe todo o vapor sair antes de abrir a panela. Prove e acerte o sal e a pimenta. Sirva o feijão a seguir com o molho que se formou na panela.
-- --
 
 ---
 

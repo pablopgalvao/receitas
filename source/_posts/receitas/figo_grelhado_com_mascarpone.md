@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 colher (chá) de manteiga
 - 2 colheres (sopa) de mel
 - Em uma frigideira antiaderente, derreta a manteiga em fogo médio. Gire a frigideira para untar todo o fundo e disponha os figos cortados, com o lado cortado para baixo. Deixe dourar por 2 minutos – quanto mais maduros estiverem, menos tempo levam para grelhar.
-- --
 
 ---
 

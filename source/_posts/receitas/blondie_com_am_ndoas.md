@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Corte a manteiga em cubos, coloque numa panela pequena e leve ao fogo baixo para derreter. Transfira para uma tigela para amornar — assim não há risco dela queimar com o calor residual da panela. Enquanto isso, prepare os outros ingredientes — se a manteiga estiver muito quente no momento de misturar a massa pode cozinhar os ovos.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande – se um estiver estragado você não perde a receita. Junte o açúcar e o açúcar mascavo e misture bem com uma espátula para incorporar. Acrescente a manteiga já morna e mexa novamente até ficar liso.
 - Acrescente a farinha de trigo aos poucos, passando pela peneira. Misture bem com a espátula a cada adição para incorporar – a farinha deixa a massa mais densa e pesada, é assim mesmo. Acrescente o fermento e o sal, e misture novamente. Por último, misture o chocolate branco e as amêndoas picadas.
-- --
 
 ---
 

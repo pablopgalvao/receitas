@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 6 colheres (sopa) de sal
 - Num pote com fechamento hermético, de boca larga e esterilizado, coloque os gomos de limão formando camadas e intercalando com o sal.
 - Esprema o caldo dos limões restantes e transfira para o pote, passando por uma peneira. Com uma colher, pressione delicadamente os limões dentro do pote – assim eles se acomodam melhor, liberam um pouco do próprio caldo e ficam imersos no caldo de limão.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 375 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de farinha de trigo
 - 265 ml de água para a massa
@@ -40,7 +40,6 @@ flags: []
 - Polvilhe farinha na bancada, na massa e nas mãos, para não grudar. Dobre a massa das bordas para o centro. Depois, enrole-a e modele o pão. Aperte bem as laterais, para que ela não abra ao assar;
 - Forre uma tigela com um pano de prato limpo. Polvilhe farinha nele e coloque a massa deixando a “fenda” ou emenda da massa para cima, e salpique farinha sobre ela também. Cubra com outro pano limpo e um saquinho plástico. Leve para a geladeira por 12 a 18 horas;
 - Preaqueça forno a 260 ºC por 40 minutos. Dentro dele, deixe uma panela de ferro fundido grande, onde o pão será colocado. Após remover a massa da geladeira, polvilhe mais farinha sobre ela;
-- --
 
 ---
 

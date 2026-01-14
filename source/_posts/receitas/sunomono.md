@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 pepinos japoneses (600 gramas)
 - 2 colheres de chá de sal
@@ -41,7 +41,6 @@ flags: []
 - Leve ao fogo baixo apenas até o açúcar derreter. É importante não deixar o açúcar ferver, pois isso pode amargar o sunomono. Espere esfriar;
 - Transfira os pepinos fatiados para uma tigela e tempere com o molho já em temperatura ambiente ou frio. Experimente e, se preciso, acerte o sal a gosto;
 - Leve à geladeira por, pelo menos, 30 minutos antes de servir. Assim, as fatias de pepinos vão absorver bem o sabor agridoce. Salpique sementes de gergelim no sunomono e aproveite.
-- --
 
 ---
 

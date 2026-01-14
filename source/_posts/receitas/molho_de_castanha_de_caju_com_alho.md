@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Numa panela pequena, coloque as castanhas, cubra com 500 ml de água e leve ao fogo alto. Quando ferver, abaixe o fogo e deixe cozinhar por cerca de 20 minutos, até que as castanhas fiquem macias.
 - Escorra a água e transfira as castanhas cozidas ainda quentes para o liquidificador. Descasque o dente de alho e junte às castanhas. Adicione o sal, o azeite e ½ xícara (chá) da água filtrada. Bata por cerca de 2 minutos, até formar um creme liso. Nessa etapa, o molho vai estar bem cremoso; vá adicionando o restante da água filtrada aos poucos, pela abertura do copo do liquidificador, e continue batendo até obter a consistência desejada (mais cremoso ou mais fluido).
 - Transfira o molho para uma tigela pequena, prove e ajuste o sal. Leve à geladeira para esfriar antes de servir.
-- --
 
 ---
 

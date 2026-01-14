@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz cru (200 gramas)
 - 1 xícara de chá de leite integral (240 ml)
@@ -41,7 +41,6 @@ flags: []
 - Coloque no liquidificador o arroz com o leite, os ovos, o açúcar e o óleo. Bata até triturar bem o arroz;
 - Por último, adicione o fermento e misture delicadamente com uma espátula ou colher;
 - Unte uma forma redonda (24 x 07 cm) com margarina e polvilhe com açúcar cristal;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - 1 pitada de sal
 - 2 colheres (sopa) de óleo
 - Numa frigideira grande antiaderente, coloque a aveia, as castanhas picadas, as sementes de girassol e as sementes de coentro. Acrescente o mel, o açúcar mascavo, a canela, o sal e o óleo. Misture bem com uma espátula de silicone, para envolver todos os ingredientes (se preferir, misture os ingredientes da granola numa tigela).
-- --
 
 ---
 

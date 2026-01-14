@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de farinha de trigo
 - 1 colher de sopa de sal (10 gramas)
@@ -35,7 +35,6 @@ flags: []
 - Numa tigela coloque a farinha, o fermento, o sal e a água. Misture tudo com as mãos;
 - Feito isso, divida a massa em porções de aproximadamente 100 gramas;
 - Agora está pronto. Experimente ainda quentinho com manteiga, fica uma delícia!
-- --
 
 ---
 

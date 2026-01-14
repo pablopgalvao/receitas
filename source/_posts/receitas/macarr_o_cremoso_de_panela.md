@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 gramas de bacon
 - 2 xícaras de macarrão parafuso ou outro tipo curto (250 gramas)
@@ -40,7 +40,6 @@ flags: []
 - 1 copo de requeijão cremoso (200 gramas)
 - Mussarela a gosto (200 gramas)
 - Tempere com sal, pimenta-do-reino e cheiro-verde. Misture tudo, tampe a panela e leve ao fogo médio. Quando pegar pressão, conte 3 minutos e desligue o fogo. Libere a pressão com cuidado antes de abrir;
-- --
 
 ---
 

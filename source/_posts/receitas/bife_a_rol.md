@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de bife (de coxão mole ou coxão duro) em fatias finas
 - 200 gramas de bacon cortados em filetes
@@ -39,7 +39,6 @@ flags: []
 - Em um recipiente, tempere os bifes com alho, sal e pimenta. Misture bem. Deixe descansar na geladeira por 12 horas ou, no mínimo, 15 minutos. Retire da geladeira 30 minutos antes de começar o preparo;
 - Adicione as cebolas, molho de tomate (pode usar molho de tomate pronto ou caseiro), água e acerte o sal. Misture bem e tampe a panela;
 - Salpique cheiro-verde a gosto. Está pronto para servir com arroz branco ou com seu acompanhamento preferido!
-- --
 
 ---
 

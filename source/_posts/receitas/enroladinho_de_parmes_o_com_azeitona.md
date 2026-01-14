@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Numa tábua, pique as azeitonas em cubinhos e transfira para uma peneira. Aperte com as costas de uma colher e deixe escorrer o excesso de líquido - esse caldinho da azeitona pode umedecer e encruar a massa.
 - Polvilhe farinha de trigo sobre a bancada e abra a massa de pizza, formando um retângulo de cerca de 40 cm x 20 cm. Regue a massa com o azeite e espalhe a azeitona picada - deixe cerca de 1 cm de uma das laterais maiores sem azeitona para poder fechar o rolinho. Debulhe as folhas de tomilho sobre as azeitonas, polvilhe as raspas de limão siciliano e finalize com o queijo parmesão ralado.
 - Numa tigela, misture a gema de ovo com 1 colher (chá) de água. Pincele essa misturinha sobre os enroladinhos e leve ao forno preaquecido. Deixe assar por cerca de 40 minutos até dourar. Sirva a seguir.
-- --
 
 ---
 

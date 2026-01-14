@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - Com um amassador de legumes, amasse bem a abóbora dentro da panela mesmo. Junte a água restante, tempere com 1½ colher (chá) de sal e volte a panela ao fogo.
 - Assim que ferver, abaixe o fogo e adicione a polenta aos poucos, mexendo bem com um batedor de arame para não empelotar. Mexa por mais 3 minutos, até que a polenta fique cremosa. Desligue o fogo e misture a manteiga e o queijo ralado.
 - Num refratário grande de 20 cm X 30 cm (que comporte cerca de 4 litros), coloque o ragu preenchendo todo o fundo. Com uma colher grande, distribua porções de polenta sobre o ragu — assim fica mais fácil espalhar sem correr o risco de misturar com o recheio. Espalhe a polenta com as costas da colher para nivelar e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de azeite
 - 1/2 colher de sopa de suco de limão
@@ -38,7 +38,6 @@ flags: []
 - Parmesão ralado a gosto
 - Numa tigela média, adicione os tomates, o suco de limão e o suco de laranja. Tempere com sal e pimenta-do-reino, um fio de azeite e orégano fresco. Misture bem, reserve;
 - Em seguida, coloque uma camada fina de parmesão ralado por cima do pão. Então adicione uma porção da mistura de tomate por cima, assim como um pouco do caldo e finalize com uma pequena pitada de parmesão ralado;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de patinho moído
 - 1 pacote de creme de cebola (60 gramas)
@@ -39,7 +39,6 @@ flags: []
 - 1 pitada de canela em pó
 - Pique a cebolinha, a salsinha e as folhas de hortelã. Descasque e amasse os dentes de alho. Separe todos os ingredientes! Se for utilizar os palitos de churrasco, deixe-os de molho na água por uns 10 minutos;
 - Em uma tigela grande, misture a carne moída com o creme de cebola, o alho amassado, os temperos secos e as ervas picadas até formar uma massa homogênea e com boa liga. Prove para ajustar o sal, se necessário;
-- --
 
 ---
 

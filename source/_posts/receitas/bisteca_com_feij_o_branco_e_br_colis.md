@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Corte o brócolis em floretes, mantendo 7 cm do talo. Divida os ramos maiores ao meio, no sentido do comprimento, para que cozinhem por igual. Lave os floretes e seque bem com um pano – eles devem estar bem sequinhos para chamuscar. Sobre uma tigela, escorra ½ lata de feijão cozido e reserve ¼ de xícara (chá) do caldo.
 - Volte a frigideira ao fogo médio, regue com ½ colher (sopa) de azeite e coloque a bisteca. Deixe dourar por 1 minuto de cada lado para selar. Afaste a bisteca para a lateral da frigideira, junte o alho, os ramos de alecrim e mexa por 1 minuto apenas para perfumar.
 - Abaixe o fogo, acrescente o feijão e regue com a água e o caldo do feijão reservado. Raspe os queimadinhos do fundo da frigideira para dar sabor ao preparo. Tempere o feijão com uma pitada de sal e pimenta-do-reino – cuidado com o sal, algumas marcas de feijão têm caldo mais salgado que outros.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de bifes de contra-filé
 - 1 colher de sopa de sal
@@ -42,7 +42,6 @@ flags: []
 - Reserve os bifes e aproveitando esse fundinho, adicione a cebola, mais sal e pimenta-do-reino e um pouco de azeite, deixando refogar por 3 minutos para soltar esse fundinho;
 - Acrescente o sachê de molho de tomate e misture até incorporar. Adicione a farinha de trigo e mexa até virar uma pasta;
 - Acrescente a manteiga gelada e mexa por mais 1 minuto até que ela derreta, com o fogo desligado;
-- --
 
 ---
 

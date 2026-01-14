@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Abaixe o fogo, junte o tomate pelado (com o líquido) e deixe cozinhar por cerca de 1 hora, sem a tampa, mexendo de vez em quando. O fogo deve estar baixíssimo para o molho não grudar no fundo da panela e queimar. Deixe uma chaleira com 1½ xícara (chá) de água quente a postos. De tempos em tempos, regue com um pouco de água para o molho não secar.
 - Leve uma panela grande com 5 litros de água ao fogo alto para ferver. Misture 2 colheres (sopa) de sal, acrescente o macarrão e cozinhe pelo tempo indicado na embalagem ou até ficar al dente — mexa de vez em quando para soltar as tiras.
 - Escorra a água do parpadelle e sirva a seguir com o molho à bolonhesa, queijo parmesão ralado e folhas de manjericão a gosto.
-- --
 
 ---
 

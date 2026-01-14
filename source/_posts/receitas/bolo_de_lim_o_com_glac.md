@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - 500 ml de creme de leite fresco
 - 2 colheres (sopa) de açúcar
 - O creme de leite fresco bate mais fácil quando está bem gelado - você pode deixar o creme de leite alguns minutos no congelado antes de bater. Na batedeira, coloque o creme de leite, o açúcar e bata até encorporar. Transfira para uma tigela e deixe na geladeira até servir.
-- --
 
 ---
 

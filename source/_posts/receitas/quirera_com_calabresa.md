@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de quirera
 - 1 linguiça calabresa (200 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Em uma panela de pressão, esquente o óleo e refogue a calabresa até que fique bem douradinha e solte sua própria gordura;
 - Tempere com colorau, sal e misture tudo muito bem;
 - Deixe a pressão sair naturalmente. Abra a panela, adicione a salsinha e acerte o sal, se necessário. Deixe apurar por 2 minutos se gostar dela mais cremosa. Caso prefira mais encorpada, deixe ferver por cerca de 10 minutos;
-- --
 
 ---
 

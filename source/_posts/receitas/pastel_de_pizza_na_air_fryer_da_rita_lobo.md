@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - óleo para pincelar os pastéis
 - Numa tigela média, misture o queijo com o tomate e a azeitona. Tempere com o orégano, 1 colher (chá) de azeite e pimenta a gosto.
 - Pincele os pastéis e o fundo do cesto da Air Fryer com óleo. Coloque 6 pastéis (ou quantos couberem no cesto), um ao lado do outro. Deixe assar por cerca de 6 minutos, ou até dourar — não precisa virar na metade do tempo.
-- --
 
 ---
 

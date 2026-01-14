@@ -6,7 +6,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -20,12 +22,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Meça ¼ de xícara (chá) da água fervente e regue o cuscuz (reserve o restante da água para adicionar ao ensopado caso seja necessário). Misture com uma colher e tampe com um prato para hidratar por 5 minutos.
 - Na hora de servir, retire o frango da Air Fryer e desencaixe o cesto da gaveta. Junte o espinafre ao ensopado e adicione um pouco da água quente reservada, de colher em colher, misturando com uma espátula de silicone — o ensopado vai sair bem encorpado da Air Fryer. Para deixar mais fluido, conforme o desejado, vá adicionando água aos poucos.
 - Solte o cuscuz marroquino com um garfo e misture as raspas de limão. Sirva o enroladinho com o ensopado, o cuscuz marroquino e folhas de salsinha.
-- --
 
 ---
 

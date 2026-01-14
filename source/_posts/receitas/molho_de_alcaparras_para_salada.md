@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - ¼ de xícara (chá) de azeite
 - pimenta-do-reino em grãos moída na hora a gosto
 - Coloque todos os ingredientes no mini-processador e bata bem até formar um molho liso. Tempere com pimenta a gosto – nem é preciso colocar sal por conta das alcaparras. Sirva a seguir ou mantenha na geladeira por até 1 semana.
-- --
 
 ---
 

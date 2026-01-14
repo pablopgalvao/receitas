@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - frança
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Preaqueça o forno a 160 ºC (temperatura baixa). Com um pincel ou papel-toalha, unte uma assadeira grande com óleo.
 - Numa tigela, junte o coco ralado, o bagaço do coco, o açúcar, o sal e a clara de ovo. Misture apenas para formar uma massa.
 - Umedeça as mãos para moldar uma bolinha com cerca de 1 colher (sopa) da massa e transfira para a assadeira. Repita com toda a massa, deixando um espaço de 3 cm entre cada cocadinha. Leve para assar por cerca de 30 minutos, até firmar e soltar da assadeira.
-- --
 
 ---
 

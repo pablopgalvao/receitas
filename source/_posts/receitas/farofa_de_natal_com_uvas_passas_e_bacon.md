@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de mandioca (300 gramas)
 - 1 xícara de chá de bacon (120 gramas)
@@ -44,7 +44,6 @@ flags: []
 - Acrescente o restante da farinha, o sal e os temperos secos. Mexa até a farinha mudar de cor e ficar levemente crocante;
 - Por fim, incorpore a uva-passa, a salsinha picada e os ovos. Misture delicadamente para que esses últimos não se quebrem completamente;
 - Ajuste o sal se necessário, desligue o fogo e transfira para uma travessa para servir. Bom apetite!
-- --
 
 ---
 

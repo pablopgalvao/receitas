@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de bacon
 - 2 colheres de sopa de manteiga (60 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Adicione a manteiga e misture até dissolver bem. Acrescente o alho e a cebola e refogue bem;
 - Junte o abacaxi, tempere com sal e pimenta, e misture bem para incorporar todos os sabores. Deixe cozinhar por cerca de 10 minutos até a fruta murchar totalmente;
 - Agregue o cheiro-verde e as azeitonas, ajuste o sal se necessário;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 145 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de farinha de trigo (420 gramas)
 - 1 pitada de sal
@@ -49,7 +49,6 @@ flags: []
 - Adicione os tomates, azeitona e milho. Refogue por mais alguns minutos até murchar. Tempere com sal, pimenta-do-reino e páprica. Misture bem e deixe cozinhar mais um pouco;
 - Para a massa, misture a farinha, sal e a manteiga gelada com as pontas dos dedos até formar uma farofa úmida;
 - Adicione o ovo e, se necessário, vá incorporando colheradas de água gelada até dar o ponto de massa lisa. Não sove;
-- --
 
 ---
 

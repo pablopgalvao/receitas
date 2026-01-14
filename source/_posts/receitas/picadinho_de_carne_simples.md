@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filé mignon
 - 3 colheres de sopa de óleo
@@ -40,7 +40,6 @@ flags: []
 - Para facilitar ainda mais o preparo dessa receita, deixe a cebola picada em cubinhos e o filé mignon em cubos. Dissolva o amido de milho em 100 ml de água e separe os ingredientes que serão utilizados;
 - Aqueça uma panela grande, adicione o óleo e jogue a cebola, mexendo para refogar. Quando estiverem murchas, acrescente o alho e misture, até que fiquem douradinhos;
 - Adicione a mostarda, o ketchup e o molho inglês, e salteie esses ingredientes na frigideira;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Com uma espátula, vire as abobrinhas e deixe dourar o outro lado por mais 2 minutos. Tempere com sal e pimenta-do-reino moída na hora a gosto. Transfira as abobrinhas para um prato.
 - Mantenha a frigideira em fogo médio e adicione o estrogonofe - raspe bem a tábua com uma espátula para aproveitar todo o molho. Mexa apenas até aquecer. Junte 1 concha da água do cozimento e misture bem. Desligue o fogo e misture a salsinha picada – reserve um pouco da salsinha para decorar.
 - Com um garfo de trinchar – quanto mais longos os dentes melhor –, enrole uma porção de macarrão e transfira para o prato. Regue com um pouco do molho e acomode uma das metades da abobrinha grelhada sobre o macarrão. Salpique com salsinha. Monte o outro prato e sirva a seguir.
-- --
 
 ---
 

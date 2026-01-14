@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 maço de folha de mostarda (670 gramas)
 - 1 cebola pequena ralada (80 gramas)
@@ -39,7 +39,6 @@ flags: []
 - 40 ml de azeite de dendê
 - 100 gramas de camarão seco inteiro
 - Adicione o restante do leite de coco na panela, mexa bem e deixe ferver por 1 minuto. Por fim, junte as folhas de mostarda e misture. Prove o prato e, se necessário, acerte o sal. Deixe cozinhar até as folhas ficarem macias, cerca de 3 a 5 minutos;
-- --
 
 ---
 

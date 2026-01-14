@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Corte o brócolis ao meio e descarte a base grossa do talo. Vire a metade do brócolis de cabeça para baixo na tábua e corte em floretes médios, de aproximadamente 3 cm. A outra metade pode ser armazenada na geladeira para outras receitas. Transfira os floretes para uma tigela, cubra com água e lave bem. Retire os floretes da água, assim as sujeirinhas ficam no fundo da tigela, e seque numa centrífuga para salada — quanto mais sequinhos estiverem, melhor para assar.
 - Numa tigela grande, coloque a cenoura e a abóbora cortadas, tempere com 1 colher (sopa) de azeite, ½ colher (chá) de sal e pimenta a gosto. Misture bem para envolver todos os pedaços com o tempero.
 - Coloque a cenoura e a abóbora na Air Fryer e deixe assar por 10 minutos. Enquanto isso, tempere os floretes de brócolis com 1 colher (sopa) de azeite, ½ colher (chá) de sal, pimenta a gosto e misture bem.
-- --
 
 ---
 

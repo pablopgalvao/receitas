@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma grelha (ou bistequeira) ao fogo médio para aquecer. Regue os espetos com azeite e tempere com sal. Assim que a grelha estiver bem quente, coloque quantos espetinhos couberem, um ao lado do outro. Deixe dourar por 2 minutos de cada lado – vire os espetinhos para dourar todos os lados por igual e os cubos de frango cozinharem de maneira uniforme.
-- --
 
 ---
 

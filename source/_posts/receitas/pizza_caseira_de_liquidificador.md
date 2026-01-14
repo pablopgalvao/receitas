@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícaras de chá de farinha de trigo (120 gramas)
 - 1/2 xícara de chá de leite (120 ml)
@@ -37,7 +37,6 @@ flags: []
 - No liquidificador, adicione o leite, a margarina, os ovos, o sal e o fermento. Bata por alguns segundos até misturar bem;
 - Acrescente a farinha de trigo e bata novamente. Caso o liquidificador não consiga bater sozinho, desligue e mexa com uma colher até obter uma massa homogênea;
 - Unte uma forma (35cm) com manteiga e farinha de trigo;
-- --
 
 ---
 

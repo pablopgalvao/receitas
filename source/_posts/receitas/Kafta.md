@@ -33,7 +33,6 @@ flags: []
 - **Rendimento:** 4 a 6 Porções
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +46,6 @@ flags: []
 - 2 colheres de chá de sal
 - 1 colher de sopa de azeite
 - Palitos de churrasco
-
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - No miniprocessador de alimentos, coloque os dentes de alho, a pimenta dedo-de-moça, o gengibre, os talos e a raiz do coentro, o curry e ½ colher (chá) de sal. Bata até triturar bem todos os ingredientes — pare de bater e raspe as laterais com a espátula quantas vezes forem necessárias. Reserve.
 - Leve uma panela média ao fogo médio para aquecer. Regue com 1 colher (sopa) de óleo, adicione a cebola, tempere com uma pitada de sal e refogue por 3 minutos, até começar a dourar. Junte os temperos batidos, o extrato de tomate, o louro e o açúcar e mexa bem por 1 minuto para perfumar.
 - Regue com o leite de coco, a água, tempere com sal e misture para dissolver os sabores do refogado. Adicione a batata-doce, a couve-flor e a cenoura e mantenha em fogo médio até ferver.
-- --
 
 ---
 

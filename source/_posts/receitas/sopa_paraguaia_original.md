@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de milho fina (240 gramas)
 - 2 xícaras de chá de leite integral (480 ml)
@@ -44,7 +44,6 @@ flags: []
 - Em outra tigela, quebre os ovos, adicione o sal e o fio de água fria. Bata até atingir o ponto letra (quando for possível desenhar letras com o fio do ovo batido);
 - Incorpore os ovos à mistura de farinha e cebola, mexendo com movimentos envolventes até integrar;
 - Unte um refratário médio com óleo e leve-o ao forno para aquecer por cerca de 10 minutos a 180ºC;
-- --
 
 ---
 

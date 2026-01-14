@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Numa tigela grande de vidro, coloque o chocolate e a manteiga. Leve ao micro-ondas para derreter, em potência média, de 30 em 30 segundos, mexendo a cada etapa.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para outra tigela — se algum estiver estragado você não perde a receita. Bata com um garfo apenas para misturar as claras com as gemas.
 - Adicione os açúcares e o sal ao chocolate e misture bem. Junte os ovos e misture bem com a espátula para incorporar. Adicione a farinha aos poucos, mexendo a cada adição.
-- --
 
 ---
 

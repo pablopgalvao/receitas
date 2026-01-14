@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de grão-de-bico cozido
 - 1 lata de milho (170 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Para montagem da salada, junte o grão-de-bico cozido com a cenoura ralada, tomate picado, milho e as azeitonas. Misture tudo muito bem;
 - Adicione agora o cheiro-verde, um generoso fio de azeite, suco de limão, sal, pimenta e mexa para incorporar tudo;
 - Decore com os ovos de codorna, leve para gelar até a hora de servir. Prontinho! Combine o preparo com uma proteína magra como peixe e aproveite.
-- --
 
 ---
 

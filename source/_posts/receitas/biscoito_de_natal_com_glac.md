@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 150 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar (206 gramas)
 - 1 xícara de chá de nata (250 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Polvilhe a bancada com farinha, abra porções da massa com um rolo, sempre com movimentos leves, deixando a espessura uniforme;
 - Corte a massa com cortadores natalinos ou use um copo como molde. Transfira para uma assadeira untada ou com papel manteiga;
 - Com a batedeira ainda ligada, adicione o açúcar de confeiteiro e as gotinhas de limão. Bata até formar um glacê firme e brilhante que não escorre do batedor;
-- --
 
 ---
 

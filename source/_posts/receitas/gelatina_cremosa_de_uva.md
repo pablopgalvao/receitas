@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 250 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 pacotes de gelatina sabor uva (60 gramas)
 - 1 xícara de chá de água quente (250 ml)
@@ -36,7 +36,6 @@ flags: []
 - 1 xícara de chá de leite integral (200 ml)
 - Para começar, reúna todos os ingredientes e organize sua bancada. Separe uma forma com furo central (20x9 cm) e unte com óleo;
 - Em uma tigela, dissolva os 3 pacotes de gelatina em 250 ml de água quente. Mexa bem até dissolver completamente;
-- --
 
 ---
 

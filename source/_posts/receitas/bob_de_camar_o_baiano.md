@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de camarão
 - 4 colheres de azeite de oliva
@@ -40,7 +40,6 @@ flags: []
 - 2 colheres de sopa de coentro
 - Junte os ingredientes para fazer o típico bobó de camarão baiano. Deixe o fruto do mar temperado no gengibre, sal e coentro;
 - Para cozinhar a macaxeira, leve uma panela de pressão ao fogo alto e cozinhe com água e sal por aproximadamente 20 minutos, ou até ela ficar macia;
-- --
 
 ---
 

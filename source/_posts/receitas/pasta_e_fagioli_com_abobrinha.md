@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Assim que estiver cozido, reserve ¼ de xícara (chá) da água do cozimento e passe o macarrão pelo escorredor. Junte ao refogado de abobrinha e misture bem.
 - No processador de alimentos (ou liquidificador) bata a outra metade dos grãos de feijão com ½ colher (sopa) de azeite e a água do cozimento reservada até formar um molho fluido. Tempere com sal e pimenta a gosto e divida em dois pratos.
 - Disponha o macarrão sobre o molho de feijão nos pratos, cubra com as fatias de abobrinha grelhadas e polvilhe com salsinha. Regue com azeite e sirva com lascas de queijo parmesão.
-- --
 
 ---
 

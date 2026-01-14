@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de açúcar (100 gramas)
 - 1/3 xícara de chá de óleo (80 ml)
@@ -45,7 +45,6 @@ flags: []
 - Entre com a farinha de trigo e o fermento químico, ambos peneirados também. Mexa delicadamente, até que esteja homogêneo;
 - Despeje em uma forma untada e enfarinhada (manteiga, farinha de trigo e cacau em pó), de 18 x 27 cm;
 - Para a calda, em uma panela em fogo médio, coloque o leite, o açúcar e o cacau em pó. Misture bem para dissolver o açúcar e o chocolate, desligue assim que levantar fervura;
-- --
 
 ---
 

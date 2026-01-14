@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 22 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Cheiro-verde a gosto
 - Sal a gosto
@@ -35,7 +35,6 @@ flags: []
 - Azeite a gosto
 - Parmesão ralado a gosto
 - Numa tigela grande, adicione os tomates e o cheiro-verde picadinhos. Tempere com sal, pimenta-do-reino e azeite. Misture em para que tudo se incorpore;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 50 g de manteiga em cubos
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave e seque bem as folhas de couve. Rasgue as folhas grosseiramente e transfira para uma assadeira grande. Distribua os cubos de manteiga sobre a couve e tempere com sal e pimenta-do-reino moída na hora a gosto.
-- --
 
 ---
 

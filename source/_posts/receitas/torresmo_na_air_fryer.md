@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de barriga de porco
 - 1 colher rasa de sal
 - Pimenta-do-reino a gosto
 - Tempere os pedaços de barriga de porco com sal e pimenta-do-reino. Misture muito bem para que o tempero pegue em toda a carne;
-- --
 
 ---
 

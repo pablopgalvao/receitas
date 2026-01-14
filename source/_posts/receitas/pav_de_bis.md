@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 ml de leite
 - 2 colheres de sopa de amido de milho
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de sopa de manteiga
 - 4 colheres de sopa de chocolate em pó 50% cacau
 - Em uma panela, adicione o leite condensado, a manteiga e o chocolate;
-- --
 
 ---
 

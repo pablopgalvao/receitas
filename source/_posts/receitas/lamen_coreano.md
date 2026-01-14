@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Panceta de porco (400 gramas)
 - 1 colher de sopa de óleo
@@ -51,7 +51,6 @@ flags: []
 - Pegue as fatias de panceta, espalhe em seus pedaços um pouco da pasta de missô que fizemos e grelhe em frigideira quente com um fiozinho de óleo até que fique dourado;
 - Para montagem, coloque no fundo da tigela 1 colher de chá da pasta de missô com pimenta que fizemos e dissolva em 2 conchas do caldo;
 - Acrescente o macarrão, alguns pedaços de panceta (que você poderá cortar em tamanhos menores), cebolinha verde e gergelim a gosto, assim como um ovo cortado ao meio;
-- --
 
 ---
 

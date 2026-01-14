@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 180 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de farinha de trigo integral (420 gramas)
 - 1 e 1/3 de xícara de chá de água (320 ml)
@@ -42,7 +42,6 @@ flags: []
 - Transfira a massa para uma bancada ou superfície limpa e sove por cerca de 15 minutos ou até que fique elástica e não grude mais nas mãos - durante a sova, evite adicionar farinha, use uma faca ou espátula para raspar a massa que for grudando na bancada;
 - Faça uma bola com a massa e transfira para uma tigela. Cubra novamente com um pano úmido e deixe descansar em temperatura ambiente por 1 hora ou até dobrar de tamanho. Aproveite e unte uma forma para pão com óleo;
 - Depois que a massa tiver dobrado de tamanho, polvilhe levemente as mãos e uma superfície limpa com farinha integral. Transfira a massa para a superfície e pressione-a levemente com os dedos para retirar o ar e moldar um retângulo;
-- --
 
 ---
 

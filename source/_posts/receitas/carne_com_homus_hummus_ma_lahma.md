@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - arabe
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve ao fogo baixo uma frigideira grande, de preferência antiaderente. Quando aquecer, regue com ½ colher (sopa) de azeite, junte a cebola e tempere com uma pitada de sal. Refogue por cerca de 10 minutos, até ficar bem dourada.
 - Transfira a cebola para uma tigela e mantenha a frigideira em fogo baixo. Regue com o azeite restante e junte a carne desfiada. Mexa rapidamente, apenas para aquecer. Adicione a canela e tempere com sal e pimenta-do-reino a gosto. Misture bem e desligue o fogo.
 - Coloque a carne refogada no centro do homus e cubra com a cebola dourada. Salpique com zatar e sirva a seguir com torradinhas de pão sírio.
-- --
 
 ---
 

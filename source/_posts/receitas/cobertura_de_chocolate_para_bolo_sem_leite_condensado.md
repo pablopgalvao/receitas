@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite integral
 - 1/2 xícara de chá de açúcar
 - 5 colheres de sopa de chocolate em pó 50% cacau
 - 2 colheres de sopa de manteiga
 - Em uma panela de fundo grosso, ainda fora do fogo, coloque o leite, o açúcar, o chocolate em pó e a manteiga. Misture até incorporar para não criar gruminhos;
-- --
 
 ---
 

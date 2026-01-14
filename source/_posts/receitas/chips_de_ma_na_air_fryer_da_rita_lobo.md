@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,19 +20,17 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - Salmão com brócolis na Air Fryer da Rita Lobo
 - Transfira a maçã para o cesto da Air Fryer, espalhando bem as fatias — quanto mais espalhadas as fatias estiverem, mais uniforme será o cozimento. Feche a gaveta e deixe as maçãs assarem pelo tempo programado, até começarem a dourar.
-- --
 
 ---
 

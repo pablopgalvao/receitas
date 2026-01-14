@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - pimenta-do-reino moída na hora a gosto
 - Numa tigela grande, coloque a peça de fraldinha e tempere com o sal grosso, o azeite e pimenta-do-reino a gosto. Misture bem com as mãos para envolver toda a superfície da carne com o azeite e o sal.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Deixe que as espigas amornem o suficiente para conseguir manusear (se preferir, cozinhe o milho com antecedência). Para debulhar os milhos, apoie a espiga dentro de uma assadeira (ou travessa) e corte os grãos no sentido do comprimento do sabugo, bem rente (no total, você vai precisar de 2 xícaras [chá] de grãos de milho debulhados para esta receita).
 - Leve uma panela média com a manteiga ao fogo médio. Quando a manteiga derreter, adicione a cebola, uma pitada de sal e refogue até murchar. Junte o milho debulhado, tempere com sal e pimenta e mexa por 1 minuto.
 - Volte o leite batido com milho para a panela e deixe cozinhar até ferver, mexendo de vez em quando. Abaixe o fogo e mexa por mais 5 minutos, até que o creme engrosse. Prove e ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

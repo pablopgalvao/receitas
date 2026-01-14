@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 23 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de creme de leite (200 gramas)
 - 1 colher bem cheia de requeijão
@@ -35,7 +35,6 @@ flags: []
 - Em um recipiente, coloque o creme de leite e adicione a colher cheia de requeijão;
 - Esprema o suco de 1 limão diretamente sobre a mistura e mexa vigorosamente com uma colher por cerca de 1 minuto. Se notar que a mistura ainda não encorpou, adicione o suco de mais 1/2 limão e continue mexendo até ficar com textura cremosa;
 - Em seguida, tempere com o sal e misture bem para ajustar o sabor;
-- --
 
 ---
 

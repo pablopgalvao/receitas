@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma frigideira antiaderente ao fogo médio. Quando aquecer, coloque cerca de ½ colher (chá) de manteiga e espalhe bem com uma folha de papel toalha para untar (repita essa operação antes de cada leva).
 - Para medir a quantidade de massa necessária para cada panqueca utilize uma colher de servir arroz. Coloque uma colherada de massa na frigideira e deixe firmar e dourar, cerca de 3 minutos. Com uma espátula, vire a panqueca para dourar do outro lado. Transfira para um prato e repita com o restante da massa.
 - Sirva as panquecas com fatias de queijo brie e salada de folhas.
-- --
 
 ---
 

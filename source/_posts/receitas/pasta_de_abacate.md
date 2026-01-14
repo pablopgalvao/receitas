@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 colheres (chá) de azeite
 - sal a gosto
 - Descarte o caroço, transfira a polpa para uma tigela, regue com o azeite e o caldo de limão. Tempere com sal e amasse com o amassador de legumes (ou um garfo) para formar uma pastinha. Sirva a seguir.
-- --
 
 ---
 

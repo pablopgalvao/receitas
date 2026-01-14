@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Assim que a água ferver, acrescente 1 colher (sopa) de sal e junte o macarrão. Misture e deixe cozinhar pelo tempo indicado na embalagem. Enquanto isso, prepare o molho.
 - Leve uma frigideira grande com a manteiga ao fogo médio. Quando derreter, junte o alho picado fino, e os cogumelos fatiados. Tempere com sal e pimenta a gosto e refogue por 3 minutos, até os cogumelos ficarem dourados e macios. Regue com o vinho branco e misture bem. Desligue o fogo e misture a salsinha picada a gosto.
 - Quando a massa estiver al dente, escorra a água e reserve ½ xícara (chá) da água do cozimento do macarrão. Transfira o espaguete para a frigideira com o molho de cogumelos e adicione, aos poucos, a água do cozimento, para deixar o molho mais fluido. Sirva a seguir com queijo parmesão a gosto.
-- --
 
 ---
 

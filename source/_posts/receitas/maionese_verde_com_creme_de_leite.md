@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de creme de leite (100ml)
 - 1 pitada de sal ou a gosto
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela, cozinhe os ovos por aproximadamente 10 minutos, até que as gemas fiquem durinhas;
 - No liquidificador ou processador, coloque os ovos cozidos, o creme de leite, o sal, a mostarda e a pimenta-do-reino. Esprema o limão e bata até que vire um creme consistente;
 - Em seguida, acrescente a salsinha e bata novamente, até a maionese atingir a cor verde e uma textura cremosa;
-- --
 
 ---
 

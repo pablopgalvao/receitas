@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de leite (240 ml)
 - 1 xícara de chá de óleo (240 ml)
@@ -40,7 +40,6 @@ flags: []
 - Acrescente o leite, o óleo e o polvilho doce aos poucos, mexendo delicadamente até formar uma massa lisa e homogênea;
 - Depois, junte o queijo ralado, misture e adicione a pitada de sal;
 - Acrescente o fermento químico e mexa delicadamente, apenas até incorporar. Unte uma forma com óleo e despeje a massa, espalhando de forma uniforme.
-- --
 
 ---
 

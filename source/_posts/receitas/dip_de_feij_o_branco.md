@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ¼ de xícara (chá) de folhas de coentro (meça pressionando na xícara)
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa frigideira grande, coloque o azeite, o alho e leve ao fogo baixo. Quando perfumar, junte os grãos de feijão e refogue por 1 minuto. Adicione o coentro, a cebolinha, a pimenta dedo-de-moça, as raspas e o caldo de limão. Tempere com sal e pimenta-do-reino a gosto e refogue por mais 2 minutos.
-- --
 
 ---
 

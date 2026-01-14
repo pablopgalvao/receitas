@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de azeite (30 ml)
 - 2 xícaras de chá de arroz branco (370 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Após o arroz estar cozido, com o fogo ainda ligado, adicione a uva passa preta, os damascos, a pimenta dedo-de-moça, a salsinha picada e as amêndoas em lâminas;
 - Misture tudo delicadamente com uma colher grande até os ingredientes ficarem bem distribuídos;
 - Por fim, transfira esse arroz para uma travessa e, se desejar, finalize com salsinha picada para ficar ainda mais saboroso;
-- --
 
 ---
 

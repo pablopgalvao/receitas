@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - ¼ de colher (chá) de sal
 - Descasque, lave sob água corrente e seque bem o chuchu com um pano de prato — assim ele não escorrega na hora de cortar. Corte o chuchu ao meio, no sentido do comprimento, e, com uma colher, descarte a semente. Corte cada metade ao meio, no sentido da largura; as partes mais finas, corte em 3 tiras, no sentido do comprimento, e as mais grossas, em 4 tiras. Fatie as tiras em pedaços de 2 cm.
 - Numa tigela pequena, misture o azeite com ¼ de colher (chá) de sal, o cominho e a pimenta calabresa — assim fica mais fácil temperar os legumes de maneira uniforme.
-- --
 
 ---
 

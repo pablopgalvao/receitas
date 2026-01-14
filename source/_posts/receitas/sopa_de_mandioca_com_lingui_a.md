@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mandioca
 - 1 colher de chá de páprica defumada
@@ -41,7 +41,6 @@ flags: []
 - Ferva água em uma panela de pressão e adicione as mandiocas. Acrescente páprica, alho em pó, lemon pepper e sal. Misture e tampe a panela;
 - Em outra panela, adicione o azeite e refogue a linguiça. Dê leves batidinhas com a colher para ela ficar soltinha;
 - Bata a mandioca já cozida em um liquidificador, com cerca de 800 ml do caldo de cozimento, por 2 minutinhos, formando uma mistura espessa. Reserve 3 conchas desse caldo;
-- --
 
 ---
 

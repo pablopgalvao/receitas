@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Retire as folhas da água em vez de escorrer — assim, eventuais sujeirinhas ficam no fundo da tigela. Enxágue as folhas e seque numa centrífuga de saladas.
 - Num pote de vidro (que tenha tampa), coloque a gordura do bacon derretida, o azeite, o caldo de limão e tempere com sal e pimenta. Tampe e chacoalhe bem para misturar.
 - Coloque as folhas numa travessa (ou saladeira), regue com o molho e sirva a seguir.
-- --
 
 ---
 

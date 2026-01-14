@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2025 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas de fraldinha desfiada
 - 100 gramas de bacon
@@ -43,7 +43,6 @@ flags: []
 - Em uma tigela, quebre os ovos separadamente, para verificar se estão bons. Tempere com um pouco de sal e com o auxílio de um garfo ou fouet (batedor de arame), bata-os delicadamente;
 - Passe os croquetes já envolvidos no trigo nessa mistura de ovos. Finalize passando também pela farinha panko ou de rosca, para um acabamento crocante. O ideal é repetir esse processo duas vezes em cada bolinho;
 - Esquente o óleo e leve pequenas porções para fritar. Assim que dourarem, retire e deixe-os escorrer em um prato com papel-toalha;
-- --
 
 ---
 

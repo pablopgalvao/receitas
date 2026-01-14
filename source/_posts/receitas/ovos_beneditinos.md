@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Com uma escumadeira, transfira o ovo para uma tigela com água fria. Repita o procedimento com os demais ovos e reserve. Na hora de servir, se quiser, volte os ovos à água fervente e deixe aquecer 30 segundos.
 - Aqueça uma frigideira média e coloque um fio de óleo. Junte as fatias de bacon com lombo (duas por vez) e doure dos dois lados. Reserve.
 - Coloque uma torrada no prato e espalhe 1 colher do molho holandês. Por cima, coloque duas fatias de bacon e dois ovos pochê. Regue com mais molho. Se quiser, salpique com folhas de salsa e polvilhe com páprica a gosto. Repita o procedimento com o outro prato e sirva a seguir.
-- --
 
 ---
 

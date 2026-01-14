@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Pimenta-do-reino a gosto
 - Azeite (40 ml)
@@ -35,7 +35,6 @@ flags: []
 - 2 ramos de alecrim (ou a gosto)
 - Coloque uma panela com água para aquecer, até quase ferver. Assim que a água estiver bem quente, adicione bastante sal (como se fosse macarrão). Coloque as batatas na água e cozinhe por cerca de 5 minutos;
 - Tempere com mais um pouco de sal e pimenta-do-reino a gosto (adicione páprica, cúrcuma ou outros temperos, se desejar);
-- --
 
 ---
 

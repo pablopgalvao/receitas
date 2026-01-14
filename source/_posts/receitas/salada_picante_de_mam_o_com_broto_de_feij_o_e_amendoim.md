@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - amendoim torrado sem sal picado a gosto
 - Num pote de vidro (que tenha tampa) junte a pimenta, o coentro, o caldo de limão, o azeite e o sal. Tampe e chacoalhe bem para misturar, reserve.
 - Retire as folhas e o broto de feijão da água, em vez de escorrer – assim as sujeirinhas ficam no fundo da tigela. Enxágue e seque bem numa centrífuga de saladas. Rasgue as folhas de alface com as mãos.
-- --
 
 ---
 

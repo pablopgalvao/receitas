@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma panela grande com água ao fogo alto. Quando ferver, adicione 1 colher (sopa) de sal, junte o macarrão e misture. Deixe cozinhar, pelo tempo indicado na embalagem ou até ficar al dente.
 - Numa tigela grande, junte a pasta de amendoim, o limão, o shoyu e misture bem até ficar liso. Regue com ¼ de xícara (chá) da água do cozimento do macarrão e misture bem. Reserve ⅓ desse molho espesso numa molheira para servir.
 - Assim que estiver cozido, reserve mais 1 xícara (chá) da água do cozimento e escorra o macarrão. Transfira o macarrão ainda quente para a tigela com o molho de amendoim e vá adicionando a água do cozimento reservada, aos poucos, para deixar o molho mais fluido – não coloque tudo de uma só vez, para não ficar aguado.
-- --
 
 ---
 

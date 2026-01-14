@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Leve uma frigideira grande ao fogo médio para aquecer. Adicione a manteiga e deixe derreter completamente por cerca de 1 minuto. Mantenha a manteiga em fogo médio por mais 1 minuto até começar a espumar. Pintinhas douradas vão aparecer no fundo da frigideira — esse douradinho da manteiga vai dar mais sabor ao molho. Desligue o fogo.
 - Acrescente as zests de limão e deixe dourar por cerca de 30 segundos no calor residual da manteiga, até ficarem levemente douradas e darem uma enroladinha — cuidado para não queimar e amargar o molho. Com uma pinça (ou escumadeira), transfira as zests de limão para uma tigela — elas vão ser usadas na finalização.
 - Volte a frigideira ao fogo baixo, adicione o caldo do limão, ¼ de xícara (chá) da água do cozimento reservada e deixe cozinhar até começar a ferver. Junte os nhoques cozidos ao molho e misture delicadamente para aquecer, fazendo movimentos circulares com a frigideira, com cuidado para não desmanchar os nhoques. Adicione aos poucos o restante da água do cozimento reservada caso o molho seque.
-- --
 
 ---
 

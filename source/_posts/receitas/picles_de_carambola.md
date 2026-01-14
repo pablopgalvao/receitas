@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - ½ colher (chá) de sal
 - Descarte as pontas e fatie as carambolas em estrelas finas, de 0,5 cm de espessura. Transfira as fatias para um pote de vidro, que tenha tampa e comporte cerca de 750 ml. Reserve.
 - Descasque e fatie o gengibre em tirinhas – assim ele libera mais sabor ao picles. Transfira para uma panela, junte o vinagre, o mel, a água e o sal. Leve ao fogo médio e deixe cozinhar por 2 minutos contados após a fervura.
-- --
 
 ---
 

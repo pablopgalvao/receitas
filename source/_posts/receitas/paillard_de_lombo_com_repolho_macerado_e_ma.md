@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Regue a maçã com o mel, um fio de azeite e tempere com uma pitada de sal. Misture delicadamente, cubra a tigela com um prato e leve ao micro-ondas para rodar por 5 minutos em potência alta até a maçã ficar macia e formar uma caldinha. Enquanto isso, grelhe os paillards.
 - Leve uma frigideira grande ao fogo médio. Tempere apenas um dos lados dos paillards com sal e pimenta-do-reino a gosto. Quando estiver bem quente, regue a frigideira com ½ colher (chá) de azeite e gire para cobrir todo fundo. Coloque um paillard e deixe dourar por cerca de 2 minutos. Vire com uma pinça e doure por mais 1 minuto. Transfira para o prato de servir e repita com o outro paillard.
-- --
 
 ---
 

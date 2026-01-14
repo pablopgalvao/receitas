@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de creme de leite
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de chocolate em pó 50% de cacau
 - Coloque o leite condensado, o creme de leite, a manteiga e o chocolate em pó em uma panela;
 - Corte em quadrados e polvilhe com açúcar refinado;
-- --
 
 ---
 

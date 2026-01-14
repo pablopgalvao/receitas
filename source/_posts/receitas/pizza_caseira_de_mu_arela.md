@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Polvilhe uma bancada lisa com farinha de trigo. Transfira a massa de pizza para a bancada e, com uma espátula (ou faca) divida em 4 porções. Separe uma porção da massa para abrir e cubra o restante com um pano de prato para não ressecar (se preferir, embale individualmente com filme e armazene na geladeira por 3 dias ou no congelador por até 1 mês).
 - Com o rolo de macarrão, abra a massa formando um círculo de cerca de 30 cm de diâmetro - lembre-se de sempre polvilhar a bancada com farinha para a massa não grudar.
 - Com uma colher, espalhe o molho de tomate deixando cerca de 1 cm de borda da massa livre. Polvilhe a muçarela ralada e disponha os tomates. Leve ao forno preaquecido e deixe assar por cerca de 15 minutos até o queijo derreter e a massa dourar. Se o seu forno tiver a opção grill, deixe a pizza assar por 10 minutos em forno alto e mais 2 minutos no grill, até formar uma bordinha crocante e dourada.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - folhas de manjericão a gosto para servir
 - Transfira os legumes para uma tigela, junte os dentes de alho inteiros, com a casca, e as azeitonas. Regue com 2 colheres (chá) de azeite, tempere com ½ colher (chá) de sal, pimenta a gosto e misture bem.
 - Tempere cada posta de robalo com ¼ de colher (chá) de sal, pimenta-do-reino moída na hora e ½ colher (chá) de azeite.
-- --
 
 ---
 

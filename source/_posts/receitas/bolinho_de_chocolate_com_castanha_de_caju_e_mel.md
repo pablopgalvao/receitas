@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Sobre a tábua pique o chocolate e corte a manteiga em cubos. Transfira para uma tigela de vidro refratário pequena e acrescente o mel.
 - Numa tigela pequena quebre um ovo de cada vez e transfira para outra tigela grande. Mexa com o batedor de arame apenas para misturar as gemas com as claras. Adicione a farinha de castanhas, a canela, o sal e misture bem. Junte aos poucos o chocolate e a manteiga derretidos, misturando com a espátula até ficar liso.
 - Retire a assadeira do forno e deixe esfriar em temperatura ambiente. Retire os ramequins da assadeira, decore a superfície dos bolinhos com açúcar de confeiteiro e sirva seguir. Se preferir, desenforme os bolinhos para servir.
-- --
 
 ---
 

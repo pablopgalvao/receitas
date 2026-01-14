@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Leve uma panela com cerca de 3 litros de água ao fogo alto. Enquanto isso, abra a lata de grão-de-bico, escorra o líquido por uma peneira e passe sob água corrente para tirar o excesso de sal.
 - Assim que a água ferver, reserve 1½ xícara (chá) — ela vai ser usada para o preparo do molho. Adicione 1½ colher (sopa) de sal, coloque o macarrão e deixe cozinhar pelo tempo indicado na embalagem, mexendo de vez em quando para que os fios não grudem um no outro, até ficar al dente.
 - Regue uma frigideira grande com o azeite, adicione o alho, a pimenta, o alecrim debulhado e leve ao fogo médio por 2 minutos, apenas para perfumar. Adicione o grão-de-bico, a azeitona e refogue por 2 minutos para aquecer os grãos. Reserve ⅓ de xícara (chá) do refogado numa tigela para finalizar os pratos e transfira o restante para o liquidificador — raspe bem a frigideira com uma espátula de silicone para aproveitar todo o azeite.
-- --
 
 ---
 

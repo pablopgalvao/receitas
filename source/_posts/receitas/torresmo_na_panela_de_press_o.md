@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de barriga suína
 - Sal a gosto
@@ -35,7 +35,6 @@ flags: []
 - Comece cortando a barriga suína em cubos de tamanho médio e tempere com sal a gosto;
 - Na panela de pressão em fogo médio-baixo, adicione o óleo. Acrescente os pedaços de barriga e mexa com o auxílio de uma colher;
 - Nesse período, chacoalhe a panela algumas vezes, para que a carne se misture. Pode abrir algumas vezes para mexer também com a colher (não se preocupe, não tem pressão);
-- --
 
 ---
 

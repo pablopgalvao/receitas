@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga ou margarina
 - 2 sachês de caldo de galinha em pó (14 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Quando começar a borbulhar, acrescente a farinha de trigo e misture constantemente, com o auxílio de uma colher de pau, por cerca de 3 minutos;
 - Envolva no leite gelado, depois empane completamente na farinha de rosca;
 - Aqueça uma panela com óleo e frite as coxinhas aos poucos por 3 a 4 minutos, dourando-as por igual;
-- --
 
 ---
 

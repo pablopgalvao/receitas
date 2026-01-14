@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 postas de lombo de bacalhau ou lascas graúdas de lombo dessalgado (500 gramas)
 - 1 colher de sopa de amido de milho
@@ -40,7 +40,6 @@ flags: []
 - Em uma frigideira, coloque azeite até cobrir o fundo. Adicione a cebola, o alho, uma pitada de sal e os galhos de tomilho. Refogue em fogo baixo até dourar levemente;
 - Junte com o bacalhau, a cebola e o alho refogados, assim como o amido de milho, um fio de azeite, as raspas de limão e a salsinha. Misture bem até obter uma massa uniforme;
 - Aqueça o óleo a 180°C e frite os bolinhos até que fiquem dourados e crocantes;
-- --
 
 ---
 

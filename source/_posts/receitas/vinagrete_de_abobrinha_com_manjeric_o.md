@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal a gosto
 - Descasque e corte a cebola em pétalas finas. Transfira para uma tigela, adicione ½ colher (sopa) do vinagre, cubos de gelo e cubra com água. Mantenha a cebola imersa por pelo menos 10 minutos para perder o ardido. Enquanto isso, prepare os outros ingredientes.
 - Escorra a cebola e junte à abobrinha. Adicione o caldo de limão, o azeite, o vinagre restante e as folhas de manjericão. Tempere com sal e misture. Sirva a seguir ou mantenha na geladeira até a hora de servir – o vinagrete fica ainda mais gostoso depois de curtir por 30 minutos na geladeira.
-- --
 
 ---
 

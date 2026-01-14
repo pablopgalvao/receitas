@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, misture bem o iogurte e o azeite. Tempere com sal e pimenta-do-reino moída na hora. Junte a hortelã e as rodelas de pepino e misture bem. Sirva a seguir, acompanhando o quibe de peixe.
-- --
 
 ---
 

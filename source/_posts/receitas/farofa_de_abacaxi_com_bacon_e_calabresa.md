@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de bacon (200 gramas)
 - 1 xícara de chá de linguiça calabresa (200 gramas)
@@ -43,7 +43,6 @@ flags: []
 - Passado o tempo, junte a cebola, o alho, a farofa pronta e a farinha panko. Misture tudo;
 - Agregue o abacaxi, o bacon e a calabresa. Tempere com sal e pimenta-do-reino e mexa muito bem;
 - Finalize com salsinha e cebolinha picadas;
-- --
 
 ---
 

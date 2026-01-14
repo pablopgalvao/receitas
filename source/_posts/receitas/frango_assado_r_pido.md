@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Manjericão fresco a gosto
 - 1 colher de café de alecrim seco
@@ -39,7 +39,6 @@ flags: []
 - 2 colheres de sopa de mostarda
 - Assim que levantar fervura, adicione a páprica, os dois dentes de alho picados, o alecrim, o caldo de galinha, o manjericão, a casca de limão, a cebola e uma pitada de sal;
 - Em um recipiente pequeno, misture o extrato de tomate, a mostarda, a maionese, os dentes de alho amassados, o sal e a pimenta-do-reino. Misture até que vire uma pasta;
-- --
 
 ---
 

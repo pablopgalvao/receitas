@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de aveia em flocos finos
 - 1 xícara de chá de polvilho doce (ou araruta)
@@ -40,7 +40,6 @@ flags: []
 - Organize todos os ingredientes em sua bancada. Higienize as mãos, quebre o ovo separadamente e deixe a água morna pronta;
 - Em uma tigela grande, misture a aveia em flocos, o polvilho doce, o açúcar mascavo, o fermento biológico e a goma xantana. Mexa bem até homogeneizar;
 - Faça uma cavidade no centro da mistura seca e adicione o ovo, o sal e metade da água morna. Misture com colher ou espátula, incorporando a farinha aos líquidos;
-- --
 
 ---
 

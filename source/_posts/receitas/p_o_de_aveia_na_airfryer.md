@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/4 de xícara de chá de leite morno
 - 1/4 de xícara de chá de azeite (ou óleo)
@@ -38,7 +38,6 @@ flags: []
 - Em um recipiente, adicione o leite, o azeite, o fermento, o açúcar, os ovos e misture bem;
 - Coloque a farinha, a aveia, o sal e misture até ficar uma massa mole;
 - Escolha uma forma que caiba na airfryer, unte com manteiga, polvilhe com farinha e despeje a massa;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de trigo para quibe (250 gramas)
 - 1 e 1/2 xícara de chá de água quente (360 ml)
@@ -42,7 +42,6 @@ flags: []
 - 1/2 bisnaga de requeijão cremoso (200 gramas)
 - Feito isso, retire o plástico, e mexa o trigo com uma colher, deixando-o bem soltinho;
 - Adicione a carne moída, a cebola picada, as folhas de hortelã, a manteiga, o sal, a pimenta-síria, a pimenta calabresa, o alho desidratado, o suco de limão e o cheiro-verde;
-- --
 
 ---
 

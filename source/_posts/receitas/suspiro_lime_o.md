@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - ⅔ de xícara (chá) de açúcar
 - canela em pó a gosto
 - Numa panela pequena, misture o vinho do Porto com o açúcar. Leve ao fogo baixo para cozinhar, sem mexer, por cerca de 15 minutos até atingir o ponto de fio. Para verificar, mergulhe uma colher e levante um pouco da calda, se formar um fio fino entre as gotas, está pronta.
-- --
 
 ---
 

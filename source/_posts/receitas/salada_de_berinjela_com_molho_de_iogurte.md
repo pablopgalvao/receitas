@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Seque bem os pedaços de berinjela com um pano de prato limpo ou com papel-toalha. Leve uma panela pequena com o óleo ao fogo médio. Para saber a temperatura certa para fritar, coloque um palito de fósforo no óleo ainda frio; quando acender, está no ponto. Forre uma travessa com papel-toalha.
 - Assim que o óleo aquecer, abaixe o fogo e com uma escumadeira adicione algumas fatias de berinjela por vez, delicadamente. Deixe fritar, mexendo de vez em quando até dourar. Transfira para a travessa forrada e repita com o restante.
 - Numa travessa grande, misture o pepino com o tomate. Cubra com a berinjela frita e salpique com as ervas frescas. Sirva a seguir com o molho de iogurte.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de carne moída de primeira (fraldinha ou picanha)
 - 200 gramas de carne moída de segunda (peito ou acém)
@@ -37,7 +37,6 @@ flags: []
 - Pré-aqueça a air fryer a 200 ºC por 5 minutos e tempere os dois lados dos hambúrgueres com sal e pimenta, na hora de grelhar;
 - Corte os pães ao meio, espalhe manteiga nas partes internas e sele na air fryer até dourarem levemente;
 - Sirva logo em seguida com acompanhamentos a gosto. Bom apetite!
-- --
 
 ---
 

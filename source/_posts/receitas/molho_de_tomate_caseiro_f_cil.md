@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de água
 - 5 colheres de sopa de azeite
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela, no fogo médio, aqueça o azeite e frite a cebola com uma pitada de sal até ela dourar;
 - Acrescente o suco de tomate, o sal e a pimenta, misturando para incorporar. Tampe a panela e deixe o líquido cozinhar por cerca de 20 minutos, mexendo por vezes para não grudar no fundo da panela;
 - Passado o tempo, adicione o açúcar para mascarar a acidez do molho e misture bem, cozinhando por pelo menos mais 5 minutos;
-- --
 
 ---
 

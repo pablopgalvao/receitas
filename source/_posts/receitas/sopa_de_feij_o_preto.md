@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de feijão preto cozido (com o caldo do cozimento)
 - 2 e 1/2 xícaras de chá de água
@@ -37,7 +37,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Cebolinha a gosto
 - Adicione o macarrão tipo Ave Maria à panela e deixe cozinhar por cerca de 8 a 15 minutos, ou até o macarrão ficar al dente. Durante o cozimento, ajuste o sal e a pimenta-do-reino;
-- --
 
 ---
 

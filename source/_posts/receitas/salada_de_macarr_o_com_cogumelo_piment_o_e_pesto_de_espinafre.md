@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - Numa frigideira grande, de preferência antiaderente, coloque os cogumelos e regue com 3 colheres (sopa) de água. Leve ao fogo alto e deixe cozinhar por cerca de 4 minutos até a água secar – evite mexer demais para que os cogumelos não liberem líquido. Assim que a água secar, regue com ½ colher (sopa) de azeite, tempere com sal e pimenta e mexa de vez em quando até dourar, por cerca de 3 minutos – com essa técnica os cogumelos douram mais facilmente e com menos azeite.
 - Transfira os cogumelos dourados para um prato e diminua o fogo para médio. Regue com 1 colher (chá) de azeite e acrescente os pimentões. Tempere com sal e pimenta a gosto, refogue por 3 minutos até dourar e junte aos cogumelos.
 - Adicione o molho pesto ao macarrão e misture delicadamente – vá acrescentando aos poucos a água do cozimento reservada, de colher em colher, para deixar o molho mais fluido. Divida em 4 pratos e sirva com os cogumelos e pimentões dourados, as nozes picadas e lascas de parmesão.
-- --
 
 ---
 

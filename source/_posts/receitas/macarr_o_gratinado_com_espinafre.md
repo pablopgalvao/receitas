@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Numa tigela pequena, misture com a ponta dos dedos a farinha, a manteiga, pimenta e sal, até obter uma farofinha. Reserve.
 - Leve uma panela média com 2 litros de água ao fogo alto. Quando ferver, misture 1 colher (sopa) de sal, adicione o macarrão e deixe cozinhar por 3 minutos (a metade do tempo indicado na embalagem) — o macarrão deve ainda estar cru no centro; ele vai terminar de cozinhar com o molho no forno.
 - Divida o macarrão em 3 refratários (ou panelinhas) individuais de 500 ml, cubra com a farofinha e leve ao forno para gratinar por cerca de 10 minutos, ou até dourar.
-- --
 
 ---
 

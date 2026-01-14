@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mandioca cozida (sem talo)
 - 2 caixinhas de creme de leite (400 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Queijo a gosto (120 gramas)
 - Em seguida, no liquidificador ou processador, adicione a mandioca cozida, o creme de leite, o sal e o chimichurri. Bata até obter um creme consistente;
 - Cubra com o restante do creme de mandioca, formando duas camadas. Por fim, se desejar gratinar, finalize com queijo ralado a gosto e o bacon por cima;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Reserve 1/3 de xícara (chá) da água do cozimento e passe as batatas (e os dentes de alho) por um escorredor.
 - Sobre a mesma panela, passe pelo espremedor as batatas e os dentes de alho ainda quentes. Volte a panela ao fogo baixo e regue aos poucos com a água do cozimento reservada, misturando bem com uma colher até ficar com textura de purê.
 - Acrescente o azeite, tempere com a pimenta-de-caiena, a páprica e sal a gosto. Junte as raspas de limão, a sardinha e misture delicadamente para incorporar - cuidado para não desmanchar completamente os pedaços de sardinha. Transfira a brandade para uma travessa, decore com as folhas de salsinha e regue com um fio de azeite. Sirva a seguir com torradas.
-- --
 
 ---
 

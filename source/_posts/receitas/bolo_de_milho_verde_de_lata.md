@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 latinha de milho com a água (170 gramas)
 - 1 latinha de açúcar (135 gramas)
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, coloque os ovos, o milho com a água, o açúcar e o óleo. Bata até obter uma mistura homogênea;
 - Por fim, entre com o fermento em pó e misture com uma colher ou espátula, apenas para incorporar;
 - Unte uma forma (20 x 8 cm) com margarina e farinha de trigo, fubá ou açúcar, conforme preferência;
-- --
 
 ---
 

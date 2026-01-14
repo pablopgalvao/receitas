@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água
 - 100 ml de óleo vegetal
@@ -39,7 +39,6 @@ flags: []
 - Adicione a mistura de água com óleo e mexa com uma colher, para formar uma massa. Reserve;
 - Em outra tigela, rale o queijo no ralador fino. Acrescente os ovos e mexa bem;
 - Adicione a mistura dos ovos com o queijo na massa reservada. Amasse com as mãos até obter uma massa lisa e homogênea;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - pimenta-do-reino em grãos moída na hora a gosto
 - Leve uma panela média ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e junte a cebola. Tempere com uma pitada de sal e refogue por cerca de 3 minutos até dourar.
 - Adicione o azeite restante e junte a cenoura fatiada. Deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até ficarem levemente macias. Junte as sementes de cardamomo e de erva-doce, adicione a páprica, o cominho, o gengibre em pó, a canela, os cravos-da-índia e a folha de louro. Tempere com o sal, pimenta-do-reino e noz-moscada. Misture bem.
-- --
 
 ---
 

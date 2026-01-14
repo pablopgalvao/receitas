@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de aveia em flocos ou farelo (110 gramas)
 - 1 xícara de chá de nozes (100 gramas)
@@ -39,7 +39,6 @@ flags: []
 - 1/4 colher de sopa de noz-moscada ralada
 - 1 colher de sopa de mel
 - Em uma tigela grande, adicione as maçãs raladas, os ovos, a aveia, as nozes, as frutas secas e o fermento;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 150 gramas de bacon
 - 1 colher de chá de pimenta-calabresa
@@ -42,7 +42,6 @@ flags: []
 - Descasque a cebola e corte ela e o bacon em cubinhos. Pique o tomate seco em pedaços menores e corte a salsinha finamente;
 - Entre com o tomate seco, o extrato de tomate, pimenta calabresa, vinho branco, a água, o creme de leite, o macarrão e o sal. Misture para que tudo se incorpore e cozinhe por cerca de 8 minutos;
 - Agora, desligue o fogo e finalize com o queijo parmesão ralado, assim como salsinha picadinha. Mexa uma última vez para agregar tudo. E está pronto! Sirva ainda quentinho, aproveitando todo esse sabor!
-- --
 
 ---
 

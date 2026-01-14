@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 2 colheres (sopa) de manteiga derretida
 - Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga um refratário raso que comporte cerca de 2 litros.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para outra tigela maior – se um estiver estragado, você não perde a receita. Junte a manteiga e misture com o batedor de arame (se a manteiga estiver gelada, leve ao micro-ondas por 30 segundos para que derreta). Adicione o açúcar, aos poucos, mexendo bem a cada adição até formar um creminho. Acrescente as raspas de laranja, o coco ralado e misture com uma espátula para incorporar.
-- --
 
 ---
 

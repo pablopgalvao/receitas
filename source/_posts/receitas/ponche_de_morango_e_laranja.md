@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 ml de água gelada
 - Hortelã fresca a gosto
@@ -35,7 +35,6 @@ flags: []
 - Mel a gosto
 - 300 ml de água com gás ou tônica
 - Em outra jarra grande ou bowl, adicione esse chá gelado, todas as frutas frescas já cortadas, folhas de hortelã a gosto, assim como gelo;
-- --
 
 ---
 

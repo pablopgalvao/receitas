@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Acrescente o vinho e misture bem com uma espátula, raspando o fundo da panela para dissolver os queimadinhos - eles dão sabor ao molho. Junte o tomate pelado, regue com 2 xícaras (chá) de água e deixe cozinhar em fogo alto até ferver.
 - Volte os pedaços de rabada para a panela, tempere com sal e tampe. Deixe cozinhar em fogo alto; assim que a válvula começar a apitar, abaixe o fogo e deixe cozinhar por mais 50 minutos, até que a carne fique bem macia.
 - Desligue o fogo e, importante, deixe toda a pressão sair antes de abrir a panela. Misture a salsinha picada e sirva a seguir. Fica uma delícia com salada de agrião.
-- --
 
 ---
 

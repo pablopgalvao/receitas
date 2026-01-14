@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - sal a gosto
 - Deixe o ácido do limão agir por cerca de 5 minutos, até talhar – o leite deve formar grumos, com uma parte sólida branca bem visível, imersos num líquido levemente amarelado. Se demorar muito, acenda o fogo novamente e deixe ferver de novo. Desligue, mexa e espere mais alguns minutos até talhar.
 - Transfira o queijo drenado para uma tigela, tempere com sal e mantenha na geladeira até a hora de servir. O queijo cottage dura até 3 dias, na geladeira, armazenado num pote com fechamento hermético.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de filés de frango
 - Sal e pimenta-do-reino a gosto
@@ -37,7 +37,6 @@ flags: []
 - Cheiro-verde a gosto
 - Em um recipiente, tempere o frango com sal e pimenta;
 - Acrescente os filés de frango, acerte o sal, tampe a panela e deixe apurar por alguns minutos;
-- --
 
 ---
 

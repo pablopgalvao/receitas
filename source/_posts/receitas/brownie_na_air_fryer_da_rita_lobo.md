@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa tigela média coloque o chocolate, junte a manteiga e leve ao micro-ondas para rodar em potência média, de 30 em 30 segundos, até derreter. Deixe o chocolate amornar enquanto separa o restante dos ingredientes.
 - Unte com manteiga 4 ramequins individuais de 8 cm de diâmetro e 4,5 cm de altura (que comportem 130 ml). Misture cerca de 1 colher (chá) de farinha de trigo com 1 colher (chá) de cacau e polvilhe os ramequins (o cacau deixa o brownie mais bonito na hora de desenformar, mas se preferir pode usar só farinha). Chacoalhe para espalhar e bata bem sobre a pia para tirar o excesso.
 - Em outra tigela média, quebre o ovo. Junte os açúcares e misture bem com um batedor de arame até dissolver os gruminhos de açúcar no ovo. Adicione o chocolate derretido, o sal e misture bem com uma espátula de silicone. Por último, misture a farinha delicadamente.
-- --
 
 ---
 

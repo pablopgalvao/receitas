@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Após 12 minutos, passe o ovo sob água corrente para esfriar. Role delicadamente o ovo sobre a tábua para a casca rachar e descasque sob água corrente. Corte o ovo ao meio, no sentido do comprimento e cada metade em cubos de 0,5 cm.
 - Numa tigela, junte o ovo picado, ¼ de xícara (chá) de azeite e ¼ de xícara (chá) de salsinha picada. Tempere com sal e pimenta a gosto e misture delicadamente.
 - Misture o grão-de-bico com o molho de azeite, ovo e salsinha – reserve um pouco do molho para a finalização. Transfira para um prato e disponha os tomates grelhados entre os grãos. Finalize com o molho reservado e folhas de salsinha. Sirva com fatias de pão tostadas.
-- --
 
 ---
 

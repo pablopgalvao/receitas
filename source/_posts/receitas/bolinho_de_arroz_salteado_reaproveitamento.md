@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Acrescente o queijo ralado, prove e tempere com sal e pimenta-do-reino. Adicione os ovos e, por último, misture bem o amido de milho.
 - Passe um papel toalha para limpar a frigideira e leve ao fogo médio. Quando aquecer, regue com óleo para cobrir todo o fundo. Adicione duas colheradas da mistura de arroz e achate levemente com as costas da colher (no formato de um hambúrguer) - faça de 1 a 2 bolinhos por vez, deixando espaço entre cada um para não grudar.
 - Deixe cozinhar por cerca de 2 minutos e vire com uma espátula para dourar o outro lado por igual. Transfira os bolinhos prontos para uma travessa e repita com toda a mistura de arroz (se necessário regue a frigideira com mais óleo). Sirva os bolinhos ainda quentes.
-- --
 
 ---
 

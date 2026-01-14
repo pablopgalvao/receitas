@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de cebola ralada
 - 1 colher de chá de alho triturado
@@ -35,7 +35,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 1 colher de sopa de maionese
 - Coloque a carne, o tomate, a cebola, o alho, a salsinha, o sal, a pimenta e a maionese em uma tigela, e misture com as mãos até virar uma massa;
-- --
 
 ---
 

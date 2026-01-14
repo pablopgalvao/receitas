@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - 500 gramas de filé de peito de frango
@@ -42,7 +42,6 @@ flags: []
 - 3 colheres de sopa de creme de leite
 - Em uma panela, adicione o azeite, os filés, tempere eles com sal, pimenta, deixe grelhar bem dos dois lados e reserve;
 - Em outra panela, derreta a manteiga com o azeite, adicione a cebola e o alho e deixe refogar;
-- --
 
 ---
 

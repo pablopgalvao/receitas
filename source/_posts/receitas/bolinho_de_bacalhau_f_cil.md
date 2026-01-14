@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de bacalhau
 - 30 gramas de azeitonas pretas
@@ -39,7 +39,6 @@ flags: []
 - Organize sua bancada! Se seu bacalhau não for dessalgado, se antecipe. Triture o alho em um processador de alimentos. Corte a azeitona em pedacinhos. Descasque e corte a batata em cubinhos. Pique bem o cheiro-verde;
 - É importante que os ingredientes não estejam quentes para a mistura. Modele os bolinhos boleando com duas colheres;
 - Deixe-os resfriando na geladeira para firmarem, por cerca de 60 minutinhos. Enquanto isso, aqueça o óleo em fogo médio;
-- --
 
 ---
 

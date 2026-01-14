@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Transfira os jilós assados para um prato e deixe amornar por cerca de 10 minutos. Enquanto isso, descasque o dente de alho e bata no pilão com uma pitada de sal, até formar uma pastinha.
 - Corte cada jiló ao meio, no sentido do comprimento, e raspe a polpa com uma colher.
 - Na tábua, pique bem a polpa dos jilós até formar uma pasta e transfira para uma tigela. Acrescente o tahine, o caldo de limão, o azeite e a pastinha de alho. Misture bem, prove e, se necessário, ajuste o sal. Sirva a seguir ou mantenha na geladeira por até 5 dias num pote com fechamento hermético.
-- --
 
 ---
 

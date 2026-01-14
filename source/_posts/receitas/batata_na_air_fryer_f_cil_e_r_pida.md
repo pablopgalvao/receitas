@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de sal
 - 1 colher de sopa de lemon pepper
 - 1 colher de sopa de amido de milho
 - 1 colher de sopa de cebola em pó
 - Em um recipiente pequeno, adicione o sal, o lemon pepper, o amido de milho e a cebola em pó. Misture tudo muito bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de tilápia fresca
 - 50 ml de suco de laranja
@@ -37,7 +37,6 @@ flags: []
 - Em uma tábua, utilize uma faca para cortar a tilápia em cubos pequenos. Descasque e fatie a cebola em meia-lua. Pique a pimenta e a salsa finamente;
 - Transfira o peixe para uma tigela, junte o suco de laranja, o caldo de limão, a cebola fatiada, a pimenta dedo-de-moça picada, o sal e misture bem;
 - Adicione a salsinha. Prove e, se achar necessário, ajuste a quantidade dos ingredientes e temperos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne-seca
 - 1 xícara de chá de feijão-fradinho (190 gramas)
@@ -50,7 +50,6 @@ flags: []
 - Em uma frigideira antiaderente grande, em fogo médio, adicione a manteiga de garrafa e doure os cubinhos de queijo por cerca de 2 minutos, mexendo para dourar por igual. Cuidado para não despedaçar os cubinhos. Reserve;
 - Na mesma frigideira, acrescente o bacon e deixe dourar por 2 minutos. Adicione a cebola, o alho e refogue bem. Junte a carne-seca desfiada e mexa por mais 2 minutos - se necessário, coloque mais manteiga. Despeje 1/2 xícara de chá da água reservada do cozimento;
 - Despeje o feijão-fradinho, o arroz já preparado e misture bem. Ajuste o sal e a pimenta;
-- --
 
 ---
 

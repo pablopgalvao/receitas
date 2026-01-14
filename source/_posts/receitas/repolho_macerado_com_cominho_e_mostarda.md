@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 1 colher (chá) de sal
 - Com um fatiador de legumes (ou mandolim) corte o repolho em fatias finas – vá passando o repolho pelo mandolim, com cuidado para não fatiar o miolo central que é muito firme. Se preferir, descarte o miolo e fatie o repolho fino com uma faca – no total você precisa de cerca de 4 xícaras (chá) dele fatiado.
 - Transfira o repolho para um escorredor e lave bem sob água corrente. Encaixe o escorredor sobre uma tigela, tempere com o sal e misture com as mãos, massageando o repolho – o sal drena o excesso de água das folhas, deixando o repolho macio e com o sabor mais suave. Aperte bem para tirar o excesso de água e transfira para uma tigela.
-- --
 
 ---
 

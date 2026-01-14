@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de coxinha da asa (drumet)
 - Sal e pimenta-do-reino a gosto
@@ -45,7 +45,6 @@ flags: []
 - Em um recipiente, coloque a farinha de trigo, tempere com sal e páprica e misture para incorporar. Em outro prato, disponha a farinha de rosca. Para facilitar o processo, alinhe os 3 recipientes do empanamento;
 - Tire o frango da geladeira meia hora antes de começar a empanar - isso facilita o cozimento. Em uma panela alta, coloque o óleo para esquentar - quantidade suficiente para fritar as coxinhas por imersão;
 - Quando o óleo estiver quente, cerca de 170 ºC, comece a fritar em fogo médio-alto. Coloque poucas coxinhas por vez para o óleo não perder tanto calor e frite por imersão até o frango dourar, cerca de 7 a 10 minutos;
-- --
 
 ---
 

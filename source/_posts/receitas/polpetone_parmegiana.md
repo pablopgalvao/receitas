@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de coxão mole moído
 - 2 colheres de sopa de cebola picada
@@ -50,7 +50,6 @@ flags: []
 - Feche o polpetone e passe-o na farinha de trigo, seguida pelo ovo batido e, por fim, na farinha de rosca. Coloque um pouquinho de sal nesses ingredientes;
 - Em uma panela, adicione o óleo e deixe esquentar. Para verificar se a temperatura está boa, coloque um cabo de colher de madeira no óleo. Caso faça bolhas, está na hora de fritar;
 - Cubra com bastante mussarela, mais uma camada de molho e queijo parmesão salpicado para finalizar. Leve ao forno para derreter e gratinar por aproximadamente 15 minutos, a 220°C;
-- --
 
 ---
 

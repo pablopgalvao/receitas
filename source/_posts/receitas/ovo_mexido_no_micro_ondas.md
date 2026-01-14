@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de chá de azeite
 - Sal a gosto
 - Pimenta-do-reino a gosto (opcional)
 - Quebre os ovos, um por vez, em um pote separado. Transfira os que estão bons para um recipiente que possa ir ao micro-ondas;
 - Tempere com sal e pimenta-do-reino a gosto. Mexa uma última vez e sirva em seguida, no café da manhã. Bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Leve uma panela grande com cerca de 5 litros de água ao fogo alto. Assim que ferver, adicione 2 colheres (sopa) de sal e coloque o macarrão. Misture e deixe cozinhar, mexendo de vez em quando, até ficar al dente — sempre que for usar a massa como salada, retire da água 1 minuto antes do tempo de cozimento indicado na embalagem. Enquanto isso, prepare os outros ingredientes.
 - No liquidificador, coloque a beterraba assada, a sardinha, o iogurte, o azeite, o caldo de limão e 1 colher (chá) de sal. Bata até obter um creme bem liso.
 - Transfira o macarrão para uma tigela grande, adicione o molho de beterraba batido, o endro picado e misture delicadamente. Sirva a seguir salpicado com endro, brotos de beterraba e de agrião e amêndoas picadas.
-- --
 
 ---
 

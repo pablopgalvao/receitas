@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - ½ colher (chá) de canela em pó
 - sal e pimenta-do-reino moída na hora a gosto
 - Passe os grãos de ervilha secos para a assadeira. Regue com o azeite, tempere com o cominho, a canela, sal e pimenta­-do-­reino. Misture bem com uma espátula para envolver todos os grãos e espalhe bem na assadeira.
-- --
 
 ---
 

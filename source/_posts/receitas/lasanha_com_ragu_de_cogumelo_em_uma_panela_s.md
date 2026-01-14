@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Transfira os cogumelos dourados para uma tigela e mantenha a panela em fogo médio. Adicione o bacon e mexa por cerca de 2 minutos, até soltar a gordura e dourar — algumas peças de bacon são mais carnudas que outras; caso o seu pedaço não tenha tanta gordura, regue a frigideira com um pouco mais de azeite para refogar a cebola. Adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até murchar. Junte o alho e mexa por 1 minuto para perfumar.
 - Acrescente o tomate pelado (com o líquido), a água e tempere com 1 colher (chá) de sal e a pimenta calabresa. Abaixe o fogo, tampe a panela e deixe cozinhar por 2 minutos para apurar os sabores e ferver.
 - Desligue o fogo, rasgue a muçarela com as mãos e distribua os pedaços sobre a lasanha. Salpique folhas de manjericão, regue com azeite e sirva imediatamente, direto da panela.
-- --
 
 ---
 

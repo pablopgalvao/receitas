@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de costela bovina cortada em pedaços médios
 - 2 colheres de sopa de azeite
@@ -45,7 +45,6 @@ flags: []
 - 200 gramas de batata
 - Adicione o vinagre, o molho shoyu, a páprica defumada, o sal e o chimichurri. Refogue por 10 minutos ou até dourar os pedaços;
 - Desligue o fogo, experimente e veja se a carne e a batata estão macios. Transfira para uma travessa, salpique a salsinha e a cebolinha antes de servir. Aproveite com arroz branco e salada!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve uma panela média ao fogo médio para aquecer. Regue com o azeite e adicione a cebola. Tempere com uma pitada de sal e refogue por cerca de 5 minutos, até começar a dourar. Junte o alho, a raiz e os talos de coentro e refogue por 1 minuto para perfumar. Acrescente o tomate e refogue por mais 2 minutos.
 - Acrescente o restante do feijão cozido (com o caldo), tempere com ½ colher (chá) de sal e pimenta a gosto e deixe cozinhar por cerca de 10 minutos, ou até o caldo engrossar.
 - Desligue o fogo e misture as folhas de coentro picadas. Sirva a seguir com folhas inteiras de coentro a gosto.
-- --
 
 ---
 

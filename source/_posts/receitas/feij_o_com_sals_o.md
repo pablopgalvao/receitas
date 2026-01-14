@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Enquanto o feijão cozinha, lave, seque e corte os talos de salsão em cubinhos. Descasque e pique fino a cebola e os dentes de alho.
 - Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola e o salsão e tempere com uma pitada de sal. Refogue por cerca de 3 minutos, até murchar, adicione o alho e mexa por mais 1 minuto para perfumar. Acrescente 2 conchas do feijão cozido (com caldo), misture e amasse os grãos com a espátula - esse purê ajuda a engrossar o caldo.
 - Junte o restante do feijão cozido (com o caldo) e misture bem. Tempere com sal e pimenta a gosto e deixe cozinhar em fogo baixo por mais 10 minutos, ou até o caldo engrossar - o tempo pode variar de acordo com a consistência desejada, mais ralo ou mais cremoso. Mexa de vez em quando para não grudar no fundo da panela. Desligue o fogo e sirva a seguir.
-- --
 
 ---
 

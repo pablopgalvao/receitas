@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 ml de leite
 - 3 colheres de sopa leite em pó
@@ -39,7 +39,6 @@ flags: []
 - 1/2 xícara de chá de chocolate meio amargo
 - 2 e 1/2 colheres de sopa de chocolate 50%
 - Depois, coloque o leite, o chocolate branco e a manteiga. Leve ao fogo e misture por cerca de 3 minutinhos até engrossar um pouco. Tire da panela e reserve;
-- --
 
 ---
 

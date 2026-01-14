@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Regue com ½ colher (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o alho e mexa por 1 minuto. Adicione ½ xícara (chá) da água do cozimento do macarrão e misture raspando bem o fundo da frigideira para dissolver os queimadinhos – são eles que dão sabor ao molho. Junte o caldo do limão, tempere com sal e pimenta e deixe cozinhar até ferver.
 - Volte as almôndegas à frigideira, abaixe o fogo e deixe cozinhar por mais 5 minutos. Desligue o fogo, adicione 1 colher (sopa) de manteiga e faça movimentos circulares com a frigideira. Não use uma colher, não vai funcionar – tem mesmo que fazer esses movimentos até a manteiga derreter e engrossar o molho. Misture as ervilhas e deixe descongelar no calor da frigideira.
 - Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão numa peneira. Volte o risoni para a mesma panela (nem precisa lavar) e misture com 2 colheres (sopa) de manteiga até derreter. Regue aos poucos com a água do cozimento reservada para ficar cremoso. Sirva a seguir com as almôndegas e ervas frescas a gosto.
-- --
 
 ---
 

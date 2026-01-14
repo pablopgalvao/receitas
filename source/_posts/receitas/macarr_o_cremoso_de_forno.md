@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de macarrão parafuso (ou de sua preferência)
 - 1 colher de sopa de sal
@@ -46,7 +46,6 @@ flags: []
 - Em outra panela, aqueça o óleo e frite o bacon até dourar levemente. Acrescente a calabresa e refogue até soltar parte da gordura. Junte a cebola picada e mexa até ficar translúcida;
 - Adicione o tomate picado e misture bem até começar a desmanchar. Tempere com a salsa e a páprica picante, misture e desligue o fogo. Reserve;
 - Tempere com noz-moscada, adicione a mussarela a gosto e finalize com o creme de leite. Misture bem até ficar cremoso;
-- --
 
 ---
 

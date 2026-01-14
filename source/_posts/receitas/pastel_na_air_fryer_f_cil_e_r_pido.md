@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 200 gramas de massa de pastel pronta (100 gramas para cada pastel)
 - Óleo ou azeite a gosto para pincelar
 - Feche o pastel, utilizando um garfo para selar bem todas as bordas. Retire o plástico que envolve a massa e pincele óleo ou azeite nos dois lados do pastel;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Em uma tigela, cubra a carne seca com água fria e deixe na geladeira durante, no mínimo, 12 horas – troque a água da carne-seca pelo menos 3 vezes durante a dessalga.
 - Descasque e fatie as cebolas em meias-luas de 1 cm. Leve uma frigideira grande ao fogo médio. Quando aquecer, adicione a manteiga de garrafa, junte a cebola, tempere com uma pitada de sal e refogue por 5 minutos, até murchar.
 - Acrescente a carne-seca desfiada e mexa por 5 minutos, prove e, se necessário, tempere com sal. Sirva a seguir, com vinagrete de feijão-fradinho e quibebe.
-- --
 
 ---
 

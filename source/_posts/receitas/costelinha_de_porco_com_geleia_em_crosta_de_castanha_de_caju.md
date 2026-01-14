@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Bata a castanha-de-caju no pilão até formar uma farofa grossa, reserve. Ainda no pilão (nem precisa lavar), bata 1 dente de alho com ½ colher (chá) de sal até formar uma pasta. Junte a geleia de laranja e misture bem.
 - Com uma colher, espalhe a geleia temperada sobre a costela e salpique a castanha-de-caju. Leve ao forno para assar por cerca de 25 minutos, ou até dourar.
 - Retire a assadeira do forno e diminua a temperatura para 160 ºC (temperatura baixa). Distribua os gomos de cebola e dentes de alho ao redor da costelinha, e tempere com sal e azeite. Regue a assadeira com o vinho e cubra com papel alumínio.
-- --
 
 ---
 

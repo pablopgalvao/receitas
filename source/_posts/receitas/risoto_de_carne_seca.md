@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - 2 colheres de sopa de manteiga
@@ -41,7 +41,6 @@ flags: []
 - Em uma panela, adicione 1 colher de manteiga, o azeite, a cebola e refogue até ficar transparente;
 - Acrescente o açafrão, o sal, a pimenta, o queijo parmesão, a salsinha e misture bem;
 - Desligue o fogo, coloque a outra colher de manteiga e misture;
-- --
 
 ---
 

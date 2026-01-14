@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal a gosto
 - Pimenta-do-reino a gosto
@@ -38,7 +38,6 @@ flags: []
 - 2 colheres de azeite
 - Coloque as sobrecoxas sobre uma tábua e tempere com sal e pimenta-do-reino dos dois lados. Espalhe bem com as mãos;
 - Sirva em seguida, acompanhado de salada, batatas grelhadas ou outro acompanhamento de sua preferência.
-- --
 
 ---
 

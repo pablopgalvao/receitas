@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 colher de chá de páprica doce ou defumada
 - 1 xícara de chá de frango cozido e desfiado
@@ -38,7 +38,6 @@ flags: []
 - 1 pitada de sal
 - Catupiry ou requeijão firme a gosto (opcional)
 - Recheie com o frango cremoso e, se desejar, adicione uma colher de catupiry por cima;
-- --
 
 ---
 

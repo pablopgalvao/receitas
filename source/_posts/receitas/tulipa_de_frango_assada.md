@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de tulipas de frango
 - 5 colheres de sopa de molho inglês (ou shoyu)
@@ -37,7 +37,6 @@ flags: []
 - 1/2 colher de chá de colorau
 - 1 colher de sopa de azeite
 - Em seguida, em outra tigela, adicione o suco de limão, o molho inglês, o sal, o chimichurri, a pimenta-do-reino, o colorau, o alho e o azeite. Misture até que fique uma pasta cremosa;
-- --
 
 ---
 

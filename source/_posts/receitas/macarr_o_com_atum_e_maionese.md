@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de macarrão parafuso
 - 2 latas de atum sem óleo (170 gramas cada)
@@ -39,7 +39,6 @@ flags: []
 - 1/2 xícara de chá de maionese (120 gramas)
 - Junte todos os ingredientes na bancada! Escorra a água do milho em conserva, pique as cenouras em cubinhos, e corte a salsinha e cebolinha finamente;
 - Adicione as latas de atum sem óleo, o milho escorrido, a cenoura cozida, a salsinha e a cebolinha, assim como a maionese. Com uma colher, misture tudo muito bem;
-- --
 
 ---
 

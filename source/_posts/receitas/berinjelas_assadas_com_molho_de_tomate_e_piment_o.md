@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve uma frigideira média ao fogo médio. Quando aquecer, regue com o azeite restante; acrescente a cebola e o pimentão, tempere com uma pitada de sal e refogue por cerca de 7 minutos, até começarem a dourar e o pimentão ficar levemente macio. Regue com mais um fio de azeite; junte o alho e a páprica, tempere com pimenta a gosto e mexa por 1 minuto, para perfumar.
 - Abaixe o fogo, adicione o tomate pelado, tempere com sal e misture bem. Deixe cozinhar por mais 10 minutos, mexendo de vez em quando, até que os legumes estejam macios e o molho, levemente encorpado. Desligue o fogo e misture o coentro picado.
 - Retire as berinjelas do forno e transfira para uma travessa. Cubra parte da polpa com um pouco do molho e reserve o restante para servir à parte. Salpique com folhas de coentro e de hortelã a gosto e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Leve uma panela grande ao fogo médio para aquecer. Regue com o azeite, adicione a cebola picada e tempere com uma pitada de sal e uma de pimenta. Deixe a cebola cozinhar por cerca de 10 minutos, mexendo de vez em quando, até ficar bem macia e com a cor mais amarelada — essa etapa do refogado é essencial, porque deixa a cebola com o sabor mais adocicado e, com isso, o molho menos ácido.
 - Junte os tomates batidos à cebola refogada, tempere com sal e misture bem. Deixe cozinhar em fogo médio até começar a ferver. Abaixe o fogo e deixe cozinhar por cerca de 1 hora, mexendo de vez em quando, até que o molho fique encorpado — atenção, dependendo do tamanho de sua panela, mais funda ou mais larga, o tempo total de cozimento pode variar.
 - Prove o molho e, se necessário, acerte o sal. Se quiser, adicione os ramos de manjericão (folhas e galhos) ao molho e deixe cozinhar por mais 2 minutos para perfumar. Use a seguir ou armazene na geladeira por até 3 dias; ou no congelador, por até 3 meses.
-- --
 
 ---
 

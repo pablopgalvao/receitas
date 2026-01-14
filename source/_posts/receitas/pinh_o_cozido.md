@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - 1 kg de pinhão
 - 1 colher de sopa (rasa) de sal
 - Descarte a água e enxágue brevemente mais uma vez. Coloque os pinhões na panela de pressão e coloque 1 litro e meio de água com o sal. Tampe a panela, leve-a ao fogo baixo. Após pegar pressão, reduza para o fogo médio e deixe cozinhar por cerca de 25 minutos;
-- --
 
 ---
 

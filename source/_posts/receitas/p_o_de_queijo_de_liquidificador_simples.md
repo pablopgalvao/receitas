@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de óleo (240 ml)
 - 1 xícara de chá de leite (240 ml)
@@ -36,7 +36,6 @@ flags: []
 - 3 xícaras de chá de polvilho azedo (300 gramas)
 - No copo do liquidificador, adicione os ovos, o óleo, o leite, o queijo parmesão, o sal e o polvilho azedo. Bata por cerca de 2 minutos, até obter uma massa lisa e homogênea;
 - Unte forminhas para empadas, de alumínio ou silicone, com óleo, se necessário. Preencha cada forminha com a massa, até 1 dedo antes de chegar na borda;
-- --
 
 ---
 

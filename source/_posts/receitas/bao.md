@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de farinha de trigo
 - 300 ml de água
@@ -40,7 +40,6 @@ flags: []
 - Depois que dobrar de volume, despeje a massa na bancada untada com óleo
 - Pincele todos os círculos com óleo
 - Dobre ao meio e disponha a massa no papel manteiga;
-- --
 
 ---
 

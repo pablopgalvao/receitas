@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz arbóreo
 - 300 gramas de frango desfiado
@@ -38,7 +38,6 @@ flags: []
 - Azeite a gosto para refogar a cebola
 - Com o arroz cozido, desligue o fogo e adicione a manteiga gelada, acerte o sal e coloque o frango. Se quiser, acrescente queijo ralado. Misture tudo;
 - E está pronto. Finalize com cheiro verde e sirva esse delicioso risoto acompanhado por uma saladinha verde. Aproveite!
-- --
 
 ---
 

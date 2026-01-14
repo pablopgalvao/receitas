@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - ⅓ de xícara (chá) de mel
 - 1 colher (chá) de canela em pó
 - Numa frigideira larga ou panela média, junte a manteiga, o açúcar e as fatias de maçã. Leve ao fogo médio e deixe cozinhar por cerca 15 minutos, mexendo de vez em quando, até que as maçãs fiquem macias.
-- --
 
 ---
 

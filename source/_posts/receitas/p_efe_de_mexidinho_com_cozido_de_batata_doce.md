@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - folhas de salsinha a gosto para servir
 - Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com o azeite e junte a cebola. Tempere com uma pitada de sal e refogue por 2 minutos até murchar. Junte o alho e refogue por mais 1 minuto para perfumar.
 - Acrescente o arroz e misture bem. Junte o feijão e refogue por mais 1 minuto. Adicione a farinha, aos poucos, mexendo com a espátula para incorporar. Tempere com sal e pimenta a gosto e deixe cozinhar por mais 2 minutos, mexendo de vez em quando, para a farinha ficar crocante. Sirva a seguir com o cozido de batata-doce e folhas de salsinha. Esse pê-efe fica uma delícia com ovo cozido.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de bacalhau dessalgado, cozido e desfiado
 - 200 gramas de presunto picado
@@ -44,7 +44,6 @@ flags: []
 - Acrescente o bacalhau e refogue por cerca de 5 minutos para incorporar os sabores. Agregue a salsinha e mexa;
 - Adicione a maionese e tempere com pimenta-do-reino. Mexa até todos os ingredientes estarem envolvidos. Prove e ajuste o sal se necessário;
 - Leve para a geladeira por 30 minutos. Retire da geladeira, transfira a mistura para uma travessa de servir e cubra com a batata palha. Se desejar, decore com um ramo de salsinha. Sirva e aproveite!
-- --
 
 ---
 

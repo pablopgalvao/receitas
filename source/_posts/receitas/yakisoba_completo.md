@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 150 gramas de camarão
 - 200 gramas de peito de frango
@@ -51,7 +51,6 @@ flags: []
 - Coloque mais um pouco de óleo na wok, adicione os camarões, adicione um pouco de sal e pimenta-do-reino e cozinhe até ficarem rosados, por cerca de 2 a 3 minutos. Reserve com as outras carnes;
 - Em um recipiente, adicione o shoyu, a água, o amido de milho, o molho de ostra, o açúcar e o gengibre ralado para fazer o molho para yakisoba, mexa para dissolver os ingredientes e reserve;
 - Na mesma wok, adicione um pouco mais de óleo, se necessário, e frite a cebola até ficar translúcida. Acrescente o brócolis e a cenoura, coloque um pouco de sal e pimenta-do-reino, misture e deixe fritar por cerca de 3 minutos;
-- --
 
 ---
 

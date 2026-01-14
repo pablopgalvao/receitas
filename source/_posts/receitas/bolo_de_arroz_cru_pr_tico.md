@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 175 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz cru (200 gramas)
 - 3/4 de xícara de chá de óleo (180 ml)
@@ -37,7 +37,6 @@ flags: []
 - 1 caixa de leite condensado (395 gramas)
 - Adicione os ovos, o óleo e o açúcar; bata por cerca de 4 minutos, até obter uma mistura lisa;
 - Transfira a massa para uma forma (20x10cm) untada e enfarinhada;
-- --
 
 ---
 

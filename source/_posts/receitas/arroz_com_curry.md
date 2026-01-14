@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Numa chaleira, leve um pouco mais de 2 xícaras (chá) de água ao fogo baixo para ferver. Descasque e pique fino a cebola.
 - Leve uma panela pequena ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola e refogue por cerca de 2 minutos, até murchar. Acrescente o arroz, a folha de louro, o curry e o sal. Mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar os grãos soltinhos depois de cozidos.
 - Meça 2 xícaras (chá) da água fervente e regue sobre o arroz. Misture e aumente o fogo para médio. Não mexa mais.
-- --
 
 ---
 

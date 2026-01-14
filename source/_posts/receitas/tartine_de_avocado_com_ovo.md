@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Volte a frigideira ao fogo baixo. Quando aquecer, regue com 1 colher (chá) de azeite. Numa tigela pequena, quebre 1 ovo de cada vez e, com cuidado para não estourar a gema, transfira para a frigideira. Deixe cozinhar por cerca de 2 minutos — com uma espátula de silicone, vá puxando a borda da clara que escorrer para perto da gema, para manter o formato do ovo.
 - Assim que a clara começar a firmar, tempere com sal e pimenta a gosto e tampe a frigideira para os ovos terminarem de cozinhar mas as gemas ainda permanecerem moles — o vapor permite que a clara cozinhe por igual sem que a base do ovo se queime.
 - Transfira 1 ovo para cada tartine, salpique folhas de coentro e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 165 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de costela suína
 - 1 copo de vinho branco (200 ml)
 - 1 colher de sobremesa de sal
 - Em um liquidificador, adicione o suco de laranja, o vinho branco, o cheiro-verde e o tomilho, as folhas de louro, a cebola e o sal. Bata tudo por até virar uma mistura homogênea;
-- --
 
 ---
 

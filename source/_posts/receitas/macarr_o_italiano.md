@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite de oliva
 - 1/2 xícara de chá de azeitonas sem caroço (70 gramas)
@@ -38,7 +38,6 @@ flags: []
 - 1/2 maço de salsinha fresca
 - Reúna os ingredientes para iniciar a receita! Descasque e amasse os dentes de alho. Corte a anchova em pedaços grandes. Pique finamente a salsinha. Por fim, pique a azeitona grosseiramente. Enquanto isso, coloque uma panela grande para ferver com água e um pouco de sal;
 - Finalize com salsinha picada por cima e aproveite!
-- --
 
 ---
 

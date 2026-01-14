@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de feijão mulatinho (400 gramas)
 - 4 xícaras de chá de água para o cozimento (960 ml)
@@ -38,7 +38,6 @@ flags: []
 - 2 xícaras de chá de água para o molho (500 ml)
 - Enquanto isso, no liquidificador, coloque 500 ml de água, o coentro, o tomate, a cebola, o pimentão e o suco do limão. Bata por cerca de 1 minuto até ficar homogêneo;
 - Ajuste o sal, se necessário, e sirva quente acompanhado de arroz e ovo frito!
-- --
 
 ---
 

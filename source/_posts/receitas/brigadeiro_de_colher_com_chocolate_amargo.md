@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de manteiga
 - ⅓ de xícara (chá) de nibs de cacau
 - Numa panela pequena junte a manteiga, o leite condensado e o chocolate em pedaços. Leve ao fogo médio e mexa com uma espátula de silicone até o chocolate e a manteiga derreterem.
-- --
 
 ---
 

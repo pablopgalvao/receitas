@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 7 gramas de fermento biológico seco
 - 1 colher de sopa de farinha de arroz
@@ -49,7 +49,6 @@ flags: []
 - Vá adicionando a água morna aos poucos, misturando com batedeira ou colher grande. A massa ficará líquida inicialmente;
 - Transfira a massa para uma forma (24x14 cm) de pão untada ou forrada com papel-manteiga;
 - Alise a superfície com o auxílio de uma colher molhada. Cubra com plástico ou papel alumínio e deixe crescer em local abafado por 30 a 40 minutos;
-- --
 
 ---
 

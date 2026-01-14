@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - óleo para pincelar os pastéis
 - Leve uma frigideira grande com o azeite e o alho ao fogo médio. Refogue por 1 minuto para perfumar. Adicione o brócolis e tempere com ½ colher (chá) de sal e pimenta a gosto. Refogue por cerca de 5 minutos, até ficar macio. Transfira para uma tigela e misture com o queijo ralado.
 - Pincele os pastéis e o fundo do cesto da Air Fryer com óleo. Coloque 6 pastéis (ou quantos couberem no cesto), um ao lado do outro. Deixe assar por cerca de 6 minutos, ou até dourar — não precisa virar na metade do tempo.
-- --
 
 ---
 

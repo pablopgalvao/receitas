@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Tempere com sal e pimenta a gosto e deixe dourar por 2 minutos de cada lado. Vire novamente e deixe dourar por mais 1 minuto de cada lado até ficar ao ponto - no total o hambúrguer fica cerca de 6 minutos na frigideira. Faça quantos hambúrgueres couberem na sua frigideira de cada vez.
-- --
 
 ---
 

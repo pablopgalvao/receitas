@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Mantenha a panela em fogo médio e acrescente o alho e a pimenta dedo-de-moça. Tempere com uma pitada de sal e refogue por 1 minuto. Regue aos poucos com o caldo de camarão restante (1 ½ xícara) e o caldo de limão em que o camarão foi temperado. Misture bem para dissolver os queimadinhos do fundo da panela.
 - Abaixe o fogo, misture o creme de mandioca batido e tempere com sal. Assim que ferver, junte o leite de coco e deixe cozinhar, mexendo de vez em quando, por mais 5 minutos para formar um creme saboroso e mais encorpado.
 - Volte o camarão dourado (com o caldo que se formou na tigela) para a panela, misture e deixe cozinhar por 2 minutos apenas para aquecer. Desligue o fogo, misture o coentro picado, prove e ajuste o sal. Sirva a seguir com folhas de coentro a gosto, arroz e farofa de coco.
-- --
 
 ---
 

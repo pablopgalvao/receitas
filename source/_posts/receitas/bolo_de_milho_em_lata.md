@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de milho escorrido (cerca de 170 gramas)
 - 200 ml de leite (3/4 xícara de chá)
@@ -40,7 +40,6 @@ flags: []
 - O fubá precisa ser o mimoso, que possui a moagem mais fina. Deixe os ingredientes em temperatura ambiente por 30 minutos antes de começar o preparo. Quebre os ovos, um de cada vez, em um potinho separado para não arriscar estragar a receita.
 - No liquidificador, coloque o milho, o leite, o fubá, o açúcar, o óleo e os ovos. Bata por cerca de 1 minuto ou até ficar homogêneo (sem nenhum gruminho). Com o liquidificador desligado, adicione o fermento e misture com uma colher apenas para incorporar;
 - Unte uma forma média com furo no meio (22 cm de diâmetro) com manteiga ou óleo e polvilhe-a com farinha de trigo ou fubá. Dê leves batidinhas na pia para retirar o excesso de farinha. Despeje a massa na forma;
-- --
 
 ---
 

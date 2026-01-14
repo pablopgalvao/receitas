@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Quando a panela aquecer, regue com 1 colher (sopa) de azeite, coloque a cebola, tempere com uma pitada de sal e refogue por 2 minutos, mexendo de vez em quando. Adicione o alho, o extrato de tomate, as folhas de louro e mexa por 1 minuto, até perfumar. Regue com 1 colher (sopa) de azeite, junte a farinha e mexa bem por mais 2 minutos.
 - Regue com o vinagre e a água. Tempere com mais 1 colher (chá) de sal, adicione a carne e misture delicadamente.
 - Após os 5 minutos, a panela vai desligar sozinha e manter o ensopado aquecido. Deixe o vapor sair completamente antes de abrir a tampa. Desligue a panela, sirva com salada de agrião, folhas de salsinha, cerefólio e brotos variados.
-- --
 
 ---
 

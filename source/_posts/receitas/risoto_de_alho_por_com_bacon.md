@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de arroz arbóreo (200 gramas)
 - 100 gramas de bacon
@@ -38,7 +38,6 @@ flags: []
 - Antes de começar, prepare um caldo de legumes de sua preferência e deixe-o aquecendo em fogo baixo. Pique o dente de alho, a cebola, o bacon e fatie o alho-poró em pedaços pequenos. A manteiga também deve estar gelada;
 - Tempere com sal e pimenta-do-reino e adicione o vinho branco. Mexa até o líquido evaporar completamente;
 - Retorne o bacon à panela, adicione a manteiga e rale o queijo parmesão por cima. Mexa bem até incorporar;
-- --
 
 ---
 

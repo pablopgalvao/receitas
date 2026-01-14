@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de farinha de aveia
 - 1 colher de sopa de requeijão light
@@ -36,7 +36,6 @@ flags: []
 - Acrescente à frigideira o frango desfiado, o tomate, as ervas e o sal. Refogue por 5 minutos;
 - Por fim, feche a massa, moldando no formato característico de coxinha e empane na farinha de aveia
 - Leve o salgadinho para assar em forno preaquecido a 180ºC por cerca de 20 minutos ou até dourar;
-- --
 
 ---
 

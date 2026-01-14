@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 copo de óleo (190 ml)
 - 1 copo de leite (190 ml)
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, coloque os ovos, as cebolas picadas, o leite, o sal e as latas de milho (sem a água da conserva). Tampe e bata até que fique homogêneo;
 - Em uma tigela, acrescente o fubá ou milharina e misture nela o óleo com as cebolas fritas;
 - Transfira para uma travessa de 30 x 20 untada com óleo e fubá, e finalize com mais um pouco de queijo ralado por cima;
-- --
 
 ---
 

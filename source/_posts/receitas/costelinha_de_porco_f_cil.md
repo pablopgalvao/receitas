@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de costelinha de porco
 - 1 colher de sopa de sal (ou a gosto)
@@ -38,7 +38,6 @@ flags: []
 - 2 colheres de sopa de cheiro-verde picado para finalizar
 - Coloque as costelinhas em uma tigela e tempere com alho, sal, pimenta-do-reino e alecrim. Regue com o caldo do limão e misture bem para incorporar os temperos em todos os pedaços. Deixe marinando por 30 minutos;
 - Aqueça o óleo em uma panela no fogo alto e acomode as costelinhas. Deixe dourar bem de um lado antes de virar. Vire aos poucos com um pegador, dourando todos os lados. Evite mexer demais para não soltar muito líquido e garantir uma carne bem dourada;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de soja em grãos
 - 1 cebola grande (200 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Reúna os ingredientes para fazer a salada de soja, deliciosa e proteica;
 - Pare o fogo, aguarde a pressão sair naturalmente, escorra a água e retire as casquinhas da soja. Transfira para um recipiente e junte a cebola, o tomate e o cheiro-verde. Tempere com sal, azeite e o suco de limão, e misture bem.
 - Sirva essa deliciosa salada de soja proteica e saborosa. Bom apetite!
-- --
 
 ---
 

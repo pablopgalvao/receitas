@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 sachês de molho de tomate (600 gramas)
 - 2 caixinhas de creme de leite (400 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Queijo mussarela ralado a gosto para gratinar
 - Em uma tigela grande, adicione o molho de tomate, o creme de leite, sal, pimenta, orégano, milho, presunto e queijo picados. Misture tudo com uma colher para fazer um molho cremoso;
 - Despeje o restante do molho sobre a massa, salpique a mussarela ralada por cima e mais um pouco de orégano. Leve ao forno a 180 °C por 15 minutinhos (ou até gratinar);
-- --
 
 ---
 

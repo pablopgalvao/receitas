@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Enquanto isso, leve uma panela de ferro ou com fundo triplo ao fogo médio. Quando estiver bem quente, adicione os pimentões e a cebola, sem nenhum tipo de gordura, e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até murchar e chamuscar. Misture o alho, tempere com sal e mexa por apenas 1 minuto. Desligue o fogo e mantenha os legumes na panela enquanto prepara o vapor.
 - Retire as tranches de salmão do soro, lave em água corrente e transfira para o cesto (ou peneira) de cozimento a vapor. Quando a água começar a ferver, diminua o fogo e encaixe o cesto com as tranches, tampe a panela e deixe cozinhar por 7 minutos.
 - Transfira os peixes para os pratos e cubra com os pimentões chamuscados. Polvilhe com as ervas, regue com azeite e tempere com pimenta-do-reino moída na hora a gosto. Sirva a seguir.
-- --
 
 ---
 

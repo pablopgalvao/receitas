@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de arroz cozido
 - 200 gramas de presunto cortado em cubos
@@ -40,7 +40,6 @@ flags: []
 - 100 gramas de parmesão ralado
 - Depois, em um recipiente, coloque os ovos, o leite, o creme de leite, o requeijão e 50 gramas de parmesão. Tempere com sal e pimenta-do-reino e mexa até obter uma mistura homogênea;
 - Salpique o restante do queijo parmesão por cima e leve ao forno preaquecido a 180ºC por cerca de 15 minutos ou até gratinar;
-- --
 
 ---
 

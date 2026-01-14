@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 colher (sopa) de vinagre balsâmico
 - sal a gosto
 - Mantenha a frigideira em fogo médio e coloque os gomos de repolho, com a parte cortada para baixo. Deixe dourar por cerca de 3 minutos de cada lado. Desligue o fogo e regue o repolho com o vinagre balsâmico, tempere com sal a gosto e sirva com o bacon dourado.
-- --
 
 ---
 

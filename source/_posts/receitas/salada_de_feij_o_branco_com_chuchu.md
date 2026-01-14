@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Descasque, lave e seque bem o chuchu — assim ele não escorrega na hora de cortar. Com uma colher, descarte as sementes. Corte o chuchu em fatias de 0,5 cm, as fatias em tiras de 0,5 cm e as tiras em cubos. Transfira para uma tigela grande.
 - Junte o feijão ao chuchu, adicione as amêndoas picadas, as folhas de coentro inteiras e as sementes de romã (reserve 2 colheres [sopa] para decorar a salada).
 - Tempere a salada com o molho e misture delicadamente — cuidado para não mexer demais e desmanchar os grãos de feijão. Sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Com a escumadeira, transfira o ovo para a tigela com água e gelo para interromper o cozimento. Enquanto isso, prepare os outros ingredientes.
 - Corte o pepino ao meio, no sentido do comprimento. Corte cada metade em três tiras e fatie as tiras em cubos pequenos. Pique grosseiramente as castanhas apimentadas. Descasque o ovo cozido.
 - Junte metade dos cubos do pepino ao arroz, tempere com sal e pimenta-do-reino a gosto e misture bem. Sirva a salada com o ovo cozido, o restante do pepino, a castanha picada e mel a gosto.
-- --
 
 ---
 

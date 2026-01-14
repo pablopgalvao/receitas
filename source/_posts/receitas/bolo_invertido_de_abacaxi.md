@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 colher (sopa) de fermento em pó
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande. Adicione o açúcar e misture bem com o batedor de arame. Junte o leite, o óleo e misture novamente.
 - Adicione a farinha em 2 etapas, passando pela peneira e mexendo delicadamente com o batedor a cada adição até que a massa fique lisa. Por último, misture o fermento.
-- --
 
 ---
 

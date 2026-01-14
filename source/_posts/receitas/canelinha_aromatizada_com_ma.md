@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 ml de água fervente
 - 400 ml de cachaça branca
 - 1 colher de sopa de açúcar mascavo
 - Em um recipiente de vidro com tampa (como uma jarra ou garrafa), adicione a infusão quente preparada, a cachaça, o pau de canela, as rodelas de maçã, o açúcar mascavo e a lasca de gengibre;
-- --
 
 ---
 

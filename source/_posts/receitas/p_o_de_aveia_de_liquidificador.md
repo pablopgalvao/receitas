@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de azeite de oliva
 - 1/2 xícara de chá de leite semidesnatado ou integral (120 ml)
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, bata os ovos até ficarem bem misturados. Acrescente o azeite e bata mais um pouco. Adicione o leite e misture novamente até incorporar;
 - Coloque o farelo de aveia e o amido de milho. Misture até obter uma massa uniforme. Acrescente o sal e mexa bem. A massa deve ficar levemente líquida. Por último, adicione o fermento químico e misture suavemente até incorporar;
 - Despeje a massa em uma forma untada e enfarinhada (ou forrada com papel-manteiga). Leve ao forno preaquecido a 180 °C por cerca de 30 minutos, ou até dourar e passar no teste do palito;
-- --
 
 ---
 

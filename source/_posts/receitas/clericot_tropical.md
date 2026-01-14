@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - 1 garrafa de vinho branco (750 ml)
 - cubos de gelo a gosto
 - Lave, seque e corte a carambola em fatias finas para formar estrelas. Corte a romã ao meio, no sentido da largura. Sobre uma tigela, aperte cada metade delicadamente e bata com as costas de uma colher na casca para extrair as sementes e o caldo.
-- --
 
 ---
 

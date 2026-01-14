@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Sobre uma jarra medidora, coe o líquido da assadeira numa peneira — caso não dê 1 xícara (chá), complete com água.
 - Leve uma frigideira pequena com a manteiga ao fogo baixo. Assim que derreter, acrescente a farinha e mexa com uma espátula por 1 minuto, até começar a dourar — essa mistura de farinha e manteiga, chamada roux, serve para engrossar o molho.
 - Desligue o fogo, junte o líquido da assadeira reservado e mexa bem com um batedor de arame para dissolver os gruminhos de farinha. Volte ao fogo baixo e mexa por mais 3 minutos para o molho engrossar. Prove e, se necessário, ajuste o sal. Reserve o molho numa molheira.
-- --
 
 ---
 

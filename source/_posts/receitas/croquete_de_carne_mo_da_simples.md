@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga
 - 1/2 colher de chá de sal
@@ -42,7 +42,6 @@ flags: []
 - Em outro tigela, coloque a farinha de rosca;
 - Passe os croquetes primeiro nos ovos batidos, depois na farinha de rosca e reserve;
 - Frite-os em óleo bem quente até ficarem douradinhos;
-- --
 
 ---
 

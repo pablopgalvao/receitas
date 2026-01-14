@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - ½ colher (chá) de amido de milho
 - 2 colheres (chá) de azeite
 - Coloque 4 espetos no cesto, um ao lado do outro, e regue com 1 colher (chá) de azeite. Deixe assar por 12 minutos, até dourar — não precisa virar na metade do tempo.
-- --
 
 ---
 

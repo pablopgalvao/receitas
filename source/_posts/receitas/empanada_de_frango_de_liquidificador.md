@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 + 2/3 de xícara de chá de óleo (400 ml)
 - 2 + 3/4 de xícara de chá de leite (600 ml)
@@ -41,7 +41,6 @@ flags: []
 - No liquidificador, adicione 5 ovos, o óleo e o leite. Misture por aproximadamente 4 minutos, para ficar uma mistura homogênea;
 - Em seguida, despeje a mistura numa tigela grande e adicione a farinha, o sal e o fermento. Com um fouet (batedor de arame) misture para obter uma massa cremosa e levemente espessa;
 - Unte uma forma (33x23) com óleo ou manteiga. Despeje metade da massa no fundo, espalhando bem;
-- --
 
 ---
 

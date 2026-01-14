@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 3/4 de xícaras de chá de farinha de trigo (370 gramas)
 - 1/3 de colher de sopa de fermento em pó (5 gramas)
@@ -49,7 +49,6 @@ flags: []
 - Coloque a massa entre duas folhas de papel manteiga e abra até atingir cerca de 0,3 cm de espessura. Leve à geladeira por cerca de 3 horas ou até firmar bem;
 - Com a massa firme, retire da geladeira, corte os biscoitos com um cortador no formato desejado e disponha em uma assadeira forrada com papel manteiga;
 - Junte as aparas da massa, abra novamente com o auxílio de farinha para não grudar, e repita o processo;
-- --
 
 ---
 

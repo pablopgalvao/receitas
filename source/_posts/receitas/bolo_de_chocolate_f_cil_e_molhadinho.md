@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de açúcar
 - 1 xícara de chá de chocolate em pó (ou achocolatado)
@@ -42,7 +42,6 @@ flags: []
 - Adicione a farinha de trigo com fermento e mexa novamente. Acrescente a água e o óleo, misturando delicadamente, não mexa muito e com força para não ativar o glúten da farinha de trigo, isso deixa a massa pesada;
 - Unte uma forma de pudim média com manteiga e farinha de trigo ou chocolate em pó. Despeje a massa na forma e leve para assar no forno preaquecido, por cerca de 35 a 40 minutos, até espetar um palito no meio da massa e ele sair limpo;
 - Salpique o granulado para finalizar e sirva. Bom apetite!
-- --
 
 ---
 

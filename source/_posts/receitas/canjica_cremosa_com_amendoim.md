@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de milho de canjica (400 gramas)
 - 1 caixinha de leite condensado (395 gramas)
@@ -37,7 +37,6 @@ flags: []
 - 1 vidro de leite de coco (200 ml)
 - Canela ou cravo-da-índia a gosto
 - Após o cozimento, mantenha a água restante na panela e adicione o leite integral e o leite de coco. Acrescente o leite condensado e o açúcar. Misture bem para dissolver;
-- --
 
 ---
 

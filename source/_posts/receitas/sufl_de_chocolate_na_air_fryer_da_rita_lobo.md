@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Coloque o chocolate e a manteiga numa tigela média e leve ao micro-ondas, em potência média, para rodar em etapas de 30 segundos, mexendo a cada intervalo até derreter.
 - Retire a tigela do micro-ondas e misture o cacau em pó ao chocolate quente para dissolver. Numa tigela pequena, quebre um ovo de cada vez, separando a clara da gema. Misture as gemas ao chocolate e transfira as claras para uma tigela média.
 - Com uma batedeira manual (ou mixer com batedor de claras), bata as claras até começarem a espumar. Vá juntando o açúcar aos poucos e continue batendo até atingir o ponto de pico mole — ao levantar uma porção, a clara forma um pico que se curva na ponta.
-- --
 
 ---
 

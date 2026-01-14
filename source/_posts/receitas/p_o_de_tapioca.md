@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 5 colheres de sopa de óleo
 - 1/2 xícara de chá de leite integral (120 ml)
@@ -38,7 +38,6 @@ flags: []
 - No liquidificador, adicione os ovos, o óleo, o leite integral e o sal. Bata por aproximadamente 1 minuto, até que tudo fique homogêneo;
 - Unte uma forma de pão (20x10cm) com óleo e transfira a massa para ela. Leve ao forno a 200ºC por cerca de 35 minutos ou até ficar douradinho;
 - Espere amornar para então, finalmente desenformar. Sirva com manteiga ou geleias de sua preferência!
-- --
 
 ---
 

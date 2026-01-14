@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 xícara (chá) de coco seco queimado ralado
 - Com as mãos, quebre o chocolate em pedaços e transfira para uma panela média. Junte o leite condensado e a manteiga.
 - Unte as mãos com um pouco de água – assim os flocos de coco grudam melhor no brigadeiro. Com uma colher de chá, retire uma porção da massa, enrole numa bolinha e transfira para o prato com coco. Faça de uma só vez quantos brigadeiros couberem no prato.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 peça de pernil (aproximadamente 1,2 kg)
 - Cominho a gosto
@@ -37,7 +37,6 @@ flags: []
 - 2 e 1/2 xícara de chá de água (600 ml)
 - Salpique colorau e esprema o limão por cima, espalhando bem com as mãos dos dois lados da peça;
 - Junte o pernil à panela e, em seguida, os 600 ml de água. Tampe e deixe cozinhar por aproximadamente 20 minutos ou até ficar macio;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/3 de xícara de chá de queijo parmesão ralado
 - 1/3 de xícara de chá de leite
 - 2 colheres de sopa de óleo neutro (soja, girassol ou milho)
 - 1 xícara de chá de polvilho doce
 - Sal a gosto
-- --
 
 ---
 

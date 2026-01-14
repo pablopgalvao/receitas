@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve ao fogo médio uma panela média para aquecer. Regue com 1 colher (sopa) de azeite, junte a cebola, a cenoura e o salsão picados. Tempere com 1 colher (chá) de sal e refogue por cerca de 3 minutos, até murchar.
 - Adicione 2 xícaras (chá) do grão-de-bico, regue com 1 litro de água, misture e deixe cozinhar em fogo médio. Assim que ferver, diminua o fogo e deixe cozinhar por mais 20 minutos. Enquanto isso prepare os ingredientes para a finalização.
 - Leve ao fogo médio uma frigideira de preferência antiaderente. Quando aquecer regue com um fio de azeite, coloque as linguiças inteiras e junte a xícara (chá) de grão-de-bico reservado. Tempere com sal e pimenta-do-reino a gosto e deixe cozinhar, mexendo de vez em quando, por cerca de 10 minutos até dourar.
-- --
 
 ---
 

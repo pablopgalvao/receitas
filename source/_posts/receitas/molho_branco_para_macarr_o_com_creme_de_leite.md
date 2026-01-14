@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de manteiga (40 gramas)
 - 1/2 colher de sopa de banha de porco ou azeite
@@ -40,7 +40,6 @@ flags: []
 - 2 colheres de sopa de água fria para dissolver o amido
 - 150 gramas de queijo mussarela ralado (ou a gosto)
 - Em uma panela, coloque a manteiga. Quando uma parte dela estiver derretida, adicione a banha ou o azeite, e refogue a cebola. Deixe dourar e acrescente o dente de alho. Misture;
-- --
 
 ---
 

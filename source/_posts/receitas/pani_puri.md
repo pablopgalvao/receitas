@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 130 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de farinha de trigo (140 gramas)
 - 2 xícaras de chá de semolina de trigo (310 gramas)
@@ -51,7 +51,6 @@ flags: []
 - Após o cozimento, amasse as batatas com um garfo. Pique a cebola em cubinhos. Em uma tigela, junte a batata com a cebola, o suco de limão, o sal, o chilli e o cominho. Misture bem e reserve;
 - Para o pani, em um liquidificador, bata a hortelã, o coentro, as pimentas, o suco de limão, o cominho, o sal negro, o tamarindo e o açúcar até obter um creme espesso. Adicione água fria, misture e reserve na geladeira;
 - Leve uma panela com óleo ao fogo alto e frite os discos. Assim que o puri inflar em formato de bolha e ficar douradinho, retire com uma escumadeira e reserve em um prato forrado com papel-toalha;
-- --
 
 ---
 

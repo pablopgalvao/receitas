@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela pequena, quebre um ovo de cada vez, transferindo as gemas para uma tigela média e as claras para outra tigela um pouco maior.
 - Lave, seque e corte uma fatia fina da base e do topo do tomate – assim fica mais fácil descascar depois de grelhado, se preferir comer com a casca pule esse corte. Corte o tomate ao meio, no sentido da largura e tempere cada metade com sal, pimenta e um fio de azeite.
-- --
 
 ---
 

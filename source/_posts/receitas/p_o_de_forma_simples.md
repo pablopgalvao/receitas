@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 145 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de água (225 ml)
 - 3 colheres de sopa de leite (50ml)
@@ -42,7 +42,6 @@ flags: []
 - Unte a mesa ou bancada com um fiozinho de óleo e despeje a massa. Abra com as mãos em um formato retangular;
 - Forre sua forma de pão com papel manteiga ou unte com óleo e farinha. Coloque o pão na forma, cubra e deixe crescer novamente por mais 30 minutos;
 - Espere esfriar um pouco e desenforme. Sirva com manteiga ou prepare sanduíches deliciosos!
-- --
 
 ---
 

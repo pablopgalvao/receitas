@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 180 gramas de tomate cereja
 - 1/4 de xícara de chá de azeite
@@ -36,7 +36,6 @@ flags: []
 - Manjericão fresco a gosto
 - Pimenta-do-reino a gosto
 - Numa tigela ou recipiente de sua preferência, despeje os tomatinhos e tempere com alho (reserve um pedaço para o passo 4), sal, pimenta-do-reino e azeite;
-- --
 
 ---
 

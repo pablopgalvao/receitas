@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - ½ xícara (chá) de aveia em flocos grossos
 - 1 pitada de sal
 - Numa tigela média, misture a farinha com o açúcar mascavo, a aveia e o sal. Adicione a manteiga e misture, amassando com a ponta dos dedos, até formar uma farofa grossa.
-- --
 
 ---
 

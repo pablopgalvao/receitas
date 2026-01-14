@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de filé de frango desfiado (sassami)
 - 1/2 xícara de chá de azeitonas picadas
@@ -38,7 +38,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Tempere com sal, pimenta-do-reino e azeite. Misture bem e leve à geladeira para gelar;
 - Salpique um pouco mais de salsinha e sirva como preferir. Bom apetite!
-- --
 
 ---
 

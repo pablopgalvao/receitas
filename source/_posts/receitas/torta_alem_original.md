@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 265 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 tablete de manteiga sem sal (200 gramas)
 - 4 gemas de ovo
@@ -41,7 +41,6 @@ flags: []
 - Em uma batedeira, adicione a manteiga, as gemas e o açúcar. Bata em velocidade alta por cerca de 12 minutos ou até obter um creme esbranquiçado e aerado;
 - Em uma panela média, adicione o leite, o chocolate em pó, a manteiga e o açúcar. Misture bem! Leve ao fogo médio, mexendo sempre, até a calda engrossar levemente, formando uma cobertura firme;
 - Despeje a cobertura quente sobre a torta congelada, espalhando com uma colher para cobrir toda a superfície;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - folhas de salsinha a gosto
 - No pilão, bata o dente de alho com uma pitada de sal até formar uma pastinha (se preferir, pique o alho bem fininho, e amasse com a lateral da faca).
 - Retire as tiras de berinjela do forno, salpique com salsinha picada e sirva com o molho.
-- --
 
 ---
 

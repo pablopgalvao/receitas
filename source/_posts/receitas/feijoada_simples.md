@@ -35,7 +35,6 @@ flags: []
 - **Rendimento:** 16 Porções
 - **Tempo de preparo:** 2 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -50,7 +49,6 @@ flags: []
 - ¼ de xícara (chá) de azeite
 - 3 folhas de louro
 - 1 colher (chá) de cominho em pó
-
 
 ---
 

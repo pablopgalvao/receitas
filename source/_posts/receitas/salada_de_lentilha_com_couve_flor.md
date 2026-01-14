@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - Descasque e passe o dente de alho pelo ralador sobre uma tigela pequena. Adicione ⅓ de xícara (chá) de azeite, o caldo de limão, o extrato de tomate, o mel, o cominho, a canela e 1 colher (chá) de sal. Misture bem para emulsionar (se preferir, prepare o molho num pote com tampa e chacoalhe bem).
 - Corte a couve-flor em floretes pequenos, lave sob água corrente e seque bem numa centrífuga de saladas – quanto mais secos, mais dourados ficam os floretes. Transfira para uma tigela, tempere com a páprica, uma pitada de sal e 1 colher (sopa) de azeite. Misture bem.
 - Junte a couve-flor à lentilha, adicione as amêndoas picadas, folhas de salsinha e sementes de romã a gosto. Misture delicadamente e sirva a seguir. Se preferir, leve à geladeira para apurar os sabores por 1 hora antes de servir.
-- --
 
 ---
 

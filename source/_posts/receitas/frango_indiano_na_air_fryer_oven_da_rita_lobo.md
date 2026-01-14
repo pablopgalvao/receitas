@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Sobre uma tigela, passe o alho (com a casca) pela parte fina do ralador. Adicione o iogurte, o gengibre, as especiarias, o sal e misture bem.
 - Assim que a Air Fryer estiver aquecida, com cuidado e utilizando o gancho específico, encaixe o espeto giratório na Air Fryer e deixe o frango assar por cerca de 30 minutos, até que as pontinhas fiquem tostadinhas e o interior esteja completamente cozido — na metade do tempo, pause a programação, retire o espeto com o gancho e pincele toda a superfície do frango com um pouco da marinada que sobrou.
-- --
 
 ---
 

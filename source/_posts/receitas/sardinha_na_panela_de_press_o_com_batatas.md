@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de sardinha
 - 1 xícara de chá de azeite (ou óleo)
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de chá de cominho
 - 2 e 1/2 colheres de chá de colorau
 - Em uma tigela grande, adicione as sardinhas e tempere com sal, colorau e cominho. Misture com as mãos, para incorporar bem os ingredientes;
-- --
 
 ---
 

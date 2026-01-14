@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de milho (240 gramas)
 - 2 xícaras de chá de açúcar (400 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Em uma tigela, adicione a farinha de milho, o açúcar e a farinha de trigo. Misture bem até ficar homogêneo;
 - Acrescente os ovos, a manteiga e a erva-doce;
 - Com a massa pronta, unte as mãos com manteiga e pegue pequenas porções da massa para moldar em formato de bolinhas;
-- --
 
 ---
 

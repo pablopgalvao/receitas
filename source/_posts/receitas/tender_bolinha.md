@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de tender bolinha
 - 80 gramas de mussarela
@@ -39,7 +39,6 @@ flags: []
 - 1/2 xícara de chá de água
 - 1/2 colher de chá de sal
 - Em uma panela, adicione a pimenta picada, a maçã ralada, o alho inteiro, o suco de limão, o açúcar, a água e o sal. Misture bem;
-- --
 
 ---
 

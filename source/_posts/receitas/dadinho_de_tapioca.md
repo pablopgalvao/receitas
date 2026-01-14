@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de tapioca granulada
 - 375 gramas de queijo coalho
@@ -38,7 +38,6 @@ flags: []
 - Na tigela com o queijo coalho ralado, acrescente a tapioca granulada. Tempere com sal, pimenta e orégano a gosto. Com uma espátula, misture bem para a massa pegar o sabor;
 - Despeje a mistura em uma forma (20 x 25 cm) forrada com plástico filme sobrando nas bordas. Espalhe a massa com uma colher, criando uma camada uniforme. Deixe descansar por 10 minutos. Cubra com plástico filme e passe a mão para deixar a superfície da massa lisa;
 - Em uma panela ou frigideira com bastante óleo quente (170 ºC), deixe os dadinhos mergulhados até dourarem, sem mexer, cerca de 1 minuto. Retire com uma espátula e coloque-os sobre um prato coberto com papel toalha;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 230 gramas de manteiga
 - 1 e 1/4 de xícara de açúcar (230 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Agora, desenforme com a ajuda de outra assadeira. Cuidado para não quebrar, é uma massa delicada. Descole com cuidado o papel-manteiga da base;
 - Com o recheio pronto, espalhe 1 colher de sopa da calda sobre as massas, com ajuda das costas de uma colher ou espátula. A camada de recheio deve ser fina, para não haver perigo de vazar;
 - Aperte bem com a ajuda de um papel-manteiga, para que tudo fique firme. Leve à geladeira por 2 horas antes de cortar, para que o bolo ganhe estrutura;
-- --
 
 ---
 

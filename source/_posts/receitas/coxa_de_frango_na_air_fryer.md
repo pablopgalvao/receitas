@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de coxas de frango
 - 2 colheres de sopa de shoyu
@@ -37,7 +37,6 @@ flags: []
 - 1 colher de sopa de salsa desidratada
 - Sal e pimenta-do-reino a gosto
 - Em uma tigela, coloque as coxas de frango, o colorau, a salsa desidratada, o alho picado, o sal, a pimenta e misture bem;
-- --
 
 ---
 

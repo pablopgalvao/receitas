@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de creme de ricota
 - ¼ de xícara (chá) de broto de alfafa
 - Sirva a seguir. Se quiser levar de marmita para comer no trabalho, embale cada sanduíche com um pedaço retangular de papel manteiga e amarre com um barbante de algodão. Transfira para um recipiente com tampa e deixe na geladeira até a hora de consumir.
-- --
 
 ---
 

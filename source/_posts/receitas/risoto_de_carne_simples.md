@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de azeite
 - 3 bifes de alcatra ( cerca de 900 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Junte os ingredientes na bancada para preparar esse risoto em uma noite especial! Para facilitar o processo, deixe as cebolas picadas em cubinhos, a salsinha picada finamente, e o queijo parmesão ralado;
 - Em seguida, tempere com sal e chimichurri. Incorpore os temperos e deixe na panela até que as cebolas fiquem douradinhas;
 - Veja se é necessário colocar mais água e, quando der uma reduzida, adicione a manteiga. Misture um pouco e coloque a salsinha picada. Deixe por 3 minutos ainda em fogo baixo;
-- --
 
 ---
 

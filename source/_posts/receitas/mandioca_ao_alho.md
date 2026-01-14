@@ -30,7 +30,6 @@ flags: []
 - **Rendimento:** 8 Porções
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +38,6 @@ flags: []
 - sal a gosto
 - 4 colheres (sopa) de azeite
 - 4 dentes de alho fatiados
-
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de mocotó
 - 1 maço de salsinha ou coentro
@@ -38,7 +38,6 @@ flags: []
 - Cheiro-verde a gosto para finalizar
 - Coloque o mocotó em uma panela de pressão com 1 litro de água, a cebola inteira, os 3 dentes de alho inteiros, o maço de cheiro-verde e o sal. Tampe e cozinhe por 1 hora após pegar pressão;
 - Finalize acrescentando o cheiro-verde picado. Misture, ajuste o sal se necessário e desligue o fogo;
-- --
 
 ---
 

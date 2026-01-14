@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de farinha de trigo (500 gramas)
 - 1 xícara de chá de banha de porco (220 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Misture inicialmente com uma colher, depois envolva a massa com as mãos, incorporando bem os ingredientes;
 - Acrescente 1 pitada de sal, mexendo uma última vez, e cubra a massa com plástico-filme. Leve à geladeira por 30 minutos;
 - Pincele todas as empadas com o ovo batido e leve para assar em forno preaquecido a 240°C por 40 minutos, aproximadamente;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 117 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 ovos jumbo (ou 3 pequenos)
 - 2 xícaras de chá de farinha de trigo (300 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Em uma bancada enfarinhada, sove a massa por cerca de 10 minutos. Adicione pitadas de farinha se achar necessário, para que chegue no ponto ideal de não grudar nas mãos;
 - Sobre a massa, coloque cerca de 1 colher de chá do recheio preparado. Pincele um pouco de água em volta e cubra com outra parte de massa;
 - Aqueça uma panela com água e sal, até ferver. Coloque os raviolis para cozinhar por aproximadamente 8 a 10 minutos;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Descasque e corte as batatas-doces em pedaços médios. Transfira para uma panela grande, adicione 1 colher (sopa) de sal, junte o alho descascado e as folhas de louro.
 - Assim que as batatas estiverem cozidas, desligue o fogo e reserve 2 xícaras (chá) da água do cozimento — a quantidade de água usada para dar o ponto no purê pode variar. Descarte as folhas de louro, escorra a água e volte as batatas para a panela (com o dente de alho).
 - Por último, misture a manteiga e a mostarda. Prove e, se necessário, ajuste o sal. Sirva a seguir.
-- --
 
 ---
 

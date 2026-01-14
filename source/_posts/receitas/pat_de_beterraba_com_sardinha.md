@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - folhas de endro (dill) a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Assim que estiver cozida, passe a beterraba por uma peneira e deixe escorrer bem a água. No processador junte a beterraba cozida, as sardinhas, a maionese, o azeite, o caldo de limão e endro. Bata bem por 2 minutos, até ficar liso. Prove e tempere com sal e pimenta-do-reino moída na hora a gosto. Transfira para uma tigela e leve à geladeira para esfriar antes de servir.
-- --
 
 ---
 

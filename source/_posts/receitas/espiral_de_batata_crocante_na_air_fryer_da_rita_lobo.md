@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 colher (chá) de páprica doce
 - ½ colher (chá) de sal
 - Numa tigela pequena, misture bem o queijo parmesão com o azeite, a páprica e o sal. Com as mãos, espalhe bem a mistura de queijo por toda a superfície das batatas e entre as fatias.
-- --
 
 ---
 

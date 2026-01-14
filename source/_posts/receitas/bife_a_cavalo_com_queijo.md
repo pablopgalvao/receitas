@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de bife de chorizo
 - Pimenta-do-reino a gosto
@@ -36,7 +36,6 @@ flags: []
 - Aqueça uma frigideira com a banha de porco em fogo médio e quebre o ovo na frigideira. Tempere com sal e frite até atingir o ponto desejado. Reserve;
 - Sobre uma tábua, tempere o bife com alho ralado, sal e pimenta-do-reino dos dois lados, esfregando bem para fixar os temperos;
 - Sirva o bife recheado com o ovo frito por cima. Combine com arroz, feijão e batatas fritas!
-- --
 
 ---
 

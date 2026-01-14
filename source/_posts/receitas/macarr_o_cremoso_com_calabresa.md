@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 350 gramas de macarrão tipo parafuso
 - 1 e 1/2 xícara de chá de molho de tomate (350 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Coentro seco a gosto
 - Sal a gosto
 - Finalize com cheiro-verde a gosto e desligue o fogo. Sirva em seguida!
-- --
 
 ---
 

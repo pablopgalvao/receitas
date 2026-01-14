@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de leite de coco
 - 1 xícara de chá de água
@@ -41,7 +41,6 @@ flags: []
 - O leite de coco culinário possui alto teor de gordura, que garante cremosidade às receitas, por isso, nessa receita, precisa ser complementado com água. Se preferir, utilize 1 e 1/2 xícara de leite de coco caseiro;
 - A consistência da massa é molinha e cremosa. Não adicione mais farinha, pois o pão ficará muito duro. Com o liquidificador desligado, acrescente o fermento. Mexa com uma colher ou espátula;
 - Unte e enfarinhe, com azeite e farinha de arroz, uma forma de bolo inglês (22 cm X 10 cm). Despeje a massa e, com as mãos, bata nas laterais da forma para tirar o ar. Faltando 15 minutos para assar, preaqueça o forno a 180 ºC;
-- --
 
 ---
 

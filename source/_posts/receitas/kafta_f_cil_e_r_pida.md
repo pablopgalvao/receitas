@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de acém moído
 - Tempero sírio a gosto
@@ -35,7 +35,6 @@ flags: []
 - Azeite a gosto
 - Acrescente o tempero sírio, uma boa pitada de sal e um generoso fio de azeite. Misture tudo muito bem com as mãos;
 - Estão prontas, agora é só aproveitar com uma saladinha e seu molho favorito!
-- --
 
 ---
 

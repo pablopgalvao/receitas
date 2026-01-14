@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - 1 pitada de sal
 - 1 colher (chá) de molho inglês
 - Retire as folhas da tigela, em vez de escorrer a água - assim as sujeirinhas ficam no fundo da tigela. Enxague, transfira as folhas para uma centrífuga de saladas e seque bem. Rasgue grosseiramente as folhas com as mãos e coloque numa saladeira, disponha as peras, regue com o molho e sirva a seguir.
-- --
 
 ---
 

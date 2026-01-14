@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Leve ao fogo baixo uma frigideira grande com a manteiga. Quando derreter, junte a cebola fatiada. Tempere com uma pitada de sal e deixe cozinhar, mexendo de vez em quando, por cerca de 20 minutos ou até ficarem bem douradas - isso faz toda a diferença no sabor da receita. Desligue o fogo e reserve metade das cebolas para a finalização.
 - Volte a frigideira com as cebolas douradas ao fogo médio. Adicione o arroz cozido, a lentilha (sem a água) e misture. Tempere com a pimenta síria, canela e sal. Acrescente metade das nozes e mexa por cerca de 2 minutos para o arroz aquecer e incorporar as especiarias.
 - Transfira para 2 pratos. Disponha a outra metade das cebolas douradas sobre o arroz sírio. Salpique com o restante das nozes e sirva a seguir. Fica uma delícia com coalhada seca e pepino em conserva.
-- --
 
 ---
 

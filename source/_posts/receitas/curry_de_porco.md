@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - sal a gosto
 - Leve uma wok (ou panela média) ao fogo médio. Quando aquecer, regue com o óleo, acrescente a cebola e tempere com 1 pitada de sal. Refogue por 2 minutos até murchar. Junte o alho, o gengibre, a raiz e talos do coentro picados e o louro e refogue por mais 2 minutos. Acrescente as especiarias e misture bem para perfumar.
 - Passados os 15 minutos do molho, adicione os cubos de lombo, tempere com 1 colher (chá) de sal e misture bem. Deixe o lombo cozinhar no molho por mais 15 minutos, em fogo baixo, mexendo de vez em quando, até que esteja cozido – não deixe o lombo cozinhar demais para não ressecar.
-- --
 
 ---
 

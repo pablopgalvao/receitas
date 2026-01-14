@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Num prato fundo quebre o ovo e bata com o garfo apenas para misturar a clara com a gema. Tempere com a páprica, as raspas de limão, uma pitada de sal e de pimenta. Coloque o queijo ralado num prato raso.
 - Volte a frigideira ao fogo médio. Quando estiver bem quente, regue com 1/2 colher (sopa) de azeite e coloque 2 bifes um ao lado do outro, com a parte do queijo para baixo. Deixe dourar por cerca de 3 minutos, até formar uma crosta dourada – pressione delicadamente com uma espátula para manter o formato achatado do bife e a crosta de parmesão grudar bem.
-- --
 
 ---
 

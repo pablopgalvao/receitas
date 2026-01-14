@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de arroz cru (360 gramas)
 - 50 gramas de bacon
@@ -38,7 +38,6 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Acerte o sal, se necessário. Cubra com 1,4 litros água fervente para iniciar o cozimento;
-- --
 
 ---
 

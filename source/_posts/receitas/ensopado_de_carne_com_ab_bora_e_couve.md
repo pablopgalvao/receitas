@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Transfira a carne dourada para uma tigela e repita o processo com os pedaços restantes, regando a panela com 1 colher (chá) de azeite a cada leva.
 - Mantenha a panela em fogo médio, regue com 1 colher (chá) de azeite e acrescente o bacon. Refogue por cerca de 1 minuto, até começar a soltar a gordura. Adicione a cebola, tempere com uma pitada de sal e de açúcar e deixe cozinhar por cerca de 5 minutos, mexendo de vez em quando, até a cebola dourar. Junte o alho, a canela e o louro e mexa por 1 minuto para perfumar.
 - Regue com o vinagre, raspando bem o fundo da panela com a espátula para dissolver os queimadinhos — são eles que dão mais sabor ao preparo. Acrescente a água quente, volte a carne para a panela e tempere com 1 colher (chá) de sal. Tampe a panela e aumente o fogo. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.
-- --
 
 ---
 

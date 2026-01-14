@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Sal e pimenta-do-reino a gosto
 - 1 pitada de orégano
@@ -42,7 +42,6 @@ flags: []
 - Em seguida, passe os dois lados do bife nos ovos batido e tire um pouco do excesso também;
 - E por último, empane na farinha de rosca e aperte bem para grudá-la na carne. Repita o mesmo processo com todos os bifes;
 - Frite os bifes (dois por vez) no óleo quente por imersão;
-- --
 
 ---
 

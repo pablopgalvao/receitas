@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de manteiga
 - 3 xícaras de chá de arroz arbóreo
 - 1 xícara de chá de parmesão ralado
 - Derreta uma colher de manteiga em uma panela, acrescente a cebola, um fio de azeite e deixe dourar um pouco;
 - Abaixe o fogo e acrescente a outra colher de manteiga e o parmesão e misture bem;
-- --
 
 ---
 

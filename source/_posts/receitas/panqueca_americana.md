@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de farinha de trigo
 - 2 e 1/2 colheres de sopa de açúcar
@@ -42,7 +42,6 @@ flags: []
 - Em outro recipiente, quebre um ovo de cada vez e junte aos secos. Se quiser uma massa com sabor suave, peneire os ovos cuidadosamente para retirar a película branca da gema;
 - Adicione o leite e o óleo. Mexa bem com um fuê (batedor de bolos) ou garfo até a mistura ficar homogênea. Deixe a massa descansar por 10 minutos;
 - Em fogo médio, leve uma frigideira antiaderente para aquecer. Use um papel-toalha para untar o fundo da panela com óleo - repita esse procedimento a cada panqueca frita;
-- --
 
 ---
 

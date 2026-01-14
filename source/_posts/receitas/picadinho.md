@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Acrescente o extrato de tomate e mexa por 3 minutos até dar uma leve tostadinha no fundo da panela — isso vai dar mais sabor ao caldo do picadinho. Junte a farinha e mexa por 1 minuto até formar uma pastinha — a farinha ajuda a engrossar o caldo.
 - Regue com o molho inglês e o caldo de limão e misture bem. Adicione a água quente aos poucos, mexendo com a espátula para dissolver os gruminhos de farinha e o queimadinho do fundo da panela. Tempere com uma pitada de sal, volte a carne para a panela e misture bem.
 - Enquanto isso, lave, seque e pique fino a salsinha. Desligue o fogo do picadinho e misture a salsinha picada. Sirva a seguir.
-- --
 
 ---
 

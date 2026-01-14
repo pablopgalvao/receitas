@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de costela bovina
 - 100 gramas de bacon cortados em cubos e sem pele
@@ -35,7 +35,6 @@ flags: []
 - Sal a gosto
 - Em uma tigela, tempere a carne com sal e pimenta-do-reino a gosto. Deixe descansar fora da geladeira por 10 - 30 minutos para pegar bem o tempero;
 - Regue o fundo de uma panela de pressão com azeite, ou óleo vegetal de sua preferência. Faça uma camada de cebolas;
-- --
 
 ---
 

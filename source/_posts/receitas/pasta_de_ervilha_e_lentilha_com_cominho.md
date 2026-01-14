@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Leve uma frigideira ao fogo médio para aquecer. Regue com o azeite, adicione a cebola, tempere com uma pitada de sal e refogue por 5 minutos até dourar. Junte o alho, tempere com o cominho, a pimenta-de-caiena, noz-moscada a gosto e mexa por mais 1 minuto para perfumar. Reserve.
 - No processador de alimentos coloque os grãos cozidos e o refogado. Junte as folhas de coentro, o caldo de limão, tempere com 1 colher (chá) de sal e pimenta a gosto. Bata até formar uma pasta bem cremosa.
 - Transfira para uma tigela e leve à geladeira por, no mínimo, 1 hora para esfriar. Na hora de servir, regue com azeite, e polvilhe com sementes de cominho tostadas e folhas de coentro a gosto.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 400 gramas camarão
 - 1 colher de sopa de manteiga (12 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Separe uma frigideira e deixe elas esquentar no fogo médio. Acrescente o azeite de oliva e a manteiga e deixe derreter por completo;
 - Assim que derretida a manteiga, acrescente o alho picado e refogue até ficar dourado;
 - Frite o camarão dos dois lados até selar (cerca de 15 a 20 segundos cada lado). Acrescente o ketchup, a mostarda e o creme de leite fresco. Misture tudo e finalize com o sal;
-- --
 
 ---
 

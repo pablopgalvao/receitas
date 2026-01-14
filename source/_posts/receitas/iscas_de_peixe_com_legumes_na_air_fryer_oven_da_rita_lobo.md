@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - sal a gosto
 - Descasque e coloque o dente de alho no pilão. Tempere com uma pitada de sal e bata bem até formar uma pastinha.
 - Acrescente o tahine, o caldo de limão e misture bem. Junte aos poucos a água, mexendo com uma colher até obter a consistência desejada (para um molho mais fluido ou mais encorpado).
-- --
 
 ---
 

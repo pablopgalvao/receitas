@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg (ou 6 filés) de peixe de sua preferência (testamos com tilápia)
 - 1 colher de sobremesa de sal
@@ -39,7 +39,6 @@ flags: []
 - Em um recipiente, coloque os filés de peixe. Tempere com suco de limão, sal e pimenta. Deixe marinar por, pelo menos, 2 horas. Se possível, faça essa etapa um dia antes e deixe na geladeira de 12 a 24 horas;
 - Em uma panela média, com uma quantidade de azeite suficiente para cobrir o fundo, refogue os ingredientes picados por 3 minutos. Tempere com sal, misture, coloque os filés de peixe e a marinada. Tampe a panela e cozinhe por 20 minutos em fogo baixo;
 - Abra a panela, despeje o leite de coco e o extrato de tomate. Misture delicadamente para não quebrar os filés de peixe. Tampe novamente e deixe cozinhando por mais 5 minutos. Se precisar, acerte o sal, desligue o fogo e salpique salsinha por cima;
-- --
 
 ---
 

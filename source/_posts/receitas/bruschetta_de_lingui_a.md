@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Salsinha a gosto
 - Mussarela a gosto
 - Organize sua bancada com o necessário! Lave o tomate e pique-o em cubos, ainda com sementes. Lave e corte a salsinha finamente;
 - Por fim, acrescente a salsinha, mexendo bem para que tudo se incorpore. Desligue o fogo e reserve;
-- --
 
 ---
 

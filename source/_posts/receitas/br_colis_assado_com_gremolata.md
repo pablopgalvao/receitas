@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - 1 pitada de sal
 - Lave e seque a casca dos limões. Lave e seque bem a salsinha. Descasque e pique fino os dentes de alho.
 - Com um zéster, faça raspas da casca dos limões sobre o alho picado, com cuidado para não extrair a parte branca. Junte as folhas de salsinha e pique novamente o alho junto com a salsinha e as raspas de limão.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Numa assadeira grande, coloque as abobrinhas, regue com o azeite, o vinagre, junte as alcaparras, o tomilho debulhado, as folhas de louro e os alhos inteiros (com a casca). Tempere com o sal, pimenta a gosto e misture bem.
 - Após esse tempo, adicione a vagem e misture bem. Deixe assar por mais 15 minutos, ou até os legumes estarem bem úmidos e macios. Enquanto isso, lave, seque e pique grosseiramente a salsinha e o dill. Lave, seque e corte os tomates ao meio.
 - Retire a assadeira do forno e misture as raspas de limão, o dill e a salsinha picada. Deixe esfriar completamente antes de misturar os tomates. Na hora de servir, decore com folhas de salsinha e dill.
-- --
 
 ---
 

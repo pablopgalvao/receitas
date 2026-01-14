@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de trigo para quibe
 - 1 xícara de chá de proteína de soja (pts)
@@ -40,7 +40,6 @@ flags: []
 - Em seguida, coe a farinha de quibe também;
 - Transfira a proteína de soja e a farinha de quibe para uma tigela grande e junte o refogado;
 - Tempere com o suco de limão, sal, a pimenta, os temperos frescos e o azeite de oliva. Misture bem;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa de óleo
 - 1 colher de chá de colorau
@@ -42,7 +42,6 @@ flags: []
 - Adicione o colorau, sal, pimenta-do-reino, páprica defumada e, se quiser, o caldo de carne ou bacon. Misture bem para incorporar o sabor. Coloque a salsinha e mexa novamente;
 - Despeje o molho de tomate, a água e as salsichas. Deixe cozinhar em fogo médio para reduzir o molho por cerca de 15 minutos. Experimente e, se preciso, acerto o sal;
 - Para montar, basta cortar o pão ao meio, sem partir totalmente (deixe as bandas interligadas). Coloque 2 colheres de sopa do molho, 1 salsicha, batata palha, ketchup e mostarda.
-- --
 
 ---
 

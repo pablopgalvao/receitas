@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícaras de chá da água do cozimento dos legumes
 - Cebolinha picadinha e pimenta-do-reino a gosto
 - Sal a gosto
 - Coloque a mandioquinha, a cenoura, a água do cozimento e o sal no liquidificador, e bata até atingir uma mistura homogênea;
-- --
 
 ---
 

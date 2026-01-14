@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3/4 de xícara de água gelada (180 ml)
 - 1/2 xícara de chá de farinha de trigo (120 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Escorra a água, adicione farinha de trigo ao poucos, depois tempere com sal, páprica e pimenta-do-reino;
 - Aqueça o óleo em uma panela e comece a fritar o tempurá. Junte 3 ou 4 fatias e frite até dourar completamente;
 - Escorra em papel-toalha para tirar o excesso de óleo, e pronto. Saboreie sem moderação!
-- --
 
 ---
 

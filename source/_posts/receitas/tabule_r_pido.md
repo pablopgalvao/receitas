@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de triguilho (trigo para kibe)
 - 1 xícara de chá de água quente
@@ -36,7 +36,6 @@ flags: []
 - Sal a gosto
 - Corte as folhas de hortelã e a salsinha em pedaços menores;
 - Finalize com a hortelã e a salsinha e tempere com sal, azeite e limão. Misture tudo muito bem;
-- --
 
 ---
 

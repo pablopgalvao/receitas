@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Numa tigela, quebre um ovo de cada vez e transfira para outra tigela média — se um deles estiver estragado você não perde o outro. Bata com o batedor de arame (ou com um garfo) apenas para misturar as claras com as gemas. Junte o açúcar, a canela, o óleo, o leite e misture bem. Adicione a farinha e misture novamente.
 - Corte cada banana em quartos, no sentido do comprimento, e fatie as lâminas em pedaços de 0,5 cm. Junte os pedaços à massa e misture delicadamente com uma espátula. Por último, misture o fermento e o sal.
 - Enquanto a Air Fryer aquece, numa tigela pequena, misture as 2 colheres (chá) de açúcar demerara com a pitada de canela e polvilhe sobre os muffins.
-- --
 
 ---
 

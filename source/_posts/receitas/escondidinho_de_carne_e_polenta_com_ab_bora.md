@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Volte a primeira leva de carne dourada para a frigideira, tempere com sal e polvilhe a farinha de trigo. Mexa com uma espátula por cerca de 5 minutos para desmanchar bem os pedaços e a carne terminar de cozinhar.
 - Transfira a carne moída soltinha para a tigela novamente e mantenha a frigideira em fogo médio. Regue com 2 colheres (sopa) de azeite, acrescente a cebola, a cenoura e tempere com uma pitada de sal. Refogue por cerca de 2 minutos, até murchar. Junte o alho e a pimenta calabresa e mexa por 1 minuto para perfumar.
 - Regue a frigideira com a água e mexa bem com a espátula para dissolver os queimadinhos do fundo da frigideira — eles dão mais sabor ao preparo. Acrescente o tomate pelado, as azeitonas, tempere com ½ colher (chá) de sal e deixe cozinhar até ferver.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,3 kg de fraldinha cortada em cubos
 - 1 colher de sopa de azeite
@@ -39,7 +39,6 @@ flags: []
 - Sal, pimenta e cebolinha a gosto
 - Adicione os cubos de carne e tempere com sal e pimenta. Doure todos os lados por cerca de 5 minutos;
 - Cubra novamente com água quente e mexa para incorporar. Experimente o caldo e acerte o sal. Cozinhe em fogo baixo, com a panela semitampada, até a água secar. Se o arroz não estiver macio, coloque um pouquinho mais de água quente;
-- --
 
 ---
 

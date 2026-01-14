@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de salsicha (2 pacotes ou 20 salsichas)
 - 2 sachês de molho de tomate (480 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Acrescente o alho e continue refogando até soltar seu aroma. Tempere com pimenta-do-reino e sal a gosto. Deixe refogar até os vegetais estarem bem murchos e levemente caramelizados;
 - Agora, acrescente as rodelas de salsicha ao molho e misture tudo;
 - Cozinhe por mais alguns minutos, mexendo de vez em quando, até o molho ficar encorpado. Ajuste o sal, se necessário;
-- --
 
 ---
 

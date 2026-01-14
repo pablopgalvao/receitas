@@ -34,7 +34,6 @@ flags: []
 - **Rendimento:** 6 Porções
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +46,6 @@ flags: []
 - 1/2 pimenta vermelha sem sementes picada
 - 3 xícaras (chá) de farinha de milho
 - sal a gosto
-
 
 ---
 

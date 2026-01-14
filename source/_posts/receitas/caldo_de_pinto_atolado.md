@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 750 gramas de mandioca crua
 - 500 gramas de peito de frango cozido e desfiado
@@ -40,7 +40,6 @@ flags: []
 - Leve uma panela grande ao fogo médio, adicione a manteiga e refogue a cebola e o alho;
 - Em seguida, adicione o frango desfiado e o sal e refogue por 2 minutos. Coloque o caldo de mandioca batido, o creme de leite e o leite de coco e misture bem. Deixe cozinhar até ferver e reduzir;
 - Salpique cebolinha picada e sirva bem quentinho. Bom apetite!
-- --
 
 ---
 

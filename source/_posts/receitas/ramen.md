@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 160 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de asa de frango
 - 500 gramas de costela de porco
@@ -57,7 +57,6 @@ flags: []
 - Despeje metade da marinada em outro bowl. Descasque o ovo cozido e acrescente em um dos bowls. No outro, acrescente a picanha suína. Leve ambos à geladeira por 2 horas;
 - Em uma frigideira, despeje 1 fio de óleo e doure as picanhas marinadas. Assim que dourar de um lado, cerca de 3 minutos, vire para dourar do outro;
 - Por cima, disponha os pedaços da picanha, o ovo cortado ao meio e o moyashi um ao lado do outro;
-- --
 
 ---
 

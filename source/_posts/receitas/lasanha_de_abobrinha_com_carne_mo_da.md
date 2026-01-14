@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída
 - Azeite a gosto
@@ -37,7 +37,6 @@ flags: []
 - 1/2 xícara de chá de queijo parmesão (70 gramas)
 - Tempere com sal e pimenta-do-reino. Misture bem;
 - Acrescente a camada de carne moída restante, salpique queijo mussarela ralado por cima e mais uma de abobrinha. Repita o processo até completar a forma;
-- --
 
 ---
 

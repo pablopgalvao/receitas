@@ -25,14 +25,12 @@ flags: []
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
 - 4 colheres de sopa de cacau em pó 100%
 - 2 bananas maduras
-
 
 ---
 

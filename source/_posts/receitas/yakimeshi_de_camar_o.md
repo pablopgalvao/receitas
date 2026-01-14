@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de óleo
 - 2 pedacinhos de gengibre (15 gramas)
@@ -46,7 +46,6 @@ flags: []
 - Despeje o restante do óleo e acrescente o alho com gengibre para refogar. Assim que murcharem um pouco, adicione os camarões e frite por cerca de 2 minutos;
 - Volte então com os ovos, adicione o shoyu e mexa bem. Ajuste o sal se necessário;
 - Para montagem tradicional, coloque o arroz em uma cumbuca redonda, pressione levemente com uma colher para que compacte e vire em um prato. Se quiser, pode finalizar com cebolinha picada finamente. Prontinho, bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -54,7 +55,6 @@ flags: []
 - Preaqueça o forno a 220 ºC (temperatura alta). Unte com 1 colher (sopa) de azeite um refratário com cerca de 30 cm x 20 cm, que comporte cerca de 3 litros.
 - Distribua a carne de costela desfiada no fundo do refratário; cubra com o purê de mandioca e alise com uma espátula. Polvilhe a farinha de rosca e o queijo parmesão ralado.
 - Leve o refratário ao forno para assar por cerca de 20 minutos, ou até dourar. Sirva a seguir acompanhado da salada de verdes com molho de melado e limão.
-- --
 
 ---
 

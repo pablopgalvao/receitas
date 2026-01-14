@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de feijão-fradinho cozido (180 gramas)
 - 1 xícara de chá de arroz (140 gramas)
@@ -46,7 +46,6 @@ flags: []
 - Na mesma panela acrescente a carne seca dessalgada e frite em fogo médio por cerca de 10 minutos. Reserve;
 - Acrescente na panela o alho e, se necessário, adicione mais óleo. Após fritar levemente, adicione o arroz e refogue-o por cerca de 2 minutos;
 - Tempere com pimenta-do-reino a gosto e acrescente duas xícaras de chá de água quente. Adicione o sal e uma pitada de páprica defumada. Cozinhe por 10 minutos;
-- --
 
 ---
 

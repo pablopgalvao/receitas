@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de arroz agulhinha
 - 450 gramas de moela
@@ -44,7 +44,6 @@ flags: []
 - Adicione os talos de coentro picados, a pimenta-dedo-de-moça e tempere com mais um pouco de sal. Junte o extrato de tomate, misture bem para incorporar e refogue por mais 1 minuto, apenas para realçar os sabores e deixar o molho mais encorpado;
 - Abra a panela, adicione o arroz e misture bem. Volte ao fogo e prove o sabor, acertando o sal se necessário. Acrescente um pouco de água, apenas o suficiente para cobrir levemente o arroz. Cozinhe até ele ficar macio, adicionando mais água aos poucos, se for preciso;
 - E está pronto! Na hora de servir, prepare os ovos fritos como de costume e acomode sobre o arroz com moela. Aproveite!
-- --
 
 ---
 

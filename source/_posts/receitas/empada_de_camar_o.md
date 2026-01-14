@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de farinha de trigo (360 gramas)
 - 1/2 colher de chá rasa de sal (5 gramas)
@@ -49,7 +49,6 @@ flags: []
 - Bata o ovo em uma tigela separada, depois adicione-o à massa. Incorpore tudo com as mãos;
 - Deixe um pouco de massa para fora e coloque, aproximadamente, uma colher de sopa do recheio;
 - Para finalizar, misture a gema de ovo com a água em uma tigela separada, depois pincele sobre as empadas, para dar um brilho;
-- --
 
 ---
 

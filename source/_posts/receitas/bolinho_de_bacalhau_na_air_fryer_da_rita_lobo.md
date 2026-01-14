@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Enquanto isso, descasque e pique fino a cebola e o alho. Lave, seque e pique fino a salsinha.
 - Com as mãos, desfie o bacalhau e junte às batatas — quanto mais desfiadinho melhor. Adicione o azeite, a cebola, o alho e a salsinha; tempere com o sal, pimenta a gosto e misture bem. Prove e, se necessário, ajuste o sal. Adicione o ovo e misture bem.
-- --
 
 ---
 

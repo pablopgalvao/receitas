@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma panela média com 1,5 litro de água ao fogo alto. Quando ferver, mergulhe o shimeji e cozinhe por 2 minutos até ficar levemente macio. Passe os cogumelos por uma peneira e aperte delicadamente com as costas de uma colher para tirar o excesso de água.
 - Transfira os cogumelos ainda quentes para a tigela com o molho, tempere com ¼ de colher (chá) de sal e pimenta a gosto. Misture bem e leve para a geladeira por, no mínimo, 30 minutos para os cogumelos absorverem o sabor do molho. Se preferir, prepare no dia anterior.
-- --
 
 ---
 

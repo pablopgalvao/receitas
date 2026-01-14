@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Desligue o fogo, acrescente a manteiga, o queijo gorgonzola e misture bem. Prove e ajuste o sal e a pimenta. Sirva a seguir com folhas de endro, queijo gorgonzola esfarelado a gosto e a farofinha de nozes.
 - ⅓ de xícara (chá) de nozes tostadas
 - 2 colheres (sopa) de uva-passa branca
-- --
 
 ---
 

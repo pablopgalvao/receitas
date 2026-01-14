@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ¾ de xícara (chá) de água gelada
 - 2 colheres (sopa) de açúcar
 - Corte os pêssegos em quartos – assim fica mais fácil para soltar o caroço. Descarte o caroço e descasque. Transfira os pedaços da fruta para o liquidificador, junte o caldo de limão, o açúcar e regue com a água gelada.
-- --
 
 ---
 

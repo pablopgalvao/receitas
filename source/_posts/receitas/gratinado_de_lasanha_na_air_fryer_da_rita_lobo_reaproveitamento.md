@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela pequena, quebre o ovo, junte o leite e misture bem com um garfo. Tempere com noz-moscada, 1 pitada de sal e pimenta a gosto.
 - Coloque a porção de lasanha num ramequim de 13 cm de diâmetro e 7 cm de altura (ou que comporte 750 ml), cubra com as folhas de espinafre, regue com a mistura de ovo e leite e polvilhe o parmesão.
-- --
 
 ---
 

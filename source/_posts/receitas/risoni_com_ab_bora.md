@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - Leve uma panela média com 1 colher (sopa) de manteiga ao fogo médio para derreter. Esprema o dente de alho — não é preciso descascar, a casca fica no espremedor e o alho vai pra panela. Refogue por 1 minuto para perfumar e junte a abóbora. Mexa por mais 1 minuto.
 - Adicione a água e o tomilho. Tempere com o sal, a pimenta de caiena e noz-moscada e aumente o fogo. Assim que ferver, abaixe o fogo e deixe cozinhar com a tampa entreaberta, por cerca de 15 minutos, ou até a abóbora ficar bem macia.
 - Por último, misture o parmesão e a manteiga. Sirva a seguir com coalhada seca, raspas de limão, sementes de abóbora e salsinha.
-- --
 
 ---
 

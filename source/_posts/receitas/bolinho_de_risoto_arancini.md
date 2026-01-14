@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Corte a muçarela em 8 cubinhos de aproximadamente 1,5 cm. Separe dois pratos fundos. Em um, quebre o ovo e bata com um garfo para misturar. No outro, coloque a farinha de rosca.
 - Leve uma panela pequena com o óleo para aquecer em fogo médio - para saber se a temperatura está certa para fritar, coloque um palito de fósforo no óleo; quando acender, está no ponto. Forre uma travessa com papel toalha.
 - Assim que o óleo aquecer, diminua o fogo. Com uma escumadeira, mergulhe 3 bolinhos de cada vez. Deixe fritar por cerca de 3 minutos, até dourar - mexa delicadamente para que dourem por igual e não grudem no fundo. Com a escumadeira, retire e transfira para a travessa forrada com papel toalha. Frite o restante e sirva a seguir, ainda quente.
-- --
 
 ---
 

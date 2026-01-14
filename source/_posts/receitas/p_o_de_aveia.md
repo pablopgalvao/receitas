@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 110 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de aveia em flocos
 - 1 xícara de chá de polvilho doce
@@ -39,7 +39,6 @@ flags: []
 - 1/3 de xícara de chá de mix de castanhas (opcional)
 - Coloque o ovo, o sal e metade da água morna. Incorpore;
 - Deixe crescer dentro do micro-ondas com uma xícara de água quente por 45 minutos
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 600 gramas de peito de frango
 - 600 gramas de mandioca
@@ -42,7 +42,6 @@ flags: []
 - Para o caldo, em uma panela de pressão grande, coloque o peito de frango, a mandioca, a mandioquinha, a cenoura, a cebola, o sal e a água. Leve ao fogo alto até pegar pressão. Quando pegar pressão, coloque em fogo baixo e cozinhe por 25 minutos;
 - Depois, acrescente o frango desfiado, o milho, o sal, a pimenta-do-reino e a páprica. Misture tudo muito bem e refogue por mais 2 minutos. Desligue o fogo;
 - Volte a panela com o caldo para o fogo médio e junte o refogado de frango. Mexa até o refogado se envolver bem no caldo. Se o caldo estiver muito grosso, adicione mais 1 xícara de chá de água quente. Cozinhe apenas até esquentar;
-- --
 
 ---
 

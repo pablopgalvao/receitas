@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 4 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 50 g de manteiga
 - Leve uma frigideira média com a manteiga ao fogo médio para derreter. Adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 4 minutos, até começar a dourar.
 - Junte os talos de couve, tempere com uma pitada de sal e refogue por 2 minutos, até ficarem levemente macios. Acrescente a farinha de milho aos poucos, mexendo com a espátula. Deixe cozinhar por cerca de 3 minutos, mexendo de vez em quando, para ficar crocante.
-- --
 
 ---
 

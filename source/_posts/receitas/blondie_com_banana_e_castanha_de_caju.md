@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Pique grosseiramente as castanhas. Caso esteja usando o chocolate branco em barra, corte o chocolate em cubos pequenos. Corte as bananas ao meio no sentido do comprimento e fatie em pedaços de 0,5 cm. Reserve 2 colheres (sopa) da castanha e 2 colheres (sopa) da banana para finalizar o blondie.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se um deles estiver estragado você não perde a receita. Junte o açúcar e o açúcar mascavo e misture bem com uma espátula para incorporar. Adicione a manteiga e mexa novamente.
 - Acrescente a farinha de trigo aos poucos, passando pela peneira. Misture bem com a espátula a cada adição para incorporar — a farinha deixa a massa mais densa e pesada, é assim mesmo. Misture o fermento e o sal. Por último, misture o chocolate branco, a castanha e a banana.
-- --
 
 ---
 

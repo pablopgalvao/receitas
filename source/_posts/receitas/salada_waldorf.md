@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/4 de xícara de chá de iogurte natural
 - 1/4 de xícara de chá de maionese
@@ -37,7 +37,6 @@ flags: []
 - Folhas de alface a gosto
 - Tempere com sal, pimenta e misture;
 - Adicione as uvas, o salsão, as maçãs, as nozes e mexa bem. Reserve;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Vá adicionando aos poucos ½ xícara (chá) da água do cozimento reservada, até formar um purê rústico — atenção, a quantidade de água pode variar de acordo com a umidade da batata. Prove e ajuste o sal e a pimenta.
 - Leve uma frigideira média ao fogo médio para aquecer. Regue com o azeite, adicione o alho-poró e tempere com uma pitada de sal. Refogue por cerca de 2 minutos, até ficar bem macio. Junte a cebolinha e mexa por 1 minuto.
 - Verta o azeite quente com alho-poró e cebolinha sobre o purê e misture bem (se necessário, ajuste a textura do purê com mais água). Por último, misture o óleo de gergelim. Sirva a seguir.
-- --
 
 ---
 

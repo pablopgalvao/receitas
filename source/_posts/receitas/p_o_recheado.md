@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 sachê (10 gramas) de fermento biológico instantâneo seco (ou 30 gramas do fermento biológico fresco)
 - 1 colher de sopa de açúcar
@@ -49,7 +49,6 @@ flags: []
 - Transfira a massa para uma bancada enfarinhada, continue incorporando a farinha, sovando até ela desgrudar das mãos, ficar lisa e macia (cerca de 10 minutos sovando);
 - Repita o processo com a outra parte da massa e depois disponha elas em uma forma untada e enfarinhada;
 - Pincele uma gema de ovo por cima, polvilhe orégano e leve ao forno preaquecido a 180 ºC por cerca de 40 minutos ou até eles dourarem bem e sua cozinha ficar com cheirinho de pão;
-- --
 
 ---
 

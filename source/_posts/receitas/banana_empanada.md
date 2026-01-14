@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 6 bananas nanicas maduras e bem firmes (780 gramas)
 - 1 xícara de chá de farinha de trigo (120 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Finalize passando-os na farinha de rosca, para que fiquem bem envolvidos e garantam bastante crocância. Repita o processo com todos os pedaços;
 - Numa panela grande, frite as bananas em óleo quente, até que fiquem douradinhas;
 - E estão prontas! Aproveite seus sabores combinando com arroz, feijão preto e salada de couve refogada.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - frança
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - ½ colher (sopa) de vinagre de vinho tinto
 - sal e pimenta-do-reino moída na hora a gosto
 - Regue com a água, tempere com sal e pimenta-do-reino e deixe cozinhar até secar. Transfira para uma travessa e regue com o vinagre. Mexa e deixe esfriar. Sirva em seguida.
-- --
 
 ---
 

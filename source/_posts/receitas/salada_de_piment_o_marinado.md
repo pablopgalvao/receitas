@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - 1 pitada de pimenta calabresa seca
 - sal a gosto
 - Transfira os pimentões para uma tigela, junte o manjericão e tempere com o azeite, o vinagre, a erva-doce, a pimenta e sal a gosto – o pimentão morno absorve melhor os sabores. Misture as azeitonas e deixe na geladeira até a hora de servir.
-- --
 
 ---
 

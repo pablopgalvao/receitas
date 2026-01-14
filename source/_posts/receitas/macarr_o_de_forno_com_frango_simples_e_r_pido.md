@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 350 gramas de molho de tomate
 - 150 ml de água
@@ -44,7 +44,6 @@ flags: []
 - Recheio o centro de cada ninho com uma colher de requeijão. Despeje todo o molho preparado sobre o macarrão, espalhando com cuidado para que tudo fique envolvido;
 - Enquanto o macarrão cozinha, aqueça uma panela com um fio de azeite e adicione as iscas de frango temperadas. Doure bem, por cerca de 5 a 7 minutos. Acrescente a cebola fatiada e refogue por mais 2 minutinhos. Acrescente requeijão a gosto e misture bem;
 - Volte ao forno sem papel-alumínio e asse por mais 10 minutos ou até o queijo derreter e gratinar. Retire do forno, salpique orégano por cima e está pronto!
-- --
 
 ---
 

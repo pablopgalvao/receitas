@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixinha de leite condensado (395 gramas)
 - 2 ovos inteiros
@@ -37,7 +37,6 @@ flags: []
 - 1/2 xícara de chá de água
 - Confira se você pegou todos os ingredientes necessários para o preparo. Comece separando a gema de 2 ovos (guarda a clara para fazer outras receitas). Quebre os ovos em um recipiente separado para verificar se não estão estragados;
 - Assim que o açúcar derreter, adicione a água e deixe cozinhar por alguns minutos, até a calda começar a engrossar e ganhar uma cor caramelo;
-- --
 
 ---
 

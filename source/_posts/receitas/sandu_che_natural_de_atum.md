@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 180 gramas de iogurte natural
 - 1 lata de atum sólido (130 gramas)
@@ -36,7 +36,6 @@ flags: []
 - 1 pitada de sal (ou a gosto)
 - 1 colher de sopa de azeite
 - Enquanto isso, para fazer o molho, coloque o iogurte, as raspas do limão, a manjerona ou o manjericão, o sal e a pimenta-do-reino em uma tigela. Misture tudo até que fique homogêneo;
-- --
 
 ---
 

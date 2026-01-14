@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 59 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de feijão-carioca (ou fradinho) cozido e sem caldo
 - 200 gramas de bacon
@@ -43,7 +43,6 @@ flags: []
 - Abaixe o fogo, acrescente a couve picadinha, o feijão e o sal (se quiser, adicione outros temperos de sua preferência). Misture bem e refogue mais 1 minuto;
 - Quando o feijão estiver morno, gradualmente, vá colocando a farinha de mandioca e misturando com cuidado para não amassar os grãos;
 - Finalize com as rodelas de ovos cozidos por cima. Se quiser, salpique cheiro-verde;
-- --
 
 ---
 

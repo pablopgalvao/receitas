@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 gramas de miúdos de porco (também conhecido como sarapatel)
 - 2 colheres de sopa de óleo
@@ -44,7 +44,6 @@ flags: []
 - Em uma panela de pressão, aqueça um pouco de óleo e refogue a cebola até começar a dourar. Acrescente o alho e refogue por mais 1 minuto. Adicione o colorau e misture para dar cor ao prato;
 - Abra a panela e acrescente o coentro e a pimenta-dedo-de-moça picada. Volte ao fogo médio por mais 5 minutos, mexendo ocasionalmente. Prove o sabor e ajuste o sal, se necessário;
 - Desligue o fogo e sirva bem quentinho, acompanhado de farinha. Aproveite!
-- --
 
 ---
 

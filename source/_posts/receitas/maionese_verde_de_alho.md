@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 60 gramas de cheiro-verde
 - 250 ml de óleo
@@ -37,7 +37,6 @@ flags: []
 - No liquidificador, coloque o alho, a pimenta, o suco de limão, os ovos, o sal e a pimenta-do-reino. Bata por cerca de 3 minutos, até a mistura clarear;
 - Com o liquidificador ligado, vá adicionando o óleo em fio, lentamente, até a maionese engrossar e atingir a textura cremosa desejada. Experimente e ajuste o sal, se necessário;
 - Acrescente o coentro, salsinha ou cebolinha e bata novamente até dar cor e sabor à maionese;
-- --
 
 ---
 

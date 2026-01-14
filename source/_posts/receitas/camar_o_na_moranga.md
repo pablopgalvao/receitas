@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 colheres de sopa de azeite (ou a gosto)
 - 1 kg de camarão médio fresco
@@ -41,7 +41,6 @@ flags: []
 - Acrescente os camarões, tempere com sal e pimenta-do-reino e refogue até os camarões ficarem macios e com uma cor mais rosada (cerca de 2 minutos), mexendo às vezes para não queimar ;
 - Prove os sabores e, se necessário, acerte sal e temperos. Finalize com cheiro-verde, mexa bem e desligue o fogo;
 - Está pronto! Agora é só servir e aproveitar essa delícia. Você pode servir com arroz branco, farofa de banana-da-terra e uma salada fresca. Para aproveitar a abóbora também, raspe as laterais do interior dela e coloque no seu prato!
-- --
 
 ---
 

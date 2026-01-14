@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - ½ xícara (chá) de água filtrada
 - mel a gosto
 - No liquidificador junte as rodelas de banana, a fatia de manga (sem a casca), a água e bata bem até ficar cremoso. Com uma colher, regue mel na parede interna do copo (como se fosse a calda de um milkshake), preencha com o smoothie e sirva a seguir.
-- --
 
 ---
 

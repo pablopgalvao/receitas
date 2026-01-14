@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de polvilho azedo
 - 1 colher rasa de sobremesa de sal
@@ -37,7 +37,6 @@ flags: []
 - Coloque o polvilho e o sal em uma vasilha e misture;
 - Acrescente metade do óleo e metade do leite. Mexa até formar uma farofinha úmida;
 - Adicione o restante da água, do óleo e do leite. Misture até que forme uma massa homogênea;
-- --
 
 ---
 

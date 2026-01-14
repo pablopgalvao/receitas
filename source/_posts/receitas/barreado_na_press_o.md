@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Na tigela com a cebola, misture o alho picado, a salsinha e as folhas de louro. Tempere com 2 colheres (chá) de sal e misture bem.
 - Na hora de servir, transfira o barreado para uma panela grande, tampe e leve ao fogo baixo para aquecer por cerca de 15 minutos, mexendo de vez em quando. Sirva a seguir com banana-da-terra grelhada, farinha de mandioca torrada e folhas de salsinha.
 - azeite a gosto
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 105 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída
 - 150 gramas de bacon
@@ -55,7 +55,6 @@ flags: []
 - Para o molho branco, em outra panela, adicione a manteiga e aguarde derreter. Coloque a farinha de trigo e mexa com um fouet (batedor de arame) para que a mistura cozinhe;
 - Em seguida, tempere com sal, pimenta-do-reino e noz-moscada moída. Mexa bem e deixe cozinhar por alguns minutos em fogo baixo. Reserve;
 - Cubra tudo com o molho branco e finalize com uma camada bem generosa de queijo mussarela ralado. Salpique também um pouco de orégano;
-- --
 
 ---
 

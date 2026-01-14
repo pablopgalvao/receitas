@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +47,6 @@ flags: []
 - Assim que a panela começar a apitar, diminua o fogo para médio e conte 3 minutos — esse é o tempo exato para o risoto não passar do ponto. Enquanto isso, leve uma chaleira com 1 xícara (chá) de água ao fogo alto para ferver.
 - Abra a panela e, com uma pinça, pesque a folha de salsão e a cebola cravejada. Adicione o queijo brie, volte a panela ao fogo médio e mexa por cerca de 1 minuto, até o risoto ficar cremoso e al dente — se necessário, vá regando com a água fervente para manter o risoto bem úmido.
 - Desligue o fogo, acrescente a manteiga e misture bem. Por último, misture o damasco picado e as raspas de limão. Sirva a seguir com cubos de queijo brie, fatias de damasco, picles de salsão e folhas de salsinha a gosto.
-- --
 
 ---
 

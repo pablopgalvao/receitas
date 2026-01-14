@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 postas de bacalhau (500 gramas)
 - 1 lata de grão-de-bico (400 gramas)
@@ -42,7 +42,6 @@ flags: []
 - Agregue a salsinha picada e o azeite e misture bem, envolvendo todos os ingredientes;
 - Se desejar, adicione a cebola, o tomate, as azeitonas e tempere com sal;
 - Está pronto. Corte os ovos cozidos ao meio, depois em 3 partes cada e decore à vontade!
-- --
 
 ---
 

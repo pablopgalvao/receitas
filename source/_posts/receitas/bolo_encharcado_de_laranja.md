@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - 2 xícaras (chá) de caldo de laranja peneirado
 - 1 xícara (chá) de açúcar
 - Numa panela pequena, misture o açúcar com o caldo de laranja. Leve ao fogo baixo e deixe cozinhar até ferver e todo o açúcar dissolver. Transfira a calda para uma tigela e deixe em temperatura ambiente para esfriar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de açúcar (23 gramas)
 - 2 colheres de sopa de achocolatado em pó (25 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Separe os ingredientes para preparar a receita. Aproveite para quebrar os ovos e verificar se estão bons, e, também, preaquecer a air fryer por 10 minutos a 200ºC;
 - Separe uma caneca que possa ser levada a air fryer e nela coloque os ovos. Bata bem e, em seguida, adicione o açúcar. Misture novamente;
 - Agora, coloque a farinha e misture até ficar homogêneo, e, por cima, o leite e o óleo. Mexa novamente;
-- --
 
 ---
 

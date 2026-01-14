@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de óleo
 - 1/2 pacote de macarrão parafuso ou penne (250 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Em uma panela grande, ferva a água com sal. Coloque o macarrão para cozinhar pelo tempo que manda a embalagem, cerca de 8 a 10 minutos;
 - Em outra panela, aqueça em fogo médio o óleo e refogue a pastinha de alho e cebola;
 - Ajuste o sal caso haja necessidade e finalize com salsinha fresca picada;
-- --
 
 ---
 

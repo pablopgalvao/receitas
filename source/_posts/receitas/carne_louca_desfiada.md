@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de acém bovino
 - 1 talo de salsão
@@ -39,7 +39,6 @@ flags: []
 - Acrescente os pimentões e refogue mais um pouco. Quando começarem a soltar líquido, adicione a cenoura e o salsão e deixe apurar por cerca de 5 minutos, mexendo de vez em quando;
 - Volte a carne para a panela junto do sal, tomate, louro e alecrim. Se a carne tiver soltado um pouco de suco durante o descanso, adicione o líquido na panela também;
 - Junte a carne desfiada com o molho reduzido e misture para incorporar tudo. Prove e ajuste o sal, se necessário. Finalize com cheiro-verde;
-- --
 
 ---
 

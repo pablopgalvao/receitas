@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de farinha de trigo (360 gramas)
 - 1 e 1/2 xícara de chá de açúcar (270 gramas)
@@ -39,7 +39,6 @@ flags: []
 - No liquidificador, adicione ovos, suco de laranja, leite, óleo e açúcar. Bata bem por cerca de 2 minutos até homogeneizar;
 - Adicione a farinha de trigo e bata novamente até obter uma massa lisa e levemente fluida. Dependendo da capacidade do liquidificador, misture com a colher;
 - Dê uma leve misturada com a colher e despeje a massa em uma forma redonda com furo central (20x10), untada e enfarinhada;
-- --
 
 ---
 

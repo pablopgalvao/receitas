@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - portugal
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - Leve a mesma panela (não precisa lavar) ao fogo médio para derreter 1 colher (sopa) de manteiga. Acrescente a cebola, tempere com uma pitada de sal e refogue por 3 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar. Acrescente o bacalhau, tempere com pimenta-do-reino e misture bem. Deixe cozinhar por 2 minutos.
 - Desligue o fogo e misture a cebolinha picada e as raspas de limão. Regue com 1 ½ xícara (chá) do molho bechamel e misture bem. Prove e acerte o sal. Transfira para uma tigela e reserve para a montagem.
 - 1½ xícara (chá) de queijo parmesão ralado
-- --
 
 ---
 

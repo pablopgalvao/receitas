@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 22 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 garrafa de leite de coco (200 ml)
 - 1 lata de leite condensado (390 gramas)
 - 1 colher de sopa de farinha de trigo (15 gramas)
 - Em uma panela ainda fora do fogo, posicione uma peneira e passe as gemas. Corte-as levemente com uma faca, depois deixe escorrer naturalmente, sem pressionar com a colher. Descarte a película final;
 - Em seguida, acrescente o leite condensado e a farinha de trigo, mexendo bem até dissolver completamente a farinha e obter uma mistura lisa;
-- --
 
 ---
 

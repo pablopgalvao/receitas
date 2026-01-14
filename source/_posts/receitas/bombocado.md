@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Preaqueça o forno a 160 ºC (temperatura baixa). Unte com manteiga 9 forminhas para empada de 7 cm de diâmetro de abertura, 4 cm de diâmetro de base e 3 cm de altura. Polvilhe fubá, chacoalhe para espalhar e bata na pia para tirar o excesso.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela maior — se um estiver estragado, você não perde a receita. Adicione o leite condensado e misture bem com o batedor de arame. Junte o restante dos ingredientes e misture com uma espátula para incorporar.
 - Coloque cerca de ¼ de xícara (chá) da massa do bombocado em cada forminha, preenchendo até ¾ do volume. Dê uma leve batidinha no fundo de cada forminha para nivelar a massa — assim o bombocado fica mais bonito depois de assado.
-- --
 
 ---
 

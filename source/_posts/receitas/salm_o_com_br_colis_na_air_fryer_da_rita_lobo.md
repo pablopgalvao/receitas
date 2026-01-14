@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Corte os ramos de brócolis mantendo o florete e cerca de 10 cm do talo. Lave sob água corrente e seque bem – quanto mais sequinhos estiverem, mais dourados ficam. Transfira para uma tigela, regue com ½ colher (chá) de azeite, tempere com sal e pimenta e misture bem com as mãos para untar toda a superfície.
 - Quando estiver preaquecida, abra a gaveta, pincele azeite no cesto e posicione o peixe no centro. Pincele a superfície e lados do salmão com a marinada e volte a gaveta para a Air Fryer.
-- --
 
 ---
 

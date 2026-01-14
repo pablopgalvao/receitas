@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de flocos de milho (60 gramas)
 - 1/3 xícara de chá de água (80 ml)
@@ -43,7 +43,6 @@ flags: []
 - Enquanto isso, em uma frigideira grande, adicione azeite, os ovos, a cebola em rodelas e sal;
 - Integre o cuscuz já cozido, a manteiga e, por fim, os ovos fritos;
 - Desligue o fogo e finalize com salsinha e cebolinha a gosto;
-- --
 
 ---
 

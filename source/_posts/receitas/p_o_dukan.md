@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 ovos grandes
 - 1 pote de iogurte natural desnatado (170 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Em um recipiente pequeno, quebre os ovos, um de cada vez, e, caso esteja bom, transfira para o liquidificador - se algum ovo estiver estragado, você não perde a receita inteira. Adicione o iogurte natural desnatado e bata por cerca de 1 minuto;
 - Acrescente o leite em pó desnatado, o farelo de aveia, o farelo de trigo e tempere com chimichurri e sal. Bata até obter uma mistura homogênea. Por fim, coloque o fermento e, com uma colher, misture para incorporar (você também pode misturar pela função pulsar do liquidificador);
 - Despeje a massa na forma untada e salpique por cima mais um pouco do chimichurri, tanto para decorar quanto para dar mais sabor. Leve para assar no forno preaquecido por cerca de 30 minutos, ou até dourar;
-- --
 
 ---
 

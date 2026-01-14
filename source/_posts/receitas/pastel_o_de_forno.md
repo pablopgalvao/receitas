@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de farinha de trigo
 - 3 colheres de sopa de açúcar
@@ -47,7 +47,6 @@ flags: []
 - Com o auxílio de um rolo, abra uma das partes da massa e, com ela, forre uma forma com fundo removível untada com óleo, cobrindo o fundo e as laterais;
 - Para o recheio, em um recipiente, misture a mortadela, a mussarela, o tomate, a cebola, a salsinha e o sal. Misture bem para incorporar;
 - Pincele a gema de ovo por cima do pastelão e deixe-o descansar por mais 30 minutos;
-- --
 
 ---
 

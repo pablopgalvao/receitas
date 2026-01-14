@@ -6,6 +6,7 @@ categories:
 tags:
   - bahia
   - nordeste
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -19,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de feijão-fradinho
 - Sal a gosto
@@ -39,8 +38,6 @@ flags: []
 - Gengibre ralado a gosto
 - Sal a gosto
 - 3 xícaras de chá de azeite de dendê
-
-- --
 
 ---
 

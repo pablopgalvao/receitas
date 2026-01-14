@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - ½ xícara (chá) de coco fresco ralado
 - Coloque o creme de leite na batedeira e bata em velocidade baixa até até começar a firmar. Aumente a velocidade para média e acrescente o açúcar aos poucos. Deixe bater até o creme ficar no ponto de pico firme – cuidado se bater demais o creme pode virar manteiga. Reserve.
 - Para finalizar, com uma colher, cubra o bolo com o creme de leite batido. Leve à geladeira por no mínimo 2 horas e, na hora de servir, polvilhe com o coco fresco ralado.
-- --
 
 ---
 

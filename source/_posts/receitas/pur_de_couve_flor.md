@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Numa panela média, coloque a couve-flor lavada, a água, o leite e a folha de louro. Tempere com o sal e leve ao fogo médio. Quando ferver, deixe cozinhar por cerca de 15 minutos, até a couve-flor ficar macia.
 - Desligue o fogo e reserve 1 xícara (chá) do líquido do cozimento. Descarte a folha de louro, e transfira a couve-flor sem o líquido para o liquidificador.
 - Bata até deixar o purê bem liso e cremoso - se necessário, acrescente, aos poucos, o líquido do cozimento reservado. Se preferir, use um mixer. Prove, acerte o sal e sirva a seguir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,21 +20,18 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
 
-
 - Azeite a gosto
 - Sal e pimenta-do-reino a gosto
 - Em uma tigela, coloque os tomates em cubos, as folhas de manjericão, um generoso fio de azeite, o sal e a pimenta. Misture delicadamente;
-- --
 
 ---
 

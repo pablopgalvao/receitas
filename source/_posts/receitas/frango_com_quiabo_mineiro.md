@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 100 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de banha de porco (ou azeite/óleo vegetal)
@@ -43,7 +43,6 @@ flags: []
 - Tempere o frango com alho amassado, sal, pimenta-do-reino, páprica defumada e o suco de limão. Misture bem com as mãos e deixe marinar por pelo menos 1 hora;
 - Aqueça uma panela de fundo grosso (idealmente de alumínio batido ou ferro fundido) e adicione a banha. Coloque o açúcar e mexa até ele caramelizar levemente;
 - Na mesma frigideira, adicione os quiabos em rodelas, tempere com sal e pimenta-do-reino, refogue e esprema o suco de 1/2 limão sobre eles. Mexa até que toda a baba seja liberada e evaporada;
-- --
 
 ---
 

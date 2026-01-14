@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - tradicional
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ colher (chá) de sal grosso
 - Coloque 2 colheres (sopa) de azeite numa tigela grande, com espaço sobrando pra a massa crescer e dobrar de volume. Transfira a massa pra tigela com o azeite. Com a espátula, vire a massa de baixo para cima, pra besuntar com o azeite — não é preciso que o azeite seja incorporado à massa, apenas que cubra a superfície.
 - Bata o sal grosso no pilão, apenas para quebrar em pedaços menores (não é para ele virar pó). Passado o tempo de descanso, debulhe o alecrim sobre a massa; umedeça a ponta dos dedos com água e pressione toda a superfície da massa, com cuidado pra não rasgar. Polvilhe com o sal grosso e regue com 2 colheres (sopa) de azeite.
-- --
 
 ---
 

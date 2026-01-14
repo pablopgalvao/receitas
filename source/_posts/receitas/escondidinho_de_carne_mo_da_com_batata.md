@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne moída (usamos patinho)
 - 1 colher de chá de tempero caipira
@@ -43,7 +43,6 @@ flags: []
 - Enquanto isso, em uma panela com a manteiga, frite a cebola picada até dourar;
 - Coloque a carne moída em 2 levas para dourar e tomar gosto. Acrescente o restante do sal, o tempero caipira, a cebolinha, o molho de tomate e 200 ml de água. Deixe cozinhando por 10 minutos;
 - E está pronto! Sirva esse escondidinho cremoso com aquele arroz soltinho ou salada. Bom apetite!
-- --
 
 ---
 

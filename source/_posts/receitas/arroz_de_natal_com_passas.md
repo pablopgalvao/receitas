@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,23 +20,20 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 23 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de arroz branco cozido (600 gramas)
 - 1/3 de xícara de chá de uvas-passas brancas (65 gramas)
 - 1 colher de chá de manteiga (10 gramas)
 - Em uma frigideira, derreta a manteiga em fogo baixo. Adicione as passas com o caldo de limão e mexa por 2 minutos, apenas para reduzir o excesso de líquido;
 - Sirva em seguida com carnes ou saladas!
-- --
 
 ---
 

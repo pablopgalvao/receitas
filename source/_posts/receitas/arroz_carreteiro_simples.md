@@ -32,7 +32,6 @@ flags: []
 - **Rendimento:** 6 porções
 - **Tempo de preparo:** 1 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -46,7 +45,6 @@ flags: []
 - 200 g de calabresa
 - 1 cebola grande
 - Salsa
-
 
 ---
 

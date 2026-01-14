@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de sambiquira de frango
 - 1/2 colher de sopa de sal (ou a gosto)
@@ -41,7 +41,6 @@ flags: []
 - Em um recipiente grande, adicione a sambiquira limpa, o sal, a páprica, o colorau, o orégano, a pimenta-do-reino e o vinagre;
 - Em um prato, coloque a farinha de trigo e passe cada sambiquira nela, cobrindo bem todos os lados, e retire o excesso com leves batidinhas. Repita o processo com todas as unidades antes de iniciar a fritura;
 - Aqueça o óleo em fogo médio e frite as sambiquiras por 4 minutos, até que estejam bem douradas e crocantes;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 5 colheres de sopa de água
 - 500 ml de suco concentrado de manga
@@ -36,7 +36,6 @@ flags: []
 - 1 xícara de chá de mangas bem maduras e picadas
 - 6 colheres de sopa de água
 - 2 colheres de sopa de açúcar
-- --
 
 ---
 

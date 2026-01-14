@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -48,7 +49,6 @@ flags: []
 - minirrúcula a gosto
 - No copo do mixer coloque as gemas, a mostarda, o caldo de limão e o óleo. Pressione o mixer (desligado) contra o fundo do copo e só então ligue. Bata por 10 segundos sem mexer.
 - Quando a maionese começar a se formar, levante o mixer delicadamente para uma das laterais, sem parar de bater, e repita para o outro lado. Repita o movimento até a maionese ficar firme – não mexa muito rápido nem faça movimentos de cima para baixo. Transfira para uma tigela, misture o endro picado, as raspas de limão, prove e ajuste o sal.
-- --
 
 ---
 

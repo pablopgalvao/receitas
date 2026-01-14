@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de feijão cru (400 gramas)
 - Água para cobrir e cozinhar (750 ml)
@@ -42,7 +42,6 @@ flags: []
 - Lave o feijão em água corrente, escorra e transfira para uma panela de pressão com 750 ml de água para cobrir, o louro e o óleo;
 - Em uma panela média, aqueça o óleo e frite o bacon até dourar. Acrescente o alho e refogue até liberar aroma;
 - Tempere com sal, chimichurri e tempero baiano. Adicione o tomate e misture;
-- --
 
 ---
 

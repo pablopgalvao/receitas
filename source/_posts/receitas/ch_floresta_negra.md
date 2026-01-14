@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 ml de água
 - 1 colher de sopa de geleia ou polpa de cereja (sem açúcar, se possível)
@@ -35,7 +35,6 @@ flags: []
 - 1 colher de chá de de mel ou xarope de bordo (opcional)
 - 40 ml colheres de sopa de leite vegetal ou comum
 - Ferva 200 ml de água. Em uma caneca, adicione o sachê de chá, a geleia de cereja e o cacau em pó. Despeje a água quente e mexa até o cacau se dissolver. Deixe o sachê em infusão por 5 minutos;
-- --
 
 ---
 

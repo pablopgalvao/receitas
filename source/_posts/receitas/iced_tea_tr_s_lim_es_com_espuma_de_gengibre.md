@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - oriental
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 ml de água gelada
 - 1 pitada de cardamomo em pó (ou 1 semente esmagada, opcional)
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de chá de açúcar
 - 2 colheres de chá de gengibre ralado
 - 1 colher de sopa de raspas de limão
-- --
 
 ---
 

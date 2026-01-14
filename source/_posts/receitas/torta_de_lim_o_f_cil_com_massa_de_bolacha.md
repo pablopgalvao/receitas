@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 270 gramas de biscoito maisena, maria ou ao leite
 - 3/4 xícara de chá de manteiga sem sal (150 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Enquanto isso, adicione o açúcar e as claras em uma panela. Leve ao fogo baixo, em banho-maria, e mexa sem parar até o barulho do açúcar raspando na panela parar;
 - Assim que essa mistura estiver sem grumos do açúcar, despeje na batedeira e bata por 10 minutos ou até ela ficar consistente em picos;
 - Desenforme a torta e coloque o merengue por cima. Espalhe com uma colher e sirva. Bom apetite!
-- --
 
 ---
 

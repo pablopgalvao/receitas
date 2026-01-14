@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 ovos inteiros
 - 1 xícara de chá de açúcar (180 gramas)
@@ -52,7 +52,6 @@ flags: []
 - Adicione o trigo, o chocolate em pó, o óleo e o leite. Bata até obter uma massa lisa e homogênea (30 segundos). Coloque o fermento e mexa cuidadosamente, apenas para incorporar;
 - Disponha a parte debaixo do bolo em um prato ou boleira. Com uma colher, espalhe o creme branco por cima e organize os morangos picados no creme;
 - Salpique granulado por cima e decore com os morangos. Agora é só servir esse delicioso bolo de aniversário com todo mundo cantando parabéns!
-- --
 
 ---
 

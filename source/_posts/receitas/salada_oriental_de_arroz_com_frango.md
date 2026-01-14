@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - oriental
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - gergelim branco e preto torrado a gosto
 - Assim que estiver cozido, passe o arroz pela peneira e deixe escorrer bem a água. Enquanto isso, lave descarte as folhas e corte os talos de salsão em tiras finas de 5 cm de comprimento. Lave, corte a pimenta dedo-de-moça ao meio e descarte as sementes. Fatie cada metade tirinhas.
 - Numa tigela misture o arroz com o shoyu, o azeite e o caldo de limão. Divida o arroz temperado em 4 pratos, cubra com o frango desfiado, as tiras de salsão e de pimenta. Salpique com a cebolinha, o gergelim e sirva a seguir.
-- --
 
 ---
 

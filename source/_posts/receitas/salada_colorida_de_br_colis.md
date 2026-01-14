@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de brócolis
 - ¼ de xícara de chá de parmesão (ou outro queijo) cortado em cubos
@@ -38,7 +38,6 @@ flags: []
 - Coloque o brócolis, a cenoura, a maçã, a cebola, o tomate, o parmesão, o pistache e a salsinha em uma tigela e reserve;
 - Coloque o suco do limão, o azeite, o sal, a pimenta e o iogurte em uma vasilha pequena e misture até tudo se incorporar;
 - Adicione o molho à salada e misture;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 cenoura (110 gramas)
 - 1 cebola média (90 gramas)
@@ -49,7 +49,6 @@ flags: []
 - Leve uma panela grande ao fogo alto com óleo. Pingue um pedacinho da massa para verificar se está quente o suficiente para fritar. Se borbulhar, já está bom;
 - Com uma concha ou colher grande, pegue uma porção da massa com legumes e adicione com cuidado na panela com óleo. Frite de uma a três porções por vez. Assim que dourar de um lado, vire para dourar o outro;
 - Agora, prepare o molho. Em uma panela no fogo baixo, acrescente o shoyu, a água e o açúcar. Mexa até o açúcar dissolver. Por fim, coloque o sakê e a cebolinha. Misture para incorporar;
-- --
 
 ---
 

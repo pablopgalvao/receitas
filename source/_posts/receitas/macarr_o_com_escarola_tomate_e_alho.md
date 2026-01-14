@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Assim que a água ferver, misture 1 colher (sopa) de sal, acrescente o macarrão e cozinhe pelo tempo indicado na embalagem ou até ficar al dente – mexa de vez em quando para cozinhar por igual e um macarrão não grudar no outro. Enquanto isso, refogue a escarola com o tomate.
 - Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) do azeite, adicione os tomates e misture rapidamente – os tomates devem aquecer mas sem desmanchar. Acrescente a escarola fatiada, tempere com sal e refogue por cerca de 3 minutos, até murchar levemente. Desligue o fogo e reserve.
 - Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento. Escorra a água, adicione o macarrão à frigideira com a escarola refogada e misture bem – caso necessário, acrescente na frigideira um pouco da água do cozimento reservada para formar um caldinho.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 2 colheres (chá) de curry
 - sal moído a gosto
 - Numa tigela, coloque as castanhas e as sementes de abóbora. Tempere com o curry e o sal. Junte a água e misture bem com uma colher para envolver os ingredientes – a água gruda o tempero nas castanhas ao assar.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - tradicional
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -41,7 +42,6 @@ flags: []
 - Retire as folhas da água em vez de escorrer — assim as sujeirinhas ficam no fundo da tigela. Enxágue e seque bem numa centrífuga para salada.
 - Descasque e passe o dente de alho pela parte fina do ralador. Transfira para um pote de vidro (que tenha tampa), junte o caldo do limão, o azeite e o mel. Tempere com sal a gosto, tampe e chacoalhe bem para misturar.
 - Numa travessa, misture as folhas de alface e de rúcula; distribua os pedaços de melão e regue com o molho. Salpique as nozes e sirva a seguir.
-- --
 
 ---
 

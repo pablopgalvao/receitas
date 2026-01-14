@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de leite integral
 - 1 xícara de chá de óleo
@@ -43,7 +43,6 @@ flags: []
 - Tempere com sal, pimenta e misture bem. Pode usar outras especiarias de sua preferência, como alecrim, sálvia ou tomilho. Reserve o recheio. Deixe o forno preaquecendo a 180 ºC;
 - Com o liquidificador desligado, adicione o fermento e use uma colher ou espátula para incorporar os ingredientes.
 - Unte uma forma grande (36 X 26 cm) com óleo e farinha. Despeje metade da massa na forma e espalhe bem;
-- --
 
 ---
 

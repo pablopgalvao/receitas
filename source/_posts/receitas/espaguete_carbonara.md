@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ xícara (chá) de queijo parmesão ralado fino
 - Apoie uma colher de pau (ou de bambu) sobre uma tigela média — o cabo da colher vai servir de molde para as telhas.
 - Com a espátula de silicone, retire um disco de parmesão de cada vez da frigideira e apoie ainda quente sobre o cabo da colher de pau — assim os discos ficam curvados, no formato de uma telha. Deixe a telha esfriar e endurecer antes de servir ou armazenar.
-- --
 
 ---
 

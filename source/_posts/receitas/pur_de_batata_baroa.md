@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 45 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de batata-baroa (400 gramas)
 - 2 colheres de sopa de manteiga sem sal (30 gramas)
@@ -37,7 +37,6 @@ flags: []
 - Em seguida, coloque as rodelas da batata em uma panela com água fervente e sal. Cozinhe por cerca de 30 minutos ou até que esteja bem macia;
 - Volte o purê para a panela, junte a manteiga e mexa em fogo baixo até incorporar;
 - Por fim, tempere com sal, pimenta-do-reino e adicione o suco de laranja. Misture bem até atingir uma textura cremosa e sabor equilibrado;
-- --
 
 ---
 

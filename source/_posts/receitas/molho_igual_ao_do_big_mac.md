@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 ml de óleo de canola
 - 1 colher de sopa de mostarda
@@ -38,7 +38,6 @@ flags: []
 - 60 gramas de picles
 - 60 ml de brine (a água do picles)
 - Pique as 60 gramas de picles em pedacinhos bem pequenos;
-- --
 
 ---
 

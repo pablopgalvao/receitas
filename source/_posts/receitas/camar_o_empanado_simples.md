@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 27 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de camarão limpo e sem casca
 - Sal a gosto
@@ -39,7 +39,6 @@ flags: []
 - Passe os camarões no ovo batido, garantindo que fiquem bem envolvidos;
 - Empane os camarões na farinha de rosca, retirando o excesso do ovo;
 - Aqueça o óleo em fogo alto, depois diminua para o médio e frite os camarões por cerca de 3 minutos, até ficarem dourados;
-- --
 
 ---
 

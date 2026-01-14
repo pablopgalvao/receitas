@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 145 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 10 gramas de fermento biológico seco
 - 80 ml de água morna
@@ -46,7 +46,6 @@ flags: []
 - Adicione na vasilha (com a esponja), o açúcar, a manteiga, as gemas, o sal, a essência de panetone e misture bem;
 - Gradualmente vá colocando a farinha, intercalando com a água e misturando até ganhar consistência;
 - Assim que a massa ficar mais consistente, transfira para uma bancada, continue colocando a farinha e vá sovando até ela ficar lisinha e não grudar nas mãos;
-- --
 
 ---
 

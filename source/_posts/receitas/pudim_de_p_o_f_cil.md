@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 57 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/3 xícara de chá de água
 - 2/3 xícara de chá de açúcar
@@ -37,7 +37,6 @@ flags: []
 - Peneire cuidadosamente os ovos para a massa não ficar com um cheiro forte. Esse pudim não é exageradamente doce, entretanto, se preferir, pode retirar o açúcar, pois o leite condensado traz um sabor adocicado médio;
 - Em uma forma redonda com furo central, adicione a água e o açúcar. Em fogo médio, leve a misture para caramelizar;
 - No liquidificador, coloque os pedaços de pão, o leite, os ovos, o creme de leite e o leite condensado. Bata até virar um creme homogêneo;
-- --
 
 ---
 

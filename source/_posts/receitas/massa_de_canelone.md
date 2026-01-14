@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de farinha de trigo (200 gramas)
 - Sal a gosto
@@ -48,7 +48,6 @@ flags: []
 - Assim que estiver douradinho, acrescente a passata de tomate e uma concha da água do cozimento. Deixe ferver por 3 minutos e adicione sal e pimenta-do-reino a gosto;
 - Enquanto isso, em outro recipiente, esfarele a peça de ricota com ajuda de um garfo. Adicione o azeite, cebolinha, queijo parmesão ralado, requeijão cremoso, pimenta-do-reino, noz-moscada, sal e misture bem;
 - Em um refratário que possa ir ao forno, espalhe uma camada inicial de molho de tomate. Organize seus canelones na travessa sem sobreposição, finalize com uma camada de molho por cima e salpique o parmesão ralado;
-- --
 
 ---
 

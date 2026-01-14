@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de sobrecoxa de frango sem osso, com pele
 - 1 colher de chá de sal
@@ -40,7 +40,6 @@ flags: []
 - Sal a gosto
 - Em uma tigela, adicione as sobrecoxas de frango e tempere com sal, páprica, pimenta-calabresa, pimenta-do-reino, vinagre balsâmico, azeite, alecrim, sálvia, tomilho e o suco do limão;
 - Coloque os vegetais na travessa e tempere com sal e pimenta-do-reino;
-- --
 
 ---
 

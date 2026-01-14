@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de tapioca granulada
 - 1 colher (sopa) de açúcar
 - Coloque o leite com o açúcar numa panela e leve ao fogo médio. Assim que começarem a subir as primeiras bolhas, diminua o fogo e junte a tapioca. Mexa por cerca de 2 minutos, até engrossar e a tapioca ficar transparente.
-- --
 
 ---
 

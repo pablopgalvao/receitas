@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 220 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de água morna (360 ml)
 - 10 colheres de sopa de açúcar (120 gramas)
@@ -45,7 +45,6 @@ flags: []
 - Disponha em uma tigela, polvilhada com farinha, cobrindo com plástico filme e um pano de prato. Deixe descansar por 30 minutos para que ela dê uma leve expandida;
 - Após o descanso, polvilhe farinha na bancada e divida a massa em duas partes de aproximadamente 1 kg;
 - Acomode os pães em duas assadeiras previamente untadas e enfarinhadas (24 x 11 x 08), e deixe crescer novamente, até a massa atingir quase a borda da forma, por aproximadamente 40 minutos;
-- --
 
 ---
 

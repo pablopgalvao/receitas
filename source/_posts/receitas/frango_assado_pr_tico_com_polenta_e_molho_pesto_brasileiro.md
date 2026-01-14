@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - pimenta-do-reino em grãos moída na hora a gosto
 - Numa panela grande, coloque a água e o sal e leve ao fogo médio. Quando ferver, diminua o fogo. Adicione o fubá aos poucos, em fio constante, mexendo com um batedor de arame.
 - Quando a polenta encorpar, coloque a manteiga e continue mexendo sem parar, até que o creme fique uniforme. Leva cerca de 10 minutos. Tempere com a pimenta-do-reino moída na hora, misture bem e sirva a seguir.
-- --
 
 ---
 

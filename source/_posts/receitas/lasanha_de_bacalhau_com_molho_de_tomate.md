@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - portugal
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -49,7 +50,6 @@ flags: []
 - Polvilhe mais um pouco de farinha sobre a massa e, utilizando o refratário como referência, corte um retângulo de massa 2 centímetros menor que ele - a massa cresce depois de cozinhar. Repita com as outras duas porções. O que sobra de massa pode virar macarrão.
 - Assim que a água ferver, misture 2 colheres (sopa) de sal e mergulhe um retângulo de massa - cozinhe um de cada vez para não grudar. Deixe cozinhar por cerca de 6 minutos - a massa ainda deve estar crua no centro; ela termina de cozinhar no forno com o molho. Com uma escumadeira, retire a massa e deixe escorrer bem a água. Transfira para a assadeira untada com azeite e regue com mais azeite para não grudar. Repita com as outras.
 - Para montar a lasanha, preencha o fundo do refratário com cerca de 1 xícara (chá) do molho de tomate reservado. Disponha uma folha de massa, e faça uma camada do molho com bacalhau. Continue alternando camadas de massa, com molho de tomate e bacalhau. Cubra a última camada de massa com o restante do molho de tomate reservado e polvilhe com queijo parmesão ralado.
-- --
 
 ---
 

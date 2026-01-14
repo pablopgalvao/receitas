@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de cebola picada
 - 150 gramas de carne moída
@@ -41,7 +41,6 @@ flags: []
 - Coloque os ingredientes sobre a bancada para começar. Quebre o ovo em uma tigela para se certificar de que está bom e reserve;
 - Acrescente a carne e misture para selar. Tempere com sal e páprica, mexendo novamente até ficar bem douradinha, cerca de 3 minutos;
 - Acrescente o ovo e misture com os outros ingredientes até cozinhar;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - ½ colher (chá) de canela em pó
 - 100 g de manteiga gelada em cubos
 - Numa tigela, misture a farinha de trigo, o açúcar, a aveia, o coco, a canela e o sal. Junte a manteiga gelada e misture com as pontas dos dedos até formar uma farofa grossa.
-- --
 
 ---
 

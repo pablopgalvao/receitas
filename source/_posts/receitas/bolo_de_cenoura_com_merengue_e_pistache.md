@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - Junte o açúcar às claras, encaixe a tigela na panela e mexa com um batedor de arame, por cerca de 5 minutos, até ficar liso – cuidado para não cozinhar as claras. Para ter certeza de que está no ponto, com uma colher retire uma porção da mistura e com a ponta dos dedos verifique se as claras estão aquecidas e sem grãozinhos de açúcar.
 - Transfira as claras com açúcar para a batedeira e bata em velocidade alta por cerca de 10 minutos, ou até esfriar e formar um merengue firme.
 - Cubra o bolo com uma tábua (ou prato de servir) e vire de uma só vez para desenformar. Com uma colher, espalhe o merengue sobre o bolo, formando picos. Polvilhe com o pistache e sirva a seguir.
-- --
 
 ---
 

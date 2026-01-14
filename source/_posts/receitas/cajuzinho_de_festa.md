@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 55 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de amendoim torrado e moído
 - 1 caixa de leite condensado (395 gramas)
@@ -38,7 +38,6 @@ flags: []
 - Adicione o leite condensado aos poucos, mexendo com uma colher até formar uma massa úmida, mole e bem homogênea;
 - Retire a massa da geladeira e comece a moldar. Umedeça as mãos com água e pegue pequenas porções, cerca de 14 gramas cada, se quiser padronizar;
 - Passe cada cajuzinho no açúcar cristal, cobrindo toda a superfície;
-- --
 
 ---
 

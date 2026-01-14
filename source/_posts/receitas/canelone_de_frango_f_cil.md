@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de frango cozido e desfiado
 - 1 colher de sopa de extrato de tomate
@@ -40,7 +40,6 @@ flags: []
 - Em uma panela adicione o óleo, a cebola, o alho e refogue, em fogo baixo, por cerca de 2 minutos
 - Acrescente o frango desfiado, o tempero para frango, sal, pimenta, orégano e o extrato de tomate. Misture bem, refogue por mais 2 a 3 minutos e reserve
 - Adicione o recheio de frango no canto da fatia de mussarela e finalize com uma colher de sopa de requeijão por cima
-- --
 
 ---
 

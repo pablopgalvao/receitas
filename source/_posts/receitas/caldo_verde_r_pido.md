@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de batata-inglesa
 - Água até cobrir as batatas (cerca de 800 ml)
@@ -37,7 +37,6 @@ flags: []
 - 1/2 colher de chá de pimenta-do-reino (ou a gosto)
 - Descasque as batatas, coloque-as no liquidificador com um pouco da água do cozimento, cerca de 1/4 de xícara de chá. Bata até obter um creme homogêneo. Se necessário, acrescente mais água do cozimento - cuidado para não deixar o creme muito líquido;
 - Junte o creme de batata e tempere com sal e pimenta-do-reino, lembrando que a calabresa já é salgada. Misture bem e deixe apurar até ferver - caso queira o caldo mais ralo, adicione um pouco mais da água do cozimento da batata;
-- --
 
 ---
 

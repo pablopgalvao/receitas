@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 95 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 colheres de sopa de óleo
 - 1 kg de carne moída
@@ -51,7 +51,6 @@ flags: []
 - Incorpore o milho e a salsinha, mexendo uma última vez para envolver todos os sabores. Desligue o fogo e reserve;
 - Adicione molho de tomate, sal e água quente. Mexa delicadamente apenas para o molho cozinhar e ficar bem aromático. Ajuste o sal, se necessário;
 - Desligue o fogo e transfira o molho para uma travessa (utilizamos uma de 36x23 cm). Espalhe uniformemente com a ajuda de uma colher;
-- --
 
 ---
 

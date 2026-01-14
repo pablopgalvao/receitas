@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -45,7 +46,6 @@ flags: []
 - 4 claras de ovo
 - 1½ xícara (chá) de açúcar
 - Junte o açúcar às claras e misture. Encaixe a tigela na panela e mexa com um batedor de arame, por cerca de 4 minutos, até ficar liso - cuidado para não cozinhar as claras. Para ter certeza que está no ponto certo, com uma colher, retire uma pequena porção da mistura e, com a ponta dos dedos, verifique se as claras estão aquecidas e sem grãozinhos aparentes de açúcar.
-- --
 
 ---
 

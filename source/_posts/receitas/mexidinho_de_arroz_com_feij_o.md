@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - folhas de salsinha a gosto para servir
 - Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com o azeite e junte a cebola. Tempere com uma pitada de sal e refogue por cerca de 2 minutos até começar a murchar. Junte o alho e refogue por mais 1 minuto para perfumar.
 - Acrescente o arroz e misture bem. Junte o feijão e refogue por mais 1 minuto. Adicione a farinha, aos poucos, mexendo com a espátula para incorporar. Deixe cozinhar por mais 2 minutos, mexendo de vez em quando, para a farinha ficar crocante. Tempere com sal e pimenta a gosto e sirva a seguir com folhas de salsinha a gosto.
-- --
 
 ---
 

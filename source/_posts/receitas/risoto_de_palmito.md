@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - tradicional
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de arroz arbóreo (280 gramas)
 - 2 colheres de sopa de manteiga
@@ -48,7 +48,6 @@ flags: []
 - Junte o arroz, tempere com uma pitada de sal e pimenta-do-reino e misture bem para os ingredientes incorporarem. Refogue por mais 1 minuto, mexendo sempre. Depois, acrescente o vinho e continue mexendo até o líquido reduzir;
 - Quando os grãos estiverem al dente - grão macio, mas ainda firme - desligue o fogo, adicione as rodelas de palmito (guarde algumas para finalizar no prato) e o queijo parmesão ralado. Misture até os ingredientes incorporarem, prove e, se necessário, acerte o sal;
 - Adicione com mais 1 colher de manteiga para deixar o prato ainda mais brilhoso e cremoso. Misture bem, finalize com tomilho fresco e sirva quente!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - noz-moscada ralada na hora a gosto
 - Na panela de arroz elétrica, coloque o macarrão, a água, o leite e tempere com o sal. Misture, tampe a panela e acione a alavanca para iniciar o cozimento — o indicador luminoso do painel mudará para a função cozinhar/refogar.
 - Assim que o macarrão estiver cozido, desligue a panela, adicione a manteiga e misture delicadamente por cerca de 2 minutos, até derreter — nesse tempo, a temperatura do macarrão diminui um pouco, o que evita que o queijo talhe.
-- --
 
 ---
 

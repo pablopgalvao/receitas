@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de leite (120 ml)
 - 80 gramas de leite condensado
@@ -41,7 +41,6 @@ flags: []
 - Depois, mergulhe a fatia recheada na mistura de ovos e leite, deixando absorver levemente;
 - Aqueça em fogo médio o óleo na frigideira e frite cada rabanada até que fique dourada dos dois lados, cerca de 2 minutos;
 - Retire do fogo e, em seguida polvilhe com açúcar e canela, para que fique bem envolvida com as especiarias;
-- --
 
 ---
 

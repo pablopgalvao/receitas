@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de manteiga (ou margarina)
 - 300 gramas de peito de frango cozido desfiado
@@ -43,7 +43,6 @@ flags: []
 - Em uma panela média ou grande, derreta a manteiga com o azeite. Refogue a cebola até ela dourar e murchar, cerca de 1 minuto em fogo baixo;
 - Tempere com sal, pimenta e orégano. Como você usará arroz cozido (que provavelmente já tem sal), cuidado para não salgar muito a receita;
 - Finalize com cheiro-verde, misture bem, acerte o sal e desligue o fogo;
-- --
 
 ---
 

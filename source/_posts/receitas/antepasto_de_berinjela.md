@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de azeite
 - 1/2 xícara de vinagre
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de alho espremido
 - Pimenta do reino, chimichurri, orégano a gosto
 - Regue com o azeite, o vinagre e tempere com sal e o orégano;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Diminua o fogo para médio e acrescente ½ colher (sopa) de azeite. Refogue a cebola por cerca de 3 minutos. Tempere com uma pitada de sal e acrescente o alho, o gengibre, a pimenta, o louro, os talos de coentro picados e refogue por mais 2 minutos, mexendo sempre.
 - Desligue o fogo e, quando todo o vapor sair e a panela parar de apitar, abra a tampa. Transfira o pernil para uma travessa e o molho para um tigela, passando pela peneira. Pressione com as costas de uma colher para extrair todo o molho e despreze os temperos da peneira.
 - Transfira para uma tigela, salpique com folhas de coentro e sirva a seguir com arroz branco, farinha de mandioca ou como recheio para sanduíches.
-- --
 
 ---
 

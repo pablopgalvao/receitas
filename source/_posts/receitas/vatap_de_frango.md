@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 80 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 800 kg de frango de frango desfiado
 - 300 ml de caldo de galinha ou água
@@ -47,7 +47,6 @@ flags: []
 - Junte a mistura de pães com leite, metade da cebola, 50 gramas de pimentão, 2 colheres de sopa de cheiro-verde, o tomate e o caldo de frango. Bata tudo até obter um creme liso, homogêneo e cremoso - se precisar, coloque mais caldo de galinha ou água para ajudar a bater;
 - Em uma panela, aqueça 50 ml de azeite de dendê e adicione a cebola picada, o alho e uma pitada de sal. Refogue bem até dourar levemente. Acrescente o frango desfiado, o restante do pimentão e tempere com cominho, pimenta-do-reino, gengibre, páprica e sal;
 - Quando começar a ferver, prove e, se necessário, acerte o sal e adicione o restante do azeite de dendê. Cozinhe por mais 3 a 5 minutos, ou até o vatapá ficar uma textura mais grossa e cremosa;
-- --
 
 ---
 

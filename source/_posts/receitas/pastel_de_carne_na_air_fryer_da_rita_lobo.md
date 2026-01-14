@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Regue com mais 1 colher (sopa) de azeite, junte a cebola e refogue por cerca 2 minutos, mexendo bem para desmanchar a carne — assim ela fica bem soltinha, ideal para rechear os pastéis. Junte o alho, o cominho, a páprica e mexa por 1 minuto para perfumar. Adicione o tomate e refogue por mais 2 minutos até começar a desmanchar.
 - Desligue o fogo e misture a salsinha, a cebolinha, a azeitona e o ovo cozido. Prove e ajuste o sal, se necessário. Transfira para uma tigela e deixe esfriar antes de rechear os pastéis.
 - Pincele os pastéis e o fundo do cesto da Air Fryer com óleo. Coloque 6 pastéis (ou quantos couberem no cesto), um ao lado do outro. Deixe assar por cerca de 6 minutos, ou até dourar — não precisa virar na metade do tempo.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - Numa tigela grande, tempere a rabada com 2 colheres (chá) de sal, esfregando bem com as mãos para cobrir toda a superfície da carne.
 - Ligue a panela novamente (sem a tampa) e programe para cozinhar na função refogar. Quando a panela aquecer, regue com o óleo, adicione a cebola, tempere com uma pitada de sal e refogue por cerca de 5 minutos, ou até começar a dourar. Junte o alho, o extrato de tomate, a páprica, o cominho, as folhas de louro e mexa por 1 minuto para perfumar. Acrescente o tomate e misture bem.
 - Regue com o caldo de limão e a água, tempere com 1 colher (chá) de sal e pimenta a gosto. Volte os pedaços de carne para a panela, tampe e programe para cozinhar por 50 minutos em pressão alta.
-- --
 
 ---
 

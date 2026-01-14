@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de feijão preto cru (350 gramas)
 - 1 linguiça calabresa (200 gramas)
@@ -36,7 +36,6 @@ flags: []
 - Água suficiente para cobrir o feijão dois dedos acima (800 ml)
 - Na panela de pressão, aqueça o óleo ou azeite e doure a calabresa até soltar gordura e ficar levemente crocante;
 - Junte o sal e a folha de louro. Tampe a panela e leve ao fogo médio. Após pegar pressão, cozinhe por cerca de 40 minutos;
-- --
 
 ---
 

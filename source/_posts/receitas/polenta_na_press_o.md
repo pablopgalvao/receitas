@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - 2 colheres (chá) de sal
 - Coloque a água na panela de pressão (sem a tampa) e leve ao fogo alto. Quando começarem a subir as primeiras bolhas acrescente o sal e junte a sêmola de milho aos poucos, mexendo com um batedor de arame para não empelotar.
 - Volte a panela ao fogo baixo e mexa com o batedor por mais 2 minutos, até a polenta ficar cremosa. Desligue o fogo e misture a manteiga e o parmesão ralado Prove e ajuste o sal. Sirva a seguir como prato principal ou acompanhamento.
-- --
 
 ---
 

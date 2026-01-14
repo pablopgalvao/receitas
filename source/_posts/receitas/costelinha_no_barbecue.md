@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 200 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de costelinha suína
 - 1 colher de sopa de óleo vegetal
@@ -46,7 +46,6 @@ flags: []
 - Enquanto isso, em uma panela, aqueça o óleo e refogue o alho e a cebola em fogo médio até dourarem levemente;
 - Acrescente o ketchup, açúcar mascavo, vinagre, mostarda, molho inglês, fumaça líquida ou em pó, gengibre, cominho e páprica. Misture bem todos os ingredientes;
 - Sirva em uma tábua ou travessa, finalizando com cheiro-verde ou salsinha picada, se desejar, bom apetite!
-- --
 
 ---
 

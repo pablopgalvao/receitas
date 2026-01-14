@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 xícaras de chá de molho de tomate ou passata de tomate (720 gramas)
 - 400 gramas de mussarela ralada
@@ -43,7 +43,6 @@ flags: []
 - Mussarela ralada a gosto para finalizar
 - Pegue um refratário grande e despeje o molho de tomate. Sobre ele, espalhe e adicione a mussarela ralada, o requeijão cremoso, o parmesão ralado, o óleo, a pimenta-do-reino, o sal e o orégano;
 - Enquanto o molho está no forno, coloque água suficiente em uma panela para cozinhar o macarrão. Adicione um fio de óleo e sal a gosto;
-- --
 
 ---
 

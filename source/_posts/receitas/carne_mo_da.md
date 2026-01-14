@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de patinho moído
 - 5 gramas de sal
@@ -40,7 +40,6 @@ flags: []
 - Em um recipiente, coloque a carne moída e tempere com sal, a cebolinha, a pimenta, as ervas finas secas, a páprica;
 - Em uma frigideira grande, esquente o azeite com a manteiga e refogue a cebola por 2 minutos;
 - Desligue o fogo e finalize com as salsinhas;
-- --
 
 ---
 

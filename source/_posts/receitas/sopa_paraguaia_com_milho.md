@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - rápido
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de margarina
 - 1 colher de sobremesa de sal
@@ -41,7 +41,6 @@ flags: []
 - Adicione a cebola refogada junto dos ovos, em seguida o sal e o milho-verde escorrido, misturando bem;
 - Junte a farinha de milho e o leite, e misture até envolver todos os ingredientes. Agregue o fermento em pó;
 - Despeje a massa em uma forma de 20 x 28 ou similar, untada com margarina, e salpique a mussarela ralada por cima;
-- --
 
 ---
 

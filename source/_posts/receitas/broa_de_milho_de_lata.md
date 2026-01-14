@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 lata de milho-verde (170 gramas)
 - 1/2 lata de óleo de soja (120 ml)
@@ -43,7 +43,6 @@ flags: []
 - Unte uma forma redonda de furo no meio (24 cm) com manteiga e polvilhe flocão ou milharina. Rale o queijo parmesão e quebre os ovos separadamente para verificar se estão bons;
 - No liquidificador, acrescente o milho-verde, o leite, o óleo e o açúcar. Bata tudo até formar uma mistura homogênea;
 - Agregue o coco ralado, o flocão de milho ou milharina, o fermento e o sal. Misture bem com um fouet (batedor de arame) ou colher ainda no liquidificador;
-- --
 
 ---
 

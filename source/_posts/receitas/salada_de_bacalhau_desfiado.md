@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - portugal
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 300 gramas de bacalhau em lascas
 - 1 xícara de chá de grão-de-bico cozido (160 gramas)
@@ -41,7 +41,6 @@ flags: []
 - Para essa receita, retire a pele dos pimentões, depois pique em cubinhos; pique o tomate (sem sementes) e a cebola da mesma forma; corte a salsinha finamente e fatie as azeitonas;
 - Junte o grão-de-bico, o tomate, os pimentões, a cebola, as azeitonas e a salsinha;
 - Regue com azeite e tempere com sal e pimenta-do-reino. Misture muito bem;
-- --
 
 ---
 

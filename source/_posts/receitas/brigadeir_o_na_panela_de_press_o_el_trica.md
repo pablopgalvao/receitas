@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - Unte com manteiga uma fôrma para pudim de 18 cm de diâmetro. Polvilhe açúcar, chacoalhe para espalhar e bata sobre a pia para retirar o excesso.
 - Leve uma chaleira com cerca de 3 xícaras (chá) de água ao fogo alto para ferver — ela vai ser usada para o banho-maria. Enquanto isso, prepare a massa do brigadeirão.
 - No liquidificador, coloque o leite condensado, o chocolate em pó, o leite e a manteiga. Numa tigela pequena, quebre um ovo de cada vez e transfira para o liquidificador — se algum estiver estragado você não perde a receita. Bata até que a mistura fique lisa e todo o chocolate se dissolva.
-- --
 
 ---
 

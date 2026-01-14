@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Queijo ralado a gosto
 - 4 colheres de sopa de farinha de tapioca (70 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Coloque os ovos e com uma colher, espalhe-os sobre a camada de tapioca, estourando as gemas;
 - Tempere com sal, orégano e pimenta, e em seguida, tampe a frigideira. Deixe em fogo baixo por 5 minutos, ou até cozinhar tudo;
 - Dobre a tapioca com ovo ao meio e sirva ainda quente. Combine-a com uma saladinha verde no jantar, ou frutas para o café da manhã!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - iogurte cremoso a gosto para servir
 - Leve o arroz ao micro-ondas para aquecer por apenas 30 segundos — o arroz aquecido absorve melhor os sabores do molho. Adicione o arroz ao molho, junte o pepino, tempere com sal e pimenta e misture bem.
 - Por último, adicione as lascas do salmão, sem mexer demais para que elas não quebrem muito. Sirva a seguir com a cebolinha fatiada e uma colherada de iogurte cremoso.
-- --
 
 ---
 

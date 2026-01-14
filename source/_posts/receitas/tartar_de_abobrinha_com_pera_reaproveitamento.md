@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - fatias de baguete a gosto para servir
 - Lave, seque e pique fino a salsinha. Lave, seque e corte a pera em fatias de 0,5 cm; corte as fatias em tiras (descartando o miolo com as sementes) e as tiras em cubos de 0,5 cm.
 - Numa tigela, misture a pera com a abobrinha. Junte a salsinha, a mostarda, as raspas de limão e o azeite, tempere com sal e pimenta a gosto e misture delicadamente.
-- --
 
 ---
 

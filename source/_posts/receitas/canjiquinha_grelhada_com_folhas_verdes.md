@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Desligue o fogo e, quando toda a pressão tiver saído e a panela parar de apitar, abra a tampa (você pode colocar um garfo sob a válvula para acelerar o processo, mas isso encurta o tempo de vida da panela). Junte o queijo e a manteiga gelada. Misture bem com uma espátula até a manteiga derreter.
 - sal e pimenta-do-reino moída na hora a gosto
 - Sirva a seguir cada fatia com uma porção de salada de folhas verdes e pedacinhos de queijo azul. Regue com um fio de azeite e tempere com sal e pimenta-do-reino a gosto.
-- --
 
 ---
 

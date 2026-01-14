@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - sal para cozinhar a massa
 - semolina a gosto para polvilhar
 - Numa tigela grande, coloque a semolina e abra um buraco no centro. Vá acrescentando a água morna aos poucos, misturando com um garfo do centro para fora — é importante incorporar a água à farinha aos poucos, para não adicionar água em excesso; no começo vai parecer seco demais, mas é assim mesmo.
-- --
 
 ---
 

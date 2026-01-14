@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 latas de milho-verde (340 gramas)
 - 1 caixa de creme de leite (200 gramas)
@@ -39,7 +39,6 @@ flags: []
 - 1 colher de sopa de cheiro-verde (ou a gosto)
 - Em uma panela, derreta a manteiga e refogue a cebola por 4 minutos, até dourar bem. Desligue o fogo e reserve na panela;
 - Transfira essa mistura para a panela com a cebola e acrescente a segunda lata de milho-verde. Tempere com sal, pimenta-do-reino e o tablete de caldo de legumes (opcional);
-- --
 
 ---
 

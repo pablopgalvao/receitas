@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de macarrão parafuso
 - 200 gramas de peito de peru defumado em cubinhos
@@ -42,7 +42,6 @@ flags: []
 - Em uma panela grande e funda, coloque água (o suficiente para cobrir 500 gramas de macarrão) e leve para ferver em fogo alto;
 - Quando a água pegar fervura, adicione uma pitada de sal. Despeje o macarrão para cozinhar, seguindo as indicações da embalagem. O ponto al dente é o mais indicado para saladas, pois equilibra com os outros ingredientes;
 - Acrescente a cebola picada, a cenoura ralada, o peito de peru em cubinhos, a mussarela em cubinhos, o tomate em cubinhos e sem semente, o milho, a ervilha, a salsinha, o manjericão, o sal e a pimenta-do-reino. Com uma colher, misture para incorporar;
-- --
 
 ---
 

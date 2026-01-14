@@ -21,16 +21,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** Fácil
 - **Rendimento:** 2 porções
 - **Tempo de preparo:** 30 min
 - **Calorias:** 312 kcal
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 batatas (300 gramas)
 - 2 colheres de sopa de óleo para untar

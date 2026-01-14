@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 e 1/2 xícaras de chá de farinha de trigo com fermento (300 gramas)
 - 1 xícara de chá de leite (240 ml)
@@ -40,7 +40,6 @@ flags: []
 - Unte uma frigideira com óleo ou manteiga, apenas o suficiente para criar uma película fina que evita que os bolinhos grudem. Aqueça em fogo baixo;
 - Com a frigideira quente, disponha colheradas de massa separadas, deixando espaço entre elas para que não se unam. Deixe fritar por cerca de 2 a 3 minutos de cada lado, até que a base esteja douradinha;
 - Vire com cuidado usando a espátula e deixe dourar do outro lado pelo mesmo tempo. Repita o processo até usar toda a massa, sempre mantendo o fogo baixo e reaplicando um pouco de óleo ou manteiga se necessário;
-- --
 
 ---
 

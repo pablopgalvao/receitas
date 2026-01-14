@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Numa tigela grande, coloque as rodelas de jiló, adicione o sal e misture bem com as mãos. Transfira para uma peneira (ou escorredor) e apoie sobre a tigela. Deixe o jiló descansar por 20 minutos – nesse tempo, vai perder um pouco da umidade por conta do sal, ficando menos amargo e mais crocante depois de frito.
 - Passado o tempo de descanso, leve uma frigideira de borda alta (ou panela média) com o óleo ao fogo médio para aquecer. Enquanto isso, abra um pano de prato limpo sobre a bancada e seque bem as rodelas de jiló.
 - Com cuidado, mergulhe os jilós empanados no óleo quente e deixe fritar por cerca de 1 minuto – fique de olho, pois é muito rápido, quando as fatias começarem a dourar, vire com a escumadeira para fritar por igual. Com a escumadeira, retire os chips, escorra bem o óleo e transfira para a assadeira forrada com papel. Repita com o restante das rodelas e sirva a seguir.
-- --
 
 ---
 

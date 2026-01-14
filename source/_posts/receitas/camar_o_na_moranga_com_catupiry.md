@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 150 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 abóbora moranga média (2,300 kg)
 - 2 colheres de sopa de azeite
@@ -45,7 +45,6 @@ flags: []
 - Pegue um pedaço de papel alumínio suficiente para envolver a moranga por inteiro. Posicione a moranga sobre o papel com a tampa cortada e tempere com azeite e sal grosso. Feche-a e enrole no papel alumínio. Leve ao forno por 90 minutos;
 - Enquanto a abóbora está no forno, em um recipiente tempere os camarões com o suco de limão e pimenta-do-reino. Além disso, em um recipiente pequeno, incorpore a farinha de trigo no leite de coco;
 - Acrescente os tomates picados, a misturinha de leite de coco e farinha de trigo, o molho de tomate, o creme de leite e o catupiry. Tempere com sal e mexa até que o creme engrosse. Finalize com cheiro verde;
-- --
 
 ---
 

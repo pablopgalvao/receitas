@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 berinjela grande (300 gramas)
 - 1/2 colher de chá de sal ou a gosto
@@ -40,7 +40,6 @@ flags: []
 - Em um recipiente separado, dissolva a 1 colher de sopa de amido de milho com o shoyu e a água, formando um molho uniforme;
 - Na frigideira, adicione 3 colheres de sopa de azeite e refogue os dentes de alho picados até dourarem levemente;
 - Se quiser, decore com salsinha, e gergilim. Sirva em seguida!
-- --
 
 ---
 

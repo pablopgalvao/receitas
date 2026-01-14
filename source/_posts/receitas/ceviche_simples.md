@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 colher de sopa de talo de coentro
 - 1 colher de chá de salsinha
@@ -36,7 +36,6 @@ flags: []
 - Passe o peixe para uma tigela separada e junte com a cebola picada, o talo de coentro, a pimenta, a salsinha e o sal. Misture bem com uma colher para dissolver o tempero;
 - Acrescente o limão espremido e mexa bem, até que tudo incorpore. Prove e, se necessário, acerte o sal. Deixe marinar por 20 a 30 minutos, até o peixe adquirir um tom mais esbranquiçado, isso significa que está cozido;
 - Coloque o ceviche em recipientes para servir, decore com um pouco mais de salsinha e aproveite esse prato refrescante. Bom apetite!
-- --
 
 ---
 

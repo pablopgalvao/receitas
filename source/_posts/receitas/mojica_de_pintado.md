@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de pintado em filé
 - 500 gramas de mandioca descascada e limpa
@@ -45,7 +45,6 @@ flags: []
 - Em uma panela aquecida no fogo médio, coloque azeite e refogue a cebola picada. Misture com a colher ou espátula para não queimar;
 - Depois, acrescente o peixe pintado, misture delicadamente e deixe até o peixe cozinhar. Experimente e, se necessário, acerte o sal e os temperos;
 - Sirva com arroz branco e uma saladinha na sua próxima refeição, seja no almoço ou jantar. Bom apetite!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Tomilho ou orégano fresco a gosto
 - 1/2 colher de chá de sal
@@ -38,7 +38,6 @@ flags: []
 - Acrescente parte das batatas aos ovos, amassando levemente com um garfo, depois adicione o restante mantendo a estrutura de algumas fatias inteiras;
 - Adicione a cebola, pimenta-do-reino e ajuste o sal, se necessário. Misture delicadamente;
 - Aqueça bem uma frigideira antiaderente pequena e unte com um pouco do azeite reservado. Despeje a mistura de batata e ovo na frigideira, tampe e cozinhe em fogo médio por cerca de 1 minuto e meio;
-- --
 
 ---
 

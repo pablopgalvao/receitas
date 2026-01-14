@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 35 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de azeitonas pretas sem caroço (40 gramas)
 - 1/2 xícara de chá de uva-passa preta (60 gramas)
@@ -41,7 +41,6 @@ flags: []
 - 1 colher de chá de sopa de sal a gosto (para desidratar a berinjela e para o restante da receita)
 - Em uma tigela, misture as berinjelas e o sal. Reserve por 15 minutos, ela soltará seu suco. Descarte e reserve apenas o legume;
 - Adicione orégano, páprica doce e picante, lemmon pepper e sal. Misture bem, envolvendo os sabores;
-- --
 
 ---
 

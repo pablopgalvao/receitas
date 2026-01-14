@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Transfira o peixe para uma tigela, junte as raspas e o caldo do limão, 1 ½ colher (sopa) de azeite, tempere com o sal, pimenta a gosto e misture bem. Num prato fundo, coloque a farinha de rosca e reserve.
 - Coloque um hambúrguer no prato com farinha de rosca e pressione delicadamente para empanar dos dois lados – não precisa empanar as laterais. Bata delicadamente para tirar o excesso de farinha e transfira para uma travessa. Repita com o restante.
 - Leve uma chapa de ferro ao fogo médio (se preferir, utilize uma frigideira antiaderente). Quando estiver bem quente, regue com 1 colher (sopa) de azeite. Com uma espátula, coloque quantos hambúrgueres couberem, um ao lado do outro. Abaixe o fogo e deixe dourar por 3 minutos de cada lado – só vire o hambúrguer com a espátula quando descolar da chapa. Sirva a seguir.
-- --
 
 ---
 

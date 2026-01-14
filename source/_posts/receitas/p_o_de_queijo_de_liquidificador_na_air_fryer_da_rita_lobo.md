@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - óleo para untar a fôrma
 - Unte generosamente com óleo uma fôrma de bolo com furo no meio de 16 cm de diâmetro. Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 200 ºC e programe para assar por 25 minutos.
 - Reserve 2 colheres (sopa) do queijo ralado para polvilhar sobre o pão de queijo e transfira o restante para o liquidificador. Junte o restante dos ingredientes e bata por cerca de 1 minuto, até a massa ficar lisa.
-- --
 
 ---
 

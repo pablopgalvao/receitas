@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 xícara (chá) de óleo para fritar
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo; bata com um garfo apenas para misturar as claras com as gemas. Num prato raso, coloque a farinha de rosca, em outro coloque a farinha de trigo e tempere com uma pitada de sal. Forre uma travessa com papel-toalha.
-- --
 
 ---
 

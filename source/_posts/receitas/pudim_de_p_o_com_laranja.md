@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - Numa panela, misture o açúcar com o leite e leve ao fogo médio. Assim que ferver, regue sobre os pães e deixe descansar por 10 minutos.
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para outra tigela – se um estiver estragado você não perde a receita. Misture com um garfo apenas para quebrar as claras com as gemas, junte aos pães amolecidos e misture bem para incorporar.
 - Transfira a massa para a forma caramelada e nivele com uma colher. Coloque a forma numa assadeira funda, encha a assadeira com a água fervente e leve para assar em banho-maria por cerca de 40 minutos, ou até o pudim firmar.
-- --
 
 ---
 

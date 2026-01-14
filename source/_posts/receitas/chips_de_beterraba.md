@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave, seque e descasque as beterrabas. Sobre uma assadeira antiaderente grande, passe uma beterraba pelo mandolin (fatiador de legumes). Espalhe as fatias sem sobrepor, deixando cerca de 0,5 cm entre cada uma. Tempere com um fio de azeite, sal e pimenta-do-reino moída na hora a gosto. Em outra assadeira, repita o procedimento com a outra beterraba.
-- --
 
 ---
 

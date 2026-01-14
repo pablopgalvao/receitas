@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 4 xícaras de chá de farinha de trigo (sem fermento)
 - 1/2 colher de sopa de sal
@@ -39,7 +39,6 @@ flags: []
 - 1/2 colher de chá de sal
 - Em uma tigela grande, misture a farinha e o sal. Adicione a margarina gelada e, com as pontas dos dedos, forme uma farofa úmida, sem amassar completamente a massa;
 - Após o descanso, divida a massa em porções de 30 gramas (ou use uma colher de sopa como medida). Faça bolinhas, achate e acomode nas forminhas de empada de alumínio (7 cm diâmetro x 2,4 cm altura);
-- --
 
 ---
 

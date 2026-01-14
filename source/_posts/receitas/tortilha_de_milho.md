@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 25 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 xícaras de chá de farinha de trigo (240 gramas)
 - 1 xícara de chá de farinha de milho flocada para cuscuz pré-cozida (120 gramas)
@@ -39,7 +39,6 @@ flags: []
 - Em uma tigela, misture as farinhas, o fermento e o sal com as mãos até incorporar bem;
 - Junte o óleo e sove por cerca de 5 minutos, até a massa ficar uniforme. Forme uma bola e cubra com filme plástico. Deixe descansar por 10 minutos;
 - Aqueça uma frigideira de ferro ou inox em fogo alto. Asse as tortilhas por cerca de 20 segundos de cada lado, sem usar óleo, até aparecerem bolhas e ficarem levemente douradas;
-- --
 
 ---
 

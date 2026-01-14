@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - caseiro
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - ½ colher (sopa) de sal
 - azeite a gosto para grelhar
 - Lave e seque bem os quiabos – eles devem estar bem secos mesmo, para absorver os sabores do tempero. Numa tigela pequena, misture bem a pimenta calabresa, as raspas de limão, o caldo do limão, o azeite e o sal.
-- --
 
 ---
 

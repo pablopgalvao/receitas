@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave e seque o pepino e o coentro. Corte o pepino ao meio, no sentido da largura. Reserve uma das metades na geladeira para uma próxima receita. Corte a outra metade ao meio, no sentido do comprimento e com uma colher de café, raspe o miolo com as sementes. Corte o pepino em cubos de 1 cm e transfira para uma tigela.
 - Escorra a água do rabanete. Misture as fatias de rabanete ao feijão. Tempere com o caldo de laranja, o vinagre, o azeite, sal e pimenta a gosto. Junte as folhas de coentro e misture delicadamente. Sirva a seguir.
-- --
 
 ---
 

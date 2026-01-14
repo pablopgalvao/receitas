@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 2/3 de xícara de chá de açúcar (320 gramas)
 - 1/2 xícara de chá de água (120ml)
 - Enquanto isso, em uma panela pequena, adicione o açúcar e a água, misture para dissolver todo o açúcar;
 - Leve ao fogo médio, sem mexer, até atingir o ponto de fio fino (quando um fio escorre lentamente da colher ou espátula);
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - fácil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 9 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 3 colheres de sopa rasas de café solúvel granulado (12 gramas)
 - 1 xícara de chá de leite em pó integral e instantâneo (100 gramas)
@@ -40,7 +40,6 @@ flags: []
 - Mexa com as mãos ou uma colher para ajudar a quebrar os grãos maiores do café e do açúcar que ficarem na peneira;
 - Após peneirar todos os ingredientes, misture bem com uma colher até ficar homogêneo;
 - Acrescente 2 colheres de sopa da mistura de cappuccino, mexa bem e aproveite essa cremosidade especial!
-- --
 
 ---
 

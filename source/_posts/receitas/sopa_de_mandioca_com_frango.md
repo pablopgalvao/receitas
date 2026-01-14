@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de coxa e sobrecoxa (corte para frango a passarinho)
 - 400 gramas de mandioca
@@ -37,7 +37,6 @@ flags: []
 - 1/2 colher de chá de lemon pepper
 - 1 colher de sopa de vinagre
 - Adicione os pedaços de frango, sal, vinagre, chimichurri e cebola desidratada. Misture bem e acrescente os tomates;
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ⅓ de xícara (chá) de queijo parmesão ralado fino
 - 1 colher (sopa) de sal
 - Coloque a mandioca na panela de pressão, cubra com água, tempere com 1 colher (sopa) de sal, tampe e leve ao fogo alto. Quando a panela começar a apitar, abaixe o fogo e deixe cozinhar por 10 minutos.
-- --
 
 ---
 

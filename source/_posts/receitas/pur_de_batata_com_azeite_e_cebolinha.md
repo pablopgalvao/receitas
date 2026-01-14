@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - popular
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Lave, descasque e corte as batatas em pedaços médios. Transfira para uma panela, cubra com água e misture 1 colher (chá) de sal. Com a lateral da lâmina da faca, amasse os dentes de alho, descasque e junte às batatas.
 - Assim que estiverem cozidas, reserve 1 xícara (chá) da água do cozimento e passe as batatas pelo escorredor. Deixe por uns minutinhos enquanto prepara as cebolinhas.
 - Leve uma frigideira com o azeite ao fogo médio. Quando aquecer, junte a cebolinha fatiada e mexa por 1 minuto para perfumar. Adicione o azeite com as cebolinhas ao purê de batatas e misture bem. Tempere com sal e pimenta a gosto e sirva a seguir.
-- --
 
 ---
 

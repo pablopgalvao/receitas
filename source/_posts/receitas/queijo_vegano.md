@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de castanhas-de-caju cruas
 - 400 ml de água
@@ -37,7 +37,6 @@ flags: []
 - 2 colheres de sopa de polvilho doce
 - 1 a 2 colheres de sopa de polvilho azedo
 - No liquidificador, coloque a água, as castanhas, o sal, os polvilhos, levedura nutricional e o óleo. Bata bem;
-- --
 
 ---
 

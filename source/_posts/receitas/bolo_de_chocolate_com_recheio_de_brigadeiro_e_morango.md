@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 90 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixa de creme de leite (200 gramas)
 - 4 colheres de sopa de chocolate em pó
@@ -44,7 +44,6 @@ flags: []
 - Para o recheio, em uma panela fora do fogo, misture bem o leite condensado, o creme de leite, o chocolate em pó e a manteiga;
 - Para a massa, em uma batedeira, coloque os ovos, a farinha de trigo, o açúcar, o chocolate em pó, o óleo e o leite. Bata até obter uma massa lisa e homogênea;
 - Despeje a massa em uma forma, untada e enfarinhada, e asse em forno preaquecido a 180ºC por cerca de 45 minutos;
-- --
 
 ---
 

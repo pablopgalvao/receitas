@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite (240 ml)
@@ -39,7 +39,6 @@ flags: []
 - Separe todos os ingredientes em sua bancada e unte uma forma de 20cm. Aproveite para preaquecer o forno a 180 °C, e quebrar os ovos para verificar se estão bons;
 - Em um liquidificador, adicione os ovos, o óleo, o leite, o sal e o queijo ralado. Bata por alguns instantes até a mistura ficar homogênea;
 - Despeje a massa na forma untada e enfarinhada, e alise levemente a superfície com uma colher para nivelar a massa;
-- --
 
 ---
 

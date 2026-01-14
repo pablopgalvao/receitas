@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Num ramequim individual que comporte 250 ml (ou qualquer tigela refratária individual ou xícara que possa ir ao micro-ondas), coloque a ricota, a ervilha (nem precisa descongelar antes) e tempere com um fio de azeite, sal e pimenta-do-reino a gosto.
 - Quebre um ovo de cada vez em outra tigela e transfira para o ramequin – se um estiver estragado você não perde a receita. Fure as gemas com um garfo, acrescente o leite, tempere com uma pitada de sal e noz-moscada. Não precisa misturar.
-- --
 
 ---
 

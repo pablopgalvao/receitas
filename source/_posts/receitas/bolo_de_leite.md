@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 75 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 caixinha de farinha de trigo (a caixinha de leite condensado como medida)
 - 1/2 caixinha medida de açúcar (a caixinha de leite condensado como medida)
 - 1/2 xícara de chá de manteiga
 - Coloque em uma assadeira untada com manteiga e farinha de trigo e leve ao forno preaquecido a 180 °C por 45 a 50 minutos ou até que faça o teste do palito e ele sair meio úmido;
-- --
 
 ---
 

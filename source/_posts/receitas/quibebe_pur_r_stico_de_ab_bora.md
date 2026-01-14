@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 colher (chá) de sal
 - Junte os cubos de abóbora, tempere com o sal e deixe cozinhar, mexendo de vez em quando, por cerca de 10 minutos ou até a abóbora começar a ficar macia. Tampe a frigideira e deixe a abóbora cozinhar abafada, por 5 minutos – ela vai soltar líquido e ficar bem macia, quase desmanchando.
 - Retire a tampa e mexa por mais alguns minutos, pressionando com as costas da colher de pau, para desmanchar os pedaços de abóbora. Desligue o fogo e sirva a seguir.
-- --
 
 ---
 

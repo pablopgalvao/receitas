@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -43,7 +44,6 @@ flags: []
 - Transfira o espinafre refogado para uma tigela. Junte o frango desfiado, o queijo cottage e misture bem. Tempere com noz-moscada, sal e pimenta-do-reino a gosto. Deixe amornar enquanto abre a massa.
 - farinha de trigo para polvilhar a bancada
 - Polvilhe com farinha uma superfície limpa e abra a massa com um rolo até ficar fina - cerca de 2 mm de espessura. Utilize a boca de um ramequin para cortar 4 círculos de massa e reserve - eles vão servir de tampa para as tortinhas.
-- --
 
 ---
 

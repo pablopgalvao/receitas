@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - saudável
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 pitada de sal
 - Em vez de escorrer a água, retire as folhas da tigela — assim, as sujeirinhas ficam no fundo. Enxágue sob água corrente e seque bem na centrífuga de salada.
 - Numa frigideira média, coloque o azeite e o alho e leve ao fogo médio. Refogue por cerca de 3 minutos, até que o alho comece a dourar. Desligue o fogo, adicione o vinagre aos poucos para que não espirre e tempere com uma pitada de sal.
-- --
 
 ---
 

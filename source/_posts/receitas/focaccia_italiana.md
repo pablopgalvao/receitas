@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - italia
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 260 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de farinha de trigo
 - 325 ml de água
@@ -40,7 +40,6 @@ flags: []
 - Em uma tigela, coloque a farinha e a água e misture com as mãos para desenvolver o glúten. Esse processo é chamado de autólise. Assim que a farinha absorver toda a água, cubra a massa com plástico filme ou saquinho de freezer e leve à geladeira por 1 hora;
 - Passado o tempo, remova o plástico filme. Acrescente o fermento, o sal e o açúcar sobre a massa, um ao lado do outro, sem sobrepor. Despeje o azeite por cima e sove até incorporar bem todos os ingredientes;
 - Decore a focaccia com alecrim fresco e sal grosso. Leve ao forno preaquecido a 280 ºC por 10 minutos. Passado esse tempo, reduza a temperatura do forno para 200 ºC e deixe assar por mais 30 minutos;
-- --
 
 ---
 

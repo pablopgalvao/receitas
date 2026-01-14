@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de sobrecoxa desossada
 - 1 colher de sopa de sal
@@ -39,7 +39,6 @@ flags: []
 - Coloque os pedaços do frango num refratário. Adicione o suco do limão e o sal a gosto sobre a carne e envolva tudo com as próprias mãos;
 - Em seguida, separe um recipiente para preparar a marinada. Coloque a mostarda, o mel, a páprica, a pimenta-do-reino, o sal e a maionese. Misture tudo muito bem com uma colher;
 - E está pronto. Acompanhado por arroz branco e uma saladinha, a refeição fica completa!
-- --
 
 ---
 

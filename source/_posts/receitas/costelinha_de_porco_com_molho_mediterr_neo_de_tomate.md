@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - ½ colher (sopa) de sal
 - Leve ao fogo médio uma panela grande (nós usamos uma caçarola de 24 cm de diâmetro com fundo triplo). De um lado, posicione a tigela com as costelinhas e, do outro, uma travessa. Quando a panela aquecer, regue com 1 colher (sopa) de óleo e doure cerca de 4 costelinhas por 3 minutos - coloque o lado convexo para baixo. Vire e deixe dourar o outro lado por mais 2 minutos. Transfira para a travessa. As demais levam 2 minutos de cada lado. Resista à tentação de colocar todas ao mesmo tempo! Em vez de dourar, elas vão soltar o próprio líquido e cozinhar no vapor.
 - Quando a cebola dourar, junte o alho, a folha de louro e mexa por 1 minuto para perfumar. Tempere com o sal, a páprica defumada, a pimenta calabresa seca e a erva-doce. Misture bem.
-- --
 
 ---
 

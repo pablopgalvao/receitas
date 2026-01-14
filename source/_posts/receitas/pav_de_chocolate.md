@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - fácil
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -54,7 +55,6 @@ flags: []
 - Transfira as claras com açúcar para a batedeira. Comece a bater em velocidade baixa e vá aumentando gradualmente. Bata em velocidade alta por cerca de 10 minutos, até formar um merengue firme e brilhante.
 - Com uma colher, espalhe o creme de chocolate sobre o biscoito umedecido, formando uma camada lisa e uniforme. Distribua o creme branco, de colherada em colherada sobre o creme de chocolate – assim fica mais fácil de espalhar sem misturar um no outro. Com as costas da colher (ou espátula de confeiteiro) alise o creme branco formando mais uma camada do pavê.
 - Cubra o refratário com o merengue batido. Para ficar mais fácil de finalizar, umedeça as costas de uma colher e espalhe o merengue formando a última camada do pavê – aí você decide se quer deixar bem retinho ou com picos. Leve ao congelador por pelo menos 6 horas antes de servir.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - brasil
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 750 ml de creme de leite fresco
 - 3 colheres de sopa de açúcar
@@ -35,7 +35,6 @@ flags: []
 - Leite a gosto
 - Em uma batedeira, bata o creme de leite fresco, o açúcar e a baunilha, até virar um chantilly, e reserve;
 - Triture grosseiramente algumas bolachas, salpique por cima da torta, e sirva!
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 86 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 caixas de leite condensado (780 gramas)
 - 3 xícaras de chá de leite (720 ml)
@@ -40,7 +40,6 @@ flags: []
 - Coloque o açúcar dentro da forma de pudim e leve ao fogo baixo. Deixe derreter (sem mexer) até atingir uma cor de caramelo;
 - No liquidificador, acrescente o leite condensado, o leite, o creme de leite, os ovos e a polpa do maracujá. Bata até ficar homogêneo;
 - Enquanto isso, para a calda, adicione em uma panela a polpa do maracujá, o açúcar e a água;
-- --
 
 ---
 

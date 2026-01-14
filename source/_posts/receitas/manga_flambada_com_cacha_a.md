@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -33,7 +34,6 @@ flags: []
 - ½ colher (sopa) de manteiga
 - sorvete de coco a gosto para servir
 - Em uma frigideira média, derreta a manteiga em fogo médio. Adicione os cubos de manga, junte o açúcar e abaixe o fogo. Deixe cozinhar por 2 minutos, mexendo de vez em quando, até a manga ficar levemente macia – cuidado para não mexer demais e desmanchar a fruta.
-- --
 
 ---
 

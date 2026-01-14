@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 170 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de coxa e sobrecoxa desossada
 - 4 colheres de sopa de mel
@@ -39,7 +39,6 @@ flags: []
 - Em uma tigela grande, adicione os pedaços de frango, 6 colheres de shoyu, 2 colheres de mel, o alho, a páprica, a pimenta-do-reino, o gengibre ralado e o sal;
 - Enquanto isso, em uma tigela pequena, misture 2 colheres de mel e 2 colheres de shoyu até ficar homogêneo;
 - Passado os 20 minutos de forno, retire a forma e espalhe a mistura de mel com shoyu sobre os pedaços de frango com o auxílio de uma colher ou espátula;
-- --
 
 ---
 

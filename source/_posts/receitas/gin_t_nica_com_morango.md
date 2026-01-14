@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - fácil
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 2 a 3 morangos (ou a gosto)
 - 4 folhas de hortelã fresca (ou a gosto)
@@ -35,7 +35,6 @@ flags: []
 - Gelo a gosto
 - 90 ml de tônica (ou até completar a taça)
 - Em um copo, com o auxílio de um pilão ou colher, macere levemente os morangos picados e a hortelã para que liberem seu sumo e aromas.
-- --
 
 ---
 

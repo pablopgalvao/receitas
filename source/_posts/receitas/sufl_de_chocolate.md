@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - brasil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -37,7 +38,6 @@ flags: []
 - Desencaixe a tigela da panela, junte a manteiga em pedaços ao chocolate e misture bem até ficar liso e brilhante. Reserve.
 - Numa tigela pequena quebre um ovo de cada vez, separando as claras das gemas. Transfira as claras para uma tigela e 3 gemas para a tigela da batedeira – você pode reservar as duas gemas restantes na geladeira para outra receita.
 - Na batedeira, bata as gemas com o açúcar até formar uma gemada cremosa e clara. Acrescente a gemada ao chocolate derretido e misture bem com a espátula para incorporar.
-- --
 
 ---
 

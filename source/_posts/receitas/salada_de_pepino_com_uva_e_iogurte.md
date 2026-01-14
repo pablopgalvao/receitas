@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - rápido
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 6 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -42,7 +43,6 @@ flags: []
 - Descarte as pontas e corte os pepinos ao meio, no sentido do comprimento. Com uma colher de chá, raspe e descarte as sementes. Apoie a parte cortada na tábua e fatie o pepino, na diagonal, em meias-luas de 0,5 cm.
 - Numa tigela grande, misture bem o iogurte com o azeite. Adicione os pepinos e as uvas cortadas. Pique fino as folhas de hortelã e junte à salada, tempere com sal e misture delicadamente.
 - Transfira para uma travessa e finalize com sementes de romã e folhas de hortelã a gosto.
-- --
 
 ---
 

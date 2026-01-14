@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - prático
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1/2 xícara de chá de óleo
 - 1 xícara de chá de leite
@@ -42,7 +42,6 @@ flags: []
 - No liquidificador, adicione os ovos, o óleo, o leite, o parmesão ralado e o sal. Bata por cerca de 1 minuto até ficar homogêneo;
 - Acrescente a farinha de trigo e bata por mais 20 segundos, apenas até incorporar;
 - Salpique orégano a gosto e leve novamente ao forno por mais 10 minutos ou até dourar;
-- --
 
 ---
 

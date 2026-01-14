@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 250 gramas de espaguete
 - 2 colheres de sopa de azeite (60 ml)
@@ -42,7 +42,6 @@ flags: []
 - Entre com o vinho branco, a pimenta-do-reino e o sal. Misture e deixe cozinhando por 4 minutos, até que o álcool evapore completamente;
 - Assim que cozinhar o macarrão, reserve uma xícara de chá da água do cozimento;
 - Deixe no fogo médio por mais 2 minutos e finalize com mais salsa;
-- --
 
 ---
 

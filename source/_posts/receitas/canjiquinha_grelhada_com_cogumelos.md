@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - prático
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -39,7 +40,6 @@ flags: []
 - 3 colheres (sopa) de shoyu (molho de soja)
 - Volte a frigideira para aquecer em fogo médio. Regue com o óleo e junte os cogumelos-de-paris. Deixe cozinhar por cerca de 2 minutos, até ficar levemente dourado. Acrescente os cogumelos shitake e shimeji e deixe por mais 3 minutos até ficarem macios. Desligue o fogo, regue com o shoyu e misture bem.
 - Coloque cada fatia de canjiquinha grelhada num prato, acomode os cogumelos grelhados sobre a fatia e salpique a cebolinha picada. Sirva a seguir.
-- --
 
 ---
 

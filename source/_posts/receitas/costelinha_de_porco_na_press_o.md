@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - popular
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 700 gramas de costelinha de porco
 - 3 colheres de sopa de azeite
@@ -40,7 +40,6 @@ flags: []
 - 1 xícara de chá de água quente
 - Cheiro-verde a gosto
 - Coloque as costelinhas em uma tigela e tempere com sal, chimichurri, páprica, pimenta limão, suco de limão, shoyu e mostarda. Misture os temperos para fixar em todos os pedaços. Deixe marinando por uns 30 minutos;
-- --
 
 ---
 

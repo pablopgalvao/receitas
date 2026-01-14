@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - rápido
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - queijo parmesão ralado, a gosto
 - Leve ao fogo médio, na menor boca do fogão, uma panela pequena de 16 cm de diâmetro. Regue com o azeite, junte a cebola, o sal e refogue por 3 minutos, mexendo bem, até dourar. Adicione o alho e refogue por mais 1 minuto.
 - Assim que o fundo estiver "limpo", coloque o macarrão, os tomates, as azeitonas e as folhas de manjericão. Tempere com a pimenta-do-reino a gosto. Misture e, quando começar a ferver, deixe cozinhar por 5 minutos.
-- --
 
 ---
 

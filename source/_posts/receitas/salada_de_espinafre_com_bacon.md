@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - tradicional
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 gramas de queijo gorgonzola
 - Azeite a gosto
@@ -41,7 +41,6 @@ flags: []
 - 50 gramas de nozes ou amêndoas tostadas
 - Em uma frigideira, coloque a manteiga e, assim que derreter, acrescente os cogumelos e um pouco de sal. Refogue até ficarem macios e reserve;
 - Salpique os damascos e as nozes e finalize com mais azeite. Está pronto para servir, bom apetite!
-- --
 
 ---
 

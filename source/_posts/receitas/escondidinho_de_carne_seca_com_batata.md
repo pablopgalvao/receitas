@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - rápido
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 140 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas de carne seca dessalgada
 - 2 colheres de sopa de manteiga (40 gramas)
@@ -48,7 +48,6 @@ flags: []
 - Após desfiar a carne, em outra panela, aqueça a manteiga e refogue a cebola, o alho e a pimenta até dourar levemente. Acrescente a páprica doce e o chimichurri, misture e junte o tomate picado;
 - Adicione a carne seca desfiada, polvilhe a farinha de trigo, mexa para dar liga, junte o molho de tomate e cozinhe por 3 minutos. Ajuste o sal e finalize com a salsinha;
 - Em seguida, misture a manteiga, o queijo parmesão ralado e o leite aos poucos até obter purê cremoso. Tempere com sal e pimenta-do-reino;
-- --
 
 ---
 

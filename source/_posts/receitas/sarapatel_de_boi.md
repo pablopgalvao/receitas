@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 200 gramas de fígado de boi
 - 200 gramas de rins de boi
@@ -39,7 +39,6 @@ flags: []
 - 3 xícaras de chá de água (600 ml)
 - Cheiro-verde picado a gosto
 - Em uma panela de pressão, adicione a carne, a cebola, o tomate, o alho, a pimenta-de-cheiro e o colorau. Tempere com sal e adicione o óleo. Misture tudo muito bem para incorporar os temperos;
-- --
 
 ---
 

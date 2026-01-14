@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - caseiro
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -31,7 +32,6 @@ flags: []
 - ¼ de xícara (chá) de sal grosso
 - Lave e seque bem o alecrim — quanto mais sequinho estiver, maior a durabilidade do sal.
 - Debulhe as folhas do alecrim e transfira para o miniprocessador de alimentos. Junte o restante dos ingredientes e bata até triturar o sal e o alecrim.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - saudável
+  - fácil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Aumente o fogo para médio, regue com mais um fio de azeite e acrescente a cenoura. Refogue por 2 minutos e junte salsinha e a cebolinha. Desligue o fogo, junte ao arroz e misture bem.
 - Passe um papel-toalha para limpar a panela wok. Quebre os ovos numa tigela.
 - Leve a panela ao fogo baixo e regue com um fio de azeite. Junte os ovos e mexa rapidamente com uma colher. Quando começar a cozinhar, junte o arroz e misture vigorosamente. Aumente o fogo, tempere com sal e pimenta-do-reino e misture bem por 1 minuto ou até aquecer bem o arroz. Sirva a seguir.
-- --
 
 ---
 

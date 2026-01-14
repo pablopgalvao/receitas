@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - brasil
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 150 g de chocolate 60% de cacau picado (cerca de ¾ de xícara)
 - 250 ml de água água fervente
 - Transfira para uma travessa (a nossa é oval com 24 cm de comprimento) que comporte 750 ml — se preferir, use taças individuais. É importante que a camada de musse não fique muito alta (cerca de 2 dedos, no máximo) para que o chocolate batido preserve a textura de musse aerada.
-- --
 
 ---
 

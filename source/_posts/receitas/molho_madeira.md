@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - caseiro
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 100 gramas de champignon fatiado
 - 2 colheres de sopa de manteiga
@@ -38,7 +38,6 @@ flags: []
 - Pode substituir o amido de milho por farinha de trigo. Se não tiver vinho madeira, use vinho tinto seco. O caldo de carne caseiro é mais saboroso, porém é possível usar o tablet de caldo de carne industrializado. Dê preferência para champignons frescos;
 - Descasque a cebola e o alho, em seguida, pique-os em cubinhos pequenos. Leve uma panela alta ao fogo médio com manteiga. Quando derreter, acrescente a cebola e refogue até murchar, cerca de 1 minuto. Adicione o alho e refogue por mais 1 minuto;
 - Acrescente o vinho e o caldo de carne. Tempere com sal e pimenta a gosto. Em fogo médio, mexa bem até engrossar, cerca de 5 minutos;
-- --
 
 ---
 

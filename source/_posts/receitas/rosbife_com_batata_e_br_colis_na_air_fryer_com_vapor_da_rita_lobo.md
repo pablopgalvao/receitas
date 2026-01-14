@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - Lave os floretes sob água corrente e seque bem. Tempere o brócolis com ¼ de colher (chá) de sal e 1 colher (sopa) de azeite.
 - Com uma escovinha para legumes, lave bem a casca das batatas sob água corrente e seque com um pano. Corte as batatas ao meio, no sentido do comprimento, transfira para uma tigela, junte os dentes de alho inteiros (com casca) e tempere com 2 colheres (sopa) de azeite e ½ colher (chá) de sal.
 - No pilão, bata o sal grosso com a páprica para quebrar os grãos em pedaços menores e misture a pimenta-do-reino. Espalhe bem esse tempero sobre toda a superfície do rosbife e borrife a carne com azeite (se preferir, espalhe o azeite com pincel).
-- --
 
 ---
 

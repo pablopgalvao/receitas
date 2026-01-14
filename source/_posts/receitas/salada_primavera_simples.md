@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - saudável
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,22 +20,19 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 xícara de chá de tomate-cereja (cortados ao meio)
 - 1 xícara de chá de palmito pupunha cortados
 - Sal, azeite e orégano a gosto
 - Adicione o tomate-cereja, o palmito, a manga, tempere com sal, azeite, orégano e misture bem;
-- --
 
 ---
 

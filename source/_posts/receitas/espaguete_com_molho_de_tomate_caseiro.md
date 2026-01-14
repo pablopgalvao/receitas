@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - italia
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - pimenta-do-reino moída na hora a gosto
 - Leve uma panela grande com cerca de 5 litros de água ao fogo alto para ferver. Acrescente 2 colheres (sopa) de sal, junte o macarrão e cozinhe pelo tempo indicado na embalagem, ou até ficar al dente — mexa de vez em quando para soltar os fios.
 - Transfira o espaguete para uma travessa e salpique folhas de manjericão. Sirva com o restante do molho à parte e burrata rasgada, regada com azeite e temperada com sal e pimenta.
-- --
 
 ---
 

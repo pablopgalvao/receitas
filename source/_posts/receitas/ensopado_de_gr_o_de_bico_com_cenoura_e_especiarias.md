@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - sudeste
+  - prático
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 8 hora
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -47,7 +48,6 @@ flags: []
 - Junte o alho, as folhas de louro, os talos e raízes do coentro e refogue por 2 minutos. Adicione a canela, o cominho, o cravo, o gengibre e o açúcar e refogue por mais 1 minuto.
 - Acrescente o extrato de tomate e refogue por cerca de 2 minutos, até formar um queimadinho no fundo da panela. Regue com 1 xícara (chá) de água e raspe bem o fundo da panela com a espátula para dissolver os queimadinhos — isso dá mais sabor ao preparo.
 - Escorra a água do grão-de-bico e adicione os grãos à panela. Junte a cenoura, o restante da água e tempere com 1½ colher (chá) de sal. Tampe a panela e leve ao fogo alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 20 minutos.
-- --
 
 ---
 

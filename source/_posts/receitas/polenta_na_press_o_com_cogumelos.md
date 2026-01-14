@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - tradicional
+  - popular
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -38,7 +39,6 @@ flags: []
 - salsinha picada grosseiramente a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com o azeite, adicione o alho e mexa por 1 minuto para perfumar. Junte os cogumelos, tempere com sal e pimenta a gosto e refogue por 2 minutos, até ficarem macios e levemente dourados. Desligue o fogo e misture a salsinha picada. Transfira para uma tigela e reserve enquanto finaliza a polenta.
-- --
 
 ---
 

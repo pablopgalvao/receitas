@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 60 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - Azeite a gosto
 - Pimenta-do-reino a gosto
@@ -50,7 +50,6 @@ flags: []
 - Adicione a farinha e o parmesão. Bata por mais 1 minuto ou até a massa ficar bem lisinha. Desligue o liquidificador, coloque o fermento e misture com uma colher, apenas para incorporar;
 - Unte uma forma média (35 cm de altura por 25 cm de largura) com óleo e farinha de trigo. Despeje metade da massa;
 - Despeje o restante da massa por cima do recheio. Salpique parmesão ralado e leve ao forno preaquecido a 200 °C por cerca de 40 minutos;
-- --
 
 ---
 

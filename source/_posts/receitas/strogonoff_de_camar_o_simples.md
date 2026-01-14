@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - rápido
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 500 gramas camarão
 - 1/2 colher de sopa de sal (ou a gosto)
@@ -38,7 +38,6 @@ flags: []
 - 1 colher de sopa de salsinha e cebolinha
 - Junte em uma bancada os ingredientes para preparar essa receita. Para facilitar o passo a passo, deixe a cebola, o alho, a salsinha e a cebolinha picados;
 - Assim que o molho estiver reduzido e mais cremoso, adicione o creme de leite e misture. Por fim, coloque a salsinha e a cebolinha picadas e incorpore;
-- --
 
 ---
 

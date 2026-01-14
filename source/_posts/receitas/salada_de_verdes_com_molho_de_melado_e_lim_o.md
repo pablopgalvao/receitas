@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - popular
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -35,7 +36,6 @@ flags: []
 - Num pote de vidro com tampa, junte o melado de cana com as raspas e caldo de limão, o azeite, o alho e uma pitada de sal. Feche e chacoalhe bem para misturar.
 - Retire as folhas da água em vez de escorrer — assim as sujeirinhas ficam no fundo da tigela. Enxágue sob água corrente e seque bem numa centrífuga para saladas.
 - Com as mãos, rasgue as folhas em pedaços de cerca de 5 cm. Transfira para uma travessa e regue o molho. Experimente servir esta salada como acompanhamento do escondidinho de mandioca com costela desfiada.
-- --
 
 ---
 

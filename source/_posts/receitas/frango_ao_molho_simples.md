@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - tradicional
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 85 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 kg de frango em pedaços com pele e osso
 - 1 colher de sopa de suco de limão
@@ -40,7 +40,6 @@ flags: []
 - Cheiro-verde a gosto
 - Em uma tigela, tempere o frango. Coloque o sal, pimenta, páprica e limão. Misture com as mãos para pegar em todos os pedaços e deixe descansar por 20 minutos para marinar;
 - Finalize com cheiro-verde picadinho e acerte o sal, se sentir necessidade. Sirva com um arroz quentinho e uma farofa simples!
-- --
 
 ---
 

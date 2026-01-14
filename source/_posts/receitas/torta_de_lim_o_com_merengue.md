@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - prático
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -44,7 +45,6 @@ flags: []
 - 1 xícara (chá) de açúcar
 - Numa tigela de vidro refratário coloque as claras e o açúcar. Encaixe a tigela na panela e mexa com um batedor de arame por 4 minutos, até ficar liso – atenção para o ponto, com uma colher retire uma porção da mistura e com a ponta dos dedos verifique se as claras estão aquecidas e sem grãozinhos de açúcar.
 - Desenforme e transfira a base da torta para um prato grande. Preencha o fundo da torta com o creme de limão, nivelando com as costas de uma colher. Com duas colheres, distribua o merengue no centro da torta formando picos, para dar um aspecto mais rústico. Com o maçarico, queime o merengue para ficar bem dourado (se preferir, você pode deixar a torta branquinha, sem queimar). Sirva a seguir.
-- --
 
 ---
 

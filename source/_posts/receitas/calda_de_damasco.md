@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - prático
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -32,7 +33,6 @@ flags: []
 - 1 xícara (chá) de caldo de laranja
 - 2 xícaras (chá) de água
 - Assim que ferver, abaixe o fogo e deixe cozinhar com a tampa entreaberta por cerca de 30 minutos, até formar uma calda rústica – mexa de vez em quando, pressionando os damascos com as costas da colher para desmanchar.
-- --
 
 ---
 

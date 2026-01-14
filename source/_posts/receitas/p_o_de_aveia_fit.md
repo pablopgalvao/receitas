@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - prático
+  - fácil
+  - caseiro
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 130 gramas de iogurte grego tradicional
 - 40 gramas de aveia grossa
@@ -38,7 +38,6 @@ flags: []
 - Reúna todos os ingredientes em sua bancada. Quebre os ovos separadamente para verificar se estão bons;
 - Em uma tigela, bata bem os ovos até ficarem homogêneos. Acrescente o sal, a manteiga e o iogurte grego. Bata novamente até incorporar;
 - Forre uma forma com papel-manteiga e despeje a massa, espalhando até obter uma espessura média, nem muito fina nem muito grossa. Se desejar, faça marcações superficiais com uma faca;
-- --
 
 ---
 

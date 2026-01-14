@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - rápido
+  - saudável
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -40,7 +41,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora
 - Lave, seque e pique fino as folhas de hortelã. Coloque o alho no pilão e dê uma leve batida para descascar. Adicione as sementes de coentro, tempere com uma pitada de sal e bata bem até formar uma pastinha.
 - Transfira para uma tigela, junte o iogurte, a hortelã, o azeite e misture bem. Prove e ajuste o sal.
-- --
 
 ---
 

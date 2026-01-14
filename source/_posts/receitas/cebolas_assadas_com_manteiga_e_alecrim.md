@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - fácil
+  - caseiro
+  - brasil
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -36,7 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - Lave, seque e corte o topo de cada cebola. Descarte apenas a primeira camada de casca e corte uma fatia fina da base, mantendo a raiz, apenas para cada cebola ficar de pé. Corte a manteiga em seis cubinhos.
 - Disponha as cebolas numa assadeira, uma ao lado da outra, com a parte cortada para cima. Tempere generosamente com sal e pimenta-do-reino e coloque folhas de alecrim e 1 cubo de manteiga sobre cada uma.
-- --
 
 ---
 

@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - popular
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 120 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 frango fresco (peso aproximado 1,5 kg)
 - 1 colher de chá de sal marinho ou fino
@@ -50,7 +50,6 @@ flags: []
 - Após os primeiros 15 minutos, retire a assadeira do forno e pincele mais a mistura de manteiga, limão e mel com o frango virado (a parte de baixo deve estar exposta para caramelizar);
 - Enquanto espera, em uma frigideira, coloque as polpas de maracujá, o açúcar e as fatias de gengibre. Cozinhe em fogo médio para baixo por cerca de 10 minutos ou até o açúcar dissolver completamente;
 - Retire o frango do forno, corte os barbantes e está pronto para servir. Decore com os temperos, o alho assado e 1 limão-siciliano cortado ao meio e sirva ele com o molho de maracujá, arroz, salada e farofa. Bom apetite!
-- --
 
 ---
 

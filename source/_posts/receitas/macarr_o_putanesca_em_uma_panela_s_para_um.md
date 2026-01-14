@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - brasil
+  - popular
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,12 +20,11 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 3 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
@@ -34,7 +35,6 @@ flags: []
 - 1 pitada de sal
 - 1 pitada de pimenta calabresa seca
 - Leve uma panela pequena ao fogo médio. Quando aquecer, regue com o azeite, junte a cebola e o sal e refogue por 3 minutos, até dourar. Adicione os filés de anchova e o alho e cozinhe por mais 1 minuto, sem parar de mexer.
-- --
 
 ---
 

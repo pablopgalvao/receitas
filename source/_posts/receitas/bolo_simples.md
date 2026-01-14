@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - tradicional
+  - caseiro
+  - saudável
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 50 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1 e 1/2 xícara de chá de açúcar (240 gramas)
 - 1/2 xícara de chá de óleo (110 ml)
@@ -42,7 +42,6 @@ flags: []
 - Acrescente o óleo, o sal e a baunilha. Misture e bata por mais 1 minuto;
 - Despeje a farinha e o fermento e vá misturando, cuidadosamente, até tudo incorporar. Não bata com rapidez e nem por muito tempo, pois isso ativa o glúten do trigo;
 - Transfira a massa para uma forma untada com manteiga e enfarinhada. Leve ao forno preaquecido a 180 ºC por cerca de 40, ou até dourar (espete um palito de dente, se ele sair limpo, o bolo assou);
-- --
 
 ---
 

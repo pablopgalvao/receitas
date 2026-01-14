@@ -4,7 +4,9 @@ date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
 tags:
-  - null
+  - saudável
+  - rápido
+  - tradicional
 ingredients:
   list: []
 difficulty: ''
@@ -18,16 +20,14 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Receitas
+- **Categoria:** Novidades
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 70 min
 - **Calorias:** 
-
 ---
 
 ## 🧄 Ingredientes
-
 
 - 1,5 kg de costela bovina
 - 1 colher de sopa de sal (ou a gosto)
@@ -42,7 +42,6 @@ flags: []
 - Em fogo médio, aqueça uma panela de pressão com um fio de óleo. Em pequenas porções, para não soltar muita água, sele todos os lados das costelas até ficarem douradinhas. Reserve em um prato;
 - Na mesma panela, adicione mais um fio de óleo e refogue a cebola até dourar. Despeje um pouquinho de água, misture bem e raspe o fundo para a cebola pegar todo o sabor do refogado da carne;
 - Quando a pressão sair, verifique se a carne e mandioca estão macias, se não estiver, cozinhe por mais alguns minutos com a panela aberta. Salpique folhas de salsinha fresca. Bom apetite!
-- --
 
 ---
 

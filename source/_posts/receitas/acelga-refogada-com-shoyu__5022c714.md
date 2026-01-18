@@ -36,9 +36,6 @@ flags: []
 - 1/3 de xícara de chá de shoyu (80 ml)
 - 1/2 colher de chá de pimenta-do-reino (ou a gosto)
 - Gergelim a gosto para decorar (opcional)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

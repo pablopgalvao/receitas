@@ -33,9 +33,6 @@ flags: []
 - 1/2 xícara de açúcar mascavo
 - 2 colheres de sopa de cacau em pó
 - 1 xícara de água
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

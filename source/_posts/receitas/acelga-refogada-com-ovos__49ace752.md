@@ -36,9 +36,6 @@ flags: []
 - 1/2 colher de chá de sal (ou a gosto)
 - 1/2 colher de chá de açúcar (ou a gosto)
 - 2 colheres de sopa de água
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

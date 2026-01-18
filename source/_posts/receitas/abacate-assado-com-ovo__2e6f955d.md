@@ -36,9 +36,6 @@ flags: []
 - 2 ovos
 - Sal e pimenta-do-reino a gosto (ou outros temperos que preferir)
 - Cheiro-verde a gosto para finalizar
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

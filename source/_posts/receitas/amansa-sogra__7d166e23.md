@@ -33,9 +33,6 @@ flags: []
 - 1 pacotinho de suco em pó sabor abacaxi
 - 100 gramas de coco ralado
 - 50 gramas de coco em flocos ou ralado a gosto para finalizar
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -36,9 +36,6 @@ flags: []
 - 2 dentes de alho picado
 - 1 cebola picadinha
 - Cheiro-verde picadinho a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

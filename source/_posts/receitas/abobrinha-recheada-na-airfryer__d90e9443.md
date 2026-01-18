@@ -42,9 +42,6 @@ flags: []
 - 1/2 colher de chá de noz-moscada (ou a gosto)
 - 1/2 colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

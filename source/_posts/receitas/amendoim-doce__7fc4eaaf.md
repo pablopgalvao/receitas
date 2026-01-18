@@ -32,9 +32,6 @@ flags: []
 - 1½ xícara (chá) de açúcar
 - ½ xícara (chá) de água
 - 1 colher (chá) de fermento em pó
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

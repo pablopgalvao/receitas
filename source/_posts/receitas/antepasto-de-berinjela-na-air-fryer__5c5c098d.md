@@ -43,9 +43,6 @@ flags: []
 - 1 xícara de chá de uva passa (opcional)
 - 1 xícara de chá de azeitonas (opcional)
 - Pimenta-do-reino a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

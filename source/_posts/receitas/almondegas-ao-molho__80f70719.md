@@ -37,9 +37,6 @@ flags: []
 - 1/2 pimentão vermelho
 - 2 xícaras de chá de água (500 ml)
 - 1/2 colher de chá de orégano ou a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -36,9 +36,6 @@ flags: []
 - 1 ramo de alecrim fresco
 - 3 dentes de alho (com casca e amassados com uma faca)
 - Azeite a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

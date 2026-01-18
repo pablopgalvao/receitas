@@ -31,9 +31,6 @@ flags: []
 - 6 colheres de sopa de café moído para prensa francesa (moagem média-grossa)
 - 300 ml de água filtrada
 - 8 bolas de sorvete de baunilha ou de leite
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

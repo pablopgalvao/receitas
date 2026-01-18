@@ -33,9 +33,6 @@ flags: []
 - 1 abóbora cortada em meia-lua
 - Sal, azeite e canela a gosto
 - Pimenta calabresa e alecrim a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -39,9 +39,6 @@ flags: []
 - Alho espremido
 - Cebola picada a gosto
 - Sal, pimenta-do-reino, orégano, coentro e creme de cebola a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

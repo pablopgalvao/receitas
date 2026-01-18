@@ -31,9 +31,6 @@ flags: []
 - 1 abobrinha grande
 - 1 ovo
 - 50 gramas de queijo parmesão ralado para empanar
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

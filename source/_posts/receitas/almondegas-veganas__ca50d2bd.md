@@ -40,9 +40,6 @@ flags: []
 - Pimenta-do-reino a gosto
 - Salsinha picada a gosto
 - Farinha de trigo para dar liga
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

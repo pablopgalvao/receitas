@@ -38,9 +38,6 @@ flags: []
 - 2 xícaras de chá de polpa de tomate
 - 3 colheres de sopa de queijo parmesão ralado para finalizar
 - 2 ramos de manjericão fresco
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

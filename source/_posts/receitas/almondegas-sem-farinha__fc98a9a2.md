@@ -35,9 +35,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 1 colher de chá de salsinha (ou a gosto)
 - 2 colheres de sopa de azeite (ou a gosto)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

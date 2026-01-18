@@ -38,9 +38,6 @@ flags: []
 - 400 gramas de peito de frango desfiado
 - Sal e pimenta-do-reino a gosto
 - 100 gramas de queijo parmesão ralado
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

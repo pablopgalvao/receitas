@@ -34,9 +34,6 @@ flags: []
 - 1/2 colher de café de sal (ou a gosto)
 - 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
 - 1/2 xícara de chá de água (120 ml)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

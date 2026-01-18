@@ -34,9 +34,6 @@ flags: []
 - 100 gramas de mussarela
 - 100 gramas de parmesão
 - Temperos a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

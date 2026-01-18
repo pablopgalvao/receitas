@@ -40,9 +40,6 @@ flags: []
 - Orégano a gosto
 - Azeite a gosto
 - Pimenta a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

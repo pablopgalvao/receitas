@@ -36,9 +36,6 @@ flags: []
 - ½ colher (chá) de pimenta calabresa
 - 3 ramos de alecrim
 - ½ colher (chá) de sal
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

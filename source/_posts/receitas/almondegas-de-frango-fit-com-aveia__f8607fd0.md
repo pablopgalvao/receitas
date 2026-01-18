@@ -39,9 +39,6 @@ flags: []
 - Cebolinha a gosto
 - Páprica doce a gosto
 - Água
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

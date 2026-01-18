@@ -40,9 +40,6 @@ flags: []
 - 1/2 colher de café de páprica doce (ou a gosto)
 - 1/2 colher de café de sal (ou a gosto)
 - Cebolinha a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

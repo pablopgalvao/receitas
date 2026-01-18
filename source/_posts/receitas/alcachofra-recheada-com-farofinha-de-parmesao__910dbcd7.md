@@ -40,9 +40,6 @@ flags: []
 - 4 ramos de salsinha
 - sal e pimenta-do-reino moída na hora a gosto
 - gomo de limão-siciliano a gosto para servir
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -40,9 +40,6 @@ flags: []
 - 2 colheres de sopa de parmesão light
 - 1 ovo
 - Molho de tomate a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

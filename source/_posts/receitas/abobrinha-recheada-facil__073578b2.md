@@ -41,9 +41,6 @@ flags: []
 - 2 tomates picados
 - Cheiro verde a gosto
 - 50 gramas de parmesão ralado
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

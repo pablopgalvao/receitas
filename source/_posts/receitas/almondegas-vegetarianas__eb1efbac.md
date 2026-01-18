@@ -39,9 +39,6 @@ flags: []
 - 1/2 xícara de chá de queijo parmesão ralado (100 gramas)
 - 1 xícara de chá de molho de tomate (200 gramas)
 - 1/2 xícara de chá de leite de coco (120 ml)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

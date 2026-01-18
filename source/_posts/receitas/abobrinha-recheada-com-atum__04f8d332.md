@@ -39,9 +39,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 3 abobrinhas
 - Queijo parmesão ralado a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

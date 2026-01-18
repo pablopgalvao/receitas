@@ -32,9 +32,6 @@ flags: []
 - 3 colheres de sopa de manteiga (em ponto de pomada ou derretida)
 - 3 dentes de alho ralado ou amassado
 - 3 colheres de sopa de sal ou sal de parrilla
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

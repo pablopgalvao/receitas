@@ -36,9 +36,6 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - Farinha de trigo para empanar
 - 1 ovo levemente batido
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

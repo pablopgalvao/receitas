@@ -34,9 +34,6 @@ flags: []
 - 1/2 colher de chá de páprica defumada (ou a gosto)
 - 1/2 colher de chá de tomilho desidratado (ou a gosto)
 - 1 colher de sopa de vinagre (qualquer tipo de vinagre)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

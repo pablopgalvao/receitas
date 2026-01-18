@@ -44,9 +44,6 @@ flags: []
 - 2 colheres de sopa de manjericão picado
 - 1 colher de sopa de vinagre balsâmico
 - Azeite para finalizar
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

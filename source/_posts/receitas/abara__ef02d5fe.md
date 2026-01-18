@@ -34,9 +34,6 @@ flags: []
 - 1 cebola grande picada (160 gramas)
 - 1 pimenta-de-cheiro em rodelas
 - Coentro a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

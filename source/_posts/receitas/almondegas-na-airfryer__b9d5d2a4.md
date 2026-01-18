@@ -38,9 +38,6 @@ flags: []
 - 2 colheres de sopa de farinha de trigo (ou farinha de rosca)
 - Outros temperos que você preferir a gosto
 - Azeite a gosto
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -33,9 +33,6 @@ flags: []
 - 1/2 colher de sopa de orégano
 - 1/2 colher de chá de sal (ou a gosto)
 - 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

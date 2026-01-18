@@ -35,9 +35,6 @@ flags: []
 - 2/3 colher de chá de pimenta-do-reino (ou a gosto)
 - Azeite de oliva a gosto
 - 3 ramos de tomilho fresco (opcional)
-- --
-- --
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

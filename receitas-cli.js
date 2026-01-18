@@ -1,19 +1,76 @@
 /**
  * receitas-cli.js
- * Organiza receitas em source/_drafts/receitas e/ou source/_posts/receitas
+ * Organiza/analisa receitas em source/_drafts/receitas e source/_posts/receitas
  *
- * Modos:
- *  --audit    => só analisa, não altera
- *  --autofix  => padroniza esqueleto SEM perder informação
- *  --review   => revisão interativa para ingredients.list (canônicos)
+ * MODOS DISPONÍVEIS
+ *  --audit          => Só analisa e reporta. Não altera arquivos.
+ *  --autofix        => Padroniza o esqueleto SEM perder informação (front-matter + corpo).
+ *  --review         => Revisão INTERATIVA para construir/ajustar ingredients.list (canônicos).
+ *  --dedupe-titles  => Detecta títulos duplicados (exatos) e move duplicatas de _posts para _drafts.
+ *  --tags-only      => Atualiza APENAS as tags no front-matter (sem tocar corpo/categorias).
  *
- * Alvo:
- *  --drafts | --posts | --all
+ * SELEÇÃO DE ALVOS
+ *  --drafts         => Processa apenas source/_drafts/receitas
+ *  --posts          => Processa apenas source/_posts/receitas
+ *  --all            => Processa ambos (padrão se nenhum alvo for especificado)
  *
- * Extras:
- *  --defer        => se precisar decisão, pula e marca flag "needs_review"
- *  --limit N      => processa no máximo N arquivos
- *  --dry-run      => não grava arquivos
+ * EXTRAS E COMPORTAMENTOS
+ *  --defer          => Em casos que exigem decisão, pula e marca flag "needs_review" no front-matter.
+ *  --limit N        => Processa no máximo N arquivos. Útil para rodadas parciais.
+ *  --dry-run        => Simula a execução sem gravar alterações em disco.
+ *
+ * DETALHES POR MODO
+ *  audit:
+ *    - Valida: título, tempo, dificuldade, ingredientes completos (corpo/YAML) e passos.
+ *    - Sinaliza suspeitos (linhas que parecem menu/relacionados/etapas) e possíveis fontes inválidas.
+ *    - Imprime um resumo final com contagens (ok, needsReview, invalid, missingIngredients, missingSteps).
+ *
+ *  autofix:
+ *    - Preserva TODO o conteúdo e reorganiza no template padrão (Informações, Ingredientes, Modo de Preparo).
+ *    - Normaliza tempo (ex.: "18min" -> "18 min"). Sugere tags se ausentes.
+ *    - Não remove nada: apenas marca flags (invalid_source, needs_review) quando necessário.
+ *    - Respeita --defer e --dry-run.
+ *
+ *  review:
+ *    - Usa os ingredientes completos do corpo (ou YAML array) para sugerir canônicos em ingredients.list.
+ *    - Interativo: aceitar sugestão [a], editar [e], pular [p], adiar arquivo [d].
+ *    - Não altera a lista completa do corpo; atualiza apenas o front-matter.
+ *
+ *  dedupe-titles:
+ *    - Agrupa arquivos por título EXATO (posts + drafts).
+ *    - Para cada grupo com duplicatas, move os que estão em _posts para _drafts (evita conflito em publicação).
+ *    - Respeita --limit e --dry-run.
+
+ *  tags-only:
+ *    - Atualiza somente o campo `tags` do front-matter.
+ *    - Com `--set-tags "t1,t2"` define tags específicas (mescla por padrão).
+ *    - Use `--replace-tags` para substituir completamente as tags existentes.
+ *    - Sem `--set-tags`, preenche tags AUSENTES com base no título (regras internas).
+ *
+ * EXEMPLOS RÁPIDOS (Windows/PowerShell)
+ *  # Auditar tudo, limitando a 50 arquivos
+ *  node .\receitas-cli.js --audit --all --limit 50
+ *
+ *  # Padronizar somente posts, simulando sem salvar
+ *  node .\receitas-cli.js --autofix --posts --dry-run
+ *
+ *  # Padronizar drafts, marcando casos ambíguos como needs_review
+ *  node .\receitas-cli.js --autofix --drafts --defer
+ *
+ *  # Revisar canônicos interativamente nos drafts, até 10 arquivos
+ *  node .\receitas-cli.js --review --drafts --limit 10
+ *
+ *  # Deduplicar títulos e mover duplicatas de _posts para _drafts
+ *  node .\receitas-cli.js --dedupe-titles --all
+
+ *  # Incluir apenas tags nos posts com valores específicos (sem alterar corpo/categorias)
+ *  node .\receitas-cli.js --tags-only --posts --set-tags "saudável,rápido" --limit 50
+
+ *  # Preencher somente tags ausentes nos posts (sugeridas pelo título), em dry-run
+ *  node .\receitas-cli.js --tags-only --posts --dry-run --limit 30
+
+ *  # Substituir completamente as tags existentes pelos valores informados
+ *  node .\receitas-cli.js --tags-only --posts --set-tags "massa,italia" --replace-tags
  */
 
 const fs = require("fs");
@@ -28,6 +85,7 @@ const MODE_AUDIT = process.argv.includes("--audit");
 const MODE_AUTOFIX = process.argv.includes("--autofix");
 const MODE_REVIEW = process.argv.includes("--review");
 const MODE_DEDUPE_TITLES = process.argv.includes("--dedupe-titles");
+const MODE_TAGS_ONLY = process.argv.includes("--tags-only");
 
 const TARGET_DRAFTS = process.argv.includes("--drafts");
 const TARGET_POSTS = process.argv.includes("--posts");
@@ -39,8 +97,13 @@ const DRY_RUN = process.argv.includes("--dry-run");
 const LIMIT_IDX = process.argv.findIndex((a) => a === "--limit");
 const LIMIT = LIMIT_IDX !== -1 ? parseInt(process.argv[LIMIT_IDX + 1], 10) : Infinity;
 
-if (!MODE_AUDIT && !MODE_AUTOFIX && !MODE_REVIEW && !MODE_DEDUPE_TITLES) {
-  console.log("Use um modo: --audit ou --autofix ou --review ou --dedupe-titles");
+// Parâmetros para modo tags-only
+const SET_TAGS_IDX = process.argv.findIndex((a) => a === "--set-tags");
+const SET_TAGS_RAW = SET_TAGS_IDX !== -1 ? process.argv[SET_TAGS_IDX + 1] : null;
+const REPLACE_TAGS = process.argv.includes("--replace-tags");
+
+if (!MODE_AUDIT && !MODE_AUTOFIX && !MODE_REVIEW && !MODE_DEDUPE_TITLES && !MODE_TAGS_ONLY) {
+  console.log("Use um modo: --audit ou --autofix ou --review ou --dedupe-titles ou --tags-only");
   process.exit(1);
 }
 
@@ -725,6 +788,46 @@ async function reviewCanonicalForFile(parsed, raw) {
         console.log(`✅ review: ${path.relative(process.cwd(), filePath)}`);
       } else {
         console.log(`(nada) ${path.relative(process.cwd(), filePath)} - ${res.reason || "sem mudanças"}`);
+      }
+      continue;
+    }
+
+    // Modo: Atualizar apenas tags
+    if (MODE_TAGS_ONLY) {
+      const data = parsed.data || {};
+
+      // tags existentes
+      const existing = normalizeArray(data.tags).map((t) => String(t).toLowerCase());
+
+      // tags definidas pelo usuário via --set-tags
+      let setTagsArr = [];
+      if (SET_TAGS_RAW) {
+        setTagsArr = String(SET_TAGS_RAW)
+          .split(/,|\r?\n/)
+          .map((s) => s.trim().toLowerCase())
+          .filter(Boolean);
+      }
+
+      let newTags;
+      if (setTagsArr.length) {
+        newTags = REPLACE_TAGS ? setTagsArr : Array.from(new Set([...existing, ...setTagsArr]));
+      } else {
+        // sem set-tags: apenas sugere se estiver vazio ou null
+        if (existing.length === 0 || (existing.length === 1 && existing[0] === null)) {
+          newTags = suggestTags(data.title);
+        } else {
+          newTags = existing;
+        }
+      }
+
+      const updatedData = { ...data, tags: newTags };
+      const out = matter.stringify(parsed.content || raw, updatedData);
+
+      if (DRY_RUN) {
+        console.log(`(dry-run) tags-only: ${path.relative(process.cwd(), filePath)}`);
+      } else {
+        fs.writeFileSync(filePath, out, "utf8");
+        console.log(`✅ tags-only: ${path.relative(process.cwd(), filePath)}`);
       }
       continue;
     }

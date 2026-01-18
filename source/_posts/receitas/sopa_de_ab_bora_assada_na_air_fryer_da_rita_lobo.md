@@ -2,7 +2,7 @@
 title: Sopa de abóbora assada na Air Fryer da Rita Lobo
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - tradicional
   - brasil
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min

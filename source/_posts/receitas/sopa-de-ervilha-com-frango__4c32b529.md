@@ -2,7 +2,7 @@
 title: Sopa de ervilha com frango
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - Novo
 ingredients:
@@ -18,7 +18,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 4 porções
 - **Tempo de preparo:** 60 min

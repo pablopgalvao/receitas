@@ -2,7 +2,7 @@
 title: Sopa de tomate de forno
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - prático
   - saudável
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min

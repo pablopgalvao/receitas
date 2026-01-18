@@ -2,7 +2,7 @@
 title: Sopa de abóbora com gengibre
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - oriental
   - prático
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min

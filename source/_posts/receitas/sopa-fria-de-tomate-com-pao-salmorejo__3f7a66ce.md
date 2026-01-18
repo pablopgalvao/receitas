@@ -2,7 +2,7 @@
 title: Sopa fria de tomate com pão (salmorejo)
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - Novo
 ingredients:
@@ -24,7 +24,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 24 hora

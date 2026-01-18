@@ -2,7 +2,7 @@
 title: Sopa de carne moída com macarrão e legumes
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - Novo
 ingredients:
@@ -21,7 +21,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 6 porções
 - **Tempo de preparo:** 30 min

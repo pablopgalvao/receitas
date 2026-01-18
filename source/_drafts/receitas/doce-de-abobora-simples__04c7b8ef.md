@@ -1,0 +1,43 @@
+---
+title: Doce de abóbora simples
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 50 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Doce de abóbora simples](/images/doce-de-abobora-simples__04c7b8ef_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 50 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 3,8 kg de abóbora pescoço
+- 1 kg de açúcar refinado
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Separe os ingredientes para preparar esse doce. Corte a abóbora em fatias, depois em cubos, para facilitar o processo. Retire as sementes e a casca;
+2. Coloque a abóbora e o açúcar numa panela. Leve ao fogo médio e vá mexendo com uma colher. Não é necessário adicionar água, pois a abóbora soltará líquido;
+3. Tampe a panela pela metade para o líquido não subir, e mexa de vez em quando, para não empelotar;
+4. Desfaça os pedaços de abóbora com um amassador de batatas até que a água reduza bem e o doce fique mais sequinho;
+5. Está pronto! Agora é só consumir puro ou com um queijo branco fresco. Aproveite!

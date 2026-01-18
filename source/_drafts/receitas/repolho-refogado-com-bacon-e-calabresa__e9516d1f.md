@@ -1,0 +1,57 @@
+---
+title: Repolho refogado com bacon e calabresa
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - sal
+    - pimentadoreino
+    - salsinha
+    - cebolinha
+difficulty: ''
+servings: 5 porções
+time: 25 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Repolho refogado com bacon e calabresa](/images/repolho-refogado-com-bacon-e-calabresa__e9516d1f_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 5 porções
+- **Tempo de preparo:** 25 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 fio de azeite
+- 1/2 xícara de chá de bacon picado
+- 1/2 xícara de chá de calabresa picada
+- 1/2 cebola picada
+- 2 dentes de alho amassados
+- Sal a gosto
+- Pimenta-do-reino a gosto
+- 1/2 repolho grande picado
+- Salsinha a gosto
+- Cebolinha a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Separe os ingredientes para preparar a receita;
+2. Em uma panela, adicione um fio de azeite. Frite o bacon e a calabresa;
+3. Quando já estiverem fritinhos, adicione a cebola, o alho e refogue;
+4. Depois, acrescente o açafrão, o sal, a pimenta e misture;
+5. Coloque o repolho e vá mexendo até ele murchar. Não deixe refogar demais para não perder a crocância;
+6. Transfira para uma travessa e finalize com a salsinha e cebolinha;
+7. Sirva com arroz branco e aproveite!

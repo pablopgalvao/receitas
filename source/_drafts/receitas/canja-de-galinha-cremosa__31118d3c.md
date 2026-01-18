@@ -1,0 +1,63 @@
+---
+title: Canja de galinha cremosa
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - sal
+    - paprica
+    - acafrao
+    - cebolinha
+    - azeite
+difficulty: ''
+servings: 4 porções
+time: 25 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Canja de galinha cremosa](/images/canja-de-galinha-cremosa__31118d3c_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 4 porções
+- **Tempo de preparo:** 25 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 filé de frango
+- 1 cebola pequena
+- 2 dentes de alho
+- Sal a gosto
+- Páprica a gosto
+- Açafrão a gosto
+- 1 folha de louro
+- 1 cenoura grande
+- 2 batatas
+- 1/2 xícara de chá de arroz cru
+- Cebolinha a gosto
+- Azeite a gosto
+- 800 ml de água para cozinhar
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Junte os ingredientes desse preparo quentinho! Corte o frango em cubos médios. Pique o alho e a cebola finamente. Descasque a cenoura e as batatas, e deixe 1 batata inteira, assim como metade da cenoura, e pique o restante em cubinhos. Pique a cebolinha finamente e reserve;
+2. Aqueça um fio de azeite na panela de pressão. Adicione o frango em cubos e tempere com sal, páprica e açafrão. Refogue até dourar bem os pedaços;
+3. Acrescente o alho e a cebola picadinhos. Mexa por 1 a 2 minutos e adicione a cenoura inteira, a batata inteira e a folha de louro;
+4. Despeje a água na panela, tampe e leve ao fogo alto. Quando começar a chiar, abaixe o fogo e cozinhe por cerca de 10 minutos;
+5. Desligue o fogo e deixe a pressão sair naturalmente. Abra a panela e retire a cenoura e a batata inteiras, além de uma concha do caldo. Coloque no liquidificador (ou um mixer) e bata até formar um creme. Reserve;
+6. Ainda com a panela aberta, adicione os legumes picados e o arroz cru. Tampe novamente, leve ao fogo e, após pegar pressão, cozinhe por mais 3 minutos;
+7. Desligue o fogo, retire a pressão e destampe. Adicione o creme batido e misture bem para engrossar;
+8. Cozinhe por mais alguns minutos com a panela aberta, em fogo baixo, até que o arroz e os legumes estejam totalmente macios;
+9. Ajuste o sal se necessário. Desligue o fogo e finalize com a cebolinha picada para um toque de frescor. E pronto! Uma canja cremosa, nutritiva e reconfortante.

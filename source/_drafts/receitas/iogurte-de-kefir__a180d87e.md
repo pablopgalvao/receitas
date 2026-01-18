@@ -1,0 +1,46 @@
+---
+title: Iogurte de kefir
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 30 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Iogurte de kefir](/images/iogurte-de-kefir__a180d87e_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 colher de sopa (cheia) de grão de kefir
+- 500 ml de leite integral
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. O kefir pode ser cultivado e doado para outras pessoas. Além dos grãos, coloque os outros ingredientes e um pote grande na bancada para começar o preparo;
+2. Para esterilizar o pote onde o iogurte será feito, coloque a água em uma panela e, quando ela ferver, deixe o vidro submergido por aproximadamente 15 minutos;
+3. Descarte a água, retire o vidro cuidadosamente e deixe-o em um pano limpo até esfriar. Esterilize também a peneira e colher de plástico ou de madeira que for usar (não se deve utilizar metal);
+4. Em seguida, coloque os grãos no recipiente de vidro e cubra com 100 ml de leite em temperatura ambiente (nem quente e muito menos gelado). Depois, adicione o açúcar e misture com a colher.
+5. Tampe o recipiente com um pano limpo e elástico por volta (não pode utilizar a tampa). Leve para o armário, sem luz, por cerca de 24 horas e no máximo 2 dias;
+6. Após fermentar, retire o elástico e o pano. Utilize uma peneira de plástico para coar o seu iogurte;
+7. Descarte esse leite da primeira fermentação e siga o mesmo processo para fazer o iogurte. Coloque o kefir no vidro novamente esterilizado e acrescente 500 ml de leite. Tampe e deixe fermentar por 24 a 48 horas;
+8. Por fim, coe seu iogurte de kefir, que deverá ter ganhado uma consistência cremosa. Sirva um preparo cheio de saúde!

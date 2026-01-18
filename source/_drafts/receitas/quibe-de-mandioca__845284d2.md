@@ -1,0 +1,61 @@
+---
+title: Quibe de mandioca
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - sal
+    - pimentadoreino
+    - pimenta
+    - paprica
+difficulty: ''
+servings: ''
+time: 175 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Quibe de mandioca](/images/quibe-de-mandioca__845284d2_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 175 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 500 gramas de carne moída
+- 1 tomate pequeno
+- 1/2 cebola média
+- 2 dentes de alho
+- Sal a gosto
+- Pimenta-do-reino a gosto
+- Pimenta calabresa a gosto
+- Páprica defumada a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Para começar, organize todos os ingredientes em sua bancada! Descasque o alho e a cebola. Pique o alho finamente, corte a cebola e o tomate em cubinhos pequenos;
+2. Descasque a mandioca e corte em pedaços médios. Coloque em uma panela com água e sal e cozinhe por 15 minutos na pressão, até ficar macia;
+3. Em uma panela, coloque a carne moída e refogue com o alho. Tempere com sal, pimenta-do-reino e demais temperos a gosto;
+4. Acrescente o tomate e a cebola em cubinhos e refogue bem por 10 minutos, até murcharem. Reserve o recheio;
+5. Em seguida, escorra a mandioca cozida e, ainda quente, retire os fiapos centrais;
+6. Transfira para uma tigela e amasse bem com um garfo até formar um purê liso;
+7. Depois, acrescente a margarina e ajuste o sal, misturando até obter uma massa uniforme;
+8. Umedeça levemente as mãos com água, pegue pequenas porções da massa e modele bolinhas (cuidado para não se queimar);
+9. Abra cada bolinha na palma da mão, coloque uma porção do recheio de carne moída e feche, modelando em formato de quibe ou coxinha;
+10. Agora, quebre os ovos em uma tigela e bata levemente com um garfo até que formem uma mistura homogênea;
+11. Passe os bolinhos no ovo batido e depois na farinha de rosca;
+12. Aqueça o óleo em uma panela média até ficar bem quente. Frite os bolinhos aos poucos até dourarem;
+13. Retire com uma escumadeira, escorra em papel-toalha e sirva em seguida. Bom apetite!

@@ -1,0 +1,51 @@
+---
+title: Homus de avocado
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - suco
+    - meia
+    - sal
+    - azeite
+difficulty: ''
+servings: 1 porções
+time: 20 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Homus de avocado](/images/homus-de-avocado__38f03d9f_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 1 porções
+- **Tempo de preparo:** 20 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 lata de grão-de-bico
+- 2 avocados maduros ou um abacate pequeno
+- 1/2 colher de chá de pimenta síria
+- 2 colheres de sopa de tahine
+- Suco de 2 limões
+- Meia cabeça de alho assado
+- Sal a gosto
+- Azeite de oliva a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Adicione todos os ingredientes no processador e bata até ficar cremoso.
+2. Prove, acerte o sal e está pronto.
+3. Agora é só servir. Bom apetite.

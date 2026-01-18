@@ -1,0 +1,52 @@
+---
+title: Merengue de morango com suspiro
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - morangos
+difficulty: ''
+servings: ''
+time: 150 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Merengue de morango com suspiro](/images/merengue-de-morango-com-suspiro__9d036291_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 150 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 e 1/2 pote de nata (600 gramas)
+- 3 colheres de sopa de açúcar (40 gramas)
+- 150 gramas de suspiros
+- Morangos a gosto (300 gramas)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes necessários sobre a bancada;
+2. Em uma panela, misture o leite condensado, o leite e o amido de milho (misture com um pouco do leite antes de adicioná-lo para não empelotar);
+3. Agregue a gema peneirada, o leite Ninho (também peneirado) e misture bem com uma colher ou fouet (batedor de arame);
+4. Leve ao fogo médio e mexa constantemente até a mistura ficar bem encorpada;
+5. Adicione pedaços de chocolate branco e misture bem até que, ao pegar o creme com espátula, ele forme montinhos;
+6. Desligue o fogo e acrescente o creme de leite, mexendo até ficar bem incorporado;
+7. Transfira o creme para uma travessa (26x16x6cm) e cubra com um plástico em contato para não criar película. Leve à geladeira por no mínimo 2 horas até firmar levemente;
+8. Enquanto isso, bata a nata com o açúcar na batedeira até que fique consistente e homogêneo, sem cair da colher ou espátula facilmente;
+9. Quando o creme estiver firme, retire da geladeira e cubra com os morangos inteiros;
+10. Em seguida, distribua a nata por cima dos morangos até cobri-los;
+11. Despedace os suspiros grosseiramente por cima da sobremesa e finalize com mais morangos, decorando conforme desejar!

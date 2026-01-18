@@ -1,0 +1,48 @@
+---
+title: Torresmo pururuca
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 12 porções
+time: 120 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Torresmo pururuca](/images/torresmo-pururuca__a28e5777_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 12 porções
+- **Tempo de preparo:** 120 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 kg de toucinho (barriga ou panceta)
+- 1 xícara de chá de banha
+- 1 colher de chá de sal
+- 1/8 de colher de chá de pimenta-do-reino
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Utilizamos a barriga suína para fazer o toucinho. Ela possui mais gordura, resultando em um torresmo sequinho e crocante. A panceta possui menos gordura, por isso, o torresmo fica mais carnudo. A escolha depende de seu gosto;
+2. Corte o toucinho em tiras com cerca de 3-6 cm de comprimento e 1-2 cm de espessura. Coloque as tiras em uma tigela e tempere com sal e pimenta-do-reino. Misture bem para espalhar os temperos. Deixe descansar por 15 minutos;
+3. Em uma panela grande e alta (com fundo grosso), em fogo baixo, coloque a banha para derreter. Adicione as tiras de toucinho, tampe a panela e deixe fritar, mexendo às vezes, por cerca de 1 hora;
+4. Muito cuidado ao abrir a panela, pois a gordura espirra bastante. Se preciso, retire-a do fogo para abrir e mexer. Assim que o toucinho dourar e começar a pururucar (criar bolinhas no couro), aumente o fogo e deixe fritar por 10 minutos;
+5. Com uma escumadeira, retire os toucinhos fritos da panela, coloque em um refratário e leve à geladeira por 1 hora - esse choque térmico deixará o torresmo mais crocante após a segunda fritura;
+6. Volte a panela com banha ao fogo alto e espere aquecer bastante. Coloque os toucinhos gelados e deixe fritar até pururucar por completo - o processo dura cerca de 15 minutos. Mexa às vezes para não queimar;
+7. Com uma escumadeira, retire o torresmo pururuca e deixe escorrer bem dentro de uma paneira apoiada em uma tigela, ou em um recipiente forrado com papel-toalha;
+8. Já pode servir! O torresmo pururuca no PF (prato feito) caprichado fica bom demais. Também é um ótimo petisco para acompanhar a cerveja gelada.

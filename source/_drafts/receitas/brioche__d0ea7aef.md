@@ -1,0 +1,54 @@
+---
+title: Brioche
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 6 porções
+time: 285 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Brioche](/images/brioche__d0ea7aef_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 6 porções
+- **Tempo de preparo:** 285 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 ovo médio
+- 15 ml de água
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes para fazer o brioche. Para atingir a textura mais facilmente, indicamos que a receita seja feita em uma batedeira planetária (com o gancho para pães) e que a manteiga esteja em temperatura ambiente;
+2. Para começar, é necessário ativar o fermento. Para isso, separe 50 gramas da farinha de trigo e coloque na tigela da batedeira, junte o fermento e misture levemente. Adicione a água e mexa para incorporar;
+3. Cubra com um pano umedecido e espere de 30 a 60 minutos para o fermento ativar e formar uma cúpula na superfície - se estiver frio, esse processo será mais lento;
+4. Depois que o fermento estiver ativado, remova o pano e adicione o restante da farinha de trigo, o açúcar e o sal. Misture os ingredientes com uma espátula;
+5. Quebre um ovo de cada vez em um recipiente pequeno, para confirmar que estão bons, e depois transfira para a tigela com os sólidos. Ligue a batedeira em velocidade baixa e bata por 5 minutos;
+6. Verifique a consistência da massa - ela deve estar grudenta, mas não muito mole. Caso a massa esteja muito seca, adicione o leite integral aos poucos e bata novamente por mais 5 minutos;
+7. Assim que atingir o ponto, aumente a velocidade da batedeira para média e sove por cerca de 15 minutos - faça uma pausa no meio da sova para desgrudar a massa que fica no fundo da tigela;
+8. Adicione metade da manteiga e bata na velocidade baixa por 5 minutos para incorporar. Depois, solte a massa que estiver grudada no gancho e adicione o restante da manteiga e bata por mais 5 minutos;
+9. Aumente a velocidade da batedeira e bata por cerca de 10 minutos, até que a massa descole das laterais e esteja bem elástica;
+10. Cubra com plástico filme e um pano limpo e deixe descansar em temperatura ambiente por 1 hora. Unte com manteiga uma forma para pão, passe bem a manteiga pelos cantos e bordas;
+11. Transfira a massa para uma superfície limpa e higienizada - se a massa estiver muito mole para manusear, coloque na geladeira por 15 minutos para endurecer um pouco. Com uma faca grande e lisa divida a massa em 6 porções iguais;
+12. Para modelar cada porção, coloque a parte lisa virada para baixo e junte as pontas. Vire a emenda para baixo e boleie levemente com as duas mãos. Posicione as bolinhas dentro da forma de maneira intercalada em cada lateral. Pressione levemente para caber;
+13. Cubra e deixe a massa fermentar de 30 a 60 minutos ou até que a massa quase atinja a borda da forma. Enquanto isso, preaqueça o forno a 180 ºC;
+14. Antes de levar o pão ao forno, pincele a massa: quebre o ovo em um recipiente pequeno, bata levemente e misture com um pouco de água. Remova o pano e pincele a mistura sobre a massa;
+15. Leve o pão ao forno e posicione na prateleira mais baixa. Depois de 20 minutos, abra o forno e vire a forma para assar de maneira uniforme. Deixe assar por mais 20 minutos. Retire do forno com cuidado e desenforme o pão sobre uma grade para esfriar;
+16. Depois de que o pão estiver frio, corte em fatias e sirva com geleia, mel, manteiga ou use para fazer sanduíches.

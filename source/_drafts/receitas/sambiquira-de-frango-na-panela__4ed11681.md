@@ -1,0 +1,52 @@
+---
+title: Sambiquira de frango na panela
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 60 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Sambiquira de frango na panela](/images/sambiquira-de-frango-na-panela__4ed11681_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 60 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 kg de sambiquira de frango
+- 1/2 colher de sopa de sal (ou a gosto)
+- 1 colher de chá de páprica picante (ou a gosto)
+- 1 colher de chá de colorau (ou a gosto)
+- 1 colher de chá de orégano seco (ou a gosto)
+- 1 colher de chá de pimenta-do-reino (ou a gosto)
+- 1 colher de sopa de vinagre (ou suco de 1/2 limão)
+- 1 xícara de chá de farinha de trigo para empanar (140 gramas)
+- 900 ml de óleo para fritar
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Para começar, organize sua bancada e separe todos os ingredientes;
+2. Limpe as sambiquiras retirando o excesso de gordura na parte traseira, principalmente a pele amarela que recobre a extremidade;
+3. Em um recipiente grande, adicione a sambiquira limpa, o sal, a páprica, o colorau, o orégano, a pimenta-do-reino e o vinagre;
+4. Misture bem para envolver todas as partes com o tempero e deixe descansar por cerca de 10 minutos para marinar;
+5. Em um prato, coloque a farinha de trigo e passe cada sambiquira nela, cobrindo bem todos os lados, e retire o excesso com leves batidinhas. Repita o processo com todas as unidades antes de iniciar a fritura;
+6. Aqueça o óleo em fogo médio e frite as sambiquiras por 4 minutos, até que estejam bem douradas e crocantes;
+7. Escorra em papel-toalha e sirva ainda quente. Bom apetite!

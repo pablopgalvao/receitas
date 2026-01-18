@@ -1,0 +1,49 @@
+---
+title: Batata na air fryer fácil e rápida
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 6 porções
+time: 35 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Batata na air fryer fácil e rápida](/images/batata-na-air-fryer-facil-e-rapida__19ee34ff_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 6 porções
+- **Tempo de preparo:** 35 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 4 batatas grandes
+- 1 colher de sopa de sal
+- 1 colher de sopa de lemon pepper
+- 1 colher de sopa de amido de milho
+- 1 colher de sopa de cebola em pó
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes para facilitar os processos, não esqueça de higienizar as batatas selecionadas para a receita;
+2. Comece cortando-as em palitos, não tão finos e nem tão grossos. Lembrando que não é necessário descascá-las;
+3. Agora, lave esses palitinhos em uma tigela com água corrente, para retirar os excessos de amido;
+4. Transfira para uma panela com água fervente e deixe cozinhando por 5 minutos. Retire do fogo, escorra e reserve numa travessa grande;
+5. Em um recipiente pequeno, adicione o sal, o lemon pepper, o amido de milho e a cebola em pó. Misture tudo muito bem;
+6. Na travessa com as batatas, regue-as com um fio de azeite e essa mistura de temperinhos, mexendo bem para que se distribuam completamente;
+7. Coloque-as na cestinha da air fryer sem muita sobreposição, numa temperatura de 200ºC por cerca de 20 minutos ou até que fiquem douradinhas;
+8. Chacoalhe de vez em quando para assarem por igual. E está pronto!

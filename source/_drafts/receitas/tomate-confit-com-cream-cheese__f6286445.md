@@ -1,0 +1,52 @@
+---
+title: Tomate confit com cream cheese
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 60 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Tomate confit com cream cheese](/images/tomate-confit-com-cream-cheese__f6286445_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 60 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 200 gramas de tomate-cereja
+- 1/2 xícara de chá de azeite
+- 300 gramas de cream cheese
+- 1 talo de alho-poró
+- 1 colher de café de tempero de alho frito
+- 1 colher de café de sal ou a gosto
+- 1/2 colher de café de pimenta-do-reino
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Para começar, organize sua bancada e separe todos os ingredientes. Também, aproveite para picar o alho-poró em meia-lua;
+2. É hora de confitar os tomates: em uma forma pequena, adicione os tomates e o azeite até cobrir, pelo menos, até a metade deles;
+3. Coloque o sal e a pimenta-do-reino, mexendo levemente para incorporar os temperos;
+4. Leve ao forno ou air fryer a 160°C por 40 minutos, até que asse bem e os tomates fiquem murchos;
+5. Enquanto isso, em uma frigideira, adicione um fio de azeite, o sal, a pimenta-do-reino e o alho-poró fatiado. Refogue por cerca de 2 minutos, até murchar;
+6. Transfira o alho-poró refogado para uma tigela com o cream cheese e misture bem, formando um patê cremoso e aromático;
+7. Agora vamos para a montagem: em outra tigela, coloque o patê no centro e disponha os tomates confitados ao redor;
+8. Finalize com o azeite do cozimento dos tomates e polvilhe alho frito por cima para dar crocância e aroma extra;
+9. Sirva ainda morno, acompanhado de torradas, saladas, massas ou como aperitivo. Aproveite!

@@ -1,0 +1,59 @@
+---
+title: Quibe de arroz
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - azeitona
+    - cubos
+    - sal
+difficulty: ''
+servings: ''
+time: 170 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Quibe de arroz](/images/quibe-de-arroz__fb455b0e_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 170 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 500 gramas de carne moída
+- 2 colheres de chá de alho picado
+- 1 cebola
+- Azeitona (120 gramas)
+- 2 colheres de sopa de cheiro-verde
+- 1 colher de sopa de molho de tomate
+- Cubos de queijo muçarela (opcional, para variação de recheio)
+- Sal a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Organize sua bancada e separe todos os ingredientes. Aproveite para picar o cheiro-verde, a cebola e o alho;
+2. Em uma panela de pressão, coloque o arroz, o sal, o colorau e a água. Tampe e leve ao fogo;
+3. Assim que a panela começar a chiar, conte 4 minutos e desligue. Aguarde a pressão sair naturalmente;
+4. Transfira o arroz cozido para uma tigela grande. Ele deve estar bem macio e úmido. Misture o cheiro-verde ao arroz ainda quente e amasse com um amassador de batatas ou com um copo, até obter uma massa bem unida. Depois, espere esfriar completamente ou leve à geladeira por 15 minutos para firmar mais rápido;
+5. Enquanto a massa esfria, prepare o recheio: aqueça uma panela com um fio de azeite, refogue a cebola e o alho até dourarem;
+6. Acrescente a carne moída, tempere com sal e mexa até cozinhar por completo;
+7. Junte as azeitonas, o molho de tomate e o cheiro-verde. Misture bem até formar um recheio encorpado e sem caldo;
+8. Com as mãos úmidas, retire porções da massa, abra em formato oval e coloque uma colher do recheio de carne moída ou alguns cubos de queijo;
+9. Feche bem, modelando em formato de quibe, com as pontas levemente afinadas;
+10. Aqueça o óleo em fogo médio-alto e frite os quibes em pequenas porções, por cerca de 3 minutos, até ficarem dourados e crocantes;
+11. Retire com uma escumadeira, escorra sobre papel-toalha;
+12. Agora está pronto, sirva ainda quente com os molhos que mais gostar!

@@ -1,0 +1,48 @@
+---
+title: Baba de moça com leite condensado
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 22 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Baba de moça com leite condensado](/images/baba-de-moca-com-leite-condensado__a82e776b_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 22 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 4 gemas
+- 1 garrafa de leite de coco (200 ml)
+- 1 lata de leite condensado (390 gramas)
+- 1 colher de sopa de farinha de trigo (15 gramas)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Organize todos os ingredientes em sua bancada;
+2. Em uma panela ainda fora do fogo, posicione uma peneira e passe as gemas. Corte-as levemente com uma faca, depois deixe escorrer naturalmente, sem pressionar com a colher. Descarte a película final;
+3. Adicione o leite de coco e misture com um fouet (batedor de arame) até formar um líquido homogêneo;
+4. Em seguida, acrescente o leite condensado e a farinha de trigo, mexendo bem até dissolver completamente a farinha e obter uma mistura lisa;
+5. Leve ao fogo baixo, mexendo sempre com uma espátula ou fouet (batedor de arame) para evitar que grude ou forme grumos;
+6. Assim que levantar fervura, cozinhe por mais 1 a 2 minutos para obter um creme mais cremoso. Se quiser mais firme, deixe até 3 minutos;
+7. Desligue o fogo, transfira o creme para uma tigela e cubra com plástico filme em contato direto com o creme, evitando a formação de película;
+8. Leve à geladeira até esfriar completamente antes de usar. E está pronta!

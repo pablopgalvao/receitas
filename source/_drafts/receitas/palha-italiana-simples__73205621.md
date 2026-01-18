@@ -1,0 +1,50 @@
+---
+title: Palha italiana simples
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 145 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Palha italiana simples](/images/palha-italiana-simples__73205621_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 145 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 lata de leite condensado (395 gramas)
+- 1/2 caixinha de creme de leite (100 gramas)
+- 150 gramas de chocolate meio amargo
+- 1 colher de sopa de manteiga (20 gramas)
+- 1/2 pacote de bolacha maisena (85 gramas)
+- 1/2 xícara de chá de açúcar de confeiteiro
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Com todos os ingredientes na bancada, pique o chocolate meio amargo em pedaços menores, para facilitar na hora de derretê-lo ou use em gotas;
+2. Em uma panela média e de fundo grosso, coloque o leite condensado, o creme de leite, o chocolate e a manteiga. Ligue o fogo médio e, com uma espátula ou colher de pau, comece a mexer constantemente até que desgrude do fundo da panela;
+3. Retire a panela do fogo. Em seguida, quebre as bolachas de maisena com as mãos, em pedaços irregulares, e adicione na mistura. É importante não triturar demais, para permanecerem em pedaços crocantes. Misture bem;
+4. Forre uma forma retangular com papel manteiga, para facilitar a retirada do doce após pronto. Transfira a mistura para a forma, espalhando de maneira uniforme. Com a ajuda de uma colher, pressione levemente a superfície;
+5. Leve a forma com o doce para a geladeira e deixe lá por, no mínimo, 2 horas. Após o tempo, retire da geladeira e com cuidado, remova o doce da forma, puxando pelas laterais do papel manteiga;
+6. Coloque o doce sobre a bancada ou mesa e, para facilitar o corte, passe um pouco de óleo na lâmina da faca. Isso ajudará a cortar os pedaços de maneira mais suave. Apare as laterais do doce para ficarem com um formato mais bonito e reto;
+7. Corte os pedaços no formato desejado, passando cada um no açúcar de confeiteiro, cobrindo-os uniformemente;
+8. Agora, é só aproveitar esse doce delicioso, crocante e cremoso!

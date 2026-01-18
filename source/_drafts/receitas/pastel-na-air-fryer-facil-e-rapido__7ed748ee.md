@@ -1,0 +1,49 @@
+---
+title: Pastel na air fryer fácil e rápido
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - agua
+    - oleo
+difficulty: ''
+servings: 2 porções
+time: 10 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Pastel na air fryer fácil e rápido](/images/pastel-na-air-fryer-facil-e-rapido__7ed748ee_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 2 porções
+- **Tempo de preparo:** 10 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 200 gramas de massa de pastel pronta (100 gramas para cada pastel)
+- Água para selar
+- Óleo ou azeite a gosto para pincelar
+- 2 fatias de presunto
+- 2 fatias de queijo mussarela
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Junte todos os ingredientes em sua bancada;
+2. Sobre uma superfície, abra a massa de pastel e adicione uma fatia de presunto e outra de mussarela;
+3. Pincele um pouco de água nas bordas da massa, isso evitará que ela se abra enquanto estiver assando;
+4. Feche o pastel, utilizando um garfo para selar bem todas as bordas. Retire o plástico que envolve a massa e pincele óleo ou azeite nos dois lados do pastel;
+5. Asse na air fryer, já preaquecida, por 5 minutos, a 200 °C. Depois, vire os pastéis, e asse por mais 5 minutos;
+6. Estão prontos! Sirva com vinagrete ou molho de sua preferência.

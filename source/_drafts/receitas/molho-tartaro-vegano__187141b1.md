@@ -1,0 +1,56 @@
+---
+title: Molho tártaro vegano
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - suco
+    - sal
+    - pimentadoreino
+    - cheiroverde
+difficulty: ''
+servings: 2 porções
+time: 20 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Molho tártaro vegano](/images/molho-tartaro-vegano__187141b1_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 2 porções
+- **Tempo de preparo:** 20 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1/2 xícara de chá de sementes de girassol cruas e sem casca
+- 1/3 xícara de chá de água
+- 1/4 xícara de chá de azeite ou óleo
+- Suco de 1 limão pequeno
+- 1 colher de sopa de mostarda
+- 1/2 colher de chá de molho inglês
+- 1/2 colher de chá de orégano seco
+- Sal a gosto
+- Pimenta-do-reino a gosto
+- 2 colheres de sopa de picles em cubinhos
+- 2 colheres de sopa de cenoura crua em cubinhos
+- Cheiro-verde a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Em um liquidificador, junte as sementes, a água, o azeite, o suco de limão, a mostarda, o molho inglês, o orégano, o sal e a pimenta-do-reino.
+2. Bata tudo até obter um creme liso e uniforme, adicionando um pouco mais de água ou azeite se for preciso.
+3. Transfira a mistura para uma tigela, acrescente o picles, a cenoura e o cheiro-verde e mexa bem.
+4. Agora é só servir! Bom apetite.

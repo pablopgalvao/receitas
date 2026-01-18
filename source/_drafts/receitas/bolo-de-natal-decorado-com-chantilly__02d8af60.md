@@ -1,0 +1,52 @@
+---
+title: Bolo de Natal decorado com chantilly
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 106 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Bolo de Natal decorado com chantilly](/images/bolo-de-natal-decorado-com-chantilly__02d8af60_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 106 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 xícaras de chá de chantilly
+- 1 caixa de morangos
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes em sua bancada e forre o fundo e as laterais de uma forma de 20 cm com papel manteiga;
+2. Lave e seque os morangos. Separe 10 inteiros para decoração e fatie o restante para o recheio. Retire as folhas e corte as tampas dos morangos e reserve;
+3. Na batedeira, bata os ovos com o açúcar até obter uma mistura clara e bem aerada, cerca de 3 minutos;
+4. Incorpore a farinha peneirada aos poucos, em três partes, misturando com movimentos delicados de baixo para cima, para não perder volume. Derreta a manteiga no micro-ondas e adicione ela, a baunilha e o sal, mexendo com cuidado;
+5. Transfira a massa para a forma com papel manteiga e leve ao forno preaquecido a 180°C por cerca de 40 minutos; (caso seu forno seja bastante potente, observe o ponto a partir de 25 minutos)
+6. Retire do forno e deixe esfriar completamente antes de desenformar;
+7. Enquanto isso, prepare a calda: leve a água e o açúcar ao fogo até dissolver. Deixe esfriar;
+8. Na batedeira, bata o chantilly em velocidade média até formar picos médios, cerca de 3 minutos;
+9. Corte o bolo ao meio e pincele a calda sobre as duas partes;
+10. Espalhe uma camada generosa de chantilly sobre a base do bolo, distribua os morangos fatiados por cima e cubra com mais chantilly;
+11. Coloque a outra metade do bolo por cima, pressione levemente e cubra todo o bolo com uma camada uniforme de chantilly;
+12. Alise as laterais com uma espátula, limpando-a sempre que necessário para um acabamento mais liso;
+13. Decore com chantilly usando saco de confeiteiro e finalize com os morangos inteiros por cima;
+14. Leve à geladeira por pelo menos 4 horas antes de servir, para firmar bem. Depois, é só aproveitar!

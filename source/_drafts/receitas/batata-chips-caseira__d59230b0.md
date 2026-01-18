@@ -1,0 +1,50 @@
+---
+title: Batata chips caseira
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - farinha
+difficulty: ''
+servings: ''
+time: 30 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Batata chips caseira](/images/batata-chips-caseira__d59230b0_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 30 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1,5 kg de batata
+- Farinha de trigo para empanar (100 gramas)
+- 1 colher de sopa de lemon pepper
+- 1 colher de sopa de páprica defumada
+- 1 colher de sopa de tempero (cebola, alho e salsa)
+- 1 colher de sopa de sal (12 gramas)
+- 40 gramas de parmesão ralado
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Para começar, organize seus ingredientes, assim como sua bancada;
+2. Bata o lemon pepper, a páprica picante, o tempero (cebola, o alho e a salsa), o sal e o parmesão em um mixer ou liquidificador até virar pó. Reserve;
+3. Em seguida, corte as batatas em lâminas bem finas, lave-as em água gelada e, depois, seque-as com um pano ou toalha de papel;
+4. Passe-as rapidamente pela farinha de trigo e bata para tirar todo o excesso;
+5. Agora, frite-as por imersão no óleo quente até que fiquem bem douradas;
+6. Em seguida, escorra bem e polvilhe o tempero com a batata ainda quente sobre toda as unidades fritinhas. E está pronto!

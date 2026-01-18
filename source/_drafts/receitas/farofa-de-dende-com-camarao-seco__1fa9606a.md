@@ -1,0 +1,44 @@
+---
+title: Farofa de dendê com camarão seco
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - sal
+difficulty: ''
+servings: ''
+time: 15 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Farofa de dendê com camarão seco](/images/farofa-de-dende-com-camarao-seco__1fa9606a_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 15 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 colheres de sopa de azeite de dendê
+- 5 camarões secos defumados
+- 1 xícara de chá de farinha de mandioca
+- 1 dente de alho picado
+- Sal a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Em uma frigideira em fogo baixo, adicione o azeite de dendê, os camarões, o alho, a farinha de mandioca, o sal e vá mexendo até tudo dourar bem.
+2. Transfira para um refratário e sirva. Bom apetite.

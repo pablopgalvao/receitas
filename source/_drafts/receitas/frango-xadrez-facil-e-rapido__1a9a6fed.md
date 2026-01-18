@@ -1,0 +1,56 @@
+---
+title: Frango xadrez fácil e rápido
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 35 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Frango xadrez fácil e rápido](/images/frango-xadrez-facil-e-rapido__1a9a6fed_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 35 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 500 gramas de peito de frango
+- 2 colheres de sopa de amido de milho
+- 1 cebola média
+- 1 pimentão vermelho grande
+- 1 pimentão verde grande
+- 1 pimentão amarelo grande
+- 40 gramas de amendoim torrado
+- 50 ml de molho de soja (shoyu)
+- 100 ml de água
+- 1/2 colher de chá de pimenta calabresa (ou a gosto)
+- 1/2 xícara de chá de cebolinha picada (ou a gosto)
+- 1 colher de café de sal (ou a gosto)
+- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- 3 colheres de sopa de azeite (ou a gosto)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Retire os excessos de gordura do frango e corte-o em cubos. Higienize os vegetais e junte todos os ingredientes na bancada. Descasque e pique a cebola em cubos grandes. Retire as sementes e partes brancas dos pimentões e pique-os em cubos médios;
+2. Coloque os cubos de frango em uma tigela e tempere com sal e pimenta-do-reino, misturando bem. Adicione o amido de milho e envolva todos os pedaços. O amido ajudará a criar uma casquinha dourada no frango e a engrossar o molho no preparo;
+3. Aqueça um fio generoso de azeite em uma frigideira grande, em fogo alto. Disponha os cubos de frango sem os sobrepor. Doure um lado, vire com um pegador e doure o outro. Se necessário, faça essa etapa em partes para garantir que todos fiquem dourados uniformemente. Reserve;
+4. Na mesma frigideira, ainda em fogo alto, coloque a cebola, os pimentões e a pimenta calabresa. Misture bem e refogue até murchar levemente e começar a dourar, cerca de 3 minutos;
+5. Volte os cubos de frango grelhado para a panela e refogue por mais 1 minuto. Adicione a água e o molho de soja, misturando bem. Cozinhe por mais 3 a 5 minutos, até o molho engrossar, mexendo por vezes;
+6. Finalize com o amendoim e o cheiro-verde, misture bem e desligue o fogo. Sirva quente acompanhado de arroz branco fresquinho. Bom apetite!

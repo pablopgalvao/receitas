@@ -1,0 +1,50 @@
+---
+title: Mate suíço com groselha negra
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - gelo
+    - rodelas
+    - hortela
+difficulty: ''
+servings: ''
+time: 10 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Mate suíço com groselha negra](/images/mate-suico-com-groselha-negra__e92aded1_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 10 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 3 sachês de chá mate com groselha negra
+- 400 ml de água bem gelada
+- 5 colheres de sopa de leite condensado
+- Gelo a gosto (cerca de 1 xícara ou o suficiente para 2 copos cheios)
+- Rodelas de limão-siciliano para decorar
+- Hortelã fresca para decorar (opcional)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Separe os ingredientes na bancada para facilitar o preparo;
+2. Deixe os sachês em infusão na água gelada por 7 minutos, mexendo de vez em quando;
+3. Retire os sachês e transfira o chá para o liquidificador. Adicione o leite condensado e o gelo;
+4. Despeje em uma jarra e decore com rodelas de limão-siciliano;
+5. Sirva em copos altos com mais gelo, se desejar, e finalize com folhas de hortelã para um toque aromático.

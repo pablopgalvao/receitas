@@ -1,0 +1,50 @@
+---
+title: Bolo de banana-da-terra
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 10 porções
+time: 50 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Bolo de banana-da-terra](/images/bolo-de-banana-da-terra__9fe26da2_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 10 porções
+- **Tempo de preparo:** 50 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 bananas-da-terra grandes maduras (350 gramas)
+- 2 xícaras de chá de aveia em flocos finos (200 gramas)
+- 3 ovos médios
+- 1 xícara de chá de açúcar refinado (200 gramas)
+- 3/4 de xícara de chá de leite (180 ml)
+- 1/2 xícara de chá de óleo (120 ml)
+- 1 colher de chá de canela em pó
+- 1 colher de sopa de fermento químico em pó (fermento para bolo)
+- 1 pitada de sal
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Sabia que dá para fazer um delicioso bolo de banana-da-terra? Reúna os ingredientes e venha aprender. DICA: unte e enfarinhe a forma com furo no meio e ligue o forno a 180ºC;
+2. Em uma tábua ou um prato, descasque as bananas e corte-as em rodelas médias. Depois, em um liquidificador desligado, adicione as bananas em rodelas, o óleo, os ovos, o açúcar, o leite e o sal. Bata por cerca de 2 minutos até obter uma mistura homogênea;
+3. Despeje a mistura em uma tigela com a aveia. Misture com um fouet até formar uma massa mais consistente e homogênea. Acrescente a canela e mexa novamente;
+4. Por último, adicione o fermento e mexa delicadamente, apenas para incorporá-lo na massa. Evite mexer em excesso para não perder o ponto da massa. Despeje a massa na forma untada e enfarinhada e leve ao forno preaquecido a 180ºC por cerca de 40 minutos;
+5. Desenforme e sirva com uma deliciosa e quentinha xícara de café. Bom apetite!

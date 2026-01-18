@@ -1,0 +1,66 @@
+---
+title: Salpicão de frango natalino
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 12 porções
+time: 50 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Salpicão de frango natalino](/images/salpicao-de-frango-natalino__805cd379_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 12 porções
+- **Tempo de preparo:** 50 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 800 gramas de filé de peito de frango
+- 1,5 litro de água para cozinhar o frango
+- 1/4 de xícara de chá de óleo ou azeite (30 ml)
+- 1 xícara de chá de cebola picada (170 gramas)
+- 2 colheres de sopa de alho picado
+- 1 xícara de chá de salsão fatiado (120 gramas)
+- 300 gramas de molho de tomate
+- 1 xícara de chá de cenoura ralada (120 gramas)
+- 1 lata de milho em conserva (80 gramas)
+- 1 xícara de chá de ervilha congelada (80 gramas)
+- 1 maçã vermelha ralada
+- 1 maçã verde ralada
+- 1 limão espremido para as maçãs raladas
+- 1/2 xícara de chá de uvas-passas (100 gramas)
+- 1 xícara de chá de maionese (200 gramas)
+- 1 caixa de creme de leite (200 gramas)
+- 1 colher de sopa rasa de sal
+- 1/2 colher de chá rasa de pimenta-do-reino (ou a gosto)
+- 1/4 de xícara de chá de salsinha picada (ou a gosto)
+- 1/4 de xícara de chá de cebolinha picada (ou a gosto)
+- 100 gramas de batata palha
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Aprenda a fazer esse delicioso acompanhamento natalino para a sua ceia. Separe tudo o que você vai precisar para cozinhar o salpicão;
+2. Descasque e pique o alho e a cebola. Retire o fiapo do salsão e corte também. Descasque e rale a cenoura. Lave, rale as maçãs e reserve com o limão espremido para não ficarem escuras. Descasque e pique a salsinha e a cebolinha finamente. Reserve tudo separadamente;
+3. Em uma panela de pressão, cozinhe o frango com a água e, após pegar pressão, continue por mais 20 minutos. Desligue o fogo, espere a pressão sair e desfie o frango grosseiramente;
+4. Em uma panela grande no fogo médio para alto, despeje o azeite e, quando estiver quente, doure a cebola por cerca de 2 minutos. Adicione o alho e continue mexendo por mais 1 minuto;
+5. Retire o fiapo do salsão e pique em pedaços pequenos. Transfira para a panela e continue fritando;
+6. Coloque o molho de tomate, o frango cozido e desfiado, e misture bem. Reserve em uma tigela de vidro grande;
+7. Junte o milho, a ervilha, as maçãs raladas, a cenoura ralada, as uvas-passas e misture até espalhar os ingredientes;
+8. Coloque a maionese, o creme de leite, o sal, a pimenta-do-reino, a salsinha e cebolinha picadas. Prove e, se achar necessário, ajuste a quantidade de temperos;
+9. Transfira para uma travessa grande e espalhe uma camada generosa de batata palha. Sirva essa delícia e usufrua de momentos únicos em família!

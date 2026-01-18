@@ -1,0 +1,50 @@
+---
+title: Hamburgão vegano sem glúten
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - meia
+    - sal
+    - azeite
+difficulty: ''
+servings: ''
+time: 40 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Hamburgão vegano sem glúten](/images/hamburgao-vegano-sem-gluten__6580c522_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 40 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 copo e meio de proteína de soja texturizada
+- 1 colher de sopa de molho shoyu
+- 3 dentes de alho picados
+- Meia cebola roxa
+- Sal e outros temperos de sua preferência a gosto
+- ¼ xícara de chá de farelo de aveia
+- Azeite a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Cozinhe a batata-doce no vapor.
+2. Retire a casca e amasse as batatas até obter um purê com consistência firme.
+3. Tempere a massa como preferir (sugestão: sal, pimenta-do-reino e gergelim).
+4. Aos poucos, adicione a farinha de arroz, incorporando-a com o purê. Reserve.

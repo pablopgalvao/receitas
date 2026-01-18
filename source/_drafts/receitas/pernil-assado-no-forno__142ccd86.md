@@ -1,0 +1,51 @@
+---
+title: Pernil assado no forno
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - suco
+difficulty: ''
+servings: ''
+time: 265 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Pernil assado no forno](/images/pernil-assado-no-forno__142ccd86_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 265 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 paleta pernil (5 kg)
+- 12 dentes de alho
+- 4 colheres de sopa de sal (60 gramas)
+- 2 colheres de sopa de pimenta-do-reino ou a gosto
+- Suco de 2 limões (100 ml)
+- Suco de 3 laranjas (300 ml)
+- 2 colheres de sopa de manteiga (40 gramas)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Para o preparo dessa receita, organize todos os ingredientes na bancada e esprema os dentes de alho;
+2. Em um recipiente, tempere o pernil com o alho, sal, pimenta-do-reino, suco de limão e suco de laranja;
+3. Misture bem para que todos os temperos envolvam a carne e cubra o recipiente com plástico filme. Deixe o pernil marinando na geladeira por 8 horas;
+4. Passado o tempo de marinada, transfira o pernil para uma assadeira, posicionando-o no centro com cuidado;
+5. Cubra com papel-alumínio e leve ao forno preaquecido a 200 ºC por 3 horas;
+6. Retire o papel-alumínio, pincele a manteiga por cima do pernil e volte ao forno para dourar a 220 ºC por cerca de 40 minutos;
+7. Retire do forno e sirva ainda quente com os acompanhamentos de sua preferência. Bom apetite!

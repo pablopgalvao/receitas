@@ -1,0 +1,46 @@
+---
+title: Picanha na air fryer com sal grosso
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 35 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Picanha na air fryer com sal grosso](/images/picanha-na-air-fryer-com-sal-grosso__c18c51f3_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 35 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 kg de picanha (nossa peça tinha 1,126kg)
+- 1 colher de café de pimenta-do-reino (ou a gosto)
+- 1 colher de sopa de sal grosso
+- 1 colher de sopa de manteiga (20 gramas)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes sobre a bancada. Tire a peça de picanha com 40 minutos de antecedência da geladeira;
+2. Sobre uma tábua, tempere a carne com pimenta-do-reino e sal grosso;
+3. Passe manteiga no lado da gordura e tempere com mais pimenta-do-reino. Cubra essa parte com uma quantidade generosa de sal grosso;
+4. Preaqueça a air fryer a 200 °C e leve para assar (com o lado da gordura para cima) por cerca de 15 minutos;
+5. Quando a carne estiver bem dourada, vire e asse do outro lado por mais 10 minutos;
+6. Retire da air fryer e transfira para uma travessa ou prato. Sirva com pasta de alho ou acompanhada de vinagrete!

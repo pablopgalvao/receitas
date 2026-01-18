@@ -1,0 +1,47 @@
+---
+title: Costela de tambaqui na airfryer
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - suco
+difficulty: ''
+servings: 3 porções
+time: 80 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Costela de tambaqui na airfryer](/images/costela-de-tambaqui-na-airfryer__c7d5595d_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 3 porções
+- **Tempo de preparo:** 80 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 500 gramas de costela de tambaqui
+- Suco de 1 limão-taiti (45 ml)
+- 1/4 colher de chá de pimenta-do-reino moída (ou a gosto)
+- 1/2 colher de sopa de sal (ou a gosto)
+- 1 fio de azeite
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes da costela de tambaqui na airfryer. O peixe deve estar em temperatura ambiente - tire da geladeira uns 30 minutos antes de começar. Se for utilizar a versão congelada, retire do freezer no dia anterior e deixe descongelar naturalmente na geladeira;
+2. Em uma tigela, coloque as costelinhas e tempere com caldo do limão, pimenta-do-reino, sal e 1 fio de azeite. Misture bem para que os temperos se espalhem por todos os pedaços. Cubra a tigela com um pano ou plástico filme e deixe marinando de 20 minutos a 1 hora;
+3. Preaqueça a airfryer a 180ºC por 5 minutos. Com a pele do peixe virada para cima, acomode as costelas de tambaqui, uma ao lado da outra (sem sobrepor os pedaços);
+4. Frite por cerca de 18 minutos, ou até dourar - o tempo total pode depender da marca e potência da sua airfryer;
+5. Retire da airfyer e sirva! Você pode servir como petisco ou como acompanhamento do arroz e feijão de cada dia. Aproveite!

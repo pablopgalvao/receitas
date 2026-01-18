@@ -1,0 +1,48 @@
+---
+title: Massa de coxinha de trigo
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 15 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Massa de coxinha de trigo](/images/massa-de-coxinha-de-trigo__73e334c0_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 15 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 litro de água
+- 1 tablete de caldo de galinha
+- 1 colher de sopa de sal
+- 1 colher de sopa de colorau
+- 5 colheres de sopa de óleo
+- 3/4 do pacote de farinha de trigo (750 gramas)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Organize sua bancada para preparar essa massa de coxinha;
+2. Coloque água em uma panela e deixe esquentando no fogo;
+3. Adicione sal, colorau, o caldo de galinha e o óleo na panela. Misture e mantenha em fogo até ferver;
+4. Quando ferver, misture novamente para que o caldo de galinha se dissolva por completo, e adicione a farinha de trigo. Incorpore até que a massa fique homogênea e solte da panela;
+5. Coloque a massa ainda quente numa bancada e amasse-a com um rolo;
+6. Agora a massa está pronta, basta rechear e modelar as coxinhas. Aproveite!

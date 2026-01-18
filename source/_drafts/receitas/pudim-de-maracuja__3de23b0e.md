@@ -1,0 +1,48 @@
+---
+title: Pudim de maracujá
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 86 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Pudim de maracujá](/images/pudim-de-maracuja__3de23b0e_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 86 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 xícara de chá de açúcar (165 gramas)
+- 1/2 xícara de chá de água (120 ml)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Organize os ingredientes na bancada e preaqueça o forno a 180°C;
+2. Coloque o açúcar dentro da forma de pudim e leve ao fogo baixo. Deixe derreter (sem mexer) até atingir uma cor de caramelo;
+3. Adicione a água com cuidado e espere dissolver. Depois, com uma espátula, espalhe esse caramelo nas laterais e no centro da forma;
+4. No liquidificador, acrescente o leite condensado, o leite, o creme de leite, os ovos e a polpa do maracujá. Bata até ficar homogêneo;
+5. Passe a mistura por uma peneira, despejando dentro da forma com o caramelo;
+6. Cubra a forma com papel-alumínio e coloque-a em uma assadeira retangular com água e vinagre. Leve ao forno preaquecido a 180°C por cerca de 1 hora para assar em banho-maria;
+7. Depois de assado, espere amornar e leve à geladeira de um dia para o outro;
+8. Enquanto isso, para a calda, adicione em uma panela a polpa do maracujá, o açúcar e a água;
+9. Cozinhe em fogo médio por 8 minutos, ou até engrossar e obter uma calda brilhante;
+10. Dado o tempo de geladeira do pudim, é hora de desenformar: passe a ponta de uma faca nas laterais da forma para facilitar e desenforme sobre um prato. Espalhe a calda sobre o pudim e está pronto. Aproveite!

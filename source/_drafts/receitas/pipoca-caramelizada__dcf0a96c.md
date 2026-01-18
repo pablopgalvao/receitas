@@ -1,0 +1,46 @@
+---
+title: Pipoca caramelizada
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 3 porções
+time: 10 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Pipoca caramelizada](/images/pipoca-caramelizada__dcf0a96c_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 3 porções
+- **Tempo de preparo:** 10 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1/2 xícara de chá de milho de pipoca (100 gramas)
+- 1 colher de sopa de óleo (cerca de 15 ml)
+- 1 xícara de chá de açúcar (200 gramas)
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes para preparar essa pipoca caramelizada, fácil e rápida para comer assistindo um filminho;
+2. Em uma panela grande, no fogo médio para baixo, adicione o óleo e os milhos. Mexa com uma espátula até os grãos ficarem esbranquiçados ou o primeiro milho estourar. Mantenha a tampa perto, para tampar a panela rapidamente;
+3. Quando os grãos pararem de estourar, desligue o fogo, retire a tampa e transfira a pipoca para uma tigela grande;
+4. Utilize um papel-toalha para limpar os resíduos da pipoca que sobrarem na panela. Quando estiver limpa, coloque o açúcar e ligue o fogo baixo;
+5. Mexa o açúcar com a espátula até ela virar caramelo. Desligue o fogo para não queimar;
+6. Logo em seguida, coloque as pipocas na panela e misture todas elas, até o caramelo pegar por completo. Despeje numa assadeira e espalhe - rapidamente, as pipocas estarão mais soltas;
+7. Sirva a pipoca caramelizada com uma bebida quente de sua preferência e aproveite esse petisco. Bom apetite!

@@ -1,0 +1,46 @@
+---
+title: Vitamina de abacate com banana
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - acucar
+difficulty: ''
+servings: 1 porções
+time: 5 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Vitamina de abacate com banana](/images/vitamina-de-abacate-com-banana__1fc6cbe4_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 1 porções
+- **Tempo de preparo:** 5 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1/2 xícara de chá de leite de soja
+- 1 xícara de chá de rodelas de bananas congeladas
+- 1 xícara de chá de abacate gelado picado
+- 1 colher de chá de chia
+- Açúcar ou adoçante a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Coloque todos os ingredientes no liquidificador.
+2. Bata até atingir a consistência desejada.
+3. Adicione cubos de gelo e bata até incorporar.
+4. Agora é só servir! Bom apetite.

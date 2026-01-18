@@ -1,0 +1,57 @@
+---
+title: Pão caseiro com queijo
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: ''
+time: 40 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Pão caseiro com queijo](/images/pao-caseiro-com-queijo__32d46782_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 40 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 350 ml de água morna
+- 1 envelope de fermento biológico seco
+- 1/4 de xícara de chá de açúcar
+- 3 e ½ colheres de sopa de manteiga
+- 1 ovo (levemente batido)
+- 1 colher de chá de sal
+- 4 xícaras de chá de farinha de trigo
+- 1 ovo levemente batido (para pincelar)
+- 1 colher de sopa de açúcar (para pincelar)
+- 150 g de queijo parmesão ralado
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes;
+2. Em um recipiente grande, adicione a água morna, o fermento, o açúcar, a manteiga, o ovo e misture;
+3. Coloque o sal, gradualmente vá acrescentando a farinha e misturando;
+4. Assim que formar uma massa fina, transfira para uma bancada e comece a sovar e a colocar farinha até dar o ponto: uma massa lisa e elástica;
+5. Jogue um pouco de farinha na vasilha, transfira a massa para ela, cubra com um pano e deixe descansar por 30 a 40 minutos ou até dobrar de volume;
+6. Divida a massa em duas parte iguais;
+7. Pegue uma das partes e abara em um retângulo com ajuda de um rolo, pincele ela com o ovo, salpique açúcar e polvilhe o queijo parmesão por toda a massa;
+8. Enrole a massa e transfira para uma forma (de bolo inglês) untada, enfarinhada. Repita o processo com a outra parte da massa;
+9. Cubra com um pano e deixe descansar por mais 20 minutos;
+10. Pincele o ovo por cima dos pães, salpique um pouco de parmesão e leve ao forno preaquecido a 180 ºC por cerca de 40 minutos;
+11. Deixe esfriar, desenforme e sirva.

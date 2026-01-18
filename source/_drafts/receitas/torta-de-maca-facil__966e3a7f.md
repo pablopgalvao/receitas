@@ -1,0 +1,56 @@
+---
+title: Torta de maçã fácil
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - canela
+    - manteiga
+difficulty: ''
+servings: 10 porções
+time: 45 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Torta de maçã fácil](/images/torta-de-maca-facil__966e3a7f_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 10 porções
+- **Tempo de preparo:** 45 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 3 ovos médios
+- 1 pitadinha de sal
+- 1 xícara de chá de açúcar (180 gramas)
+- 1 e 1/2 xícara de chá de farinha de trigo sem fermento (190 gramas)
+- 1 colher de sopa de manteiga (30 gramas)
+- 1/2 xícara de chá de leite (125 ml)
+- 1 colher de sopa de fermento químico em pó (fermento para bolo)
+- 2 maçãs médias
+- 1 colher de sopa de açúcar (para decorar)
+- Canela em pó a gosto (para decorar)
+- Manteiga e farinha para untar
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes da torta de maçã fácil, unte uma forma com manteiga e farinha e pré-aqueça o forno a 180ºC por cerca de 15 minutos;
+2. Descasque 1 maçã, retire as sementes e pique em cubos pequenos - essa será utilizada na massa. Com a outra maçã, divida ela em 4 partes, retire as semente e corte em lâminas - essa será para decorar a torta. Para não escurecer, você pode regar os pedaços com caldo de limão;
+3. Em um recipiente pequeno, quebre um ovo de cada vez e, se estiver bom, transfira para a tigela da batedeira - se algum ovo estiver estragado, você não perde a receita toda. Junte o sal, o açúcar e bata por cerca de 3 minutos, ou até obter um creme esbranquiçado;
+4. Depois, peneire a farinha de trigo e adicione na batedeira junto com a manteiga e o leite. Na velocidade baixa, bata apenas para misturar os ingredientes (cerca de 1 a 2 minutos);
+5. Adicione a maçã picada em cubos e o fermento químico. Com o auxílio de uma espátula, misture delicadamente apenas para incorporar. Em seguida, despeje a massa na forma untada e enfarinhada;
+6. Disponha a maçã laminada por cima da torta, colocando uma sobreposta a outra - você também pode decorar como preferir. Em seguida, misture o açúcar com a canela e salpique por cima. Leve ao forno (já preaquecido) a 180ºC por cerca de 30 minutos, ou até dourar levemente;
+7. Retire do forno, deixe amornar e desenforme. Agora é só servir e aproveitar o sabor delicioso dessa torta de maçã!

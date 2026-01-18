@@ -1,0 +1,59 @@
+---
+title: Torta de morango fácil
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 10 porções
+time: 60 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Torta de morango fácil](/images/torta-de-morango-facil__fd673ca1_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 10 porções
+- **Tempo de preparo:** 60 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 pacote de morangos fresco (cortado em cubinhos)
+- 3 colheres de sopa de açúcar
+- 3 pacotes de biscoito de chocolate recheado (140 gramas cada)
+- 3 colheres de sopa de manteiga
+- 5 colheres de sopa de água
+- 12 gramas de gelatina em pó sem sabor
+- 5 colheres de sopa de água quente
+- 1 lata de leite condensado
+- 2 caixinha de creme de leite
+- 30 gramas de suco em pó sabor morango
+- 1 colher de sopa de leite em pó
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes;
+2. Em uma panela, adicione os morangos (separe alguns para a decoração), o açúcar, leve ao fogo baixo, mexa sem parar até o morango cozinhar e reduzir. Reserve;
+3. Em um processador, coloque as bolachas recheadas e triture bem até ficar parecendo uma areia;
+4. Acrescente a manteiga, a água e bata até virar uma massinha úmida;
+5. Transfira para uma forma redonda de aro removível, forre todo o fundo e laterais apertando bem e leve para o congelador por cerca de 20 minutos;
+6. Hidrate a gelatina de morango com a água quente, misture bem e reserve;
+7. Em um liquidificador, adicione o leite condensado, o creme de leite, o suco em pó, o leite em pó e bata até misturar bem;
+8. Com o liquidificar funcionando, vá adicionando a gelatina hidratada e bata até tudo de incorporar;
+9. Desligue, coloque o concentrado de morango e misture grosseiramente com uma espátula;
+10. Despeje o creme de morango na base da torta, espalhando bem, nivelando e leve para a geladeira por 2 horas para firmar;
+11. Desenforme, decore com leite em pó e moranguinhos;
+12. Agora é só servir. Bom apetite!

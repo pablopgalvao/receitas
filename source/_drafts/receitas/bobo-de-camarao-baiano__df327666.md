@@ -1,0 +1,62 @@
+---
+title: Bobó de camarão baiano
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - caldo
+    - suco
+difficulty: ''
+servings: 6 porções
+time: 45 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Bobó de camarão baiano](/images/bobo-de-camarao-baiano__df327666_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 6 porções
+- **Tempo de preparo:** 45 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 200 gramas de camarão
+- 2 cebolas médias
+- 2 tomates grandes
+- 1 pimentão verde
+- 1 maço de cheiro-verde
+- 4 colheres de azeite de oliva
+- 1 colher de gengibre ralado
+- 2 colheres de sopa de azeite de dendê
+- 1 vidro de leite de coco (200 ml)
+- 300 gramas de macaxeira
+- 700 ml de água
+- Caldo de cozimento da macaxeira
+- Suco de 1 limão
+- 1 colher de chá de pimenta calabresa
+- 2 colheres de sopa de coentro
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Junte os ingredientes para fazer o típico bobó de camarão baiano. Deixe o fruto do mar temperado no gengibre, sal e coentro;
+2. Para cozinhar a macaxeira, leve uma panela de pressão ao fogo alto e cozinhe com água e sal por aproximadamente 20 minutos, ou até ela ficar macia;
+3. Descasque e pique a cebola em cubinhos. Lave, higienize e corte o tomate e o pimentão em pedaços pequenos;
+4. Em uma frigideira grande no fogo alto, despeje o azeite de oliva e, quando esquentar, doure a cebola por 2 minutos. Junte o pimentão, o tomate e cozinhe por cerca de 2 minutos;
+5. Enquanto isso, coloque a macaxeira no liquidificador, adicionando o caldo do cozimento aos poucos, até formar um creme homogêneo;
+6. De volta na panela, adicione o coentro picado, o azeite de dendê, o leite de coco e mexa bem;
+7. Coloque os camarões temperados e deixe cozinhar por apenas 3 minutos. Finalize com o suco do limão;
+8. Junte a macaxeira batida e misture bem para incorporar os ingredientes. Tempere com a pimenta calabresa, prove e, se achar necessário, ajuste a quantidade de temperos;
+9. Sirva o bobó de camarão com arroz branco soltinho e aproveite!

@@ -1,0 +1,48 @@
+---
+title: Maionese caseira
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - oleo
+difficulty: ''
+servings: ''
+time: 10 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Maionese caseira](/images/maionese-caseira__1debbc36_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 
+- **Tempo de preparo:** 10 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 2 gemas
+- 1/4 de suco de limão-siciliano (25 ml)
+- 1 colher de sopa de mostarda dijon ou comum
+- 1/2 colher de chá de sal (ou a gosto)
+- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- Óleo até dar o ponto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna os ingredientes para fazer essa deliciosa maionese caseira;
+2. Quebre o ovo e separe a clara da gema. Coloque um pano em uma panela e a tigela onde a maionese será preparada por cima. Transfira as gemas para a tigela, coloque o suco de limão-siciliano, a mostarda, o sal e a pimenta-do-reino. Bata com o fouet por 1 minuto, até ficar homogêneo;
+3. Continue batendo vigorosamente com um fouet e despeje o óleo em fio;
+4. Quando emulsionar e atingir o ponto cremoso, observe se a mistura escorre lentamente da colher;
+5. Sirva a maionese caseira com torradinhas, lanches e petiscos. Aproveite e bom apetite!

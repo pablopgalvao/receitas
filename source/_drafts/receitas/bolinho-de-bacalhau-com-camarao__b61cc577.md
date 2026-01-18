@@ -1,0 +1,43 @@
+---
+title: Bolinho de bacalhau com camarão
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list:
+    - salsinha
+difficulty: ''
+servings: 8 porções
+time: 30 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Bolinho de bacalhau com camarão](/images/bolinho-de-bacalhau-com-camarao__b61cc577_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 8 porções
+- **Tempo de preparo:** 30 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 500 gramas de bacalhau dessalgado, cozido e desfiado
+- 700 gramas de batata asterix cozida e espremida
+- Salsinha a gosto
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Aqueça uma frigideira com azeite.
+2. Aos poucos, frite os camarões apenas até ficarem vermelhos e retire rapidamente.
+3. Reserve.

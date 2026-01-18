@@ -1,0 +1,54 @@
+---
+title: Pavê de abacaxi com bolacha
+date: 2026-01-17T00:00:00.000Z
+categories:
+  - Novidades
+tags:
+  - Novo
+ingredients:
+  list: []
+difficulty: ''
+servings: 10 porções
+time: 60 min
+calories: ''
+author: Lar do chef
+flags: []
+---
+![Pavê de abacaxi com bolacha](/images/pave-de-abacaxi-com-bolacha__3a8b45c7_01.png)
+
+## 📝 Informações da Receita
+
+- **Categoria:** Novidades
+- **Dificuldade:** 
+- **Rendimento:** 10 porções
+- **Tempo de preparo:** 60 min
+- **Calorias:** 
+
+---
+
+## 🧄 Ingredientes
+
+- 1 lata de leite condensado (395 gramas)
+- 2 caixas de creme de leite (400 gramas)
+- 2 xícaras de chá de leite integral (480 ml)
+- 1 colher de sopa bem cheia de amido de milho (20 gramas)
+- 100 gramas de coco ralado (1 xícara de chá)
+- 1 pacote de bolacha maizena
+- 1 abacaxi
+- 1 litro de água
+- 1 xícara de chá de açúcar
+- --
+
+---
+
+## 👨‍🍳 Modo de Preparo
+
+1. Reúna todos os ingredientes em sua bancada;
+2. Descasque o abacaxi, pique em cubos não muito pequenos e ferva em água com açúcar por 20 minutos. Escorra e reserve. Caso prefira, use o abacaxi em calda, sem a necessidade de ferver;
+3. Em uma panela, ainda com o fogo desligado, misture o leite condensado, o leite integral, o amido de milho e o creme de leite até obter um líquido homogêneo;
+4. Ligue o fogo médio e mexa continuamente por 18 minutos, até o creme começar a engrossar e formar bolhas;
+5. Adicione o abacaxi ao creme e cozinhe por mais 5 minutos, apenas para aquecer e incorporar os sabores. Desligue o fogo e mexa mais um pouco até amornar;
+6. Em um refratário (29x18 cm), comece a montagem: faça uma camada de creme, uma de bolacha maisena, e repita até finalizar com creme;
+7. Para decorar, polvilhe coco ralado por cima a gosto;
+8. Leve à geladeira por pelo menos 4 horas antes de servir, para que a sobremesa fique bem firme;
+9. Sirva a sobremesa bem gelada. Aproveite!

@@ -149,6 +149,43 @@ function normalizeTime(raw) {
 }
 
 /* =========================
+   Sugestão de Tags Regionais
+   ========================= */
+const REGIONAL_RULES = [
+  { keywords: ["bahia", "acaraj", "nordeste", "pernambuco", "cear", "maceio", "recife"], tag: "nordeste" },
+  { keywords: ["minas", "queijo", "sudeste", "rio", "paulista", "sao paulo", "rj", "sp", "espirito santo"], tag: "sudeste" },
+  { keywords: ["italia", "massa", "macarrao", "risoto", "pizza", "pesto", "lasanha", "espaguete"], tag: "italia" },
+  { keywords: ["mexico", "taco", "burrito", "chilli", "guacamole", "nacho"], tag: "mexico" },
+  { keywords: ["portugal", "bacalhau", "portuguesa"], tag: "portugal" },
+  { keywords: ["oriente", "japao", "sushi", "shoyu", "gengibre", "china", "oriental", "yakisoba"], tag: "oriental" },
+  { keywords: ["frança", "francesa", "croissant", "quiche", "crepe", "petit", "ratatouille"], tag: "frança" },
+  { keywords: ["eua", "americano", "burger", "hamburguer", "hot dog", "cheesecake"], tag: "eua" },
+  { keywords: ["arabe", "kibe", "esfiha", "homus", "falafel"], tag: "arabe" },
+];
+
+const GENERIC_TAGS = ["popular", "brasil", "caseiro", "prático", "saudável", "tradicional", "fácil", "rápido"];
+
+function suggestTags(title) {
+  const t = String(title || "").toLowerCase();
+  const tags = new Set();
+
+  REGIONAL_RULES.forEach((rule) => {
+    if (rule.keywords.some((k) => t.includes(k))) {
+      tags.add(rule.tag);
+    }
+  });
+
+  // Tenta preencher até 3 tags se tiver poucas
+  let attempts = 0;
+  while (tags.size < 3 && attempts < 20) {
+    const randomTag = GENERIC_TAGS[Math.floor(Math.random() * GENERIC_TAGS.length)];
+    tags.add(randomTag);
+    attempts++;
+  }
+  return Array.from(tags);
+}
+
+/* =========================
    Heurística leve (NÃO agressiva) para identificar “lixo”
    - Serve para sugerir, não para apagar automaticamente no autofix.
    ========================= */
@@ -385,14 +422,20 @@ function buildAutofixContent(parsed, raw) {
   if (!complete.length || !steps.length) flags.add("needs_review");
 
   // preservar canônicos existentes; se não existir, mantém vazio (para review)
-  const canonicalList = (data.ingredients && Array.isArray(data.ingredients.list)) ? data.ingredients.list : [];
+  const canonicalList = data.ingredients && Array.isArray(data.ingredients.list) ? data.ingredients.list : [];
+
+  // tags: se estiver vazio ou com null, sugere novas
+  let tags = normalizeArray(data.tags);
+  if (tags.length === 0 || (tags.length === 1 && tags[0] === null)) {
+    tags = suggestTags(data.title);
+  }
 
   const newData = {
     // preserva campos existentes, sem resetar
     title: (data.title || "").toString().trim() || "",
     date: data.date || new Date().toISOString(),
     categories: normalizeArray(data.categories).length ? normalizeArray(data.categories) : ["Novas Receitas"],
-    tags: normalizeArray(data.tags),
+    tags: tags,
     ingredients: { list: canonicalList.map((x) => String(x).toLowerCase()) },
     difficulty: (data.difficulty || "").toString(),
     servings: (data.servings || "").toString(),

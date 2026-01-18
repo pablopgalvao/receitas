@@ -27,6 +27,7 @@ const DRAFTS_DIR = path.join("source", "_drafts", "receitas");
 const MODE_AUDIT = process.argv.includes("--audit");
 const MODE_AUTOFIX = process.argv.includes("--autofix");
 const MODE_REVIEW = process.argv.includes("--review");
+const MODE_DEDUPE_TITLES = process.argv.includes("--dedupe-titles");
 
 const TARGET_DRAFTS = process.argv.includes("--drafts");
 const TARGET_POSTS = process.argv.includes("--posts");
@@ -38,8 +39,8 @@ const DRY_RUN = process.argv.includes("--dry-run");
 const LIMIT_IDX = process.argv.findIndex((a) => a === "--limit");
 const LIMIT = LIMIT_IDX !== -1 ? parseInt(process.argv[LIMIT_IDX + 1], 10) : Infinity;
 
-if (!MODE_AUDIT && !MODE_AUTOFIX && !MODE_REVIEW) {
-  console.log("Use um modo: --audit ou --autofix ou --review");
+if (!MODE_AUDIT && !MODE_AUTOFIX && !MODE_REVIEW && !MODE_DEDUPE_TITLES) {
+  console.log("Use um modo: --audit ou --autofix ou --review ou --dedupe-titles");
   process.exit(1);
 }
 
@@ -550,6 +551,46 @@ async function reviewCanonicalForFile(parsed, raw) {
   const rebuilt = matter.stringify(body, newData);
   return { changed: true, deferred: false, content: rebuilt };
 }
+  // =========================
+  // Helpers de arquivo
+  // =========================
+
+  function ensureDir(p) {
+    if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true });
+  }
+
+  function uniqueDestPath(destDir, originalName) {
+    const ext = path.extname(originalName);
+    const base = path.basename(originalName, ext);
+
+    let i = 1;
+    while (true) {
+      const tag = String(i).padStart(2, "0");
+      const candidate = path.join(destDir, `${base}_dup_${tag}${ext}`);
+      if (!fs.existsSync(candidate)) return candidate;
+      i++;
+    }
+  }
+
+  function safeMoveToDrafts(srcPath) {
+    ensureDir(DRAFTS_DIR);
+
+    const leaf = path.basename(srcPath);
+    let dest = path.join(DRAFTS_DIR, leaf);
+
+    if (fs.existsSync(dest)) {
+      dest = uniqueDestPath(DRAFTS_DIR, leaf);
+    }
+
+    if (DRY_RUN) {
+      console.log(`(dry-run) mover: ${path.relative(process.cwd(), srcPath)} -> ${path.relative(process.cwd(), dest)}`);
+      return;
+    }
+
+    fs.renameSync(srcPath, dest);
+    console.log(`📦 movido: ${path.relative(process.cwd(), srcPath)} -> ${path.relative(process.cwd(), dest)}`);
+  }
+
 
 /* =========================
    RUN
@@ -565,6 +606,56 @@ async function reviewCanonicalForFile(parsed, raw) {
     missingIngredients: 0, // arquivos com ingredientes incompletos
     missingSteps: 0, // arquivos sem modo de preparo
   };
+
+    if (MODE_DEDUPE_TITLES) {
+    // varre posts + drafts sempre, porque o conflito pode estar entre eles
+    const allFiles = [...listMdFiles(POSTS_DIR), ...listMdFiles(DRAFTS_DIR)].slice(0, LIMIT);
+
+    const byTitle = new Map();
+
+    for (const filePath of allFiles) {
+      const raw = fs.readFileSync(filePath, "utf8");
+      let parsed;
+      try {
+        parsed = parseWithMissingStartFM(raw);
+      } catch {
+        parsed = { data: {}, content: raw };
+      }
+
+      const title = String((parsed.data && parsed.data.title) || "").trim();
+      if (!title) continue;
+
+      if (!byTitle.has(title)) byTitle.set(title, []);
+      byTitle.get(title).push(filePath);
+    }
+
+    let groups = 0;
+    let moved = 0;
+
+    for (const [title, files] of byTitle.entries()) {
+      if (files.length <= 1) continue;
+
+      groups++;
+      console.log(`\n=== TITLE DUPLICADO (EXATO): ${title} | total:${files.length} ===`);
+
+      // Move somente os que estão em _posts
+      for (const fp of files) {
+        const isPost = fp.includes(`${path.sep}_posts${path.sep}`);
+        if (isPost) {
+          safeMoveToDrafts(fp);
+          moved++;
+        } else {
+          console.log(`(mantido) ${path.relative(process.cwd(), fp)}`);
+        }
+      }
+    }
+
+    console.log(`\n=== RESUMO DEDUPE ===`);
+    console.log({ gruposDuplicados: groups, movidosDePostsParaDrafts: moved });
+
+    return;
+  }
+
 
   for (const filePath of targets) {
     stats.total++;

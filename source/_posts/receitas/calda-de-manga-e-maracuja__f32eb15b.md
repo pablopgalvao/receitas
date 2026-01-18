@@ -2,7 +2,7 @@
 title: Calda de manga e maracujá
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Doces e bolos
 tags:
   - Novo
 ingredients:
@@ -18,7 +18,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Doces e bolos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 2 hora

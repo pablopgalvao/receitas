@@ -2,7 +2,7 @@
 title: Calda de damasco
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Doces e bolos
 tags:
   - tradicional
   - prático
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Doces e bolos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min

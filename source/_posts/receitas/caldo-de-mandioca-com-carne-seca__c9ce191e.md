@@ -2,7 +2,7 @@
 title: Caldo de mandioca com carne-seca
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Sopas e caldos
 tags:
   - Novo
 ingredients:
@@ -21,7 +21,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Sopas e caldos
 - **Dificuldade:** 
 - **Rendimento:** 10 porções
 - **Tempo de preparo:** 60 min

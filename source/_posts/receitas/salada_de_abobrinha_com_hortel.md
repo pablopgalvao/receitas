@@ -2,7 +2,7 @@
 title: Salada de abobrinha com hortelã
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - rápido
   - caseiro
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
@@ -35,7 +35,6 @@ flags: []
 - 3 colheres (sopa) de caldo de limão
 - 6 colheres (sopa) de azeite
 - sal a gosto
-- Regue a salada com o molho. Sirva a seguir.
 
 ---
 
@@ -44,3 +43,4 @@ flags: []
 1. Lave abobrinha e as folhas de hortelã sob água corrente e seque bem.
 2. Com a ajuda de um fatiador de legumes (com cuidado para não cortar a mão), faça fatias finas de abobrinha no sentido do comprimento.
 3. Transfira para uma travessa e junte as folhas de hortelã. Tempere com pimenta-do-reino moída na hora e regue com o molho de limão.
+4. Regue a salada com o molho. Sirva a seguir.

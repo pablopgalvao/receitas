@@ -2,7 +2,7 @@
 title: Salada de trigo com abóbora assada
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - brasil
   - popular
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 30 min

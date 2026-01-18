@@ -2,7 +2,7 @@
 title: Salada de grão-de-bico com tomates grelhados e molho de azeite com ovos
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - brasil
   - prático
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min

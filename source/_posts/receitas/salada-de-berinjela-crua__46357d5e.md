@@ -2,7 +2,7 @@
 title: Salada de berinjela crua
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - Novo
 ingredients:
@@ -23,7 +23,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 8 porções
 - **Tempo de preparo:** 20 min

@@ -2,7 +2,7 @@
 title: Salada caprese com tomate assado
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - fácil
   - saudável
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
@@ -36,8 +36,6 @@ flags: []
 - Salada de frango com iogurte no abacaxi
 - sal e pimenta-do-reino moída na hora a gosto
 - folhas de manjericão variadas (comum, basilicão, miúdo e roxo) a gosto
-- Adicione os ramos de manjericão, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture com as mãos para envolver todos os pedaços no azeite e distribua os gomos na assadeira, com a parte da pele voltada para baixo — assim ela não se solta ao assar.
-- Retire os tomates do forno e deixe esfriar. Disponha numa travessa os gomos de tomate e a muçarela de búfala rasgada; tempere com sal e pimenta a gosto e regue com 2 colheres (sopa) de azeite. Finalize com as folhas de manjericão e sirva a seguir.
 
 ---
 

@@ -2,7 +2,7 @@
 title: Salada Caesar com crocante de parmesão
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - tradicional
   - brasil
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 5 min
@@ -34,7 +34,6 @@ flags: []
 - Salada de macarrão com legumes, tomate e molho de mostarda
 - Salada picante de mamão com broto de feijão e amendoim
 - 1 xícara (chá) de queijo parmesão ralado fino
-- Leve uma frigideira pequena antiaderente ao fogo médio (nós usamos uma de 20 cm de diâmetro). Polvilhe ½ xícara (chá) do queijo parmesão ralado até cobrir todo o fundo da frigideira, formando uma camada uniforme. Acerte as bordas com uma espátula de silicone e deixe derreter, sem mexer, por cerca de 5 minutos, até a base começar a dourar – o queijo vai derreter, borbulhar e formar uma placa única.
 - ⅔ de xícara (chá) de maionese caseira
 - 2 colheres (sopa) de água filtrada
 - Lave bem as folhas de alface sob água corrente. Transfira para uma tigela, cubra com água, misture o bactericida de sua escolha e deixe de molho por 15 minutos. Retire as folhas de alface da água em vez de escorrer – assim as sujeirinhas ficam no fundo da tigela. Enxágue sob água corrente, transfira as folhas para uma centrífuga de saladas e seque bem.

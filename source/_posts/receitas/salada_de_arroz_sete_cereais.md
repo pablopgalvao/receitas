@@ -2,7 +2,7 @@
 title: Salada de arroz sete cereais
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - tradicional
   - popular
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 20 min
@@ -39,8 +39,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - 1 colher (sopa) de vinagre de arroz
 - ½ colher (chá) de sal
-- Numa panela média, coloque a água e leve ao fogo alto. Quando ferver, adicione o sal, o arroz e abaixe o fogo. Deixe cozinhar por 20 minutos - os grãos devem estar cozidos mas ainda firmes.
-- Escorra a água e junte a cebola ao arroz. Adicione a hortelã fatiada, tempere com o azeite, o vinagre e misture bem. Ajuste o sal, decore com as folhas de hortelã reservadas. Sirva a seguir.
 
 ---
 

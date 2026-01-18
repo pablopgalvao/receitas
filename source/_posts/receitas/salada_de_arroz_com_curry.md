@@ -2,7 +2,7 @@
 title: Salada de arroz com curry
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - saudável
   - fácil
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 1 min
@@ -37,10 +37,6 @@ flags: []
 - sal e pimenta-do-reino moída na hora a gosto
 - mel a gosto para servir
 - castanha-de-caju apimentada a gosto
-- Lave o ovo sob água corrente e, com um alfinete, faça um furinho na base da casca. Com uma escumadeira, mergulhe o ovo na água fervente, abaixe o fogo e deixe cozinhar por 12 minutos para gema dura (ou por 7 minutos para a gema gelatinosa).
-- Com a escumadeira, transfira o ovo para a tigela com água e gelo para interromper o cozimento. Enquanto isso, prepare os outros ingredientes.
-- Corte o pepino ao meio, no sentido do comprimento. Corte cada metade em três tiras e fatie as tiras em cubos pequenos. Pique grosseiramente as castanhas apimentadas. Descasque o ovo cozido.
-- Junte metade dos cubos do pepino ao arroz, tempere com sal e pimenta-do-reino a gosto e misture bem. Sirva a salada com o ovo cozido, o restante do pepino, a castanha picada e mel a gosto.
 
 ---
 

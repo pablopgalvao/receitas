@@ -2,7 +2,7 @@
 title: Salada de berinjela com molho de iogurte
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - fácil
   - tradicional
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
@@ -37,11 +37,6 @@ flags: []
 - 1 pitada de pimenta síria
 - sal a gosto
 - folhas de salsinha , hortelã, manjericão e coentro a gosto
-- Lave, seque e corte as berinjelas ao meio, no sentido do comprimento. Corte a parte mais fina em meias-luas de 1 cm de espessura. Quando chegar a parte mais larga da berinjela, corte ao meio novamente no sentido do comprimento e fatie as metades em pedaços de 1 cm. Transfira para uma peneira, misture 1 ½ colher (chá) de sal e deixe descansar por 10 minutos sobre uma tigela – isso diminui, quase elimina, o amargor da berinjela.
-- Seque bem os pedaços de berinjela com um pano de prato limpo ou com papel-toalha. Leve uma panela pequena com o óleo ao fogo médio. Para saber a temperatura certa para fritar, coloque um palito de fósforo no óleo ainda frio; quando acender, está no ponto. Forre uma travessa com papel-toalha.
-- Assim que o óleo aquecer, abaixe o fogo e com uma escumadeira adicione algumas fatias de berinjela por vez, delicadamente. Deixe fritar, mexendo de vez em quando até dourar. Transfira para a travessa forrada e repita com o restante.
-- Numa travessa grande, misture o pepino com o tomate. Cubra com a berinjela frita e salpique com as ervas frescas. Sirva a seguir com o molho de iogurte.
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

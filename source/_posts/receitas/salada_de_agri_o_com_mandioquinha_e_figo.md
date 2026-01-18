@@ -2,7 +2,7 @@
 title: Salada de agrião com mandioquinha e figo
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - prático
   - caseiro
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
@@ -39,8 +39,6 @@ flags: []
 - 1 colher (chá) de mel
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Forre uma travessa com o agrião. Disponha, entre as folhas, as rodelas de mandioquinha e os quartos de figo. Regue com o molho e azeite a gosto. Tempere com sal e pimenta-do-reino. Salpique as castanhas picadas e sirva a seguir.
-
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -2,7 +2,7 @@
 title: Salada de beterraba com endro e queijo feta
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - sudeste
   - brasil
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 40 min
@@ -38,7 +38,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - sal a gosto
 - granola de frigideira a gosto para servir
-- Transfira os pedaços de beterraba para uma tigela, tempere com o vinagre, o azeite e sal. Acrescente as folhas de endro e misture bem. Sirva com o queijo feta esfarelado e granola a gosto.
 
 ---
 

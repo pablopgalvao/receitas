@@ -2,7 +2,7 @@
 title: Salada de maionese simples com batata e cenoura
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - Novo
 ingredients:
@@ -24,7 +24,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 65 min

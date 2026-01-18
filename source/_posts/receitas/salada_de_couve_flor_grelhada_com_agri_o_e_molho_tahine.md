@@ -2,7 +2,7 @@
 title: Salada de couve-flor grelhada com agrião e molho tahine
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - saudável
   - caseiro
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 15 min
@@ -37,7 +37,6 @@ flags: []
 - ¼ de xícara (chá) de tahine (pasta de gergelim)
 - ¼ de xícara (chá) de água filtrada
 - sal a gosto
-- No pilão, bata o dente de alho com uma pitada de sal até formar uma pastinha. Junte o tahine, o caldo de limão e misture bem. Acrescente a água, aos poucos, até ficar na consistência desejada (mais fluido ou mais encorpado). Transfira para uma molheira e reserve.
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira média, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com um fio de azeite e junte quantos floretes couberem, sem amontoar um sobre o outro. Tempere com sal e pimenta a gosto e deixe dourar por 6 minutos, mexendo de vez em quando. Transfira para uma travessa e repita com o restante.

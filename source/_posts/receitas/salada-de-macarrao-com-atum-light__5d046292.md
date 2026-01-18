@@ -2,7 +2,7 @@
 title: Salada de macarrão com atum light
 date: 2026-01-17T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - Novo
 ingredients:

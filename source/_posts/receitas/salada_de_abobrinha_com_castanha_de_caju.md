@@ -2,7 +2,7 @@
 title: Salada de abobrinha com castanha-de-caju
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Saladas
 tags:
   - brasil
   - popular
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Saladas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 10 min
@@ -33,7 +33,6 @@ flags: []
 - 2 colheres (sopa) de azeite
 - ¼ de xícara (chá) de castanha-de-caju tostada e picada
 - sal e pimenta-do-reino moída na hora a gosto
-- Transfira as tiras de abobrinha para uma tigela, tempere com o caldo de limão, o azeite, sal e pimenta a gosto. Misture e deixe a abobrinha curtir nos temperos por 10 minutos – as tiras vão ficar mais macias e saborosas. Polvilhe com as castanhas e sirva a seguir.
 
 ---
 

@@ -39,15 +39,10 @@ flags: []
 - 1 colher (chá) de canela em pó
 - 1 pitada de açúcar
 - sal a gosto
-- Numa tigela coloque a lentilha, cubra com 2 xícaras (chá) de água fervente e deixe de molho enquanto prepara o caldo de frango - assim ela absorve a água, amolece e cozinha no mesmo tempo do arroz.
-- Numa panela média, coloque 1,25 litro de água, a cebola cravejada com louro, a cenoura, os grãos de pimenta, os filés de frango e 1 colher (chá) de sal. Leve ao fogo alto; quando ferver, abaixe o fogo e deixe cozinhar por mais 15 minutos.
-- Assim que as cebolas estiverem bem douradas, acrescente o arroz e misture bem para envolver todos os grãos com o azeite. Misture a pimenta-síria, a canela e 1 colher (chá) de sal. Escorra a água da lentilha e junte ao arroz. Regue com 4 xícaras (chá) do caldo, misture e aumente o fogo para médio.
-- Corte os filés de frango ao meio, no sentido do comprimento, e cada metade em fatias na diagonal. Leve uma frigideira ao fogo médio com ½ colher (sopa) de manteiga. Quando derreter, doure as fatias de frango em etapas - não coloque todas de uma só vez; elas devem ficar em contato com o fundo da frigideira para dourar. Tempere com sal a gosto, transfira para um prato e repita com o restante, colocando mais manteiga na frigideira a cada leva.
 - 1 xícara (chá) de coalhada seca (cerca de 200 g)
 - ½ xícara (chá) de nozes
 - folhas de hortelã a gosto
 - azeite a gosto
-- Com um garfo, solte o arroz com lentilhas, transfira para uma travessa e distribua os pedaços de frango dourados ao redor. Coloque sobre o arroz colheradas da coalhada seca, salpique com as nozes e folhas de hortelã a gosto. Regue com azeite e sirva a seguir.
 
 ---
 

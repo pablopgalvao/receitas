@@ -34,9 +34,6 @@ flags: []
 - 2 colheres (sopa) de manteiga
 - sal a gosto
 - crocante de bacon a gosto para servir
-- Destaque as folhas do maço de escarola e lave sob água corrente. Transfira para uma centrífuga de saladas e seque bem. Com uma escovinha para legumes, lave bem a casca das batatas sob água corrente.
-- Enquanto as batatas cozinham, aproveite para refogar a escarola. Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com o azeite, adicione o alho e mexa por 1 minuto para perfumar. Acrescente a escarola, tempere com sal e refogue por cerca de 2 minutos, até que fique levemente murcha. Reserve.
-- Tempere as cavidades das batatas com sal, adicione uma colherada de manteiga e recheie com a escarola refogada. Polvilhe com crocante de bacon e sirva a seguir.
 
 ---
 

@@ -33,9 +33,6 @@ flags: []
 - 4 xícaras (chá) de água
 - 2 colheres (sopa) de azeite (ou óleo)
 - 1 colher (chá) de sal
-- Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 4 xícaras (chá) de água ao fogo baixo, até ferver.
-- Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite e refogue a cebola, mexendo sempre por cerca de 2 minutos, até murchar. Tempere com uma pitada de sal e junte o louro.
-- Meça 4 xícaras (chá) da água fervente e regue o arroz. Tempere com o sal, misture bem e aumente o fogo para médio. Não mexa mais.
 
 ---
 

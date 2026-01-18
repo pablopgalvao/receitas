@@ -31,8 +31,6 @@ flags: []
 
 - 3 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Transfira os gomos para uma panela, cubra com água e tempere com uma colher (chá) de sal (comum ou grosso). Leve ao fogo alto e, quando água começar a ferver, deixe cozinhar por 6 minutos.
-- Tempere com sal grosso e pimenta-do-reino moída na hora. Leve ao forno preaquecido para assar por cerca de 40 minutos. Chacoalhe a assadeira de tempos em tempos ou, na metade do tempo, vire os pedaços com uma pinça.
 
 ---
 

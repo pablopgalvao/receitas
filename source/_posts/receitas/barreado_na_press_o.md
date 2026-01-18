@@ -35,11 +35,6 @@ flags: []
 - ½ xícara (chá) de vinagre de vinho tinto
 - 1 xícara (chá) de água
 - folhas de salsinha a gosto para servir
-- Corte a paleta em cubos de 3 cm. Transfira para uma tigela grande e tempere com 1 colher (sopa) de sal e o cominho. Mantenha a carne em temperatura ambiente enquanto separa os outros ingredientes.
-- Descasque e corte as cebolas em meias-luas finas de 0,5 cm. Transfira para uma tigela grande. Descasque e pique fino os dentes de alhos. Lave, seque e pique grosseiramente as folhas de salsinha com parte do talo.
-- Na tigela com a cebola, misture o alho picado, a salsinha e as folhas de louro. Tempere com 2 colheres (chá) de sal e misture bem.
-- Na hora de servir, transfira o barreado para uma panela grande, tampe e leve ao fogo baixo para aquecer por cerca de 15 minutos, mexendo de vez em quando. Sirva a seguir com banana-da-terra grelhada, farinha de mandioca torrada e folhas de salsinha.
-- azeite a gosto
 
 ---
 

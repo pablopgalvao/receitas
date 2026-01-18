@@ -31,7 +31,6 @@ flags: []
 
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Unte com azeite uma assadeira média. Transfira as batatas para a assadeira e tempere com sal e pimenta a gosto – o sal moído na hora, além de temperar, dá uma textura crocante para a receita (se preferir utilize sal refinado). Debulhe o ramo de alecrim sobre as batatas e regue com 2 colheres (sopa) de azeite.
 
 ---
 

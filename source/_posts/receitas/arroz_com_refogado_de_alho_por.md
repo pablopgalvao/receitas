@@ -34,9 +34,6 @@ flags: []
 - 4 xícaras (chá) de água
 - 2 colheres (sopa) de azeite (ou óleo)
 - 1 colher (chá) de sal
-- Lave e seque o alho-poró. Descarte a raiz e fatie o talo em rodelas médias de cerca de 0,5 cm - você pode congelar as folhas para preparar um caldo caseiro. Numa chaleira, leve um pouco mais de 4 xícaras (chá) de água ao fogo baixo, até ferver.
-- Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite, junte o alho-poró e refogue por cerca de 3 minutos, até murchar. Tempere com o sal, junte o louro e acrescente o arroz. Mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar o arroz soltinho depois de cozido.
-- Meça 4 xícaras (chá) da água fervente e regue sobre o arroz. Misture bem e deixe cozinhar em fogo médio sem mexer. Assim que a água começar a secar e atingir o mesmo nível do arroz, abaixe o fogo e tampe parcialmente a panela. Deixe cozinhar até que o arroz absorva toda a água - para verificar se a água secou, fure o arroz com um garfo e afaste delicadamente alguns grãos do fundo da panela.
 
 ---
 

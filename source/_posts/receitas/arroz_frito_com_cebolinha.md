@@ -32,7 +32,6 @@ flags: []
 - 2 xícaras (chá) de arroz branco cozido
 - 2 colheres (sopa) de azeite
 - sal a gosto
-- Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com o azeite, junte a cebolinha e deixe fritar por 1 minuto. Junte o arroz, tempere com sal e misture bem. Deixe fritar por cerca de 10 minutos, mexendo de vez em quando, até ficar dourado. Transfira para uma tigela e sirva a seguir.
 
 ---
 

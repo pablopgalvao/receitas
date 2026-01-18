@@ -34,7 +34,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - folhas de hortelã picadas a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Lave, seque e corte os tomates ao meio; descarte as sementes e corte cada metade em cubos de 0,5 cm. Transfira para uma tigela, tempere com o azeite, o caldo de limão, sal e pimenta a gosto. Misture as folhas de hortelã e deixe na geladeira enquanto prepara o arroz. Na hora de servir, misture a castanha picada.
 - 1 xícara (chá) de arroz
 - 2 xícaras (chá) de água
 - ¼ de xícara (chá) de uva-passa branca

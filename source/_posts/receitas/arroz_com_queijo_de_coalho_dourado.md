@@ -34,10 +34,6 @@ flags: []
 - 1½ colher (sopa) de azeite
 - ½ colher (sopa) de manteiga
 - sal a gosto
-- Descasque e pique fino a cebola. Corte o queijo de coalho em cubos pequenos. Numa chaleira, leve um pouco mais de 3 xícaras (chá) de água ao fogo baixo para ferver.
-- Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite e junte a cebola. Tempere com uma pitada de sal e refogue por cerca de 2 minutos até murchar.
-- Acrescente o arroz, a folha de louro e mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar o arroz soltinho depois de cozido. Regue com 3 xícaras (chá) da água fervente, tempere com 1 colher (chá) de sal e misture bem. Aumente o fogo para médio e não mexa mais.
-- Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga e deixe derreter. Junte o queijo de coalho e deixe por cerca de 5 minutos até ficar bem dourado - mexa de vez em quando com a espátula para dourar por igual.
 
 ---
 

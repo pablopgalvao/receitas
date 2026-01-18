@@ -35,7 +35,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - ½ colher (chá) de sal
 - ¼ de xícara (chá) de castanha-de-caju torrada e sem sal
-- Leve a panela de pressão (sem a tampa) ao fogo médio para aquecer, regue com o azeite e acrescente a cebola. Tempere com uma pitada de sal e refogue por cerca de 2 minutos, até murchar. Junte o louro, o arroz, tempere com o sal e misture bem por 1 minuto para envolver os grãos com o azeite.
 
 ---
 

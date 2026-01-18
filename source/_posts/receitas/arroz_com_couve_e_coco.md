@@ -33,8 +33,6 @@ flags: []
 - ½ xícara (chá) de coco seco em flocos
 - 2 colheres (sopa) de azeite Andorinha
 - pimenta-do-reino moída na hora a gosto
-- Numa frigideira média, misture o coco com 1 colher (sopa) de azeite. Espalhe o coco na frigideira e leve ao fogo médio. Mexa de vez em quando por cerca de 2 minutos, ou até o coco dourar.
-- Transfira o coco para a tigela com o arroz, raspando bem o fundo da frigideira com uma espátula para tirar qualquer pedacinho que tiver sobrado e também o óleo residual do coco.
 
 ---
 

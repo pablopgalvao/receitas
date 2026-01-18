@@ -34,7 +34,6 @@ flags: []
 - 1 xícara (chá) de água
 - ¾ de xícara (chá) de açúcar
 - canela em pó a gosto para servir
-- Numa panela média (com borda alta), junte o leite, a água, o açúcar e o arroz. Misture bem para dissolver o açúcar.
 
 ---
 

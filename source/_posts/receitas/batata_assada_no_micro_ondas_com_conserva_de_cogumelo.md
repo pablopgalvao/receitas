@@ -34,12 +34,6 @@ flags: []
 - 1 colher (chá) de gengibre ralado
 - 2 colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Leve uma panela média com 1,5 litro de água ao fogo alto. Quando ferver, mergulhe o shimeji e cozinhe por 2 minutos até ficar levemente macio. Passe os cogumelos por uma peneira e aperte delicadamente com as costas de uma colher para tirar o excesso de água.
-- Transfira os cogumelos ainda quentes para a tigela com o molho, tempere com ¼ de colher (chá) de sal e pimenta a gosto. Misture bem e leve para a geladeira por, no mínimo, 30 minutos para os cogumelos absorverem o sabor do molho. Enquanto isso, faça o pré-preparo das batatas.
-- 4 colheres (sopa) de queijo de iogurte caseiro
-- azeite a gosto
-- sal e pimenta-do-reino moída na hora a gosto
-- Regue a cavidade das batatas com um fio de azeite e tempere com sal e pimenta-do-reino a gosto. Recheie cada uma com 2 colheres (sopa) do queijo de iogurte, metade da conserva de cogumelo e polvilhe com farofinha de bacon. Sirva a seguir.
 
 ---
 

@@ -2,7 +2,7 @@
 title: Beijinho de colher
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Doces e bolos
 tags:
   - rápido
   - brasil
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Doces e bolos
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 12 min
@@ -32,7 +32,6 @@ flags: []
 - ½ xícara (chá) de coco seco ralado (40 g)
 - ⅓ de xícara (chá) de leite
 - 1 colher (sopa) de manteiga
-- Coloque o leite condensado, o leite e a manteiga numa panela pequena e leve ao fogo baixo. Mexa com uma espátula de silicone até a manteiga derreter.
 
 ---
 

@@ -31,7 +31,6 @@ flags: []
 
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
-- Lave, descasque e passe as batatas-doces pela parte grossa do ralador. Seque com um pano de prato limpo e transfira para uma tigela. Junte ¼ de xícara (chá) de azeite, tempere com sal, pimenta e misture bem com as mãos para envolver todas as tirinhas.
 
 ---
 

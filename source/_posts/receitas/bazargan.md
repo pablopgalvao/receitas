@@ -46,9 +46,6 @@ flags: []
 - 1¾ de xícara (chá) de nozes tostadas e picadas (cerca de 200 g)
 - ⅓ de xícara (chá) de salsinha fresca picada (1 maço)
 - 1½ colher (chá) de sal
-- Numa tigela grande, junte o azeite, o molho de romã, o caldo de limão, o extrato de tomate, o coentro, o cominho, a pimenta-da-jamaica e o sal. Misture bem com um garfo.
-- Junte o trigo à tigela com o molho e misture bem. Prove e, se necessário, ajuste o sal. Leve à geladeira para que o trigo absorva melhor o sabor do molho e deixe resfriar por pelo menos 3 horas antes de servir (se preferir, prepare no dia anterior).
-- Na hora de ir à mesa, misture as nozes e a salsinha picada.
 
 ---
 

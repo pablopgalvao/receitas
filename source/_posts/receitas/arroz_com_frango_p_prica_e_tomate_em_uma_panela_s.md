@@ -41,17 +41,11 @@ flags: []
 - ½ colher (chá) de páprica defumada
 - 1 xícara (chá) de tomate-cereja
 - sal e pimenta-do-reino moída na hora a gosto
-- Tempere os cubos de frango com ½ colher (chá) de sal. Leve uma chaleira com a água ao fogo médio para ferver.
-- Leve uma panela média ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e acrescente metade dos cubos de frango, sem amontoar – se colocar todos os pedaços ao mesmo tempo eles cozinham no próprio vapor em vez de dourar. Deixe dourar por 3 minutos e vire os cubos com uma pinça para dourar o outro lado por igual. Transfira o frango dourado para uma tigela, adicione ½ colher (sopa) de azeite na panela e repita com o restante. Transfira para a tigela e reserve.
-- Mantenha a panela em fogo médio, regue com 1 colher (sopa) de azeite, acrescente a cebola, tempere com uma pitada de sal e refogue por 3 minutos até murchar. Junte o alho, o extrato de tomate e refogue por 1 minuto.
-- Abaixe o fogo, adicione 1 colher (sopa) de azeite e junte o arroz. Tempere com as pápricas, o cominho, ½ colher (chá) de sal e pimenta a gosto. Junte o louro e mexa bem por 1 minuto.
-- Na hora de servir, regue os legumes com um fio de azeite e tempere com sal e pimenta a gosto. Sirva a seguir com o molho.
 - ¼ de xícara (chá) de folhas de salsinha
 - 2 colheres (sopa) de amêndoa tostada
 - ½ xícara (chá) de pão torrado em pedaços de 2 cm (cerca de 2 fatias de pão torrado)
 - ½ xícara (chá) de azeite Andorinha
 - sal a gosto
-- Coloque todos os ingredientes no mini-processador, tempere com uma pitada de sal e bata bem até triturar. Reserve numa molheira
 
 ---
 

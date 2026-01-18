@@ -32,7 +32,6 @@ flags: []
 - 1½ xícara (chá) de arroz
 - 2 xícaras (chá) de água
 - 1 colher (chá) de sal
-- Na panela de pressão, coloque o arroz, a água, o sal e o anis-estrelado. Misture, tampe e leve ao fogo alto.
 
 ---
 

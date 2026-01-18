@@ -33,7 +33,6 @@ flags: []
 - 3 xícaras (chá) de água
 - ½ colher (chá) de sal
 - azeite a gosto (opcional)
-- Leve uma panela pequena com a água e a cebola ao fogo médio. Quando ferver, acrescente o arroz e o sal. Regue com um fio de azeite e misture.
 
 ---
 

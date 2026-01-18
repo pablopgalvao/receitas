@@ -37,7 +37,6 @@ flags: []
 - 1 colher (chá) de semente de coentro
 - ½ colher (chá) de pimenta calabresa
 - ½ colher (chá) de sal
-- Numa frigideira pequena, coloque o azeite, a castanha-de-caju, as sementes de girassol e de coentro, a pimenta calabresa, o alecrim e o sal. Leve ao fogo baixo, por cerca de 4 minutos, mexendo de vez em quando.
 
 ---
 

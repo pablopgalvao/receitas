@@ -35,9 +35,6 @@ flags: []
 - 2 colheres (sopa) de shoyu (molho de soja)
 - óleo a gosto
 - sal a gosto
-- Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo – se um estiver estragado você não perde a receita. Bata bem com um garfo para misturar as claras com as gemas e tempere com uma pitada de sal.
-- Leve uma frigideira grande antiaderente ao fogo baixo. Quando aquecer, regue com 1 colher (chá) de óleo e coloque os ovos batidos. Mantenha em fogo baixo sem mexer até a omelete começar a firmar nas bordas e no centro, por cerca de 3 minutos – a ideia é que ela fique fininha mesmo, como uma panqueca sem dourar.
-- Mantenha a frigideira no fogão e aumente o fogo para médio. Regue com 1 colher (chá) de óleo e coloque a cenoura. Tempere com uma pitada de sal e refogue por 2 minutos até murchar. Acrescente mais 1 colher (sopa) de óleo, junte o arroz e o gergelim. Deixe fritar por cerca de 12 minutos, mexendo de vez em quando, até ficar levemente tostados e soltinhos – não mexa demais para não quebrar os grãos. Enquanto isso, aproveite para preparar o molho.
 - 1 colher (sopa) de mel
 - 1 colher (sopa) de vinagre de arroz
 - 3 colheres (sopa) de óleo

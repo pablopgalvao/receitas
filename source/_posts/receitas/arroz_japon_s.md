@@ -33,7 +33,6 @@ flags: []
 - 1½ xícara (chá) de arroz japonês (grão do tipo longo para culinária oriental)
 - 3 xícaras (chá) de água
 - gergelim branco a gosto para servir
-- Desligue o fogo, tampe a panela e deixe o arroz terminar de cozinhar no próprio vapor por mais 5 minutos. Na hora de servir, salpique com gergelim branco. Ele é perfeito para acompanhar preparos orientais.
 
 ---
 

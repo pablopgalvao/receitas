@@ -31,7 +31,6 @@ flags: []
 
 - 1 colher (sopa) de azeite
 - sal a gosto
-- Assim que estiver dourada, transfira a batata palha para uma travessa e repita o processo com a outra metade — a batata palha fica mais crocante depois de esfriar. Tempere com sal a gosto e sirva a seguir.
 
 ---
 

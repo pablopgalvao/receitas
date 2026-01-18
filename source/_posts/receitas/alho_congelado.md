@@ -30,7 +30,6 @@ flags: []
 ## 🧄 Ingredientes
 
 - Refogado de cebola, cenoura e salsão congelado
-- Leve 3 xícaras (chá) de água ao fogo alto para ferver. Numa tigela média, solte os dentes de alho com as mãos.
 
 ---
 

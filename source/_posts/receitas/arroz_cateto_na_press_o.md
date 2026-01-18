@@ -33,7 +33,6 @@ flags: []
 - 1 colher (sopa) de azeite
 - 2 xícaras (chá) de água
 - 1 colher (chá) de sal
-- Leve a panela de pressão (sem a tampa) ao fogo médio. Quando aquecer regue com o azeite, junte a cebola e o louro. Tempere com o sal e refogue até murchar.
 
 ---
 

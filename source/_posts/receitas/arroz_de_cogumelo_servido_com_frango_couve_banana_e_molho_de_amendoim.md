@@ -38,10 +38,6 @@ flags: []
 - ¾ de xícara (chá) de água filtrada
 - 3½ colheres (sopa) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e coloque as metades da banana, com o lado cortado para baixo. Deixe dourar até ficar macia, por cerca de 3 minutos – dê uma leve pressionada nas bananas com a espátula para dourar de maneira uniforme. Transfira para a tábua e reserve as bananas ainda na casca.
-- Mantenha a frigideira em fogo médio (nem precisa lavar), regue com ½ colher (sopa) de azeite, acrescente os cogumelos e tempere com uma pitada de sal e de pimenta. Refogue por 1 minuto, junte o arroz e mexa por cerca de 4 minutos, até o cogumelo murchar levemente, mas sem perder a textura, e para aquecer o arroz – raspe bem o fundo da frigideira com a espátula para evitar que os grãos grudem. Divida o arroz em dois pratos de servir e reserve.
-- Limpe o fundo da frigideira com um pedaço de papel toalha e volte ao fogo médio. Regue com 1 colher (sopa) de azeite, adicione o alho e a couve picados, tempere com sal e pimenta a gosto. Refogue por 2 minutos até começar a murchar — é bem rápido mesmo, para a couve manter a textura e não amargar. Transfira para os pratos e mantenha a frigideira em fogo médio.
-- Tempere os cubos de frango com sal e pimenta. Regue a frigideira com o azeite restante e disponha os cubos de frango, bem espalhados, sem amontoar. Deixe cozinhar por 6 minutos, mexendo de vez em quando para dourar por igual. Transfira os cubos de frango para os pratos e prepare o molho.
 
 ---
 

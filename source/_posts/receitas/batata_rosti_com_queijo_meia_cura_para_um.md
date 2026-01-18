@@ -39,7 +39,6 @@ flags: []
 - 1 colher (sopa) de vinagre de vinho tinto
 - ¼ de xícara (chá) de azeite
 - sal e pimenta-do-reino moída na hora a gosto
-- Num pote de vidro com tampa, junte a mostarda de Dijon, o mel, o vinagre de vinho tinto e o azeite. Tampe e chacoalhe bem até formar um molho liso. Prove — algumas mostardas são mais picantes e salgadas que outras — e então tempere com sal e pimenta-do-reino. Tampe novamente e agite apenas para misturar.
 
 ---
 

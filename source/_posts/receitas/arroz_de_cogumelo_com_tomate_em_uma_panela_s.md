@@ -37,9 +37,6 @@ flags: []
 - 1 colher (chá) de páprica doce
 - pimenta-do-reino moída na hora a gosto
 - cebolinha fatiada a gosto para servir
-- Coloque um pouco mais de 3 xícaras (chá) de água numa chaleira e leve ao fogo médio para aquecer.
-- Leve uma caçarola baixa grande (ou frigideira de borda alta) ao fogo médio para aquecer. Regue com 1 colher (sopa) de azeite, adicione os cogumelos e deixe dourar por cerca de 5 minutos sem mexer — assim eles ficam dourados e não soltam muita água. Dê uma misturada nos cogumelos com uma espátula e deixe dourar novamente por mais 3 minutos.
-- Adicione ao cogumelo 1 colher (sopa) de azeite, o alho e mexa por 1 minuto para perfumar. Junte o tomate ralado (com o líquido) e refogue por 1 minuto. Acrescente o arroz, a páprica, a cebolinha, tempere com 1 colher (chá) de sal e pimenta a gosto e misture bem.
 
 ---
 

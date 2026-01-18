@@ -35,7 +35,6 @@ flags: []
 - 2 xícaras (chá) de água
 - 1 pitada de sal
 - canela em pó a gosto para servir
-- Na panela de pressão elétrica, coloque o arroz, o leite, a água, a casca de laranja, a rama de canela, os cravos e o sal. Misture, tampe e programe a panela para cozinhar na pressão alta por 10 minutos.
 
 ---
 

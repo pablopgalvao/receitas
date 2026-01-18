@@ -2,7 +2,7 @@
 title: Batida de coco
 date: 2026-01-08T00:00:00.000Z
 categories:
-  - Novidades
+  - Bebidas
 tags:
   - caseiro
   - rápido
@@ -20,7 +20,7 @@ flags: []
 
 ## 📝 Informações da Receita
 
-- **Categoria:** Novidades
+- **Categoria:** Bebidas
 - **Dificuldade:** 
 - **Rendimento:** 
 - **Tempo de preparo:** 
@@ -33,7 +33,6 @@ flags: []
 - 200 ml de leite de coco (de preferência caseiro)
 - 6 colheres (sopa) de leite condensado
 - cubos de gelo a gosto
-- No liquidificador coloque todos os ingredientes e junte cubos de gelo a gosto (quanto mais gelada estiver a batidinha melhor). Bata bem para misturar os ingredientes e triturar o gelo. Sirva a seguir.
 
 ---
 

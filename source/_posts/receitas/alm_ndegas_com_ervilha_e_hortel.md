@@ -34,7 +34,6 @@ flags: []
 - ½ colher (chá) de cominho
 - ½ colher (chá) de sal
 - azeite a gosto
-- No processador de alimentos, junte a carne, a cebola e bata até triturar bem. Acrescente a farinha de rosca, as ervas, o cominho, o sal, as raspas do limão, 1 colher (sopa) de azeite e bata novamente para formar uma massa lisa.
 - ⅓ de xícara (chá) de ervilha congelada
 - ½ xícara (chá) de água
 - 1 colher (sopa) de manteiga gelada

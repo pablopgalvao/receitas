@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Petit gateau com Kimzinho](/images/petit-gateau-com-kimzinho__3d2fc07e_01.png)
+![Petit gateau com Kimzinho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/petit-gateau-com-kimzinho__3d2fc07e_01.webp)
 
 ## 📝 Informações da Receita
 

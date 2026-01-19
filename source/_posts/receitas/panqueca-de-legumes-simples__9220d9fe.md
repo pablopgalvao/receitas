@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca de legumes fácil](/images/panqueca-de-legumes-simples__9220d9fe_01.png)
+![Panqueca de legumes fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-legumes-simples__9220d9fe_01.webp)
 
 ## 📝 Informações da Receita
 

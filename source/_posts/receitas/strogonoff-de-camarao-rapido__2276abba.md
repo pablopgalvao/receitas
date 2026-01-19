@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff de camarão rápido](/images/strogonoff-de-camarao-rapido__2276abba_01.png)
+![Strogonoff de camarão rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-camarao-rapido__2276abba_01.webp)
 
 ## 📝 Informações da Receita
 

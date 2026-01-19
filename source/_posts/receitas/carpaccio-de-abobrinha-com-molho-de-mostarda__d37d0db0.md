@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carpaccio de abobrinha com molho de mostarda](/images/carpaccio-de-abobrinha-com-molho-de-mostarda__d37d0db0_01.png)
+![Carpaccio de abobrinha com molho de mostarda](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carpaccio-de-abobrinha-com-molho-de-mostarda__d37d0db0_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobremesa de bolo](/images/sobremesa-de-bolo__e373fcdc_01.png)
+![Sobremesa de bolo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobremesa-de-bolo__e373fcdc_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife à parmegiana simples](/images/bife-a-parmegiana-simples__6c695ae6_01.png)
+![Bife à parmegiana simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-a-parmegiana-simples__6c695ae6_01.webp)
 
 ## 📝 Informações da Receita
 

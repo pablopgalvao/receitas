@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de panela com batatas](/images/carne-de-panela-com-batatas__9935c751_01.png)
+![Carne de panela com batatas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-com-batatas__9935c751_01.webp)
 
 ## 📝 Informações da Receita
 

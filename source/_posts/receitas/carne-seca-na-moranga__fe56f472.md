@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne-seca na moranga](/images/carne-seca-na-moranga__fe56f472_01.png)
+![Carne-seca na moranga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-seca-na-moranga__fe56f472_01.webp)
 
 ## 📝 Informações da Receita
 

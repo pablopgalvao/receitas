@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fraldinha na air fryer](/images/fraldinha-na-air-fryer__8044b3f4_01.png)
+![Fraldinha na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fraldinha-na-air-fryer__8044b3f4_01.webp)
 
 ## 📝 Informações da Receita
 

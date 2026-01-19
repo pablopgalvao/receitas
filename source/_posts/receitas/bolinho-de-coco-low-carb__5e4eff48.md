@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de coco low carb](/images/bolinho-de-coco-low-carb__5e4eff48_01.png)
+![Bolinho de coco low carb](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-coco-low-carb__5e4eff48_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de coco](/images/farofa-de-coco__d7e00e46_01.png)
+![Farofa de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-de-coco__d7e00e46_01.webp)
 
 ## 📝 Informações da Receita
 

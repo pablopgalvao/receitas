@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chá gelado com limão](/images/cha-gelado-com-limao__73347660_01.png)
+![Chá gelado com limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cha-gelado-com-limao__73347660_01.webp)
 
 ## 📝 Informações da Receita
 

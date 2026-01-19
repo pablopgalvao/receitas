@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Disco de batata crocante com ovo e bacon](/images/disco_de_batata_crocante_com_ovo_e_bacon.jpg)
+![Disco de batata crocante com ovo e bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/disco_de_batata_crocante_com_ovo_e_bacon.jpg)
 
 ## 📝 Informações da Receita
 

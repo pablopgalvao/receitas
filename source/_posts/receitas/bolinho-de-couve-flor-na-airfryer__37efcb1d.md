@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de couve-flor na airfryer](/images/bolinho-de-couve-flor-na-airfryer__37efcb1d_01.png)
+![Bolinho de couve-flor na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-couve-flor-na-airfryer__37efcb1d_01.webp)
 
 ## 📝 Informações da Receita
 

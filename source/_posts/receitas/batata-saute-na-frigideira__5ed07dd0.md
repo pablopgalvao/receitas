@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata sauté na frigideira](/images/batata-saute-na-frigideira__5ed07dd0_01.png)
+![Batata sauté na frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-saute-na-frigideira__5ed07dd0_01.webp)
 
 ## 📝 Informações da Receita
 

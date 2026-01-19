@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de mostarda e mel para salada](/images/molho-de-mostarda-e-mel-para-salada__0091eff5_01.png)
+![Molho de mostarda e mel para salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-de-mostarda-e-mel-para-salada__0091eff5_01.webp)
 
 ## 📝 Informações da Receita
 

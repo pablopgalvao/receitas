@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de fubá com Maizena e erva-doce](/images/bolo-de-fuba-com-maizena-e-erva-doce__ec2facb3_01.png)
+![Bolo de fubá com Maizena e erva-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-maizena-e-erva-doce__ec2facb3_01.webp)
 
 ## 📝 Informações da Receita
 

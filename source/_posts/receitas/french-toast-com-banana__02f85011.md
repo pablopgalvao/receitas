@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![French toast com banana](/images/french-toast-com-banana__02f85011_01.png)
+![French toast com banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/french-toast-com-banana__02f85011_01.webp)
 
 ## 📝 Informações da Receita
 

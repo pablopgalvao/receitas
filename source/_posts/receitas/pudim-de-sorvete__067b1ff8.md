@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de sorvete](/images/pudim-de-sorvete__067b1ff8_01.png)
+![Pudim de sorvete](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-de-sorvete__067b1ff8_01.webp)
 
 ## 📝 Informações da Receita
 

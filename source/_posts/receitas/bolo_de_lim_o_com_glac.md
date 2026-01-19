@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de limão com glacê](/images/bolo_de_lim_o_com_glac.jpg)
+![Bolo de limão com glacê](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg)
 
 ## 📝 Informações da Receita
 

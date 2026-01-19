@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de batata-doce com frango](/images/escondidinho-de-batata-doce-com-frango__d28f8590_01.png)
+![Escondidinho de batata-doce com frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-batata-doce-com-frango__d28f8590_01.webp)
 
 ## 📝 Informações da Receita
 

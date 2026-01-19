@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sangria no copo](/images/sangria_no_copo.jpg)
+![Sangria no copo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sangria_no_copo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de abóbora (pumpkin pie)](/images/torta_de_ab_bora_pumpkin_pie.jpg)
+![Torta de abóbora (pumpkin pie)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torta_de_ab_bora_pumpkin_pie.jpg)
 
 ## 📝 Informações da Receita
 

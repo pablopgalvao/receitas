@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobrecoxa assada com batata](/images/sobrecoxa-assada-com-batata__7f46bfaf_01.png)
+![Sobrecoxa assada com batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobrecoxa-assada-com-batata__7f46bfaf_01.webp)
 
 ## 📝 Informações da Receita
 

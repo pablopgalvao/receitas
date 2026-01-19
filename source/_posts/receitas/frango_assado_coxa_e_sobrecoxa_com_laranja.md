@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango assado (coxa e sobrecoxa) com laranja](/images/frango_assado_coxa_e_sobrecoxa_com_laranja.jpg)
+![Frango assado (coxa e sobrecoxa) com laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_assado_coxa_e_sobrecoxa_com_laranja.jpg)
 
 ## 📝 Informações da Receita
 

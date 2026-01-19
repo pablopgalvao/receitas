@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Waffle low carb de pasta de amendoim](/images/waffle-low-carb-de-pasta-de-amendoim__6797bd22_01.png)
+![Waffle low carb de pasta de amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/waffle-low-carb-de-pasta-de-amendoim__6797bd22_01.webp)
 
 ## 📝 Informações da Receita
 

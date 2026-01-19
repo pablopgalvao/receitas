@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de escalopinho de lombo com bacon e sálvia e couve-flor grelhada](/images/p_efe_de_escalopinho_de_lombo_com_bacon_e_s_lvia_e_couve_flor_grelhada.jpg)
+![Pê-efe de escalopinho de lombo com bacon e sálvia e couve-flor grelhada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_escalopinho_de_lombo_com_bacon_e_s_lvia_e_couve_flor_grelhada.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Doce de leite Ninho simples](/images/doce-de-leite-ninho-simples__b0388942_01.png)
+![Doce de leite Ninho simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-leite-ninho-simples__b0388942_01.webp)
 
 ## 📝 Informações da Receita
 

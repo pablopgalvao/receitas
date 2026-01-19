@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de milho](/images/bolo-de-milho__a254225c_01.png)
+![Bolo de milho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho__a254225c_01.webp)
 
 ## 📝 Informações da Receita
 

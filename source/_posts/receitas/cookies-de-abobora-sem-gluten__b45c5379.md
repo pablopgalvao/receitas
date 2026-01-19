@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies de abóbora sem glúten](/images/cookies-de-abobora-sem-gluten__b45c5379_01.png)
+![Cookies de abóbora sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-de-abobora-sem-gluten__b45c5379_01.webp)
 
 ## 📝 Informações da Receita
 

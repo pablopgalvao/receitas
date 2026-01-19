@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies sem farinha e sem lactose](/images/cookies-sem-farinha-e-sem-lactose__262cc478_01.png)
+![Cookies sem farinha e sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-sem-farinha-e-sem-lactose__262cc478_01.webp)
 
 ## 📝 Informações da Receita
 

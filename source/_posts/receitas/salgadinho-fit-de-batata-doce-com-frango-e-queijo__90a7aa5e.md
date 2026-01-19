@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salgadinho fit de batata-doce com frango e queijo](/images/salgadinho-fit-de-batata-doce-com-frango-e-queijo__90a7aa5e_01.png)
+![Salgadinho fit de batata-doce com frango e queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgadinho-fit-de-batata-doce-com-frango-e-queijo__90a7aa5e_01.webp)
 
 ## 📝 Informações da Receita
 

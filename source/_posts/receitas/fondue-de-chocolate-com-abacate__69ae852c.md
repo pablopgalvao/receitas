@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fondue de chocolate com abacate](/images/fondue-de-chocolate-com-abacate__69ae852c_01.png)
+![Fondue de chocolate com abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-chocolate-com-abacate__69ae852c_01.webp)
 
 ## 📝 Informações da Receita
 

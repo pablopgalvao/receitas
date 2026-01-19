@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de maracujá com a fruta](/images/mousse-de-maracuja-com-a-fruta__d0234c31_01.png)
+![Mousse de maracujá com a fruta](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-maracuja-com-a-fruta__d0234c31_01.webp)
 
 ## 📝 Informações da Receita
 

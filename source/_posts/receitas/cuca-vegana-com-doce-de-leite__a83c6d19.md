@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuca vegana com doce de leite](/images/cuca-vegana-com-doce-de-leite__a83c6d19_01.png)
+![Cuca vegana com doce de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cuca-vegana-com-doce-de-leite__a83c6d19_01.webp)
 
 ## 📝 Informações da Receita
 

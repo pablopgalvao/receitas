@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de feijão-branco com croûtons](/images/salada_de_feij_o_branco_com_cro_tons.jpg)
+![Salada de feijão-branco com croûtons](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_feij_o_branco_com_cro_tons.jpg)
 
 ## 📝 Informações da Receita
 

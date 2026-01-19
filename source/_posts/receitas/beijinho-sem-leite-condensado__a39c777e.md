@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Beijinho sem leite condensado](/images/beijinho-sem-leite-condensado__a39c777e_01.png)
+![Beijinho sem leite condensado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/beijinho-sem-leite-condensado__a39c777e_01.webp)
 
 ## 📝 Informações da Receita
 

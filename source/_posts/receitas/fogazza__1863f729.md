@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fogazza frita](/images/fogazza__1863f729_01.png)
+![Fogazza frita](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fogazza__1863f729_01.webp)
 
 ## 📝 Informações da Receita
 

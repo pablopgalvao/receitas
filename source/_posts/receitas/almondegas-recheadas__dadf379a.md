@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndegas recheadas](/images/almondegas-recheadas__dadf379a_01.png)
+![Almôndegas recheadas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-recheadas__dadf379a_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada fresh com manga](/images/salada-fresh-com-manga__eac400b3_01.png)
+![Salada fresh com manga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp)
 
 ## 📝 Informações da Receita
 

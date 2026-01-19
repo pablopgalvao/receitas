@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Omelete a jato](/images/omelete_a_jato.jpg)
+![Omelete a jato](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/omelete_a_jato.jpg)
 
 ## 📝 Informações da Receita
 

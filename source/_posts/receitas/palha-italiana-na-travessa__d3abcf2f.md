@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Palha italiana na travessa](/images/palha-italiana-na-travessa__d3abcf2f_01.png)
+![Palha italiana na travessa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/palha-italiana-na-travessa__d3abcf2f_01.webp)
 
 ## 📝 Informações da Receita
 

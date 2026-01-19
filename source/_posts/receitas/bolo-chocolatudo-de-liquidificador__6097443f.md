@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo chocolatudo de liquidificador](/images/bolo-chocolatudo-de-liquidificador__6097443f_01.png)
+![Bolo chocolatudo de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-chocolatudo-de-liquidificador__6097443f_01.webp)
 
 ## 📝 Informações da Receita
 

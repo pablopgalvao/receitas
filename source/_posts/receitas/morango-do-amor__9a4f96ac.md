@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Morango do amor](/images/morango-do-amor__9a4f96ac_01.png)
+![Morango do amor](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/morango-do-amor__9a4f96ac_01.webp)
 
 ## 📝 Informações da Receita
 

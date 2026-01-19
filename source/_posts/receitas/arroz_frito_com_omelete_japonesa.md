@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz frito com omelete japonesa](/images/arroz_frito_com_omelete_japonesa.jpg)
+![Arroz frito com omelete japonesa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_frito_com_omelete_japonesa.jpg)
 
 ## 📝 Informações da Receita
 

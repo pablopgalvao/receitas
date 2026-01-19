@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata-doce assada](/images/batata-doce-assada__9d7698b9_01.png)
+![Batata-doce assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-doce-assada__9d7698b9_01.webp)
 
 ## 📝 Informações da Receita
 

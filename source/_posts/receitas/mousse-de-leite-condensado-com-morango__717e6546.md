@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de leite condensado com morango](/images/mousse-de-leite-condensado-com-morango__717e6546_01.png)
+![Mousse de leite condensado com morango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-leite-condensado-com-morango__717e6546_01.webp)
 
 ## 📝 Informações da Receita
 

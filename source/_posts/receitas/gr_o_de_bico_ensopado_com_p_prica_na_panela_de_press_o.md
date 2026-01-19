@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Grão-de-bico ensopado com páprica na panela de pressão](/images/gr_o_de_bico_ensopado_com_p_prica_na_panela_de_press_o.jpg)
+![Grão-de-bico ensopado com páprica na panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gr_o_de_bico_ensopado_com_p_prica_na_panela_de_press_o.jpg)
 
 ## 📝 Informações da Receita
 

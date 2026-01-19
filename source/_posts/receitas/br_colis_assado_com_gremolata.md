@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brócolis assado com gremolata](/images/br_colis_assado_com_gremolata.jpg)
+![Brócolis assado com gremolata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_assado_com_gremolata.jpg)
 
 ## 📝 Informações da Receita
 

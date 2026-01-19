@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de bacalhau com molho branco](/images/lasanha_de_bacalhau_com_molho_branco.jpg)
+![Lasanha de bacalhau com molho branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lasanha_de_bacalhau_com_molho_branco.jpg)
 
 ## 📝 Informações da Receita
 

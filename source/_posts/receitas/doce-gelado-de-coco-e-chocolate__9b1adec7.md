@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Doce gelado de coco e chocolate](/images/doce-gelado-de-coco-e-chocolate__9b1adec7_01.png)
+![Doce gelado de coco e chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-gelado-de-coco-e-chocolate__9b1adec7_01.webp)
 
 ## 📝 Informações da Receita
 

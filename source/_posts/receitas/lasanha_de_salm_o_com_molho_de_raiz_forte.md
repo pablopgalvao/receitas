@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de salmão com molho de raiz-forte](/images/lasanha_de_salm_o_com_molho_de_raiz_forte.jpg)
+![Lasanha de salmão com molho de raiz-forte](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lasanha_de_salm_o_com_molho_de_raiz_forte.jpg)
 
 ## 📝 Informações da Receita
 

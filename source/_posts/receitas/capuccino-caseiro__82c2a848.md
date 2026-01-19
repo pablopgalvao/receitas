@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Capuccino caseiro](/images/capuccino-caseiro__82c2a848_01.png)
+![Capuccino caseiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro__82c2a848_01.webp)
 
 ## 📝 Informações da Receita
 

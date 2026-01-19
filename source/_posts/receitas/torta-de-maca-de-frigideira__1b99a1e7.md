@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de maçã de frigideira](/images/torta-de-maca-de-frigideira__1b99a1e7_01.png)
+![Torta de maçã de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-maca-de-frigideira__1b99a1e7_01.webp)
 
 ## 📝 Informações da Receita
 

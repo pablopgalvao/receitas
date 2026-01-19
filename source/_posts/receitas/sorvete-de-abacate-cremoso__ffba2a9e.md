@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de abacate cremoso](/images/sorvete-de-abacate-cremoso__ffba2a9e_01.png)
+![Sorvete de abacate cremoso](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-abacate-cremoso__ffba2a9e_01.webp)
 
 ## 📝 Informações da Receita
 

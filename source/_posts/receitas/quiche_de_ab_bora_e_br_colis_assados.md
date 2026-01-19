@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiche de abóbora e brócolis assados](/images/quiche_de_ab_bora_e_br_colis_assados.jpg)
+![Quiche de abóbora e brócolis assados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiche_de_ab_bora_e_br_colis_assados.jpg)
 
 ## 📝 Informações da Receita
 

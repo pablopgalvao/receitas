@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ovo cozido na air fryer](/images/ovo-cozido-na-air-fryer__bc2f271c_01.png)
+![Ovo cozido na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-cozido-na-air-fryer__bc2f271c_01.webp)
 
 ## 📝 Informações da Receita
 

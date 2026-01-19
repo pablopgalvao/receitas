@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de queijo com couve-flor e sálvia crocantes](/images/risoto_de_queijo_com_couve_flor_e_s_lvia_crocantes.jpg)
+![Risoto de queijo com couve-flor e sálvia crocantes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_queijo_com_couve_flor_e_s_lvia_crocantes.jpg)
 
 ## 📝 Informações da Receita
 

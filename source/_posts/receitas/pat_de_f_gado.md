@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de fígado](/images/pat_de_f_gado.jpg)
+![Patê de fígado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pat_de_f_gado.jpg)
 
 ## 📝 Informações da Receita
 

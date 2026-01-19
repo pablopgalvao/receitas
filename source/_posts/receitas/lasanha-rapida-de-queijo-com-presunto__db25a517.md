@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha rápida de presunto e queijo](/images/lasanha-rapida-de-queijo-com-presunto__db25a517_01.png)
+![Lasanha rápida de presunto e queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-rapida-de-queijo-com-presunto__db25a517_01.webp)
 
 ## 📝 Informações da Receita
 

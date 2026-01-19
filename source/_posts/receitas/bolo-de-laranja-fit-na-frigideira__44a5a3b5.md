@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de laranja fit na frigideira](/images/bolo-de-laranja-fit-na-frigideira__44a5a3b5_01.png)
+![Bolo de laranja fit na frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-laranja-fit-na-frigideira__44a5a3b5_01.webp)
 
 ## 📝 Informações da Receita
 

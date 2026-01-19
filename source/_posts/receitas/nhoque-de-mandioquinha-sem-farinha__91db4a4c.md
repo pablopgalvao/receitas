@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de mandioquinha sem farinha](/images/nhoque-de-mandioquinha-sem-farinha__91db4a4c_01.png)
+![Nhoque de mandioquinha sem farinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-mandioquinha-sem-farinha__91db4a4c_01.webp)
 
 ## 📝 Informações da Receita
 

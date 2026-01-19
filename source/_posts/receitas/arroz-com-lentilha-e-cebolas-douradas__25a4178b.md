@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com lentilha e cebolas douradas](/images/arroz-com-lentilha-e-cebolas-douradas__25a4178b_01.png)
+![Arroz com lentilha e cebolas douradas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-lentilha-e-cebolas-douradas__25a4178b_01.webp)
 
 ## 📝 Informações da Receita
 

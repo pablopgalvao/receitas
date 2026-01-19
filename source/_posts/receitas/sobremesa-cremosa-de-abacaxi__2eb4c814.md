@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobremesa cremosa de abacaxi](/images/sobremesa-cremosa-de-abacaxi__2eb4c814_01.png)
+![Sobremesa cremosa de abacaxi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobremesa-cremosa-de-abacaxi__2eb4c814_01.webp)
 
 ## 📝 Informações da Receita
 

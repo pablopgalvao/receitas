@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldo de abóbora com ragu de costela](/images/caldo-de-abobora-com-ragu-de-costela__734fe690_01.png)
+![Caldo de abóbora com ragu de costela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caldo-de-abobora-com-ragu-de-costela__734fe690_01.webp)
 
 ## 📝 Informações da Receita
 

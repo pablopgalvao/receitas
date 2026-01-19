@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Dobradinha fácil](/images/dobradinha-facil__2d5be71b_01.png)
+![Dobradinha fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/dobradinha-facil__2d5be71b_01.webp)
 
 ## 📝 Informações da Receita
 

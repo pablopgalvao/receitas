@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farinha de rosca caseira de pão integral (reaproveitamento)](/images/farinha_de_rosca_caseira_de_p_o_integral_reaproveitamento.jpg)
+![Farinha de rosca caseira de pão integral (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farinha_de_rosca_caseira_de_p_o_integral_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

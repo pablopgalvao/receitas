@@ -21,7 +21,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Dobradinha com mocotó](/images/dobradinha-com-mocoto__e84f41ba_01.png)
+![Dobradinha com mocotó](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/dobradinha-com-mocoto__e84f41ba_01.webp)
 
 ## 📝 Informações da Receita
 

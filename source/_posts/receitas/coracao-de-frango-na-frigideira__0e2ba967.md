@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coração de frango na frigideira](/images/coracao-de-frango-na-frigideira__0e2ba967_01.webp)
+![Coração de frango na frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coracao-de-frango-na-frigideira__0e2ba967_01.webp)
 
 ## 📝 Informações da Receita
 

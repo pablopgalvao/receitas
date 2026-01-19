@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brioche](/images/brioche__d0ea7aef_01.png)
+![Brioche](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brioche__d0ea7aef_01.webp)
 
 ## 📝 Informações da Receita
 

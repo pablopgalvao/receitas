@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de limão com gelatina](/images/mousse-de-limao-com-gelatina__bec14dc8_01.png)
+![Mousse de limão com gelatina](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-com-gelatina__bec14dc8_01.webp)
 
 ## 📝 Informações da Receita
 

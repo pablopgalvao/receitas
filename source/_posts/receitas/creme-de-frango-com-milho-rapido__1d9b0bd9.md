@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme de frango com milho rápido](/images/creme-de-frango-com-milho-rapido__1d9b0bd9_01.png)
+![Creme de frango com milho rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-frango-com-milho-rapido__1d9b0bd9_01.webp)
 
 ## 📝 Informações da Receita
 

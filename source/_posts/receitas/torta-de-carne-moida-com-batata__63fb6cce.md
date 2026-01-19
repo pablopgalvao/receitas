@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de carne moída com batata](/images/torta-de-carne-moida-com-batata__63fb6cce_01.png)
+![Torta de carne moída com batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-carne-moida-com-batata__63fb6cce_01.webp)
 
 ## 📝 Informações da Receita
 

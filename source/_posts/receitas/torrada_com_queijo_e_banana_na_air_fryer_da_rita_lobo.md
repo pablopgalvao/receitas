@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torrada com queijo e banana na Air Fryer da Rita Lobo](/images/torrada_com_queijo_e_banana_na_air_fryer_da_rita_lobo.jpg)
+![Torrada com queijo e banana na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torrada_com_queijo_e_banana_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

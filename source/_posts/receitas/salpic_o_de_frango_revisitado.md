@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salpicão de frango revisitado](/images/salpic_o_de_frango_revisitado.jpg)
+![Salpicão de frango revisitado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salpic_o_de_frango_revisitado.jpg)
 
 ## 📝 Informações da Receita
 

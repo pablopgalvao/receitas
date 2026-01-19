@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rosca de reis](/images/rosca-reis__a317f27b_01.webp)
+![Rosca de reis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rosca-reis__a317f27b_01.webp)
 
 ## 📝 Informações da Receita
 

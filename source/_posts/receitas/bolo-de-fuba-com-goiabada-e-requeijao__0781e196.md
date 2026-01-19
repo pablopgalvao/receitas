@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de fubá com goiabada e requeijão](/images/bolo-de-fuba-com-goiabada-e-requeijao__0781e196_01.png)
+![Bolo de fubá com goiabada e requeijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-goiabada-e-requeijao__0781e196_01.webp)
 
 ## 📝 Informações da Receita
 

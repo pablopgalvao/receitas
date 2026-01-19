@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cheesecake de morango fácil](/images/cheesecake-de-morango-facil__65257e2e_01.png)
+![Cheesecake de morango fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cheesecake-de-morango-facil__65257e2e_01.webp)
 
 ## 📝 Informações da Receita
 

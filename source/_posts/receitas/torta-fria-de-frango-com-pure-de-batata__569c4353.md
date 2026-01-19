@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta fria de frango com purê de batata](/images/torta-fria-de-frango-com-pure-de-batata__569c4353_01.png)
+![Torta fria de frango com purê de batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-fria-de-frango-com-pure-de-batata__569c4353_01.webp)
 
 ## 📝 Informações da Receita
 

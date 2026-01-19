@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Couve-flor na air fryer](/images/couve-flor-na-airfryer__65887acd_01.png)
+![Couve-flor na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-na-airfryer__65887acd_01.webp)
 
 ## 📝 Informações da Receita
 

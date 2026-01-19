@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de arroz com pepino e uva-passa](/images/salada-de-arroz-com-pepino-e-uva-passa__22b9c5b2_01.webp)
+![Salada de arroz com pepino e uva-passa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-arroz-com-pepino-e-uva-passa__22b9c5b2_01.webp)
 
 ## 📝 Informações da Receita
 

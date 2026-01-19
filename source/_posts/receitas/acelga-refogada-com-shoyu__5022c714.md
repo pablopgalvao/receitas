@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Acelga refogada com shoyu](/images/acelga-refogada-com-shoyu__5022c714_01.png)
+![Acelga refogada com shoyu](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/acelga-refogada-com-shoyu__5022c714_01.webp)
 
 ## 📝 Informações da Receita
 

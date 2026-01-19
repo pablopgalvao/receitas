@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mini misto quente](/images/mini-misto-quente__64359553_01.png)
+![Mini misto quente](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-misto-quente__64359553_01.webp)
 
 ## 📝 Informações da Receita
 

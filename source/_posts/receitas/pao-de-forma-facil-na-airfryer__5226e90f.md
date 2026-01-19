@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de forma fácil na air fryer](/images/pao-de-forma-facil-na-airfryer__5226e90f_01.png)
+![Pão de forma fácil na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-forma-facil-na-airfryer__5226e90f_01.webp)
 
 ## 📝 Informações da Receita
 

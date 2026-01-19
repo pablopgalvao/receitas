@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de balsâmico e mel para salada](/images/molho_de_bals_mico_e_mel_para_salada.jpg)
+![Molho de balsâmico e mel para salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_bals_mico_e_mel_para_salada.jpg)
 
 ## 📝 Informações da Receita
 

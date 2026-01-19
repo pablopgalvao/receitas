@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rolinhos de berinjela com gorgonzola](/images/rolinhos-de-berinjela-com-gorgonzola__9cd39969_01.png)
+![Rolinhos de berinjela com gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rolinhos-de-berinjela-com-gorgonzola__9cd39969_01.webp)
 
 ## 📝 Informações da Receita
 

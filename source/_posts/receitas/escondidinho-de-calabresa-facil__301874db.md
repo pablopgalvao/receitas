@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de calabresa fácil](/images/escondidinho-de-calabresa-facil__301874db_01.png)
+![Escondidinho de calabresa fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-calabresa-facil__301874db_01.webp)
 
 ## 📝 Informações da Receita
 

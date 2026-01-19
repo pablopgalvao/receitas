@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galinha caipira na panela de pressão](/images/galinha-caipira-na-panela-de-pressao__580c4478_01.png)
+![Galinha caipira na panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/galinha-caipira-na-panela-de-pressao__580c4478_01.webp)
 
 ## 📝 Informações da Receita
 

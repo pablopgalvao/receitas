@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lagarto assado recheado com bacon e farofa](/images/lagarto-assado-recheado-com-bacon-e-farofa__b1f2fc18_01.png)
+![Lagarto assado recheado com bacon e farofa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lagarto-assado-recheado-com-bacon-e-farofa__b1f2fc18_01.webp)
 
 ## 📝 Informações da Receita
 

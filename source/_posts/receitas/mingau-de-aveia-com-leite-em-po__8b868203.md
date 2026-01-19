@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mingau de aveia com leite em pó](/images/mingau-de-aveia-com-leite-em-po__8b868203_01.png)
+![Mingau de aveia com leite em pó](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mingau-de-aveia-com-leite-em-po__8b868203_01.webp)
 
 ## 📝 Informações da Receita
 

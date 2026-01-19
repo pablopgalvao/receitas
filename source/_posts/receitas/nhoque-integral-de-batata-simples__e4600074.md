@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque integral de batata simples](/images/nhoque-integral-de-batata-simples__e4600074_01.png)
+![Nhoque integral de batata simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-integral-de-batata-simples__e4600074_01.webp)
 
 ## 📝 Informações da Receita
 

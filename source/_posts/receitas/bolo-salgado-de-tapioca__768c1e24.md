@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo salgado de tapioca](/images/bolo-salgado-de-tapioca__768c1e24_01.png)
+![Bolo salgado de tapioca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-salgado-de-tapioca__768c1e24_01.webp)
 
 ## 📝 Informações da Receita
 

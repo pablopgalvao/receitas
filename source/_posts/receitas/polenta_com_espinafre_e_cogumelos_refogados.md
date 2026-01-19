@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polenta com espinafre e cogumelos refogados](/images/polenta_com_espinafre_e_cogumelos_refogados.jpg)
+![Polenta com espinafre e cogumelos refogados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/polenta_com_espinafre_e_cogumelos_refogados.jpg)
 
 ## 📝 Informações da Receita
 

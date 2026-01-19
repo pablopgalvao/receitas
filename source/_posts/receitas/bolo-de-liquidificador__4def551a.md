@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de liquidificador](/images/bolo-de-liquidificador__4def551a_01.png)
+![Bolo de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-liquidificador__4def551a_01.webp)
 
 ## 📝 Informações da Receita
 

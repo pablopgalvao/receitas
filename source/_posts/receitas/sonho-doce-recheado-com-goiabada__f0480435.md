@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sonho doce recheado com goiabada](/images/sonho-doce-recheado-com-goiabada__f0480435_01.png)
+![Sonho doce recheado com goiabada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sonho-doce-recheado-com-goiabada__f0480435_01.webp)
 
 ## 📝 Informações da Receita
 

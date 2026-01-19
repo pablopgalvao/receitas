@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salpicão vegetariano simples](/images/salpicao-vegetariano-simples__0e69f049_01.png)
+![Salpicão vegetariano simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salpicao-vegetariano-simples__0e69f049_01.webp)
 
 ## 📝 Informações da Receita
 

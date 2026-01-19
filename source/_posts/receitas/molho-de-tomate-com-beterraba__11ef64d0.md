@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de tomate com beterraba](/images/molho-de-tomate-com-beterraba__11ef64d0_01.png)
+![Molho de tomate com beterraba](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-de-tomate-com-beterraba__11ef64d0_01.webp)
 
 ## 📝 Informações da Receita
 

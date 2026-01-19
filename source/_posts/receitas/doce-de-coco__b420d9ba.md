@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Doce de coco](/images/doce-de-coco__b420d9ba_01.png)
+![Doce de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-coco__b420d9ba_01.webp)
 
 ## 📝 Informações da Receita
 

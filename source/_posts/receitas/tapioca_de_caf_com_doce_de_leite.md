@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tapioca de café com doce de leite](/images/tapioca_de_caf_com_doce_de_leite.jpg)
+![Tapioca de café com doce de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tapioca_de_caf_com_doce_de_leite.jpg)
 
 ## 📝 Informações da Receita
 

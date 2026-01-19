@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cenoura assada com molho pesto](/images/cenoura_assada_com_molho_pesto.jpg)
+![Cenoura assada com molho pesto](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_assada_com_molho_pesto.jpg)
 
 ## 📝 Informações da Receita
 

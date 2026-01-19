@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Couve-flor assada com molho de queijo azul](/images/couve_flor_assada_com_molho_de_queijo_azul.jpg)
+![Couve-flor assada com molho de queijo azul](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/couve_flor_assada_com_molho_de_queijo_azul.jpg)
 
 ## 📝 Informações da Receita
 

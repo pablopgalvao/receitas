@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de liquidificador vegana fácil](/images/torta-de-liquidificador-vegana-facil__eef7e4cf_01.png)
+![Torta de liquidificador vegana fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-liquidificador-vegana-facil__eef7e4cf_01.webp)
 
 ## 📝 Informações da Receita
 

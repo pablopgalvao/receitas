@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Talharim ao molho branco com tiras de filé mignon](/images/talharim-ao-molho-branco-com-tiras-de-file-mignon__295c117d_01.png)
+![Talharim ao molho branco com tiras de filé mignon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/talharim-ao-molho-branco-com-tiras-de-file-mignon__295c117d_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Blondie com amêndoas](/images/blondie_com_am_ndoas.jpg)
+![Blondie com amêndoas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_am_ndoas.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobremesa de banana fácil](/images/sobremesa-de-banana-facil__567c640e_01.png)
+![Sobremesa de banana fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobremesa-de-banana-facil__567c640e_01.webp)
 
 ## 📝 Informações da Receita
 

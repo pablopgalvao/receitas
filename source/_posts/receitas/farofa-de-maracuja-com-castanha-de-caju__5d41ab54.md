@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de maracujá com bacon](/images/farofa-de-maracuja-com-castanha-de-caju__5d41ab54_01.webp)
+![Farofa de maracujá com bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-de-maracuja-com-castanha-de-caju__5d41ab54_01.webp)
 
 ## 📝 Informações da Receita
 

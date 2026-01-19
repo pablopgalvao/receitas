@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de fubá cozido](/images/bolo-de-fuba-cozido__daddf191_01.png)
+![Bolo de fubá cozido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-cozido__daddf191_01.webp)
 
 ## 📝 Informações da Receita
 

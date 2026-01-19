@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff de frango fácil](/images/strogonoff-de-frango-facil__f2be8366_01.png)
+![Strogonoff de frango fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-frango-facil__f2be8366_01.webp)
 
 ## 📝 Informações da Receita
 

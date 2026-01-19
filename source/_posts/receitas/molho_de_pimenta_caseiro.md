@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de pimenta caseiro](/images/molho_de_pimenta_caseiro.jpg)
+![Molho de pimenta caseiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_pimenta_caseiro.jpg)
 
 ## 📝 Informações da Receita
 

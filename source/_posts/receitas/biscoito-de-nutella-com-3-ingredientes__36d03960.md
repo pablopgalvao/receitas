@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoito de Nutella com 3 ingredientes](/images/biscoito-de-nutella-com-3-ingredientes__36d03960_01.png)
+![Biscoito de Nutella com 3 ingredientes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoito-de-nutella-com-3-ingredientes__36d03960_01.webp)
 
 ## 📝 Informações da Receita
 

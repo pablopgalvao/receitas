@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de sorvete com calda de caramelo](/images/bolo_de_sorvete_com_calda_de_caramelo.jpg)
+![Bolo de sorvete com calda de caramelo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_sorvete_com_calda_de_caramelo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie vegano sem glúten](/images/brownie-vegano-sem-gluten__25e4d0e1_01.png)
+![Brownie vegano sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-vegano-sem-gluten__25e4d0e1_01.webp)
 
 ## 📝 Informações da Receita
 

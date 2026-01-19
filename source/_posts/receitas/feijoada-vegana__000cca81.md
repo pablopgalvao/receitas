@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijoada vegana](/images/feijoada-vegana__000cca81_01.png)
+![Feijoada vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijoada-vegana__000cca81_01.webp)
 
 ## 📝 Informações da Receita
 

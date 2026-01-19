@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho tártaro vegano](/images/molho-tartaro-vegano__187141b1_01.png)
+![Molho tártaro vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-tartaro-vegano__187141b1_01.webp)
 
 ## 📝 Informações da Receita
 

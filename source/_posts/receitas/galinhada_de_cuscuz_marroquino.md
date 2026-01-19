@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galinhada de cuscuz marroquino](/images/galinhada_de_cuscuz_marroquino.jpg)
+![Galinhada de cuscuz marroquino](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/galinhada_de_cuscuz_marroquino.jpg)
 
 ## 📝 Informações da Receita
 

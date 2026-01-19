@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sanduíche com ragu de costelinha (reaproveitamento)](/images/sandu_che_com_ragu_de_costelinha_reaproveitamento.jpg)
+![Sanduíche com ragu de costelinha (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sandu_che_com_ragu_de_costelinha_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

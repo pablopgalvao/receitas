@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de brigadeiro com maracujá](/images/bolo-de-brigadeiro-com-maracuja__e1851ff4_01.png)
+![Bolo de brigadeiro com maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-brigadeiro-com-maracuja__e1851ff4_01.webp)
 
 ## 📝 Informações da Receita
 

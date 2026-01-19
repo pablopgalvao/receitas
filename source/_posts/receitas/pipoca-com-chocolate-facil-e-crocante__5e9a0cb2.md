@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pipoca com chocolate fácil e crocante](/images/pipoca-com-chocolate-facil-e-crocante__5e9a0cb2_01.png)
+![Pipoca com chocolate fácil e crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pipoca-com-chocolate-facil-e-crocante__5e9a0cb2_01.webp)
 
 ## 📝 Informações da Receita
 

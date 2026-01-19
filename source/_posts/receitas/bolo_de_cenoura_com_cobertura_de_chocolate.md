@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de cenoura com cobertura de chocolate](/images/bolo_de_cenoura_com_cobertura_de_chocolate.jpg)
+![Bolo de cenoura com cobertura de chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_cenoura_com_cobertura_de_chocolate.jpg)
 
 ## 📝 Informações da Receita
 

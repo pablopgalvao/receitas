@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa caipira de milho](/images/farofa-caipira-de-milho__03dfd0ab_01.png)
+![Farofa caipira de milho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-caipira-de-milho__03dfd0ab_01.webp)
 
 ## 📝 Informações da Receita
 

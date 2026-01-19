@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de frango empanado](/images/file-de-frango-empanado__6e27ed86_01.png)
+![Filé de frango empanado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-empanado__6e27ed86_01.webp)
 
 ## 📝 Informações da Receita
 

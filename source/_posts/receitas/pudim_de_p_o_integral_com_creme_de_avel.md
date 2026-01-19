@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de pão integral com creme de avelã](/images/pudim_de_p_o_integral_com_creme_de_avel.jpg)
+![Pudim de pão integral com creme de avelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pudim_de_p_o_integral_com_creme_de_avel.jpg)
 
 ## 📝 Informações da Receita
 

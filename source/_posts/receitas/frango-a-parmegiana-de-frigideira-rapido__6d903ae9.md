@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango à parmegiana de frigideira rápido](/images/frango-a-parmegiana-de-frigideira-rapido__6d903ae9_01.png)
+![Frango à parmegiana de frigideira rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-parmegiana-de-frigideira-rapido__6d903ae9_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Linguiça recheada na air fryer](/images/linguica-recheada-na-airfryer__7a9cde23_01.png)
+![Linguiça recheada na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/linguica-recheada-na-airfryer__7a9cde23_01.webp)
 
 ## 📝 Informações da Receita
 

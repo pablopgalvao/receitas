@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espinafre refogado](/images/espinafre_refogado.jpg)
+![Espinafre refogado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espinafre_refogado.jpg)
 
 ## 📝 Informações da Receita
 

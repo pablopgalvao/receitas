@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Piadina integral](/images/piadina_integral.jpg)
+![Piadina integral](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina_integral.jpg)
 
 ## 📝 Informações da Receita
 

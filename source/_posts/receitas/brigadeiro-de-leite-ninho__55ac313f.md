@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro de leite Ninho](/images/brigadeiro-de-leite-ninho__55ac313f_01.png)
+![Brigadeiro de leite Ninho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-leite-ninho__55ac313f_01.webp)
 
 ## 📝 Informações da Receita
 

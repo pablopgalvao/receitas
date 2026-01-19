@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz oriental com frango e couve-flor na panela de arroz elétrica](/images/arroz-oriental-com-frango-e-couve-flor-panela-de-arroz__2edddd2b_01.webp)
+![Arroz oriental com frango e couve-flor na panela de arroz elétrica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-oriental-com-frango-e-couve-flor-panela-de-arroz__2edddd2b_01.webp)
 
 ## 📝 Informações da Receita
 

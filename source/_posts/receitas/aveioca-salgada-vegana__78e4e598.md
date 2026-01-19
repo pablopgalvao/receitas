@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Aveioca salgada vegana](/images/aveioca-salgada-vegana__78e4e598_01.png)
+![Aveioca salgada vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/aveioca-salgada-vegana__78e4e598_01.webp)
 
 ## 📝 Informações da Receita
 

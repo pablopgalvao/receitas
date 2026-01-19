@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de abacaxi simples no liquidificador](/images/mousse-de-abacaxi-simples-no-liquidificador__5bdffd0d_01.png)
+![Mousse de abacaxi simples no liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-abacaxi-simples-no-liquidificador__5bdffd0d_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne-seca com abóbora](/images/carne-seca-com-abobora__96837b05_01.png)
+![Carne-seca com abóbora](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-seca-com-abobora__96837b05_01.webp)
 
 ## 📝 Informações da Receita
 

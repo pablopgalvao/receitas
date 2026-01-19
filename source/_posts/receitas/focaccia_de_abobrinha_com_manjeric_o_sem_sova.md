@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Focaccia de abobrinha com manjericão (sem sova)](/images/focaccia_de_abobrinha_com_manjeric_o_sem_sova.jpg)
+![Focaccia de abobrinha com manjericão (sem sova)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/focaccia_de_abobrinha_com_manjeric_o_sem_sova.jpg)
 
 ## 📝 Informações da Receita
 

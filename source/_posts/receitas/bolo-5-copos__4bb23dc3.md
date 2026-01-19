@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo 5 copos](/images/bolo-5-copos__4bb23dc3_01.png)
+![Bolo 5 copos](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-5-copos__4bb23dc3_01.webp)
 
 ## 📝 Informações da Receita
 

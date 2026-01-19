@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Curry em pó caseiro](/images/curry_em_p_caseiro.jpg)
+![Curry em pó caseiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_em_p_caseiro.jpg)
 
 ## 📝 Informações da Receita
 

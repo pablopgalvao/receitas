@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de feijão fácil](/images/bolinho-de-feijao-facil__bcbb1070_01.png)
+![Bolinho de feijão fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-feijao-facil__bcbb1070_01.webp)
 
 ## 📝 Informações da Receita
 

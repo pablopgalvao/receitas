@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Homus de cenoura](/images/homus_de_cenoura.jpg)
+![Homus de cenoura](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/homus_de_cenoura.jpg)
 
 ## 📝 Informações da Receita
 

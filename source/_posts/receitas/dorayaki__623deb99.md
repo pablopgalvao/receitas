@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Dorayaki](/images/dorayaki__623deb99_01.png)
+![Dorayaki](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/dorayaki__623deb99_01.webp)
 
 ## 📝 Informações da Receita
 

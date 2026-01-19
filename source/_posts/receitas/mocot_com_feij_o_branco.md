@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mocotó com feijão-branco](/images/mocot_com_feij_o_branco.jpg)
+![Mocotó com feijão-branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mocot_com_feij_o_branco.jpg)
 
 ## 📝 Informações da Receita
 

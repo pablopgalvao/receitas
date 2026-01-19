@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão no forno](/images/salmao-no-forno__c87d2d03_01.png)
+![Salmão no forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-no-forno__c87d2d03_01.webp)
 
 ## 📝 Informações da Receita
 

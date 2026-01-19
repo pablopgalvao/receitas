@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Legumes de forno](/images/legumes-de-forno__d5c32736_01.png)
+![Legumes de forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/legumes-de-forno__d5c32736_01.webp)
 
 ## 📝 Informações da Receita
 

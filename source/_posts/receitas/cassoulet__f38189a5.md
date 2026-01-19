@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cassoulet](/images/cassoulet__f38189a5_01.png)
+![Cassoulet](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cassoulet__f38189a5_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Focaccia de alecrim com tapenade](/images/focaccia_de_alecrim_com_tapenade.jpg)
+![Focaccia de alecrim com tapenade](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/focaccia_de_alecrim_com_tapenade.jpg)
 
 ## 📝 Informações da Receita
 

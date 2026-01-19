@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com queijo de coalho dourado](/images/arroz_com_queijo_de_coalho_dourado.jpg)
+![Arroz com queijo de coalho dourado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_queijo_de_coalho_dourado.jpg)
 
 ## 📝 Informações da Receita
 

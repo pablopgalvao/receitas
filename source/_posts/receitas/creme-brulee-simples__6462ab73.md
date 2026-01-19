@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Crème brûlée simples](/images/creme-brulee-simples__6462ab73_01.png)
+![Crème brûlée simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-brulee-simples__6462ab73_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costelinha de porco com geleia em crosta de castanha-de-caju](/images/costelinha_de_porco_com_geleia_em_crosta_de_castanha_de_caju.jpg)
+![Costelinha de porco com geleia em crosta de castanha-de-caju](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/costelinha_de_porco_com_geleia_em_crosta_de_castanha_de_caju.jpg)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa cremosa com fondue no pão italiano](/images/sopa-cremosa-com-fondue-no-pao-italiano__82028df5_01.png)
+![Sopa cremosa com fondue no pão italiano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-cremosa-com-fondue-no-pao-italiano__82028df5_01.webp)
 
 ## 📝 Informações da Receita
 

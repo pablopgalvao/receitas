@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz de arroz no pano](/images/cuscuz-de-arroz-no-pano__07961a30_01.png)
+![Cuscuz de arroz no pano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cuscuz-de-arroz-no-pano__07961a30_01.webp)
 
 ## 📝 Informações da Receita
 

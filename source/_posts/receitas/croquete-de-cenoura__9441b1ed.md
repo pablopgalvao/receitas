@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Croquete de cenoura](/images/croquete-de-cenoura__9441b1ed_01.png)
+![Croquete de cenoura](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croquete-de-cenoura__9441b1ed_01.webp)
 
 ## 📝 Informações da Receita
 

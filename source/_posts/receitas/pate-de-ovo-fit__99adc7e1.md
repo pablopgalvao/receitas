@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de ovo fit](/images/pate-de-ovo-fit__99adc7e1_01.png)
+![Patê de ovo fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-ovo-fit__99adc7e1_01.webp)
 
 ## 📝 Informações da Receita
 

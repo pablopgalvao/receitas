@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa de pizza fácil](/images/massa-de-pizza-facil__097f41d1_01.png)
+![Massa de pizza fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/massa-de-pizza-facil__097f41d1_01.webp)
 
 ## 📝 Informações da Receita
 

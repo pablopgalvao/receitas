@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com salmão defumado](/images/macarr_o_com_salm_o_defumado.jpg)
+![Macarrão com salmão defumado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_salm_o_defumado.jpg)
 
 ## 📝 Informações da Receita
 

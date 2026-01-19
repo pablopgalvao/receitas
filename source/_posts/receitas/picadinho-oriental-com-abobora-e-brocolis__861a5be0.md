@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - sal
 difficulty: ''
 servings: ''
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picadinho oriental com abóbora e brócolis](/images/picadinho-oriental-com-abobora-e-brocolis__861a5be0_01.webp)
+![Picadinho oriental com abóbora e brócolis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/picadinho-oriental-com-abobora-e-brocolis__861a5be0_01.webp)
 
 ## 📝 Informações da Receita
 

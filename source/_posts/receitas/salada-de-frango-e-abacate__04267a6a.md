@@ -21,7 +21,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de frango e abacate](/images/salada-de-frango-e-abacate__04267a6a_01.png)
+![Salada de frango e abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp)
 
 ## 📝 Informações da Receita
 

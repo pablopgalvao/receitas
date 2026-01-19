@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Homus de ervilha com hortelã](/images/homus_de_ervilha_com_hortel.jpg)
+![Homus de ervilha com hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/homus_de_ervilha_com_hortel.jpg)
 
 ## 📝 Informações da Receita
 

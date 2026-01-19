@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango empanado com aveia assado](/images/frango-empanado-com-aveia-assado__1ea5832b_01.png)
+![Frango empanado com aveia assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-com-aveia-assado__1ea5832b_01.webp)
 
 ## 📝 Informações da Receita
 

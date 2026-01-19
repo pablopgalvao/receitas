@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de pinhão com gorgonzola](/images/risoto-de-pinhao-com-gorgonzola__796a504a_01.png)
+![Risoto de pinhão com gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/risoto-de-pinhao-com-gorgonzola__796a504a_01.webp)
 
 ## 📝 Informações da Receita
 

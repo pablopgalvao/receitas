@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer (com linguiça) e vinagrete de chuchu](/images/hamb_rguer_com_lingui_a_e_vinagrete_de_chuchu.jpg)
+![Hambúrguer (com linguiça) e vinagrete de chuchu](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/hamb_rguer_com_lingui_a_e_vinagrete_de_chuchu.jpg)
 
 ## 📝 Informações da Receita
 

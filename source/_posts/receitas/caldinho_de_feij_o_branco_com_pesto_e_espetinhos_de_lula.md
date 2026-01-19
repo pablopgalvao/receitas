@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldinho de feijão-branco com pesto e espetinhos de lula](/images/caldinho_de_feij_o_branco_com_pesto_e_espetinhos_de_lula.jpg)
+![Caldinho de feijão-branco com pesto e espetinhos de lula](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caldinho_de_feij_o_branco_com_pesto_e_espetinhos_de_lula.jpg)
 
 ## 📝 Informações da Receita
 

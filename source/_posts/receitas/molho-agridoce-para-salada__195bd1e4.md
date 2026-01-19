@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho agridoce para salada](/images/molho-agridoce-para-salada__195bd1e4_01.png)
+![Molho agridoce para salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-agridoce-para-salada__195bd1e4_01.webp)
 
 ## 📝 Informações da Receita
 

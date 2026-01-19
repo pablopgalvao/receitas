@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Doce de cenoura indiano (Gajar ka halwa)](/images/doce_de_cenoura_indiano_gajar_ka_halwa.jpg)
+![Doce de cenoura indiano (Gajar ka halwa)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/doce_de_cenoura_indiano_gajar_ka_halwa.jpg)
 
 ## 📝 Informações da Receita
 

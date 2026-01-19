@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de banana](/images/sorvete-de-banana__d2e6675e_01.webp)
+![Sorvete de banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana__d2e6675e_01.webp)
 
 ## 📝 Informações da Receita
 

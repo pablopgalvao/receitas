@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de queijo prático](/images/sufl_de_queijo_pr_tico.jpg)
+![Suflê de queijo prático](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sufl_de_queijo_pr_tico.jpg)
 
 ## 📝 Informações da Receita
 

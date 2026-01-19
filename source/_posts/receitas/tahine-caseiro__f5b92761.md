@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tahine caseiro](/images/tahine-caseiro__f5b92761_01.png)
+![Tahine caseiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tahine-caseiro__f5b92761_01.webp)
 
 ## 📝 Informações da Receita
 

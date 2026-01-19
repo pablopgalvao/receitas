@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango a passarinho de forno](/images/frango-a-passarinho-de-forno__10392c70_01.png)
+![Frango a passarinho de forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-passarinho-de-forno__10392c70_01.webp)
 
 ## 📝 Informações da Receita
 

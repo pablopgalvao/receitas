@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiabo grelhado](/images/quiabo_grelhado.jpg)
+![Quiabo grelhado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_grelhado.jpg)
 
 ## 📝 Informações da Receita
 

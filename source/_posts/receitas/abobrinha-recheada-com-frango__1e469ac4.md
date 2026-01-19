@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha recheada com frango](/images/abobrinha-recheada-com-frango__1e469ac4_01.png)
+![Abobrinha recheada com frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-com-frango__1e469ac4_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Calda de caramelo](/images/calda-de-caramelo__9597fca3_01.png)
+![Calda de caramelo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/calda-de-caramelo__9597fca3_01.webp)
 
 ## 📝 Informações da Receita
 

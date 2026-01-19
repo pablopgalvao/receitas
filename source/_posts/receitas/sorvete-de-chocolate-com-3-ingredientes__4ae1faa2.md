@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de chocolate com 3 ingredientes](/images/sorvete-de-chocolate-com-3-ingredientes__4ae1faa2_01.png)
+![Sorvete de chocolate com 3 ingredientes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-chocolate-com-3-ingredientes__4ae1faa2_01.webp)
 
 ## 📝 Informações da Receita
 

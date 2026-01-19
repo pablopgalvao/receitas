@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Licor de laranja caseiro (arancello)](/images/licor-de-laranja-caseiro__085a2449_01.webp)
+![Licor de laranja caseiro (arancello)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/licor-de-laranja-caseiro__085a2449_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tulipa de frango na air fryer](/images/tulipa-de-frango-na-air-fryer__6289a4d4_01.png)
+![Tulipa de frango na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tulipa-de-frango-na-air-fryer__6289a4d4_01.webp)
 
 ## 📝 Informações da Receita
 

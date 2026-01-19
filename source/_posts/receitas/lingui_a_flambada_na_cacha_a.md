@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Linguiça flambada na cachaça](/images/lingui_a_flambada_na_cacha_a.jpg)
+![Linguiça flambada na cachaça](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lingui_a_flambada_na_cacha_a.jpg)
 
 ## 📝 Informações da Receita
 

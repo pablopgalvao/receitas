@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pasta de alho assado](/images/pasta_de_alho_assado.jpg)
+![Pasta de alho assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_alho_assado.jpg)
 
 ## 📝 Informações da Receita
 

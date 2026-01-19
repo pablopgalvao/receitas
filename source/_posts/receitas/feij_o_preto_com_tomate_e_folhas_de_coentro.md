@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão-preto com tomate e folhas de coentro](/images/feij_o_preto_com_tomate_e_folhas_de_coentro.jpg)
+![Feijão-preto com tomate e folhas de coentro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/feij_o_preto_com_tomate_e_folhas_de_coentro.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cappuccino cremoso fácil](/images/cappuccino-cremoso-facil__95e59a7a_01.png)
+![Cappuccino cremoso fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cappuccino-cremoso-facil__95e59a7a_01.webp)
 
 ## 📝 Informações da Receita
 

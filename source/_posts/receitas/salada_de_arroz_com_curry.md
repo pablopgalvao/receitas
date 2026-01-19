@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de arroz com curry](/images/salada_de_arroz_com_curry.jpg)
+![Salada de arroz com curry](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_com_curry.jpg)
 
 ## 📝 Informações da Receita
 

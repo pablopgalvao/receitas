@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Capuccino caseiro fácil e rápido](/images/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.png)
+![Capuccino caseiro fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão roxo de beterraba assada](/images/macarr_o_roxo_de_beterraba_assada.jpg)
+![Macarrão roxo de beterraba assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_roxo_de_beterraba_assada.jpg)
 
 ## 📝 Informações da Receita
 

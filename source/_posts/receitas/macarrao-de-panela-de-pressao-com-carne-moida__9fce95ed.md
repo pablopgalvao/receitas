@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão de panela de pressão com carne moída](/images/macarrao-de-panela-de-pressao-com-carne-moida__9fce95ed_01.png)
+![Macarrão de panela de pressão com carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-de-panela-de-pressao-com-carne-moida__9fce95ed_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiche de alho-poró](/images/quiche-de-alho-poro__f1d2c367_01.png)
+![Quiche de alho-poró](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quiche-de-alho-poro__f1d2c367_01.webp)
 
 ## 📝 Informações da Receita
 

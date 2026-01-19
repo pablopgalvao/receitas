@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff de berinjela vegano](/images/strogonoff-de-berinjela-vegano__0a6d08c4_01.png)
+![Strogonoff de berinjela vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-berinjela-vegano__0a6d08c4_01.webp)
 
 ## 📝 Informações da Receita
 

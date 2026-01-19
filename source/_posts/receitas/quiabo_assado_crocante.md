@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiabo assado crocante](/images/quiabo_assado_crocante.jpg)
+![Quiabo assado crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_assado_crocante.jpg)
 
 ## 📝 Informações da Receita
 

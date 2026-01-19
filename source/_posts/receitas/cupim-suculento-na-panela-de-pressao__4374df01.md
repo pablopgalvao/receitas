@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cupim suculento na panela de pressão](/images/cupim-suculento-na-panela-de-pressao__4374df01_01.png)
+![Cupim suculento na panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupim-suculento-na-panela-de-pressao__4374df01_01.webp)
 
 ## 📝 Informações da Receita
 

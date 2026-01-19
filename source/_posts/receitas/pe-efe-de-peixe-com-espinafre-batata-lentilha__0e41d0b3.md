@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de peixe com espinafre, batata bolinha ao murro e lentilha](/images/pe-efe-de-peixe-com-espinafre-batata-lentilha__0e41d0b3_01.webp)
+![Pê-efe de peixe com espinafre, batata bolinha ao murro e lentilha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pe-efe-de-peixe-com-espinafre-batata-lentilha__0e41d0b3_01.webp)
 
 ## 📝 Informações da Receita
 

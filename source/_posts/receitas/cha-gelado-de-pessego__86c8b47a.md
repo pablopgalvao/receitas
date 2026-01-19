@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chá gelado de pêssego](/images/cha-gelado-de-pessego__86c8b47a_01.png)
+![Chá gelado de pêssego](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cha-gelado-de-pessego__86c8b47a_01.webp)
 
 ## 📝 Informações da Receita
 

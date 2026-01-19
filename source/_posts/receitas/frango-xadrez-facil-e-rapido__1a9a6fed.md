@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango xadrez fácil e rápido](/images/frango-xadrez-facil-e-rapido__1a9a6fed_01.png)
+![Frango xadrez fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-xadrez-facil-e-rapido__1a9a6fed_01.webp)
 
 ## 📝 Informações da Receita
 

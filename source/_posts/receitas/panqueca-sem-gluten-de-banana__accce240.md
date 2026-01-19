@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca sem glúten de banana](/images/panqueca-sem-gluten-de-banana__accce240_01.png)
+![Panqueca sem glúten de banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-sem-gluten-de-banana__accce240_01.webp)
 
 ## 📝 Informações da Receita
 

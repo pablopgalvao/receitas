@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torrada de abacate com ovo mexido](/images/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.png)
+![Torrada de abacate com ovo mexido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.webp)
 
 ## 📝 Informações da Receita
 

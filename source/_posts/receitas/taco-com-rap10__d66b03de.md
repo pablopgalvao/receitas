@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Taco com Rap10](/images/taco-com-rap10__d66b03de_01.png)
+![Taco com Rap10](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/taco-com-rap10__d66b03de_01.webp)
 
 ## 📝 Informações da Receita
 

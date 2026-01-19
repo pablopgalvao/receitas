@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rondelli de abobrinha com frango](/images/rondelli-de-abobrinha-com-frango__5b54a88b_01.png)
+![Rondelli de abobrinha com frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rondelli-de-abobrinha-com-frango__5b54a88b_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chico balanceado tradicional](/images/chico-balanceado-tradicional__a047861b_01.png)
+![Chico balanceado tradicional](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chico-balanceado-tradicional__a047861b_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - manteiga
     - farinha
 difficulty: ''
@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de chocolate com gengibre](/images/bolo-de-chocolate-com-gengibre__c1ae81fb_01.webp)
+![Bolo de chocolate com gengibre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-chocolate-com-gengibre__c1ae81fb_01.webp)
 
 ## 📝 Informações da Receita
 

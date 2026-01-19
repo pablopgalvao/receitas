@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Linguiça toscana na air fryer](/images/linguica-toscana-na-air-fryer__085a93dc_01.png)
+![Linguiça toscana na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/linguica-toscana-na-air-fryer__085a93dc_01.webp)
 
 ## 📝 Informações da Receita
 

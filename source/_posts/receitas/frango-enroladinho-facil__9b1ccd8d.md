@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango enroladinho fácil](/images/frango-enroladinho-facil__9b1ccd8d_01.png)
+![Frango enroladinho fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-enroladinho-facil__9b1ccd8d_01.webp)
 
 ## 📝 Informações da Receita
 

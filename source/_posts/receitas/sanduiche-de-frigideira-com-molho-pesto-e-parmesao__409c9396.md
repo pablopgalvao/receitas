@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sanduíche de frigideira com molho pesto e parmesão](/images/sanduiche-de-frigideira-com-molho-pesto-e-parmesao__409c9396_01.png)
+![Sanduíche de frigideira com molho pesto e parmesão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sanduiche-de-frigideira-com-molho-pesto-e-parmesao__409c9396_01.webp)
 
 ## 📝 Informações da Receita
 

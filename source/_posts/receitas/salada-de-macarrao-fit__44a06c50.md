@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de macarrão fit](/images/salada-de-macarrao-fit__44a06c50_01.png)
+![Salada de macarrão fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-fit__44a06c50_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxinha de batata-doce](/images/coxinha-de-batata-doce__d22ce986_01.png)
+![Coxinha de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coxinha-de-batata-doce__d22ce986_01.webp)
 
 ## 📝 Informações da Receita
 

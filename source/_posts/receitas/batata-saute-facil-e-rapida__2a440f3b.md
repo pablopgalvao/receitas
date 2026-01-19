@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata sauté fácil e rápida](/images/batata-saute-facil-e-rapida__2a440f3b_01.png)
+![Batata sauté fácil e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-saute-facil-e-rapida__2a440f3b_01.webp)
 
 ## 📝 Informações da Receita
 

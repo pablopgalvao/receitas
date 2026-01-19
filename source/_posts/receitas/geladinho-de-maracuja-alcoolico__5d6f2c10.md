@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Geladinho de maracujá alcoólico](/images/geladinho-de-maracuja-alcoolico__5d6f2c10_01.png)
+![Geladinho de maracujá alcoólico](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geladinho-de-maracuja-alcoolico__5d6f2c10_01.webp)
 
 ## 📝 Informações da Receita
 

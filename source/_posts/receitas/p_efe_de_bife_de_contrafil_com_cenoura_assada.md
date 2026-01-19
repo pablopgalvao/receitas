@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de bife de contrafilé com cenoura assada](/images/p_efe_de_bife_de_contrafil_com_cenoura_assada.jpg)
+![Pê-efe de bife de contrafilé com cenoura assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_bife_de_contrafil_com_cenoura_assada.jpg)
 
 ## 📝 Informações da Receita
 

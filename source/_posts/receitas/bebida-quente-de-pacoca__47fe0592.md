@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bebida quente de paçoca](/images/bebida-quente-de-pacoca__47fe0592_01.png)
+![Bebida quente de paçoca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bebida-quente-de-pacoca__47fe0592_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha recheada com ricota e nozes](/images/abobrinha_recheada_com_ricota_e_nozes.jpg)
+![Abobrinha recheada com ricota e nozes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/abobrinha_recheada_com_ricota_e_nozes.jpg)
 
 ## 📝 Informações da Receita
 

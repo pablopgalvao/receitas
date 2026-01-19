@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de goma tradicional do Nordeste](/images/bolo-de-goma-tradicional-do-nordeste__b2fd2862_01.png)
+![Bolo de goma tradicional do Nordeste](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-goma-tradicional-do-nordeste__b2fd2862_01.webp)
 
 ## 📝 Informações da Receita
 

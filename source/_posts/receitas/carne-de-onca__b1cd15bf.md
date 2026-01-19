@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de onça](/images/carne-de-onca__b1cd15bf_01.png)
+![Carne de onça](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-onca__b1cd15bf_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Moranga recheada com frango cremoso](/images/moranga-recheada-com-frango-cremoso__f5487a43_01.png)
+![Moranga recheada com frango cremoso](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moranga-recheada-com-frango-cremoso__f5487a43_01.webp)
 
 ## 📝 Informações da Receita
 

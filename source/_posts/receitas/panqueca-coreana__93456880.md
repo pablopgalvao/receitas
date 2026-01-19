@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca coreana](/images/panqueca-coreana__93456880_01.png)
+![Panqueca coreana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-coreana__93456880_01.webp)
 
 ## 📝 Informações da Receita
 

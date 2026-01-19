@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Repolho macerado com cominho e mostarda](/images/repolho_macerado_com_cominho_e_mostarda.jpg)
+![Repolho macerado com cominho e mostarda](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_macerado_com_cominho_e_mostarda.jpg)
 
 ## 📝 Informações da Receita
 

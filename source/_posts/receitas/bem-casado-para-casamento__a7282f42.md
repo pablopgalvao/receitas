@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bem-casado para casamento](/images/bem-casado-para-casamento__a7282f42_01.png)
+![Bem-casado para casamento](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bem-casado-para-casamento__a7282f42_01.webp)
 
 ## 📝 Informações da Receita
 

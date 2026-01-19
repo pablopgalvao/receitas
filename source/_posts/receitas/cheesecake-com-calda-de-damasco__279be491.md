@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cheesecake com calda de damasco](/images/cheesecake-com-calda-de-damasco__279be491_01.webp)
+![Cheesecake com calda de damasco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cheesecake-com-calda-de-damasco__279be491_01.webp)
 
 ## 📝 Informações da Receita
 

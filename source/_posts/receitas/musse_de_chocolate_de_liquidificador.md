@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Musse de chocolate de liquidificador](/images/musse_de_chocolate_de_liquidificador.jpg)
+![Musse de chocolate de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/musse_de_chocolate_de_liquidificador.jpg)
 
 ## 📝 Informações da Receita
 

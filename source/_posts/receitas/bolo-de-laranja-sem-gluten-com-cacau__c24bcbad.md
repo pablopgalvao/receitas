@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de laranja sem glúten com cacau](/images/bolo-de-laranja-sem-gluten-com-cacau__c24bcbad_01.png)
+![Bolo de laranja sem glúten com cacau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-laranja-sem-gluten-com-cacau__c24bcbad_01.webp)
 
 ## 📝 Informações da Receita
 

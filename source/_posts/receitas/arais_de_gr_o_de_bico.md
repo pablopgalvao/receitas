@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arais de grão-de-bico](/images/arais_de_gr_o_de_bico.jpg)
+![Arais de grão-de-bico](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arais_de_gr_o_de_bico.jpg)
 
 ## 📝 Informações da Receita
 

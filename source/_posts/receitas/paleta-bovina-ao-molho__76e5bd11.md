@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Paleta bovina ao molho](/images/paleta-bovina-ao-molho__76e5bd11_01.png)
+![Paleta bovina ao molho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/paleta-bovina-ao-molho__76e5bd11_01.webp)
 
 ## 📝 Informações da Receita
 

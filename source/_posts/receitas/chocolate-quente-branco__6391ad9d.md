@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chocolate quente branco](/images/chocolate-quente-branco__6391ad9d_01.png)
+![Chocolate quente branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chocolate-quente-branco__6391ad9d_01.webp)
 
 ## 📝 Informações da Receita
 

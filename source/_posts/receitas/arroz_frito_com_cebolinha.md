@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz frito com cebolinha](/images/arroz_frito_com_cebolinha.jpg)
+![Arroz frito com cebolinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_frito_com_cebolinha.jpg)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho cremoso de batata-doce](/images/bolinho-cremoso-de-batata-doce__659e51aa_01.png)
+![Bolinho cremoso de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-cremoso-de-batata-doce__659e51aa_01.webp)
 
 ## 📝 Informações da Receita
 

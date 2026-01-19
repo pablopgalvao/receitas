@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobremesa Sensação fácil](/images/sobremesa-sensacao-facil__c936bd91_01.png)
+![Sobremesa Sensação fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobremesa-sensacao-facil__c936bd91_01.webp)
 
 ## 📝 Informações da Receita
 

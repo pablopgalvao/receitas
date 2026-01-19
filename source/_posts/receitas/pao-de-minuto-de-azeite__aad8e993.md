@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de minuto de azeite](/images/pao-de-minuto-de-azeite__aad8e993_01.png)
+![Pão de minuto de azeite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-minuto-de-azeite__aad8e993_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abóbora cabotiá assada com ervas](/images/abobora-cabotia-assada-com-ervas__d4478d5c_01.png)
+![Abóbora cabotiá assada com ervas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobora-cabotia-assada-com-ervas__d4478d5c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lanche de bisnaguinha de forno](/images/lanche-de-bisnaguinha-de-forno__3378f622_01.png)
+![Lanche de bisnaguinha de forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lanche-de-bisnaguinha-de-forno__3378f622_01.webp)
 
 ## 📝 Informações da Receita
 

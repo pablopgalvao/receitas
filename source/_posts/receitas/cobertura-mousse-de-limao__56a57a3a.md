@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cobertura mousse de limão](/images/cobertura-mousse-de-limao__56a57a3a_01.png)
+![Cobertura mousse de limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cobertura-mousse-de-limao__56a57a3a_01.webp)
 
 ## 📝 Informações da Receita
 

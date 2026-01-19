@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopadinho de camarão com chuchu](/images/ensopadinho_de_camar_o_com_chuchu.jpg)
+![Ensopadinho de camarão com chuchu](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopadinho_de_camar_o_com_chuchu.jpg)
 
 ## 📝 Informações da Receita
 

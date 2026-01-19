@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Barrinha de banana com aveia e canela](/images/barrinha-de-banana-com-aveia-e-canela__9712c95c_01.png)
+![Barrinha de banana com aveia e canela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/barrinha-de-banana-com-aveia-e-canela__9712c95c_01.webp)
 
 ## 📝 Informações da Receita
 

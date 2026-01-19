@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz de milho com feijão-verde](/images/cuscuz_de_milho_com_feij_o_verde.jpg)
+![Cuscuz de milho com feijão-verde](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cuscuz_de_milho_com_feij_o_verde.jpg)
 
 ## 📝 Informações da Receita
 

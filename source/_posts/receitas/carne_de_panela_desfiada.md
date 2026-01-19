@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de panela desfiada](/images/carne_de_panela_desfiada.jpg)
+![Carne de panela desfiada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_de_panela_desfiada.jpg)
 
 ## 📝 Informações da Receita
 

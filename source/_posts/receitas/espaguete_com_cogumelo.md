@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espaguete com cogumelo](/images/espaguete_com_cogumelo.jpg)
+![Espaguete com cogumelo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espaguete_com_cogumelo.jpg)
 
 ## 📝 Informações da Receita
 

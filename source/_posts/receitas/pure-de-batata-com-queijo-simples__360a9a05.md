@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Purê de batata com queijo simples](/images/pure-de-batata-com-queijo-simples__360a9a05_01.png)
+![Purê de batata com queijo simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-batata-com-queijo-simples__360a9a05_01.webp)
 
 ## 📝 Informações da Receita
 

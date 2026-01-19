@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza caseira de muçarela](/images/pizza_caseira_de_mu_arela.jpg)
+![Pizza caseira de muçarela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pizza_caseira_de_mu_arela.jpg)
 
 ## 📝 Informações da Receita
 

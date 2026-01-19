@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão caseiro com queijo](/images/pao-caseiro-com-queijo__32d46782_01.png)
+![Pão caseiro com queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-com-queijo__32d46782_01.webp)
 
 ## 📝 Informações da Receita
 

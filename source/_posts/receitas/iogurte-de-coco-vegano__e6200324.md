@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Iogurte de coco vegano](/images/iogurte-de-coco-vegano__e6200324_01.png)
+![Iogurte de coco vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/iogurte-de-coco-vegano__e6200324_01.webp)
 
 ## 📝 Informações da Receita
 

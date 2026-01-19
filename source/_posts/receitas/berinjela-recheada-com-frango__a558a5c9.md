@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Berinjela recheada com frango](/images/berinjela-recheada-com-frango__a558a5c9_01.png)
+![Berinjela recheada com frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/berinjela-recheada-com-frango__a558a5c9_01.webp)
 
 ## 📝 Informações da Receita
 

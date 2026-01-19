@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão-vermelho](/images/feijao-vermelho__81550e73_01.png)
+![Feijão-vermelho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-vermelho__81550e73_01.webp)
 
 ## 📝 Informações da Receita
 

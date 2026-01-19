@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango assado prático com polenta e molho pesto brasileiro](/images/frango_assado_pr_tico_com_polenta_e_molho_pesto_brasileiro.jpg)
+![Frango assado prático com polenta e molho pesto brasileiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_assado_pr_tico_com_polenta_e_molho_pesto_brasileiro.jpg)
 
 ## 📝 Informações da Receita
 

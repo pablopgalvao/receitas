@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Granola de frigideira](/images/granola_de_frigideira.jpg)
+![Granola de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/granola_de_frigideira.jpg)
 
 ## 📝 Informações da Receita
 

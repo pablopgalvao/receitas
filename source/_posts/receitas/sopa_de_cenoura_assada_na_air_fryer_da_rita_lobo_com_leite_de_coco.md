@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de cenoura assada na Air Fryer da Rita Lobo com leite de coco](/images/sopa_de_cenoura_assada_na_air_fryer_da_rita_lobo_com_leite_de_coco.jpg)
+![Sopa de cenoura assada na Air Fryer da Rita Lobo com leite de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_cenoura_assada_na_air_fryer_da_rita_lobo_com_leite_de_coco.jpg)
 
 ## 📝 Informações da Receita
 

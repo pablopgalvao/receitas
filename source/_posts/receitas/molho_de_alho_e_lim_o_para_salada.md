@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de alho e limão para salada](/images/molho_de_alho_e_lim_o_para_salada.jpg)
+![Molho de alho e limão para salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_alho_e_lim_o_para_salada.jpg)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada coreana de pepino](/images/salada-coreana-de-pepino__e471e4df_01.png)
+![Salada coreana de pepino](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-coreana-de-pepino__e471e4df_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado de carne com abóbora e couve](/images/ensopado_de_carne_com_ab_bora_e_couve.jpg)
+![Ensopado de carne com abóbora e couve](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_de_carne_com_ab_bora_e_couve.jpg)
 
 ## 📝 Informações da Receita
 

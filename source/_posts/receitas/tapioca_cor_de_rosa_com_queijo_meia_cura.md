@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tapioca cor-de-rosa com queijo meia cura](/images/tapioca_cor_de_rosa_com_queijo_meia_cura.jpg)
+![Tapioca cor-de-rosa com queijo meia cura](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tapioca_cor_de_rosa_com_queijo_meia_cura.jpg)
 
 ## 📝 Informações da Receita
 

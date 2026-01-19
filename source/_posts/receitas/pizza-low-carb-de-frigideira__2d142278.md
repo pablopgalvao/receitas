@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza low carb de frigideira](/images/pizza-low-carb-de-frigideira__2d142278_01.png)
+![Pizza low carb de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-low-carb-de-frigideira__2d142278_01.webp)
 
 ## 📝 Informações da Receita
 

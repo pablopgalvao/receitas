@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Burrito vegetariano](/images/burrito-vegetariano__146816bd_01.png)
+![Burrito vegetariano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/burrito-vegetariano__146816bd_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rocambole de arroz](/images/rocambole-de-arroz__cec0c10e_01.png)
+![Rocambole de arroz](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rocambole-de-arroz__cec0c10e_01.webp)
 
 ## 📝 Informações da Receita
 

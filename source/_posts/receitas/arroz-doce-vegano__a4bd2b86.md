@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz doce vegano](/images/arroz-doce-vegano__a4bd2b86_01.png)
+![Arroz doce vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-vegano__a4bd2b86_01.webp)
 
 ## 📝 Informações da Receita
 

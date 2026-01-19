@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Falafel na air fryer](/images/falafel-na-air-fryer__5b12ad56_01.png)
+![Falafel na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/falafel-na-air-fryer__5b12ad56_01.webp)
 
 ## 📝 Informações da Receita
 

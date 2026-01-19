@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Dobradinha na panela de pressão elétrica](/images/dobradinha-na-panela-de-pressao-eletrica__9a74f89f_01.webp)
+![Dobradinha na panela de pressão elétrica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/dobradinha-na-panela-de-pressao-eletrica__9a74f89f_01.webp)
 
 ## 📝 Informações da Receita
 

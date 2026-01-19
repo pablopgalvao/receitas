@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coalhada seca com azeite crocante](/images/coalhada_seca_com_azeite_crocante.jpg)
+![Coalhada seca com azeite crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/coalhada_seca_com_azeite_crocante.jpg)
 
 ## 📝 Informações da Receita
 

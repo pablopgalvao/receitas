@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rabanada de pão de fôrma integral (reaproveitamento)](/images/rabanada_de_p_o_de_f_rma_integral_reaproveitamento.jpg)
+![Rabanada de pão de fôrma integral (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rabanada_de_p_o_de_f_rma_integral_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

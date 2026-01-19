@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Camarão à Provençal](/images/camarao-a-provencal__11a3c7d1_01.png)
+![Camarão à Provençal](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camarao-a-provencal__11a3c7d1_01.webp)
 
 ## 📝 Informações da Receita
 

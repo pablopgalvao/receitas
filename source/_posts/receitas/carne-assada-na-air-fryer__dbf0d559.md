@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne assada na air fryer](/images/carne-assada-na-air-fryer__dbf0d559_01.png)
+![Carne assada na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-assada-na-air-fryer__dbf0d559_01.webp)
 
 ## 📝 Informações da Receita
 

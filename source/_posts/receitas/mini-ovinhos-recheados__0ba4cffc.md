@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mini ovinhos recheados](/images/mini-ovinhos-recheados__0ba4cffc_01.png)
+![Mini ovinhos recheados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-ovinhos-recheados__0ba4cffc_01.webp)
 
 ## 📝 Informações da Receita
 

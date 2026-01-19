@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torresmo vegano](/images/torresmo-vegano__d76e69ca_01.png)
+![Torresmo vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torresmo-vegano__d76e69ca_01.webp)
 
 ## 📝 Informações da Receita
 

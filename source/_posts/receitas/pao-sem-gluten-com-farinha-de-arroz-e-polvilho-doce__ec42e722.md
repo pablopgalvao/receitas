@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão sem glúten com farinha de arroz e polvilho doce](/images/pao-sem-gluten-com-farinha-de-arroz-e-polvilho-doce__ec42e722_01.png)
+![Pão sem glúten com farinha de arroz e polvilho doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-sem-gluten-com-farinha-de-arroz-e-polvilho-doce__ec42e722_01.webp)
 
 ## 📝 Informações da Receita
 

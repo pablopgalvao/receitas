@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de maracujá sem açúcar](/images/mousse-de-maracuja-sem-acucar__1af1bda8_01.png)
+![Mousse de maracujá sem açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-maracuja-sem-acucar__1af1bda8_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polenta frita na air fryer](/images/polenta-frita-na-airfryer__bce3d7a9_01.png)
+![Polenta frita na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/polenta-frita-na-airfryer__bce3d7a9_01.webp)
 
 ## 📝 Informações da Receita
 

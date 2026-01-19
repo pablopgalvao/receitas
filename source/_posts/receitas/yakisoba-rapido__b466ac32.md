@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Yakisoba rápido](/images/yakisoba-rapido__b466ac32_01.png)
+![Yakisoba rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/yakisoba-rapido__b466ac32_01.webp)
 
 ## 📝 Informações da Receita
 

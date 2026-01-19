@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa caseira com semolina](/images/massa_caseira_com_semolina.jpg)
+![Massa caseira com semolina](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_caseira_com_semolina.jpg)
 
 ## 📝 Informações da Receita
 

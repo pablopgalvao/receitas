@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiche de queijo minas com alho-poró assado](/images/quiche_de_queijo_minas_com_alho_por_assado.jpg)
+![Quiche de queijo minas com alho-poró assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiche_de_queijo_minas_com_alho_por_assado.jpg)
 
 ## 📝 Informações da Receita
 

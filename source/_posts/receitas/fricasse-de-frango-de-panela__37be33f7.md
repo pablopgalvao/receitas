@@ -22,7 +22,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fricassê de frango de panela](/images/fricasse-de-frango-de-panela__37be33f7_01.png)
+![Fricassê de frango de panela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-de-frango-de-panela__37be33f7_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escarola escabeche](/images/escarola_escabeche.jpg)
+![Escarola escabeche](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_escabeche.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada Caesar com crocante de parmesão](/images/salada_caesar_com_crocante_de_parmes_o.jpg)
+![Salada Caesar com crocante de parmesão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_caesar_com_crocante_de_parmes_o.jpg)
 
 ## 📝 Informações da Receita
 

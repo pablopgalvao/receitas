@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango empanado fácil](/images/frango-empanado-facil__7b2cfdc1_01.png)
+![Frango empanado fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-facil__7b2cfdc1_01.webp)
 
 ## 📝 Informações da Receita
 

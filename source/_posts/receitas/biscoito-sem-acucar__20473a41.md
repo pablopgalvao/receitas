@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoito sem açúcar](/images/biscoito-sem-acucar__20473a41_01.png)
+![Biscoito sem açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoito-sem-acucar__20473a41_01.webp)
 
 ## 📝 Informações da Receita
 

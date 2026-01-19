@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Moqueca de banana da terra com farofa de dendê](/images/moqueca-de-banana-da-terra-com-farofa-de-dende__a2393e90_01.png)
+![Moqueca de banana da terra com farofa de dendê](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-de-banana-da-terra-com-farofa-de-dende__a2393e90_01.webp)
 
 ## 📝 Informações da Receita
 

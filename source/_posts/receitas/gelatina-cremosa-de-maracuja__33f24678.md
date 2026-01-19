@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gelatina cremosa de maracujá](/images/gelatina-cremosa-de-maracuja__33f24678_01.png)
+![Gelatina cremosa de maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelatina-cremosa-de-maracuja__33f24678_01.webp)
 
 ## 📝 Informações da Receita
 

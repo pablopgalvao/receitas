@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espiral de banana caramelizada](/images/espiral_de_banana_caramelizada.jpg)
+![Espiral de banana caramelizada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espiral_de_banana_caramelizada.jpg)
 
 ## 📝 Informações da Receita
 

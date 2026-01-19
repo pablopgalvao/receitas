@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz à grega](/images/arroz-a-grega__3ae0cf31_01.png)
+![Arroz à grega](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-a-grega__3ae0cf31_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão asiático de frigideira vegano](/images/pao-asiatico-de-frigideira-vegano__277c2246_01.png)
+![Pão asiático de frigideira vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-asiatico-de-frigideira-vegano__277c2246_01.webp)
 
 ## 📝 Informações da Receita
 

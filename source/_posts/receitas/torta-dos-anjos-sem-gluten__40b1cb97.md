@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta dos anjos sem glúten](/images/torta-dos-anjos-sem-gluten__40b1cb97_01.png)
+![Torta dos anjos sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-dos-anjos-sem-gluten__40b1cb97_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastel com wrap](/images/pastel-com-wrap__ca495041_01.png)
+![Pastel com wrap](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastel-com-wrap__ca495041_01.webp)
 
 ## 📝 Informações da Receita
 

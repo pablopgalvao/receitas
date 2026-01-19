@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de ervilha e hortelã na pressão](/images/risoto_de_ervilha_e_hortel_na_press_o.jpg)
+![Risoto de ervilha e hortelã na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_ervilha_e_hortel_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de biju com castanha-do-pará](/images/farofa_de_biju_com_castanha_do_par.jpg)
+![Farofa de biju com castanha-do-pará](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_biju_com_castanha_do_par.jpg)
 
 ## 📝 Informações da Receita
 

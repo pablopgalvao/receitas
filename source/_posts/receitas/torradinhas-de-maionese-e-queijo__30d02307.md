@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torradinhas de maionese e queijo](/images/torradinhas-de-maionese-e-queijo__30d02307_01.png)
+![Torradinhas de maionese e queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torradinhas-de-maionese-e-queijo__30d02307_01.webp)
 
 ## 📝 Informações da Receita
 

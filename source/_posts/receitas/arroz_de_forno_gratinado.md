@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz de forno gratinado](/images/arroz_de_forno_gratinado.jpg)
+![Arroz de forno gratinado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_de_forno_gratinado.jpg)
 
 ## 📝 Informações da Receita
 

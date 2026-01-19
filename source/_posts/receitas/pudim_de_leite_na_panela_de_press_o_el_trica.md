@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de leite na panela de pressão elétrica](/images/pudim_de_leite_na_panela_de_press_o_el_trica.jpg)
+![Pudim de leite na panela de pressão elétrica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pudim_de_leite_na_panela_de_press_o_el_trica.jpg)
 
 ## 📝 Informações da Receita
 

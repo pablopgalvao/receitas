@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca vegana](/images/panqueca-vegana__1793a05b_01.png)
+![Panqueca vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-vegana__1793a05b_01.webp)
 
 ## 📝 Informações da Receita
 

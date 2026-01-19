@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de aveia de frigideira](/images/pao-de-aveia-de-frigideira__67744e7e_01.png)
+![Pão de aveia de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-aveia-de-frigideira__67744e7e_01.webp)
 
 ## 📝 Informações da Receita
 

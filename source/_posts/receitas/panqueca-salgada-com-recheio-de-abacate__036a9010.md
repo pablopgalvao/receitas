@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca salgada com recheio de abacate](/images/panqueca-salgada-com-recheio-de-abacate__036a9010_01.png)
+![Panqueca salgada com recheio de abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-salgada-com-recheio-de-abacate__036a9010_01.webp)
 
 ## 📝 Informações da Receita
 

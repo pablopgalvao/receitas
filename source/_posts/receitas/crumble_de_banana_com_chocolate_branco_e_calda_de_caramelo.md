@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Crumble de banana com chocolate branco e calda de caramelo](/images/crumble_de_banana_com_chocolate_branco_e_calda_de_caramelo.jpg)
+![Crumble de banana com chocolate branco e calda de caramelo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crumble_de_banana_com_chocolate_branco_e_calda_de_caramelo.jpg)
 
 ## 📝 Informações da Receita
 

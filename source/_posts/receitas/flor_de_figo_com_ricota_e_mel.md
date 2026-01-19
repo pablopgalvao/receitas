@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Flor de figo com ricota e mel](/images/flor_de_figo_com_ricota_e_mel.jpg)
+![Flor de figo com ricota e mel](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/flor_de_figo_com_ricota_e_mel.jpg)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de ovos](/images/pate-de-ovos__b803f91b_01.png)
+![Patê de ovos](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-ovos__b803f91b_01.webp)
 
 ## 📝 Informações da Receita
 

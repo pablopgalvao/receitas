@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata-bolinha ao murro com alecrim](/images/batata_bolinha_ao_murro_com_alecrim.jpg)
+![Batata-bolinha ao murro com alecrim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_bolinha_ao_murro_com_alecrim.jpg)
 
 ## 📝 Informações da Receita
 

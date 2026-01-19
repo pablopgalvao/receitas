@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo formigueiro fácil e rápido](/images/bolo_formigueiro_f_cil_e_r_pido.jpg)
+![Bolo formigueiro fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_formigueiro_f_cil_e_r_pido.jpg)
 
 ## 📝 Informações da Receita
 

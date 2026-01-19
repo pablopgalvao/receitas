@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo vulcão de chocolate com cobertura de maracujá](/images/bolo-vulcao-de-chocolate-com-cobertura-de-maracuja__b1eaf5dc_01.png)
+![Bolo vulcão de chocolate com cobertura de maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-vulcao-de-chocolate-com-cobertura-de-maracuja__b1eaf5dc_01.webp)
 
 ## 📝 Informações da Receita
 

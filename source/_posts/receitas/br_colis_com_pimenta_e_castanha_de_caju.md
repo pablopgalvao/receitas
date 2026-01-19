@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brócolis com pimenta e castanha-de-caju](/images/br_colis_com_pimenta_e_castanha_de_caju.jpg)
+![Brócolis com pimenta e castanha-de-caju](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_com_pimenta_e_castanha_de_caju.jpg)
 
 ## 📝 Informações da Receita
 

@@ -9,7 +9,7 @@ ingredients:
   list:
     - ucar
     - caras
-    - a
+
     - agua
     - cara
     - o
@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cheesecake de goiaba vegana](/images/cheesecake-de-goiaba-vegana__43e5193f_01.png)
+![Cheesecake de goiaba vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cheesecake-de-goiaba-vegana__43e5193f_01.webp)
 
 ## 📝 Informações da Receita
 

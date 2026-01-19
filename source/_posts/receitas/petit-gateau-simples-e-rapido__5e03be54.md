@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Petit gateau simples e rápido](/images/petit-gateau-simples-e-rapido__5e03be54_01.png)
+![Petit gateau simples e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/petit-gateau-simples-e-rapido__5e03be54_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha grelhada com semente de coentro e limão](/images/abobrinha_grelhada_com_semente_de_coentro_e_lim_o.jpg)
+![Abobrinha grelhada com semente de coentro e limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/abobrinha_grelhada_com_semente_de_coentro_e_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

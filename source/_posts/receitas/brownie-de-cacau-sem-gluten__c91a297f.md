@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie de cacau sem glúten](/images/brownie-de-cacau-sem-gluten__c91a297f_01.png)
+![Brownie de cacau sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-de-cacau-sem-gluten__c91a297f_01.webp)
 
 ## 📝 Informações da Receita
 

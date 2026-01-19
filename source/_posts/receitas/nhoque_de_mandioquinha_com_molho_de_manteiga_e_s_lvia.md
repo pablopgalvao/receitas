@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de mandioquinha com molho de manteiga e sálvia](/images/nhoque_de_mandioquinha_com_molho_de_manteiga_e_s_lvia.jpg)
+![Nhoque de mandioquinha com molho de manteiga e sálvia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_mandioquinha_com_molho_de_manteiga_e_s_lvia.jpg)
 
 ## 📝 Informações da Receita
 

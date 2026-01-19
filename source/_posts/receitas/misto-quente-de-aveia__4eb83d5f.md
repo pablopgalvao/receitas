@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Misto quente de aveia](/images/misto-quente-de-aveia__4eb83d5f_01.png)
+![Misto quente de aveia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/misto-quente-de-aveia__4eb83d5f_01.webp)
 
 ## 📝 Informações da Receita
 

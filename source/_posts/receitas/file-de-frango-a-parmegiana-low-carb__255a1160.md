@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de frango à parmegiana low carb](/images/file-de-frango-a-parmegiana-low-carb__255a1160_01.png)
+![Filé de frango à parmegiana low carb](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-a-parmegiana-low-carb__255a1160_01.webp)
 
 ## 📝 Informações da Receita
 

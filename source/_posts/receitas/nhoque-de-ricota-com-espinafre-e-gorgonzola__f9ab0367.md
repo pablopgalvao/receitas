@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de ricota com espinafre e gorgonzola](/images/nhoque-de-ricota-com-espinafre-e-gorgonzola__f9ab0367_01.png)
+![Nhoque de ricota com espinafre e gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-ricota-com-espinafre-e-gorgonzola__f9ab0367_01.webp)
 
 ## 📝 Informações da Receita
 

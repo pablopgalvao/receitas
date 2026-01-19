@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ragu de cenoura](/images/ragu_de_cenoura.jpg)
+![Ragu de cenoura](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ragu_de_cenoura.jpg)
 
 ## 📝 Informações da Receita
 

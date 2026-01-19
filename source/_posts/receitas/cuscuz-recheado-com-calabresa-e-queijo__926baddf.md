@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz recheado com calabresa e queijo](/images/cuscuz-recheado-com-calabresa-e-queijo__926baddf_01.png)
+![Cuscuz recheado com calabresa e queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cuscuz-recheado-com-calabresa-e-queijo__926baddf_01.webp)
 
 ## 📝 Informações da Receita
 

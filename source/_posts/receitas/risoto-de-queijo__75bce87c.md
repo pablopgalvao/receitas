@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de queijo](/images/risoto-de-queijo__75bce87c_01.png)
+![Risoto de queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/risoto-de-queijo__75bce87c_01.webp)
 
 ## 📝 Informações da Receita
 

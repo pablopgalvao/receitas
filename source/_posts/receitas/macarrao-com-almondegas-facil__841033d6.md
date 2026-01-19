@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com almôndegas fácil](/images/macarrao-com-almondegas-facil__841033d6_01.png)
+![Macarrão com almôndegas fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-almondegas-facil__841033d6_01.webp)
 
 ## 📝 Informações da Receita
 

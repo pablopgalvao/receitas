@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Palitos de polenta no forno](/images/palitos_de_polenta_no_forno.jpg)
+![Palitos de polenta no forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/palitos_de_polenta_no_forno.jpg)
 
 ## 📝 Informações da Receita
 

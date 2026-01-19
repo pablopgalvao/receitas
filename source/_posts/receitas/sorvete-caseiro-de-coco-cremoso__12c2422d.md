@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete caseiro de coco cremoso](/images/sorvete-caseiro-de-coco-cremoso__12c2422d_01.png)
+![Sorvete caseiro de coco cremoso](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-caseiro-de-coco-cremoso__12c2422d_01.webp)
 
 ## 📝 Informações da Receita
 

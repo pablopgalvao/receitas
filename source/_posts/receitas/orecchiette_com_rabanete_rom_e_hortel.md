@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Orecchiette com rabanete, romã e hortelã](/images/orecchiette_com_rabanete_rom_e_hortel.jpg)
+![Orecchiette com rabanete, romã e hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/orecchiette_com_rabanete_rom_e_hortel.jpg)
 
 ## 📝 Informações da Receita
 

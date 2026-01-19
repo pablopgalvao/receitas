@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carbonara simples](/images/carbonara-simples__7a2eaf06_01.png)
+![Carbonara simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carbonara-simples__7a2eaf06_01.webp)
 
 ## 📝 Informações da Receita
 

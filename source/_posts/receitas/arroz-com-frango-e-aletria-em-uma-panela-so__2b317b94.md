@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com frango e aletria em uma panela só](/images/arroz-com-frango-e-aletria-em-uma-panela-so__2b317b94_01.webp)
+![Arroz com frango e aletria em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-frango-e-aletria-em-uma-panela-so__2b317b94_01.webp)
 
 ## 📝 Informações da Receita
 

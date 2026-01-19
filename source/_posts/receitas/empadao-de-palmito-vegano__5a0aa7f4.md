@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empadão de palmito vegano](/images/empadao-de-palmito-vegano__5a0aa7f4_01.png)
+![Empadão de palmito vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadao-de-palmito-vegano__5a0aa7f4_01.webp)
 
 ## 📝 Informações da Receita
 

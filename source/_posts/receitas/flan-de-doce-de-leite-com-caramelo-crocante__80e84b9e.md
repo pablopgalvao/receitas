@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Flan de doce de leite com caramelo crocante](/images/flan-de-doce-de-leite-com-caramelo-crocante__80e84b9e_01.png)
+![Flan de doce de leite com caramelo crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/flan-de-doce-de-leite-com-caramelo-crocante__80e84b9e_01.webp)
 
 ## 📝 Informações da Receita
 

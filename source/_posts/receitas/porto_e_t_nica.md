@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Porto e tônica](/images/porto_e_t_nica.jpg)
+![Porto e tônica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/porto_e_t_nica.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Penne ao tomate e azeitona em uma panela só](/images/penne_ao_tomate_e_azeitona_em_uma_panela_s.jpg)
+![Penne ao tomate e azeitona em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/penne_ao_tomate_e_azeitona_em_uma_panela_s.jpg)
 
 ## 📝 Informações da Receita
 

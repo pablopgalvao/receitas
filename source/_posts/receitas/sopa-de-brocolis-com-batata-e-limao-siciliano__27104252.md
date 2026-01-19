@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de brócolis com batata e limão-siciliano](/images/sopa-de-brocolis-com-batata-e-limao-siciliano__27104252_01.webp)
+![Sopa de brócolis com batata e limão-siciliano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-de-brocolis-com-batata-e-limao-siciliano__27104252_01.webp)
 
 ## 📝 Informações da Receita
 

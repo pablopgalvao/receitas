@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lombinho com abóbora e cebola](/images/lombinho_com_ab_bora_e_cebola.jpg)
+![Lombinho com abóbora e cebola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lombinho_com_ab_bora_e_cebola.jpg)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho holandês](/images/molho-holandes__c79fe71d_01.png)
+![Molho holandês](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-holandes__c79fe71d_01.webp)
 
 ## 📝 Informações da Receita
 

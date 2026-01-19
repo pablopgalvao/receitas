@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim gelado mais fácil do mundo](/images/pudim-gelado-mais-facil-do-mundo__0cf3a1b0_01.png)
+![Pudim gelado mais fácil do mundo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-gelado-mais-facil-do-mundo__0cf3a1b0_01.webp)
 
 ## 📝 Informações da Receita
 

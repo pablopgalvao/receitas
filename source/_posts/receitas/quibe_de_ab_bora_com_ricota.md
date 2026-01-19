@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quibe de abóbora com ricota](/images/quibe_de_ab_bora_com_ricota.jpg)
+![Quibe de abóbora com ricota](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quibe_de_ab_bora_com_ricota.jpg)
 
 ## 📝 Informações da Receita
 

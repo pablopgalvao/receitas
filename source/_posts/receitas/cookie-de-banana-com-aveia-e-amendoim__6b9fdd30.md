@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: 10 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookie de banana com aveia e amendoim](/images/cookie-de-banana-com-aveia-e-amendoim__6b9fdd30_01.webp)
+![Cookie de banana com aveia e amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookie-de-banana-com-aveia-e-amendoim__6b9fdd30_01.webp)
 
 ## 📝 Informações da Receita
 

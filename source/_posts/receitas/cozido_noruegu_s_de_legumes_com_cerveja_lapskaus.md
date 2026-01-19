@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cozido norueguês de legumes com cerveja (Lapskaus)](/images/cozido_noruegu_s_de_legumes_com_cerveja_lapskaus.jpg)
+![Cozido norueguês de legumes com cerveja (Lapskaus)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cozido_noruegu_s_de_legumes_com_cerveja_lapskaus.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango indiano na Air Fryer Oven da Rita Lobo](/images/frango_indiano_na_air_fryer_oven_da_rita_lobo.jpg)
+![Frango indiano na Air Fryer Oven da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_indiano_na_air_fryer_oven_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

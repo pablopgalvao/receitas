@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de mandioca sem farinha de trigo](/images/bolo-de-mandioca-sem-farinha-de-trigo__7622814b_01.png)
+![Bolo de mandioca sem farinha de trigo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-mandioca-sem-farinha-de-trigo__7622814b_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ author: Lar do chef
 flags:
   - invalid_source
 ---
-![Rap10 integral com pasta de atum](source/images/rap10-integral-com-pasta-de-atum__76d0bbc0_01.png)
+![Rap10 integral com pasta de atum](sourcehttps://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rap10-integral-com-pasta-de-atum__76d0bbc0_01.webp)
 
 ## 📝 Informações da Receita
 

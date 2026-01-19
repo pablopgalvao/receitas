@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de maracujá rápida](/images/torta-de-maracuja-rapida__73d20a8f_01.png)
+![Torta de maracujá rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-maracuja-rapida__73d20a8f_01.webp)
 
 ## 📝 Informações da Receita
 

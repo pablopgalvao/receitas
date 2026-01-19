@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão de sardinha](/images/macarrao-de-sardinha__d255b5fe_01.png)
+![Macarrão de sardinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-de-sardinha__d255b5fe_01.webp)
 
 ## 📝 Informações da Receita
 

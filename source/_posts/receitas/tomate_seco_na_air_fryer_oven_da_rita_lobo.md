@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tomate seco na Air Fryer Oven da Rita Lobo](/images/tomate_seco_na_air_fryer_oven_da_rita_lobo.jpg)
+![Tomate seco na Air Fryer Oven da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tomate_seco_na_air_fryer_oven_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

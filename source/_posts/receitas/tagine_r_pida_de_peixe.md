@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tagine rápida de peixe](/images/tagine_r_pida_de_peixe.jpg)
+![Tagine rápida de peixe](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tagine_r_pida_de_peixe.jpg)
 
 ## 📝 Informações da Receita
 

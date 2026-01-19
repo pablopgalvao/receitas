@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza cone fácil](/images/pizza-cone-facil__6cb310e4_01.png)
+![Pizza cone fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-cone-facil__6cb310e4_01.webp)
 
 ## 📝 Informações da Receita
 

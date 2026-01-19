@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costela assada fácil](/images/costela-assada-facil__d2375db0_01.png)
+![Costela assada fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/costela-assada-facil__d2375db0_01.webp)
 
 ## 📝 Informações da Receita
 

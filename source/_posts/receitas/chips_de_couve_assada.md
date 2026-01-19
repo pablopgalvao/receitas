@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chips de couve assada](/images/chips_de_couve_assada.jpg)
+![Chips de couve assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chips_de_couve_assada.jpg)
 
 ## 📝 Informações da Receita
 

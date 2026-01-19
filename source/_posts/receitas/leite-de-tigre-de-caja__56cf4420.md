@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Leite de tigre de cajá simples](/images/leite-de-tigre-de-caja__56cf4420_01.png)
+![Leite de tigre de cajá simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/leite-de-tigre-de-caja__56cf4420_01.webp)
 
 ## 📝 Informações da Receita
 

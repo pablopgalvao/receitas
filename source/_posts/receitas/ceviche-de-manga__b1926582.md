@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ceviche de manga](/images/ceviche-de-manga__b1926582_01.png)
+![Ceviche de manga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-manga__b1926582_01.webp)
 
 ## 📝 Informações da Receita
 

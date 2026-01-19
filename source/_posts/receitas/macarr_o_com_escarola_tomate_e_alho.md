@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com escarola, tomate e alho](/images/macarr_o_com_escarola_tomate_e_alho.jpg)
+![Macarrão com escarola, tomate e alho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_escarola_tomate_e_alho.jpg)
 
 ## 📝 Informações da Receita
 

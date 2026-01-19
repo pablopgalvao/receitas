@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gaspacho](/images/gaspacho__5f387050_01.png)
+![Gaspacho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gaspacho__5f387050_01.webp)
 
 ## 📝 Informações da Receita
 

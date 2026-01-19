@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavê de Ninho com chocolate](/images/pave-de-ninho-com-chocolate__b70e1060_01.png)
+![Pavê de Ninho com chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-ninho-com-chocolate__b70e1060_01.webp)
 
 ## 📝 Informações da Receita
 

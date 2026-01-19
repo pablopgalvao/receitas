@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Doce de abacaxi](/images/doce-de-abacaxi__f86e7875_01.png)
+![Doce de abacaxi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp)
 
 ## 📝 Informações da Receita
 

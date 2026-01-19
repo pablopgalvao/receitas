@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com abobrinha, ricota e pesto de hortelã](/images/macarr_o_com_abobrinha_ricota_e_pesto_de_hortel.jpg)
+![Macarrão com abobrinha, ricota e pesto de hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_abobrinha_ricota_e_pesto_de_hortel.jpg)
 
 ## 📝 Informações da Receita
 

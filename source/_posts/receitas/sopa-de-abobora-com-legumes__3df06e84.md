@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de abóbora com legumes](/images/sopa-de-abobora-com-legumes__3df06e84_01.png)
+![Sopa de abóbora com legumes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-de-abobora-com-legumes__3df06e84_01.webp)
 
 ## 📝 Informações da Receita
 

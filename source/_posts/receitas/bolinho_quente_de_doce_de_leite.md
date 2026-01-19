@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho quente de doce de leite](/images/bolinho_quente_de_doce_de_leite.jpg)
+![Bolinho quente de doce de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_quente_de_doce_de_leite.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavlova na air fryer](/images/pavlova-na-air-fryer__854c922c_01.png)
+![Pavlova na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pavlova-na-air-fryer__854c922c_01.webp)
 
 ## 📝 Informações da Receita
 

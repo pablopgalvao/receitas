@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de lentilha e beterraba assada com molho balsâmico](/images/salada_de_lentilha_e_beterraba_assada_com_molho_bals_mico.jpg)
+![Salada de lentilha e beterraba assada com molho balsâmico](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_lentilha_e_beterraba_assada_com_molho_bals_mico.jpg)
 
 ## 📝 Informações da Receita
 

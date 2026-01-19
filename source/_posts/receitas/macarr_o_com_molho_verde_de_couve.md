@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com molho verde de couve](/images/macarr_o_com_molho_verde_de_couve.jpg)
+![Macarrão com molho verde de couve](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_molho_verde_de_couve.jpg)
 
 ## 📝 Informações da Receita
 

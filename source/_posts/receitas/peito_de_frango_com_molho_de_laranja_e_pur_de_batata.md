@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peito de frango com molho de laranja e purê de batata](/images/peito_de_frango_com_molho_de_laranja_e_pur_de_batata.jpg)
+![Peito de frango com molho de laranja e purê de batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/peito_de_frango_com_molho_de_laranja_e_pur_de_batata.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sagu de coco na panela de pressão elétrica](/images/sagu_de_coco_na_panela_de_press_o_el_trica.jpg)
+![Sagu de coco na panela de pressão elétrica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sagu_de_coco_na_panela_de_press_o_el_trica.jpg)
 
 ## 📝 Informações da Receita
 

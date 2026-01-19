@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão integral de frigideira fácil](/images/pao-integral-de-frigideira-facil__c10eadae_01.png)
+![Pão integral de frigideira fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-frigideira-facil__c10eadae_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndegas vegetarianas](/images/almondegas-vegetarianas__eb1efbac_01.png)
+![Almôndegas vegetarianas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-vegetarianas__eb1efbac_01.webp)
 
 ## 📝 Informações da Receita
 

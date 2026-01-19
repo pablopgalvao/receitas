@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de banana invertido](/images/bolo-de-banana-invertido__eaf90d03_01.png)
+![Bolo de banana invertido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-invertido__eaf90d03_01.webp)
 
 ## 📝 Informações da Receita
 

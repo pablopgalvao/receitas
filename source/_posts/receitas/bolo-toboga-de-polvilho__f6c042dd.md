@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo tobogã de polvilho](/images/bolo-toboga-de-polvilho__f6c042dd_01.png)
+![Bolo tobogã de polvilho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-toboga-de-polvilho__f6c042dd_01.webp)
 
 ## 📝 Informações da Receita
 

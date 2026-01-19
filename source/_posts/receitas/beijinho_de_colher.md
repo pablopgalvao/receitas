@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Beijinho de colher](/images/beijinho_de_colher.jpg)
+![Beijinho de colher](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/beijinho_de_colher.jpg)
 
 ## 📝 Informações da Receita
 

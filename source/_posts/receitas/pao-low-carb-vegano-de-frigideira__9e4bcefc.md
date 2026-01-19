@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão low carb vegano de frigideira](/images/pao-low-carb-vegano-de-frigideira__9e4bcefc_01.png)
+![Pão low carb vegano de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-low-carb-vegano-de-frigideira__9e4bcefc_01.webp)
 
 ## 📝 Informações da Receita
 

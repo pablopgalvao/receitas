@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gratinado de legumes light](/images/gratinado-de-legumes-light__437d64f3_01.png)
+![Gratinado de legumes light](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gratinado-de-legumes-light__437d64f3_01.webp)
 
 ## 📝 Informações da Receita
 

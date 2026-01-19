@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strata, torta de pão com tomate e queijo (reaproveitamento)](/images/strata_torta_de_p_o_com_tomate_e_queijo_reaproveitamento.jpg)
+![Strata, torta de pão com tomate e queijo (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/strata_torta_de_p_o_com_tomate_e_queijo_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

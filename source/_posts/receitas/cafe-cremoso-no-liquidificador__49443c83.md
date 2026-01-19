@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Café cremoso no liquidificador](/images/cafe-cremoso-no-liquidificador__49443c83_01.png)
+![Café cremoso no liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-cremoso-no-liquidificador__49443c83_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de limão na air fryer](/images/bolo-de-limao-na-air-fryer__128eadc1_01.png)
+![Bolo de limão na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-limao-na-air-fryer__128eadc1_01.webp)
 
 ## 📝 Informações da Receita
 

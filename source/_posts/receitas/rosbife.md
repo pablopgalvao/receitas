@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rosbife](/images/rosbife.jpg)
+![Rosbife](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rosbife.jpg)
 
 ## 📝 Informações da Receita
 

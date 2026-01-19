@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndegas na air fryer](/images/almondegas-na-airfryer__b9d5d2a4_01.png)
+![Almôndegas na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-na-airfryer__b9d5d2a4_01.webp)
 
 ## 📝 Informações da Receita
 

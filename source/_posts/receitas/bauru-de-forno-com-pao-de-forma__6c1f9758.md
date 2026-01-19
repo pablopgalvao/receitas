@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bauru de forno com pão de forma](/images/bauru-de-forno-com-pao-de-forma__6c1f9758_01.png)
+![Bauru de forno com pão de forma](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bauru-de-forno-com-pao-de-forma__6c1f9758_01.webp)
 
 ## 📝 Informações da Receita
 

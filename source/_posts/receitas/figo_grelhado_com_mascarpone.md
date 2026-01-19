@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Figo grelhado com mascarpone](/images/figo_grelhado_com_mascarpone.jpg)
+![Figo grelhado com mascarpone](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/figo_grelhado_com_mascarpone.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Legumes mistos assados](/images/legumes_mistos_assados.jpg)
+![Legumes mistos assados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/legumes_mistos_assados.jpg)
 
 ## 📝 Informações da Receita
 

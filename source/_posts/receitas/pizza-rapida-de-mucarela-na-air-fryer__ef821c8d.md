@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - farinha
 difficulty: ''
 servings: ''
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza rápida de muçarela na Air Fryer da Rita Lobo](/images/pizza-rapida-de-mucarela-na-air-fryer__ef821c8d_01.webp)
+![Pizza rápida de muçarela na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-rapida-de-mucarela-na-air-fryer__ef821c8d_01.webp)
 
 ## 📝 Informações da Receita
 

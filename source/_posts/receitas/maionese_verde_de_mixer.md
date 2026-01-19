@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Maionese verde de mixer](/images/maionese_verde_de_mixer.jpg)
+![Maionese verde de mixer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_verde_de_mixer.jpg)
 
 ## 📝 Informações da Receita
 

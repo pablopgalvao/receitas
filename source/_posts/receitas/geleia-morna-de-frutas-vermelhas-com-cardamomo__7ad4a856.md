@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Geleia morna de frutas vermelhas com cardamomo](/images/geleia-morna-de-frutas-vermelhas-com-cardamomo__7ad4a856_01.webp)
+![Geleia morna de frutas vermelhas com cardamomo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-morna-de-frutas-vermelhas-com-cardamomo__7ad4a856_01.webp)
 
 ## 📝 Informações da Receita
 

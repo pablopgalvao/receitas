@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca de aveia e frango](/images/panqueca-de-aveia-e-frango__81f45418_01.png)
+![Panqueca de aveia e frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia-e-frango__81f45418_01.webp)
 
 ## 📝 Informações da Receita
 

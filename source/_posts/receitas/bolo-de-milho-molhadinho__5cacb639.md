@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de milho molhadinho](/images/bolo-de-milho-molhadinho__5cacb639_01.png)
+![Bolo de milho molhadinho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-molhadinho__5cacb639_01.webp)
 
 ## 📝 Informações da Receita
 

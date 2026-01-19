@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lombo braseado com maçã e cebola](/images/lombo-braseado-com-maca-e-cebola__93b3cbcf_01.webp)
+![Lombo braseado com maçã e cebola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lombo-braseado-com-maca-e-cebola__93b3cbcf_01.webp)
 
 ## 📝 Informações da Receita
 

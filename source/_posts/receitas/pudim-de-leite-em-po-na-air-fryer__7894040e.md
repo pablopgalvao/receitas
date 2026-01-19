@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de leite em pó na air fryer](/images/pudim-de-leite-em-po-na-air-fryer__7894040e_01.png)
+![Pudim de leite em pó na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-de-leite-em-po-na-air-fryer__7894040e_01.webp)
 
 ## 📝 Informações da Receita
 

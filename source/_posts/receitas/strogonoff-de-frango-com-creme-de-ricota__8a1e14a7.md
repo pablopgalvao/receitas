@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff de frango com creme de ricota](/images/strogonoff-de-frango-com-creme-de-ricota__8a1e14a7_01.png)
+![Strogonoff de frango com creme de ricota](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-frango-com-creme-de-ricota__8a1e14a7_01.webp)
 
 ## 📝 Informações da Receita
 

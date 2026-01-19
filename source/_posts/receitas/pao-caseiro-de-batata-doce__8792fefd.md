@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão caseiro de batata-doce](/images/pao-caseiro-de-batata-doce__8792fefd_01.png)
+![Pão caseiro de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-de-batata-doce__8792fefd_01.webp)
 
 ## 📝 Informações da Receita
 

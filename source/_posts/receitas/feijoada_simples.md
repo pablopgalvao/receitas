@@ -26,7 +26,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijoada Simples](/images/feijoada_simples.webp)
+![Feijoada Simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/feijoada_simples.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de agrião com mandioquinha e figo](/images/salada_de_agri_o_com_mandioquinha_e_figo.jpg)
+![Salada de agrião com mandioquinha e figo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_agri_o_com_mandioquinha_e_figo.jpg)
 
 ## 📝 Informações da Receita
 

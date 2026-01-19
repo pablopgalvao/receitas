@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiche de alho-poró com bacon](/images/quiche-de-alho-poro-com-bacon__bb97df07_01.png)
+![Quiche de alho-poró com bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quiche-de-alho-poro-com-bacon__bb97df07_01.webp)
 
 ## 📝 Informações da Receita
 

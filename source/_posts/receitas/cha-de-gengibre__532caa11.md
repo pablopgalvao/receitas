@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chá de gengibre](/images/cha-de-gengibre__532caa11_01.webp)
+![Chá de gengibre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cha-de-gengibre__532caa11_01.webp)
 
 ## 📝 Informações da Receita
 

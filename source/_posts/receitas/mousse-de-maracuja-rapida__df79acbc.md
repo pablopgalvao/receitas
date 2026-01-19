@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de maracujá rápida](/images/mousse-de-maracuja-rapida__df79acbc_01.png)
+![Mousse de maracujá rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-maracuja-rapida__df79acbc_01.webp)
 
 ## 📝 Informações da Receita
 

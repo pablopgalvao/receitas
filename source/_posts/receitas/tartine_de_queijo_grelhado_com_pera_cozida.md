@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tartine de queijo grelhado com pera cozida](/images/tartine_de_queijo_grelhado_com_pera_cozida.jpg)
+![Tartine de queijo grelhado com pera cozida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tartine_de_queijo_grelhado_com_pera_cozida.jpg)
 
 ## 📝 Informações da Receita
 

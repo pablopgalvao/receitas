@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de dendê com camarão seco](/images/farofa-de-dende-com-camarao-seco__1fa9606a_01.png)
+![Farofa de dendê com camarão seco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-de-dende-com-camarao-seco__1fa9606a_01.webp)
 
 ## 📝 Informações da Receita
 

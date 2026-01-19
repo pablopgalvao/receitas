@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Repolho assado na Air Fryer da Rita Lobo](/images/repolho_assado_na_air_fryer_da_rita_lobo.jpg)
+![Repolho assado na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_assado_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

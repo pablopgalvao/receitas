@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Delícia de abacaxi com coco](/images/delicia-de-abacaxi-com-coco__cd20cea0_01.png)
+![Delícia de abacaxi com coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/delicia-de-abacaxi-com-coco__cd20cea0_01.webp)
 
 ## 📝 Informações da Receita
 

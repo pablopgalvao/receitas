@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinhas de leite em pó saudável](/images/bolinhas_de_leite_em_p_saud_vel.jpg)
+![Bolinhas de leite em pó saudável](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinhas_de_leite_em_p_saud_vel.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ceviche de peixe com abacaxi](/images/ceviche_de_peixe_com_abacaxi.jpg)
+![Ceviche de peixe com abacaxi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ceviche_de_peixe_com_abacaxi.jpg)
 
 ## 📝 Informações da Receita
 

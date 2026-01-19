@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de salame com cream cheese](/images/pate-de-salame-com-cream-cheese__e2ad307f_01.png)
+![Patê de salame com cream cheese](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-salame-com-cream-cheese__e2ad307f_01.webp)
 
 ## 📝 Informações da Receita
 

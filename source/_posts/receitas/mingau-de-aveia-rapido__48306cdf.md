@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mingau de aveia rápido](/images/mingau-de-aveia-rapido__48306cdf_01.png)
+![Mingau de aveia rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mingau-de-aveia-rapido__48306cdf_01.webp)
 
 ## 📝 Informações da Receita
 

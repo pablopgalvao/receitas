@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinha de queijo](/images/bolinha-de-queijo__d9843c8a_01.png)
+![Bolinha de queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinha-de-queijo__d9843c8a_01.webp)
 
 ## 📝 Informações da Receita
 

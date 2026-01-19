@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de frango assado com cebola](/images/p_efe_de_frango_assado_com_cebola.jpg)
+![Pê-efe de frango assado com cebola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_frango_assado_com_cebola.jpg)
 
 ## 📝 Informações da Receita
 

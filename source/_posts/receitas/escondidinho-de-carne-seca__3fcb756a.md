@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de carne-seca](/images/escondidinho-de-carne-seca__3fcb756a_01.png)
+![Escondidinho de carne-seca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-carne-seca__3fcb756a_01.webp)
 
 ## 📝 Informações da Receita
 

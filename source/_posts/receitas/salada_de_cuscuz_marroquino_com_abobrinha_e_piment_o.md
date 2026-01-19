@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de cuscuz marroquino com abobrinha e pimentão](/images/salada_de_cuscuz_marroquino_com_abobrinha_e_piment_o.jpg)
+![Salada de cuscuz marroquino com abobrinha e pimentão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_cuscuz_marroquino_com_abobrinha_e_piment_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Azeite perfumado com tomilho e limão](/images/azeite_perfumado_com_tomilho_e_lim_o.jpg)
+![Azeite perfumado com tomilho e limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeite_perfumado_com_tomilho_e_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

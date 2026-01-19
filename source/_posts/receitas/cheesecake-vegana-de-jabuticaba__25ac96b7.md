@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cheesecake vegana de jabuticaba](/images/cheesecake-vegana-de-jabuticaba__25ac96b7_01.png)
+![Cheesecake vegana de jabuticaba](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cheesecake-vegana-de-jabuticaba__25ac96b7_01.webp)
 
 ## 📝 Informações da Receita
 

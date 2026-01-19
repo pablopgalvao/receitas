@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavê vegano](/images/pave-vegano__8d5ad90d_01.png)
+![Pavê vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-vegano__8d5ad90d_01.webp)
 
 ## 📝 Informações da Receita
 

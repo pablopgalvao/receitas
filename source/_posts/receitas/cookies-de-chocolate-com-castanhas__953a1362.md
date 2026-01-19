@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies de chocolate com castanhas](/images/cookies-de-chocolate-com-castanhas__953a1362_01.png)
+![Cookies de chocolate com castanhas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-de-chocolate-com-castanhas__953a1362_01.webp)
 
 ## 📝 Informações da Receita
 

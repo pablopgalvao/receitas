@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mexidinho de arroz com feijão](/images/mexidinho_de_arroz_com_feij_o.jpg)
+![Mexidinho de arroz com feijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mexidinho_de_arroz_com_feij_o.jpg)
 
 ## 📝 Informações da Receita
 

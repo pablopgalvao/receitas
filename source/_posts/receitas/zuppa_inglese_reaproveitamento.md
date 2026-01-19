@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Zuppa Inglese (reaproveitamento)](/images/zuppa_inglese_reaproveitamento.jpg)
+![Zuppa Inglese (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/zuppa_inglese_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

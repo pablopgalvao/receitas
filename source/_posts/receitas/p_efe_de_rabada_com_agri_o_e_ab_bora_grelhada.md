@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de rabada com agrião e abóbora grelhada](/images/p_efe_de_rabada_com_agri_o_e_ab_bora_grelhada.jpg)
+![Pê-efe de rabada com agrião e abóbora grelhada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_rabada_com_agri_o_e_ab_bora_grelhada.jpg)
 
 ## 📝 Informações da Receita
 

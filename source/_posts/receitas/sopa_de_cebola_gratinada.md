@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de cebola gratinada](/images/sopa_de_cebola_gratinada.jpg)
+![Sopa de cebola gratinada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_cebola_gratinada.jpg)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de frango fácil](/images/lasanha-de-frango-facil__a65d6859_01.png)
+![Lasanha de frango fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-de-frango-facil__a65d6859_01.webp)
 
 ## 📝 Informações da Receita
 

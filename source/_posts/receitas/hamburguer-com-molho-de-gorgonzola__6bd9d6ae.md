@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer com molho de gorgonzola](/images/hamburguer-com-molho-de-gorgonzola__6bd9d6ae_01.png)
+![Hambúrguer com molho de gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburguer-com-molho-de-gorgonzola__6bd9d6ae_01.webp)
 
 ## 📝 Informações da Receita
 

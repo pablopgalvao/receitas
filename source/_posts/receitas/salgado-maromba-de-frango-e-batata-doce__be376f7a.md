@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salgado maromba de frango e batata-doce](/images/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.png)
+![Salgado maromba de frango e batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.webp)
 
 ## 📝 Informações da Receita
 

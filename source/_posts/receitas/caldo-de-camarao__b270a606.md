@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldo de camarão](/images/caldo-de-camarao__b270a606_01.png)
+![Caldo de camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caldo-de-camarao__b270a606_01.webp)
 
 ## 📝 Informações da Receita
 

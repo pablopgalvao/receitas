@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sardinhas fritas com fubá](/images/sardinhas_fritas_com_fub.jpg)
+![Sardinhas fritas com fubá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinhas_fritas_com_fub.jpg)
 
 ## 📝 Informações da Receita
 

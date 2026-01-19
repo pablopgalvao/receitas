@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Couve-flor gratinada na air fryer](/images/couve-flor-gratinada-na-air-fryer__c1e38612_01.png)
+![Couve-flor gratinada na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-gratinada-na-air-fryer__c1e38612_01.webp)
 
 ## 📝 Informações da Receita
 

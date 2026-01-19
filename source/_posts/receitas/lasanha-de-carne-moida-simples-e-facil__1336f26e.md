@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de carne moída simples e fácil](/images/lasanha-de-carne-moida-simples-e-facil__1336f26e_01.png)
+![Lasanha de carne moída simples e fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-de-carne-moida-simples-e-facil__1336f26e_01.webp)
 
 ## 📝 Informações da Receita
 

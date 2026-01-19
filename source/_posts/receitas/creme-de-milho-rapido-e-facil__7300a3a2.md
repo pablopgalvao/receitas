@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme de milho rápido e fácil](/images/creme-de-milho-rapido-e-facil__7300a3a2_01.png)
+![Creme de milho rápido e fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-milho-rapido-e-facil__7300a3a2_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de berinjela com ricota](/images/pate-de-berinjela-com-ricota__b47552a2_01.png)
+![Patê de berinjela com ricota](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-berinjela-com-ricota__b47552a2_01.webp)
 
 ## 📝 Informações da Receita
 

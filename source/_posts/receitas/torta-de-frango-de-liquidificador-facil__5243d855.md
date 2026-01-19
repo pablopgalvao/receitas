@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de frango de liquidificador fácil](/images/torta-de-frango-de-liquidificador-facil__5243d855_01.png)
+![Torta de frango de liquidificador fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-frango-de-liquidificador-facil__5243d855_01.webp)
 
 ## 📝 Informações da Receita
 

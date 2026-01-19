@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mané pelado (bolo de mandioca de tabuleiro)](/images/man_pelado_bolo_de_mandioca_de_tabuleiro.jpg)
+![Mané pelado (bolo de mandioca de tabuleiro)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/man_pelado_bolo_de_mandioca_de_tabuleiro.jpg)
 
 ## 📝 Informações da Receita
 

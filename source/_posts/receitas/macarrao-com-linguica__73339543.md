@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com linguiça](/images/macarrao-com-linguica__73339543_01.png)
+![Macarrão com linguiça](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-linguica__73339543_01.webp)
 
 ## 📝 Informações da Receita
 

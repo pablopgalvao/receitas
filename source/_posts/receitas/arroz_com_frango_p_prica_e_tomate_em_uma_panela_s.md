@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com frango, páprica e tomate em uma panela só](/images/arroz_com_frango_p_prica_e_tomate_em_uma_panela_s.jpg)
+![Arroz com frango, páprica e tomate em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_frango_p_prica_e_tomate_em_uma_panela_s.jpg)
 
 ## 📝 Informações da Receita
 

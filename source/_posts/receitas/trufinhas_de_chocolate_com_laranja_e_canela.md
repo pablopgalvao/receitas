@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Trufinhas de chocolate com laranja e canela](/images/trufinhas_de_chocolate_com_laranja_e_canela.jpg)
+![Trufinhas de chocolate com laranja e canela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/trufinhas_de_chocolate_com_laranja_e_canela.jpg)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de brócolis com molho branco](/images/lasanha-de-brocolis-com-molho-branco__97061c20_01.png)
+![Lasanha de brócolis com molho branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-de-brocolis-com-molho-branco__97061c20_01.webp)
 
 ## 📝 Informações da Receita
 

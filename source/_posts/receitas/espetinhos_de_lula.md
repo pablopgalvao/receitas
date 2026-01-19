@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espetinhos de lula](/images/espetinhos_de_lula.jpg)
+![Espetinhos de lula](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espetinhos_de_lula.jpg)
 
 ## 📝 Informações da Receita
 

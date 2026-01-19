@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ragu de costelinha de porco na pressão](/images/ragu_de_costelinha_de_porco_na_press_o.jpg)
+![Ragu de costelinha de porco na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ragu_de_costelinha_de_porco_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

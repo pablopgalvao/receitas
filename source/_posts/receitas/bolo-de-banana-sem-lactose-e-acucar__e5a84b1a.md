@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de banana sem lactose e açúcar](/images/bolo-de-banana-sem-lactose-e-acucar__e5a84b1a_01.png)
+![Bolo de banana sem lactose e açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-sem-lactose-e-acucar__e5a84b1a_01.webp)
 
 ## 📝 Informações da Receita
 

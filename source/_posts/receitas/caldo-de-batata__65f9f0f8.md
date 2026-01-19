@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldo de batata](/images/caldo-de-batata__65f9f0f8_01.png)
+![Caldo de batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caldo-de-batata__65f9f0f8_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango oriental com acelga e broto de feijão](/images/frango_oriental_com_acelga_e_broto_de_feij_o.jpg)
+![Frango oriental com acelga e broto de feijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_oriental_com_acelga_e_broto_de_feij_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de cenoura com gorgonzola](/images/sufle-de-cenoura-com-gorgonzola__fc04eafb_01.png)
+![Suflê de cenoura com gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sufle-de-cenoura-com-gorgonzola__fc04eafb_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carolinas sem glúten](/images/carolinas-sem-gluten__d01ebd8c_01.png)
+![Carolinas sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carolinas-sem-gluten__d01ebd8c_01.webp)
 
 ## 📝 Informações da Receita
 

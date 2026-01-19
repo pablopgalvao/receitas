@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de carne e polenta com abóbora](/images/escondidinho_de_carne_e_polenta_com_ab_bora.jpg)
+![Escondidinho de carne e polenta com abóbora](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escondidinho_de_carne_e_polenta_com_ab_bora.jpg)
 
 ## 📝 Informações da Receita
 

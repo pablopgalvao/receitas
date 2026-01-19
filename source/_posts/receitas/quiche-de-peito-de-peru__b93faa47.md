@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiche de peito de peru](/images/quiche-de-peito-de-peru__b93faa47_01.png)
+![Quiche de peito de peru](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quiche-de-peito-de-peru__b93faa47_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Shake de abacate](/images/shake-de-abacate__2e39e6ea_01.png)
+![Shake de abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp)
 
 ## 📝 Informações da Receita
 

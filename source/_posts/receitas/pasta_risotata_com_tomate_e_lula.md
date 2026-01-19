@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pasta risotata com tomate e lula](/images/pasta_risotata_com_tomate_e_lula.jpg)
+![Pasta risotata com tomate e lula](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_risotata_com_tomate_e_lula.jpg)
 
 ## 📝 Informações da Receita
 

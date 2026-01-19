@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxinha vegana de palmito e milho-verde](/images/coxinha-vegana-de-palmito-e-milho-verde__18316464_01.png)
+![Coxinha vegana de palmito e milho-verde](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coxinha-vegana-de-palmito-e-milho-verde__18316464_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cebolas assadas com manteiga e alecrim](/images/cebolas_assadas_com_manteiga_e_alecrim.jpg)
+![Cebolas assadas com manteiga e alecrim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cebolas_assadas_com_manteiga_e_alecrim.jpg)
 
 ## 📝 Informações da Receita
 

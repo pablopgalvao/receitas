@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Croutons para salada](/images/croutons-para-salada__abf07ca0_01.png)
+![Croutons para salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croutons-para-salada__abf07ca0_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Goiaba brûlée](/images/goiaba_br_l_e.jpg)
+![Goiaba brûlée](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/goiaba_br_l_e.jpg)
 
 ## 📝 Informações da Receita
 

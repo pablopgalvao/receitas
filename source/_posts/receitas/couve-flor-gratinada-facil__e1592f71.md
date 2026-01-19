@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Couve-flor gratinada fácil](/images/couve-flor-gratinada-facil__e1592f71_01.png)
+![Couve-flor gratinada fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-gratinada-facil__e1592f71_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Beijinho vegano de damasco](/images/beijinho-vegano-de-damasco__8e80da57_01.png)
+![Beijinho vegano de damasco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/beijinho-vegano-de-damasco__8e80da57_01.webp)
 
 ## 📝 Informações da Receita
 

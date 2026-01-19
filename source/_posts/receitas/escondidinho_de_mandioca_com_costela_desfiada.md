@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de mandioca com costela desfiada](/images/escondidinho_de_mandioca_com_costela_desfiada.jpg)
+![Escondidinho de mandioca com costela desfiada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escondidinho_de_mandioca_com_costela_desfiada.jpg)
 
 ## 📝 Informações da Receita
 

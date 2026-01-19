@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Conserva de cogumelo shimeji](/images/conserva_de_cogumelo_shimeji.jpg)
+![Conserva de cogumelo shimeji](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/conserva_de_cogumelo_shimeji.jpg)
 
 ## 📝 Informações da Receita
 

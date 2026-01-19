@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de pão na air fryer](/images/pudim-de-pao-na-air-fryer__0e843fc3_01.png)
+![Pudim de pão na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-de-pao-na-air-fryer__0e843fc3_01.webp)
 
 ## 📝 Informações da Receita
 

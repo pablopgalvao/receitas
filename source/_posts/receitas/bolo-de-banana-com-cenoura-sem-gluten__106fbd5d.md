@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de banana com cenoura sem glúten](/images/bolo-de-banana-com-cenoura-sem-gluten__106fbd5d_01.png)
+![Bolo de banana com cenoura sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-cenoura-sem-gluten__106fbd5d_01.webp)
 
 ## 📝 Informações da Receita
 

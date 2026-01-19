@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Compota de frutas](/images/compota_de_frutas.jpg)
+![Compota de frutas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/compota_de_frutas.jpg)
 
 ## 📝 Informações da Receita
 

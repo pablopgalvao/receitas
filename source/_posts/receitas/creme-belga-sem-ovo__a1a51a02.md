@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme belga sem ovo](/images/creme-belga-sem-ovo__a1a51a02_01.png)
+![Creme belga sem ovo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-belga-sem-ovo__a1a51a02_01.webp)
 
 ## 📝 Informações da Receita
 

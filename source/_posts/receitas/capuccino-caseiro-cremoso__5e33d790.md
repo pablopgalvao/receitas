@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Capuccino caseiro cremoso](/images/capuccino-caseiro-cremoso__5e33d790_01.png)
+![Capuccino caseiro cremoso](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-cremoso__5e33d790_01.webp)
 
 ## 📝 Informações da Receita
 

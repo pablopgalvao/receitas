@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldinho de feijão-preto com pimentão](/images/caldinho_de_feij_o_preto_com_piment_o.jpg)
+![Caldinho de feijão-preto com pimentão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caldinho_de_feij_o_preto_com_piment_o.jpg)
 
 ## 📝 Informações da Receita
 

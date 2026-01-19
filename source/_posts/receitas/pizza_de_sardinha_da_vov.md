@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza de sardinha da vovó](/images/pizza_de_sardinha_da_vov.jpg)
+![Pizza de sardinha da vovó](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pizza_de_sardinha_da_vov.jpg)
 
 ## 📝 Informações da Receita
 

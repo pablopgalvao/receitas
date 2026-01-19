@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Conchiglione de espinafre e ricota](/images/conchiglione-de-espinafre-e-ricota__fcc04ae0_01.png)
+![Conchiglione de espinafre e ricota](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/conchiglione-de-espinafre-e-ricota__fcc04ae0_01.webp)
 
 ## 📝 Informações da Receita
 

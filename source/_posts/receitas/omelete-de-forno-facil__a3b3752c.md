@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Omelete de forno fácil](/images/omelete-de-forno-facil__a3b3752c_01.png)
+![Omelete de forno fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/omelete-de-forno-facil__a3b3752c_01.webp)
 
 ## 📝 Informações da Receita
 

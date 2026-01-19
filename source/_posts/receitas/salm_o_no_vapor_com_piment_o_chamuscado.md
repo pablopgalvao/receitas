@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão no vapor com pimentão chamuscado](/images/salm_o_no_vapor_com_piment_o_chamuscado.jpg)
+![Salmão no vapor com pimentão chamuscado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salm_o_no_vapor_com_piment_o_chamuscado.jpg)
 
 ## 📝 Informações da Receita
 

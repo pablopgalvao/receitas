@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mingau de aveia](/images/mingau-de-aveia__460df0a4_01.png)
+![Mingau de aveia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mingau-de-aveia__460df0a4_01.webp)
 
 ## 📝 Informações da Receita
 

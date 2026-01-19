@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: ''
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de frutas primaveril com cachaça](/images/salada-de-frutas-com-cachaca-primaveril__63cad770_01.webp)
+![Salada de frutas primaveril com cachaça](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frutas-com-cachaca-primaveril__63cad770_01.webp)
 
 ## 📝 Informações da Receita
 

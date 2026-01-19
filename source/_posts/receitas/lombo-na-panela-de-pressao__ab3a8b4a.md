@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lombo na panela de pressão](/images/lombo-na-panela-de-pressao__ab3a8b4a_01.png)
+![Lombo na panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lombo-na-panela-de-pressao__ab3a8b4a_01.webp)
 
 ## 📝 Informações da Receita
 

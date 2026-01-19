@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torresmo pururuca](/images/torresmo-pururuca__a28e5777_01.png)
+![Torresmo pururuca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torresmo-pururuca__a28e5777_01.webp)
 
 ## 📝 Informações da Receita
 

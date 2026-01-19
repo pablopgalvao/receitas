@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne moída com molho de cerveja](/images/carne_mo_da_com_molho_de_cerveja.jpg)
+![Carne moída com molho de cerveja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_mo_da_com_molho_de_cerveja.jpg)
 
 ## 📝 Informações da Receita
 

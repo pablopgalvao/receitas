@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Acaçá de arroz](/images/aca_de_arroz.jpg)
+![Acaçá de arroz](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/aca_de_arroz.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de bacalhau](/images/escondidinho-de-bacalhau__eddd89c6_01.png)
+![Escondidinho de bacalhau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-bacalhau__eddd89c6_01.webp)
 
 ## 📝 Informações da Receita
 

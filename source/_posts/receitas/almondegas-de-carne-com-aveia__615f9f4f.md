@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndegas de carne com aveia](/images/almondegas-de-carne-com-aveia__615f9f4f_01.png)
+![Almôndegas de carne com aveia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-de-carne-com-aveia__615f9f4f_01.webp)
 
 ## 📝 Informações da Receita
 

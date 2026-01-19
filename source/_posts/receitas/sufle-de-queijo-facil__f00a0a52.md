@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de queijo fácil](/images/sufle-de-queijo-facil__f00a0a52_01.png)
+![Suflê de queijo fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sufle-de-queijo-facil__f00a0a52_01.webp)
 
 ## 📝 Informações da Receita
 

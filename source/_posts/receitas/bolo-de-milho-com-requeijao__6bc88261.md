@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de milho com requeijão](/images/bolo-de-milho-com-requeijao__6bc88261_01.png)
+![Bolo de milho com requeijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-com-requeijao__6bc88261_01.webp)
 
 ## 📝 Informações da Receita
 

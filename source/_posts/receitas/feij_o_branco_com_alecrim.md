@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão-branco com alecrim](/images/feij_o_branco_com_alecrim.jpg)
+![Feijão-branco com alecrim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/feij_o_branco_com_alecrim.jpg)
 
 ## 📝 Informações da Receita
 

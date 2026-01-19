@@ -25,7 +25,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galinhada](/images/galinhada__694381bf_01.png)
+![Galinhada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/galinhada__694381bf_01.webp)
 
 ## 📝 Informações da Receita
 

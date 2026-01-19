@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha empanada na airfryer](/images/abobrinha-empanada-na-airfryer__838b1f03_01.png)
+![Abobrinha empanada na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada-na-airfryer__838b1f03_01.webp)
 
 ## 📝 Informações da Receita
 

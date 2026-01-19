@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife à parmegiana na airfryer](/images/bife-a-parmegiana-na-airfryer__0865cafe_01.png)
+![Bife à parmegiana na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-a-parmegiana-na-airfryer__0865cafe_01.webp)
 
 ## 📝 Informações da Receita
 

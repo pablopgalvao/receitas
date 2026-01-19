@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lentilha fácil e rápida](/images/lentilha-facil-e-rapida__9ce7bca3_01.png)
+![Lentilha fácil e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lentilha-facil-e-rapida__9ce7bca3_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz marroquino com alcaparras](/images/cuscuz_marroquino_com_alcaparras.jpg)
+![Cuscuz marroquino com alcaparras](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cuscuz_marroquino_com_alcaparras.jpg)
 
 ## 📝 Informações da Receita
 

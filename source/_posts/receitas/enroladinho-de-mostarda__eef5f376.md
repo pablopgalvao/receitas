@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Enroladinho de mostarda](/images/enroladinho-de-mostarda__eef5f376_01.png)
+![Enroladinho de mostarda](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/enroladinho-de-mostarda__eef5f376_01.webp)
 
 ## 📝 Informações da Receita
 

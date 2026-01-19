@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Folhado de camarão](/images/folhado-de-camarao__2b20db66_01.png)
+![Folhado de camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/folhado-de-camarao__2b20db66_01.webp)
 
 ## 📝 Informações da Receita
 

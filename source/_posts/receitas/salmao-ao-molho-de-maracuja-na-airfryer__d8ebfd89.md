@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão ao molho de maracujá na air fryer](/images/salmao-ao-molho-de-maracuja-na-airfryer__d8ebfd89_01.png)
+![Salmão ao molho de maracujá na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-ao-molho-de-maracuja-na-airfryer__d8ebfd89_01.webp)
 
 ## 📝 Informações da Receita
 

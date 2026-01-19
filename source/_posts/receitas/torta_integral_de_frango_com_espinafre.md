@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta integral de frango com espinafre](/images/torta_integral_de_frango_com_espinafre.jpg)
+![Torta integral de frango com espinafre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torta_integral_de_frango_com_espinafre.jpg)
 
 ## 📝 Informações da Receita
 

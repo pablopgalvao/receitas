@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com curry](/images/arroz_com_curry.jpg)
+![Arroz com curry](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_curry.jpg)
 
 ## 📝 Informações da Receita
 

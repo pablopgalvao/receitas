@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tortinhas veganas de limão](/images/tortinhas-veganas-de-limao__f70acd07_01.png)
+![Tortinhas veganas de limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tortinhas-veganas-de-limao__f70acd07_01.webp)
 
 ## 📝 Informações da Receita
 

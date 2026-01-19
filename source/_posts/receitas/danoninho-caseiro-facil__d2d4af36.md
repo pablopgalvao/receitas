@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Danoninho caseiro fácil](/images/danoninho-caseiro-facil__d2d4af36_01.png)
+![Danoninho caseiro fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/danoninho-caseiro-facil__d2d4af36_01.webp)
 
 ## 📝 Informações da Receita
 

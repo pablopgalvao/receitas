@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuca de morango com leite condensado](/images/cuca-de-morango-com-leite-condensado__a10e39d7_01.png)
+![Cuca de morango com leite condensado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cuca-de-morango-com-leite-condensado__a10e39d7_01.webp)
 
 ## 📝 Informações da Receita
 

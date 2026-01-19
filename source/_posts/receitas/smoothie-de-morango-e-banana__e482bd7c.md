@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Smoothie de morango e banana](/images/smoothie-de-morango-e-banana__e482bd7c_01.png)
+![Smoothie de morango e banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/smoothie-de-morango-e-banana__e482bd7c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão assado com manteiga de laranja e cebola-roxa](/images/salm_o_assado_com_manteiga_de_laranja_e_cebola_roxa.jpg)
+![Salmão assado com manteiga de laranja e cebola-roxa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salm_o_assado_com_manteiga_de_laranja_e_cebola_roxa.jpg)
 
 ## 📝 Informações da Receita
 

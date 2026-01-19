@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastel de carne assado](/images/pastel_de_carne_assado.jpg)
+![Pastel de carne assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pastel_de_carne_assado.jpg)
 
 ## 📝 Informações da Receita
 

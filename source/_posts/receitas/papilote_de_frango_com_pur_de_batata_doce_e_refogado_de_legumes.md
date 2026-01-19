@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Papilote de frango com purê de batata-doce e refogado de legumes](/images/papilote_de_frango_com_pur_de_batata_doce_e_refogado_de_legumes.jpg)
+![Papilote de frango com purê de batata-doce e refogado de legumes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/papilote_de_frango_com_pur_de_batata_doce_e_refogado_de_legumes.jpg)
 
 ## 📝 Informações da Receita
 

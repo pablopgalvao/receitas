@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastinha de abacate](/images/pastinha-de-abacate__4787e28a_01.png)
+![Pastinha de abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp)
 
 ## 📝 Informações da Receita
 

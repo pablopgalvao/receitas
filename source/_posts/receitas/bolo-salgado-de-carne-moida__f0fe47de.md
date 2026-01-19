@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo salgado de carne moída](/images/bolo-salgado-de-carne-moida__f0fe47de_01.png)
+![Bolo salgado de carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-salgado-de-carne-moida__f0fe47de_01.webp)
 
 ## 📝 Informações da Receita
 

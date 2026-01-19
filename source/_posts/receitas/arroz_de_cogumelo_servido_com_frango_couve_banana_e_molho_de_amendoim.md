@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz de cogumelo servido com frango, couve, banana e molho de amendoim](/images/arroz_de_cogumelo_servido_com_frango_couve_banana_e_molho_de_amendoim.jpg)
+![Arroz de cogumelo servido com frango, couve, banana e molho de amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_de_cogumelo_servido_com_frango_couve_banana_e_molho_de_amendoim.jpg)
 
 ## 📝 Informações da Receita
 

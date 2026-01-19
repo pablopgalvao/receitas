@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de fubá com erva-doce](/images/bolo-de-fuba-com-erva-doce__71526ea0_01.png)
+![Bolo de fubá com erva-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-erva-doce__71526ea0_01.webp)
 
 ## 📝 Informações da Receita
 

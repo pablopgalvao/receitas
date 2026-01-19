@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quibebe (purê rústico de abóbora)](/images/quibebe_pur_r_stico_de_ab_bora.jpg)
+![Quibebe (purê rústico de abóbora)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quibebe_pur_r_stico_de_ab_bora.jpg)
 
 ## 📝 Informações da Receita
 

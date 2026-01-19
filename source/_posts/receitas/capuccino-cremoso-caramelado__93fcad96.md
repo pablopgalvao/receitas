@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Capuccino cremoso caramelado](/images/capuccino-cremoso-caramelado__93fcad96_01.png)
+![Capuccino cremoso caramelado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-cremoso-caramelado__93fcad96_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Matcha soda](/images/matcha-soda__440c00c4_01.webp)
+![Matcha soda](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/matcha-soda__440c00c4_01.webp)
 
 ## 📝 Informações da Receita
 

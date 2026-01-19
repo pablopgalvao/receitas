@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Smoothie de banana e manga](/images/smoothie_de_banana_e_manga.jpg)
+![Smoothie de banana e manga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/smoothie_de_banana_e_manga.jpg)
 
 ## 📝 Informações da Receita
 

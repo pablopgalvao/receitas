@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne moída com batata no forno](/images/carne-moida-com-batata-no-forno__562348ff_01.png)
+![Carne moída com batata no forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-moida-com-batata-no-forno__562348ff_01.webp)
 
 ## 📝 Informações da Receita
 

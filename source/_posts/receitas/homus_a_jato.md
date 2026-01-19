@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Homus a jato](/images/homus_a_jato.jpg)
+![Homus a jato](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/homus_a_jato.jpg)
 
 ## 📝 Informações da Receita
 

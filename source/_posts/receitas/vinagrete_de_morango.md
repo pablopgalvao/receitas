@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vinagrete de morango](/images/vinagrete_de_morango.jpg)
+![Vinagrete de morango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinagrete_de_morango.jpg)
 
 ## 📝 Informações da Receita
 

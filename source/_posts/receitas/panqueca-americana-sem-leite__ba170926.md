@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca americana sem leite](/images/panqueca-americana-sem-leite__ba170926_01.png)
+![Panqueca americana sem leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-americana-sem-leite__ba170926_01.webp)
 
 ## 📝 Informações da Receita
 

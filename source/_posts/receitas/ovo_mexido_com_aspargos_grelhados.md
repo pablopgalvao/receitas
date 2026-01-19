@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ovo mexido com aspargos grelhados](/images/ovo_mexido_com_aspargos_grelhados.jpg)
+![Ovo mexido com aspargos grelhados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovo_mexido_com_aspargos_grelhados.jpg)
 
 ## 📝 Informações da Receita
 

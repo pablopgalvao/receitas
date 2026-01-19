@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndegas simples](/images/almondegas-simples__b5f1597b_01.png)
+![Almôndegas simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-simples__b5f1597b_01.webp)
 
 ## 📝 Informações da Receita
 

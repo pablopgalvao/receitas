@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoni com almôndegas, ervilha e hortelã](/images/risoni_com_alm_ndegas_ervilha_e_hortel.jpg)
+![Risoni com almôndegas, ervilha e hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoni_com_alm_ndegas_ervilha_e_hortel.jpg)
 
 ## 📝 Informações da Receita
 

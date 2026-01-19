@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo gelado de chocolate](/images/bolo-gelado-de-chocolate__41c80598_01.png)
+![Bolo gelado de chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-gelado-de-chocolate__41c80598_01.webp)
 
 ## 📝 Informações da Receita
 

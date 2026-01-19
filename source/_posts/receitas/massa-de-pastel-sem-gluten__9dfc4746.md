@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa de pastel sem glúten](/images/massa-de-pastel-sem-gluten__9dfc4746_01.png)
+![Massa de pastel sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/massa-de-pastel-sem-gluten__9dfc4746_01.webp)
 
 ## 📝 Informações da Receita
 

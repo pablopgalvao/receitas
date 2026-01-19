@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de cogumelos frescos com salsão](/images/salada_de_cogumelos_frescos_com_sals_o.jpg)
+![Salada de cogumelos frescos com salsão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_cogumelos_frescos_com_sals_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de ervilha com frango](/images/sopa-de-ervilha-com-frango__4c32b529_01.png)
+![Sopa de ervilha com frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-de-ervilha-com-frango__4c32b529_01.webp)
 
 ## 📝 Informações da Receita
 

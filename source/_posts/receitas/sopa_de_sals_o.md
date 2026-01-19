@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de salsão](/images/sopa_de_sals_o.jpg)
+![Sopa de salsão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_sals_o.jpg)
 
 ## 📝 Informações da Receita
 

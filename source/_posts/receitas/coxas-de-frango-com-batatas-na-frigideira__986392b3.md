@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxas de frango com batatas na frigideira](/images/coxas-de-frango-com-batatas-na-frigideira__986392b3_01.png)
+![Coxas de frango com batatas na frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coxas-de-frango-com-batatas-na-frigideira__986392b3_01.webp)
 
 ## 📝 Informações da Receita
 

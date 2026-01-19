@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chutney de manga](/images/chutney-de-manga__8b924ef3_01.png)
+![Chutney de manga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chutney-de-manga__8b924ef3_01.webp)
 
 ## 📝 Informações da Receita
 

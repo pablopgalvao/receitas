@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chimia de ovo](/images/chimia-de-ovo__e1445198_01.png)
+![Chimia de ovo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chimia-de-ovo__e1445198_01.webp)
 
 ## 📝 Informações da Receita
 

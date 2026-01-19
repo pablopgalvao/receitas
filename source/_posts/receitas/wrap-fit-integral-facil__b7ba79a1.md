@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Wrap fit integral fácil](/images/wrap-fit-integral-facil__b7ba79a1_01.png)
+![Wrap fit integral fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/wrap-fit-integral-facil__b7ba79a1_01.webp)
 
 ## 📝 Informações da Receita
 

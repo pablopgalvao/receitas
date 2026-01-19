@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxão mole com creme de batata](/images/coxao-mole-com-creme-de-batata__7f030645_01.png)
+![Coxão mole com creme de batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coxao-mole-com-creme-de-batata__7f030645_01.webp)
 
 ## 📝 Informações da Receita
 

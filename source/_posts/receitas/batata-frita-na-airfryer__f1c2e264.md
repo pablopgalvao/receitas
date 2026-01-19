@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata frita na air fryer](/images/batata-frita-na-airfryer__f1c2e264_01.png)
+![Batata frita na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-frita-na-airfryer__f1c2e264_01.webp)
 
 ## 📝 Informações da Receita
 

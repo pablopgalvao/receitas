@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Croûtons com alecrim](/images/cro_tons_com_alecrim.jpg)
+![Croûtons com alecrim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cro_tons_com_alecrim.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cebola crispy na air fryer](/images/cebola-crispy-na-air-fryer__164851be_01.png)
+![Cebola crispy na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cebola-crispy-na-air-fryer__164851be_01.webp)
 
 ## 📝 Informações da Receita
 

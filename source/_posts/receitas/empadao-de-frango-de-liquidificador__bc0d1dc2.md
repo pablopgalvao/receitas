@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empadão de frango de liquidificador](/images/empadao-de-frango-de-liquidificador__bc0d1dc2_01.png)
+![Empadão de frango de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadao-de-frango-de-liquidificador__bc0d1dc2_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de brócolis assado](/images/bolinho-de-brocolis-assado__aa47202b_01.png)
+![Bolinho de brócolis assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-brocolis-assado__aa47202b_01.webp)
 
 ## 📝 Informações da Receita
 

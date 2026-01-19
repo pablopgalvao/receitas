@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galinhada a jato com saladinha de tomate](/images/galinhada_a_jato_com_saladinha_de_tomate.jpg)
+![Galinhada a jato com saladinha de tomate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/galinhada_a_jato_com_saladinha_de_tomate.jpg)
 
 ## 📝 Informações da Receita
 

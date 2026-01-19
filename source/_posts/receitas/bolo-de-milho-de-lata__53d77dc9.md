@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de milho de lata](/images/bolo-de-milho-de-lata__53d77dc9_01.png)
+![Bolo de milho de lata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-de-lata__53d77dc9_01.webp)
 
 ## 📝 Informações da Receita
 

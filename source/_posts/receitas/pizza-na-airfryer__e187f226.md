@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza na air fryer](/images/pizza-na-airfryer__e187f226_01.png)
+![Pizza na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-na-airfryer__e187f226_01.webp)
 
 ## 📝 Informações da Receita
 

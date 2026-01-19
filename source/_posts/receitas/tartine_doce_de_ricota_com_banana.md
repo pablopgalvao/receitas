@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tartine doce de ricota com banana](/images/tartine_doce_de_ricota_com_banana.jpg)
+![Tartine doce de ricota com banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tartine_doce_de_ricota_com_banana.jpg)
 
 ## 📝 Informações da Receita
 

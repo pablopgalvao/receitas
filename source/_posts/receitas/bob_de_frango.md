@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bobó de Frango](/images/bob_de_frango.jpg)
+![Bobó de Frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg)
 
 ## 📝 Informações da Receita
 

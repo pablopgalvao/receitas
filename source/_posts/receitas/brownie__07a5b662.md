@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie](/images/brownie__07a5b662_01.png)
+![Brownie](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie__07a5b662_01.webp)
 
 ## 📝 Informações da Receita
 

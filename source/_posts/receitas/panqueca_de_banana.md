@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca de banana](/images/panqueca_de_banana.jpg)
+![Panqueca de banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_banana.jpg)
 
 ## 📝 Informações da Receita
 

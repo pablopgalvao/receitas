@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Purê de mandioquinha com requeijão de corte](/images/pur_de_mandioquinha_com_requeij_o_de_corte.jpg)
+![Purê de mandioquinha com requeijão de corte](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pur_de_mandioquinha_com_requeij_o_de_corte.jpg)
 
 ## 📝 Informações da Receita
 

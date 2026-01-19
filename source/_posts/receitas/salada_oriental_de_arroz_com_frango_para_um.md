@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada oriental de arroz com frango para um](/images/salada_oriental_de_arroz_com_frango_para_um.jpg)
+![Salada oriental de arroz com frango para um](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg)
 
 ## 📝 Informações da Receita
 

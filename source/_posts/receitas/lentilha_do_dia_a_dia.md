@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lentilha do dia a dia](/images/lentilha_do_dia_a_dia.jpg)
+![Lentilha do dia a dia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lentilha_do_dia_a_dia.jpg)
 
 ## 📝 Informações da Receita
 

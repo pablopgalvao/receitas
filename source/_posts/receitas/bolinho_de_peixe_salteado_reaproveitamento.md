@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de peixe salteado (reaproveitamento)](/images/bolinho_de_peixe_salteado_reaproveitamento.jpg)
+![Bolinho de peixe salteado (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_peixe_salteado_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

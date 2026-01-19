@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza de frigideira fit fácil](/images/pizza-de-frigideira-fit-facil__605e77bc_01.png)
+![Pizza de frigideira fit fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-de-frigideira-fit-facil__605e77bc_01.webp)
 
 ## 📝 Informações da Receita
 

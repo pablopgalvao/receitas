@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de farinha de trigo](/images/nhoque-de-farinha-de-trigo__319ba44e_01.png)
+![Nhoque de farinha de trigo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-farinha-de-trigo__319ba44e_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Banoffe fit](/images/banoffe-fit__a56d0813_01.png)
+![Banoffe fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banoffe-fit__a56d0813_01.webp)
 
 ## 📝 Informações da Receita
 

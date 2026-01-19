@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Legumes salteados](/images/legumes-salteados__36778b3f_01.png)
+![Legumes salteados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/legumes-salteados__36778b3f_01.webp)
 
 ## 📝 Informações da Receita
 

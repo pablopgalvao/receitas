@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango cremoso com brócolis](/images/frango-cremoso-com-brocolis__ca762c6c_01.png)
+![Frango cremoso com brócolis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-cremoso-com-brocolis__ca762c6c_01.webp)
 
 ## 📝 Informações da Receita
 

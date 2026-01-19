@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Iscas de frango crocantes](/images/iscas-de-frango-crocantes__0828ae1e_01.png)
+![Iscas de frango crocantes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/iscas-de-frango-crocantes__0828ae1e_01.webp)
 
 ## 📝 Informações da Receita
 

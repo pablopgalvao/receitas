@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de repolho com gergelim e shoyu](/images/salada-de-repolho-com-gergelim-e-shoyu__adfb4721_01.png)
+![Salada de repolho com gergelim e shoyu](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-com-gergelim-e-shoyu__adfb4721_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife à milanesa com salada de batatas e repolho agridoce](/images/bife_milanesa_com_salada_de_batatas_e_repolho_agridoce.jpg)
+![Bife à milanesa com salada de batatas e repolho agridoce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bife_milanesa_com_salada_de_batatas_e_repolho_agridoce.jpg)
 
 ## 📝 Informações da Receita
 

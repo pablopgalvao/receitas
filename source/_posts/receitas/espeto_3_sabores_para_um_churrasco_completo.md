@@ -22,7 +22,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espeto 3 sabores para um churrasco completo](/images/espeto_3_sabores_para_um_churrasco_completo.webp)
+![Espeto 3 sabores para um churrasco completo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espeto_3_sabores_para_um_churrasco_completo.webp)
 
 ## 📝 Informações da Receita
 

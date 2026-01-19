@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de camarão](/images/escondidinho-de-camarao__5878f87c_01.png)
+![Escondidinho de camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-camarao__5878f87c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Semifredo de amendoim com shot de café](/images/semifredo_de_amendoim_com_shot_de_caf.jpg)
+![Semifredo de amendoim com shot de café](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/semifredo_de_amendoim_com_shot_de_caf.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo tiramisu](/images/bolo-tiramisu__0e495e9e_01.png)
+![Bolo tiramisu](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-tiramisu__0e495e9e_01.webp)
 
 ## 📝 Informações da Receita
 

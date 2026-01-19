@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff de palmito vegano](/images/strogonoff-de-palmito-vegano__96e699f9_01.png)
+![Strogonoff de palmito vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-palmito-vegano__96e699f9_01.webp)
 
 ## 📝 Informações da Receita
 

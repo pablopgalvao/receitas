@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho vinagrete francês para salada](/images/molho_vinagrete_franc_s_para_salada.jpg)
+![Molho vinagrete francês para salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_vinagrete_franc_s_para_salada.jpg)
 
 ## 📝 Informações da Receita
 

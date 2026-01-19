@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de liquidificador sem glúten](/images/torta-de-liquidificador-sem-gluten__e35e5910_01.png)
+![Torta de liquidificador sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-liquidificador-sem-gluten__e35e5910_01.webp)
 
 ## 📝 Informações da Receita
 

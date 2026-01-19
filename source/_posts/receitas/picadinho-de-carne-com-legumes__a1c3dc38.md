@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picadinho de carne com legumes](/images/picadinho-de-carne-com-legumes__a1c3dc38_01.png)
+![Picadinho de carne com legumes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/picadinho-de-carne-com-legumes__a1c3dc38_01.webp)
 
 ## 📝 Informações da Receita
 

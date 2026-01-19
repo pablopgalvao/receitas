@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cupcake de banana caramelada](/images/cupcake-de-banana-caramelada__17d82af1_01.png)
+![Cupcake de banana caramelada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupcake-de-banana-caramelada__17d82af1_01.webp)
 
 ## 📝 Informações da Receita
 

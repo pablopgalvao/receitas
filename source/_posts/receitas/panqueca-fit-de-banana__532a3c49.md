@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca fit de banana](/images/panqueca-fit-de-banana__532a3c49_01.png)
+![Panqueca fit de banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-fit-de-banana__532a3c49_01.webp)
 
 ## 📝 Informações da Receita
 

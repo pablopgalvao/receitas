@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie de nescau de liquidificador](/images/brownie-de-nescau-no-liquidificador__359887d9_01.png)
+![Brownie de nescau de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-de-nescau-no-liquidificador__359887d9_01.webp)
 
 ## 📝 Informações da Receita
 

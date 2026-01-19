@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz de brócolis](/images/cuscuz_de_br_colis.jpg)
+![Cuscuz de brócolis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cuscuz_de_br_colis.jpg)
 
 ## 📝 Informações da Receita
 

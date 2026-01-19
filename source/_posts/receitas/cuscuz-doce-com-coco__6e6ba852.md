@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz doce com coco](/images/cuscuz-doce-com-coco__6e6ba852_01.png)
+![Cuscuz doce com coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cuscuz-doce-com-coco__6e6ba852_01.webp)
 
 ## 📝 Informações da Receita
 

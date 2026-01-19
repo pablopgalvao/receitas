@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão de panela de pressão com calabresa](/images/macarrao-de-panela-de-pressao-com-calabresa__0a8dee2e_01.png)
+![Macarrão de panela de pressão com calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-de-panela-de-pressao-com-calabresa__0a8dee2e_01.webp)
 
 ## 📝 Informações da Receita
 

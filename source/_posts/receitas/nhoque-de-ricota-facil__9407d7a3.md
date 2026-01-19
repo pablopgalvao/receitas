@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de ricota fácil](/images/nhoque-de-ricota-facil__9407d7a3_01.png)
+![Nhoque de ricota fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-ricota-facil__9407d7a3_01.webp)
 
 ## 📝 Informações da Receita
 

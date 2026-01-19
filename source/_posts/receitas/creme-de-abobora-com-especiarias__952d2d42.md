@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme de abóbora com especiarias](/images/creme-de-abobora-com-especiarias__952d2d42_01.png)
+![Creme de abóbora com especiarias](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abobora-com-especiarias__952d2d42_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abóbora grelhada com castanha-de-caju e pimenta biquinho](/images/ab_bora_grelhada_com_castanha_de_caju_e_pimenta_biquinho.jpg)
+![Abóbora grelhada com castanha-de-caju e pimenta biquinho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ab_bora_grelhada_com_castanha_de_caju_e_pimenta_biquinho.jpg)
 
 ## 📝 Informações da Receita
 

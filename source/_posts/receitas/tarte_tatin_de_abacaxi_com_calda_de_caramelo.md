@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tarte tatin de abacaxi com calda de caramelo](/images/tarte_tatin_de_abacaxi_com_calda_de_caramelo.jpg)
+![Tarte tatin de abacaxi com calda de caramelo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tarte_tatin_de_abacaxi_com_calda_de_caramelo.jpg)
 
 ## 📝 Informações da Receita
 

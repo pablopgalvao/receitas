@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de arroz sete cereais](/images/salada_de_arroz_sete_cereais.jpg)
+![Salada de arroz sete cereais](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_sete_cereais.jpg)
 
 ## 📝 Informações da Receita
 

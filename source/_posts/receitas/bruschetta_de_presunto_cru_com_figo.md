@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bruschetta de presunto cru com figo](/images/bruschetta_de_presunto_cru_com_figo.jpg)
+![Bruschetta de presunto cru com figo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bruschetta_de_presunto_cru_com_figo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Charlotte de morango](/images/charlotte-de-morango__3f3be415_01.png)
+![Charlotte de morango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/charlotte-de-morango__3f3be415_01.webp)
 
 ## 📝 Informações da Receita
 

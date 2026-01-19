@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Enrolado de frango com azeitona e queijo servido com risoni](/images/enrolado_de_frango_com_azeitona_e_queijo_servido_com_risoni.jpg)
+![Enrolado de frango com azeitona e queijo servido com risoni](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/enrolado_de_frango_com_azeitona_e_queijo_servido_com_risoni.jpg)
 
 ## 📝 Informações da Receita
 

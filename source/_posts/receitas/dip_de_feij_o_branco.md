@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Dip de feijão-branco](/images/dip_de_feij_o_branco.jpg)
+![Dip de feijão-branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/dip_de_feij_o_branco.jpg)
 
 ## 📝 Informações da Receita
 

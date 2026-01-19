@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chilaquiles](/images/chilaquiles__e86c868c_01.png)
+![Chilaquiles](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chilaquiles__e86c868c_01.webp)
 
 ## 📝 Informações da Receita
 

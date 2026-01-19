@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escabeche de peixe](/images/escabeche-de-peixe__0d350a66_01.png)
+![Escabeche de peixe](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escabeche-de-peixe__0d350a66_01.webp)
 
 ## 📝 Informações da Receita
 

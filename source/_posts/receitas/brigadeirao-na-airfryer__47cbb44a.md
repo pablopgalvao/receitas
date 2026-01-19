@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeirão na air fryer](/images/brigadeirao-na-airfryer__47cbb44a_01.png)
+![Brigadeirão na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeirao-na-airfryer__47cbb44a_01.webp)
 
 ## 📝 Informações da Receita
 

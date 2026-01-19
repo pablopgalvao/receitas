@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie vegano](/images/brownie-vegano__61a98535_01.png)
+![Brownie vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-vegano__61a98535_01.webp)
 
 ## 📝 Informações da Receita
 

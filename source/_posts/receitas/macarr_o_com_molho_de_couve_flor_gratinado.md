@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com molho de couve-flor gratinado](/images/macarr_o_com_molho_de_couve_flor_gratinado.jpg)
+![Macarrão com molho de couve-flor gratinado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_molho_de_couve_flor_gratinado.jpg)
 
 ## 📝 Informações da Receita
 

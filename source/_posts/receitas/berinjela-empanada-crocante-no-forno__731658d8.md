@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Berinjela empanada crocante no forno](/images/berinjela-empanada-crocante-no-forno__731658d8_01.png)
+![Berinjela empanada crocante no forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/berinjela-empanada-crocante-no-forno__731658d8_01.webp)
 
 ## 📝 Informações da Receita
 

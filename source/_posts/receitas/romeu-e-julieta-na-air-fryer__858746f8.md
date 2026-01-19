@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Romeu e Julieta na air fryer](/images/romeu-e-julieta-na-air-fryer__858746f8_01.png)
+![Romeu e Julieta na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/romeu-e-julieta-na-air-fryer__858746f8_01.webp)
 
 ## 📝 Informações da Receita
 

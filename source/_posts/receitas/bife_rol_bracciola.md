@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife rolê (bracciola)](/images/bife_rol_bracciola.jpg)
+![Bife rolê (bracciola)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bife_rol_bracciola.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Manjar de ameixa](/images/manjar-de-ameixa__b0134e71_01.png)
+![Manjar de ameixa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/manjar-de-ameixa__b0134e71_01.webp)
 
 ## 📝 Informações da Receita
 

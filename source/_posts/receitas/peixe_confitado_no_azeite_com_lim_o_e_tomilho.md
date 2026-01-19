@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peixe confitado no azeite com limão e tomilho](/images/peixe_confitado_no_azeite_com_lim_o_e_tomilho.jpg)
+![Peixe confitado no azeite com limão e tomilho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/peixe_confitado_no_azeite_com_lim_o_e_tomilho.jpg)
 
 ## 📝 Informações da Receita
 

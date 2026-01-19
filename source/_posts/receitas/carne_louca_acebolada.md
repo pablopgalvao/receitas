@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne louca acebolada](/images/carne_louca_acebolada.jpg)
+![Carne louca acebolada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_louca_acebolada.jpg)
 
 ## 📝 Informações da Receita
 

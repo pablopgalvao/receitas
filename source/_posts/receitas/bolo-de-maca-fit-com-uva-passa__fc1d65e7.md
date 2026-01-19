@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de maçã fit com uva passa](/images/bolo-de-maca-fit-com-uva-passa__fc1d65e7_01.png)
+![Bolo de maçã fit com uva passa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-maca-fit-com-uva-passa__fc1d65e7_01.webp)
 
 ## 📝 Informações da Receita
 

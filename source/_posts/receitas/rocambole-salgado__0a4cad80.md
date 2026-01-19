@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rocambole salgado](/images/rocambole-salgado__0a4cad80_01.png)
+![Rocambole salgado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rocambole-salgado__0a4cad80_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Terrine de roquefort e figos](/images/terrine-de-roquefort-e-figos__d7961144_01.png)
+![Terrine de roquefort e figos](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/terrine-de-roquefort-e-figos__d7961144_01.webp)
 
 ## 📝 Informações da Receita
 

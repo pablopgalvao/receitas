@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quibe de abóbora simples](/images/quibe-de-abobora-simples__1ed22925_01.png)
+![Quibe de abóbora simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quibe-de-abobora-simples__1ed22925_01.webp)
 
 ## 📝 Informações da Receita
 

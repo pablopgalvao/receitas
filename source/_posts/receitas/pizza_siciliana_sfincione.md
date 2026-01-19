@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza siciliana (sfincione)](/images/pizza_siciliana_sfincione.jpg)
+![Pizza siciliana (sfincione)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pizza_siciliana_sfincione.jpg)
 
 ## 📝 Informações da Receita
 

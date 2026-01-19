@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Muffin na air fryer](/images/muffin-na-air-fryer__daef135e_01.png)
+![Muffin na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/muffin-na-air-fryer__daef135e_01.webp)
 
 ## 📝 Informações da Receita
 

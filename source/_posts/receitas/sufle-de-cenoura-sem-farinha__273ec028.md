@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de cenoura sem farinha](/images/sufle-de-cenoura-sem-farinha__273ec028_01.png)
+![Suflê de cenoura sem farinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sufle-de-cenoura-sem-farinha__273ec028_01.webp)
 
 ## 📝 Informações da Receita
 

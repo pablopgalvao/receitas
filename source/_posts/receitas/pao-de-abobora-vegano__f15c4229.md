@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de abóbora vegano](/images/pao-de-abobora-vegano__f15c4229_01.png)
+![Pão de abóbora vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-abobora-vegano__f15c4229_01.webp)
 
 ## 📝 Informações da Receita
 

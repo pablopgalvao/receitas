@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vitamina de abacate com iogurte](/images/vitamina-de-abacate-com-iogurte__a61d10e7_01.png)
+![Vitamina de abacate com iogurte](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vitamina-de-abacate-com-iogurte__a61d10e7_01.webp)
 
 ## 📝 Informações da Receita
 

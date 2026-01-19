@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de chocolate com ganache](/images/bolo_de_chocolate_com_ganache.jpg)
+![Bolo de chocolate com ganache](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_chocolate_com_ganache.jpg)
 
 ## 📝 Informações da Receita
 

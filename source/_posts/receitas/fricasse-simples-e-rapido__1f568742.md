@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fricassê simples e rápido](/images/fricasse-simples-e-rapido__1f568742_01.png)
+![Fricassê simples e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-simples-e-rapido__1f568742_01.webp)
 
 ## 📝 Informações da Receita
 

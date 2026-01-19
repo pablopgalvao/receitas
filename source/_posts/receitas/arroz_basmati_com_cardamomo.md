@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz basmati com cardamomo](/images/arroz_basmati_com_cardamomo.jpg)
+![Arroz basmati com cardamomo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_basmati_com_cardamomo.jpg)
 
 ## 📝 Informações da Receita
 

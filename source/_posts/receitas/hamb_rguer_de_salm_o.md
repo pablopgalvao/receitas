@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer de salmão](/images/hamb_rguer_de_salm_o.jpg)
+![Hambúrguer de salmão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/hamb_rguer_de_salm_o.jpg)
 
 ## 📝 Informações da Receita
 

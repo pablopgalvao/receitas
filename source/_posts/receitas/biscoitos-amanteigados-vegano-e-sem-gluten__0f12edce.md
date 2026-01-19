@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoitos amanteigados vegano e sem glúten](/images/biscoitos-amanteigados-vegano-e-sem-gluten__0f12edce_01.png)
+![Biscoitos amanteigados vegano e sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoitos-amanteigados-vegano-e-sem-gluten__0f12edce_01.webp)
 
 ## 📝 Informações da Receita
 

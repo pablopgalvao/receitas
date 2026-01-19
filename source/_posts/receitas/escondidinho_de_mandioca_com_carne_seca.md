@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de mandioca com carne-seca](/images/escondidinho_de_mandioca_com_carne_seca.jpg)
+![Escondidinho de mandioca com carne-seca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escondidinho_de_mandioca_com_carne_seca.jpg)
 
 ## 📝 Informações da Receita
 

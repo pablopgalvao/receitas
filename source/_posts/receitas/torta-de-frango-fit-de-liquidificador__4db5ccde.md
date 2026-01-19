@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de frango fit de liquidificador](/images/torta-de-frango-fit-de-liquidificador__4db5ccde_01.png)
+![Torta de frango fit de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-frango-fit-de-liquidificador__4db5ccde_01.webp)
 
 ## 📝 Informações da Receita
 

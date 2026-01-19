@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata ao murro de frigideira](/images/batata_ao_murro_de_frigideira.jpg)
+![Batata ao murro de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_ao_murro_de_frigideira.jpg)
 
 ## 📝 Informações da Receita
 

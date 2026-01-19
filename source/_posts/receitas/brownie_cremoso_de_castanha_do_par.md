@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie cremoso de castanha-do-pará](/images/brownie_cremoso_de_castanha_do_par.jpg)
+![Brownie cremoso de castanha-do-pará](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/brownie_cremoso_de_castanha_do_par.jpg)
 
 ## 📝 Informações da Receita
 

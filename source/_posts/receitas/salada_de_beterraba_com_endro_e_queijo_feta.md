@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de beterraba com endro e queijo feta](/images/salada_de_beterraba_com_endro_e_queijo_feta.jpg)
+![Salada de beterraba com endro e queijo feta](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_beterraba_com_endro_e_queijo_feta.jpg)
 
 ## 📝 Informações da Receita
 

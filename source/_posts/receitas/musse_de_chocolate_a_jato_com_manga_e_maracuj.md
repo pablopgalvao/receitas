@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Musse de chocolate a jato com manga e maracujá](/images/musse_de_chocolate_a_jato_com_manga_e_maracuj.jpg)
+![Musse de chocolate a jato com manga e maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/musse_de_chocolate_a_jato_com_manga_e_maracuj.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndegas ao molho](/images/almondegas-ao-molho__80f70719_01.png)
+![Almôndegas ao molho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-ao-molho__80f70719_01.webp)
 
 ## 📝 Informações da Receita
 

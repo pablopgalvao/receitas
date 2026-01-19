@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abóbora e brócolis grelhados com azeite crocante](/images/abobora-e-brocolis-grelhados-com-azeite-crocante__422d54d4_01.webp)
+![Abóbora e brócolis grelhados com azeite crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobora-e-brocolis-grelhados-com-azeite-crocante__422d54d4_01.webp)
 
 ## 📝 Informações da Receita
 

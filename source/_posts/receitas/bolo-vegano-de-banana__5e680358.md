@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo vegano de banana](/images/bolo-vegano-de-banana__5e680358_01.png)
+![Bolo vegano de banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-vegano-de-banana__5e680358_01.webp)
 
 ## 📝 Informações da Receita
 

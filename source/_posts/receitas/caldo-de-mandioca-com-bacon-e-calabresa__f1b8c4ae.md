@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldo de mandioca com bacon e calabresa](/images/caldo-de-mandioca-com-bacon-e-calabresa__f1b8c4ae_01.png)
+![Caldo de mandioca com bacon e calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caldo-de-mandioca-com-bacon-e-calabresa__f1b8c4ae_01.webp)
 
 ## 📝 Informações da Receita
 

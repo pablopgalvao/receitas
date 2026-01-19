@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Curau de milho em lata](/images/curau-de-milho-em-lata__b88aadca_01.png)
+![Curau de milho em lata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/curau-de-milho-em-lata__b88aadca_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Miojo cacio e pepe](/images/miojo-cacio-e-pepe__811339cc_01.png)
+![Miojo cacio e pepe](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/miojo-cacio-e-pepe__811339cc_01.webp)
 
 ## 📝 Informações da Receita
 

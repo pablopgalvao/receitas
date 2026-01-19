@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete caseiro de maracujá](/images/sorvete-caseiro-de-maracuja__a26e21a7_01.png)
+![Sorvete caseiro de maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-caseiro-de-maracuja__a26e21a7_01.webp)
 
 ## 📝 Informações da Receita
 

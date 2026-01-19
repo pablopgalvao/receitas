@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro de colher com chocolate amargo](/images/brigadeiro_de_colher_com_chocolate_amargo.jpg)
+![Brigadeiro de colher com chocolate amargo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/brigadeiro_de_colher_com_chocolate_amargo.jpg)
 
 ## 📝 Informações da Receita
 

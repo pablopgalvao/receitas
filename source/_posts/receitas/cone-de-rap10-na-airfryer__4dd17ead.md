@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cone de Rap10 na air fryer](/images/cone-de-rap10-na-airfryer__4dd17ead_01.png)
+![Cone de Rap10 na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cone-de-rap10-na-airfryer__4dd17ead_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo 4 leites com morango](/images/bolo-4-leites-com-morango__63247962_01.png)
+![Bolo 4 leites com morango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-4-leites-com-morango__63247962_01.webp)
 
 ## 📝 Informações da Receita
 

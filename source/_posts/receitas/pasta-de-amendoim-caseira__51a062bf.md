@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pasta de amendoim caseira](/images/pasta-de-amendoim-caseira__51a062bf_01.png)
+![Pasta de amendoim caseira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pasta-de-amendoim-caseira__51a062bf_01.webp)
 
 ## 📝 Informações da Receita
 

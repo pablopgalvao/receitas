@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer caseiro (com ovo)](/images/hamburguer-caseiro-com-ovo__8c395b84_01.png)
+![Hambúrguer caseiro (com ovo)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburguer-caseiro-com-ovo__8c395b84_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango empanado na air fryer](/images/frango-empanado-na-airfryer__88c55869_01.png)
+![Frango empanado na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-na-airfryer__88c55869_01.webp)
 
 ## 📝 Informações da Receita
 

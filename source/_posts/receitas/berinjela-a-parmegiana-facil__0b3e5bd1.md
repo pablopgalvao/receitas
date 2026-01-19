@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Berinjela à parmegiana fácil](/images/berinjela-a-parmegiana-facil__0b3e5bd1_01.png)
+![Berinjela à parmegiana fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/berinjela-a-parmegiana-facil__0b3e5bd1_01.webp)
 
 ## 📝 Informações da Receita
 

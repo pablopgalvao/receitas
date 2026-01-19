@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Queijo quente com crosta de parmesão](/images/queijo_quente_com_crosta_de_parmes_o.jpg)
+![Queijo quente com crosta de parmesão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/queijo_quente_com_crosta_de_parmes_o.jpg)
 
 ## 📝 Informações da Receita
 

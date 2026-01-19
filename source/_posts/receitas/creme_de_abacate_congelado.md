@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme de abacate congelado](/images/creme_de_abacate_congelado.jpg)
+![Creme de abacate congelado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/creme_de_abacate_congelado.jpg)
 
 ## 📝 Informações da Receita
 

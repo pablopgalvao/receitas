@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão com gengibre](/images/feij_o_com_gengibre.jpg)
+![Feijão com gengibre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/feij_o_com_gengibre.jpg)
 
 ## 📝 Informações da Receita
 

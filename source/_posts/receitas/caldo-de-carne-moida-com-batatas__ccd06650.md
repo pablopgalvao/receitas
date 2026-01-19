@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldo de carne moída com batatas](/images/caldo-de-carne-moida-com-batatas__ccd06650_01.png)
+![Caldo de carne moída com batatas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caldo-de-carne-moida-com-batatas__ccd06650_01.webp)
 
 ## 📝 Informações da Receita
 

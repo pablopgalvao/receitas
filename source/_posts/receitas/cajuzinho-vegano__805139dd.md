@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cajuzinho vegano](/images/cajuzinho-vegano__805139dd_01.png)
+![Cajuzinho vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp)
 
 ## 📝 Informações da Receita
 

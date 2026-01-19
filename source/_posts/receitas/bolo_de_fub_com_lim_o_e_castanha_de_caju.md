@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de fubá com limão e castanha-de-caju](/images/bolo_de_fub_com_lim_o_e_castanha_de_caju.jpg)
+![Bolo de fubá com limão e castanha-de-caju](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_fub_com_lim_o_e_castanha_de_caju.jpg)
 
 ## 📝 Informações da Receita
 

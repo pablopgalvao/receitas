@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pernil assado com molho de abacaxi](/images/pernil_assado_com_molho_de_abacaxi.jpg)
+![Pernil assado com molho de abacaxi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pernil_assado_com_molho_de_abacaxi.jpg)
 
 ## 📝 Informações da Receita
 

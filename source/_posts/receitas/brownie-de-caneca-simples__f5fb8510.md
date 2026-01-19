@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie de caneca simples](/images/brownie-de-caneca-simples__f5fb8510_01.png)
+![Brownie de caneca simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-de-caneca-simples__f5fb8510_01.webp)
 
 ## 📝 Informações da Receita
 

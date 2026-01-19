@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoito amanteigado de café](/images/biscoito-amanteigado-de-cafe__0493408c_01.png)
+![Biscoito amanteigado de café](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoito-amanteigado-de-cafe__0493408c_01.webp)
 
 ## 📝 Informações da Receita
 

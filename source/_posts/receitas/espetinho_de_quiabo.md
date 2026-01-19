@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espetinho de quiabo](/images/espetinho_de_quiabo.jpg)
+![Espetinho de quiabo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espetinho_de_quiabo.jpg)
 
 ## 📝 Informações da Receita
 

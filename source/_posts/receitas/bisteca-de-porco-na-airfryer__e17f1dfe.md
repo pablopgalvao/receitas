@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bisteca de porco na air fryer](/images/bisteca-de-porco-na-airfryer__e17f1dfe_01.png)
+![Bisteca de porco na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-de-porco-na-airfryer__e17f1dfe_01.webp)
 
 ## 📝 Informações da Receita
 

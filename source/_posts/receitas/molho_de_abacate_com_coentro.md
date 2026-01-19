@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de abacate com coentro](/images/molho_de_abacate_com_coentro.jpg)
+![Molho de abacate com coentro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_abacate_com_coentro.jpg)
 
 ## 📝 Informações da Receita
 

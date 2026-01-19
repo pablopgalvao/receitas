@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies de amendoim fácil](/images/cookies-de-amendoim-facil__b0e6a749_01.png)
+![Cookies de amendoim fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-de-amendoim-facil__b0e6a749_01.webp)
 
 ## 📝 Informações da Receita
 

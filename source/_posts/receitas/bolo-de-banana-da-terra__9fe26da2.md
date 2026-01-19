@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de banana-da-terra](/images/bolo-de-banana-da-terra__9fe26da2_01.png)
+![Bolo de banana-da-terra](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-da-terra__9fe26da2_01.webp)
 
 ## 📝 Informações da Receita
 

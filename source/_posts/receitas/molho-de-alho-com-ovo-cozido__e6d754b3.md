@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de alho com ovo cozido](/images/molho-de-alho-com-ovo-cozido__e6d754b3_01.png)
+![Molho de alho com ovo cozido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-de-alho-com-ovo-cozido__e6d754b3_01.webp)
 
 ## 📝 Informações da Receita
 

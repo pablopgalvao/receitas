@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de maracujá com chocolate simples](/images/torta-de-maracuja-com-chocolate-simples__d42a6b66_01.png)
+![Torta de maracujá com chocolate simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-maracuja-com-chocolate-simples__d42a6b66_01.webp)
 
 ## 📝 Informações da Receita
 

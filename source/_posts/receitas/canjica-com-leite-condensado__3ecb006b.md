@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canjica com leite condensado](/images/canjica-com-leite-condensado__3ecb006b_01.png)
+![Canjica com leite condensado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/canjica-com-leite-condensado__3ecb006b_01.webp)
 
 ## 📝 Informações da Receita
 

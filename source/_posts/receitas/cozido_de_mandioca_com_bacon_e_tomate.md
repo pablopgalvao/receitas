@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cozido de mandioca com bacon e tomate](/images/cozido_de_mandioca_com_bacon_e_tomate.jpg)
+![Cozido de mandioca com bacon e tomate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cozido_de_mandioca_com_bacon_e_tomate.jpg)
 
 ## 📝 Informações da Receita
 

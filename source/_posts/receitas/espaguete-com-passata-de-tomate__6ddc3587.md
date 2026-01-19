@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espaguete com passata de tomate](/images/espaguete-com-passata-de-tomate__6ddc3587_01.png)
+![Espaguete com passata de tomate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/espaguete-com-passata-de-tomate__6ddc3587_01.webp)
 
 ## 📝 Informações da Receita
 

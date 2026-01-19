@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Focaccia de alecrim](/images/focaccia-de-alecrim__3f394ca0_01.png)
+![Focaccia de alecrim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/focaccia-de-alecrim__3f394ca0_01.webp)
 
 ## 📝 Informações da Receita
 

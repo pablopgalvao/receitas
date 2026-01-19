@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escarola assada com queijo meia cura](/images/escarola_assada_com_queijo_meia_cura.jpg)
+![Escarola assada com queijo meia cura](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_assada_com_queijo_meia_cura.jpg)
 
 ## 📝 Informações da Receita
 

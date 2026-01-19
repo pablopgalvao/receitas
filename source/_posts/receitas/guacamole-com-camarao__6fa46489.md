@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Guacamole com camarão](/images/guacamole-com-camarao__6fa46489_01.png)
+![Guacamole com camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/guacamole-com-camarao__6fa46489_01.webp)
 
 ## 📝 Informações da Receita
 

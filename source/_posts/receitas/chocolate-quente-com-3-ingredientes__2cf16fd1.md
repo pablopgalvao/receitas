@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chocolate quente com 3 ingredientes](/images/chocolate-quente-com-3-ingredientes__2cf16fd1_01.png)
+![Chocolate quente com 3 ingredientes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chocolate-quente-com-3-ingredientes__2cf16fd1_01.webp)
 
 ## 📝 Informações da Receita
 

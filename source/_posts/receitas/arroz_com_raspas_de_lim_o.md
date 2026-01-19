@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com raspas de limão](/images/arroz_com_raspas_de_lim_o.jpg)
+![Arroz com raspas de limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_raspas_de_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

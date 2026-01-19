@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo gelado de figo com creme inglês](/images/bolo_gelado_de_figo_com_creme_ingl_s.jpg)
+![Bolo gelado de figo com creme inglês](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_gelado_de_figo_com_creme_ingl_s.jpg)
 
 ## 📝 Informações da Receita
 

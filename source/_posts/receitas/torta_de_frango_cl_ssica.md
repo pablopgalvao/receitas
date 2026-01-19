@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de frango clássica](/images/torta_de_frango_cl_ssica.jpg)
+![Torta de frango clássica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torta_de_frango_cl_ssica.jpg)
 
 ## 📝 Informações da Receita
 

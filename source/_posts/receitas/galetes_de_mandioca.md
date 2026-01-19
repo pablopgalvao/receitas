@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galetes de mandioca](/images/galetes_de_mandioca.jpg)
+![Galetes de mandioca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/galetes_de_mandioca.jpg)
 
 ## 📝 Informações da Receita
 

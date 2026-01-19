@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picadinho de carne fácil e rápido](/images/picadinho-de-carne-facil-e-rapido__dcbfd6ee_01.png)
+![Picadinho de carne fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/picadinho-de-carne-facil-e-rapido__dcbfd6ee_01.webp)
 
 ## 📝 Informações da Receita
 

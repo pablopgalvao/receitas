@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz sírio prático](/images/arroz_s_rio_pr_tico.jpg)
+![Arroz sírio prático](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_s_rio_pr_tico.jpg)
 
 ## 📝 Informações da Receita
 

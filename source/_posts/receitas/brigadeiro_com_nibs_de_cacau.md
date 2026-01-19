@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro com nibs de cacau](/images/brigadeiro_com_nibs_de_cacau.jpg)
+![Brigadeiro com nibs de cacau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/brigadeiro_com_nibs_de_cacau.jpg)
 
 ## 📝 Informações da Receita
 

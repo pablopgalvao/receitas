@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Iscas de pescada com molho tártaro](/images/iscas_de_pescada_com_molho_t_rtaro.jpg)
+![Iscas de pescada com molho tártaro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/iscas_de_pescada_com_molho_t_rtaro.jpg)
 
 ## 📝 Informações da Receita
 

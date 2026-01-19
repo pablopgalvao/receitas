@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![X-Salada](/images/x-salada__cb1a2612_01.png)
+![X-Salada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/x-salada__cb1a2612_01.webp)
 
 ## 📝 Informações da Receita
 

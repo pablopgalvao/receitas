@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Curry de legumes fácil](/images/curry-de-legumes-facil__53842593_01.png)
+![Curry de legumes fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/curry-de-legumes-facil__53842593_01.webp)
 
 ## 📝 Informações da Receita
 

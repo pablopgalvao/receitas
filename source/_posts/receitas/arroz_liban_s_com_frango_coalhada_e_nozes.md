@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz libanês com frango, coalhada e nozes](/images/arroz_liban_s_com_frango_coalhada_e_nozes.jpg)
+![Arroz libanês com frango, coalhada e nozes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_liban_s_com_frango_coalhada_e_nozes.jpg)
 
 ## 📝 Informações da Receita
 

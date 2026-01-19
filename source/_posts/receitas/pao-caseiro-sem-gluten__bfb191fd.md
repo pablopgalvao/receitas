@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão caseiro sem glúten](/images/pao-caseiro-sem-gluten__bfb191fd_01.png)
+![Pão caseiro sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-sem-gluten__bfb191fd_01.webp)
 
 ## 📝 Informações da Receita
 

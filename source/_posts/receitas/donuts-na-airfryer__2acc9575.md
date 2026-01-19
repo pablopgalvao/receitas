@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Donuts na air fryer](/images/donuts-na-airfryer__2acc9575_01.png)
+![Donuts na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts-na-airfryer__2acc9575_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Naked cake de chocolate com compota de laranjinha kinkan](/images/naked_cake_de_chocolate_com_compota_de_laranjinha_kinkan.jpg)
+![Naked cake de chocolate com compota de laranjinha kinkan](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/naked_cake_de_chocolate_com_compota_de_laranjinha_kinkan.jpg)
 
 ## 📝 Informações da Receita
 

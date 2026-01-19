@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Shakshuka a la norma (ovos cozidos no molho de berinjela, tomate e ricota)](/images/shakshuka_a_la_norma_ovos_cozidos_no_molho_de_berinjela_tomate_e_ricota.jpg)
+![Shakshuka a la norma (ovos cozidos no molho de berinjela, tomate e ricota)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/shakshuka_a_la_norma_ovos_cozidos_no_molho_de_berinjela_tomate_e_ricota.jpg)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Waffle sem glúten e sem lactose](/images/waffle-sem-gluten-e-sem-lactose__c146dcf4_01.png)
+![Waffle sem glúten e sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/waffle-sem-gluten-e-sem-lactose__c146dcf4_01.webp)
 
 ## 📝 Informações da Receita
 

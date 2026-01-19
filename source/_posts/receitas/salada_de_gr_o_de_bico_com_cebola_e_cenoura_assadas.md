@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de grão-de-bico com cebola e cenoura assadas](/images/salada_de_gr_o_de_bico_com_cebola_e_cenoura_assadas.jpg)
+![Salada de grão-de-bico com cebola e cenoura assadas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_gr_o_de_bico_com_cebola_e_cenoura_assadas.jpg)
 
 ## 📝 Informações da Receita
 

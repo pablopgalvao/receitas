@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies de banana fácil e saudável](/images/cookies-de-banana-facil-e-saudavel__f5282dfe_01.png)
+![Cookies de banana fácil e saudável](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-de-banana-facil-e-saudavel__f5282dfe_01.webp)
 
 ## 📝 Informações da Receita
 

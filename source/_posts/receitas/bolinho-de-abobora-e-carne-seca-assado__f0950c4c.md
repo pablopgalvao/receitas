@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de abóbora e carne-seca assado](/images/bolinho-de-abobora-e-carne-seca-assado__f0950c4c_01.png)
+![Bolinho de abóbora e carne-seca assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobora-e-carne-seca-assado__f0950c4c_01.webp)
 
 ## 📝 Informações da Receita
 

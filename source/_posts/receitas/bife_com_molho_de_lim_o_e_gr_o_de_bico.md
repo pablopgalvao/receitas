@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife com molho de limão e grão-de-bico](/images/bife_com_molho_de_lim_o_e_gr_o_de_bico.jpg)
+![Bife com molho de limão e grão-de-bico](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bife_com_molho_de_lim_o_e_gr_o_de_bico.jpg)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha simples](/images/lasanha-simples__94f6d0ec_01.png)
+![Lasanha simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-simples__94f6d0ec_01.webp)
 
 ## 📝 Informações da Receita
 

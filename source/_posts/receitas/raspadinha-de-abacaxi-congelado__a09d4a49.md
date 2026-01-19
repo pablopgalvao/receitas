@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Raspadinha de abacaxi congelado](/images/raspadinha-de-abacaxi-congelado__a09d4a49_01.webp)
+![Raspadinha de abacaxi congelado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/raspadinha-de-abacaxi-congelado__a09d4a49_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pappardelle ao molho branco com camarão](/images/pappardelle-ao-molho-branco-com-camarao__501708df_01.png)
+![Pappardelle ao molho branco com camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pappardelle-ao-molho-branco-com-camarao__501708df_01.webp)
 
 ## 📝 Informações da Receita
 

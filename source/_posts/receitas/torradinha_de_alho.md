@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torradinha de alho](/images/torradinha_de_alho.jpg)
+![Torradinha de alho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torradinha_de_alho.jpg)
 
 ## 📝 Informações da Receita
 

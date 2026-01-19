@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pãozinho de cebola recheado com queijo](/images/paozinho-de-cebola-recheado-com-queijo__33c3cafa_01.png)
+![Pãozinho de cebola recheado com queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/paozinho-de-cebola-recheado-com-queijo__33c3cafa_01.webp)
 
 ## 📝 Informações da Receita
 

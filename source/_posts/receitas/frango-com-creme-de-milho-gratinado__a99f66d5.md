@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango com creme de milho gratinado](/images/frango-com-creme-de-milho-gratinado__a99f66d5_01.png)
+![Frango com creme de milho gratinado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-com-creme-de-milho-gratinado__a99f66d5_01.webp)
 
 ## 📝 Informações da Receita
 

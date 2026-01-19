@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão vegano de sementes](/images/pao-vegano-de-sementes__fcf1899f_01.png)
+![Pão vegano de sementes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-vegano-de-sementes__fcf1899f_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão cremoso com camarão](/images/macarrao-cremoso-com-camarao__2be156a9_01.png)
+![Macarrão cremoso com camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-cremoso-com-camarao__2be156a9_01.webp)
 
 ## 📝 Informações da Receita
 

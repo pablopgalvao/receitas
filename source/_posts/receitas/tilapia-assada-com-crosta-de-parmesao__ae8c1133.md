@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tilápia assada com crosta de parmesão](/images/tilapia-assada-com-crosta-de-parmesao__ae8c1133_01.png)
+![Tilápia assada com crosta de parmesão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tilapia-assada-com-crosta-de-parmesao__ae8c1133_01.webp)
 
 ## 📝 Informações da Receita
 

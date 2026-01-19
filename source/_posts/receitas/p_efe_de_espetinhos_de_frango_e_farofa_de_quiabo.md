@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de espetinhos de frango e farofa de quiabo](/images/p_efe_de_espetinhos_de_frango_e_farofa_de_quiabo.jpg)
+![Pê-efe de espetinhos de frango e farofa de quiabo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_espetinhos_de_frango_e_farofa_de_quiabo.jpg)
 
 ## 📝 Informações da Receita
 

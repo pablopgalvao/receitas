@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha bolonhesa ao molho branco](/images/lasanha-bolonhesa-ao-molho-branco__f68d9150_01.png)
+![Lasanha bolonhesa ao molho branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-bolonhesa-ao-molho-branco__f68d9150_01.webp)
 
 ## 📝 Informações da Receita
 

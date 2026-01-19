@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim](/images/pudim__28c327c3_01.png)
+![Pudim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim__28c327c3_01.webp)
 
 ## 📝 Informações da Receita
 

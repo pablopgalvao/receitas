@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo na air fryer](/images/bolo-na-airfryer__181b38b2_01.png)
+![Bolo na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-na-airfryer__181b38b2_01.webp)
 
 ## 📝 Informações da Receita
 

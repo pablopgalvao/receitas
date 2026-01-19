@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pãozinho delícia](/images/paozinho-delicia__8bbbd7dd_01.png)
+![Pãozinho delícia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/paozinho-delicia__8bbbd7dd_01.webp)
 
 ## 📝 Informações da Receita
 

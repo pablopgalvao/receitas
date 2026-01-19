@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vinagrete de abobrinha com manjericão](/images/vinagrete_de_abobrinha_com_manjeric_o.jpg)
+![Vinagrete de abobrinha com manjericão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinagrete_de_abobrinha_com_manjeric_o.jpg)
 
 ## 📝 Informações da Receita
 

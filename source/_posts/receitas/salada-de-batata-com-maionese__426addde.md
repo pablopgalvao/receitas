@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de batata com maionese](/images/salada-de-batata-com-maionese__426addde_01.png)
+![Salada de batata com maionese](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-batata-com-maionese__426addde_01.webp)
 
 ## 📝 Informações da Receita
 

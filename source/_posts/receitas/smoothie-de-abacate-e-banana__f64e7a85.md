@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Smoothie de abacate e banana](/images/smoothie-de-abacate-e-banana__f64e7a85_01.png)
+![Smoothie de abacate e banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/smoothie-de-abacate-e-banana__f64e7a85_01.webp)
 
 ## 📝 Informações da Receita
 

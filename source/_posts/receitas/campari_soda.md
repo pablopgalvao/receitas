@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Campari soda](/images/campari_soda.jpg)
+![Campari soda](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/campari_soda.jpg)
 
 ## 📝 Informações da Receita
 

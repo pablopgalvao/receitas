@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Paçoca de carne-seca](/images/pa_oca_de_carne_seca.jpg)
+![Paçoca de carne-seca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg)
 
 ## 📝 Informações da Receita
 

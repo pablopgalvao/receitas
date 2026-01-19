@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Morango flambado com sorvete de creme](/images/morango_flambado_com_sorvete_de_creme.jpg)
+![Morango flambado com sorvete de creme](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/morango_flambado_com_sorvete_de_creme.jpg)
 
 ## 📝 Informações da Receita
 

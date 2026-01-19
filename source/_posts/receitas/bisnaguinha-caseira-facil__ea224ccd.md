@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bisnaguinha caseira fácil](/images/bisnaguinha-caseira-facil__ea224ccd_01.png)
+![Bisnaguinha caseira fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisnaguinha-caseira-facil__ea224ccd_01.webp)
 
 ## 📝 Informações da Receita
 

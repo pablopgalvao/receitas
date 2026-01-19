@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Yakisoba fácil](/images/yakisoba-facil__5a8f2bce_01.png)
+![Yakisoba fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/yakisoba-facil__5a8f2bce_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz de forno com frango fácil](/images/arroz-de-forno-com-frango-facil__e79e5dcf_01.png)
+![Arroz de forno com frango fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-com-frango-facil__e79e5dcf_01.webp)
 
 ## 📝 Informações da Receita
 

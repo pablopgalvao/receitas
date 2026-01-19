@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caipirinha de maracujá com gengibre e folhas de mexerica](/images/caipirinha_de_maracuj_com_gengibre_e_folhas_de_mexerica.jpg)
+![Caipirinha de maracujá com gengibre e folhas de mexerica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caipirinha_de_maracuj_com_gengibre_e_folhas_de_mexerica.jpg)
 
 ## 📝 Informações da Receita
 

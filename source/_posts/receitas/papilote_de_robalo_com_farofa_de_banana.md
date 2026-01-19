@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Papilote de robalo com farofa de banana](/images/papilote_de_robalo_com_farofa_de_banana.jpg)
+![Papilote de robalo com farofa de banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/papilote_de_robalo_com_farofa_de_banana.jpg)
 
 ## 📝 Informações da Receita
 

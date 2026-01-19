@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho branco para macarrão simples](/images/molho_branco_para_macarr_o_simples.jpg)
+![Molho branco para macarrão simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_branco_para_macarr_o_simples.jpg)
 
 ## 📝 Informações da Receita
 

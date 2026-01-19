@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobrecoxa ao curry com arroz e laranja em uma panela só](/images/sobrecoxa_ao_curry_com_arroz_e_laranja_em_uma_panela_s.jpg)
+![Sobrecoxa ao curry com arroz e laranja em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sobrecoxa_ao_curry_com_arroz_e_laranja_em_uma_panela_s.jpg)
 
 ## 📝 Informações da Receita
 

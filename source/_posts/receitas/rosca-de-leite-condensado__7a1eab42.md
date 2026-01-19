@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rosca de leite condensado](/images/rosca-de-leite-condensado__7a1eab42_01.png)
+![Rosca de leite condensado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rosca-de-leite-condensado__7a1eab42_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz-doce cremoso fácil e rápido](/images/arroz-doce-cremoso-facil-e-rapido__4f88ad29_01.png)
+![Arroz-doce cremoso fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-cremoso-facil-e-rapido__4f88ad29_01.webp)
 
 ## 📝 Informações da Receita
 

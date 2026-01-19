@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ragu de carne](/images/ragu_de_carne.jpg)
+![Ragu de carne](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ragu_de_carne.jpg)
 
 ## 📝 Informações da Receita
 

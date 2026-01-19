@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Papilote de salmão com laranja](/images/papilote_de_salm_o_com_laranja.jpg)
+![Papilote de salmão com laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/papilote_de_salm_o_com_laranja.jpg)
 
 ## 📝 Informações da Receita
 

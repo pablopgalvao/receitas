@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo nuvem sem glúten e sem lactose](/images/bolo-nuvem-sem-gluten-e-sem-lactose__5005566d_01.png)
+![Bolo nuvem sem glúten e sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-nuvem-sem-gluten-e-sem-lactose__5005566d_01.webp)
 
 ## 📝 Informações da Receita
 

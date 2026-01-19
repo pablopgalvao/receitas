@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão picante com molho de amendoim e brócolis](/images/macarr_o_picante_com_molho_de_amendoim_e_br_colis.jpg)
+![Macarrão picante com molho de amendoim e brócolis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_picante_com_molho_de_amendoim_e_br_colis.jpg)
 
 ## 📝 Informações da Receita
 

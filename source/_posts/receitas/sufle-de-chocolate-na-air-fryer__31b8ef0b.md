@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de chocolate na air fryer](/images/sufle-de-chocolate-na-air-fryer__31b8ef0b_01.png)
+![Suflê de chocolate na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sufle-de-chocolate-na-air-fryer__31b8ef0b_01.webp)
 
 ## 📝 Informações da Receita
 

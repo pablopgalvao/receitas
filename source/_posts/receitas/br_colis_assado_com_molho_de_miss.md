@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brócolis assado com molho de missô](/images/br_colis_assado_com_molho_de_miss.jpg)
+![Brócolis assado com molho de missô](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_assado_com_molho_de_miss.jpg)
 
 ## 📝 Informações da Receita
 

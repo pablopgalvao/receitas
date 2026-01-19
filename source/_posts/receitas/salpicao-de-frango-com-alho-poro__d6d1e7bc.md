@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salpicão de frango com alho-poró](/images/salpicao-de-frango-com-alho-poro__d6d1e7bc_01.png)
+![Salpicão de frango com alho-poró](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salpicao-de-frango-com-alho-poro__d6d1e7bc_01.webp)
 
 ## 📝 Informações da Receita
 

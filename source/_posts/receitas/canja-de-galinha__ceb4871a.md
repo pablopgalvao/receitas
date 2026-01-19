@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canja de galinha](/images/canja-de-galinha__ceb4871a_01.png)
+![Canja de galinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/canja-de-galinha__ceb4871a_01.webp)
 
 ## 📝 Informações da Receita
 

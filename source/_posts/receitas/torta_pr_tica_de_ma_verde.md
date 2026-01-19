@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta prática de maçã verde](/images/torta_pr_tica_de_ma_verde.jpg)
+![Torta prática de maçã verde](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torta_pr_tica_de_ma_verde.jpg)
 
 ## 📝 Informações da Receita
 

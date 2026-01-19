@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo engorda marido](/images/bolo-engorda-marido__3d9d18f8_01.png)
+![Bolo engorda marido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-engorda-marido__3d9d18f8_01.webp)
 
 ## 📝 Informações da Receita
 

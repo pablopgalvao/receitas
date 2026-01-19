@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de brigadeiro simples](/images/torta-de-brigadeiro-simples__5bf0b2be_01.png)
+![Torta de brigadeiro simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-brigadeiro-simples__5bf0b2be_01.webp)
 
 ## 📝 Informações da Receita
 

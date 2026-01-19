@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão com cuscuz marroquino e salada de laranja](/images/salm_o_com_cuscuz_marroquino_e_salada_de_laranja.jpg)
+![Salmão com cuscuz marroquino e salada de laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salm_o_com_cuscuz_marroquino_e_salada_de_laranja.jpg)
 
 ## 📝 Informações da Receita
 

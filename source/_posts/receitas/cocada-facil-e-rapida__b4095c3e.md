@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cocada fácil e rápida](/images/cocada-facil-e-rapida__b4095c3e_01.png)
+![Cocada fácil e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cocada-facil-e-rapida__b4095c3e_01.webp)
 
 ## 📝 Informações da Receita
 

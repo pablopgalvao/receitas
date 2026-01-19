@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Musse de chocolate com água](/images/musse_de_chocolate_com_gua.jpg)
+![Musse de chocolate com água](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/musse_de_chocolate_com_gua.jpg)
 
 ## 📝 Informações da Receita
 

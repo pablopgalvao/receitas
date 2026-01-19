@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza de frango de liquidificador](/images/pizza-de-frango-de-liquidificador__889179a9_01.png)
+![Pizza de frango de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-de-frango-de-liquidificador__889179a9_01.webp)
 
 ## 📝 Informações da Receita
 

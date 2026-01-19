@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa de torta de liquidificador sem leite](/images/massa_de_torta_de_liquidificador_sem_leite.jpg)
+![Massa de torta de liquidificador sem leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_de_torta_de_liquidificador_sem_leite.jpg)
 
 ## 📝 Informações da Receita
 

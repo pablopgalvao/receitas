@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango empanado sem farinha](/images/frango-empanado-sem-farinha__ace39289_01.png)
+![Frango empanado sem farinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-sem-farinha__ace39289_01.webp)
 
 ## 📝 Informações da Receita
 

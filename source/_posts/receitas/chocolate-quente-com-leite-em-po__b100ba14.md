@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chocolate quente com leite em pó](/images/chocolate-quente-com-leite-em-po__b100ba14_01.png)
+![Chocolate quente com leite em pó](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chocolate-quente-com-leite-em-po__b100ba14_01.webp)
 
 ## 📝 Informações da Receita
 

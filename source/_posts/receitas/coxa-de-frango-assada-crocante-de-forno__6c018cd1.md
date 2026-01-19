@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxa de frango assada crocante de forno](/images/coxa-de-frango-assada-crocante-de-forno__6c018cd1_01.png)
+![Coxa de frango assada crocante de forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coxa-de-frango-assada-crocante-de-forno__6c018cd1_01.webp)
 
 ## 📝 Informações da Receita
 

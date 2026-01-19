@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Figo em calda na panela de pressão elétrica](/images/figo-em-calda-na-panela-de-pressao-eletrica__85130ac9_01.webp)
+![Figo em calda na panela de pressão elétrica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/figo-em-calda-na-panela-de-pressao-eletrica__85130ac9_01.webp)
 
 ## 📝 Informações da Receita
 

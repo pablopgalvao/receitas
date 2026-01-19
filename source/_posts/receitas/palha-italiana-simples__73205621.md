@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Palha italiana simples](/images/palha-italiana-simples__73205621_01.png)
+![Palha italiana simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/palha-italiana-simples__73205621_01.webp)
 
 ## 📝 Informações da Receita
 

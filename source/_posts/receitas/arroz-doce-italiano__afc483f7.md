@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz-doce italiano](/images/arroz-doce-italiano__afc483f7_01.png)
+![Arroz-doce italiano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-italiano__afc483f7_01.webp)
 
 ## 📝 Informações da Receita
 

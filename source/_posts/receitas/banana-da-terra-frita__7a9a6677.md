@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Banana da terra frita](/images/banana-da-terra-frita__7a9a6677_01.png)
+![Banana da terra frita](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-da-terra-frita__7a9a6677_01.webp)
 
 ## 📝 Informações da Receita
 

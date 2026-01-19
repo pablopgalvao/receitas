@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinha de queijo com 3 ingredientes](/images/bolinha-de-queijo-com-3-ingredientes__d1de73d3_01.png)
+![Bolinha de queijo com 3 ingredientes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinha-de-queijo-com-3-ingredientes__d1de73d3_01.webp)
 
 ## 📝 Informações da Receita
 

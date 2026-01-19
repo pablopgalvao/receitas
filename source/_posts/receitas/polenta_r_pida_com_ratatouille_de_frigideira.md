@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polenta rápida com ratatouille de frigideira](/images/polenta_r_pida_com_ratatouille_de_frigideira.jpg)
+![Polenta rápida com ratatouille de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/polenta_r_pida_com_ratatouille_de_frigideira.jpg)
 
 ## 📝 Informações da Receita
 

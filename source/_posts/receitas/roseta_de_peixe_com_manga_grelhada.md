@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Roseta de peixe com manga grelhada](/images/roseta_de_peixe_com_manga_grelhada.jpg)
+![Roseta de peixe com manga grelhada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/roseta_de_peixe_com_manga_grelhada.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tostadas de avocado](/images/tostadas_de_avocado.jpg)
+![Tostadas de avocado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostadas_de_avocado.jpg)
 
 ## 📝 Informações da Receita
 

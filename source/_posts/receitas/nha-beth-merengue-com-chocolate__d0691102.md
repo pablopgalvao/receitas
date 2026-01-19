@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: 1 hora
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhá Beth (merengue com chocolate)](/images/nha-beth-merengue-com-chocolate__d0691102_01.webp)
+![Nhá Beth (merengue com chocolate)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nha-beth-merengue-com-chocolate__d0691102_01.webp)
 
 ## 📝 Informações da Receita
 

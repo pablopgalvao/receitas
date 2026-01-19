@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chipa argentina](/images/chipa-argentina__b2adb500_01.png)
+![Chipa argentina](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chipa-argentina__b2adb500_01.webp)
 
 ## 📝 Informações da Receita
 

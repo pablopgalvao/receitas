@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango ao curry simples](/images/frango-ao-curry-simples__1d56d144_01.png)
+![Frango ao curry simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-curry-simples__1d56d144_01.webp)
 
 ## 📝 Informações da Receita
 

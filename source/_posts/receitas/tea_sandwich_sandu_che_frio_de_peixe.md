@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tea sandwich (sanduíche frio de peixe)](/images/tea_sandwich_sandu_che_frio_de_peixe.jpg)
+![Tea sandwich (sanduíche frio de peixe)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tea_sandwich_sandu_che_frio_de_peixe.jpg)
 
 ## 📝 Informações da Receita
 

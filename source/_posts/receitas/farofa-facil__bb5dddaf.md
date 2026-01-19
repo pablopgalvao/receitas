@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa fácil](/images/farofa-facil__bb5dddaf_01.png)
+![Farofa fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-facil__bb5dddaf_01.webp)
 
 ## 📝 Informações da Receita
 

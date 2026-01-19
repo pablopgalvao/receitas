@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Calda de damasco](/images/calda_de_damasco.jpg)
+![Calda de damasco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/calda_de_damasco.jpg)
 
 ## 📝 Informações da Receita
 

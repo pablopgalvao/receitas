@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Broto de feijão refogado](/images/broto-de-feijao-refogado__10595c1b_01.png)
+![Broto de feijão refogado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/broto-de-feijao-refogado__10595c1b_01.webp)
 
 ## 📝 Informações da Receita
 

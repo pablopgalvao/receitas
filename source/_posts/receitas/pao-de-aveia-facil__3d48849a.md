@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de aveia fácil](/images/pao-de-aveia-facil__3d48849a_01.png)
+![Pão de aveia fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-aveia-facil__3d48849a_01.webp)
 
 ## 📝 Informações da Receita
 

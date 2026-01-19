@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Geleia de morango simples](/images/geleia-de-morango-simples__c0a18821_01.png)
+![Geleia de morango simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-de-morango-simples__c0a18821_01.webp)
 
 ## 📝 Informações da Receita
 

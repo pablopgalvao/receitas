@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pasta de grão-de-bico com azeite](/images/pasta_de_gr_o_de_bico_com_azeite.jpg)
+![Pasta de grão-de-bico com azeite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_gr_o_de_bico_com_azeite.jpg)
 
 ## 📝 Informações da Receita
 

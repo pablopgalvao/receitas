@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costela cozida na pressão](/images/costela-cozida-na-pressao__fe0582f7_01.png)
+![Costela cozida na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/costela-cozida-na-pressao__fe0582f7_01.webp)
 
 ## 📝 Informações da Receita
 

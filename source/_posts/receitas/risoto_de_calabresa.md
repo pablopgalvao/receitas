@@ -27,7 +27,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de Calabresa](/images/risoto_de_calabresa.jpg)
+![Risoto de Calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_calabresa.jpg)
 
 ## 📝 Informações da Receita
 

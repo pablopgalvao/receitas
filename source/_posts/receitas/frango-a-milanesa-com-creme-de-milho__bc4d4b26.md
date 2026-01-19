@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango à milanesa com creme de milho](/images/frango-a-milanesa-com-creme-de-milho__bc4d4b26_01.png)
+![Frango à milanesa com creme de milho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-milanesa-com-creme-de-milho__bc4d4b26_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Muffin de batata-doce](/images/muffin-de-batata-doce__cb487c0e_01.png)
+![Muffin de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/muffin-de-batata-doce__cb487c0e_01.webp)
 
 ## 📝 Informações da Receita
 

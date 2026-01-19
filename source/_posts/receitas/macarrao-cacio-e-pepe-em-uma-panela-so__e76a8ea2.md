@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão cacio e pepe em uma panela só](/images/macarrao-cacio-e-pepe-em-uma-panela-so__e76a8ea2_01.webp)
+![Macarrão cacio e pepe em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-cacio-e-pepe-em-uma-panela-so__e76a8ea2_01.webp)
 
 ## 📝 Informações da Receita
 

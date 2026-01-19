@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne-seca acebolada com manteiga de garrafa](/images/carne_seca_acebolada_com_manteiga_de_garrafa.jpg)
+![Carne-seca acebolada com manteiga de garrafa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_seca_acebolada_com_manteiga_de_garrafa.jpg)
 
 ## 📝 Informações da Receita
 

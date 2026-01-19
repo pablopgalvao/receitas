@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cappuccino zero açúcar](/images/cappuccino-zero-acucar__76f5bb87_01.png)
+![Cappuccino zero açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cappuccino-zero-acucar__76f5bb87_01.webp)
 
 ## 📝 Informações da Receita
 

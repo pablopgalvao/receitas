@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de abobrinha e cenoura](/images/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.png)
+![Bolinho de abobrinha e cenoura](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.webp)
 
 ## 📝 Informações da Receita
 

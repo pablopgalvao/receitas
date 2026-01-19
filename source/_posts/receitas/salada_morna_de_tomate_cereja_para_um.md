@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada morna de tomate-cereja para um](/images/salada_morna_de_tomate_cereja_para_um.jpg)
+![Salada morna de tomate-cereja para um](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_morna_de_tomate_cereja_para_um.jpg)
 
 ## 📝 Informações da Receita
 

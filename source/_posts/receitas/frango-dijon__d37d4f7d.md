@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango Dijon](/images/frango-dijon__d37d4f7d_01.png)
+![Frango Dijon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-dijon__d37d4f7d_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada picante de acelga](/images/salada_picante_de_acelga.jpg)
+![Salada picante de acelga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_picante_de_acelga.jpg)
 
 ## 📝 Informações da Receita
 

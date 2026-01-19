@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Limoncello spritz](/images/limoncello_spritz.jpg)
+![Limoncello spritz](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg)
 
 ## 📝 Informações da Receita
 

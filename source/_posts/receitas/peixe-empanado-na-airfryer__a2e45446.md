@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peixe empanado na air fryer](/images/peixe-empanado-na-airfryer__a2e45446_01.png)
+![Peixe empanado na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-empanado-na-airfryer__a2e45446_01.webp)
 
 ## 📝 Informações da Receita
 

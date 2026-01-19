@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cavatelli à primavera](/images/cavatelli_primavera.jpg)
+![Cavatelli à primavera](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cavatelli_primavera.jpg)
 
 ## 📝 Informações da Receita
 

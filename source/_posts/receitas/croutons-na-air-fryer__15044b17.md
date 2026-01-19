@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Croutons na air fryer](/images/croutons-na-air-fryer__15044b17_01.png)
+![Croutons na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croutons-na-air-fryer__15044b17_01.webp)
 
 ## 📝 Informações da Receita
 

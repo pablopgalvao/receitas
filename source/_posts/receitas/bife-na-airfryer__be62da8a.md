@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife na air fryer](/images/bife-na-airfryer__be62da8a_01.png)
+![Bife na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-na-airfryer__be62da8a_01.webp)
 
 ## 📝 Informações da Receita
 

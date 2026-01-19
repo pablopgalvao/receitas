@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne moída simples](/images/carne-moida-simples__2d46839f_01.png)
+![Carne moída simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-moida-simples__2d46839f_01.webp)
 
 ## 📝 Informações da Receita
 

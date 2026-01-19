@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão-carioca com tomate e especiarias](/images/feij_o_carioca_com_tomate_e_especiarias.jpg)
+![Feijão-carioca com tomate e especiarias](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/feij_o_carioca_com_tomate_e_especiarias.jpg)
 
 ## 📝 Informações da Receita
 

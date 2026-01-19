@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão com ovo e queijo na Air Fryer da Rita Lobo](/images/p_o_com_ovo_e_queijo_na_air_fryer_da_rita_lobo.jpg)
+![Pão com ovo e queijo na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_com_ovo_e_queijo_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pipoca doce com chocolate](/images/pipoca-doce-com-chocolate__7efa9a0f_01.webp)
+![Pipoca doce com chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pipoca-doce-com-chocolate__7efa9a0f_01.webp)
 
 ## 📝 Informações da Receita
 

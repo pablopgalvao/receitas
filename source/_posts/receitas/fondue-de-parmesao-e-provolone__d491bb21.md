@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fondue de parmesão e provolone](/images/fondue-de-parmesao-e-provolone__d491bb21_01.png)
+![Fondue de parmesão e provolone](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-parmesao-e-provolone__d491bb21_01.webp)
 
 ## 📝 Informações da Receita
 

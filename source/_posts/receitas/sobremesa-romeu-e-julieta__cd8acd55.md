@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobremesa romeu e julieta](/images/sobremesa-romeu-e-julieta__cd8acd55_01.png)
+![Sobremesa romeu e julieta](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobremesa-romeu-e-julieta__cd8acd55_01.webp)
 
 ## 📝 Informações da Receita
 

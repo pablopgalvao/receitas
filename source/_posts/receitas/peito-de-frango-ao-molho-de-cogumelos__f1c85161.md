@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peito de frango ao molho de cogumelos](/images/peito-de-frango-ao-molho-de-cogumelos__f1c85161_01.png)
+![Peito de frango ao molho de cogumelos](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peito-de-frango-ao-molho-de-cogumelos__f1c85161_01.webp)
 
 ## 📝 Informações da Receita
 

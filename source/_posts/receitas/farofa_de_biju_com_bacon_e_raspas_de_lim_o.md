@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de biju com bacon e raspas de limão](/images/farofa_de_biju_com_bacon_e_raspas_de_lim_o.jpg)
+![Farofa de biju com bacon e raspas de limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_biju_com_bacon_e_raspas_de_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

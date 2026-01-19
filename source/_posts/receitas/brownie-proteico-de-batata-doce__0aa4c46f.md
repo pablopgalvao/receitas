@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie proteico de batata-doce](/images/brownie-proteico-de-batata-doce__0aa4c46f_01.png)
+![Brownie proteico de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-proteico-de-batata-doce__0aa4c46f_01.webp)
 
 ## 📝 Informações da Receita
 

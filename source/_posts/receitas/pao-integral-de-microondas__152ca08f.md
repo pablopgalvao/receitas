@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão integral de microondas](/images/pao-integral-de-microondas__152ca08f_01.png)
+![Pão integral de microondas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-microondas__152ca08f_01.webp)
 
 ## 📝 Informações da Receita
 

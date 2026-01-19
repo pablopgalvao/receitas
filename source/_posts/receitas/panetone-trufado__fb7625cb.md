@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panetone trufado](/images/panetone-trufado__fb7625cb_01.png)
+![Panetone trufado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panetone-trufado__fb7625cb_01.webp)
 
 ## 📝 Informações da Receita
 

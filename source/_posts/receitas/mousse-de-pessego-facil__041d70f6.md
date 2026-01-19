@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de pêssego fácil](/images/mousse-de-pessego-facil__041d70f6_01.png)
+![Mousse de pêssego fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-pessego-facil__041d70f6_01.webp)
 
 ## 📝 Informações da Receita
 

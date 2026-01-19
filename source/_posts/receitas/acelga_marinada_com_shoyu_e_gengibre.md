@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Acelga marinada com shoyu e gengibre](/images/acelga_marinada_com_shoyu_e_gengibre.jpg)
+![Acelga marinada com shoyu e gengibre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/acelga_marinada_com_shoyu_e_gengibre.jpg)
 
 ## 📝 Informações da Receita
 

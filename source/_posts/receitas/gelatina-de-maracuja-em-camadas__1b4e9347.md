@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gelatina de maracujá em camadas](/images/gelatina-de-maracuja-em-camadas__1b4e9347_01.png)
+![Gelatina de maracujá em camadas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelatina-de-maracuja-em-camadas__1b4e9347_01.webp)
 
 ## 📝 Informações da Receita
 

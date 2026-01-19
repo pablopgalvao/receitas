@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rosbife com molho de figo e vinho com purê de batatas](/images/rosbife_com_molho_de_figo_e_vinho_com_pur_de_batatas.jpg)
+![Rosbife com molho de figo e vinho com purê de batatas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rosbife_com_molho_de_figo_e_vinho_com_pur_de_batatas.jpg)
 
 ## 📝 Informações da Receita
 

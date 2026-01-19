@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Poke](/images/poke__0e8e94f6_01.png)
+![Poke](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/poke__0e8e94f6_01.webp)
 
 ## 📝 Informações da Receita
 

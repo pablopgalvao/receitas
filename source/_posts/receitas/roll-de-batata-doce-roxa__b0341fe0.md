@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Roll de batata-doce roxa](/images/roll-de-batata-doce-roxa__b0341fe0_01.png)
+![Roll de batata-doce roxa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/roll-de-batata-doce-roxa__b0341fe0_01.webp)
 
 ## 📝 Informações da Receita
 

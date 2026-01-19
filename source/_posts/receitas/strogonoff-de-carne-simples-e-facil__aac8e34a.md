@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff de carne simples e fácil](/images/strogonoff-de-carne-simples-e-facil__aac8e34a_01.png)
+![Strogonoff de carne simples e fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-carne-simples-e-facil__aac8e34a_01.webp)
 
 ## 📝 Informações da Receita
 

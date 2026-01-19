@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Crostini de feijão-branco](/images/crostini_de_feij_o_branco.jpg)
+![Crostini de feijão-branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg)
 
 ## 📝 Informações da Receita
 

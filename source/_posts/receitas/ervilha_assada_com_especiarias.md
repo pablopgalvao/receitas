@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ervilha assada com especiarias](/images/ervilha_assada_com_especiarias.jpg)
+![Ervilha assada com especiarias](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ervilha_assada_com_especiarias.jpg)
 
 ## 📝 Informações da Receita
 

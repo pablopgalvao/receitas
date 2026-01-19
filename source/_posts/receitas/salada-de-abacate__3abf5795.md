@@ -21,7 +21,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de abacate](/images/salada-de-abacate__3abf5795_01.png)
+![Salada de abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp)
 
 ## 📝 Informações da Receita
 

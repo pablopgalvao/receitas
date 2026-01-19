@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abóbora refogada com sálvia](/images/ab_bora_refogada_com_s_lvia.jpg)
+![Abóbora refogada com sálvia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ab_bora_refogada_com_s_lvia.jpg)
 
 ## 📝 Informações da Receita
 

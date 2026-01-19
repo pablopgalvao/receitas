@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de caneca de maçã e amendoim (de micro-ondas)](/images/bolo-de-caneca-de-maca-amendoim-micro-ondas__233308c7_01.webp)
+![Bolo de caneca de maçã e amendoim (de micro-ondas)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-caneca-de-maca-amendoim-micro-ondas__233308c7_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pernil suíno na air fryer](/images/pernil-suino-na-air-fryer__e8c9155c_01.png)
+![Pernil suíno na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pernil-suino-na-air-fryer__e8c9155c_01.webp)
 
 ## 📝 Informações da Receita
 

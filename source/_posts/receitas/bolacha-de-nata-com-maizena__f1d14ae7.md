@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolacha de nata com Maizena](/images/bolacha-de-nata-com-maizena__f1d14ae7_01.png)
+![Bolacha de nata com Maizena](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolacha-de-nata-com-maizena__f1d14ae7_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Drinque de sidra com ameixa](/images/drinque-de-sidra-com-ameixa__e479bcbe_01.webp)
+![Drinque de sidra com ameixa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/drinque-de-sidra-com-ameixa__e479bcbe_01.webp)
 
 ## 📝 Informações da Receita
 

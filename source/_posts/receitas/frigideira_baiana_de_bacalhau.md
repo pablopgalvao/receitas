@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frigideira baiana de bacalhau](/images/frigideira_baiana_de_bacalhau.jpg)
+![Frigideira baiana de bacalhau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frigideira_baiana_de_bacalhau.jpg)
 
 ## 📝 Informações da Receita
 

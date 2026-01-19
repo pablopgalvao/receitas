@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne assada](/images/carne-assada__f1bdde85_01.png)
+![Carne assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-assada__f1bdde85_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de batata-doce fácil](/images/nhoque-de-batata-doce-facil__b141c31c_01.png)
+![Nhoque de batata-doce fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-batata-doce-facil__b141c31c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fondue de queijo e abóbora](/images/fondue-de-queijo-e-abobora__4b83586c_01.png)
+![Fondue de queijo e abóbora](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-e-abobora__4b83586c_01.webp)
 
 ## 📝 Informações da Receita
 

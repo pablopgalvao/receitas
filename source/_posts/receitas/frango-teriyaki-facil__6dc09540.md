@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango teriyaki fácil](/images/frango-teriyaki-facil__6dc09540_01.png)
+![Frango teriyaki fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-teriyaki-facil__6dc09540_01.webp)
 
 ## 📝 Informações da Receita
 

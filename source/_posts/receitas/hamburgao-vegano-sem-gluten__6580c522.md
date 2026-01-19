@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hamburgão vegano sem glúten](/images/hamburgao-vegano-sem-gluten__6580c522_01.png)
+![Hamburgão vegano sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburgao-vegano-sem-gluten__6580c522_01.webp)
 
 ## 📝 Informações da Receita
 

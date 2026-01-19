@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empadão de carne moída](/images/empadao-de-carne-moida__38afc37b_01.png)
+![Empadão de carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadao-de-carne-moida__38afc37b_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de milho na airfryer](/images/bolo-de-milho-na-airfryer__03b6acbe_01.png)
+![Bolo de milho na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-na-airfryer__03b6acbe_01.webp)
 
 ## 📝 Informações da Receita
 

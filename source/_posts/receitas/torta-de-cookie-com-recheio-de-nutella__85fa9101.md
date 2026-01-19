@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de cookie com recheio de Nutella](/images/torta-de-cookie-com-recheio-de-nutella__85fa9101_01.png)
+![Torta de cookie com recheio de Nutella](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-cookie-com-recheio-de-nutella__85fa9101_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Medalhão de frango com bacon simples](/images/medalhao-de-frango-com-bacon-simples__7d279f68_01.png)
+![Medalhão de frango com bacon simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/medalhao-de-frango-com-bacon-simples__7d279f68_01.webp)
 
 ## 📝 Informações da Receita
 

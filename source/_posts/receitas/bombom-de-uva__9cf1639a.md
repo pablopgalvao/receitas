@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bombom de uva](/images/bombom-de-uva__9cf1639a_01.png)
+![Bombom de uva](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bombom-de-uva__9cf1639a_01.webp)
 
 ## 📝 Informações da Receita
 

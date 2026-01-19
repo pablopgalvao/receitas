@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mingau de arroz fit](/images/mingau-de-arroz-fit__e7db199a_01.png)
+![Mingau de arroz fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mingau-de-arroz-fit__e7db199a_01.webp)
 
 ## 📝 Informações da Receita
 

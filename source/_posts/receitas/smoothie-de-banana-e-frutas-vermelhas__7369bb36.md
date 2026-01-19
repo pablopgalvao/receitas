@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Smoothie de banana e frutas vermelhas](/images/smoothie-de-banana-e-frutas-vermelhas__7369bb36_01.png)
+![Smoothie de banana e frutas vermelhas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/smoothie-de-banana-e-frutas-vermelhas__7369bb36_01.webp)
 
 ## 📝 Informações da Receita
 

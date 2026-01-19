@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de soja de panela](/images/carne-de-soja-de-panela__a475151a_01.png)
+![Carne de soja de panela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-soja-de-panela__a475151a_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chuchu refogado com orégano](/images/chuchu_refogado_com_or_gano.jpg)
+![Chuchu refogado com orégano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chuchu_refogado_com_or_gano.jpg)
 
 ## 📝 Informações da Receita
 

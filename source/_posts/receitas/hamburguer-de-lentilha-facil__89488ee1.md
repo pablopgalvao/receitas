@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer de lentilha fácil](/images/hamburguer-de-lentilha-facil__89488ee1_01.png)
+![Hambúrguer de lentilha fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburguer-de-lentilha-facil__89488ee1_01.webp)
 
 ## 📝 Informações da Receita
 

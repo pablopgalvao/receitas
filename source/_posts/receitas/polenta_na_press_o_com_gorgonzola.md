@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polenta na pressão com gorgonzola](/images/polenta_na_press_o_com_gorgonzola.jpg)
+![Polenta na pressão com gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/polenta_na_press_o_com_gorgonzola.jpg)
 
 ## 📝 Informações da Receita
 

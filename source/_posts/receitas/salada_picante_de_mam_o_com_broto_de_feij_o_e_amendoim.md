@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada picante de mamão com broto de feijão e amendoim](/images/salada_picante_de_mam_o_com_broto_de_feij_o_e_amendoim.jpg)
+![Salada picante de mamão com broto de feijão e amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_picante_de_mam_o_com_broto_de_feij_o_e_amendoim.jpg)
 
 ## 📝 Informações da Receita
 

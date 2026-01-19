@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Paçoca de carne com vinagrete de banana (reaproveitamento)](/images/pa_oca_de_carne_com_vinagrete_de_banana_reaproveitamento.jpg)
+![Paçoca de carne com vinagrete de banana (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_com_vinagrete_de_banana_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

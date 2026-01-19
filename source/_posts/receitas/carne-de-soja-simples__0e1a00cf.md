@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de soja simples](/images/carne-de-soja-simples__0e1a00cf_01.png)
+![Carne de soja simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-soja-simples__0e1a00cf_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de beterraba com sardinha](/images/pat_de_beterraba_com_sardinha.jpg)
+![Patê de beterraba com sardinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pat_de_beterraba_com_sardinha.jpg)
 
 ## 📝 Informações da Receita
 

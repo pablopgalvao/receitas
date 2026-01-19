@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de cenoura com chocolate fácil](/images/bolo-de-cenoura-com-chocolate-facil__4ed723f2_01.png)
+![Bolo de cenoura com chocolate fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-com-chocolate-facil__4ed723f2_01.webp)
 
 ## 📝 Informações da Receita
 

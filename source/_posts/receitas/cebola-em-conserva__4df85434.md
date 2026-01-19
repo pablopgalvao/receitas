@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cebola em conserva](/images/cebola-em-conserva__4df85434_01.png)
+![Cebola em conserva](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cebola-em-conserva__4df85434_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tilápia assada com creme de cebola](/images/tilapia-assada-com-creme-de-cebola__43afee3c_01.png)
+![Tilápia assada com creme de cebola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tilapia-assada-com-creme-de-cebola__43afee3c_01.webp)
 
 ## 📝 Informações da Receita
 

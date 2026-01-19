@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer de frango](/images/hamburguer-de-frango__7cbbb4f0_01.png)
+![Hambúrguer de frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburguer-de-frango__7cbbb4f0_01.webp)
 
 ## 📝 Informações da Receita
 

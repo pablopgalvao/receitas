@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de agrião](/images/farofa_de_agri_o.jpg)
+![Farofa de agrião](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_agri_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bisteca na air fryer](/images/bisteca-na-air-fryer__3adb45eb_01.png)
+![Bisteca na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-na-air-fryer__3adb45eb_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rabanete assado com molho de balsâmico e mel](/images/rabanete_assado_com_molho_de_bals_mico_e_mel.jpg)
+![Rabanete assado com molho de balsâmico e mel](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rabanete_assado_com_molho_de_bals_mico_e_mel.jpg)
 
 ## 📝 Informações da Receita
 

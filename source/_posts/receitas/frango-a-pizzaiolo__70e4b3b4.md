@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango à pizzaiolo](/images/frango-a-pizzaiolo__70e4b3b4_01.png)
+![Frango à pizzaiolo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-pizzaiolo__70e4b3b4_01.webp)
 
 ## 📝 Informações da Receita
 

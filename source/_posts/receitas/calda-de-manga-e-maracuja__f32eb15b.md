@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Calda de manga e maracujá](/images/calda-de-manga-e-maracuja__f32eb15b_01.webp)
+![Calda de manga e maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/calda-de-manga-e-maracuja__f32eb15b_01.webp)
 
 ## 📝 Informações da Receita
 

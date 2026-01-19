@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costelinha de porco na air fryer](/images/costelinha-de-porco-na-air-fryer__2e08e8a4_01.png)
+![Costelinha de porco na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/costelinha-de-porco-na-air-fryer__2e08e8a4_01.webp)
 
 ## 📝 Informações da Receita
 

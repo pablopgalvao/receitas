@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de chocolate e maracujá](/images/mousse-de-chocolate-e-maracuja__51300bee_01.png)
+![Mousse de chocolate e maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-chocolate-e-maracuja__51300bee_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Maçã assada com sorvete na air fryer](/images/maca-assada-com-sorvete-na-air-fryer__f9068226_01.png)
+![Maçã assada com sorvete na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/maca-assada-com-sorvete-na-air-fryer__f9068226_01.webp)
 
 ## 📝 Informações da Receita
 

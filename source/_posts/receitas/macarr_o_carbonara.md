@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão à carbonara](/images/macarr_o_carbonara.jpg)
+![Macarrão à carbonara](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_carbonara.jpg)
 
 ## 📝 Informações da Receita
 

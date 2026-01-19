@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abacate com limão e açúcar](/images/abacate_com_lim_o_e_a_car.jpg)
+![Abacate com limão e açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/abacate_com_lim_o_e_a_car.jpg)
 
 ## 📝 Informações da Receita
 

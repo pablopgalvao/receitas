@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa de panqueca com farinha de arroz](/images/massa-de-panqueca-com-farinha-de-arroz__702f6be9_01.png)
+![Massa de panqueca com farinha de arroz](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/massa-de-panqueca-com-farinha-de-arroz__702f6be9_01.webp)
 
 ## 📝 Informações da Receita
 

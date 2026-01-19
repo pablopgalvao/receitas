@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado de mandioca com quiabo e couve](/images/ensopado_de_mandioca_com_quiabo_e_couve.jpg)
+![Ensopado de mandioca com quiabo e couve](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_de_mandioca_com_quiabo_e_couve.jpg)
 
 ## 📝 Informações da Receita
 

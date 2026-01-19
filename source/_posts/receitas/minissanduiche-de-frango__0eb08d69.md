@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Minissanduíche de frango](/images/minissanduiche-de-frango__0eb08d69_01.png)
+![Minissanduíche de frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/minissanduiche-de-frango__0eb08d69_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ajo blanco (Sopa fria de pão com amêndoas e alho)](/images/ajo_blanco_sopa_fria_de_p_o_com_am_ndoas_e_alho.jpg)
+![Ajo blanco (Sopa fria de pão com amêndoas e alho)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ajo_blanco_sopa_fria_de_p_o_com_am_ndoas_e_alho.jpg)
 
 ## 📝 Informações da Receita
 

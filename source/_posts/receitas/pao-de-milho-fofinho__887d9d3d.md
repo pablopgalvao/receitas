@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de milho fofinho](/images/pao-de-milho-fofinho__887d9d3d_01.png)
+![Pão de milho fofinho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-milho-fofinho__887d9d3d_01.webp)
 
 ## 📝 Informações da Receita
 

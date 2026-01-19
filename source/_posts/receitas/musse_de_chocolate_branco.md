@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Musse de chocolate branco](/images/musse_de_chocolate_branco.jpg)
+![Musse de chocolate branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/musse_de_chocolate_branco.jpg)
 
 ## 📝 Informações da Receita
 

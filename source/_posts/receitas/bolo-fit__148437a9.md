@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo fit](/images/bolo-fit__148437a9_01.png)
+![Bolo fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit__148437a9_01.webp)
 
 ## 📝 Informações da Receita
 

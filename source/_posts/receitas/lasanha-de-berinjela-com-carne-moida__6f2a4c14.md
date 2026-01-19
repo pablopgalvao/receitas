@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de berinjela com carne moída](/images/lasanha-de-berinjela-com-carne-moida__6f2a4c14_01.png)
+![Lasanha de berinjela com carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-de-berinjela-com-carne-moida__6f2a4c14_01.webp)
 
 ## 📝 Informações da Receita
 

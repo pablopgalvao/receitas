@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vinho verde gim spin](/images/vinho_verde_gim_spin.jpg)
+![Vinho verde gim spin](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinho_verde_gim_spin.jpg)
 
 ## 📝 Informações da Receita
 

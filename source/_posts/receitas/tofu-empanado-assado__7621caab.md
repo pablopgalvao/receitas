@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tofu empanado assado](/images/tofu-empanado-assado__7621caab_01.png)
+![Tofu empanado assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tofu-empanado-assado__7621caab_01.webp)
 
 ## 📝 Informações da Receita
 

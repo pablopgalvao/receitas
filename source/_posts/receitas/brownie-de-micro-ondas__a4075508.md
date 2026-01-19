@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brownie de micro-ondas](/images/brownie-de-micro-ondas__a4075508_01.png)
+![Brownie de micro-ondas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brownie-de-micro-ondas__a4075508_01.webp)
 
 ## 📝 Informações da Receita
 

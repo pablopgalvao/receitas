@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de espinafre com parmesão](/images/salada_de_espinafre_com_parmes_o.jpg)
+![Salada de espinafre com parmesão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_espinafre_com_parmes_o.jpg)
 
 ## 📝 Informações da Receita
 

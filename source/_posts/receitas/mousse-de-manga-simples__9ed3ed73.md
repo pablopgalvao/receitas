@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de manga simples](/images/mousse-de-manga-simples__9ed3ed73_01.png)
+![Mousse de manga simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-manga-simples__9ed3ed73_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de maçã fácil](/images/bolo-de-maca-facil__f3562fcc_01.png)
+![Bolo de maçã fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-maca-facil__f3562fcc_01.webp)
 
 ## 📝 Informações da Receita
 

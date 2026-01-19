@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de atum com requeijão](/images/pate-de-atum-com-requeijao__1c0a8163_01.png)
+![Patê de atum com requeijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-atum-com-requeijao__1c0a8163_01.webp)
 
 ## 📝 Informações da Receita
 

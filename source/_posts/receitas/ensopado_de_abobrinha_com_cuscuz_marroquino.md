@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado de abobrinha com cuscuz marroquino](/images/ensopado_de_abobrinha_com_cuscuz_marroquino.jpg)
+![Ensopado de abobrinha com cuscuz marroquino](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_de_abobrinha_com_cuscuz_marroquino.jpg)
 
 ## 📝 Informações da Receita
 

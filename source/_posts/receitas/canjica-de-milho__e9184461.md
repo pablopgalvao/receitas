@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canjica de milho](/images/canjica-de-milho__e9184461_01.png)
+![Canjica de milho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/canjica-de-milho__e9184461_01.webp)
 
 ## 📝 Informações da Receita
 

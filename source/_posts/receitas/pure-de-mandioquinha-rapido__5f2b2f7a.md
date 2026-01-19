@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Purê de mandioquinha rápido](/images/pure-de-mandioquinha-rapido__5f2b2f7a_01.png)
+![Purê de mandioquinha rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-mandioquinha-rapido__5f2b2f7a_01.webp)
 
 ## 📝 Informações da Receita
 

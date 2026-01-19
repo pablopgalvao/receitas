@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rolinho de acelga e carne e molho de amendoim](/images/rolinho_de_acelga_e_carne_e_molho_de_amendoim.jpg)
+![Rolinho de acelga e carne e molho de amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rolinho_de_acelga_e_carne_e_molho_de_amendoim.jpg)
 
 ## 📝 Informações da Receita
 

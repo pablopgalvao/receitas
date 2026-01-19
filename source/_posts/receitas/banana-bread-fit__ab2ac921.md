@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Banana bread fit](/images/banana-bread-fit__ab2ac921_01.png)
+![Banana bread fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-bread-fit__ab2ac921_01.webp)
 
 ## 📝 Informações da Receita
 

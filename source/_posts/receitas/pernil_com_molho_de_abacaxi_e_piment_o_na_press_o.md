@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pernil com molho de abacaxi e pimentão na pressão](/images/pernil_com_molho_de_abacaxi_e_piment_o_na_press_o.jpg)
+![Pernil com molho de abacaxi e pimentão na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pernil_com_molho_de_abacaxi_e_piment_o_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

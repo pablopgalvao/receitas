@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro de limão simples](/images/brigadeiro-de-limao-simples__5c111e7f_01.png)
+![Brigadeiro de limão simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-limao-simples__5c111e7f_01.webp)
 
 ## 📝 Informações da Receita
 

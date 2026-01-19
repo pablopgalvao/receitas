@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de alho](/images/pao-de-alho__92dd42c8_01.png)
+![Pão de alho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-alho__92dd42c8_01.webp)
 
 ## 📝 Informações da Receita
 

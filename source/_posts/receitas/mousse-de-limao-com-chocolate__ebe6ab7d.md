@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de limão com chocolate](/images/mousse-de-limao-com-chocolate__ebe6ab7d_01.png)
+![Mousse de limão com chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-com-chocolate__ebe6ab7d_01.webp)
 
 ## 📝 Informações da Receita
 

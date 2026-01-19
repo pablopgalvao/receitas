@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Purê de couve-flor com gengibre](/images/pur_de_couve_flor_com_gengibre.jpg)
+![Purê de couve-flor com gengibre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pur_de_couve_flor_com_gengibre.jpg)
 
 ## 📝 Informações da Receita
 

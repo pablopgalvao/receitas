@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bombom de uva na travessa](/images/bombom-de-uva-na-travessa__52ac5199_01.png)
+![Bombom de uva na travessa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bombom-de-uva-na-travessa__52ac5199_01.webp)
 
 ## 📝 Informações da Receita
 

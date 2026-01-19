@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com carne moída](/images/macarrao-com-carne-moida__b13eaf3c_01.png)
+![Macarrão com carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-carne-moida__b13eaf3c_01.webp)
 
 ## 📝 Informações da Receita
 

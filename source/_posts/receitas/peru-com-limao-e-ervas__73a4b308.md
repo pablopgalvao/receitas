@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peru com limão e ervas](/images/peru-com-limao-e-ervas__73a4b308_01.webp)
+![Peru com limão e ervas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peru-com-limao-e-ervas__73a4b308_01.webp)
 
 ## 📝 Informações da Receita
 

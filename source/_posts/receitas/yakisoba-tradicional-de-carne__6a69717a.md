@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Yakisoba tradicional de carne](/images/yakisoba-tradicional-de-carne__6a69717a_01.png)
+![Yakisoba tradicional de carne](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/yakisoba-tradicional-de-carne__6a69717a_01.webp)
 
 ## 📝 Informações da Receita
 

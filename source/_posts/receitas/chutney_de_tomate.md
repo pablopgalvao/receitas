@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chutney de tomate](/images/chutney_de_tomate.jpg)
+![Chutney de tomate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chutney_de_tomate.jpg)
 
 ## 📝 Informações da Receita
 

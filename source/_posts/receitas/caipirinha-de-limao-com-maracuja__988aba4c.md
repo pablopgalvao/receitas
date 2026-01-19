@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caipirinha de limão com maracujá](/images/caipirinha-de-limao-com-maracuja__988aba4c_01.png)
+![Caipirinha de limão com maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caipirinha-de-limao-com-maracuja__988aba4c_01.webp)
 
 ## 📝 Informações da Receita
 

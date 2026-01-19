@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de flocão com queijo](/images/bolo-de-flocao-com-queijo__9804ac9c_01.png)
+![Bolo de flocão com queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-flocao-com-queijo__9804ac9c_01.webp)
 
 ## 📝 Informações da Receita
 

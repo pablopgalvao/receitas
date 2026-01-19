@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango assado na cebola](/images/frango-assado-na-cebola__0c2d2b7b_01.png)
+![Frango assado na cebola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-assado-na-cebola__0c2d2b7b_01.webp)
 
 ## 📝 Informações da Receita
 

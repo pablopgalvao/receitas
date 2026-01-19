@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rabanada recheada com Nutella](/images/rabanada_recheada_com_nutella.jpg)
+![Rabanada recheada com Nutella](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rabanada_recheada_com_nutella.jpg)
 
 ## 📝 Informações da Receita
 

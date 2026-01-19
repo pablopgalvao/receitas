@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Conserva de limão-siciliano](/images/conserva_de_lim_o_siciliano.jpg)
+![Conserva de limão-siciliano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/conserva_de_lim_o_siciliano.jpg)
 
 ## 📝 Informações da Receita
 

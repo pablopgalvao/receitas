@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada tropical com molho de laranja](/images/salada-tropical-com-molho-de-laranja__85c9f588_01.png)
+![Salada tropical com molho de laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-tropical-com-molho-de-laranja__85c9f588_01.webp)
 
 ## 📝 Informações da Receita
 

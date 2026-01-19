@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de macarrão com presunto](/images/salada-de-macarrao-com-presunto__46a82d65_01.png)
+![Salada de macarrão com presunto](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-presunto__46a82d65_01.webp)
 
 ## 📝 Informações da Receita
 

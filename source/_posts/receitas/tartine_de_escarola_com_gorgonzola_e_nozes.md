@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tartine de escarola com gorgonzola e nozes](/images/tartine_de_escarola_com_gorgonzola_e_nozes.jpg)
+![Tartine de escarola com gorgonzola e nozes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tartine_de_escarola_com_gorgonzola_e_nozes.jpg)
 
 ## 📝 Informações da Receita
 

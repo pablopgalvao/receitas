@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado rápido de filé mignon suíno e couve](/images/ensopado_r_pido_de_fil_mignon_su_no_e_couve.jpg)
+![Ensopado rápido de filé mignon suíno e couve](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_r_pido_de_fil_mignon_su_no_e_couve.jpg)
 
 ## 📝 Informações da Receita
 

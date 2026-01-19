@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de grão-de-bico crocante](/images/salada-de-grao-de-bico-crocante__d46ab66e_01.png)
+![Salada de grão-de-bico crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-grao-de-bico-crocante__d46ab66e_01.webp)
 
 ## 📝 Informações da Receita
 

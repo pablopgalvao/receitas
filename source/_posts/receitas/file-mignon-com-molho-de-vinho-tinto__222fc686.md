@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé mignon com molho de vinho tinto](/images/file-mignon-com-molho-de-vinho-tinto__222fc686_01.png)
+![Filé mignon com molho de vinho tinto](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-mignon-com-molho-de-vinho-tinto__222fc686_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de nozes sem glúten e sem lactose](/images/bolo-de-nozes-sem-gluten-e-sem-lactose__ededd792_01.png)
+![Bolo de nozes sem glúten e sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-nozes-sem-gluten-e-sem-lactose__ededd792_01.webp)
 
 ## 📝 Informações da Receita
 

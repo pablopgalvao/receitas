@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tabule árabe](/images/tabule-arabe__fb0bb7fe_01.png)
+![Tabule árabe](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tabule-arabe__fb0bb7fe_01.webp)
 
 ## 📝 Informações da Receita
 

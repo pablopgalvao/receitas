@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frigideira de palmito](/images/frigideira_de_palmito.jpg)
+![Frigideira de palmito](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frigideira_de_palmito.jpg)
 
 ## 📝 Informações da Receita
 

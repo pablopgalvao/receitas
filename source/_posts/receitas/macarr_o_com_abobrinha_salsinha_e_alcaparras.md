@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com abobrinha, salsinha e alcaparras](/images/macarr_o_com_abobrinha_salsinha_e_alcaparras.jpg)
+![Macarrão com abobrinha, salsinha e alcaparras](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_abobrinha_salsinha_e_alcaparras.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife de frango à rolê](/images/bife-de-frango-a-role__aed027ae_01.png)
+![Bife de frango à rolê](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-de-frango-a-role__aed027ae_01.webp)
 
 ## 📝 Informações da Receita
 

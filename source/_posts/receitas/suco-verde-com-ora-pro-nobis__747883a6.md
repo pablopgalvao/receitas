@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suco verde com ora-pro-nóbis](/images/suco-verde-com-ora-pro-nobis__747883a6_01.png)
+![Suco verde com ora-pro-nóbis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-verde-com-ora-pro-nobis__747883a6_01.webp)
 
 ## 📝 Informações da Receita
 

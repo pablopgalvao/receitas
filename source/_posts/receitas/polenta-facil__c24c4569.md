@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polenta fácil](/images/polenta-facil__c24c4569_01.png)
+![Polenta fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/polenta-facil__c24c4569_01.webp)
 
 ## 📝 Informações da Receita
 

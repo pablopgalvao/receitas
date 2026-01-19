@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha recheada na airfryer](/images/abobrinha-recheada-na-airfryer__d90e9443_01.png)
+![Abobrinha recheada na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-na-airfryer__d90e9443_01.webp)
 
 ## 📝 Informações da Receita
 

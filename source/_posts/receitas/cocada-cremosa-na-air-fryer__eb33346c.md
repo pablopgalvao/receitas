@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cocada cremosa na air fryer](/images/cocada-cremosa-na-air-fryer__eb33346c_01.png)
+![Cocada cremosa na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cocada-cremosa-na-air-fryer__eb33346c_01.webp)
 
 ## 📝 Informações da Receita
 

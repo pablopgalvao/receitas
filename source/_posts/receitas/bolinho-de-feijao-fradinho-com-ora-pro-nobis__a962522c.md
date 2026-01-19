@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de feijão fradinho com ora-pro-nóbis](/images/bolinho-de-feijao-fradinho-com-ora-pro-nobis__a962522c_01.png)
+![Bolinho de feijão fradinho com ora-pro-nóbis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-feijao-fradinho-com-ora-pro-nobis__a962522c_01.webp)
 
 ## 📝 Informações da Receita
 

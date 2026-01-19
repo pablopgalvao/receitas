@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de iogurte com goiabada](/images/sorvete_de_iogurte_com_goiabada.jpg)
+![Sorvete de iogurte com goiabada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sorvete_de_iogurte_com_goiabada.jpg)
 
 ## 📝 Informações da Receita
 

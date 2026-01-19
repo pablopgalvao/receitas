@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata rosti com queijo meia-cura para um](/images/batata_rosti_com_queijo_meia_cura_para_um.jpg)
+![Batata rosti com queijo meia-cura para um](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_rosti_com_queijo_meia_cura_para_um.jpg)
 
 ## 📝 Informações da Receita
 

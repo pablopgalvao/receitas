@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rosca de coco sem glúten e sem lactose](/images/rosca-de-coco-sem-gluten-e-sem-lactose__6ca57adc_01.png)
+![Rosca de coco sem glúten e sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rosca-de-coco-sem-gluten-e-sem-lactose__6ca57adc_01.webp)
 
 ## 📝 Informações da Receita
 

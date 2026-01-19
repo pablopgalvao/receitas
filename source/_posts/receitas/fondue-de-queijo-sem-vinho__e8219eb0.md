@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fondue de queijo sem vinho](/images/fondue-de-queijo-sem-vinho__e8219eb0_01.png)
+![Fondue de queijo sem vinho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-sem-vinho__e8219eb0_01.webp)
 
 ## 📝 Informações da Receita
 

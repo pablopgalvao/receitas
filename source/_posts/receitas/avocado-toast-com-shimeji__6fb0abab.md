@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Avocado toast com shimeji](/images/avocado-toast-com-shimeji__6fb0abab_01.png)
+![Avocado toast com shimeji](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/avocado-toast-com-shimeji__6fb0abab_01.webp)
 
 ## 📝 Informações da Receita
 

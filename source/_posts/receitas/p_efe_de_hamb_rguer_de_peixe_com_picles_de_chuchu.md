@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de hambúrguer de peixe com picles de chuchu](/images/p_efe_de_hamb_rguer_de_peixe_com_picles_de_chuchu.jpg)
+![Pê-efe de hambúrguer de peixe com picles de chuchu](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_hamb_rguer_de_peixe_com_picles_de_chuchu.jpg)
 
 ## 📝 Informações da Receita
 

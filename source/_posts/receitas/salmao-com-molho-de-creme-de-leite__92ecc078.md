@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão com molho de creme de leite](/images/salmao-com-molho-de-creme-de-leite__92ecc078_01.png)
+![Salmão com molho de creme de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-com-molho-de-creme-de-leite__92ecc078_01.webp)
 
 ## 📝 Informações da Receita
 

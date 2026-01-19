@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Repolho grelhado com bacon para um](/images/repolho_grelhado_com_bacon_para_um.jpg)
+![Repolho grelhado com bacon para um](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_grelhado_com_bacon_para_um.jpg)
 
 ## 📝 Informações da Receita
 

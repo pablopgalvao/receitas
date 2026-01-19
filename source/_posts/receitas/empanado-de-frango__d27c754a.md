@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empanado de frango](/images/empanado-de-frango__d27c754a_01.png)
+![Empanado de frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empanado-de-frango__d27c754a_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de mandioca cremoso](/images/bolo-de-mandioca-cremoso__8be549a6_01.png)
+![Bolo de mandioca cremoso](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-mandioca-cremoso__8be549a6_01.webp)
 
 ## 📝 Informações da Receita
 

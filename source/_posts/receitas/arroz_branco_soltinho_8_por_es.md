@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz branco soltinho (8 porções)](/images/arroz_branco_soltinho_8_por_es.jpg)
+![Arroz branco soltinho (8 porções)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_branco_soltinho_8_por_es.jpg)
 
 ## 📝 Informações da Receita
 

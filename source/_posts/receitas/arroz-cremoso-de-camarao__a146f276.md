@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz cremoso de camarão](/images/arroz-cremoso-de-camarao__a146f276_01.png)
+![Arroz cremoso de camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-cremoso-de-camarao__a146f276_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ceviche de manga com gengibre](/images/ceviche-de-manga-com-gengibre__0ac5e1ff_01.png)
+![Ceviche de manga com gengibre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-manga-com-gengibre__0ac5e1ff_01.webp)
 
 ## 📝 Informações da Receita
 

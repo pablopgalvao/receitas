@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chantilly de chocolate vegano](/images/chantilly-de-chocolate-vegano__6266eb69_01.png)
+![Chantilly de chocolate vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chantilly-de-chocolate-vegano__6266eb69_01.webp)
 
 ## 📝 Informações da Receita
 

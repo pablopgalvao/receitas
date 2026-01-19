@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sanduíches de isca de peixe com pão de batata-doce](/images/sandu_ches_de_isca_de_peixe_com_p_o_de_batata_doce.jpg)
+![Sanduíches de isca de peixe com pão de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sandu_ches_de_isca_de_peixe_com_p_o_de_batata_doce.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de pão amanhecido fácil](/images/torta-de-pao-amanhecido-facil__01c5bcd7_01.png)
+![Torta de pão amanhecido fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-pao-amanhecido-facil__01c5bcd7_01.webp)
 
 ## 📝 Informações da Receita
 

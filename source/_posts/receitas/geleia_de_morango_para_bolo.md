@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Geleia de morango para bolo](/images/geleia_de_morango_para_bolo.jpg)
+![Geleia de morango para bolo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/geleia_de_morango_para_bolo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de batata gratinado com burrata](/images/nhoque_de_batata_gratinado_com_burrata.jpg)
+![Nhoque de batata gratinado com burrata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_batata_gratinado_com_burrata.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vatapá simples e fácil](/images/vatapa-simples-e-facil__69906d86_01.png)
+![Vatapá simples e fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vatapa-simples-e-facil__69906d86_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de arroz simples na air fryer](/images/bolinho-de-arroz-simples-na-airfryer__4b29b596_01.png)
+![Bolinho de arroz simples na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-arroz-simples-na-airfryer__4b29b596_01.webp)
 
 ## 📝 Informações da Receita
 

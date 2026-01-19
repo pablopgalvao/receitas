@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa de crepe de frigideira fácil](/images/massa-de-crepe-de-frigideira-facil__c59e8081_01.png)
+![Massa de crepe de frigideira fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/massa-de-crepe-de-frigideira-facil__c59e8081_01.webp)
 
 ## 📝 Informações da Receita
 

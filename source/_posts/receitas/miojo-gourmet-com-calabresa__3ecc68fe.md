@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Miojo gourmet com calabresa](/images/miojo-gourmet-com-calabresa__3ecc68fe_01.png)
+![Miojo gourmet com calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/miojo-gourmet-com-calabresa__3ecc68fe_01.webp)
 
 ## 📝 Informações da Receita
 

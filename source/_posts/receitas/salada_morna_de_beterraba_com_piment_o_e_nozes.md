@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada morna de beterraba com pimentão e nozes](/images/salada_morna_de_beterraba_com_piment_o_e_nozes.jpg)
+![Salada morna de beterraba com pimentão e nozes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_morna_de_beterraba_com_piment_o_e_nozes.jpg)
 
 ## 📝 Informações da Receita
 

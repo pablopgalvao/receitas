@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fraldinha assada na cerveja](/images/fraldinha_assada_na_cerveja.jpg)
+![Fraldinha assada na cerveja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/fraldinha_assada_na_cerveja.jpg)
 
 ## 📝 Informações da Receita
 

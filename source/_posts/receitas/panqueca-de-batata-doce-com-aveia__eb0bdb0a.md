@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca de batata-doce com aveia](/images/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.png)
+![Panqueca de batata-doce com aveia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.webp)
 
 ## 📝 Informações da Receita
 

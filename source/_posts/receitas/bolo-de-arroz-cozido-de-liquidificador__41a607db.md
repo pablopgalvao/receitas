@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de arroz cozido de liquidificador](/images/bolo-de-arroz-cozido-de-liquidificador__41a607db_01.png)
+![Bolo de arroz cozido de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-arroz-cozido-de-liquidificador__41a607db_01.webp)
 
 ## 📝 Informações da Receita
 

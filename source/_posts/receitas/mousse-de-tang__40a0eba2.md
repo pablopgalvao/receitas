@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de Tang](/images/mousse-de-tang__40a0eba2_01.png)
+![Mousse de Tang](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-tang__40a0eba2_01.webp)
 
 ## 📝 Informações da Receita
 

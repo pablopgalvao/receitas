@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de banana com couve rústica e farofinha de bacon](/images/nhoque_de_banana_com_couve_r_stica_e_farofinha_de_bacon.jpg)
+![Nhoque de banana com couve rústica e farofinha de bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_banana_com_couve_r_stica_e_farofinha_de_bacon.jpg)
 
 ## 📝 Informações da Receita
 

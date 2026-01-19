@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Waffle de tapioca crocante](/images/waffle-de-tapioca-crocante__a16d66f3_01.png)
+![Waffle de tapioca crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/waffle-de-tapioca-crocante__a16d66f3_01.webp)
 
 ## 📝 Informações da Receita
 

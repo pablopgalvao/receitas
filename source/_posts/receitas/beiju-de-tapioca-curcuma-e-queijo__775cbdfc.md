@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Beiju de tapioca com cúrcuma e queijo](/images/beiju-de-tapioca-curcuma-e-queijo__775cbdfc_01.webp)
+![Beiju de tapioca com cúrcuma e queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/beiju-de-tapioca-curcuma-e-queijo__775cbdfc_01.webp)
 
 ## 📝 Informações da Receita
 

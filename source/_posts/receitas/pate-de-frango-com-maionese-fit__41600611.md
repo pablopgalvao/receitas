@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de frango com maionese fit](/images/pate-de-frango-com-maionese-fit__41600611_01.png)
+![Patê de frango com maionese fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-frango-com-maionese-fit__41600611_01.webp)
 
 ## 📝 Informações da Receita
 

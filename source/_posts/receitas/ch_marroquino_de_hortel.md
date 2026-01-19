@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chá marroquino de hortelã](/images/ch_marroquino_de_hortel.jpg)
+![Chá marroquino de hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ch_marroquino_de_hortel.jpg)
 
 ## 📝 Informações da Receita
 

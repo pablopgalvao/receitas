@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Homus de beterraba](/images/homus_de_beterraba.jpg)
+![Homus de beterraba](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/homus_de_beterraba.jpg)
 
 ## 📝 Informações da Receita
 

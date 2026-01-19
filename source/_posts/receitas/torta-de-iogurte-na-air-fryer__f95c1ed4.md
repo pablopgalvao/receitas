@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - raspas
     - frutas
 difficulty: ''
@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de iogurte na Air Fryer da Rita Lobo](/images/torta-de-iogurte-na-air-fryer__f95c1ed4_01.webp)
+![Torta de iogurte na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-iogurte-na-air-fryer__f95c1ed4_01.webp)
 
 ## 📝 Informações da Receita
 

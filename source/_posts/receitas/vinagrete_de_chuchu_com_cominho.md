@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vinagrete de chuchu com cominho](/images/vinagrete_de_chuchu_com_cominho.jpg)
+![Vinagrete de chuchu com cominho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinagrete_de_chuchu_com_cominho.jpg)
 
 ## 📝 Informações da Receita
 

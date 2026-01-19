@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado de grão-de-bico com cenoura e especiarias](/images/ensopado_de_gr_o_de_bico_com_cenoura_e_especiarias.jpg)
+![Ensopado de grão-de-bico com cenoura e especiarias](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_de_gr_o_de_bico_com_cenoura_e_especiarias.jpg)
 
 ## 📝 Informações da Receita
 

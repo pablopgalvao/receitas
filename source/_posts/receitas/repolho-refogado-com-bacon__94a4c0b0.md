@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Repolho refogado com bacon](/images/repolho-refogado-com-bacon__94a4c0b0_01.png)
+![Repolho refogado com bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/repolho-refogado-com-bacon__94a4c0b0_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ovo frito](/images/ovo-frito__2a858978_01.png)
+![Ovo frito](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-frito__2a858978_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Omelete suflê com molho de queijo e tomate grelhado](/images/omelete_sufl_com_molho_de_queijo_e_tomate_grelhado.jpg)
+![Omelete suflê com molho de queijo e tomate grelhado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/omelete_sufl_com_molho_de_queijo_e_tomate_grelhado.jpg)
 
 ## 📝 Informações da Receita
 

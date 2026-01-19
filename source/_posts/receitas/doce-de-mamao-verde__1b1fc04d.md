@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Doce de mamão verde](/images/doce-de-mamao-verde__1b1fc04d_01.png)
+![Doce de mamão verde](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-mamao-verde__1b1fc04d_01.webp)
 
 ## 📝 Informações da Receita
 

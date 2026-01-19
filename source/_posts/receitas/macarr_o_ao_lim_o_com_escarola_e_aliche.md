@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão ao limão com escarola e aliche](/images/macarr_o_ao_lim_o_com_escarola_e_aliche.jpg)
+![Macarrão ao limão com escarola e aliche](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_ao_lim_o_com_escarola_e_aliche.jpg)
 
 ## 📝 Informações da Receita
 

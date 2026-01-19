@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Seitan](/images/seitan__1fa92618_01.png)
+![Seitan](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/seitan__1fa92618_01.webp)
 
 ## 📝 Informações da Receita
 

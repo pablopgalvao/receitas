@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de arroz](/images/nhoque-de-arroz__4907317f_01.png)
+![Nhoque de arroz](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-arroz__4907317f_01.webp)
 
 ## 📝 Informações da Receita
 

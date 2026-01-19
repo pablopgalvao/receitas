@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Beijinho de coco low carb](/images/beijinho-de-coco-low-carb__e4a390bd_01.png)
+![Beijinho de coco low carb](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/beijinho-de-coco-low-carb__e4a390bd_01.webp)
 
 ## 📝 Informações da Receita
 

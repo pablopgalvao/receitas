@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de cenoura com vinagre balsâmico e castanha-de-caju](/images/salada_de_cenoura_com_vinagre_bals_mico_e_castanha_de_caju.jpg)
+![Salada de cenoura com vinagre balsâmico e castanha-de-caju](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_cenoura_com_vinagre_bals_mico_e_castanha_de_caju.jpg)
 
 ## 📝 Informações da Receita
 

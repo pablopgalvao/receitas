@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fritada de camarão com batata](/images/fritada-de-camarao-com-batata__fae3e8c9_01.png)
+![Fritada de camarão com batata](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-camarao-com-batata__fae3e8c9_01.webp)
 
 ## 📝 Informações da Receita
 

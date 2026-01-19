@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cebola caramelizada fácil e rápida](/images/cebola-caramelizada-facil-e-rapida__fb5c1f0f_01.png)
+![Cebola caramelizada fácil e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cebola-caramelizada-facil-e-rapida__fb5c1f0f_01.webp)
 
 ## 📝 Informações da Receita
 

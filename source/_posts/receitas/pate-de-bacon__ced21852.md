@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de bacon](/images/pate-de-bacon__ced21852_01.png)
+![Patê de bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-bacon__ced21852_01.webp)
 
 ## 📝 Informações da Receita
 

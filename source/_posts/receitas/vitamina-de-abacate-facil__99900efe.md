@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vitamina de abacate fácil](/images/vitamina-de-abacate-facil__99900efe_01.png)
+![Vitamina de abacate fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vitamina-de-abacate-facil__99900efe_01.webp)
 
 ## 📝 Informações da Receita
 

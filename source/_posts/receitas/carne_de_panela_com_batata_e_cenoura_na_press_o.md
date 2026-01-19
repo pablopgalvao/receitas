@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de panela com batata e cenoura na pressão](/images/carne_de_panela_com_batata_e_cenoura_na_press_o.jpg)
+![Carne de panela com batata e cenoura na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_de_panela_com_batata_e_cenoura_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

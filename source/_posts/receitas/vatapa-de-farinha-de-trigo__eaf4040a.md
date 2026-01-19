@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vatapá de farinha de trigo](/images/vatapa-de-farinha-de-trigo__eaf4040a_01.png)
+![Vatapá de farinha de trigo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vatapa-de-farinha-de-trigo__eaf4040a_01.webp)
 
 ## 📝 Informações da Receita
 

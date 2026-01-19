@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com pesto de abacate](/images/macarrao-com-pesto-de-abacate__2bac37a0_01.png)
+![Macarrão com pesto de abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-pesto-de-abacate__2bac37a0_01.webp)
 
 ## 📝 Informações da Receita
 

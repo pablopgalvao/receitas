@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango assado com limão-siciliano e ervas](/images/frango_assado_com_lim_o_siciliano_e_ervas.jpg)
+![Frango assado com limão-siciliano e ervas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_assado_com_lim_o_siciliano_e_ervas.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panna cotta](/images/panna-cotta__78eeef97_01.png)
+![Panna cotta](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panna-cotta__78eeef97_01.webp)
 
 ## 📝 Informações da Receita
 

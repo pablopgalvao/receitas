@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de tahine com crocante de gergelim](/images/pudim_de_tahine_com_crocante_de_gergelim.jpg)
+![Pudim de tahine com crocante de gergelim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pudim_de_tahine_com_crocante_de_gergelim.jpg)
 
 ## 📝 Informações da Receita
 

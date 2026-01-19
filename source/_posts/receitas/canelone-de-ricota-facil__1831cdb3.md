@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canelone de ricota fácil](/images/canelone-de-ricota-facil__1831cdb3_01.png)
+![Canelone de ricota fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/canelone-de-ricota-facil__1831cdb3_01.webp)
 
 ## 📝 Informações da Receita
 

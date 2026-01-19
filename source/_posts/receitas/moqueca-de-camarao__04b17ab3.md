@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Moqueca de camarão](/images/moqueca-de-camarao__04b17ab3_01.png)
+![Moqueca de camarão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-de-camarao__04b17ab3_01.webp)
 
 ## 📝 Informações da Receita
 

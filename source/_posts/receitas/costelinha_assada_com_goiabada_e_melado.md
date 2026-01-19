@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costelinha assada com goiabada e melado](/images/costelinha_assada_com_goiabada_e_melado.jpg)
+![Costelinha assada com goiabada e melado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/costelinha_assada_com_goiabada_e_melado.jpg)
 
 ## 📝 Informações da Receita
 

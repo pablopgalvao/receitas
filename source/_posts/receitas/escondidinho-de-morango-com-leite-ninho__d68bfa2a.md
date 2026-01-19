@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de morango com leite Ninho](/images/escondidinho-de-morango-com-leite-ninho__d68bfa2a_01.png)
+![Escondidinho de morango com leite Ninho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-morango-com-leite-ninho__d68bfa2a_01.webp)
 
 ## 📝 Informações da Receita
 

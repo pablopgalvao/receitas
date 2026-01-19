@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha gratinada fácil](/images/abobrinha-gratinada-facil__03ed6915_01.png)
+![Abobrinha gratinada fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-gratinada-facil__03ed6915_01.webp)
 
 ## 📝 Informações da Receita
 

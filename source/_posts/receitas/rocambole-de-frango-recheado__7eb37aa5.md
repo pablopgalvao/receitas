@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rocambole de frango recheado](/images/rocambole-de-frango-recheado__7eb37aa5_01.png)
+![Rocambole de frango recheado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rocambole-de-frango-recheado__7eb37aa5_01.webp)
 
 ## 📝 Informações da Receita
 

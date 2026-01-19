@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz doce com chocolate fácil](/images/arroz-doce-com-chocolate-facil__09adf900_01.png)
+![Arroz doce com chocolate fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-com-chocolate-facil__09adf900_01.webp)
 
 ## 📝 Informações da Receita
 

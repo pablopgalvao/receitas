@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão à putanesca de sardinha assada (reaproveitamento)](/images/macarr_o_putanesca_de_sardinha_assada_reaproveitamento.jpg)
+![Macarrão à putanesca de sardinha assada (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_putanesca_de_sardinha_assada_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

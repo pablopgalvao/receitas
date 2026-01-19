@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cestinha de grão-de-bico](/images/cestinha-de-grao-de-bico__14384c78_01.png)
+![Cestinha de grão-de-bico](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cestinha-de-grao-de-bico__14384c78_01.webp)
 
 ## 📝 Informações da Receita
 

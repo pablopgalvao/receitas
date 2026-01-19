@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Clericot tropical](/images/clericot_tropical.jpg)
+![Clericot tropical](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/clericot_tropical.jpg)
 
 ## 📝 Informações da Receita
 

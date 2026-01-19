@@ -25,7 +25,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picanha com Farofa e Vinagrete](/images/picanha_perdig_o_na_brasa_com_farofa_e_vinagrete.jpg)
+![Picanha com Farofa e Vinagrete](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picanha_perdig_o_na_brasa_com_farofa_e_vinagrete.jpg)
 
 ## 📝 Informações da Receita
 

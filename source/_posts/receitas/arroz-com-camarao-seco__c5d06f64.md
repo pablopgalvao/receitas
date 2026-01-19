@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com camarão seco](/images/arroz-com-camarao-seco__c5d06f64_01.png)
+![Arroz com camarão seco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-camarao-seco__c5d06f64_01.webp)
 
 ## 📝 Informações da Receita
 

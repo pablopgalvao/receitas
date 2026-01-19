@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz carreteiro com carne seca](/images/arroz_carreteiro_com_carne_seca.jpg)
+![Arroz carreteiro com carne seca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_carreteiro_com_carne_seca.jpg)
 
 ## 📝 Informações da Receita
 

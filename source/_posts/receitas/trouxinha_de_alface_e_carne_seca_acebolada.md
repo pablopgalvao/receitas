@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Trouxinha de alface e carne-seca acebolada](/images/trouxinha_de_alface_e_carne_seca_acebolada.jpg)
+![Trouxinha de alface e carne-seca acebolada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/trouxinha_de_alface_e_carne_seca_acebolada.jpg)
 
 ## 📝 Informações da Receita
 

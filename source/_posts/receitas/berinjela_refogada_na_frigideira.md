@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Berinjela refogada na frigideira](/images/berinjela_refogada_na_frigideira.jpg)
+![Berinjela refogada na frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/berinjela_refogada_na_frigideira.jpg)
 
 ## 📝 Informações da Receita
 

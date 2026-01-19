@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata palha](/images/batata-palha__210c0ed3_01.png)
+![Batata palha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-palha__210c0ed3_01.webp)
 
 ## 📝 Informações da Receita
 

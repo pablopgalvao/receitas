@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pamonha fácil e rápida](/images/pamonha-facil-e-rapida__c283e53e_01.png)
+![Pamonha fácil e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pamonha-facil-e-rapida__c283e53e_01.webp)
 
 ## 📝 Informações da Receita
 

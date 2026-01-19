@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão vegano de frigideira](/images/pao-vegano-de-frigideira__7e7f36a2_01.png)
+![Pão vegano de frigideira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-vegano-de-frigideira__7e7f36a2_01.webp)
 
 ## 📝 Informações da Receita
 

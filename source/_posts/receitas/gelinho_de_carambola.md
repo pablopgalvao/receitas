@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gelinho de carambola](/images/gelinho_de_carambola.jpg)
+![Gelinho de carambola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de banana-da-terra com pesto de agrião](/images/nhoque_de_banana_da_terra_com_pesto_de_agri_o.jpg)
+![Nhoque de banana-da-terra com pesto de agrião](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_banana_da_terra_com_pesto_de_agri_o.jpg)
 
 ## 📝 Informações da Receita
 

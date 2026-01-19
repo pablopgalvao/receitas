@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz frito](/images/arroz_frito.jpg)
+![Arroz frito](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_frito.jpg)
 
 ## 📝 Informações da Receita
 

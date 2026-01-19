@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de batata alemã](/images/salada-de-batata-alema__9c1bfbe0_01.png)
+![Salada de batata alemã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-batata-alema__9c1bfbe0_01.webp)
 
 ## 📝 Informações da Receita
 

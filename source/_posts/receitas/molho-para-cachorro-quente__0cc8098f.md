@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho para cachorro-quente](/images/molho-para-cachorro-quente__0cc8098f_01.png)
+![Molho para cachorro-quente](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-para-cachorro-quente__0cc8098f_01.webp)
 
 ## 📝 Informações da Receita
 

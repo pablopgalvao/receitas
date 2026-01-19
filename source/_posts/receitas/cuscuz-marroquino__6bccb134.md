@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz marroquino](/images/cuscuz-marroquino__6bccb134_01.webp)
+![Cuscuz marroquino](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cuscuz-marroquino__6bccb134_01.webp)
 
 ## 📝 Informações da Receita
 

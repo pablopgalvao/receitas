@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cappuccino caseiro sem lactose](/images/cappuccino-caseiro-sem-lactose__93b2c83a_01.png)
+![Cappuccino caseiro sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cappuccino-caseiro-sem-lactose__93b2c83a_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão](/images/feijao__ae76ed10_01.png)
+![Feijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao__ae76ed10_01.webp)
 
 ## 📝 Informações da Receita
 

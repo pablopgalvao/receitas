@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxinha fit vegetariana](/images/coxinha-fit-vegetariana__203ed800_01.png)
+![Coxinha fit vegetariana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/coxinha-fit-vegetariana__203ed800_01.webp)
 
 ## 📝 Informações da Receita
 

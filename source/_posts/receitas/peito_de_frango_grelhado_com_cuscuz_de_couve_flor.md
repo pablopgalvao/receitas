@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peito de frango grelhado com cuscuz de couve-flor](/images/peito_de_frango_grelhado_com_cuscuz_de_couve_flor.jpg)
+![Peito de frango grelhado com cuscuz de couve-flor](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/peito_de_frango_grelhado_com_cuscuz_de_couve_flor.jpg)
 
 ## 📝 Informações da Receita
 

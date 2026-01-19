@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz cremoso com carne seca](/images/arroz-cremoso-com-carne-seca__0867426f_01.png)
+![Arroz cremoso com carne seca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-cremoso-com-carne-seca__0867426f_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ratatouille de forno simples](/images/ratatouille-de-forno-simples__b893657e_01.png)
+![Ratatouille de forno simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ratatouille-de-forno-simples__b893657e_01.webp)
 
 ## 📝 Informações da Receita
 

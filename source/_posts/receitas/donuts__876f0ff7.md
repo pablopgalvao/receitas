@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Donuts](/images/donuts__876f0ff7_01.png)
+![Donuts](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts__876f0ff7_01.webp)
 
 ## 📝 Informações da Receita
 

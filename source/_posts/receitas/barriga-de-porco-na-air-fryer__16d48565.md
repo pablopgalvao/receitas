@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Barriga de porco na air fryer](/images/barriga-de-porco-na-air-fryer__16d48565_01.png)
+![Barriga de porco na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/barriga-de-porco-na-air-fryer__16d48565_01.webp)
 
 ## 📝 Informações da Receita
 

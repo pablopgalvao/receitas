@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de sardinha com salada de batata assada](/images/p_efe_de_sardinha_com_salada_de_batata_assada.jpg)
+![Pê-efe de sardinha com salada de batata assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_sardinha_com_salada_de_batata_assada.jpg)
 
 ## 📝 Informações da Receita
 

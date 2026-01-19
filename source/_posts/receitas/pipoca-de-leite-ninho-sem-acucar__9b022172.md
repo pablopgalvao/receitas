@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pipoca de leite Ninho sem açúcar](/images/pipoca-de-leite-ninho-sem-acucar__9b022172_01.png)
+![Pipoca de leite Ninho sem açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pipoca-de-leite-ninho-sem-acucar__9b022172_01.webp)
 
 ## 📝 Informações da Receita
 

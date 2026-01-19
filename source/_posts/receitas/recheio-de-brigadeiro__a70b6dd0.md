@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Recheio de brigadeiro](/images/recheio-de-brigadeiro__a70b6dd0_01.png)
+![Recheio de brigadeiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/recheio-de-brigadeiro__a70b6dd0_01.webp)
 
 ## 📝 Informações da Receita
 

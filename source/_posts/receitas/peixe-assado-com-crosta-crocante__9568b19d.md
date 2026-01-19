@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peixe assado com crosta crocante](/images/peixe-assado-com-crosta-crocante__9568b19d_01.png)
+![Peixe assado com crosta crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-assado-com-crosta-crocante__9568b19d_01.webp)
 
 ## 📝 Informações da Receita
 

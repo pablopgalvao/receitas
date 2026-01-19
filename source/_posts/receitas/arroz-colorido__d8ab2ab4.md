@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz colorido](/images/arroz-colorido__d8ab2ab4_01.png)
+![Arroz colorido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-colorido__d8ab2ab4_01.webp)
 
 ## 📝 Informações da Receita
 

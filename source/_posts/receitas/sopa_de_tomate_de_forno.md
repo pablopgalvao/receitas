@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de tomate de forno](/images/sopa_de_tomate_de_forno.jpg)
+![Sopa de tomate de forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_tomate_de_forno.jpg)
 
 ## 📝 Informações da Receita
 

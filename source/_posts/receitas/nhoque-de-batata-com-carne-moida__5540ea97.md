@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de batata com carne moída](/images/nhoque-de-batata-com-carne-moida__5540ea97_01.png)
+![Nhoque de batata com carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/nhoque-de-batata-com-carne-moida__5540ea97_01.webp)
 
 ## 📝 Informações da Receita
 

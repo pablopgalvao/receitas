@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Purê de batata com azeite e cebolinha](/images/pur_de_batata_com_azeite_e_cebolinha.jpg)
+![Purê de batata com azeite e cebolinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pur_de_batata_com_azeite_e_cebolinha.jpg)
 
 ## 📝 Informações da Receita
 

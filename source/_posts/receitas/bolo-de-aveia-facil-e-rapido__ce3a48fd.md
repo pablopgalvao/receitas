@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de aveia fácil e rápido](/images/bolo-de-aveia-facil-e-rapido__ce3a48fd_01.png)
+![Bolo de aveia fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-aveia-facil-e-rapido__ce3a48fd_01.webp)
 
 ## 📝 Informações da Receita
 

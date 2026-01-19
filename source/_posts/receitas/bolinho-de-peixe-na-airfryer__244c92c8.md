@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de peixe na air fryer](/images/bolinho-de-peixe-na-airfryer__244c92c8_01.png)
+![Bolinho de peixe na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-peixe-na-airfryer__244c92c8_01.webp)
 
 ## 📝 Informações da Receita
 

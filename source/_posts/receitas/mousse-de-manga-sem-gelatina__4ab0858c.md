@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de manga sem gelatina](/images/mousse-de-manga-sem-gelatina__4ab0858c_01.png)
+![Mousse de manga sem gelatina](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-manga-sem-gelatina__4ab0858c_01.webp)
 
 ## 📝 Informações da Receita
 

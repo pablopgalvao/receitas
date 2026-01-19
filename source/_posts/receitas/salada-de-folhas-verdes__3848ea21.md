@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de folhas verdes](/images/salada-de-folhas-verdes__3848ea21_01.png)
+![Salada de folhas verdes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-folhas-verdes__3848ea21_01.webp)
 
 ## 📝 Informações da Receita
 

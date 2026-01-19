@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de milho simples](/images/bolo-de-milho-simples__3f86d740_01.png)
+![Bolo de milho simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-simples__3f86d740_01.webp)
 
 ## 📝 Informações da Receita
 

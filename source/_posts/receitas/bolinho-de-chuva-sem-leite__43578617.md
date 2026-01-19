@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de chuva sem leite](/images/bolinho-de-chuva-sem-leite__43578617_01.png)
+![Bolinho de chuva sem leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-chuva-sem-leite__43578617_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de milho](/images/bolinho-de-milho__822caca8_01.png)
+![Bolinho de milho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-milho__822caca8_01.webp)
 
 ## 📝 Informações da Receita
 

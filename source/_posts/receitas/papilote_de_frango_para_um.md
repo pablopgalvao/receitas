@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Papilote de frango para um](/images/papilote_de_frango_para_um.jpg)
+![Papilote de frango para um](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/papilote_de_frango_para_um.jpg)
 
 ## 📝 Informações da Receita
 

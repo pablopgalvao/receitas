@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pesto de coentro com amendoim](/images/pesto_de_coentro_com_amendoim.jpg)
+![Pesto de coentro com amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pesto_de_coentro_com_amendoim.jpg)
 
 ## 📝 Informações da Receita
 

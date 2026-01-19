@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavê de banana com doce de leite](/images/pav_de_banana_com_doce_de_leite.jpg)
+![Pavê de banana com doce de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pav_de_banana_com_doce_de_leite.jpg)
 
 ## 📝 Informações da Receita
 

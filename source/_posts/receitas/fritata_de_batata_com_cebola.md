@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fritata de batata com cebola](/images/fritata_de_batata_com_cebola.jpg)
+![Fritata de batata com cebola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/fritata_de_batata_com_cebola.jpg)
 
 ## 📝 Informações da Receita
 

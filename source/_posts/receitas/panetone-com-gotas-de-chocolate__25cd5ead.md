@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panetone com gotas de chocolate](/images/panetone-com-gotas-de-chocolate__25cd5ead_01.webp)
+![Panetone com gotas de chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panetone-com-gotas-de-chocolate__25cd5ead_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa doce de coco](/images/farofa_doce_de_coco.jpg)
+![Farofa doce de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_doce_de_coco.jpg)
 
 ## 📝 Informações da Receita
 

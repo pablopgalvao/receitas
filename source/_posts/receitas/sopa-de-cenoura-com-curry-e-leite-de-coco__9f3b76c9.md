@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de cenoura com curry e leite de coco](/images/sopa-de-cenoura-com-curry-e-leite-de-coco__9f3b76c9_01.png)
+![Sopa de cenoura com curry e leite de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-de-cenoura-com-curry-e-leite-de-coco__9f3b76c9_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rocambole de espinafre com recheio de queijo](/images/rocambole_de_espinafre_com_recheio_de_queijo.jpg)
+![Rocambole de espinafre com recheio de queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rocambole_de_espinafre_com_recheio_de_queijo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vinagrete fácil e rápido](/images/vinagrete-facil-e-rapido__2c67c86e_01.png)
+![Vinagrete fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vinagrete-facil-e-rapido__2c67c86e_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de morango fácil e rápida](/images/torta-de-morango-facil-e-rapida__a9ba5869_01.png)
+![Torta de morango fácil e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-morango-facil-e-rapida__a9ba5869_01.webp)
 
 ## 📝 Informações da Receita
 

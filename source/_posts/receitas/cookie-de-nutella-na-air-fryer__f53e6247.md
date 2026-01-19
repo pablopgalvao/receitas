@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookie de Nutella na air fryer](/images/cookie-de-nutella-na-air-fryer__f53e6247_01.png)
+![Cookie de Nutella na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookie-de-nutella-na-air-fryer__f53e6247_01.webp)
 
 ## 📝 Informações da Receita
 

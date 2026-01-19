@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picadinho oriental com arroz moti](/images/picadinho_oriental_com_arroz_moti.jpg)
+![Picadinho oriental com arroz moti](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho_oriental_com_arroz_moti.jpg)
 
 ## 📝 Informações da Receita
 

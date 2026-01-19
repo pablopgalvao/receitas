@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ragu de ossobuco](/images/ragu-de-ossobuco__3581db6f_01.png)
+![Ragu de ossobuco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ragu-de-ossobuco__3581db6f_01.webp)
 
 ## 📝 Informações da Receita
 

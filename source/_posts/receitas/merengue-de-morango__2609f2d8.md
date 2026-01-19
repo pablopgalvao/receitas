@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Merengue de morango](/images/merengue-de-morango__2609f2d8_01.png)
+![Merengue de morango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/merengue-de-morango__2609f2d8_01.webp)
 
 ## 📝 Informações da Receita
 

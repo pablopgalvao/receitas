@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Minipizza de massa de pastel](/images/minipizza-de-massa-de-pastel__c7d12929_01.png)
+![Minipizza de massa de pastel](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/minipizza-de-massa-de-pastel__c7d12929_01.webp)
 
 ## 📝 Informações da Receita
 

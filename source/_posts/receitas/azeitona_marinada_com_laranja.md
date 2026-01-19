@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Azeitona marinada com laranja](/images/azeitona_marinada_com_laranja.jpg)
+![Azeitona marinada com laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeitona_marinada_com_laranja.jpg)
 
 ## 📝 Informações da Receita
 

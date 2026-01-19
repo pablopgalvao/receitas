@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão com ovo e abacate](/images/pao-com-ovo-e-abacate__5779cdfc_01.png)
+![Pão com ovo e abacate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-com-ovo-e-abacate__5779cdfc_01.webp)
 
 ## 📝 Informações da Receita
 

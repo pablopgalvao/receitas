@@ -27,7 +27,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho vinagrete para churrasco](/images/molho_vinagrete_para_churrasco.webp)
+![Molho vinagrete para churrasco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_vinagrete_para_churrasco.webp)
 
 ## 📝 Informações da Receita
 

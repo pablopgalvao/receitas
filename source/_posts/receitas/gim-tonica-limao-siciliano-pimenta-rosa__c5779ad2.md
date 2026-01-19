@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - cubos
 difficulty: ''
 servings: ''
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gim tônica com limão-siciliano e pimenta-rosa](/images/gim-tonica-limao-siciliano-pimenta-rosa__c5779ad2_01.webp)
+![Gim tônica com limão-siciliano e pimenta-rosa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gim-tonica-limao-siciliano-pimenta-rosa__c5779ad2_01.webp)
 
 ## 📝 Informações da Receita
 

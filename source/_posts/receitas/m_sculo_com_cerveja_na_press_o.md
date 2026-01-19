@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Músculo com cerveja na pressão](/images/m_sculo_com_cerveja_na_press_o.jpg)
+![Músculo com cerveja na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/m_sculo_com_cerveja_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

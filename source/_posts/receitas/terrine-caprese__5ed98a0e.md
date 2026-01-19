@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Terrine caprese](/images/terrine-caprese__5ed98a0e_01.png)
+![Terrine caprese](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/terrine-caprese__5ed98a0e_01.webp)
 
 ## 📝 Informações da Receita
 

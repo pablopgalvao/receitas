@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão grelhado ao molho de ervas](/images/salmao-grelhado-ao-molho-de-ervas__498e582a_01.png)
+![Salmão grelhado ao molho de ervas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-grelhado-ao-molho-de-ervas__498e582a_01.webp)
 
 ## 📝 Informações da Receita
 

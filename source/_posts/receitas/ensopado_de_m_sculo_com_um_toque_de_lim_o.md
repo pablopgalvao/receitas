@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado de músculo com um toque de limão](/images/ensopado_de_m_sculo_com_um_toque_de_lim_o.jpg)
+![Ensopado de músculo com um toque de limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_de_m_sculo_com_um_toque_de_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

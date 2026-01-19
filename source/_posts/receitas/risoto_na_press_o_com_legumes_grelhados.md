@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto na pressão com legumes grelhados](/images/risoto_na_press_o_com_legumes_grelhados.jpg)
+![Risoto na pressão com legumes grelhados](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_na_press_o_com_legumes_grelhados.jpg)
 
 ## 📝 Informações da Receita
 

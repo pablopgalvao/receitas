@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndega aperitivo](/images/alm_ndega_aperitivo.jpg)
+![Almôndega aperitivo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/alm_ndega_aperitivo.jpg)
 
 ## 📝 Informações da Receita
 

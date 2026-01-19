@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Milho cozido fácil (no micro-ondas)](/images/milho_cozido_f_cil_no_micro_ondas.jpg)
+![Milho cozido fácil (no micro-ondas)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/milho_cozido_f_cil_no_micro_ondas.jpg)
 
 ## 📝 Informações da Receita
 

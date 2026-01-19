@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de panela de pressão](/images/carne-de-panela-de-pressao__a0f20351_01.png)
+![Carne de panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-de-pressao__a0f20351_01.webp)
 
 ## 📝 Informações da Receita
 

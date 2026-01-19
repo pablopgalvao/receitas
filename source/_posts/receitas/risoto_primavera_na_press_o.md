@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto primavera na pressão](/images/risoto_primavera_na_press_o.jpg)
+![Risoto primavera na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_primavera_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

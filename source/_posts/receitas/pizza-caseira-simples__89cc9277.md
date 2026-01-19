@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza caseira simples](/images/pizza-caseira-simples__89cc9277_01.png)
+![Pizza caseira simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-caseira-simples__89cc9277_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife à milanesa na air fryer](/images/bife-a-milanesa-na-airfryer__c9d2d028_01.png)
+![Bife à milanesa na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-a-milanesa-na-airfryer__c9d2d028_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bombom de leite em pó zero açúcar](/images/bombom-de-leite-em-po-zero-acucar__97431b04_01.png)
+![Bombom de leite em pó zero açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bombom-de-leite-em-po-zero-acucar__97431b04_01.webp)
 
 ## 📝 Informações da Receita
 

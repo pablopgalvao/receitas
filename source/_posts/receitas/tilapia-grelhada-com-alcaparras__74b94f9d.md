@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tilápia grelhada com alcaparras](/images/tilapia-grelhada-com-alcaparras__74b94f9d_01.png)
+![Tilápia grelhada com alcaparras](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tilapia-grelhada-com-alcaparras__74b94f9d_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ author: Lar do chef
 flags:
   - invalid_source
 ---
-![Enroladinho de queijo e presunto na air fryer](/images/enroladinho-de-queijo-e-presunto-na-airfryer__0384968e_01.png)
+![Enroladinho de queijo e presunto na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/enroladinho-de-queijo-e-presunto-na-airfryer__0384968e_01.webp)
 
 ## 📝 Informações da Receita
 

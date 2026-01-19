@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canjica sem lactose](/images/canjica-sem-lactose__8bcb3a7b_01.png)
+![Canjica sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/canjica-sem-lactose__8bcb3a7b_01.webp)
 
 ## 📝 Informações da Receita
 

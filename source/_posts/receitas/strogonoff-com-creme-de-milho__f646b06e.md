@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Strogonoff com creme de milho](/images/strogonoff-com-creme-de-milho__f646b06e_01.png)
+![Strogonoff com creme de milho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-com-creme-de-milho__f646b06e_01.webp)
 
 ## 📝 Informações da Receita
 

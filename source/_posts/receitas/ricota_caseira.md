@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ricota caseira](/images/ricota_caseira.jpg)
+![Ricota caseira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ricota_caseira.jpg)
 
 ## 📝 Informações da Receita
 

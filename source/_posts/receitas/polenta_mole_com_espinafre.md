@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polenta mole com espinafre](/images/polenta_mole_com_espinafre.jpg)
+![Polenta mole com espinafre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/polenta_mole_com_espinafre.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha recheada com carne moída](/images/abobrinha_recheada_com_carne_mo_da.jpg)
+![Abobrinha recheada com carne moída](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/abobrinha_recheada_com_carne_mo_da.jpg)
 
 ## 📝 Informações da Receita
 

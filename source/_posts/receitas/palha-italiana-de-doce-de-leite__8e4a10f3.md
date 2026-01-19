@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Palha italiana de doce de leite](/images/palha-italiana-de-doce-de-leite__8e4a10f3_01.png)
+![Palha italiana de doce de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/palha-italiana-de-doce-de-leite__8e4a10f3_01.webp)
 
 ## 📝 Informações da Receita
 

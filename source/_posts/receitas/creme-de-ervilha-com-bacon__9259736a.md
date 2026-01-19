@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme de ervilha com bacon](/images/creme-de-ervilha-com-bacon__9259736a_01.png)
+![Creme de ervilha com bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-ervilha-com-bacon__9259736a_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão alho e óleo fácil e rápido](/images/macarrao-alho-e-oleo-facil-e-rapido__6b01b1f5_01.png)
+![Macarrão alho e óleo fácil e rápido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-alho-e-oleo-facil-e-rapido__6b01b1f5_01.webp)
 
 ## 📝 Informações da Receita
 

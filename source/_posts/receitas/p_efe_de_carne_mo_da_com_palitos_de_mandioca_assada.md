@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pê-efe de carne moída com palitos de mandioca assada](/images/p_efe_de_carne_mo_da_com_palitos_de_mandioca_assada.jpg)
+![Pê-efe de carne moída com palitos de mandioca assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_efe_de_carne_mo_da_com_palitos_de_mandioca_assada.jpg)
 
 ## 📝 Informações da Receita
 

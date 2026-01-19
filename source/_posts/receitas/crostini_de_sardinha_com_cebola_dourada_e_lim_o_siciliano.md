@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Crostini de sardinha com cebola dourada e limão-siciliano](/images/crostini_de_sardinha_com_cebola_dourada_e_lim_o_siciliano.jpg)
+![Crostini de sardinha com cebola dourada e limão-siciliano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_sardinha_com_cebola_dourada_e_lim_o_siciliano.jpg)
 
 ## 📝 Informações da Receita
 

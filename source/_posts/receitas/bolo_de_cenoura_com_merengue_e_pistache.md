@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de cenoura com merengue e pistache](/images/bolo_de_cenoura_com_merengue_e_pistache.jpg)
+![Bolo de cenoura com merengue e pistache](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_cenoura_com_merengue_e_pistache.jpg)
 
 ## 📝 Informações da Receita
 

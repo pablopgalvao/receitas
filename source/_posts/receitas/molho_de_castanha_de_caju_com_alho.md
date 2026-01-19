@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de castanha-de-caju com alho](/images/molho_de_castanha_de_caju_com_alho.jpg)
+![Molho de castanha-de-caju com alho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_castanha_de_caju_com_alho.jpg)
 
 ## 📝 Informações da Receita
 

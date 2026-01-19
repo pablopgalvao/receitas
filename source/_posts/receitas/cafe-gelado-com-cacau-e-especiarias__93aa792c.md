@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Café gelado com cacau e especiarias](/images/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp)
+![Café gelado com cacau e especiarias](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp)
 
 ## 📝 Informações da Receita
 

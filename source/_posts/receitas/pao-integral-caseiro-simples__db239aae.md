@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão integral caseiro simples](/images/pao-integral-caseiro-simples__db239aae_01.png)
+![Pão integral caseiro simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro-simples__db239aae_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata rústica assada com ervas](/images/batata_r_stica_assada_com_ervas.jpg)
+![Batata rústica assada com ervas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_r_stica_assada_com_ervas.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Surpresa de uva fácil](/images/surpresa-de-uva-facil__d865b5c3_01.png)
+![Surpresa de uva fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/surpresa-de-uva-facil__d865b5c3_01.webp)
 
 ## 📝 Informações da Receita
 

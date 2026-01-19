@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho à matriciana](/images/molho-a-matriciana__10490e7a_01.png)
+![Molho à matriciana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-a-matriciana__10490e7a_01.webp)
 
 ## 📝 Informações da Receita
 

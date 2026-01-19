@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tostex de avocado](/images/tostex_de_avocado.jpg)
+![Tostex de avocado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostex_de_avocado.jpg)
 
 ## 📝 Informações da Receita
 

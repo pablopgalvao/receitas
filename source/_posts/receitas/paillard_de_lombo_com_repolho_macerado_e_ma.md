@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Paillard de lombo com repolho macerado e maçã](/images/paillard_de_lombo_com_repolho_macerado_e_ma.jpg)
+![Paillard de lombo com repolho macerado e maçã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/paillard_de_lombo_com_repolho_macerado_e_ma.jpg)
 
 ## 📝 Informações da Receita
 

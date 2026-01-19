@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz com brócolis fácil](/images/arroz-com-brocolis-facil__f2cc8a7b_01.png)
+![Arroz com brócolis fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-brocolis-facil__f2cc8a7b_01.webp)
 
 ## 📝 Informações da Receita
 

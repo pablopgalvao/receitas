@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ganache](/images/ganache__6fa5f885_01.png)
+![Ganache](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ganache__6fa5f885_01.webp)
 
 ## 📝 Informações da Receita
 

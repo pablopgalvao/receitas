@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de cachorro-quente vegetariana](/images/torta-de-cachorro-quente-vegetariana__91abd654_01.png)
+![Torta de cachorro-quente vegetariana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-cachorro-quente-vegetariana__91abd654_01.webp)
 
 ## 📝 Informações da Receita
 

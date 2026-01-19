@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cobertura de leite Ninho](/images/cobertura-de-leite-ninho__513f5ceb_01.png)
+![Cobertura de leite Ninho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cobertura-de-leite-ninho__513f5ceb_01.webp)
 
 ## 📝 Informações da Receita
 

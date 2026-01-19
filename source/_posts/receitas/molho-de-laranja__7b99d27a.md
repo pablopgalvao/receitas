@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de laranja](/images/molho-de-laranja__7b99d27a_01.png)
+![Molho de laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-de-laranja__7b99d27a_01.webp)
 
 ## 📝 Informações da Receita
 

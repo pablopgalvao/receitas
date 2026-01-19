@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tortinha de carne agridoce](/images/tortinha_de_carne_agridoce.jpg)
+![Tortinha de carne agridoce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tortinha_de_carne_agridoce.jpg)
 
 ## 📝 Informações da Receita
 

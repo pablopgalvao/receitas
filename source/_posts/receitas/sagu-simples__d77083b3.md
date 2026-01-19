@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sagu simples](/images/sagu-simples__d77083b3_01.png)
+![Sagu simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sagu-simples__d77083b3_01.webp)
 
 ## 📝 Informações da Receita
 

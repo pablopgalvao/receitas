@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de feijão-fradinho com bacalhau](/images/salada_de_feij_o_fradinho_com_bacalhau.jpg)
+![Salada de feijão-fradinho com bacalhau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_feij_o_fradinho_com_bacalhau.jpg)
 
 ## 📝 Informações da Receita
 

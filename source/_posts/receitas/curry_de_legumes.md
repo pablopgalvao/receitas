@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Curry de legumes](/images/curry_de_legumes.jpg)
+![Curry de legumes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_legumes.jpg)
 
 ## 📝 Informações da Receita
 

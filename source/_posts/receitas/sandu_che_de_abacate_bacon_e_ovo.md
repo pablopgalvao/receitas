@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sanduíche de abacate, bacon e ovo](/images/sandu_che_de_abacate_bacon_e_ovo.jpg)
+![Sanduíche de abacate, bacon e ovo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sandu_che_de_abacate_bacon_e_ovo.jpg)
 
 ## 📝 Informações da Receita
 

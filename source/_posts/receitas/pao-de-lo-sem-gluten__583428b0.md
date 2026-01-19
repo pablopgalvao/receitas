@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de ló sem glúten](/images/pao-de-lo-sem-gluten__583428b0_01.png)
+![Pão de ló sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-lo-sem-gluten__583428b0_01.webp)
 
 ## 📝 Informações da Receita
 

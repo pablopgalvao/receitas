@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cueca virada de laranja](/images/cueca-virada-de-laranja__c3dfb670_01.png)
+![Cueca virada de laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cueca-virada-de-laranja__c3dfb670_01.webp)
 
 ## 📝 Informações da Receita
 

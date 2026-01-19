@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de mandioca com coco](/images/bolinho_de_mandioca_com_coco.jpg)
+![Bolinho de mandioca com coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_mandioca_com_coco.jpg)
 
 ## 📝 Informações da Receita
 

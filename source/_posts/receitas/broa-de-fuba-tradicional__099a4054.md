@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Broa de fubá tradicional](/images/broa-de-fuba-tradicional__099a4054_01.png)
+![Broa de fubá tradicional](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/broa-de-fuba-tradicional__099a4054_01.webp)
 
 ## 📝 Informações da Receita
 

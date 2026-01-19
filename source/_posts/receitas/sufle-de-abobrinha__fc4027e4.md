@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de abobrinha](/images/sufle-de-abobrinha__fc4027e4_01.png)
+![Suflê de abobrinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sufle-de-abobrinha__fc4027e4_01.webp)
 
 ## 📝 Informações da Receita
 

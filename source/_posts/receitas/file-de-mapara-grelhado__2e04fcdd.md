@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de mapará grelhado](/images/file-de-mapara-grelhado__2e04fcdd_01.png)
+![Filé de mapará grelhado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-mapara-grelhado__2e04fcdd_01.webp)
 
 ## 📝 Informações da Receita
 

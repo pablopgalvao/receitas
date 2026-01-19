@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bem-casado tradicional](/images/bem-casado-tradicional__2539b4ed_01.png)
+![Bem-casado tradicional](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bem-casado-tradicional__2539b4ed_01.webp)
 
 ## 📝 Informações da Receita
 

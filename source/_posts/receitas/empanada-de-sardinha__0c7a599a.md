@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empanada de sardinha](/images/empanada-de-sardinha__0c7a599a_01.png)
+![Empanada de sardinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empanada-de-sardinha__0c7a599a_01.webp)
 
 ## 📝 Informações da Receita
 

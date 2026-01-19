@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastinha de ricota com melado e alecrim](/images/pastinha-de-ricota-com-melado-e-alecrim__e6a81081_01.webp)
+![Pastinha de ricota com melado e alecrim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-ricota-com-melado-e-alecrim__e6a81081_01.webp)
 
 ## 📝 Informações da Receita
 

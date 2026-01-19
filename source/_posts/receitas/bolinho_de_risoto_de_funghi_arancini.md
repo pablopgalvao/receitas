@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de risoto de funghi (arancini)](/images/bolinho_de_risoto_de_funghi_arancini.jpg)
+![Bolinho de risoto de funghi (arancini)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_risoto_de_funghi_arancini.jpg)
 
 ## 📝 Informações da Receita
 

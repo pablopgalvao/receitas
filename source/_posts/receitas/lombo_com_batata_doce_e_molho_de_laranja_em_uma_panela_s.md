@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lombo com batata-doce e molho de laranja em uma panela só](/images/lombo_com_batata_doce_e_molho_de_laranja_em_uma_panela_s.jpg)
+![Lombo com batata-doce e molho de laranja em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lombo_com_batata_doce_e_molho_de_laranja_em_uma_panela_s.jpg)
 
 ## 📝 Informações da Receita
 

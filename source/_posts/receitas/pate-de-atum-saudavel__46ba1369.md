@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de atum saudável](/images/pate-de-atum-saudavel__46ba1369_01.png)
+![Patê de atum saudável](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-atum-saudavel__46ba1369_01.webp)
 
 ## 📝 Informações da Receita
 

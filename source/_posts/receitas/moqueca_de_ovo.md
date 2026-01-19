@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Moqueca de ovo](/images/moqueca_de_ovo.jpg)
+![Moqueca de ovo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/moqueca_de_ovo.jpg)
 
 ## 📝 Informações da Receita
 

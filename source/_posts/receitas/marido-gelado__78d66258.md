@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Marido gelado](/images/marido-gelado__78d66258_01.png)
+![Marido gelado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/marido-gelado__78d66258_01.webp)
 
 ## 📝 Informações da Receita
 

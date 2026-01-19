@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Temaki frito](/images/temaki-frito__693449a4_01.png)
+![Temaki frito](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/temaki-frito__693449a4_01.webp)
 
 ## 📝 Informações da Receita
 

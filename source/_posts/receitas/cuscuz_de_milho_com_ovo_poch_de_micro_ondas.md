@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cuscuz de milho com ovo pochê de micro-ondas](/images/cuscuz_de_milho_com_ovo_poch_de_micro_ondas.jpg)
+![Cuscuz de milho com ovo pochê de micro-ondas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cuscuz_de_milho_com_ovo_poch_de_micro_ondas.jpg)
 
 ## 📝 Informações da Receita
 

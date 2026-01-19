@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salpicão simples](/images/salpicao-simples__f0228c42_01.png)
+![Salpicão simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salpicao-simples__f0228c42_01.webp)
 
 ## 📝 Informações da Receita
 

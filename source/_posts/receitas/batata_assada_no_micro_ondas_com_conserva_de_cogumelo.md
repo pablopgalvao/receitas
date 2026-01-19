@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata assada no micro-ondas com conserva de cogumelo](/images/batata_assada_no_micro_ondas_com_conserva_de_cogumelo.jpg)
+![Batata assada no micro-ondas com conserva de cogumelo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_assada_no_micro_ondas_com_conserva_de_cogumelo.jpg)
 
 ## 📝 Informações da Receita
 

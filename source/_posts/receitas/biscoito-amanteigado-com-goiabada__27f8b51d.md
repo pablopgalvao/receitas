@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoito amanteigado com goiabada](/images/biscoito-amanteigado-com-goiabada__27f8b51d_01.png)
+![Biscoito amanteigado com goiabada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoito-amanteigado-com-goiabada__27f8b51d_01.webp)
 
 ## 📝 Informações da Receita
 

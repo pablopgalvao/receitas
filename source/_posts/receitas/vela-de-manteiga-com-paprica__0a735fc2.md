@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vela de manteiga com páprica](/images/vela-de-manteiga-com-paprica__0a735fc2_01.webp)
+![Vela de manteiga com páprica](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vela-de-manteiga-com-paprica__0a735fc2_01.webp)
 
 ## 📝 Informações da Receita
 

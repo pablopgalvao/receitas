@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Curry de peixe](/images/curry_de_peixe.jpg)
+![Curry de peixe](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg)
 
 ## 📝 Informações da Receita
 

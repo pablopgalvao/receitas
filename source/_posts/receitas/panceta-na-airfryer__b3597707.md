@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panceta na air fryer](/images/panceta-na-airfryer__b3597707_01.png)
+![Panceta na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panceta-na-airfryer__b3597707_01.webp)
 
 ## 📝 Informações da Receita
 

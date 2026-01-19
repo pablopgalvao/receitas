@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de frango na panela de pressão](/images/file-de-frango-na-panela-de-pressao__ddf3ea64_01.png)
+![Filé de frango na panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-na-panela-de-pressao__ddf3ea64_01.webp)
 
 ## 📝 Informações da Receita
 

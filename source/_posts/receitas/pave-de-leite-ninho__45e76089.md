@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavê de leite Ninho](/images/pave-de-leite-ninho__45e76089_01.png)
+![Pavê de leite Ninho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-leite-ninho__45e76089_01.webp)
 
 ## 📝 Informações da Receita
 

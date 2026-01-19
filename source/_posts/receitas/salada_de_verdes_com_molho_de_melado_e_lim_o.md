@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de verdes com molho de melado e limão](/images/salada_de_verdes_com_molho_de_melado_e_lim_o.jpg)
+![Salada de verdes com molho de melado e limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_verdes_com_molho_de_melado_e_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

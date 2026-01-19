@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empadinha doce de leite condensado (empada doce)](/images/empadinha-de-leite-condensado__3f66f1f9_01.png)
+![Empadinha doce de leite condensado (empada doce)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-de-leite-condensado__3f66f1f9_01.webp)
 
 ## 📝 Informações da Receita
 

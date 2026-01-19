@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sardinha-aperitivo](/images/sardinha_aperitivo.jpg)
+![Sardinha-aperitivo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinha_aperitivo.jpg)
 
 ## 📝 Informações da Receita
 

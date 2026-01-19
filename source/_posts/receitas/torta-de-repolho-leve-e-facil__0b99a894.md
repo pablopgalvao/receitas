@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de repolho leve e fácil](/images/torta-de-repolho-leve-e-facil__0b99a894_01.png)
+![Torta de repolho leve e fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-repolho-leve-e-facil__0b99a894_01.webp)
 
 ## 📝 Informações da Receita
 

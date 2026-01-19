@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Berinjela grelhada com molho mediterrâneo e cuscuz marroquino](/images/berinjela_grelhada_com_molho_mediterr_neo_e_cuscuz_marroquino.jpg)
+![Berinjela grelhada com molho mediterrâneo e cuscuz marroquino](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/berinjela_grelhada_com_molho_mediterr_neo_e_cuscuz_marroquino.jpg)
 
 ## 📝 Informações da Receita
 

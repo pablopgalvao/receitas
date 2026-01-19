@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta capixaba de bacalhau](/images/torta_capixaba_de_bacalhau.jpg)
+![Torta capixaba de bacalhau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torta_capixaba_de_bacalhau.jpg)
 
 ## 📝 Informações da Receita
 

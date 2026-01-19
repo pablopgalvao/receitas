@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Paleta bovina na air fryer](/images/paleta-bovina-na-airfryer__2c2f9da6_01.png)
+![Paleta bovina na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/paleta-bovina-na-airfryer__2c2f9da6_01.webp)
 
 ## 📝 Informações da Receita
 

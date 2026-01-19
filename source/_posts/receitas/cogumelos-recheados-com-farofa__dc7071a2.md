@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cogumelos recheados com farofa](/images/cogumelos-recheados-com-farofa__dc7071a2_01.png)
+![Cogumelos recheados com farofa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cogumelos-recheados-com-farofa__dc7071a2_01.webp)
 
 ## 📝 Informações da Receita
 

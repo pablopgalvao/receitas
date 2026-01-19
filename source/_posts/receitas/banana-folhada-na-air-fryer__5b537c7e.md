@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Banana folhada na air fryer](/images/banana-folhada-na-air-fryer__5b537c7e_01.png)
+![Banana folhada na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-folhada-na-air-fryer__5b537c7e_01.webp)
 
 ## 📝 Informações da Receita
 

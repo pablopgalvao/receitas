@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Docinho proteico vegano](/images/docinho-proteico-vegano__12907d26_01.png)
+![Docinho proteico vegano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/docinho-proteico-vegano__12907d26_01.webp)
 
 ## 📝 Informações da Receita
 

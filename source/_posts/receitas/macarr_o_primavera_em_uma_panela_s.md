@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão primavera em uma panela só](/images/macarr_o_primavera_em_uma_panela_s.jpg)
+![Macarrão primavera em uma panela só](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_primavera_em_uma_panela_s.jpg)
 
 ## 📝 Informações da Receita
 

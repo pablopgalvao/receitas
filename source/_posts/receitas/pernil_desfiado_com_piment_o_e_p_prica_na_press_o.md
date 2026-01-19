@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pernil desfiado com pimentão e páprica na pressão](/images/pernil_desfiado_com_piment_o_e_p_prica_na_press_o.jpg)
+![Pernil desfiado com pimentão e páprica na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pernil_desfiado_com_piment_o_e_p_prica_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Capelete de peru in brodo (reaproveitamento)](/images/capelete-de-peru-in-brodo-reaproveitamento__5c773852_01.webp)
+![Capelete de peru in brodo (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capelete-de-peru-in-brodo-reaproveitamento__5c773852_01.webp)
 
 ## 📝 Informações da Receita
 

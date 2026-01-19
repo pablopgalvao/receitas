@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Maionese verde](/images/maionese-verde__f9100626_01.png)
+![Maionese verde](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/maionese-verde__f9100626_01.webp)
 
 ## 📝 Informações da Receita
 

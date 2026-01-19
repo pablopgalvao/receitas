@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata assada no micro-ondas com escarola e bacon](/images/batata_assada_no_micro_ondas_com_escarola_e_bacon.jpg)
+![Batata assada no micro-ondas com escarola e bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_assada_no_micro_ondas_com_escarola_e_bacon.jpg)
 
 ## 📝 Informações da Receita
 

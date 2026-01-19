@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobrecoxas crocantes na airfryer](/images/sobrecoxas-crocantes-na-airfryer__02689f9a_01.png)
+![Sobrecoxas crocantes na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobrecoxas-crocantes-na-airfryer__02689f9a_01.webp)
 
 ## 📝 Informações da Receita
 

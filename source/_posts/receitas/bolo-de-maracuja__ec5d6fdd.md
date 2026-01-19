@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de maracujá](/images/bolo-de-maracuja__ec5d6fdd_01.png)
+![Bolo de maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-maracuja__ec5d6fdd_01.webp)
 
 ## 📝 Informações da Receita
 

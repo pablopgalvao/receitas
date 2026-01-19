@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de cenoura sem açúcar](/images/bolo-de-cenoura-sem-acucar__fb1d9523_01.png)
+![Bolo de cenoura sem açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-sem-acucar__fb1d9523_01.webp)
 
 ## 📝 Informações da Receita
 

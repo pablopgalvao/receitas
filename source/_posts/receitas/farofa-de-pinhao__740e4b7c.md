@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofa de Pinhão](/images/farofa-de-pinhao__740e4b7c_01.webp)
+![Farofa de Pinhão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-de-pinhao__740e4b7c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz de brócolis](/images/arroz-de-brocolis__eecc1fa8_01.png)
+![Arroz de brócolis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-brocolis__eecc1fa8_01.webp)
 
 ## 📝 Informações da Receita
 

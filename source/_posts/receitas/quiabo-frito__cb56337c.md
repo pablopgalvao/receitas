@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiabo frito](/images/quiabo-frito__cb56337c_01.png)
+![Quiabo frito](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quiabo-frito__cb56337c_01.webp)
 
 ## 📝 Informações da Receita
 

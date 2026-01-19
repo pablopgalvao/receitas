@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Amendoim doce crocante](/images/amendoim-doce-crocante__5a82dfa1_01.png)
+![Amendoim doce crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/amendoim-doce-crocante__5a82dfa1_01.webp)
 
 ## 📝 Informações da Receita
 

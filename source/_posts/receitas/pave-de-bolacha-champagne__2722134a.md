@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavê de bolacha champagne](/images/pave-de-bolacha-champagne__2722134a_01.png)
+![Pavê de bolacha champagne](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-bolacha-champagne__2722134a_01.webp)
 
 ## 📝 Informações da Receita
 

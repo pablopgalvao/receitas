@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de lentilha com pimentão e coentro](/images/salada_de_lentilha_com_piment_o_e_coentro.jpg)
+![Salada de lentilha com pimentão e coentro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_lentilha_com_piment_o_e_coentro.jpg)
 
 ## 📝 Informações da Receita
 

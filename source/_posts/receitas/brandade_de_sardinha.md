@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brandade de sardinha](/images/brandade_de_sardinha.jpg)
+![Brandade de sardinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/brandade_de_sardinha.jpg)
 
 ## 📝 Informações da Receita
 

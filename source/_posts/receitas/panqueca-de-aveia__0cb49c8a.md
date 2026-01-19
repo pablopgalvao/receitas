@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panqueca de aveia](/images/panqueca-de-aveia__0cb49c8a_01.png)
+![Panqueca de aveia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia__0cb49c8a_01.webp)
 
 ## 📝 Informações da Receita
 

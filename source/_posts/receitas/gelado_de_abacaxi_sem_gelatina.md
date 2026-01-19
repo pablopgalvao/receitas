@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gelado de abacaxi sem gelatina](/images/gelado_de_abacaxi_sem_gelatina.jpg)
+![Gelado de abacaxi sem gelatina](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelado_de_abacaxi_sem_gelatina.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sunomono simples](/images/sunomono-simples__8cfed3fb_01.png)
+![Sunomono simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sunomono-simples__8cfed3fb_01.webp)
 
 ## 📝 Informações da Receita
 

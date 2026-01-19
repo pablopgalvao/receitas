@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de mel e maçã](/images/bolo_de_mel_e_ma.jpg)
+![Bolo de mel e maçã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_mel_e_ma.jpg)
 
 ## 📝 Informações da Receita
 

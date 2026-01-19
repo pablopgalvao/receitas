@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caipirinha de limão com capim-santo](/images/caipirinha_de_lim_o_com_capim_santo.jpg)
+![Caipirinha de limão com capim-santo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caipirinha_de_lim_o_com_capim_santo.jpg)
 
 ## 📝 Informações da Receita
 

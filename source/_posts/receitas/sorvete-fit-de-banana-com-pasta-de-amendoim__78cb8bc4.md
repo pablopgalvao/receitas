@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete fit de banana com pasta de amendoim](/images/sorvete-fit-de-banana-com-pasta-de-amendoim__78cb8bc4_01.png)
+![Sorvete fit de banana com pasta de amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-fit-de-banana-com-pasta-de-amendoim__78cb8bc4_01.webp)
 
 ## 📝 Informações da Receita
 

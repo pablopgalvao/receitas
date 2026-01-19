@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de abobrinha com hortelã](/images/salada_de_abobrinha_com_hortel.jpg)
+![Salada de abobrinha com hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_abobrinha_com_hortel.jpg)
 
 ## 📝 Informações da Receita
 

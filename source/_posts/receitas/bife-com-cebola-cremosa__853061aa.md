@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife com cebola cremosa](/images/bife-com-cebola-cremosa__853061aa_01.png)
+![Bife com cebola cremosa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-com-cebola-cremosa__853061aa_01.webp)
 
 ## 📝 Informações da Receita
 

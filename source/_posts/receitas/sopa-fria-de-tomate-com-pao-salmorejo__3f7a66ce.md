@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - pepino
     - ovo
     - crocante
@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa fria de tomate com pão (salmorejo)](/images/sopa-fria-de-tomate-com-pao-salmorejo__3f7a66ce_01.webp)
+![Sopa fria de tomate com pão (salmorejo)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-fria-de-tomate-com-pao-salmorejo__3f7a66ce_01.webp)
 
 ## 📝 Informações da Receita
 

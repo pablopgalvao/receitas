@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango ao molho branco simples](/images/frango-ao-molho-branco-simples__0d117550_01.png)
+![Frango ao molho branco simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-molho-branco-simples__0d117550_01.webp)
 
 ## 📝 Informações da Receita
 

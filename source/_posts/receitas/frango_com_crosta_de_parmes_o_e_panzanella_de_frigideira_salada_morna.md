@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango com crosta de parmesão e panzanella de frigideira (salada morna)](/images/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg)
+![Frango com crosta de parmesão e panzanella de frigideira (salada morna)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg)
 
 ## 📝 Informações da Receita
 

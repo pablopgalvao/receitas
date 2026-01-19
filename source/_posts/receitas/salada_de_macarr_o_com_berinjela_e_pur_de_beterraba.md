@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de macarrão com berinjela e purê de beterraba](/images/salada_de_macarr_o_com_berinjela_e_pur_de_beterraba.jpg)
+![Salada de macarrão com berinjela e purê de beterraba](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_macarr_o_com_berinjela_e_pur_de_beterraba.jpg)
 
 ## 📝 Informações da Receita
 

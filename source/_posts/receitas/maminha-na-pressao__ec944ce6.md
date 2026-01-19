@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Maminha na pressão](/images/maminha-na-pressao__ec944ce6_01.webp)
+![Maminha na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/maminha-na-pressao__ec944ce6_01.webp)
 
 ## 📝 Informações da Receita
 

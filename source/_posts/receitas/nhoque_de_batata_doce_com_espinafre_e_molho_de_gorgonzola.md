@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de batata-doce com espinafre e molho de gorgonzola](/images/nhoque_de_batata_doce_com_espinafre_e_molho_de_gorgonzola.jpg)
+![Nhoque de batata-doce com espinafre e molho de gorgonzola](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_batata_doce_com_espinafre_e_molho_de_gorgonzola.jpg)
 
 ## 📝 Informações da Receita
 

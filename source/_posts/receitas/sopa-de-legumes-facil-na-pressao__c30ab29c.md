@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de legumes fácil na pressão](/images/sopa-de-legumes-facil-na-pressao__c30ab29c_01.png)
+![Sopa de legumes fácil na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-de-legumes-facil-na-pressao__c30ab29c_01.webp)
 
 ## 📝 Informações da Receita
 

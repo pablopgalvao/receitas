@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro de panela](/images/brigadeiro-de-panela__7a6ae6cd_01.png)
+![Brigadeiro de panela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-panela__7a6ae6cd_01.webp)
 
 ## 📝 Informações da Receita
 

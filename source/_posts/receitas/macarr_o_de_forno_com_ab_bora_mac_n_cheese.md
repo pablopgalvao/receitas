@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão de forno com abóbora (mac'n'cheese)](/images/macarr_o_de_forno_com_ab_bora_mac_n_cheese.jpg)
+![Macarrão de forno com abóbora (mac'n'cheese)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_de_forno_com_ab_bora_mac_n_cheese.jpg)
 
 ## 📝 Informações da Receita
 

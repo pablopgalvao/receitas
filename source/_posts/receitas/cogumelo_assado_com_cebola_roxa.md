@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cogumelo assado com cebola-roxa](/images/cogumelo_assado_com_cebola_roxa.jpg)
+![Cogumelo assado com cebola-roxa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cogumelo_assado_com_cebola_roxa.jpg)
 
 ## 📝 Informações da Receita
 

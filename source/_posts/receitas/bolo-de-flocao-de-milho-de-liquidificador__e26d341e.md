@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de flocão de milho de liquidificador](/images/bolo-de-flocao-de-milho-de-liquidificador__e26d341e_01.png)
+![Bolo de flocão de milho de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-flocao-de-milho-de-liquidificador__e26d341e_01.webp)
 
 ## 📝 Informações da Receita
 

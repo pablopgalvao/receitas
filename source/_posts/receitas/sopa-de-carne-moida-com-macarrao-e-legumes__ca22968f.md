@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de carne moída com macarrão e legumes](/images/sopa-de-carne-moida-com-macarrao-e-legumes__ca22968f_01.png)
+![Sopa de carne moída com macarrão e legumes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sopa-de-carne-moida-com-macarrao-e-legumes__ca22968f_01.webp)
 
 ## 📝 Informações da Receita
 

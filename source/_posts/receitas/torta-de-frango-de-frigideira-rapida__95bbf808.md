@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de frango de frigideira rápida](/images/torta-de-frango-de-frigideira-rapida__95bbf808_01.png)
+![Torta de frango de frigideira rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-frango-de-frigideira-rapida__95bbf808_01.webp)
 
 ## 📝 Informações da Receita
 

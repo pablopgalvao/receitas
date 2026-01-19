@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de maria-mole com calda](/images/pudim-de-maria-mole-com-calda__8f7ffd1b_01.png)
+![Pudim de maria-mole com calda](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-de-maria-mole-com-calda__8f7ffd1b_01.webp)
 
 ## 📝 Informações da Receita
 

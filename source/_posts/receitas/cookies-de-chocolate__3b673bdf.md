@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies de chocolate](/images/cookies-de-chocolate__3b673bdf_01.png)
+![Cookies de chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-de-chocolate__3b673bdf_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Wrap de carne](/images/wrap-de-carne__2b340b9f_01.png)
+![Wrap de carne](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/wrap-de-carne__2b340b9f_01.webp)
 
 ## 📝 Informações da Receita
 

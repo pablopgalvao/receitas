@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastel de forno de frango simples](/images/pastel-de-forno-de-frango-simples__29d20c2c_01.png)
+![Pastel de forno de frango simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastel-de-forno-de-frango-simples__29d20c2c_01.webp)
 
 ## 📝 Informações da Receita
 

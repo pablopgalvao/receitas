@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Parmegiana de carne moída simples](/images/parmegiana-de-carne-moida-simples__2da17ef2_01.png)
+![Parmegiana de carne moída simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/parmegiana-de-carne-moida-simples__2da17ef2_01.webp)
 
 ## 📝 Informações da Receita
 

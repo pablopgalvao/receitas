@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Patê de ovo cozido fit](/images/pate-de-ovo-cozido-fit__d019a8b4_01.png)
+![Patê de ovo cozido fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-ovo-cozido-fit__d019a8b4_01.webp)
 
 ## 📝 Informações da Receita
 

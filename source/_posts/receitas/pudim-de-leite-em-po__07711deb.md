@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de leite em pó](/images/pudim-de-leite-em-po__07711deb_01.png)
+![Pudim de leite em pó](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-de-leite-em-po__07711deb_01.webp)
 
 ## 📝 Informações da Receita
 

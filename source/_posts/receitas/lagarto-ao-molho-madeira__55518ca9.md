@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lagarto ao molho madeira](/images/lagarto-ao-molho-madeira__55518ca9_01.png)
+![Lagarto ao molho madeira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lagarto-ao-molho-madeira__55518ca9_01.webp)
 
 ## 📝 Informações da Receita
 

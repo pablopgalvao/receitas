@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vinagrete de melancia](/images/vinagrete_de_melancia.jpg)
+![Vinagrete de melancia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinagrete_de_melancia.jpg)
 
 ## 📝 Informações da Receita
 

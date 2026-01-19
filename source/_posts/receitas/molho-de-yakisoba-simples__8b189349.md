@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Molho de yakisoba simples](/images/molho-de-yakisoba-simples__8b189349_01.png)
+![Molho de yakisoba simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-de-yakisoba-simples__8b189349_01.webp)
 
 ## 📝 Informações da Receita
 

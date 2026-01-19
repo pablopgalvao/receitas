@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de queijo com cenoura assada na Air Fryer da Rita Lobo](/images/risoto_de_queijo_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)
+![Risoto de queijo com cenoura assada na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_queijo_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

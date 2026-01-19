@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Croissant de chocolate](/images/croissant-de-chocolate__ebacb957_01.png)
+![Croissant de chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croissant-de-chocolate__ebacb957_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobrecoxa com batata-doce no forno](/images/sobrecoxa-com-batata-doce-no-forno__4543f90c_01.png)
+![Sobrecoxa com batata-doce no forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobrecoxa-com-batata-doce-no-forno__4543f90c_01.webp)
 
 ## 📝 Informações da Receita
 

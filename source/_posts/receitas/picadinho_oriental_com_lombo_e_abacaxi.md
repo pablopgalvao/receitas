@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picadinho oriental com lombo e abacaxi](/images/picadinho_oriental_com_lombo_e_abacaxi.jpg)
+![Picadinho oriental com lombo e abacaxi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho_oriental_com_lombo_e_abacaxi.jpg)
 
 ## 📝 Informações da Receita
 

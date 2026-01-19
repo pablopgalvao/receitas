@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lanche de frigideira com ovo](/images/lanche-de-frigideira-com-ovo__73d1f01c_01.png)
+![Lanche de frigideira com ovo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lanche-de-frigideira-com-ovo__73d1f01c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne de sol](/images/carne_de_sol.jpg)
+![Carne de sol](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_de_sol.jpg)
 
 ## 📝 Informações da Receita
 

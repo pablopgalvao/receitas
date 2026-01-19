@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de tomate com salada caprese](/images/risoto_de_tomate_com_salada_caprese.jpg)
+![Risoto de tomate com salada caprese](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_tomate_com_salada_caprese.jpg)
 
 ## 📝 Informações da Receita
 

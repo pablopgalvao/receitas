@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Musse que vira suflê (de véspera)](/images/musse_que_vira_sufl_de_v_spera.jpg)
+![Musse que vira suflê (de véspera)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/musse_que_vira_sufl_de_v_spera.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo simples e fofo](/images/bolo-simples-e-fofo__caa118b2_01.png)
+![Bolo simples e fofo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-simples-e-fofo__caa118b2_01.webp)
 
 ## 📝 Informações da Receita
 

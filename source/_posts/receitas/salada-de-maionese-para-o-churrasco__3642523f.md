@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de maionese para o churrasco](/images/salada-de-maionese-para-o-churrasco__3642523f_01.png)
+![Salada de maionese para o churrasco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-maionese-para-o-churrasco__3642523f_01.webp)
 
 ## 📝 Informações da Receita
 

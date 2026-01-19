@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bisnaguinha crocante de queijo](/images/bisnaguinha-crocante-de-queijo__a7efee1c_01.png)
+![Bisnaguinha crocante de queijo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisnaguinha-crocante-de-queijo__a7efee1c_01.webp)
 
 ## 📝 Informações da Receita
 

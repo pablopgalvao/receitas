@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de chocolate de liquidificador](/images/mousse-de-chocolate-de-liquidificador__c0256b51_01.png)
+![Mousse de chocolate de liquidificador](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-chocolate-de-liquidificador__c0256b51_01.webp)
 
 ## 📝 Informações da Receita
 

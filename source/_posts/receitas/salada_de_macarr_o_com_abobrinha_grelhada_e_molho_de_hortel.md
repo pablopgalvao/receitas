@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de macarrão com abobrinha grelhada e molho de hortelã](/images/salada_de_macarr_o_com_abobrinha_grelhada_e_molho_de_hortel.jpg)
+![Salada de macarrão com abobrinha grelhada e molho de hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_macarr_o_com_abobrinha_grelhada_e_molho_de_hortel.jpg)
 
 ## 📝 Informações da Receita
 

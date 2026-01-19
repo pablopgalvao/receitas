@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de lentilha na pressão com espinafre](/images/sopa_de_lentilha_na_press_o_com_espinafre.jpg)
+![Sopa de lentilha na pressão com espinafre](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_lentilha_na_press_o_com_espinafre.jpg)
 
 ## 📝 Informações da Receita
 

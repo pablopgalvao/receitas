@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Repolho refogado com bacon e calabresa](/images/repolho-refogado-com-bacon-e-calabresa__e9516d1f_01.png)
+![Repolho refogado com bacon e calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/repolho-refogado-com-bacon-e-calabresa__e9516d1f_01.webp)
 
 ## 📝 Informações da Receita
 

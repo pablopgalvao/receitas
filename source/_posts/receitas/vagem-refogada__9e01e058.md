@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Vagem refogada](/images/vagem-refogada__9e01e058_01.png)
+![Vagem refogada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/vagem-refogada__9e01e058_01.webp)
 
 ## 📝 Informações da Receita
 

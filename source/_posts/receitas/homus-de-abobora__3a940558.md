@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Homus de abóbora](/images/homus-de-abobora__3a940558_01.png)
+![Homus de abóbora](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-abobora__3a940558_01.webp)
 
 ## 📝 Informações da Receita
 

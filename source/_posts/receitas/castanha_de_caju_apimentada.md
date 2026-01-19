@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Castanha-de-caju apimentada](/images/castanha_de_caju_apimentada.jpg)
+![Castanha-de-caju apimentada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/castanha_de_caju_apimentada.jpg)
 
 ## 📝 Informações da Receita
 

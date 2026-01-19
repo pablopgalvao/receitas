@@ -28,7 +28,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife à Rolê com Calabresa](/images/bife_rol_com_calabresa.jpg)
+![Bife à Rolê com Calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife_rol_com_calabresa.jpg)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de batata-doce com frango](/images/bolinho-de-batata-doce-com-frango__3e312381_01.png)
+![Bolinho de batata-doce com frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-batata-doce-com-frango__3e312381_01.webp)
 
 ## 📝 Informações da Receita
 

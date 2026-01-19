@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costelinha de porco caramelizada no forno](/images/costelinha-de-porco-caramelizada-no-forno__75910223_01.png)
+![Costelinha de porco caramelizada no forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/costelinha-de-porco-caramelizada-no-forno__75910223_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer de grão-de-bico fácil](/images/hamburguer-de-grao-de-bico-facil__d771e6c3_01.png)
+![Hambúrguer de grão-de-bico fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburguer-de-grao-de-bico-facil__d771e6c3_01.webp)
 
 ## 📝 Informações da Receita
 

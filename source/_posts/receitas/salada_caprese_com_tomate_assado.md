@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada caprese com tomate assado](/images/salada_caprese_com_tomate_assado.jpg)
+![Salada caprese com tomate assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_caprese_com_tomate_assado.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salmão agridoce com legumes picantes](/images/salm_o_agridoce_com_legumes_picantes.jpg)
+![Salmão agridoce com legumes picantes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salm_o_agridoce_com_legumes_picantes.jpg)
 
 ## 📝 Informações da Receita
 

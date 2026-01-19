@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pote noodles (macarrão instantâneo caseiro)](/images/pote_noodles_macarr_o_instant_neo_caseiro.jpg)
+![Pote noodles (macarrão instantâneo caseiro)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pote_noodles_macarr_o_instant_neo_caseiro.jpg)
 
 ## 📝 Informações da Receita
 

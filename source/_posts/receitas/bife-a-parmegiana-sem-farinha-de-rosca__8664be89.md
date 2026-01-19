@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bife à parmegiana sem farinha de rosca](/images/bife-a-parmegiana-sem-farinha-de-rosca__8664be89_01.png)
+![Bife à parmegiana sem farinha de rosca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bife-a-parmegiana-sem-farinha-de-rosca__8664be89_01.webp)
 
 ## 📝 Informações da Receita
 

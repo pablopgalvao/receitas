@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa fria de milho com tostada de avocado](/images/sopa_fria_de_milho_com_tostada_de_avocado.jpg)
+![Sopa fria de milho com tostada de avocado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_fria_de_milho_com_tostada_de_avocado.jpg)
 
 ## 📝 Informações da Receita
 

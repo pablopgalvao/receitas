@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Enroladinho de parmesão com azeitona](/images/enroladinho_de_parmes_o_com_azeitona.jpg)
+![Enroladinho de parmesão com azeitona](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/enroladinho_de_parmes_o_com_azeitona.jpg)
 
 ## 📝 Informações da Receita
 

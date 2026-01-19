@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fermento natural levain](/images/fermento_natural_levain.jpg)
+![Fermento natural levain](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/fermento_natural_levain.jpg)
 
 ## 📝 Informações da Receita
 

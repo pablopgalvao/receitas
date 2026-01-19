@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abacaxi retrô com sorvete](/images/abacaxi_retr_com_sorvete.jpg)
+![Abacaxi retrô com sorvete](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/abacaxi_retr_com_sorvete.jpg)
 
 ## 📝 Informações da Receita
 

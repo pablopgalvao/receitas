@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de pão amanhecido](/images/bolo-de-pao-amanhecido__66cbf1c5_01.png)
+![Bolo de pão amanhecido](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-amanhecido__66cbf1c5_01.webp)
 
 ## 📝 Informações da Receita
 

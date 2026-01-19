@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de pescada frita com saladinha de ervas e purê de ervilha](/images/fil_de_pescada_frita_com_saladinha_de_ervas_e_pur_de_ervilha.jpg)
+![Filé de pescada frita com saladinha de ervas e purê de ervilha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/fil_de_pescada_frita_com_saladinha_de_ervas_e_pur_de_ervilha.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salgado fit de batata-doce](/images/salgado-fit-de-batata-doce__0e65d693_01.png)
+![Salgado fit de batata-doce](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-fit-de-batata-doce__0e65d693_01.webp)
 
 ## 📝 Informações da Receita
 

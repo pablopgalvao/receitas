@@ -28,7 +28,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pato no tucupi](/images/pato_no_tucupi.jpg)
+![Pato no tucupi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pato_no_tucupi.jpg)
 
 ## 📝 Informações da Receita
 

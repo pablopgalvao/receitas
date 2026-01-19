@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de tilápia ao molho de maracujá](/images/file-de-tilapia-ao-molho-de-maracuja__793e73f5_01.png)
+![Filé de tilápia ao molho de maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-tilapia-ao-molho-de-maracuja__793e73f5_01.webp)
 
 ## 📝 Informações da Receita
 

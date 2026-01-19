@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canjica cremosa branca](/images/canjica-cremosa-branca__80186685_01.png)
+![Canjica cremosa branca](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/canjica-cremosa-branca__80186685_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de Natal](/images/bolo-de-natal__1c95389e_01.png)
+![Bolo de Natal](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-natal__1c95389e_01.webp)
 
 ## 📝 Informações da Receita
 

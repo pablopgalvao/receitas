@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Smoothie de abacate com banana e cacau](/images/smoothie-de-abacate-com-banana-e-cacau__502a1d68_01.png)
+![Smoothie de abacate com banana e cacau](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/smoothie-de-abacate-com-banana-e-cacau__502a1d68_01.webp)
 
 ## 📝 Informações da Receita
 

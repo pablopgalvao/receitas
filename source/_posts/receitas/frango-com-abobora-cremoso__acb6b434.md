@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango com abóbora cremoso](/images/frango-com-abobora-cremoso__acb6b434_01.png)
+![Frango com abóbora cremoso](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-com-abobora-cremoso__acb6b434_01.webp)
 
 ## 📝 Informações da Receita
 

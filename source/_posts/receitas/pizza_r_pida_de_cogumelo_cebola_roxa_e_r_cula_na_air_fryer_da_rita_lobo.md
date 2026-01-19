@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza rápida de cogumelo, cebola-roxa e rúcula na Air Fryer da Rita Lobo](/images/pizza_r_pida_de_cogumelo_cebola_roxa_e_r_cula_na_air_fryer_da_rita_lobo.jpg)
+![Pizza rápida de cogumelo, cebola-roxa e rúcula na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pizza_r_pida_de_cogumelo_cebola_roxa_e_r_cula_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

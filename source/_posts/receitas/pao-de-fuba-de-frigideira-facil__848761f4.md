@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de fubá de frigideira fácil](/images/pao-de-fuba-de-frigideira-facil__848761f4_01.png)
+![Pão de fubá de frigideira fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-fuba-de-frigideira-facil__848761f4_01.webp)
 
 ## 📝 Informações da Receita
 

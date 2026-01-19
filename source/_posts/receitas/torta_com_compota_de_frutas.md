@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta com compota de frutas](/images/torta_com_compota_de_frutas.jpg)
+![Torta com compota de frutas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torta_com_compota_de_frutas.jpg)
 
 ## 📝 Informações da Receita
 

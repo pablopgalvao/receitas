@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão tropeiro mineiro](/images/feijao-tropeiro-mineiro__41659333_01.png)
+![Feijão tropeiro mineiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-tropeiro-mineiro__41659333_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango assado com molho de laranja](/images/frango_assado_com_molho_de_laranja.jpg)
+![Frango assado com molho de laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_assado_com_molho_de_laranja.jpg)
 
 ## 📝 Informações da Receita
 

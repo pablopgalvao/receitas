@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Wrap de frango com Rap10](/images/wrap-de-frango-com-rap10__ffe7e9c2_01.png)
+![Wrap de frango com Rap10](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/wrap-de-frango-com-rap10__ffe7e9c2_01.webp)
 
 ## 📝 Informações da Receita
 

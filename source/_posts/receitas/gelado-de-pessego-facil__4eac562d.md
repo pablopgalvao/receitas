@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gelado de pêssego fácil](/images/gelado-de-pessego-facil__4eac562d_01.png)
+![Gelado de pêssego fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelado-de-pessego-facil__4eac562d_01.webp)
 
 ## 📝 Informações da Receita
 

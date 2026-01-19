@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de repolho com creme de leite](/images/salada-de-repolho-com-creme-de-leite__eea3d0a3_01.png)
+![Salada de repolho com creme de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-com-creme-de-leite__eea3d0a3_01.webp)
 
 ## 📝 Informações da Receita
 

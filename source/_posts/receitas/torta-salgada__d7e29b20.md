@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta salgada](/images/torta-salgada__d7e29b20_01.png)
+![Torta salgada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-salgada__d7e29b20_01.webp)
 
 ## 📝 Informações da Receita
 

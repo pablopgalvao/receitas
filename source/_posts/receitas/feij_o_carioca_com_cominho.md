@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Feijão-carioca com cominho](/images/feij_o_carioca_com_cominho.jpg)
+![Feijão-carioca com cominho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/feij_o_carioca_com_cominho.jpg)
 
 ## 📝 Informações da Receita
 

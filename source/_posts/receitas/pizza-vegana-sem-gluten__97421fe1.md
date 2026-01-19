@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza vegana sem glúten](/images/pizza-vegana-sem-gluten__97421fe1_01.png)
+![Pizza vegana sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-vegana-sem-gluten__97421fe1_01.webp)
 
 ## 📝 Informações da Receita
 

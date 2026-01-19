@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousse de chocolate aerado](/images/mousse-de-chocolate-aerado__e9f6f9ec_01.png)
+![Mousse de chocolate aerado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-chocolate-aerado__e9f6f9ec_01.webp)
 
 ## 📝 Informações da Receita
 

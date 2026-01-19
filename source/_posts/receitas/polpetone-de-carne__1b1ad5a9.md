@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polpetone de carne](/images/polpetone-de-carne__1b1ad5a9_01.png)
+![Polpetone de carne](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/polpetone-de-carne__1b1ad5a9_01.webp)
 
 ## 📝 Informações da Receita
 

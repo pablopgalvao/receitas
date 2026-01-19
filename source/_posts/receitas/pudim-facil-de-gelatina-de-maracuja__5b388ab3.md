@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim fácil de gelatina de maracujá](/images/pudim-facil-de-gelatina-de-maracuja__5b388ab3_01.png)
+![Pudim fácil de gelatina de maracujá](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-facil-de-gelatina-de-maracuja__5b388ab3_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -20,7 +20,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Avocado toast com tomate-pera](/images/avocado-toast-com-tomate-pera__bc57ea92_01.png)
+![Avocado toast com tomate-pera](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/avocado-toast-com-tomate-pera__bc57ea92_01.webp)
 
 ## 📝 Informações da Receita
 

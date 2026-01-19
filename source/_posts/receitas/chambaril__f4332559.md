@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chambaril na pressão](/images/chambaril__f4332559_01.png)
+![Chambaril na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chambaril__f4332559_01.webp)
 
 ## 📝 Informações da Receita
 

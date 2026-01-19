@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de banana congelada](/images/sorvete-de-banana-congelada__a912e299_01.png)
+![Sorvete de banana congelada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana-congelada__a912e299_01.webp)
 
 ## 📝 Informações da Receita
 

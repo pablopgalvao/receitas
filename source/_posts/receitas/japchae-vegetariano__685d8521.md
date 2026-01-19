@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Japchae vegetariano](/images/japchae-vegetariano__685d8521_01.png)
+![Japchae vegetariano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/japchae-vegetariano__685d8521_01.webp)
 
 ## 📝 Informações da Receita
 

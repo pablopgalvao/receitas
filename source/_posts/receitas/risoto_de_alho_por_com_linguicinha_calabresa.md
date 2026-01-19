@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de alho-poró com linguicinha calabresa](/images/risoto_de_alho_por_com_linguicinha_calabresa.jpg)
+![Risoto de alho-poró com linguicinha calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_alho_por_com_linguicinha_calabresa.jpg)
 
 ## 📝 Informações da Receita
 

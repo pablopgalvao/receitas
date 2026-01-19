@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Camafeu de travessa](/images/camafeu-de-travessa__f3df2f60_01.png)
+![Camafeu de travessa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camafeu-de-travessa__f3df2f60_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Curau de milho com leite condensado](/images/curau-de-milho-com-leite-condensado__b949192a_01.png)
+![Curau de milho com leite condensado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/curau-de-milho-com-leite-condensado__b949192a_01.webp)
 
 ## 📝 Informações da Receita
 

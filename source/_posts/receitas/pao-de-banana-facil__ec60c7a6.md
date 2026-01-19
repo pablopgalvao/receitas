@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de banana fácil](/images/pao-de-banana-facil__ec60c7a6_01.png)
+![Pão de banana fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-banana-facil__ec60c7a6_01.webp)
 
 ## 📝 Informações da Receita
 

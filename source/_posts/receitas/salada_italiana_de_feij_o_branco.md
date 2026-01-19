@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada italiana de feijão-branco](/images/salada_italiana_de_feij_o_branco.jpg)
+![Salada italiana de feijão-branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_italiana_de_feij_o_branco.jpg)
 
 ## 📝 Informações da Receita
 

@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rabanada de forno com leite condensado](/images/rabanada-de-forno-com-leite-condensado__52652af4_01.png)
+![Rabanada de forno com leite condensado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/rabanada-de-forno-com-leite-condensado__52652af4_01.webp)
 
 ## 📝 Informações da Receita
 

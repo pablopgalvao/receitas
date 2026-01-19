@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de abóbora com polvilho](/images/pao-de-abobora-com-polvilho__16e3c4e5_01.png)
+![Pão de abóbora com polvilho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-abobora-com-polvilho__16e3c4e5_01.webp)
 
 ## 📝 Informações da Receita
 

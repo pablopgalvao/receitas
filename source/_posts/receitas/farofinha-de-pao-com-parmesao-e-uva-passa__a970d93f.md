@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: 4 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Farofinha de pão com parmesão e uva-passa](/images/farofinha-de-pao-com-parmesao-e-uva-passa__a970d93f_01.webp)
+![Farofinha de pão com parmesão e uva-passa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofinha-de-pao-com-parmesao-e-uva-passa__a970d93f_01.webp)
 
 ## 📝 Informações da Receita
 

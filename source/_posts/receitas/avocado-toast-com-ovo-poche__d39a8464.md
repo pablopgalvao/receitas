@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Avocado toast com ovo poché](/images/avocado-toast-com-ovo-poche__d39a8464_01.png)
+![Avocado toast com ovo poché](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/avocado-toast-com-ovo-poche__d39a8464_01.webp)
 
 ## 📝 Informações da Receita
 

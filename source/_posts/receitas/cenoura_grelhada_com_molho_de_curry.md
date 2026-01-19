@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cenoura grelhada com molho de curry](/images/cenoura_grelhada_com_molho_de_curry.jpg)
+![Cenoura grelhada com molho de curry](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_grelhada_com_molho_de_curry.jpg)
 
 ## 📝 Informações da Receita
 

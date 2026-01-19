@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne moída com vagem, farofa de cenoura e saladinha de rabanete](/images/carne_mo_da_com_vagem_farofa_de_cenoura_e_saladinha_de_rabanete.jpg)
+![Carne moída com vagem, farofa de cenoura e saladinha de rabanete](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/carne_mo_da_com_vagem_farofa_de_cenoura_e_saladinha_de_rabanete.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de maionese caseira](/images/salada-de-maionese-caseira__4778db15_01.png)
+![Salada de maionese caseira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-maionese-caseira__4778db15_01.webp)
 
 ## 📝 Informações da Receita
 

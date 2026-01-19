@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Talharim com brócolis assado ao alho e óleo](/images/talharim_com_br_colis_assado_ao_alho_e_leo.jpg)
+![Talharim com brócolis assado ao alho e óleo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/talharim_com_br_colis_assado_ao_alho_e_leo.jpg)
 
 ## 📝 Informações da Receita
 

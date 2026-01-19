@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Trufas de morango](/images/trufas-de-morango__e5227017_01.png)
+![Trufas de morango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/trufas-de-morango__e5227017_01.webp)
 
 ## 📝 Informações da Receita
 

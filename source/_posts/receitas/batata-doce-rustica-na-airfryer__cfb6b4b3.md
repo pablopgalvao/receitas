@@ -21,7 +21,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata-doce rústica na airfryer](/images/batata-doce-rustica-na-airfryer__cfb6b4b3_01.png)
+![Batata-doce rústica na airfryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-doce-rustica-na-airfryer__cfb6b4b3_01.webp)
 
 ## 📝 Informações da Receita
 

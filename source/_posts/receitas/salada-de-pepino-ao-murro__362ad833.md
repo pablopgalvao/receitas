@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de pepino ao murro](/images/salada-de-pepino-ao-murro__362ad833_01.webp)
+![Salada de pepino ao murro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-pepino-ao-murro__362ad833_01.webp)
 
 ## 📝 Informações da Receita
 

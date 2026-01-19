@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brioche recheado](/images/brioche-recheado__68e0c260_01.png)
+![Brioche recheado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brioche-recheado__68e0c260_01.webp)
 
 ## 📝 Informações da Receita
 

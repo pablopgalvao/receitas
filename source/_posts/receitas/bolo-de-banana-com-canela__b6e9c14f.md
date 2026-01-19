@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de banana com canela](/images/bolo-de-banana-com-canela__b6e9c14f_01.png)
+![Bolo de banana com canela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-canela__b6e9c14f_01.webp)
 
 ## 📝 Informações da Receita
 

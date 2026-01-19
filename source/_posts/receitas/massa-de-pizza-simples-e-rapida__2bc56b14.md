@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Massa de pizza simples e rápida](/images/massa-de-pizza-simples-e-rapida__2bc56b14_01.png)
+![Massa de pizza simples e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/massa-de-pizza-simples-e-rapida__2bc56b14_01.webp)
 
 ## 📝 Informações da Receita
 

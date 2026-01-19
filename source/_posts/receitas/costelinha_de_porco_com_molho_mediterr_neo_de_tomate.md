@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costelinha de porco com molho mediterrâneo de tomate](/images/costelinha_de_porco_com_molho_mediterr_neo_de_tomate.jpg)
+![Costelinha de porco com molho mediterrâneo de tomate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/costelinha_de_porco_com_molho_mediterr_neo_de_tomate.jpg)
 
 ## 📝 Informações da Receita
 

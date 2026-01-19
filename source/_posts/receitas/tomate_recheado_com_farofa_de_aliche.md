@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tomate recheado com farofa de aliche](/images/tomate_recheado_com_farofa_de_aliche.jpg)
+![Tomate recheado com farofa de aliche](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tomate_recheado_com_farofa_de_aliche.jpg)
 
 ## 📝 Informações da Receita
 

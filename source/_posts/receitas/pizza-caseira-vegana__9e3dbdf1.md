@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pizza caseira vegana](/images/pizza-caseira-vegana__9e3dbdf1_01.png)
+![Pizza caseira vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pizza-caseira-vegana__9e3dbdf1_01.webp)
 
 ## 📝 Informações da Receita
 

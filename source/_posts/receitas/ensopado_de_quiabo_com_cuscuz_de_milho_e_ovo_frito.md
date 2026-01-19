@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ensopado de quiabo com cuscuz de milho e ovo frito](/images/ensopado_de_quiabo_com_cuscuz_de_milho_e_ovo_frito.jpg)
+![Ensopado de quiabo com cuscuz de milho e ovo frito](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ensopado_de_quiabo_com_cuscuz_de_milho_e_ovo_frito.jpg)
 
 ## 📝 Informações da Receita
 

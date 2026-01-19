@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Ceviche de salmão](/images/ceviche-de-salmao__947aa127_01.png)
+![Ceviche de salmão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao__947aa127_01.webp)
 
 ## 📝 Informações da Receita
 

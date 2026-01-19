@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão cremoso com almôndegas](/images/macarrao-cremoso-com-almondegas__26c0e30c_01.png)
+![Macarrão cremoso com almôndegas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-cremoso-com-almondegas__26c0e30c_01.webp)
 
 ## 📝 Informações da Receita
 

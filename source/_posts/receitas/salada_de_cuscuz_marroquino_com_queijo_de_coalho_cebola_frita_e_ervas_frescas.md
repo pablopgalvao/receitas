@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de cuscuz marroquino com queijo de coalho, cebola frita e ervas frescas](/images/salada_de_cuscuz_marroquino_com_queijo_de_coalho_cebola_frita_e_ervas_frescas.jpg)
+![Salada de cuscuz marroquino com queijo de coalho, cebola frita e ervas frescas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_cuscuz_marroquino_com_queijo_de_coalho_cebola_frita_e_ervas_frescas.jpg)
 
 ## 📝 Informações da Receita
 

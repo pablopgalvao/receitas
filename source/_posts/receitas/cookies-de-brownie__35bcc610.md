@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cookies de brownie](/images/cookies-de-brownie__35bcc610_01.png)
+![Cookies de brownie](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cookies-de-brownie__35bcc610_01.webp)
 
 ## 📝 Informações da Receita
 

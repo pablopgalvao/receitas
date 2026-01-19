@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pamonha](/images/pamonha__bde33f21_01.png)
+![Pamonha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pamonha__bde33f21_01.webp)
 
 ## 📝 Informações da Receita
 

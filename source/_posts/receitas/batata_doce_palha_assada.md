@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata-doce palha assada](/images/batata_doce_palha_assada.jpg)
+![Batata-doce palha assada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_doce_palha_assada.jpg)
 
 ## 📝 Informações da Receita
 

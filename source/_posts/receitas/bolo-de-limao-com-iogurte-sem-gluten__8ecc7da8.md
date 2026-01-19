@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de limão com iogurte sem glúten](/images/bolo-de-limao-com-iogurte-sem-gluten__8ecc7da8_01.png)
+![Bolo de limão com iogurte sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-limao-com-iogurte-sem-gluten__8ecc7da8_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Creme de baunilha e especiarias sem lactose](/images/creme-de-baunilha-e-especiarias-sem-lactose__56cb67df_01.png)
+![Creme de baunilha e especiarias sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-baunilha-e-especiarias-sem-lactose__56cb67df_01.webp)
 
 ## 📝 Informações da Receita
 

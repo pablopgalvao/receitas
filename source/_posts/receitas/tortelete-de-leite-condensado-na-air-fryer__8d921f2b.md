@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tortelete de leite condensado na air fryer](/images/tortelete-de-leite-condensado-na-air-fryer__8d921f2b_01.png)
+![Tortelete de leite condensado na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tortelete-de-leite-condensado-na-air-fryer__8d921f2b_01.webp)
 
 ## 📝 Informações da Receita
 

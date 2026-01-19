@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Hambúrguer simples](/images/hamburguer-simples__1f5a5482_01.png)
+![Hambúrguer simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/hamburguer-simples__1f5a5482_01.webp)
 
 ## 📝 Informações da Receita
 

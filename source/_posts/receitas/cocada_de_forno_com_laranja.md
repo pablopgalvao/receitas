@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cocada de forno com laranja](/images/cocada_de_forno_com_laranja.jpg)
+![Cocada de forno com laranja](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cocada_de_forno_com_laranja.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Picadinho de frango cremoso fit](/images/picadinho-de-frango-cremoso-fit__2c73e507_01.png)
+![Picadinho de frango cremoso fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/picadinho-de-frango-cremoso-fit__2c73e507_01.webp)
 
 ## 📝 Informações da Receita
 

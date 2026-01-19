@@ -21,7 +21,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta fria vegana](/images/torta-fria-vegana__de74ecf4_01.png)
+![Torta fria vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-fria-vegana__de74ecf4_01.webp)
 
 ## 📝 Informações da Receita
 

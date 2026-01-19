@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoito amanteigado sem glúten](/images/biscoito-amanteigado-sem-gluten__fd433707_01.png)
+![Biscoito amanteigado sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoito-amanteigado-sem-gluten__fd433707_01.webp)
 
 ## 📝 Informações da Receita
 

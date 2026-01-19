@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Miojo à carbonara](/images/miojo-a-carbonara__3fcb3880_01.png)
+![Miojo à carbonara](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/miojo-a-carbonara__3fcb3880_01.webp)
 
 ## 📝 Informações da Receita
 

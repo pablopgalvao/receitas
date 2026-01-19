@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escondidinho de frango](/images/escondidinho-de-frango__a18ac343_01.png)
+![Escondidinho de frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/escondidinho-de-frango__a18ac343_01.webp)
 
 ## 📝 Informações da Receita
 

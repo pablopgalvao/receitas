@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de fôrma 100% integral](/images/p_o_de_f_rma_100_integral.jpg)
+![Pão de fôrma 100% integral](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_de_f_rma_100_integral.jpg)
 
 ## 📝 Informações da Receita
 

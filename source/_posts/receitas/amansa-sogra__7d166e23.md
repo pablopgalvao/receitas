@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Amansa sogra](/images/amansa-sogra__7d166e23_01.png)
+![Amansa sogra](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/amansa-sogra__7d166e23_01.webp)
 
 ## 📝 Informações da Receita
 

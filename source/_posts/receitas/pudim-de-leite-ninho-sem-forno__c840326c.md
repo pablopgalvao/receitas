@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de leite Ninho sem forno](/images/pudim-de-leite-ninho-sem-forno__c840326c_01.png)
+![Pudim de leite Ninho sem forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-de-leite-ninho-sem-forno__c840326c_01.webp)
 
 ## 📝 Informações da Receita
 

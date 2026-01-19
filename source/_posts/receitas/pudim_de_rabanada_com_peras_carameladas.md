@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de rabanada com peras carameladas](/images/pudim_de_rabanada_com_peras_carameladas.jpg)
+![Pudim de rabanada com peras carameladas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pudim_de_rabanada_com_peras_carameladas.jpg)
 
 ## 📝 Informações da Receita
 

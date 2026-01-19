@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quiche sem massa de alho-poró com bacon](/images/quiche-sem-massa-de-alho-poro-com-bacon__bc8dec79_01.png)
+![Quiche sem massa de alho-poró com bacon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quiche-sem-massa-de-alho-poro-com-bacon__bc8dec79_01.webp)
 
 ## 📝 Informações da Receita
 

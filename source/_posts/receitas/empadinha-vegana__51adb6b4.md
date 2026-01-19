@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Empadinha vegana](/images/empadinha-vegana__51adb6b4_01.png)
+![Empadinha vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-vegana__51adb6b4_01.webp)
 
 ## 📝 Informações da Receita
 

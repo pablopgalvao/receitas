@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Kibe de forno recheado com requeijão](/images/kibe-de-forno-recheado-com-requeijao__68f12f91_01.png)
+![Kibe de forno recheado com requeijão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/kibe-de-forno-recheado-com-requeijao__68f12f91_01.webp)
 
 ## 📝 Informações da Receita
 

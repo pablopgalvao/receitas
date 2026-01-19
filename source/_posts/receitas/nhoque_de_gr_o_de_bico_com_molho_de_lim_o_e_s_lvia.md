@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Nhoque de grão-de-bico com molho de limão e sálvia](/images/nhoque_de_gr_o_de_bico_com_molho_de_lim_o_e_s_lvia.jpg)
+![Nhoque de grão-de-bico com molho de limão e sálvia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_gr_o_de_bico_com_molho_de_lim_o_e_s_lvia.jpg)
 
 ## 📝 Informações da Receita
 

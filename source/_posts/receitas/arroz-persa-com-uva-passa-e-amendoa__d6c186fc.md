@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: 30 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz persa com uva-passa e amêndoa](/images/arroz-persa-com-uva-passa-e-amendoa__d6c186fc_01.webp)
+![Arroz persa com uva-passa e amêndoa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-persa-com-uva-passa-e-amendoa__d6c186fc_01.webp)
 
 ## 📝 Informações da Receita
 

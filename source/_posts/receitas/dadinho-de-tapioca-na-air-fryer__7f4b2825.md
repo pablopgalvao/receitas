@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Dadinho de tapioca na air fryer](/images/dadinho-de-tapioca-na-air-fryer__7f4b2825_01.png)
+![Dadinho de tapioca na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/dadinho-de-tapioca-na-air-fryer__7f4b2825_01.webp)
 
 ## 📝 Informações da Receita
 

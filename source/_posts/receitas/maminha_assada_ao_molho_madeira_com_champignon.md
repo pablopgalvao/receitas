@@ -28,7 +28,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Maminha assada ao molho madeira com champignon](/images/maminha_assada_ao_molho_madeira_com_champignon.jpg)
+![Maminha assada ao molho madeira com champignon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maminha_assada_ao_molho_madeira_com_champignon.jpg)
 
 ## 📝 Informações da Receita
 

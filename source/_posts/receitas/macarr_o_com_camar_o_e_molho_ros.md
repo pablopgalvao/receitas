@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com camarão e molho rosé](/images/macarr_o_com_camar_o_e_molho_ros.jpg)
+![Macarrão com camarão e molho rosé](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_camar_o_e_molho_ros.jpg)
 
 ## 📝 Informações da Receita
 

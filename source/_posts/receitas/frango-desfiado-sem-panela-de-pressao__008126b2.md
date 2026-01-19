@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango desfiado sem panela de pressão](/images/frango-desfiado-sem-panela-de-pressao__008126b2_01.png)
+![Frango desfiado sem panela de pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-desfiado-sem-panela-de-pressao__008126b2_01.webp)
 
 ## 📝 Informações da Receita
 

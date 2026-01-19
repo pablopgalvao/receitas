@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Banana-da-terra na air fryer](/images/banana-da-terra-na-air-fryer__6ed7ae37_01.png)
+![Banana-da-terra na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-da-terra-na-air-fryer__6ed7ae37_01.webp)
 
 ## 📝 Informações da Receita
 

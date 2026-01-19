@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango desfiado simples](/images/frango-desfiado-simples__78b747ed_01.png)
+![Frango desfiado simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-desfiado-simples__78b747ed_01.webp)
 
 ## 📝 Informações da Receita
 

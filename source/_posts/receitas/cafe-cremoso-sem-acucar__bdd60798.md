@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Café cremoso sem açúcar](/images/cafe-cremoso-sem-acucar__bdd60798_01.png)
+![Café cremoso sem açúcar](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-cremoso-sem-acucar__bdd60798_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata recheada na air fryer](/images/batata-recheada-na-airfryer__a9d316a1_01.png)
+![Batata recheada na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-recheada-na-airfryer__a9d316a1_01.webp)
 
 ## 📝 Informações da Receita
 

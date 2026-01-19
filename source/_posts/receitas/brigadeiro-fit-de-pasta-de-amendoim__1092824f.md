@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro fit de pasta de amendoim](/images/brigadeiro-fit-de-pasta-de-amendoim__1092824f_01.png)
+![Brigadeiro fit de pasta de amendoim](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-fit-de-pasta-de-amendoim__1092824f_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão italiano recheado](/images/pao-italiano-recheado__d788ad5f_01.png)
+![Pão italiano recheado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-italiano-recheado__d788ad5f_01.webp)
 
 ## 📝 Informações da Receita
 

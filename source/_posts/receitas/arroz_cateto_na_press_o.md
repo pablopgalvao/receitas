@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz cateto na pressão](/images/arroz_cateto_na_press_o.jpg)
+![Arroz cateto na pressão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_cateto_na_press_o.jpg)
 
 ## 📝 Informações da Receita
 

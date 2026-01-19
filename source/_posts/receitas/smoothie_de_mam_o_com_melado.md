@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Smoothie de mamão com melado](/images/smoothie_de_mam_o_com_melado.jpg)
+![Smoothie de mamão com melado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/smoothie_de_mam_o_com_melado.jpg)
 
 ## 📝 Informações da Receita
 

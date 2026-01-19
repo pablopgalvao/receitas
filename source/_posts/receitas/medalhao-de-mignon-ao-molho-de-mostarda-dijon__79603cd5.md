@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Medalhão de mignon ao molho de mostarda dijon](/images/medalhao-de-mignon-ao-molho-de-mostarda-dijon__79603cd5_01.png)
+![Medalhão de mignon ao molho de mostarda dijon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/medalhao-de-mignon-ao-molho-de-mostarda-dijon__79603cd5_01.webp)
 
 ## 📝 Informações da Receita
 

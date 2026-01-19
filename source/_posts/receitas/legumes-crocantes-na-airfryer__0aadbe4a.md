@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Legumes crocantes na air fryer](/images/legumes-crocantes-na-airfryer__0aadbe4a_01.png)
+![Legumes crocantes na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/legumes-crocantes-na-airfryer__0aadbe4a_01.webp)
 
 ## 📝 Informações da Receita
 

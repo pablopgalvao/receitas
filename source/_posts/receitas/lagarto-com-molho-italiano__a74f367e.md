@@ -19,7 +19,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lagarto com molho italiano](/images/lagarto-com-molho-italiano__a74f367e_01.png)
+![Lagarto com molho italiano](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lagarto-com-molho-italiano__a74f367e_01.webp)
 
 ## 📝 Informações da Receita
 

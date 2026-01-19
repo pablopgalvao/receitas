@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Brigadeiro de panela sem manteiga](/images/brigadeiro-de-panela-sem-manteiga__9a2690d7_01.png)
+![Brigadeiro de panela sem manteiga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-panela-sem-manteiga__9a2690d7_01.webp)
 
 ## 📝 Informações da Receita
 

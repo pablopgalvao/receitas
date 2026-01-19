@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão ninho ao molho branco](/images/macarrao-ninho-ao-molho-branco__a7b108f7_01.png)
+![Macarrão ninho ao molho branco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-ninho-ao-molho-branco__a7b108f7_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Manteiga vegana](/images/manteiga-vegana__ab0b908b_01.png)
+![Manteiga vegana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/manteiga-vegana__ab0b908b_01.webp)
 
 ## 📝 Informações da Receita
 

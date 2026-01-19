@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Berinjela assada com arroz sete cereais](/images/berinjela_assada_com_arroz_sete_cereais.jpg)
+![Berinjela assada com arroz sete cereais](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/berinjela_assada_com_arroz_sete_cereais.jpg)
 
 ## 📝 Informações da Receita
 

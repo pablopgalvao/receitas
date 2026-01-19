@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Roseta de peixe no papilote](/images/roseta_de_peixe_no_papilote.jpg)
+![Roseta de peixe no papilote](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/roseta_de_peixe_no_papilote.jpg)
 
 ## 📝 Informações da Receita
 

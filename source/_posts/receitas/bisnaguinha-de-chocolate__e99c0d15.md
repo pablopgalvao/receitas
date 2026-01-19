@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bisnaguinha de chocolate](/images/bisnaguinha-de-chocolate__e99c0d15_01.png)
+![Bisnaguinha de chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisnaguinha-de-chocolate__e99c0d15_01.webp)
 
 ## 📝 Informações da Receita
 

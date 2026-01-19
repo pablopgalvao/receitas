@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de macarrão com atum light](/images/salada-de-macarrao-com-atum-light__5d046292_01.png)
+![Salada de macarrão com atum light](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-atum-light__5d046292_01.webp)
 
 ## 📝 Informações da Receita
 

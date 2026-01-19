@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cocadinha francesa (reaproveitamento)](/images/cocadinha_francesa_reaproveitamento.jpg)
+![Cocadinha francesa (reaproveitamento)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cocadinha_francesa_reaproveitamento.jpg)
 
 ## 📝 Informações da Receita
 

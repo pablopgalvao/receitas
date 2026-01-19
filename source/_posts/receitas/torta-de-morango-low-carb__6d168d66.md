@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de morango low carb](/images/torta-de-morango-low-carb__6d168d66_01.png)
+![Torta de morango low carb](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-morango-low-carb__6d168d66_01.webp)
 
 ## 📝 Informações da Receita
 

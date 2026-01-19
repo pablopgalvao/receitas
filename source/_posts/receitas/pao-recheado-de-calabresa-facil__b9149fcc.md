@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão recheado de calabresa fácil](/images/pao-recheado-de-calabresa-facil__b9149fcc_01.png)
+![Pão recheado de calabresa fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-recheado-de-calabresa-facil__b9149fcc_01.webp)
 
 ## 📝 Informações da Receita
 

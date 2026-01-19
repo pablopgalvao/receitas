@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de beterraba com figo e presunto cru](/images/risoto_de_beterraba_com_figo_e_presunto_cru.jpg)
+![Risoto de beterraba com figo e presunto cru](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_beterraba_com_figo_e_presunto_cru.jpg)
 
 ## 📝 Informações da Receita
 

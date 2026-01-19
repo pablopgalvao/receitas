@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
     - farinha
 difficulty: ''
 servings: ''
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de batata com sardinha](/images/torta-de-batata-com-sardinha__67e02ff0_01.webp)
+![Torta de batata com sardinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-batata-com-sardinha__67e02ff0_01.webp)
 
 ## 📝 Informações da Receita
 

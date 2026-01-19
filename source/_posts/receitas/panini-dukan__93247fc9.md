@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panini Dukan](/images/panini-dukan__93247fc9_01.png)
+![Panini Dukan](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panini-dukan__93247fc9_01.webp)
 
 ## 📝 Informações da Receita
 

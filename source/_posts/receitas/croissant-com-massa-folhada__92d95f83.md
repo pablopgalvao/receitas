@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Croissant com massa folhada](/images/croissant-com-massa-folhada__92d95f83_01.png)
+![Croissant com massa folhada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croissant-com-massa-folhada__92d95f83_01.webp)
 
 ## 📝 Informações da Receita
 

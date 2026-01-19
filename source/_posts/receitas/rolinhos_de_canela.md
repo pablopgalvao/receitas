@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rolinhos de canela](/images/rolinhos_de_canela.jpg)
+![Rolinhos de canela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rolinhos_de_canela.jpg)
 
 ## 📝 Informações da Receita
 

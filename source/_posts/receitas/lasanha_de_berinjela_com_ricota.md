@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de berinjela com ricota](/images/lasanha_de_berinjela_com_ricota.jpg)
+![Lasanha de berinjela com ricota](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lasanha_de_berinjela_com_ricota.jpg)
 
 ## 📝 Informações da Receita
 

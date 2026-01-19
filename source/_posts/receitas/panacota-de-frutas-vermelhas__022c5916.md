@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Panacota de frutas vermelhas](/images/panacota-de-frutas-vermelhas__022c5916_01.png)
+![Panacota de frutas vermelhas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panacota-de-frutas-vermelhas__022c5916_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Maçã assada com crocante de aveia](/images/ma_assada_com_crocante_de_aveia.jpg)
+![Maçã assada com crocante de aveia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ma_assada_com_crocante_de_aveia.jpg)
 
 ## 📝 Informações da Receita
 

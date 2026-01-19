@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Peixe em roseta com arroz integral e chutney de manga](/images/peixe_em_roseta_com_arroz_integral_e_chutney_de_manga.jpg)
+![Peixe em roseta com arroz integral e chutney de manga](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/peixe_em_roseta_com_arroz_integral_e_chutney_de_manga.jpg)
 
 ## 📝 Informações da Receita
 

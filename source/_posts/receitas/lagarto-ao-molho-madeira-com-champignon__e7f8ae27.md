@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lagarto ao molho madeira com champignon](/images/lagarto-ao-molho-madeira-com-champignon__e7f8ae27_01.png)
+![Lagarto ao molho madeira com champignon](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lagarto-ao-molho-madeira-com-champignon__e7f8ae27_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoitinho de leite ninho](/images/biscoitinho-de-leite-ninho__f3878fd4_01.png)
+![Biscoitinho de leite ninho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoitinho-de-leite-ninho__f3878fd4_01.webp)
 
 ## 📝 Informações da Receita
 

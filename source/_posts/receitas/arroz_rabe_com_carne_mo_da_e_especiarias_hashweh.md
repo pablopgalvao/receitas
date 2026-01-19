@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arroz árabe com carne moída e especiarias (hashweh)](/images/arroz_rabe_com_carne_mo_da_e_especiarias_hashweh.jpg)
+![Arroz árabe com carne moída e especiarias (hashweh)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_rabe_com_carne_mo_da_e_especiarias_hashweh.jpg)
 
 ## 📝 Informações da Receita
 

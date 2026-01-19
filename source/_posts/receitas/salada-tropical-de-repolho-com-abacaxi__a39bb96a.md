@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada tropical de repolho com abacaxi](/images/salada-tropical-de-repolho-com-abacaxi__a39bb96a_01.png)
+![Salada tropical de repolho com abacaxi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-tropical-de-repolho-com-abacaxi__a39bb96a_01.webp)
 
 ## 📝 Informações da Receita
 

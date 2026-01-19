@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espaguete com molho de tomate assado](/images/espaguete_com_molho_de_tomate_assado.jpg)
+![Espaguete com molho de tomate assado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espaguete_com_molho_de_tomate_assado.jpg)
 
 ## 📝 Informações da Receita
 

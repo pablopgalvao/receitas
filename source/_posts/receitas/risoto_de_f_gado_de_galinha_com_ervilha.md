@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de fígado de galinha com ervilha](/images/risoto_de_f_gado_de_galinha_com_ervilha.jpg)
+![Risoto de fígado de galinha com ervilha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_f_gado_de_galinha_com_ervilha.jpg)
 
 ## 📝 Informações da Receita
 

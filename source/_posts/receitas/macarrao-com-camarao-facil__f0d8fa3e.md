@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com camarão fácil](/images/macarrao-com-camarao-facil__f0d8fa3e_01.png)
+![Macarrão com camarão fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-camarao-facil__f0d8fa3e_01.webp)
 
 ## 📝 Informações da Receita
 

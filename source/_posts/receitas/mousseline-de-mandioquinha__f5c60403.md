@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Mousseline de mandioquinha](/images/mousseline-de-mandioquinha__f5c60403_01.png)
+![Mousseline de mandioquinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousseline-de-mandioquinha__f5c60403_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de tapioca gelado](/images/bolo-de-tapioca-gelado__e9b7200f_01.png)
+![Bolo de tapioca gelado](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-tapioca-gelado__e9b7200f_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Trufas de cacau fit](/images/trufas-de-cacau-fit__9eb5fb0d_01.png)
+![Trufas de cacau fit](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/trufas-de-cacau-fit__9eb5fb0d_01.webp)
 
 ## 📝 Informações da Receita
 

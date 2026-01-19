@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata-doce recheada com frango e cream cheese](/images/batata-doce-recheada-com-frango-e-cream-cheese__98397f8e_01.png)
+![Batata-doce recheada com frango e cream cheese](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/batata-doce-recheada-com-frango-e-cream-cheese__98397f8e_01.webp)
 
 ## 📝 Informações da Receita
 

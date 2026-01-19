@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rocambole de carne moída fácil](/images/rocambole_de_carne_mo_da_f_cil.jpg)
+![Rocambole de carne moída fácil](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/rocambole_de_carne_mo_da_f_cil.jpg)
 
 ## 📝 Informações da Receita
 

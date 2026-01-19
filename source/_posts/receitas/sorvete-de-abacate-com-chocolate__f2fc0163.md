@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de abacate com chocolate](/images/sorvete-de-abacate-com-chocolate__f2fc0163_01.png)
+![Sorvete de abacate com chocolate](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-abacate-com-chocolate__f2fc0163_01.webp)
 
 ## 📝 Informações da Receita
 

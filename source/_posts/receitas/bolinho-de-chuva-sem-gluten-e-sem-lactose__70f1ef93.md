@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de chuva sem glúten e sem lactose](/images/bolinho-de-chuva-sem-gluten-e-sem-lactose__70f1ef93_01.png)
+![Bolinho de chuva sem glúten e sem lactose](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-chuva-sem-gluten-e-sem-lactose__70f1ef93_01.webp)
 
 ## 📝 Informações da Receita
 

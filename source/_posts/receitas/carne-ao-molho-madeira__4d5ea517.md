@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Carne ao molho madeira](/images/carne-ao-molho-madeira__4d5ea517_01.png)
+![Carne ao molho madeira](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-ao-molho-madeira__4d5ea517_01.webp)
 
 ## 📝 Informações da Receita
 

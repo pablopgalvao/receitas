@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fritada de batata com calabresa](/images/fritada-de-batata-com-calabresa__66d9a7fc_01.png)
+![Fritada de batata com calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-batata-com-calabresa__66d9a7fc_01.webp)
 
 ## 📝 Informações da Receita
 

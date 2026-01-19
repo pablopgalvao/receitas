@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Relish de pepino](/images/relish_de_pepino.jpg)
+![Relish de pepino](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/relish_de_pepino.jpg)
 
 ## 📝 Informações da Receita
 

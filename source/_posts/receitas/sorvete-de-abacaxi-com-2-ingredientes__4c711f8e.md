@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sorvete de abacaxi com 2 ingredientes](/images/sorvete-de-abacaxi-com-2-ingredientes__4c711f8e_01.png)
+![Sorvete de abacaxi com 2 ingredientes](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-abacaxi-com-2-ingredientes__4c711f8e_01.webp)
 
 ## 📝 Informações da Receita
 

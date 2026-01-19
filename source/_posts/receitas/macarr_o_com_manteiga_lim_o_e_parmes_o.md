@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com manteiga, limão e parmesão](/images/macarr_o_com_manteiga_lim_o_e_parmes_o.jpg)
+![Macarrão com manteiga, limão e parmesão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_manteiga_lim_o_e_parmes_o.jpg)
 
 ## 📝 Informações da Receita
 

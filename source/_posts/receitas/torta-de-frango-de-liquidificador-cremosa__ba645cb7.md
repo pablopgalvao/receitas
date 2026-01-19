@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torta de frango de liquidificador cremosa](/images/torta-de-frango-de-liquidificador-cremosa__ba645cb7_01.png)
+![Torta de frango de liquidificador cremosa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-frango-de-liquidificador-cremosa__ba645cb7_01.webp)
 
 ## 📝 Informações da Receita
 

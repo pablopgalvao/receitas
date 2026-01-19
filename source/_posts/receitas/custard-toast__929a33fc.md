@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Custard toast](/images/custard-toast__929a33fc_01.png)
+![Custard toast](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/custard-toast__929a33fc_01.webp)
 
 ## 📝 Informações da Receita
 

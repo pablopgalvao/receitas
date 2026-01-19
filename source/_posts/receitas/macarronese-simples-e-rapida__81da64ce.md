@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarronese simples e rápida](/images/macarronese-simples-e-rapida__81da64ce_01.png)
+![Macarronese simples e rápida](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarronese-simples-e-rapida__81da64ce_01.webp)
 
 ## 📝 Informações da Receita
 

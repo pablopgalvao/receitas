@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de tomate com castanha e hortelã](/images/salada_de_tomate_com_castanha_e_hortel.jpg)
+![Salada de tomate com castanha e hortelã](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_tomate_com_castanha_e_hortel.jpg)
 
 ## 📝 Informações da Receita
 

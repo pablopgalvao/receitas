@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Biscoitos de aveia com banana e mel](/images/biscoitos-de-aveia-com-banana-e-mel__dc83c541_01.png)
+![Biscoitos de aveia com banana e mel](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/biscoitos-de-aveia-com-banana-e-mel__dc83c541_01.webp)
 
 ## 📝 Informações da Receita
 

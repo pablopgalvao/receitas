@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: 2 hora
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Drinque de cerveja com gengibre e limão](/images/drinque-de-cerveja-gengibre-e-limao__0ae45ad7_01.webp)
+![Drinque de cerveja com gengibre e limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/drinque-de-cerveja-gengibre-e-limao__0ae45ad7_01.webp)
 
 ## 📝 Informações da Receita
 

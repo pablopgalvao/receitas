@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de lentilha com cebola caramelizada](/images/salada_de_lentilha_com_cebola_caramelizada.jpg)
+![Salada de lentilha com cebola caramelizada](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_lentilha_com_cebola_caramelizada.jpg)
 
 ## 📝 Informações da Receita
 

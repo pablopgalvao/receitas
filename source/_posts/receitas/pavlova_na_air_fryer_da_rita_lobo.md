@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pavlova na Air Fryer da Rita Lobo](/images/pavlova_na_air_fryer_da_rita_lobo.jpg)
+![Pavlova na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pavlova_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

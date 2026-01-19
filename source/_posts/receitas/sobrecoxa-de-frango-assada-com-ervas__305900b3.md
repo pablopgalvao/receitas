@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sobrecoxa de frango assada com ervas](/images/sobrecoxa-de-frango-assada-com-ervas__305900b3_01.png)
+![Sobrecoxa de frango assada com ervas](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sobrecoxa-de-frango-assada-com-ervas__305900b3_01.webp)
 
 ## 📝 Informações da Receita
 

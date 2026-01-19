@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com sardinha e limão](/images/macarr_o_com_sardinha_e_lim_o.jpg)
+![Macarrão com sardinha e limão](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_com_sardinha_e_lim_o.jpg)
 
 ## 📝 Informações da Receita
 

@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Shakshuka com grão-de-bico](/images/shakshuka_com_gr_o_de_bico.jpg)
+![Shakshuka com grão-de-bico](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/shakshuka_com_gr_o_de_bico.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chipa simples](/images/chipa-simples__756b2326_01.png)
+![Chipa simples](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/chipa-simples__756b2326_01.webp)
 
 ## 📝 Informações da Receita
 

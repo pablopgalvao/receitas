@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salpicão de forno](/images/salpicao-de-forno__7018dc27_01.png)
+![Salpicão de forno](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salpicao-de-forno__7018dc27_01.webp)
 
 ## 📝 Informações da Receita
 

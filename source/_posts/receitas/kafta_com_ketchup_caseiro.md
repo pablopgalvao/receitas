@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Kafta com ketchup caseiro](/images/kafta_com_ketchup_caseiro.jpg)
+![Kafta com ketchup caseiro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/kafta_com_ketchup_caseiro.jpg)
 
 ## 📝 Informações da Receita
 

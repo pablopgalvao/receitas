@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lombo recheado com banana](/images/lombo_recheado_com_banana.jpg)
+![Lombo recheado com banana](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lombo_recheado_com_banana.jpg)
 
 ## 📝 Informações da Receita
 

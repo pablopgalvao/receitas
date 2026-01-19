@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Talharim caseiro com azeite e louro](/images/talharim-caseiro-com-azeite-e-louro__2850850c_01.webp)
+![Talharim caseiro com azeite e louro](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/talharim-caseiro-com-azeite-e-louro__2850850c_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - a
+
 difficulty: ''
 servings: ''
 time: 3 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de caneca de banana com doce de leite](/images/bolo-de-caneca-de-banana-com-doce-de-leite__62dad6d5_01.webp)
+![Bolo de caneca de banana com doce de leite](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-caneca-de-banana-com-doce-de-leite__62dad6d5_01.webp)
 
 ## 📝 Informações da Receita
 

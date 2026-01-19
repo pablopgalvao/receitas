@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Medalhão de frango](/images/medalhao-de-frango__d2637439_01.png)
+![Medalhão de frango](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/medalhao-de-frango__d2637439_01.webp)
 
 ## 📝 Informações da Receita
 

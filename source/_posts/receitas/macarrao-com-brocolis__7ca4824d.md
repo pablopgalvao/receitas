@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com brócolis](/images/macarrao-com-brocolis__7ca4824d_01.png)
+![Macarrão com brócolis](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-brocolis__7ca4824d_01.webp)
 
 ## 📝 Informações da Receita
 

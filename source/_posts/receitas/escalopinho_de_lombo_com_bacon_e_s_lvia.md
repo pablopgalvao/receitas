@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Escalopinho de lombo com bacon e sálvia](/images/escalopinho_de_lombo_com_bacon_e_s_lvia.jpg)
+![Escalopinho de lombo com bacon e sálvia](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escalopinho_de_lombo_com_bacon_e_s_lvia.jpg)
 
 ## 📝 Informações da Receita
 

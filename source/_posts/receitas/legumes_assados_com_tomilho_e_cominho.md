@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Legumes assados com tomilho e cominho](/images/legumes_assados_com_tomilho_e_cominho.jpg)
+![Legumes assados com tomilho e cominho](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/legumes_assados_com_tomilho_e_cominho.jpg)
 
 ## 📝 Informações da Receita
 

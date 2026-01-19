@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Couve-flor com mel e especiarias na Air Fryer da Rita Lobo](/images/couve_flor_com_mel_e_especiarias_na_air_fryer_da_rita_lobo.jpg)
+![Couve-flor com mel e especiarias na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/couve_flor_com_mel_e_especiarias_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

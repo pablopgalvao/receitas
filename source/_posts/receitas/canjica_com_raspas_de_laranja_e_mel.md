@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Canjica com raspas de laranja e mel](/images/canjica_com_raspas_de_laranja_e_mel.jpg)
+![Canjica com raspas de laranja e mel](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/canjica_com_raspas_de_laranja_e_mel.jpg)
 
 ## 📝 Informações da Receita
 

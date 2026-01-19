@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Cocotte de ervilha com ricota](/images/cocotte_de_ervilha_com_ricota.jpg)
+![Cocotte de ervilha com ricota](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cocotte_de_ervilha_com_ricota.jpg)
 
 ## 📝 Informações da Receita
 

@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de tomate com azeite crocante](/images/salada-de-tomate-com-azeite-crocante__c4f3726f_01.webp)
+![Salada de tomate com azeite crocante](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-tomate-com-azeite-crocante__c4f3726f_01.webp)
 
 ## 📝 Informações da Receita
 

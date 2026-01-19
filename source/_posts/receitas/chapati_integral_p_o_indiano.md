@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chapati integral (pão indiano)](/images/chapati_integral_p_o_indiano.jpg)
+![Chapati integral (pão indiano)](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chapati_integral_p_o_indiano.jpg)
 
 ## 📝 Informações da Receita
 

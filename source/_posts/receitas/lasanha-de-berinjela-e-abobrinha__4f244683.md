@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha de berinjela e abobrinha](/images/lasanha-de-berinjela-e-abobrinha__4f244683_01.png)
+![Lasanha de berinjela e abobrinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/lasanha-de-berinjela-e-abobrinha__4f244683_01.webp)
 
 ## 📝 Informações da Receita
 

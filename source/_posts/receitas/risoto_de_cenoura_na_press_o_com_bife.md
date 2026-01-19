@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de cenoura na pressão com bife](/images/risoto_de_cenoura_na_press_o_com_bife.jpg)
+![Risoto de cenoura na pressão com bife](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_cenoura_na_press_o_com_bife.jpg)
 
 ## 📝 Informações da Receita
 

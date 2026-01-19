@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo prestígio sem glúten](/images/bolo-prestigio-sem-gluten__fde8c094_01.png)
+![Bolo prestígio sem glúten](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-prestigio-sem-gluten__fde8c094_01.webp)
 
 ## 📝 Informações da Receita
 

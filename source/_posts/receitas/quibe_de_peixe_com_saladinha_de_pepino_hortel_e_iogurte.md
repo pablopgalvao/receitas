@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Quibe de peixe com saladinha de pepino, hortelã e iogurte](/images/quibe_de_peixe_com_saladinha_de_pepino_hortel_e_iogurte.jpg)
+![Quibe de peixe com saladinha de pepino, hortelã e iogurte](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quibe_de_peixe_com_saladinha_de_pepino_hortel_e_iogurte.jpg)
 
 ## 📝 Informações da Receita
 

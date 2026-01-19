@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Crocante de pêssego](/images/crocante_de_p_ssego.jpg)
+![Crocante de pêssego](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crocante_de_p_ssego.jpg)
 
 ## 📝 Informações da Receita
 

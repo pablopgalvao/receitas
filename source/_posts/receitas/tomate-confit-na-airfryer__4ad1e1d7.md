@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tomate confit na air fryer](/images/tomate-confit-na-airfryer__4ad1e1d7_01.png)
+![Tomate confit na air fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tomate-confit-na-airfryer__4ad1e1d7_01.webp)
 
 ## 📝 Informações da Receita
 

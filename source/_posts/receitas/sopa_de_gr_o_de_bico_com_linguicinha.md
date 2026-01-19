@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de grão-de-bico com linguicinha](/images/sopa_de_gr_o_de_bico_com_linguicinha.jpg)
+![Sopa de grão-de-bico com linguicinha](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_gr_o_de_bico_com_linguicinha.jpg)
 
 ## 📝 Informações da Receita
 

@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Caldo de aipim com calabresa](/images/caldo-de-aipim__0f093baa_01.png)
+![Caldo de aipim com calabresa](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/caldo-de-aipim__0f093baa_01.webp)
 
 ## 📝 Informações da Receita
 

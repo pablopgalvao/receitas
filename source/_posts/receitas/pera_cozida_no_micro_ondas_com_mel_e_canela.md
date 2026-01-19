@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pera cozida no micro-ondas com mel e canela](/images/pera_cozida_no_micro_ondas_com_mel_e_canela.jpg)
+![Pera cozida no micro-ondas com mel e canela](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pera_cozida_no_micro_ondas_com_mel_e_canela.jpg)
 
 ## 📝 Informações da Receita
 

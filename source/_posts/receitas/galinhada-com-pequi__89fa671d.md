@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galinhada com pequi](/images/galinhada-com-pequi__89fa671d_01.png)
+![Galinhada com pequi](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/galinhada-com-pequi__89fa671d_01.webp)
 
 ## 📝 Informações da Receita
 

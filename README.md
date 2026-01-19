@@ -58,6 +58,7 @@ Ferramenta para auditar, organizar e revisar receitas. Arquivo: [receitas-cli.js
 - `--audit`: só analisa, não altera arquivos. Mostra estatísticas por arquivo.
 - `--autofix`: padroniza o esqueleto e normaliza metadados, preservando todo o conteúdo.
 - `--review`: revisão interativa de canônicos (`ingredients.list`) sem mexer na lista completa do corpo.
+- `--optimize-images`: otimiza imagens APENAS de `source/images/_restored_from_crawler` (standalone).
 
 ### Alvos
 - `--drafts`  Processa apenas rascunhos
@@ -68,6 +69,22 @@ Ferramenta para auditar, organizar e revisar receitas. Arquivo: [receitas-cli.js
 - `--defer`       Em revisão, adia decisões e marca `needs_review`
 - `--limit N`     Limita a N arquivos no lote
 - `--dry-run`     Não grava arquivos (visualização/validação)
+
+### Otimização de imagens (standalone)
+Este modo reduz o tamanho das imagens que foram restauradas do crawler.
+
+Requisitos:
+- **ImageMagick** instalado e comando `magick` disponível no PATH (Windows: `winget install ImageMagick.ImageMagick`).
+
+Comportamento padrão:
+- Lê imagens em `source/images/_restored_from_crawler`
+- Gera versões `.webp` otimizadas em `source/images/_restored_from_crawler_optimized`
+- Não sobrescreve originais
+
+Parâmetros:
+- `--quality N` (padrão: 82)
+- `--max-width N` (padrão: 1600)
+- `--in-place` sobrescreve em `_restored_from_crawler` e salva backup em `_restored_from_crawler/_backup_originals`
 
 ### Exemplos (Windows PowerShell)
 ```powershell
@@ -82,6 +99,12 @@ node receitas-cli.js --review --drafts --defer
 
 # Testar mudanças sem gravar
 node receitas-cli.js --autofix --all --dry-run
+
+# Otimizar imagens restauradas (gera .webp em pasta separada)
+node receitas-cli.js --optimize-images
+
+# Otimizar imagens restauradas substituindo (com backup)
+node receitas-cli.js --optimize-images --in-place
 ```
 
 ### Notas e flags

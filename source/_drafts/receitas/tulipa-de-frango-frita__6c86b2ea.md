@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de trigo (120 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de café de páprica defumada
 - 1 colher de sobremesa de fermento em pó químico
 - 1 ovo
-- 3/4 de xícara de chá de água bem gelada (180 ml)
+- ¾ de xícara de chá de água bem gelada (180 ml)
 - 2 xícaras de chá de farinha de trigo para empanar (240 gramas)
 - 90 ml de óleo para fritar
 - --

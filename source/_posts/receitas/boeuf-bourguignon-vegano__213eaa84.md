@@ -38,7 +38,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de proteína de soja em pedaços
+- 1 e ½ xícara de chá de proteína de soja em pedaços
 - Água quente para hidratar
 - Alho em pó a gosto
 - Páprica defumada a gosto
@@ -55,7 +55,7 @@ flags: []
 - 3 dentes de alho amassados
 - 3 colheres de sopa de farinha de trigo
 - 1 colher de sopa de pasta de tomate
-- 1 e 1/2 xícara de chá de vinho tinto seco
+- 1 e ½ xícara de chá de vinho tinto seco
 - 2 a 3 xícaras de chá de caldo de legumes
 - Sal a gosto
 - Pimenta-do-reino a gosto

@@ -34,10 +34,10 @@ flags: []
 - 50 gramas de queijo parmesão ralado
 - 2 colheres de sopa de requeijão cremoso
 - 2 colheres de sopa de azeite
-- 1/4 de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - 1 cebola pequena (40 gramas)
-- 1/2 calabresa (100 gramas)
+- ½ calabresa (100 gramas)
 - Cheiro-verde a gosto
 - 1 colher de sopa de requeijão cremoso
 - Acrescente a calabresa ralada, o requeijão cremoso e pique o cheiro-verde. Salpique na panela e misture até formar um recheio homogêneo. Reserve enquanto prepara a massa;

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 250 gramas de goiabada
-- 1/2 xícara de chá de água (125 ml)
+- ½ xícara de chá de água (125 ml)
 - --
 
 ---

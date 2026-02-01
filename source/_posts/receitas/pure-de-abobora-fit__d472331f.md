@@ -31,8 +31,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite ou óleo de coco
-- 1/2 cebola picada
-- 1/3 de pimentão picado
+- ½ cebola picada
+- ⅓ de pimentão picado
 - 2 dentes de alho picados
 - 500 gramas de abóbora cabotiá sem casca, sem sementes e cortada em cubos
 - 1 pitada de açúcar (opcional)

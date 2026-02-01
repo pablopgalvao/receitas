@@ -41,7 +41,7 @@ flags: []
 - Cravos a gosto
 - 1 xícara de chá de água
 - 1,5 L de vinho tinto seco ou suave
-- 1/2 xícara de chá de cachaça
+- ½ xícara de chá de cachaça
 - --
 
 ---

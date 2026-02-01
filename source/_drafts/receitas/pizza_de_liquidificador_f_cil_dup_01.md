@@ -34,11 +34,11 @@ flags: []
 - 1 colher de chá de sal
 - 1 colher de chá de açúcar
 - 1 colher de sopa de manteiga (ou margarina)
-- 1 e 1/2 xícara de chá de farinha de trigo (225 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (225 gramas)
 - 1 colher de sobremesa de fermento químico em pó (fermento para bolo)
 - 1 peça de queijo tipo gouda (180 gramas)
 - Parmesão ralado na hora a gosto
-- 3/4 de xícara de chá de molho de tomate
+- ¾ de xícara de chá de molho de tomate
 - 60 gramas de tomates-cereja cortados ao meio (ou a gosto)
 - 12 azeitonas (ou a gosto)
 - Folhas de manjericão frescas a gosto

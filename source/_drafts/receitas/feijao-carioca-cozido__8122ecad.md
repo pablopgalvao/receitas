@@ -31,7 +31,7 @@ flags: []
 - 3 colheres de sopa de azeite (45 ml)
 - 1 cebola grande
 - 3 dentes de alho
-- 1/2 xícara de chá de extrato de tomate
+- ½ xícara de chá de extrato de tomate
 - 500 gramas de feijão carioca
 - 1 colher de sopa de sal a gosto
 - 1 colher de chá de pimenta-do-reino a gosto

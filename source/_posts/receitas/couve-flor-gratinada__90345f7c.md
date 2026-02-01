@@ -29,14 +29,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 couve-flor grande ou 2 pequenas (aproximadamente 500 gramas)
-- 1/4 cebola descascada
+- ¼ cebola descascada
 - 1 litro de leite gelado
 - 4 colheres de sopa de farinha de trigo
 - 4 colheres de sopa de manteiga
 - 1 folha de louro
-- 1 e 1/2 colher de chá de sal
-- 1/2 xícara de chá de queijo parmesão ralado (aproximadamente 50 gramas)
-- 1/2 colher de chá de noz-moscada ralada
+- 1 e ½ colher de chá de sal
+- ½ xícara de chá de queijo parmesão ralado (aproximadamente 50 gramas)
+- ½ colher de chá de noz-moscada ralada
 - --
 
 ---

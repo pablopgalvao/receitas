@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de açúcar (180 gramas)
 - 1 pitada de sal (ou a gosto)
-- 1/2 xícara de chá de água (100 ml)
+- ½ xícara de chá de água (100 ml)
 - Acrescente a pitada de sal, a água e bata até virar um líquido levemente homogêneo, mas ainda com pedacinhos;
 - Transfira o líquido para uma panela em fogo baixo e acrescente o açúcar e as duas pimentas picadas sem membrana e sementes;
 - Mexa com uma espátula de silicone por 20 minutos, até que o açúcar derreta por completo. Quando levantar fervura, vá retirando a camada de espuminha que formar com o auxílio de uma colher;

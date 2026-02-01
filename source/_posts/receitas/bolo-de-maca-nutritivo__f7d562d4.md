@@ -46,7 +46,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna todos os ingredientes;
-2. Higienize, descasque e pique 6 maçãs. Reserve-as com o suco de 1/2 limão para não ficarem escuras;
+2. Higienize, descasque e pique 6 maçãs. Reserve-as com o suco de ½ limão para não ficarem escuras;
 3. No liquidificador, coloque as cascas, os ovos, o leite, a baunilha, a canela, 100 gramas das uvas-passas e bata por cerca de 4 minutos;
 4. Em um recipiente, coloque a farinha de aveia, a mistura do liquidificador e misture com uma colher;
 5. Adicione as 6 maçãs picadas, o restante das uvas-passas, o fermento e misture até tudo incorporar;

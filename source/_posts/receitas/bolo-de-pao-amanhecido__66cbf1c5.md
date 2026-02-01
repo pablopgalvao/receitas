@@ -35,8 +35,8 @@ flags: []
 - 1 xícara de chá de açúcar (200 gramas)
 - 200 gramas de uvas-passas sem sementes
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 colher de chá de canela em pó
-- 1 e 1/2 xícara de chá de açúcar para calda (300 gramas)
+- ½ colher de chá de canela em pó
+- 1 e ½ xícara de chá de açúcar para calda (300 gramas)
 - --
 
 ---

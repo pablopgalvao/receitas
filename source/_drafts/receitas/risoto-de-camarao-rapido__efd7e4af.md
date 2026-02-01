@@ -41,9 +41,9 @@ flags: []
 - 1 colher de sopa de manteiga gelada
 - 1 tomate sem pele e sem semente
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de cheiro-verde
-- 1/2 xícara de chá de queijo parmesão ralado a gosto
+- ½ xícara de chá de queijo parmesão ralado a gosto
 - --
 
 ---

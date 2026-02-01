@@ -39,7 +39,7 @@ flags: []
 - Sal a gosto
 - 340 gramas de molho de tomate (1 sachê)
 - 200 gramas de requeijão
-- 1/2 lata de milho sem a conserva (85 gramas)
+- ½ lata de milho sem a conserva (85 gramas)
 - 150 gramas de mussarela
 - Batata palha a gosto
 - --

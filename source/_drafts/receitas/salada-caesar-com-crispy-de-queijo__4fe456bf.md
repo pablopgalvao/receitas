@@ -30,7 +30,7 @@ flags: []
 
 - 4 colheres de sopa de maionese
 - 4 colheres de sopa de azeite
-- 1/2 xícara de chá de parmesão ralado
+- ½ xícara de chá de parmesão ralado
 - 1 pitada de sal
 - 1 colher de sopa de mostarda
 - 2 colheres de sopa de creme de leite
@@ -43,7 +43,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna os ingredientes da salada Caesar com crispy de queijo;
-2. Para o molho, em um liquidificador ou mixer, coloque a maionese, o azeite, 1/2 xícara de chá de parmesão ralado, a mostarda, o creme de leite, a água, as anchovas e o sal. Bata até obter um molho homogêneo e liso. Reserve;
+2. Para o molho, em um liquidificador ou mixer, coloque a maionese, o azeite, ½ xícara de chá de parmesão ralado, a mostarda, o creme de leite, a água, as anchovas e o sal. Bata até obter um molho homogêneo e liso. Reserve;
 3. Para a salada, corte as alfaces ao meio, higienize e deixe secando em cima de um papel-toalha;
 4. Depois que estiverem secas, em uma frigideira bem quente com 1 fio de azeite, em fogo alto, sele as alfaces brevemente, por cerca de 30 segundos cada lado e tempere com sal e pimenta-do-reino. Reserve;
 5. Em seguida, na mesma frigideira, frite o bacon até ficar crocante e deixe-o escorrendo em um papel-toalha. Reserve;

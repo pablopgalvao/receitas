@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1 e 1/2 xícara de chá de açúcar (265 gramas)
-- 3/4 de xícara de chá de óleo (150 ml)
-- 3/4 de xícara de leite (200 ml)
+- 1 e ½ xícara de chá de açúcar (265 gramas)
+- ¾ de xícara de chá de óleo (150 ml)
+- ¾ de xícara de leite (200 ml)
 - 2 xícaras de chá de farinha de trigo com fermento (215 gramas)
 - 1 colher de sopa de canela em pó
-- 3/4 de xícara de chá de doce de leite (100 gramas)
+- ¾ de xícara de chá de doce de leite (100 gramas)
 - 1 caixinha de creme de leite (200 ml)
 - Reúna os ingredientes para fazer o melhor bolo de churros fácil de liquidificador, ideal para o seu café da tarde com a família. Já deixe uma forma untada com óleo ou margarina e enfarinhada;
 - Quebre os ovos em um potinho separado e verifique se eles estão bons para uso. Caso estejam, despeje cada um no liquidificador desligado. Adicione o açúcar, o óleo e o leite. Ligue o liquidificador e bata por cerca de 2 minutos. Reserve;

@@ -35,7 +35,7 @@ flags: []
 - 1 tablete de caldo de carne
 - 3 dentes de alho
 - 1 cebola média
-- 1 e 1/2 litro de água
+- 1 e ½ litro de água
 - --
 
 ---

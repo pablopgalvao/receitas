@@ -32,7 +32,7 @@ flags: []
 - 4 litros de água para cozinhar o macarrão
 - 2 colheres de sopa de sal para cozinhar o macarrão
 - 15 dentes de alho
-- 1/4 de xícara de chá de azeite (60 ml)
+- ¼ de xícara de chá de azeite (60 ml)
 - 5 colheres de sopa de salsinha picada (ou a gosto)
 - --
 

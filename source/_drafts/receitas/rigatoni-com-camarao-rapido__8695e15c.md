@@ -34,12 +34,12 @@ flags: []
 - 1 kg de camarão rosa pequeno
 - 1 kg de macarrão tipo rigatoni
 - 1 colher de sopa de azeite
-- 1/2 cebola média
+- ½ cebola média
 - 2 colheres de sopa de manteiga
-- 1 e 1/2 xícara de chá de queijo parmesão ralado
+- 1 e ½ xícara de chá de queijo parmesão ralado
 - 2 xícaras de chá de creme de leite fresco ou nata (480 gramas)
 - Raspas de 1 limão-taiti ou siciliano
-- 1/2 colher de café de páprica
+- ½ colher de café de páprica
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - --

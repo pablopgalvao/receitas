@@ -30,7 +30,7 @@ flags: []
 
 - 500 gramas de macarrão parafuso
 - 5 litros de água para cozinhar o macarrão
-- 1 e 1/2 colher de sopa de sal para cozinhar o macarrão
+- 1 e ½ colher de sopa de sal para cozinhar o macarrão
 - 1 fio de azeite
 - 1 colher de sopa de manteiga
 - 1 cebola média
@@ -38,8 +38,8 @@ flags: []
 - 180 gramas de tomates-cerejas
 - 3 colheres de sopa de azeitona verde (ou a gosto)
 - 1 lata de atum sólido em óleo
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de salsinha picada (ou a gosto)
 - --
 

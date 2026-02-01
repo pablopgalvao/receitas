@@ -31,7 +31,7 @@ flags: []
 
 - 3 maçãs
 - 1 xícara de chá de açúcar (200 gramas)
-- 3/4 de xícara de chá de água (60 ml)
+- ¾ de xícara de chá de água (60 ml)
 - 1 dente de alho
 - 3 pimentas dedo-de-moça
 - Suco de 1 limão

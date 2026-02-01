@@ -40,9 +40,9 @@ flags: []
 - 2 caixas de creme de leite (400 gramas)
 - 1 pote de requeijão (200 gramas)
 - 150 gramas de queijo mussarela
-- 1/2 pacote de parmesão ralado (25 gramas)
-- 1 e 1/2 colher de chá de sal ou a gosto
-- 1/3 de colher de chá de pimenta-do-reino
+- ½ pacote de parmesão ralado (25 gramas)
+- 1 e ½ colher de chá de sal ou a gosto
+- ⅓ de colher de chá de pimenta-do-reino
 - Coentro a gosto
 - Orégano a gosto
 - Cebolinha a gosto

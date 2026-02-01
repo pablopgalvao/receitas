@@ -32,11 +32,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de arroz arbóreo
+- 2 e ½ xícaras de chá de arroz arbóreo
 - Azeite a gosto
 - 5 gomos de linguiça sem pele
 - Alho-poró a gosto
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 1 xícara de chá de vinho branco seco
 - 2 xícaras de chá de queijo

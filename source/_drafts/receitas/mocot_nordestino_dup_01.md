@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de mocotó
-- 1 e 1/2 colher de chá de pimenta calabresa
+- 1 e ½ colher de chá de pimenta calabresa
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de sopa de sal
 - 6 colheres de sopa de cheiro-verde picado
-- 1/2 colher de sopa de colorau
+- ½ colher de sopa de colorau
 - 1 caixinha de extrato de tomate (135 gramas)
-- 1/2 xícara de chá de vinagre para temperar (120 ml)
+- ½ xícara de chá de vinagre para temperar (120 ml)
 - 500 ml de água
 - Tempere o mocotó com sal, colorau, pimenta calabresa e pimenta-do-reino. Misture bem e adicione também o vinagre, que ajuda a realçar os sabores. Reserve;
 - Aqueça uma panela de pressão com um fio de óleo e doure a cebola e o alho por cerca de 2 minutos;

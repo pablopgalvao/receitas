@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícaras de chá de água
+- 1 e ½ xícaras de chá de água
 - 2 colheres de sopa de açúcar
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 500 gramas de farinha de trigo
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 2 colheres de sopa de fermento biológico seco
 - Recheio a gosto
 - 1 colher de sopa de melado/maple syrup

@@ -35,17 +35,17 @@ flags: []
 - 1 colher de sopa de óleo para a massa
 - 1 colher de café de sal (ou a gosto)
 - 3 xícaras de sopa de óleo para fritar (720ml)
-- 1 e 1/2 colher de café de sal (ou a gosto)
+- 1 e ½ colher de café de sal (ou a gosto)
 - 2 colheres de chá de suco de limão
 - 1 colher de chá de chilli em pó
 - 1 colher de chá de cominho moído
 - Água para cozinhar as batatas (720ml)
 - 1 xícara de chá de folhinhas de hortelã frescas
-- 1/2 xícara de chá de coentro fresco
+- ½ xícara de chá de coentro fresco
 - 1 colher de chá de cominho em pó
-- 1/2 colher de chá de sal negro
+- ½ colher de chá de sal negro
 - 2 colheres de sopa de polpa de tamarindo
-- 1/4 de xícara de chá de açúcar (50 gramas)
+- ¼ de xícara de chá de açúcar (50 gramas)
 - 4 xícaras de chá de água fria (960 ml)
 - Para fazer o puri, em uma tigela grande, junte a semolina, a farinha de trigo, o óleo e o sal, e misture. Vá despejando água aos poucos e comece a sovar. A massa não pode ficar nem muito mole, nem muito dura, como a de um pão;
 - Após o cozimento, amasse as batatas com um garfo. Pique a cebola em cubinhos. Em uma tigela, junte a batata com a cebola, o suco de limão, o sal, o chilli e o cominho. Misture bem e reserve;

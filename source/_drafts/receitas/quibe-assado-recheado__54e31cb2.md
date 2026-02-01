@@ -30,8 +30,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de trigo para quibe (250 gramas)
-- 1 e 1/2 xícara de chá de água quente (360 ml)
+- 1 e ½ xícara de chá de trigo para quibe (250 gramas)
+- 1 e ½ xícara de chá de água quente (360 ml)
 - 500 gramas de patinho moído
 - 1 cebola
 - 15 folhas de hortelã (ou a gosto)
@@ -41,9 +41,9 @@ flags: []
 - 1 colher de chá rasa de pimenta calabresa
 - 1 colher de chá rasa de alho desidratado ou em pó
 - Suco de 1 limão
-- 1/2 maço de cheiro-verde picado
+- ½ maço de cheiro-verde picado
 - 300 gramas de queijo mussarela ralado
-- 1/2 bisnaga de requeijão cremoso (200 gramas)
+- ½ bisnaga de requeijão cremoso (200 gramas)
 - Azeite para untar a assadeira e regar
 - --
 

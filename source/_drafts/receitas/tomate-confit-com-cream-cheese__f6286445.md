@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de tomate-cereja
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 300 gramas de cream cheese
 - 1 talo de alho-poró
 - 1 colher de café de tempero de alho frito
 - 1 colher de café de sal ou a gosto
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - --
 
 ---

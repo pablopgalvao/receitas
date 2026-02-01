@@ -34,7 +34,7 @@ flags: []
 - 4 dentes de alho
 - 1 cebola
 - 2 colheres de sopa de mostarda (50 gramas)
-- 1/2 xícara de chá de maionese (125 gramas)
+- ½ xícara de chá de maionese (125 gramas)
 - 1 colher de sopa de vinagre (25 ml)
 - Orégano a gosto (opcional)
 - --

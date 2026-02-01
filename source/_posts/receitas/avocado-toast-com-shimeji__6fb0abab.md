@@ -40,7 +40,7 @@ flags: []
 - 1 colher de sobremesa de shoyu
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 abacate amassado
+- ½ abacate amassado
 - Sumo de limão a gosto
 - Azeite a gosto
 - --

@@ -31,7 +31,7 @@ flags: []
 
 - 250 gramas de batata-doce (cerca de 2 batatas pequenas)
 - 125 ml de leite morno
-- 1/2 colher de sopa de fermento biológico seco (5 gramas)
+- ½ colher de sopa de fermento biológico seco (5 gramas)
 - 2 colheres de sopa (cheias) de açúcar
 - 1 ovo
 - 2 colheres de sopa de óleo (30 ml)

@@ -37,7 +37,7 @@ flags: []
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 4 colheres de sopa de óleo
 - 2 cebolas médias (cerca de 180 gramas)
-- 1 e 1/2 xícara de chá de água quente (360 ml)
+- 1 e ½ xícara de chá de água quente (360 ml)
 - 2 colheres de sopa de cheiro-verde picado para finalizar
 - --
 

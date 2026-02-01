@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de extrato de baunilha
 - 1 pitada de sal
 - 2 xícaras de chá de farinha de trigo (310 gramas)
-- 3/4 de xícara de chá de leite (180 ml)
+- ¾ de xícara de chá de leite (180 ml)
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
 - 400 gramas de leite condensado
 - 1 bandeja de morangos (250 gramas)

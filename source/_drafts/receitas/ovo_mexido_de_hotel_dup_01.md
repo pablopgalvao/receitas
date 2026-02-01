@@ -31,7 +31,7 @@ flags: []
 
 - 2 colheres de sopa de leite integral (30 ml)
 - 1 colher de sopa de requeijão cremoso (25 gramas)
-- 1/2 colher de manteiga (10 gramas)
+- ½ colher de manteiga (10 gramas)
 - Sal a gosto
 - Em uma panela pequena, adicione a manteiga e leve ao fogo baixo até derreter completamente, sem deixar queimar;
 - Gire levemente a panela para espalhar a manteiga derretida por todo o fundo;

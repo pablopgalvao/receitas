@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de arroz agulhinha cru
-- 1/2 xícara de chá de pimentão vermelho médio picado
-- 1/2 xícara de chá de pimentão amarelo médio picado
-- 1/2 xícara de chá de uva-passa
-- 1/2 colher de sopa de sal
+- ½ xícara de chá de pimentão vermelho médio picado
+- ½ xícara de chá de pimentão amarelo médio picado
+- ½ xícara de chá de uva-passa
+- ½ colher de sopa de sal
 - 4 xícaras de chá de água
 - 3 colheres de sopa de cheiro-verde picado
 - Coloque a água e o sal. Misture bem e tampe a panela. Deixe o arroz à grega cozinhar em fogo médio por 20 minutos, ou até secar a água;

@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de água
+- 1 e ½ xícara de chá de água
 - 2 ovos
 - 3 colheres de sopa de óleo
 - 3 colheres de sopa de açúcar
 - 3 gramas de fermento biológico seco (ou 30 gramas de fermento biológico fresco)
 - 4 xícaras de chá de farinha de trigo
-- 1/2 colher de sopa rasa de sal
+- ½ colher de sopa rasa de sal
 - 1 colher de sopa de manteiga para pincelar
 - Manteiga e farinha de trigo para untar a forma
 - --

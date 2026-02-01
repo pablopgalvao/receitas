@@ -34,7 +34,7 @@ flags: []
 - 1 cebola grande
 - 1 colher de sobremesa de sal (ou a gosto)
 - 1 pitada de pimenta-do-reino moída na hora (ou a gosto)
-- 1/2 xícara de chá de molho de tomate (60 gramas)
+- ½ xícara de chá de molho de tomate (60 gramas)
 - 3 xícaras de chá de água quente (720 ml)
 - Salsinha a gosto
 - --

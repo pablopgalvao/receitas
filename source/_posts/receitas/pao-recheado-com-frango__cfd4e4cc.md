@@ -37,8 +37,8 @@ flags: []
 - 1 tomate médio picado
 - 1 pote de requeijão (200 gramas)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
-- 1/4 colher de chá de sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ colher de chá de sal (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 gema para pincelar a massa antes de levar para assar
 - --
 

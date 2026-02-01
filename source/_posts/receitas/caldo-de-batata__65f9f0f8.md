@@ -30,11 +30,11 @@ flags: []
 
 - 3 batatas médias (570 gramas)
 - 1 folha de louro
-- 3 e 1/4 xícaras de chá de água (800 ml)
-- 1/2 colher de café de sal (ou a gosto)
+- 3 e ¼ xícaras de chá de água (800 ml)
+- ½ colher de café de sal (ou a gosto)
 - 2 dentes de alho
 - 2 colheres de sopa de azeite de oliva
-- 1/4 de colher de café de pimenta-do-reino (ou a gosto)
+- ¼ de colher de café de pimenta-do-reino (ou a gosto)
 - 1 caixa de creme de leite (200 gramas)
 - 1 colher de chá de páprica defumada (ou a gosto)
 - 1 pitada de noz-moscada

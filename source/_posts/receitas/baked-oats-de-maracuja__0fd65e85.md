@@ -30,10 +30,10 @@ flags: []
 
 - 4 colheres de sopa de aveia em flocos finos (40 gramas)
 - 1 colher de sopa de açúcar demerara (15 gramas)
-- 1/3 xícara de chá de leite vegetal (80 ml)
-- 1/2 poupa de maracujá
+- ⅓ xícara de chá de leite vegetal (80 ml)
+- ½ poupa de maracujá
 - 1 colher de chá de essência de baunilha
-- 1/2 colher de chá de fermento químico em pó (fermento para bolo)
+- ½ colher de chá de fermento químico em pó (fermento para bolo)
 - --
 
 ---

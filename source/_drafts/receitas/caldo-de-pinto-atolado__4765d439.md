@@ -34,11 +34,11 @@ flags: []
 - 1 cebola média picada (220 gramas)
 - 2 dentes de alho amassados
 - 6 xícaras de chá de água (2 litros)
-- 1 e 1/2 colher de sopa de manteiga
+- 1 e ½ colher de sopa de manteiga
 - 1 caixa de creme de leite (200 gramas)
 - 50 ml de leite de coco
 - 1 tablete de caldo de galinha
-- 1/2 colher de sal (ou a gosto)
+- ½ colher de sal (ou a gosto)
 - Cebolinha picada
 - --
 

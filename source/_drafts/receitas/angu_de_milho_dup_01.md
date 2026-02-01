@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de manteiga (10 gramas)
+- ½ colher de sopa de manteiga (10 gramas)
 - 1 xícara de chá de leite integral (240 ml)
 - 1 colher de sopa de fubá (15 gramas)
 - 1 colher de sopa de queijo ralado (15 gramas) (opcional)

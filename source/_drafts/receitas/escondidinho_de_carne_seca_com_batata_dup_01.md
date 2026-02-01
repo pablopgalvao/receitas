@@ -34,15 +34,15 @@ flags: []
 - 1 colher de chá de páprica doce
 - 1 colher de chá de chimichurri
 - 1 colher de sopa de farinha de trigo (10 gramas)
-- 1/2 sachê ou lata de molho de tomate (100 gramas)
+- ½ sachê ou lata de molho de tomate (100 gramas)
 - 1 colher de sopa de salsinha (ou a gosto)
 - 100 gramas de mussarela (ou a gosto)
 - 1 kg de batatas
 - 1 colher de sopa de manteiga (20 gramas)
 - 2 colheres de sopa de queijo parmesão ralado (20 gramas)
-- 1/3 de xícara e 1 colher de sopa de leite (100 ml)
-- 2 e 1/2 colheres de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ⅓ de xícara e 1 colher de sopa de leite (100 ml)
+- 2 e ½ colheres de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 15 ml de azeite
 - Para começar, organize sua bancada. Descasque e corte as batatas em rodelas grandes, pique a cebola em meia-lua. Corte o alho, o tomate e a salsinha em pedaçinhos;
 - Após desfiar a carne, em outra panela, aqueça a manteiga e refogue a cebola, o alho e a pimenta até dourar levemente. Acrescente a páprica doce e o chimichurri, misture e junte o tomate picado;

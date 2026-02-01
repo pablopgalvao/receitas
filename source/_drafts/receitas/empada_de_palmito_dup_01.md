@@ -33,16 +33,16 @@ flags: []
 - 2 colheres de sopa rasas de farinha de trigo
 - 1 pitada de colorau
 - 1 vidro de palmito picado (cerca de 300 gramas)
-- 1/2 colher de chá de páprica defumada
+- ½ colher de chá de páprica defumada
 - Pimenta-do-reino a gosto
 - 1 pitada de orégano
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 2 colheres de sopa de requeijão cremoso (opcional)
 - Sal a gosto
 - Cheiro-verde picado a gosto
-- 2 e 1/4 xícaras de chá de farinha de trigo sem fermento (315 gramas)
+- 2 e ¼ xícaras de chá de farinha de trigo sem fermento (315 gramas)
 - 4 colheres de sopa de manteiga
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de sopa ou mais de água gelada para dar o ponto
 - Incorpore o requeijão cremoso, ajuste o sal e finalize com cheiro-verde. Cozinhe até obter um recheio espesso e cremoso. Reserve para esfriar completamente;
 - Para a massa, misture em uma tigela a farinha, a margarina, a banha, o sal e a gema. Trabalhe com as pontas dos dedos, apertando a massa até formar uma bola uniforme. Não sove;

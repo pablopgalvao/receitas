@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de amêndoas (200 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 pitadas de açafrão amarelo em pó
 - 2 colheres de sopa de Psyllium (fibra vegetal)
 - 1 xícara de chá de água (240 ml)

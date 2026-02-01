@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 lata de leite condensado
-- 1/2 caixinha de creme de leite
+- ½ lata de leite condensado
+- ½ caixinha de creme de leite
 - 1 garrafinha de leite de coco (200 ml)
 - 200 ml de leite integral
 - --

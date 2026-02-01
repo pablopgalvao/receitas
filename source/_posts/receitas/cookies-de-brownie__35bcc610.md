@@ -32,10 +32,10 @@ flags: []
 - 50 gramas de manteiga sem sal
 - 1 ovo
 - 1 colher de chá de baunilha
-- 1/2 xícara de chá de açúcar mascavo
+- ½ xícara de chá de açúcar mascavo
 - 1 pitada de sal
 - 60 gramas de farinha de trigo
-- 1/2 colher de chá de bicarbonato de sódio (opcional)
+- ½ colher de chá de bicarbonato de sódio (opcional)
 - 80 gramas chocolate meio amargo picado para colocar na massa
 - --
 

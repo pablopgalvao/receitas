@@ -41,9 +41,9 @@ flags: []
 - 200 gramas de peito de frango cozido e desfiado
 - 1 cenoura ralada
 - 1 maçã picada em cubos
-- 1/2 xícara de chá de milho-verde cozido
-- 1/2 xícara de chá de ervilha cozida
-- 1/2 xícara de chá de uva-passa
+- ½ xícara de chá de milho-verde cozido
+- ½ xícara de chá de ervilha cozida
+- ½ xícara de chá de uva-passa
 - 1 pote de iogurte natural desnatado
 - 1 colher de sopa de mostarda
 - Sal e pimenta-do-reino a gosto

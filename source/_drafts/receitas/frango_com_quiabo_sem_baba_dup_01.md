@@ -32,7 +32,7 @@ flags: []
 - 1 kg de frango em pedaços (coxa, sobrecoxa e peito)
 - 2 colheres de sopa de azeite
 - 1 colher de sobremesa de açúcar
-- 1/2 colher de sobremesa de alecrim
+- ½ colher de sobremesa de alecrim
 - 1 colher de sobremesa de chimichurri
 - 1 colher de sobremesa de sal
 - 200 gramas de quiabo

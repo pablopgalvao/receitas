@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de suco natural de abacaxi (200ml)
-- 1/2 xícara de chá de abacaxi picado (125 gramas)
+- ¾ de xícara de chá de suco natural de abacaxi (200ml)
+- ½ xícara de chá de abacaxi picado (125 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
 - 2 colheres de sopa de manteiga
 - 2 xícaras de chá de farinha de trigo (325 gramas)

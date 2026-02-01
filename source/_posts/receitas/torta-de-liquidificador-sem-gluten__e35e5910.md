@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1/2 xícara de chá de azeite (120 ml)
+- ½ xícara de chá de azeite (120 ml)
 - 1 xícara de chá de leite (240 ml)
-- 1 e 1/2 xícara de chá de farinha de arroz (225 gramas)
+- 1 e ½ xícara de chá de farinha de arroz (225 gramas)
 - 1 pitada de sal a gosto
 - 1 colher de sopa de fermento em pó
 - Recheio de sua preferência

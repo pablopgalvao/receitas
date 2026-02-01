@@ -30,12 +30,12 @@ flags: []
 
 - 1 kg de filé de peixe-porquinho
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de azeite de oliva a gosto
 - 1 cebola média (110 gramas)
 - 2 dentes de alho
 - 2 colheres de sopa de coentro ou salsa picado (ou a gosto)
-- 1/2 colher de chá de páprica (ou a gosto)
+- ½ colher de chá de páprica (ou a gosto)
 - 2 tomates médios (200 gramas)
 - 200 ml de leite de coco
 - --

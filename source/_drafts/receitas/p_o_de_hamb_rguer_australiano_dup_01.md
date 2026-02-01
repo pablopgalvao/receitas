@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá farinha de trigo (210 gramas)
-- 1/2 xícara de chá de farinha integral (90 gramas)
-- 1/2 colher de chá de fermento seco (3 gramas)
-- 1/2 xícara de chá de água (120 ml)
-- 1/2 xícara de chá de leite integral
-- 1 e 1/2 colher de sopa de cacau em pó (15 gramas)
-- 1/2 colher de chá de sal (5 gramas)
+- 1 e ½ xícara de chá farinha de trigo (210 gramas)
+- ½ xícara de chá de farinha integral (90 gramas)
+- ½ colher de chá de fermento seco (3 gramas)
+- ½ xícara de chá de água (120 ml)
+- ½ xícara de chá de leite integral
+- 1 e ½ colher de sopa de cacau em pó (15 gramas)
+- ½ colher de chá de sal (5 gramas)
 - 2 colheres de sopa de açúcar
 - 1 colher de sopa de mel
 - 2 colheres de sopa de manteiga (35 gramas)

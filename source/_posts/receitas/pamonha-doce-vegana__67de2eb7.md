@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de milho em conserva (sem a água)
-- 3/4 de colher de sopa de amido de milho
+- ¾ de colher de sopa de amido de milho
 - 1 colher de sopa de óleo de coco
-- 1/2 de xícara de chá de leite de coco
-- 1/2 xícara de chá de açúcar demerara
+- ½ de xícara de chá de leite de coco
+- ½ xícara de chá de açúcar demerara
 - 1 pitada de sal
 - 20 gramas de coco ralado
 - Cubos de goiabada ou queijo vegetal a gosto

@@ -30,8 +30,8 @@ flags: []
 
 - 800 gramas de mandioca descascada
 - 120 gramas de queijo minas padrão ralado
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de manteiga
 - --
 

@@ -30,9 +30,9 @@ flags: []
 
 - 3 xícaras de chá de farinha de trigo
 - 1 xícara de chá de açúcar
-- 1/3 xícara de chá de óleo vegetal
-- 1/2 xícara de chá de doce de leite vegano
-- 1 e 1/4 xícara de chá de água
+- ⅓ xícara de chá de óleo vegetal
+- ½ xícara de chá de doce de leite vegano
+- 1 e ¼ xícara de chá de água
 - 1 colher de sopa de vinagre branco
 - 1 colher de sopa de fermento químico em pó
 - --

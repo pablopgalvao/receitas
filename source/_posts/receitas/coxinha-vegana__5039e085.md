@@ -36,7 +36,7 @@ flags: []
 - 1 cebola
 - 3 dentes de alho
 - Azeite a gosto
-- 1/4 de xícara de salsinha
+- ¼ de xícara de salsinha
 - Pimenta-do-reino a gosto
 - Cominho a gosto
 - Cúrcuma a gosto

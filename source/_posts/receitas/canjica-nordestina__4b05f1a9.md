@@ -35,7 +35,7 @@ flags: []
 - 1 colher de sopa rasa de sal
 - 1 xícara de chá de açúcar (200 gramas)
 - 10 cravos
-- 1/2 colher de sopa de canela (ou a gosto)
+- ½ colher de sopa de canela (ou a gosto)
 - --
 
 ---

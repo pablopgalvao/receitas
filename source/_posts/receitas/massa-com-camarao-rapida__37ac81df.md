@@ -32,7 +32,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de macarrão
+- ½ pacote de macarrão
 - 900 gramas de camarão rosa pequeno
 - Sal a gosto
 - Pimenta-do-reino a gosto
@@ -40,9 +40,9 @@ flags: []
 - Raspas de 1 limão
 - 1 colher de sopa de azeite
 - 2 colheres de sopa de manteiga
-- 1/2 cebola picadinha
+- ½ cebola picadinha
 - 2 xícaras de creme de leite fresco
-- 1 e 1/2 xícara de queijo parmesão ralado
+- 1 e ½ xícara de queijo parmesão ralado
 - --
 
 ---
@@ -57,7 +57,7 @@ flags: []
 6. Quando estiver bem quente, adicione os camarões e grelhe por 1 a 2 minutos de cada lado, ou até que fiquem levemente dourados e rosados. Não cozinhe demais para evitar que fiquem borrachudos. Reserve;
 7. Na mesma frigideira, adicione a outra colher de manteiga e refogue a cebola até ficar translúcida e levemente dourada;
 8. Adicione o creme de leite fresco, mexa bem e cozinhe em fogo médio até levantar fervura e começar a engrossar;
-9. Junte 2/3 do parmesão ralado, mexa até derreter e o molho ficar cremoso. Ajuste o sal, se necessário;
+9. Junte ⅔ do parmesão ralado, mexa até derreter e o molho ficar cremoso. Ajuste o sal, se necessário;
 10. Adicione o macarrão cozido diretamente na frigideira com o molho. Misture delicadamente, envolvendo bem a massa. Se o molho estiver muito espesso, acrescente um pouco da água do cozimento reservada. Cozinhe tudo junto por cerca de 2 minutos;
 11. Desligue o fogo, adicione os camarões selados de volta à frigideira e misture levemente;
 12. Salpique o restante das raspas de limão e o parmesão ralado restante por cima;

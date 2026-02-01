@@ -35,7 +35,7 @@ flags: []
 
 - 1 xícara de chá de grão-de-bico⁣
 - 2 colher de sopa de farinha de aveia⁣
-- 1/2 cebola⁣ cortada em pedaços
+- ½ cebola⁣ cortada em pedaços
 - 2 dentes de alho⁣
 - Páprica picante⁣ a gosto⁣
 - Cúrcuma⁣ a gosto⁣

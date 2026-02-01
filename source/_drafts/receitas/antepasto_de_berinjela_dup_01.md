@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de azeite
-- 1/2 xícara de vinagre
+- ½ xícara de vinagre
 - 1 colher de sopa de aceto balsâmico
-- 1/2 xícara de chá de azeitonas sem caroço picadas
+- ½ xícara de chá de azeitonas sem caroço picadas
 - 1 colher de sopa (não muito cheia) de sal
 - 2 colheres de sopa de alho espremido
 - Pimenta do reino, chimichurri, orégano a gosto

@@ -38,7 +38,7 @@ flags: []
 - 200 gramas de carne moída (blend de fraldinha e peito bovino com 35% de gordura)
 - 2 tiras de bacon grandes
 - 2 fatias de cheddar
-- 1/4 de cebola-roxa pequena
+- ¼ de cebola-roxa pequena
 - Manteiga a gosto para selar o pão
 - Maionese a gosto
 - Picles de pepino a gosto

@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos médios
-- 1/2 xícara de chá de açúcar (120 gramas)
+- ½ xícara de chá de açúcar (120 gramas)
 - 1 xícara de chá de leite em temperatura ambiente (240 ml)
-- 2 e 1/2 xícaras de chá de farinha de trigo (350 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (350 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (14 gramas)
 - Óleo para fritar (de 500 a 800 ml)
 - 1 xícara de chá de açúcar para finalizar (200 gramas)

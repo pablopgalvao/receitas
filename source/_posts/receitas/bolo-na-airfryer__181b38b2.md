@@ -30,11 +30,11 @@ flags: []
 
 - 2 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/3 de xícara de chá de óleo (80 ml)
+- ⅓ de xícara de chá de óleo (80 ml)
 - 1 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de leite (125 ml)
+- ½ xícara de chá de leite (125 ml)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 colher de chá de essência de baunilha ou a gosto (opcional)
+- ½ colher de chá de essência de baunilha ou a gosto (opcional)
 - --
 
 ---

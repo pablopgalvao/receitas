@@ -35,11 +35,11 @@ flags: []
 - 1 cebola grande
 - 1 colher de sobremesa de sal
 - 3 dentes de alho
-- 1/4 de pimenta dedo-de-moça
+- ¼ de pimenta dedo-de-moça
 - Azeitonas sem caroço a gosto
 - Orégano a gosto
-- 1/2 xícara de chá de vinagre (ou a gosto)
-- 3/4 de xícaras de azeite (ou a gosto)
+- ½ xícara de chá de vinagre (ou a gosto)
+- ¾ de xícaras de azeite (ou a gosto)
 - --
 
 ---

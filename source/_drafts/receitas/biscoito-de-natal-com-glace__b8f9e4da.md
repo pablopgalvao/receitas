@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 claras
-- 1 e 1/3 xícara de açúcar de confeiteiro (200 gramas)
+- 1 e ⅓ xícara de açúcar de confeiteiro (200 gramas)
 - Gotinhas de limão
 - Granulado colorido para decorar (80 gramas)
 - --

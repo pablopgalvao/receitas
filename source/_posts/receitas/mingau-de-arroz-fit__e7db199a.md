@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de arroz cru (113 gramas)
+- ½ xícara de chá de arroz cru (113 gramas)
 - 1 xícara de chá de água (240 ml)
 - 620 ml de leite de coco
 - 4 ameixas secas

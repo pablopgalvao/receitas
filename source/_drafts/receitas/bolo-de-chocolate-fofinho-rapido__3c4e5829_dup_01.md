@@ -32,7 +32,7 @@ flags: []
 - 1 pitada de sal
 - 1 xícara de chá de açúcar (200 gramas)
 - 2 xícaras de chá de farinha de trigo (300 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de café coado morno (240 ml)
 - 1 xícara de chá de chocolate em pó (110 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

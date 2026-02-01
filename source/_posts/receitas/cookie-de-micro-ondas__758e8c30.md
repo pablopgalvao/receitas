@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de açúcar mascavo (13 gramas)
-- 1/2 colher de sopa de leite (8 ml)
+- ½ colher de sopa de leite (8 ml)
 - 1 colher de sopa de manteiga derretida (15 ml)
 - 4 colheres de sopa de farinha de trigo (35 gramas)
 - 30 gramas de chocolate picado ou em gotas

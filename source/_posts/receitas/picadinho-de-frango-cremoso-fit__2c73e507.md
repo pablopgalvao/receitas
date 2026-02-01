@@ -34,7 +34,7 @@ flags: []
 - 2 colheres de sopa de cebola picada
 - 100 gramas de peito de frango picado (cerca de 1 filé médio)
 - Ervas frescas, sal e páprica picante a gosto (ou outros temperos que preferir)
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 colher de sopa de requeijão light
 - Cebolinha picada a gosto
 - --

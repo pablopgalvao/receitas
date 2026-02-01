@@ -35,8 +35,8 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 2 xícaras de chá de arroz cozido
 - 100 gramas de queijo parmesão ralado
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Cheiro-verde a gosto
 - Coloque o arroz cozido, a manteiga, o creme de leite, o parmesão e o cheiro-verde. Com o auxílio de uma colher, incorpore todos os ingredientes;
 - Acerte o sal e a pimenta-do-reino, misturando bem uma última vez. Está pronto para servir! Suave e cremoso na medida certa.

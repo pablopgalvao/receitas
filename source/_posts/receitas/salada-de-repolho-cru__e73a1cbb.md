@@ -31,11 +31,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 repolho verde
-- 1/2 repolho roxo
+- ½ repolho verde
+- ½ repolho roxo
 - Sal e pimenta-do-reino a gosto
 - Azeite a gosto
-- Suco de 1/2 limão-rosa (ou 3 colheres de sopa de vinagre branco)
+- Suco de ½ limão-rosa (ou 3 colheres de sopa de vinagre branco)
 - --
 
 ---

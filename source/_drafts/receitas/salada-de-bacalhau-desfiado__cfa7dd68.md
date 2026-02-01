@@ -33,15 +33,15 @@ flags: []
 - 300 gramas de bacalhau em lascas
 - 1 xícara de chá de grão-de-bico cozido (160 gramas)
 - 2 tomates
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
+- ½ pimentão vermelho
+- ½ pimentão amarelo
 - 1 cebola roxa
 - Salsinha a gosto
-- 1/2 xícara de chá de azeitona preta (70 gramas)
-- 1/2 xícara de chá de azeitona verde (70 gramas)
+- ½ xícara de chá de azeitona preta (70 gramas)
+- ½ xícara de chá de azeitona verde (70 gramas)
 - Sal a gosto
 - 1 colher de chá de pimenta-do-reino
-- 1/2 xícara de chá de azeite (120 ml)
+- ½ xícara de chá de azeite (120 ml)
 - --
 
 ---

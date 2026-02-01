@@ -31,7 +31,7 @@ flags: []
 
 - 300 gramas de filé de tilápia
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de azeite (ou a gosto)
 - 400 gramas de batata
 - 1 limão

@@ -31,7 +31,7 @@ flags: []
 - 100 gramas de presunto fatiado (cerca de 6 fatias)
 - 100 gramas de mussarela fatiada (cerca de 4 fatias)
 - 1 tomate
-- 1/2 cebola
+- ½ cebola
 - 3 colheres de sopa de salsinha e manjericão fresco picadinhos
 - 1 colher de sobremesa de orégano a gosto
 - --

@@ -28,12 +28,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 colher de sopa de fermento para pão
-- 1 e 1/2 colher de sopa de açúcar
+- 1 e ½ colher de sopa de fermento para pão
+- 1 e ½ colher de sopa de açúcar
 - 180 ml de água morna
 - 2 colheres de sopa de manteiga
 - 30 ml de leite morno
-- 2 e 1/2 xícaras de chá de farinha de trigo
+- 2 e ½ xícaras de chá de farinha de trigo
 - 1 colher de chá de sal
 - --
 

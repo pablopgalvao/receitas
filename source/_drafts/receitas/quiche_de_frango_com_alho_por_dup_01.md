@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícara de chá de farinha de trigo (300 gramas)
+- 2 e ½ xícara de chá de farinha de trigo (300 gramas)
 - 1 colher de chá de sal
 - 1 colher de café de fermento químico
-- 1/2 xícara de chá de manteiga gelada (125 gramas)
+- ½ xícara de chá de manteiga gelada (125 gramas)
 - 3 colheres de sopa de creme de leite (50 gramas)
 - 3 colheres de sopa de azeite
 - 300 gramas de frango desfiado

@@ -29,15 +29,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de açúcar (150 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
 - 4 colheres de sopa de manteiga (100 gramas)
 - Raspas de laranja a gosto
 - 200 ml de suco de laranja
-- 1 e 2/3 de xícara de chá de farinha de trigo (200 gramas)
-- 3 e 1/2 colheres de sopa de amido de milho (50 gramas)
+- 1 e ⅔ de xícara de chá de farinha de trigo (200 gramas)
+- 3 e ½ colheres de sopa de amido de milho (50 gramas)
 - 2 colheres de chá de baunilha (4 gramas)
 - 1 colher de sopa de fermento
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 200 ml de suco de laranja
 - Raspas de laranja a gosto
 - Em uma tigela grande ou no liquidificador, adicione os ovos, o açúcar e a manteiga. Bata bem até formar um creme claro e homogêneo;

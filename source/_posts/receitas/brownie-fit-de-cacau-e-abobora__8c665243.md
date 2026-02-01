@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de abóbora cozida e amassada (cabotiá ou moranga)
+- ½ xícara de chá de abóbora cozida e amassada (cabotiá ou moranga)
 - 1 ovo (batido e peneirado)
 - 2 colheres de sopa de cacau em pó 50% (pode ser sem lactose)
 - 3 colheres de sopa de açúcar mascavo (ou demerara)

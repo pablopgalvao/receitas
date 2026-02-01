@@ -47,7 +47,7 @@ flags: []
 6. Transfira a massa para uma bancada enfarinhada, continue incorporando a farinha, sovando até ela desgrudar das mãos, ficar lisa e macia (cerca de 10 minutos sovando);
 7. Disponha de volta para a tigela, cubra com um pano, leve para um lugar mais quente e deixe descansar por 40 minutos ou até dobrar de volume;
 8. Divida a massa ao meio em duas partes iguais;
-9. Na bancada lisa, abra uma das partes, com um rolo, formando um retângulo de cerca de 1/2 centímetro;
+9. Na bancada lisa, abra uma das partes, com um rolo, formando um retângulo de cerca de ½ centímetro;
 10. Espalhe o molho de tomate na massa (mais perto de uma das bordas), polvilhe o presunto, o queijo ralado, o orégano e finalize com o bacon;
 11. Puxe a borda mais perto do recheio, encostando ela nos ingredientes e puxe as partes de cima para dentro;
 12. Com cuidado, vá enrolando a massa até chegar na borda vazia (deixe a parte que fechou o pão, virada para baixo);

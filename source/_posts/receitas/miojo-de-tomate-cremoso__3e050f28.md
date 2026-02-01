@@ -31,11 +31,11 @@ flags: []
 - 1 pacote de miojo de tomate ou outro sabor de sua preferência
 - 300 ml de água para cozinhar o miojo
 - 1 fio de óleo
-- 1/4 de cebola média
+- ¼ de cebola média
 - 1 dente de alho pequeno
-- 1/4 de xícara de chá de tomate-cereja
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de orégano (ou a gosto)
+- ¼ de xícara de chá de tomate-cereja
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de orégano (ou a gosto)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
 - 2 colheres de sopa de requeijão
 - 2 colheres de sopa de queijo parmesão ralado (ou a gosto)

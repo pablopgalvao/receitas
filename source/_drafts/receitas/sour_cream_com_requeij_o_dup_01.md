@@ -33,7 +33,7 @@ flags: []
 - 1 colher bem cheia de requeijão
 - Sal a gosto
 - Em um recipiente, coloque o creme de leite e adicione a colher cheia de requeijão;
-- Esprema o suco de 1 limão diretamente sobre a mistura e mexa vigorosamente com uma colher por cerca de 1 minuto. Se notar que a mistura ainda não encorpou, adicione o suco de mais 1/2 limão e continue mexendo até ficar com textura cremosa;
+- Esprema o suco de 1 limão diretamente sobre a mistura e mexa vigorosamente com uma colher por cerca de 1 minuto. Se notar que a mistura ainda não encorpou, adicione o suco de mais ½ limão e continue mexendo até ficar com textura cremosa;
 - Em seguida, tempere com o sal e misture bem para ajustar o sabor;
 
 ---
@@ -42,6 +42,6 @@ flags: []
 
 1. Para começar, separe todos os ingredientes sobre a bancada;
 2. Em um recipiente, coloque o creme de leite e adicione a colher cheia de requeijão;
-3. Esprema o suco de 1 limão diretamente sobre a mistura e mexa vigorosamente com uma colher por cerca de 1 minuto. Se notar que a mistura ainda não encorpou, adicione o suco de mais 1/2 limão e continue mexendo até ficar com textura cremosa;
+3. Esprema o suco de 1 limão diretamente sobre a mistura e mexa vigorosamente com uma colher por cerca de 1 minuto. Se notar que a mistura ainda não encorpou, adicione o suco de mais ½ limão e continue mexendo até ficar com textura cremosa;
 4. Em seguida, tempere com o sal e misture bem para ajustar o sabor;
 5. Por fim, leve à geladeira por pelo menos 20 minutos antes de servir. Esse tempo ajuda o creme a estabilizar e ganhar consistência ideal. E está pronto!

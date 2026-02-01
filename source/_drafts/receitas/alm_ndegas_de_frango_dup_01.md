@@ -33,8 +33,8 @@ flags: []
 - 1 xícara de chá cheia de farinha de rosca (150 gramas)
 - 1 colher de chá de alho em pó
 - 1 colher de sopa de cebolinha
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de sal
+- ½ colher de chá de pimenta-do-reino ou a gosto
 - 1 xícara de chá de molho de tomate ou a gosto
 - Cebolinha a gosto para finalizar
 

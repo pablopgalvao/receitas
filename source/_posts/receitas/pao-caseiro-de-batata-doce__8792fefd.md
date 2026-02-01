@@ -35,9 +35,9 @@ flags: []
 
 - 1 batata-doce média cortada em rodelas
 - 500 ml de água
-- 1/2 colher de sopa de açúcar
-- 1/2 colher de chá de sal
-- 1/4 xícara de chá de óleo
+- ½ colher de sopa de açúcar
+- ½ colher de chá de sal
+- ¼ xícara de chá de óleo
 - 1 pacotinho de fermento biológico seco
 - 500 gramas de farinha de trigo
 - --

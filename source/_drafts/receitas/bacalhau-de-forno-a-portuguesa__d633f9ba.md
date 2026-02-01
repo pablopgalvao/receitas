@@ -37,8 +37,8 @@ flags: []
 - 4 ovos médios
 - 6 dentes de alho com casca
 - 3 colheres de sopa de salsinha
-- 2/3 de xícara de chá de azeite de oliva (160 ml)
-- 1/2 xícara de chá de azeitonas pretas
+- ⅔ de xícara de chá de azeite de oliva (160 ml)
+- ½ xícara de chá de azeitonas pretas
 - Água para cozinhar o bacalhau, batatas e ovos
 - 1 colher de chá de sal para cozimento das batatas
 - --

@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1 e 1/2 xícara de chá de açúcar (250 gramas)
+- 1 e ½ xícara de chá de açúcar (250 gramas)
 - 150 ml de óleo
-- 1 e 1/2 xícara de chá de farinha de trigo sem fermento (220 gramas)
-- 1 e 1/2 xícara de chá de fubá (195 gramas)
+- 1 e ½ xícara de chá de farinha de trigo sem fermento (220 gramas)
+- 1 e ½ xícara de chá de fubá (195 gramas)
 - 1 xícara de chá de leite (240 ml)
-- 1/4 de colher de chá de sal
+- ¼ de colher de chá de sal
 - 1 colher de sopa de fermento químico para bolos
 - --
 

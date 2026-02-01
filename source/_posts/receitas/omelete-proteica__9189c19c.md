@@ -33,7 +33,7 @@ flags: []
 - 1 tomate médio
 - 1 colher de café de sal (ou a gosto)
 - 1 colher de café de pimenta-do-reino (ou a gosto)
-- 1/2 cebola pequena
+- ½ cebola pequena
 - 1 fatia de queijo branco ou mussarela de búfala
 - 2 colheres de chá de azeite ou manteiga
 - 1 colher de sopa de salsinha (ou a gosto)

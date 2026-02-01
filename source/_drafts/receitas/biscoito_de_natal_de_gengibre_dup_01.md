@@ -29,17 +29,17 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 3/4 de xícaras de chá de farinha de trigo (370 gramas)
-- 1/3 de colher de sopa de fermento em pó (5 gramas)
-- 1/3 de colher de chá de bicarbonato de sódio (5 gramas)
-- 1/2 colher de chá de gengibre em pó
+- 2 e ¾ de xícaras de chá de farinha de trigo (370 gramas)
+- ⅓ de colher de sopa de fermento em pó (5 gramas)
+- ⅓ de colher de chá de bicarbonato de sódio (5 gramas)
+- ½ colher de chá de gengibre em pó
 - 1 colher de chá de canela em pó
-- 1/4 colher de chá de noz-moscada moída
-- 1/4 colher de chá de sal
+- ¼ colher de chá de noz-moscada moída
+- ¼ colher de chá de sal
 - 1 ovo médio
-- 1/2 xícara de chá de manteiga sem sal (85 gramas)
+- ½ xícara de chá de manteiga sem sal (85 gramas)
 - 1 xícara de chá de açúcar mascavo (150 gramas)
-- 4 e 1/2 colheres de sopa de mel (70 gramas)
+- 4 e ½ colheres de sopa de mel (70 gramas)
 - 180 gramas de açúcar impalpável
 - 1 clara de ovo
 - 1 colher de chá de essência de baunilha

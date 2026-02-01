@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de suco de maracujá concentrado (100 ml)
-- 1/2 xícara de chá de polpa de 2 maracujás (140 gramas)
+- ½ xícara de chá de suco de maracujá concentrado (100 ml)
+- ½ xícara de chá de polpa de 2 maracujás (140 gramas)
 - 3 colheres de sopa de açúcar ou a gosto (35 gramas)
 - --
 

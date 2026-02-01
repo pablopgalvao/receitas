@@ -31,7 +31,7 @@ flags: []
 
 - 1 colher de sopa de talo de coentro
 - 1 colher de chá de salsinha
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - Deixe a cebola roxa, o talo de coentro, a pimenta dedo-de-moça e a salsinhas bem picadinhos. Reserve;
 - Passe o peixe para uma tigela separada e junte com a cebola picada, o talo de coentro, a pimenta, a salsinha e o sal. Misture bem com uma colher para dissolver o tempero;
 - Acrescente o limão espremido e mexa bem, até que tudo incorpore. Prove e, se necessário, acerte o sal. Deixe marinar por 20 a 30 minutos, até o peixe adquirir um tom mais esbranquiçado, isso significa que está cozido;

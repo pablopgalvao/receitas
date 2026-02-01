@@ -32,8 +32,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 150 gramas de frango desfiado (sem tempero)
-- 1/2 tomate picado sem polpa
-- 1/2 cebola pequena picada
+- ½ tomate picado sem polpa
+- ½ cebola pequena picada
 - Sal e pimenta-do-reino a gosto
 - Alho picado a gosto
 - 1 colher de sopa de creme de ricota

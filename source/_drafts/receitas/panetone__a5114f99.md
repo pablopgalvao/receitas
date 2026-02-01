@@ -38,7 +38,7 @@ flags: []
 - 1 colher de café de sal
 - 125 ml de água morna
 - 2 formas de papel para panetone (forma 500 gramas)
-- 1/2 xícara de chá de suco de laranja (opcional)
+- ½ xícara de chá de suco de laranja (opcional)
 - --
 
 ---

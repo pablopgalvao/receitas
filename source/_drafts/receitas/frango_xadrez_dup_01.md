@@ -36,14 +36,14 @@ flags: []
 - 1 colher de chá de gengibre em pó
 - 1 fio de óleo de gergelim (opcional)
 - 100 ml de shoyu
-- 1 e 1/2 colher de sopa de amido de milho
+- 1 e ½ colher de sopa de amido de milho
 - 1 xícara de chá de água
-- 1/2 xícara de chá de amendoim torrado e sem pele (opcional)
+- ½ xícara de chá de amendoim torrado e sem pele (opcional)
 - Cheiro-verde picado a gosto
 - 1 colher de sopa bem cheia de amido de milho
 - 100 ml de água
 - 50 ml de shoyu
-- 1/2 envelope de caldo de galinha em pó. Se preferir, troque a água por 100 ml de caldo de galinha caseiro
+- ½ envelope de caldo de galinha em pó. Se preferir, troque a água por 100 ml de caldo de galinha caseiro
 - Em um recipiente, coloque o frango cortado em cubos. Tempere com sal (bem pouco, pois vai shoyu na receita), pimenta-do-reino a gosto e vinagre ou suco de limão. Misture bem e deixe marinar por, pelo menos, 30 minutos;
 - Leve uma wok (panela no estilo asiático), ou frigideira grande, com um fio de óleo, ao fogo alto. Espere esquentar, despeje os cubos de frango marinados e refogue até ficarem douradinhos, cerca de 5 minutos;
 - Adicione os pimentões, a cebola, o alho, o gengibre e o óleo de gergelim. Misture bem e deixe refogar, em fogo médio, por 5 minutos. Durante o processo, de vez em quando, mexa os ingredientes para não grudarem no fundo da panela;

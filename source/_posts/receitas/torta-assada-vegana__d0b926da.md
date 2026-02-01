@@ -44,7 +44,7 @@ flags: []
 
 1. Refogue em uma panela com um fio de azeite, o pimentão, a cebola e o alho.
 2. Adicione a cenoura, a ervilha, o tomate e tempere com sal e pimenta-do-reino. Reserve.
-3. Misture em uma tigela a linhaça e 1/3 xícara de chá de água uniformemente e deixe descansar por cerca de 10 minutos ou até adquirir a consistência de gel.
+3. Misture em uma tigela a linhaça e ⅓ xícara de chá de água uniformemente e deixe descansar por cerca de 10 minutos ou até adquirir a consistência de gel.
 4. Junte em um recipiente o trigo, o fermento, o alho em pó, o sal, o óleo, o gel de linhaça e o restante da água e mexa até formar uma massa homogênea.
 5. Transfira metade da massa para uma assadeira untada, adicione todo o recheio e cubra com a outra metade da massa.
 6. Leve a assadeira ao forno preaquecido a 200 °C por volta de 40 minutos.

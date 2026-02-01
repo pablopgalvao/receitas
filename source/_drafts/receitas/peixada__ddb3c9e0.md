@@ -34,8 +34,8 @@ flags: []
 - 2 dentes de alho
 - 1 vidro de leite de coco (200 ml)
 - Suco de 1 limão (20 ml)
-- 1/2 pimentão amarelo pequeno
-- 1/2 pimentão vermelho pequeno
+- ½ pimentão amarelo pequeno
+- ½ pimentão vermelho pequeno
 - 1 cebola grande
 - 1 pimenta-de-cheiro (opcional)
 - 3 tomates médios
@@ -43,7 +43,7 @@ flags: []
 - 1 colher de sopa colorau
 - 2 colheres de sopa de coentro picado
 - 2 colheres de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 4 colheres de sopa de azeite
 - --
 

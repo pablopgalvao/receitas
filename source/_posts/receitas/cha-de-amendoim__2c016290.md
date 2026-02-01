@@ -29,9 +29,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de amendoim torrado sem sal
+- ½ xícara de chá de amendoim torrado sem sal
 - 2 xícaras de chá de leite
-- 1/2 lata de leite condensado (195 gramas)
+- ½ lata de leite condensado (195 gramas)
 - Cravo e canela em pó a gosto
 - --
 

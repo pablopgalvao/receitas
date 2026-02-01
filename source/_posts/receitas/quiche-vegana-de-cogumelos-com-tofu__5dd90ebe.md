@@ -34,8 +34,8 @@ flags: []
 - 200 gramas de creme de leite de soja
 - 1 cebola pequena picada
 - 1 colher de café de sal
-- 1/2 colher de café de orégano
-- 1/2 colher de café de pimenta preta
+- ½ colher de café de orégano
+- ½ colher de café de pimenta preta
 - 100 gramas de cogumelo shitake fatiado
 - Queijo vegano da sua preferência
 - Cogumelos para decorar

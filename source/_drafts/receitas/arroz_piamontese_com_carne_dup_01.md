@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
+- 1 e ½ colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de alecrim desidratado (ou a gosto)
 - 1 colher de sopa de manteiga
 - 1 colher de sopa de manteiga
@@ -39,7 +39,7 @@ flags: []
 - 3 xícaras de chá de arroz cozido
 - 200 gramas de queijo parmesão
 - 4 colheres de sopa de cebolinha (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - Para o preparo da carne, tempere os medalhões com sal e pimenta-do-reino;
 - Em uma frigideira grande, adicione a manteiga. Quando derreter, acrescente os dentes de alho e o alecrim desidratado, refogue por alguns segundos;
 - Em outra panela, adicione mais manteiga. Nela, refogue a cebola até que fique bem douradinha;

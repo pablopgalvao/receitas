@@ -33,13 +33,13 @@ flags: []
 - 1 maço de salsinha ou coentro
 - 2 cebolas
 - 8 dentes de alho inteiros
-- 1 e 1/2 colher de sopa de sal
+- 1 e ½ colher de sopa de sal
 - 1 litro de água
 - 4 batatas grandes
 - 1 cenoura grande
 - 1 chuchu médio
 - 1 pimentão pequeno
-- 1 e 1/2 colher de sopa de cominho com pimenta-do-reino
+- 1 e ½ colher de sopa de cominho com pimenta-do-reino
 - 1 colher de sopa de páprica picante (ou colorau)
 - 3 colheres de sopa de azeite ou óleo para refogar
 - Cheiro-verde a gosto para finalizar

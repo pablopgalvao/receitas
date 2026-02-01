@@ -38,14 +38,14 @@ flags: []
 - 1 cenoura média
 - 10 azeitonas pretas
 - 150 gramas de presunto
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de sopa de orégano (ou a gosto)
-- 1/4 de xícara de azeite de oliva ️
+- ½ colher de sopa de orégano (ou a gosto)
+- ¼ de xícara de azeite de oliva ️
 - 1 caixa de creme de leite (200 gramas)
-- 1/2 xícara de chá de maionese (130 gramas)
-- 1/2 lata de milho verde (80 gramas)
-- 1/2 lata de ervilha (80 gramas)
+- ½ xícara de chá de maionese (130 gramas)
+- ½ lata de milho verde (80 gramas)
+- ½ lata de ervilha (80 gramas)
 - 2 colheres de sopa de salsinha picada (ou a gosto)
 - 2 colheres de sopa de cebolinha picada (ou a gosto)
 - --

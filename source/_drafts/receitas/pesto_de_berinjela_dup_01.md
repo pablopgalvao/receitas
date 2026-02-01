@@ -32,7 +32,7 @@ flags: []
 - 1 berinjela grande (300 gramas)
 - 20 gramas de nozes tostadas
 - 2 colheres de sopa de parmesão ralado (30 gramas)
-- 1/4 de xícara de chá de azeite de oliva (50 ml)
+- ¼ de xícara de chá de azeite de oliva (50 ml)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Com uma colher, raspe toda a polpa de uma das metades e coloque no mixer, processador ou liquidificador;

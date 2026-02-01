@@ -43,7 +43,7 @@ flags: []
 - 170 gramas de ervilha cozida
 - Salsinha picada e folhas de manjericão a gosto
 - Sal e pimenta-do-reino a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 200 gramas de creme de leite
 - 5 colheres de sopa de maionese
 - 200 gramas de filé de frango desfiado (sassami) (opcional)

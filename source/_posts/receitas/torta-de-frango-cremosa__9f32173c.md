@@ -33,7 +33,7 @@ flags: []
 - 550 ml de leite integral
 - 1 colher de chá de sal (ou a gosto)
 - 50 gramas de parmesão ralado
-- 2 e 1/2 xícaras de farinha de trigo tradicional sem fermento (350 gramas)
+- 2 e ½ xícaras de farinha de trigo tradicional sem fermento (350 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

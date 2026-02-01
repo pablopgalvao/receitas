@@ -28,14 +28,14 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de farinha de arroz
-- 1/3 de xícara de chá de chocolate 70% em gotas ou ralado
-- 1/2 xícara de chá de fécula de batata ou amido de milho
-- 1/3 de xícara de chá de polvilho doce
+- ½ xícara de chá de farinha de arroz
+- ⅓ de xícara de chá de chocolate 70% em gotas ou ralado
+- ½ xícara de chá de fécula de batata ou amido de milho
+- ⅓ de xícara de chá de polvilho doce
 - 3 colheres de sopa de manteiga derretida
 - 1 ovo
 - 3 colheres de sopa de açúcar demerara
-- 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 
 ---

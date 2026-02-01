@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de gergelim preto sem casca (130 gramas)
 - 2 colheres de sopa de azeite (30 ml)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - Em seguida, coloque o gergelim torrado e o sal num processador ou liquidificador, e bata até formar uma farinha fina;
 - Bata novamente, mas dessa vez, adicionando o azeite aos poucos, até atingir a consistência cremosa. Adicione sal;
 

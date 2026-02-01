@@ -34,8 +34,8 @@ flags: []
 - 1 banana amassada
 - 1 colher de chá de manteiga em temperatura ambiente
 - ¼ de xícara de chá de aveia em flocos
-- 1 e 1/4 de xícara de chá de farinha de aveia
-- 1/2 colher de chá de fermento em pó
+- 1 e ¼ de xícara de chá de farinha de aveia
+- ½ colher de chá de fermento em pó
 - Canela a gosto
 - --
 

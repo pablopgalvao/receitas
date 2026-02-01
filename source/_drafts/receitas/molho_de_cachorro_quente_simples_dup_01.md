@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de extrato de tomate (130 gramas)
+- ½ xícara de chá de extrato de tomate (130 gramas)
 - 650 gramas de passata de tomate
-- 1/2 colher de chá de páprica defumada
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de páprica defumada
+- ½ colher de chá de sal (ou a gosto)
 - 1 xícara de chá de água (240 ml)
 - 1 colher de sopa óleo ou azeite para refogar
 - Para começar, organize todos os ingredientes em sua bancada. Pique a cebola e os dentes de alho em cubinhos e as salsichas em rodelas;

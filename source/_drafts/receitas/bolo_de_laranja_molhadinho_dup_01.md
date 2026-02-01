@@ -31,8 +31,8 @@ flags: []
 
 - 1 xícara de chá de óleo (240 ml)
 - 2 xícaras de chá de farinha de trigo com fermento (280 gramas)
-- 1 e 1/2 xícaras de chá de açúcar (300 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- 1 e ½ xícaras de chá de açúcar (300 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - Coloque as laranjas descascadas, o óleo e os ovos no liquidificador. Bata por 1 minuto para incorporar bem todos os ingredientes. Verifique se não ficaram pedaços da poupa da fruta. Se necessário, bata mais um pouco;
 - Transfira a mistura para uma tigela. Adicione o açúcar e a farinha de trigo com fermento e misture bem com a ajuda de um fuê (batedor de bolo) ou garfo. Não mexa por muito tempo para não ativar o glúten da farinha;
 - Coloque a massa em uma forma (utilizamos uma forma redonda de 20 cm com furo central) untada com manteiga (ou margarina) e polvilhada com farinha. Leve ao forno preaquecido por 40 minutos, ou até o bolo ficar douradinho (ao espetar um palito de dente, ele deve sair limpo);

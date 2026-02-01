@@ -31,7 +31,7 @@ flags: []
 - 2 xícaras de farinha de aveia
 - 3 ovos
 - 1 xícara de açúcar mascavo
-- 1/2 xícara de óleo (canola, girassol ou milho)
+- ½ xícara de óleo (canola, girassol ou milho)
 - 1 colher de fermento
 - 1 pitada de sal
 - 2 cenouras médias raladas

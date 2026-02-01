@@ -31,10 +31,10 @@ flags: []
 
 - 600 gramas de costela limpa
 - 1 colher de chá de sal (ou a gosto)
-- 1/8 de colher de chá de pimenta do reino moída na hora (ou a gosto)
+- ⅛ de colher de chá de pimenta do reino moída na hora (ou a gosto)
 - 1 cebola grande (250 gramas)
 - 1 colher de chá de páprica defumada (ou a gosto)
-- 1/2 colher de chá de páprica picante (ou a gosto)
+- ½ colher de chá de páprica picante (ou a gosto)
 - 700 gramas de mandioca
 - 2 colheres de sopa de cebolinha
 - Adicione a mandioca numa panela de pressão, coberta com água (cerca de 2 dedos acima) e um pouco de sal. Feche a tampa corretamente e após pegar a pressão, abaixe o fogo e cozinhe por cerca de 20 a 25 minutos;

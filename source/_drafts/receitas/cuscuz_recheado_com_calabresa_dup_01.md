@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de flocão de milho (120 gramas)
-- 1/4 de colher de chá de sal
-- 3/4 de xícara de chá de água (180 ml)
-- 1/2 gomo de calabresa (100 gramas)
-- 1/2 tomate (60 gramas)
-- 1/2 cebola (40 gramas)
+- ¼ de colher de chá de sal
+- ¾ de xícara de chá de água (180 ml)
+- ½ gomo de calabresa (100 gramas)
+- ½ tomate (60 gramas)
+- ½ cebola (40 gramas)
 - Orégano a gosto
 - Sal a gosto
 - 4 colheres de sopa de requeijão (100 gramas)

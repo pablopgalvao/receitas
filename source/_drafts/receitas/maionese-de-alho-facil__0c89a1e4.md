@@ -32,7 +32,7 @@ flags: []
 - 1 colher de sopa de suco de limão (ou vinagre)
 - 1 xícara de chá de óleo
 - 1 dente de alho picado
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - --
 
 ---

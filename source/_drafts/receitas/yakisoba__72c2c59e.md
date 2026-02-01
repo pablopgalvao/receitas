@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de água
-- 1/2 xícara de chá de shoyu
+- ½ xícara de chá de shoyu
 - 1 colher de sopa de amido de milho
 - --
 

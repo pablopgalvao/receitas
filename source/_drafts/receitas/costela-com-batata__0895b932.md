@@ -31,9 +31,9 @@ flags: []
 - 800 gramas de costela bovina cortada em pedaços médios
 - 2 colheres de sopa de azeite
 - 2 colheres de sopa de alho picado (4 dentes médios)
-- 1/2 cebola média (100 gramas)
-- 1/2 pimentão verde (80 gramas)
-- 1/2 pimentão vermelho (50 gramas)
+- ½ cebola média (100 gramas)
+- ½ pimentão verde (80 gramas)
+- ½ pimentão vermelho (50 gramas)
 - 1 colher de sopa de vinagre de álcool
 - 1 colher de sopa de molho shoyu
 - 1 colher de sopa de páprica defumada

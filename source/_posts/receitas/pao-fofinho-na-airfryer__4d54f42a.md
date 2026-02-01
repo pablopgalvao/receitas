@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de farinha de trigo
+- 2 e ½ xícaras de chá de farinha de trigo
 - 150 ml de leite morno
 - 1 ovo
 - 30 gramas de manteiga
 - 2 colheres de sopa de açúcar
-- 1/2 colher de sopa de fermento biológico seco
-- 1/2 colher de chá de sal
+- ½ colher de sopa de fermento biológico seco
+- ½ colher de chá de sal
 - 1 gema + 1 colher de sopa de leite (para pincelar)
 - --
 

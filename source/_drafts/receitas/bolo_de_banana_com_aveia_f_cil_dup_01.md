@@ -31,7 +31,7 @@ flags: []
 
 - 4 ovos inteiros
 - 1 xícara de chá de açúcar demerara (opcional)
-- 1/2 xícara de chá de óleo vegetal
+- ½ xícara de chá de óleo vegetal
 - 1 colher de sopa de canela em pó
 - 1 xícara de chá de uvas-passas pretas (opcional)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

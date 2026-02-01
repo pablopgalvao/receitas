@@ -32,7 +32,7 @@ flags: []
 
 - 100 g de mandioquinha descascada, cozida e cortada em rodelas
 - 100 g de cenoura descascada, cozida e cortada em rodelas
-- 2 e 1/2 xícaras de chá da água do cozimento dos legumes
+- 2 e ½ xícaras de chá da água do cozimento dos legumes
 - 100 g de peito de frango cozido, desfiado e temperado
 - Cebolinha picadinha e pimenta-do-reino a gosto
 - Sal a gosto

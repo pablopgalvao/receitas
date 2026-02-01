@@ -38,7 +38,7 @@ flags: []
 
 1. Organize sua bancada! Porcione e separe os ingredientes da receita, e preaqueça o forno a 180°C;
 2. Para iniciar, vamos preparar o creme. Em uma panela ainda desligada, adicione o açúcar, as gemas, o amido de milho e misture com uma colher de pau ou fouet (batedor de arame) até incorporar;
-3. Adicione 1/3 da quantidade do leite e mexa para dissolver os ingredientes;
+3. Adicione ⅓ da quantidade do leite e mexa para dissolver os ingredientes;
 4. Ligue o fogo em potência média e adicione o restante do leite, sempre misturando. O ponto ideal é quando o creme engrossa em uma textura lisa sem grumos;
 5. Em uma outra panela, de preferência com fundo grosso, faça o caramelo. Coloque todo o açúcar e deixe derreter até que fique totalmente caramelizado. Não precisa mexer nessa etapa;
 6. Quando estiver completamente derretido, adicione a água e misture para dissolver. Desligue o fogo e despeje o caramelo rapidamente em um refratário (34 cm X 20 cm) que possa ir ao forno. Reserve;

@@ -34,10 +34,10 @@ flags: []
 - Cerca de 700 ml de caldo de legumes ou 1 tablete dissolvido na água (talvez não seja necessário usar todo o caldo)
 - 1 colher de sopa de azeite
 - 3 colheres de sopa de manteiga
-- 1/2 cebola picada
+- ½ cebola picada
 - 120 ml de vinho branco seco
 - 1 colher de chá de cúrcuma (opcional)
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de queijo parmesão ralado
 - Sal e pimenta-do-reino (ou branca) a gosto
 - --
 

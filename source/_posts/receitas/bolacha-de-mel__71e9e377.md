@@ -33,8 +33,8 @@ flags: []
 - 250 gramas de mel
 - 150 gramas de açúcar
 - 2 ovos
-- 1/2 colher de chá de canela
-- 1/2 colher de chá de noz moscada
+- ½ colher de chá de canela
+- ½ colher de chá de noz moscada
 - 1 colher de chá de cravo
 - Casca de limão ralada a gosto
 - 2 colheres de chá de bicarbonato de sódio

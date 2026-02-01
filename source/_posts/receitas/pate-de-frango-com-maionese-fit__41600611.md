@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas de frango desfiado
-- 1/4 cebola ralado ou picada em cubinhos (50 gramas)
-- 1/2 colher de chá de sal (ou a gosto)
+- ¼ cebola ralado ou picada em cubinhos (50 gramas)
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de sopa de salsinha e cebolinha (ou a gosto)
 - 1 colher de café de orégano (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 cenoura (50 gramas)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ½ cenoura (50 gramas)
 - 3 colheres de sopa da maionese caseira
 - --
 

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída (usamos patinho)
-- 1/2 cebola
+- ½ cebola
 - 1 colher de chá de tempero caipira
 - 1 colher de sopa de cebolinha
 - 300 gramas de molho de tomate

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - Manteiga para untar
-- 1/2 lata de leite condensado (198 gramas)
+- ½ lata de leite condensado (198 gramas)
 - 500 ml de leite
 - 1 colher de chá de essência de baunilha (opcional)
 - 2 colheres de sopa de leite em pó (20 gramas)

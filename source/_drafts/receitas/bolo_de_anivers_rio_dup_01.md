@@ -32,20 +32,20 @@ flags: []
 - 3 ovos inteiros
 - 1 xícara de chá de açúcar (180 gramas)
 - 2 xícaras de chá de farinha de trigo sem fermento (270 gramas)
-- 1/2 xícara de chá de chocolate em pó 50% cacau (70 gramas)
-- 1/2 xícara de chá de óleo (125 ml)
-- 1/2 xícara de chá de leite (125 ml)
+- ½ xícara de chá de chocolate em pó 50% cacau (70 gramas)
+- ½ xícara de chá de óleo (125 ml)
+- ½ xícara de chá de leite (125 ml)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 caixinha de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga (ou margarina)
 - 3 colheres de sopa de leite em pó (opcional)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - 1 caixinha de morangos (cerca de 250 gramas)
 - 1 caixinha de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga (ou margarina)
 - 2 colheres de sopa de chocolate em pó 50% cacau
-- 1/2 caixinha de creme de leite (100 gramas)
-- 1/2 caixinha de morango (cerca de 125 gramas)
+- ½ caixinha de creme de leite (100 gramas)
+- ½ caixinha de morango (cerca de 125 gramas)
 - Granulado a gosto
 - Preaqueça o forno a 180 ºC. Unte uma forma redonda (sem furo no meio, 24 cm de diâmetro) com manteiga e farinha de trigo. Peneire os ingredientes secos da massa;
 - Para a massa, em um recipiente, quebre os ovos, um por um, e transfira para a tigela da batedeira - se algum ovo estiver estragado, você não perde toda a receita. Junte o açúcar e bata por 2 minutos;

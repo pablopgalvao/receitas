@@ -35,7 +35,7 @@ flags: []
 - 100 gramas de açúcar mascavo
 - 125 gramas de mostarda
 - 2 colheres de sopa de molho inglês
-- 1/2 xícara de chá de vinagre de maçã ou vinho tinto
+- ½ xícara de chá de vinagre de maçã ou vinho tinto
 - 250 ml de água
 - --
 

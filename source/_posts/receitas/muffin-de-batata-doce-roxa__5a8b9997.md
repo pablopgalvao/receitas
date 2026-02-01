@@ -30,11 +30,11 @@ flags: []
 
 - 50 gramas de batata-doce roxa cozida e sem casca
 - 1 ovo
-- 1/2 xícara de aveia em flocos fina
+- ½ xícara de aveia em flocos fina
 - 1 colher de sobremesa de goma de tapioca
 - 1 colher de sobremesa de açaí em pó (opcional)
 - 2 colheres de sopa de água
-- 1/2 scoop de proteína vegetal sabor baunilha
+- ½ scoop de proteína vegetal sabor baunilha
 - 5 gotas de suco de limão-Tahiti
 - 1 colher de chá de fermento em pó
 - --

@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 de xícara de chá de queijo parmesão ralado
-- 1/3 de xícara de chá de leite
+- ⅓ de xícara de chá de queijo parmesão ralado
+- ⅓ de xícara de chá de leite
 - 2 colheres de sopa de óleo neutro (soja, girassol ou milho)
 - 1 xícara de chá de polvilho doce
 - Sal a gosto

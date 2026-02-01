@@ -30,7 +30,7 @@ flags: []
 
 - 3 xícaras de chá de batata-doce cozidas
 - 3 ovos inteiros
-- 3/4 xícara de chá de óleo de coco líquido
+- ¾ xícara de chá de óleo de coco líquido
 - 1 xícara de chá de adoçante natural (ou xilitol)
 - 1 xícara de chá de farinha de amêndoas
 - 1 xícara de chá de cacau em pó 100%

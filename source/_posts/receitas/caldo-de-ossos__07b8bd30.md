@@ -31,11 +31,11 @@ flags: []
 - 1,2 kg de ossos de tutano de boi
 - 2 xícaras de chá de cebola picada (145 gramas)
 - 1 xícara de chá de cenoura picada (260 gramas)
-- 1/2 xícara de chá de alho-poró picado. (40 gramas)
+- ½ xícara de chá de alho-poró picado. (40 gramas)
 - 45 gramas de gengibre descascado
 - 1 colher de sopa de azeite
 - 2 litros de água
-- 1 e 1/2 colher de sopa de sal (ou a gosto)
+- 1 e ½ colher de sopa de sal (ou a gosto)
 - --
 
 ---

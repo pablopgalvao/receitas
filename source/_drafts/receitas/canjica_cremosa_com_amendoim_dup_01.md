@@ -31,9 +31,9 @@ flags: []
 
 - 2 xícaras de chá de milho de canjica (400 gramas)
 - 1 caixinha de leite condensado (395 gramas)
-- 1/2 xícara de chá de coco ralado (40 gramas)
+- ½ xícara de chá de coco ralado (40 gramas)
 - 1 xícara de chá de amendoim torrado (150 gramas)
-- 3/4 de xícara de chá de açúcar (150 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
 - 1 vidro de leite de coco (200 ml)
 - Canela ou cravo-da-índia a gosto
 - Após o cozimento, mantenha a água restante na panela e adicione o leite integral e o leite de coco. Acrescente o leite condensado e o açúcar. Misture bem para dissolver;

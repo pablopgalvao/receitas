@@ -49,8 +49,8 @@ flags: []
 - 1 colher de sopa de manteiga (para o molho)
 - 1 colher de sopa de farinha de trigo
 - 1 colher de chá de extrato de tomate
-- 1/2 xícara de chá de vinho tinto seco
-- 1 1/2 xícara de chá de caldo de carne (usar o da maminha)
+- ½ xícara de chá de vinho tinto seco
+- 1 ½ xícara de chá de caldo de carne (usar o da maminha)
 - 1 xícara de chá de champignon fatiado
 - Legumes, purê de batata e arroz branco para acompanhar
 

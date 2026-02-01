@@ -35,7 +35,7 @@ flags: []
 - 200 ml de água gelada
 - 1 sachê de chá de abacaxi com hortelã
 - 100 ml de água de coco
-- Suco de 1/2 limão (espremido na hora)
+- Suco de ½ limão (espremido na hora)
 - Gelo de coco (cubos feitos com água de coco)
 - Folhas de hortelã para decorar
 - Fatias finas de limão ou abacaxi para decorar

@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de leite de coco em pó
-- 1/4 de xícara de açúcar demerara
-- 1/2 xícara de água quente
+- ¼ de xícara de açúcar demerara
+- ½ xícara de água quente
 - Coco ralado a gosto
 - --
 

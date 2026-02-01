@@ -34,7 +34,7 @@ flags: []
 - 1 cebola média
 - 2 dentes de alho
 - 1 folha de louro
-- 1/2 colher de chá de açafrão
+- ½ colher de chá de açafrão
 - 3 colheres de sopa de manteiga
 - 2 colheres de sopa de açúcar mascavo
 - Sal e tempero verde a gosto

@@ -32,18 +32,18 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 g de peito de frango cozido e desfiado
-- 1/2 lata de milho escorrido
+- ½ lata de milho escorrido
 - Cheiro verde a gosto
 - Azeitonas picadas a gosto
 - 1 xícara de chá mussarela ralada
 - 2 colheres de sopa de extrato de tomate
 - 1 pote de requeijão cremoso
 - 1 ovo
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de leite
 - 1 xícara de chá de farinha de trigo
 - 1 colher de chá de fermento em pó
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - Manteiga
 - --
 

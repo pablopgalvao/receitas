@@ -30,12 +30,12 @@ flags: []
 
 - 1 berinjela média
 - 1 litro de água para deixar a berinjela de molho
-- 3/4 de xícara de água gelada (180 ml)
-- 1/2 xícara de chá de farinha de trigo (120 gramas)
+- ¾ de xícara de água gelada (180 ml)
+- ½ xícara de chá de farinha de trigo (120 gramas)
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de chá de páprica (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de fermento em pó
+- ½ colher de chá de fermento em pó
 - 3 xícaras de chá de óleo (720 ml)
 - --
 

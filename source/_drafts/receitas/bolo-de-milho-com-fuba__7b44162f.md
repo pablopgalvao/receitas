@@ -34,7 +34,7 @@ flags: []
 - 1 latinha de milho (sem a água)
 - 100 ml de óleo
 - 1 pitada de sal
-- 1 e 1/2 xícara de chá de fubá mimoso
+- 1 e ½ xícara de chá de fubá mimoso
 - 1 colher de fermento químico em pó (fermento para bolo)
 - --
 

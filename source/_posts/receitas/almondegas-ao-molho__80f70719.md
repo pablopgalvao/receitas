@@ -31,12 +31,12 @@ flags: []
 - 1 cebola pequena
 - 2 dentes de alho
 - 1 fio de azeite (10 ml)
-- 1 e 1/2 sachê de molho de tomate pronto (525 gramas)
+- 1 e ½ sachê de molho de tomate pronto (525 gramas)
 - 1 tablete de caldo de carne
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
+- ½ pimentão verde
+- ½ pimentão vermelho
 - 2 xícaras de chá de água (500 ml)
-- 1/2 colher de chá de orégano ou a gosto
+- ½ colher de chá de orégano ou a gosto
 ---
 
 ## 👨‍🍳 Modo de Preparo

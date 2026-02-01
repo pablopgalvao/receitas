@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícara de farinha de trigo (350 gramas)
-- 1 e 1/4 xícara de chá de água morna ou em temperatura ambiente (300 ml)
+- 2 e ½ xícara de farinha de trigo (350 gramas)
+- 1 e ¼ xícara de chá de água morna ou em temperatura ambiente (300 ml)
 - 1 colher de sopa de fermento biológico seco (7 gramas)
 - 2 colheres de sopa de açúcar refinado (24 gramas)
 - 1 colher de chá cheia de sal (5 gramas)

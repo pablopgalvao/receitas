@@ -33,7 +33,7 @@ flags: []
 - 1 lata de fubá (200 gramas)
 - 1 lata de leite (290 ml)
 - 1 lata de açúcar (250 gramas)
-- 1/2 lata de óleo (145 ml)
+- ½ lata de óleo (145 ml)
 - 1 colher de sopa de fermento em pó
 - --
 

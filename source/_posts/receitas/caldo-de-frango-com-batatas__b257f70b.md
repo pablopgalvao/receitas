@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite
-- 1/2 kg de frango
+- ½ kg de frango
 - 1 cebola descascada e picada (200 gramas)
 - 3 dentes de alho picados
-- 1/4 de pimentão picado (60 gramas)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de curry
+- ¼ de pimentão picado (60 gramas)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de curry
 - 1 colher de sopa de páprica defumada (picante ou doce)
 - 1 colher de café de pimenta calabresa
 - 1 colher de café de sal (ou a gosto)
@@ -42,7 +42,7 @@ flags: []
 - 1 kg de batata inglesa sem casca
 - 150 gramas de bacon picado
 - 250 ml de água para cozinhar as batatas com o caldo (1 xícara de chá)
-- 1/4 de xícara de chá de cheiro-verde (ou a gosto)
+- ¼ de xícara de chá de cheiro-verde (ou a gosto)
 - --
 
 ---

@@ -34,7 +34,7 @@ flags: []
 - 1 colher de chá de tempero baiano
 - 1 colher de chá de sal
 - 300 gramas de molho de tomate
-- 2 e 1/2 xícaras de chá de água
+- 2 e ½ xícaras de chá de água
 - Cheiro-verde picado a gosto
 - Aqueça uma panela em fogo médio e coloque o azeite. Refogue a cebola picada até começar a dourar e, em seguida, adicione o alho e frite por mais 1 minuto. Tempere com sal, tempero baiano e o tablete de caldo de carne. Misture bem;
 - Enquanto isso, leve uma panela com água ao fogo alto. Quando ferver, adicione o sal até a água ficar salgada como a água do mar e coloque o macarrão para cozinhar. Cozinhe de acordo com as instruções da embalagem, até o macarrão ficar al dente;

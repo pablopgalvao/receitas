@@ -29,15 +29,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de azeitonas pretas sem caroço (40 gramas)
-- 1/2 xícara de chá de uva-passa preta (60 gramas)
-- 1/2 xícara de chá de uva-passa branca (60 gramas)
-- 1/2 xícara de chá de azeite de oliva (120 ml)
-- 1/2 xícara de vinagre branco (120 ml)
+- ½ xícara de chá de azeitonas pretas sem caroço (40 gramas)
+- ½ xícara de chá de uva-passa preta (60 gramas)
+- ½ xícara de chá de uva-passa branca (60 gramas)
+- ½ xícara de chá de azeite de oliva (120 ml)
+- ½ xícara de vinagre branco (120 ml)
 - 1 colher de chá de orégano
-- 1/2 colher de chá de páprica doce
-- 1/2 colher de chá de páprica picante
-- 1/2 colher de chá de lemon pepper
+- ½ colher de chá de páprica doce
+- ½ colher de chá de páprica picante
+- ½ colher de chá de lemon pepper
 - 1 colher de chá de sopa de sal a gosto (para desidratar a berinjela e para o restante da receita)
 - Em uma tigela, misture as berinjelas e o sal. Reserve por 15 minutos, ela soltará seu suco. Descarte e reserve apenas o legume;
 - Adicione orégano, páprica doce e picante, lemmon pepper e sal. Misture bem, envolvendo os sabores;

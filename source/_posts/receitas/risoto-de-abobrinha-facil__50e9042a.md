@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite
-- 1/2 cebola picada
-- 1/2 pimentão vermelho picado
+- ½ cebola picada
+- ½ pimentão vermelho picado
 - 3 dentes de alho picados
 - Sal e pimenta-do-reino a gosto
 - 1 xícara de chá de arroz arbóreo ou carnaroli
-- 1/3 xícara de chá de vinho branco seco
+- ⅓ xícara de chá de vinho branco seco
 - 1 abobrinha italiana picada
 - 3 xícaras de chá de caldo de legumes quente
 - 1 copo de requeijão (ou 1 lata de creme de leite)

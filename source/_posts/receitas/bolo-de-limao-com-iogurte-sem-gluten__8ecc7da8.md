@@ -37,8 +37,8 @@ flags: []
 - 1 colher de sopa de amido de milho
 - Suco e raspas de 1 limão
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
-- 1/2 caixinha de leite condensado (198 gramas)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de leite condensado (198 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - Suco de limão a gosto
 - --
 

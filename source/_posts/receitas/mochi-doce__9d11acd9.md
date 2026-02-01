@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de feijão-azuki seco (200 gramas)
-- 3/4 de xícara de açúcar (150 gramas)
-- 1/4 de colher de chá de sal
+- ¾ de xícara de açúcar (150 gramas)
+- ¼ de colher de chá de sal
 - Fécula de batata para polvilhar (o quanto for necessário)
-- 1 e 1/2 xícara de farinha de arroz doce ou arroz glutinoso (150 gramas)
-- 3/4 de xícara de chá de açúcar (150 gramas)
+- 1 e ½ xícara de farinha de arroz doce ou arroz glutinoso (150 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
 - --
 
 ---

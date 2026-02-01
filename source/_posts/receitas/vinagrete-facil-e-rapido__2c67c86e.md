@@ -31,8 +31,8 @@ flags: []
 - 3 tomates médios e maduros
 - 1 cebola média
 - 2 colheres de sopa de óleo ou azeite
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de cheiro-verde (ou a gosto)
 - 50 ml de vinagre
 - 50 ml de água (ou a gosto)

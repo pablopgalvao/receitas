@@ -30,9 +30,9 @@ flags: []
 
 - 2 ovos
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de açúcar mascavo
+- ½ xícara de açúcar mascavo
 - 2 xícaras de aveia em flocos
-- 1/2 xícara de farinha integral
+- ½ xícara de farinha integral
 - --
 
 ---

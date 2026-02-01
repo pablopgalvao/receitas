@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de água
-- 1/2 xícara de chá de óleo vegetal
+- ½ xícara de chá de óleo vegetal
 - 3 xícaras de chá de farinha de trigo
 - Sal a gosto
 - 1 colher de chá de fermento químico em pó (fermento para bolo)

@@ -34,7 +34,7 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 2 latas de tomate pelado ou molho de tomate pronto (cerca de 500 gramas)
 - 350 gramas de queijo mussarela ralado
-- 1/2 xícara de chá de queijo parmesão (70 gramas)
+- ½ xícara de chá de queijo parmesão (70 gramas)
 - Tempere com sal e pimenta-do-reino. Misture bem;
 - Acrescente a camada de carne moída restante, salpique queijo mussarela ralado por cima e mais uma de abobrinha. Repita o processo até completar a forma;
 

@@ -31,7 +31,7 @@ flags: []
 
 - 1 caixa de mistura para chantilly (200 ml)
 - 1 xícara de chá de leite Ninho (110 gramas)
-- 1/2 caixa de leite condensado (198 gramas)
+- ½ caixa de leite condensado (198 gramas)
 - Em seguida, adicione o leite Ninho e o leite condensado. Misture bem por alguns minutos com uma colher ou espátula de silicone, até ficar homogêneo e se atentando para desmanchar todos os gruminhos de leite em pó;
 
 ---

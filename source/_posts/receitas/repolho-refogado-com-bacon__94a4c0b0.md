@@ -35,9 +35,9 @@ flags: []
 - 1 cebola
 - 2 dentes de alho
 - Sal a gosto
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - 6 pimentas ardidas
-- 1/2 maço de cheiro-verde
+- ½ maço de cheiro-verde
 - --
 
 ---

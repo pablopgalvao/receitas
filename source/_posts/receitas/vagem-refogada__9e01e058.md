@@ -33,9 +33,9 @@ flags: []
 - 1 dente de alho descascado e amassado
 - 1 colher de chá de sementes de coentro moída (inteiras ou moídas)
 - 1 colher de chá de páprica doce
-- 2 e 1/2 colheres de sopa de azeite (50 ml)
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/3 xícara de chá de folhas de salsinha fresca (ou a gosto)
+- 2 e ½ colheres de sopa de azeite (50 ml)
+- ½ colher de chá de sal (ou a gosto)
+- ⅓ xícara de chá de folhas de salsinha fresca (ou a gosto)
 - Pedaços de limão-siciliano para servir
 - --
 

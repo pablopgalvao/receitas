@@ -34,8 +34,8 @@ flags: []
 - 2 colheres de sopa de extrato de tomate (40 gramas)
 - 3 colheres de sopa de coentro ou a gosto
 - 1 colher de chá de sal ou a gosto
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
-- 1/2 colher de chá de páprica picante ou a gosto
+- ½ colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de páprica picante ou a gosto
 - 1 colher de chá de chimichurri ou a gosto
 - 1 colher de chá de colorau a gosto
 - 360 gramas de mussarela para gratinar
@@ -43,7 +43,7 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 100 ml de leite
 - 1 colher de chá de sal ou a gosto
-- 1/2 de colher de chá de pimenta-do-reino ou a gosto
+- ½ de colher de chá de pimenta-do-reino ou a gosto
 - Enquanto isso, em uma panela, aqueça a manteiga e refogue a cebola e o alho até dourar levemente. Adicione o frango desfiado e o tomate picado, misturando bem;
 - Tempere com sal, pimenta-do-reino, páprica, chimichurri e colorau a gosto. Coloque o extrato de tomate, mexa e deixe cozinhar por alguns minutos. Finalize o recheio com coentro picado, desligue o fogo e reserve;
 - Acrescente a manteiga, o creme de leite e o leite, misturando até obter consistência cremosa. Tempere com sal e pimenta-do-reino a gosto;

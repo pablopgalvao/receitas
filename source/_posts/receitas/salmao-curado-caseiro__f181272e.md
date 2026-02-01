@@ -30,9 +30,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de salmão
+- ½ kg de salmão
 - 1 xícara de sal grosso
-- 1/2 xícara de açúcar
+- ½ xícara de açúcar
 - Pimenta em grãos a gosto
 - Dill picado a gosto
 - --

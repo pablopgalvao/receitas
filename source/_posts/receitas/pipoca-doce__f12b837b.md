@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de óleo vegetal
-- 1/2 xícara de chá de milho para pipoca
+- ½ xícara de chá de milho para pipoca
 - 1 xícara de chá de açúcar
 - 2 colheres de sopa de vinagre de vinho branco (ou de vinho tinto)
 - --

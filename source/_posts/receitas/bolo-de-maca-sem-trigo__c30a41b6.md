@@ -30,7 +30,7 @@ flags: []
 
 - 1 banana picada (opcional)
 - 1 maçã fuji picada (150 gramas)
-- 1/2 xícara de chá de uvas-passas (75 gramas)
+- ½ xícara de chá de uvas-passas (75 gramas)
 - --
 
 ---

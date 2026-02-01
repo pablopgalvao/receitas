@@ -31,10 +31,10 @@ flags: []
 - 2 xícaras de chá de farinha de trigo
 - 1 xícara de chá de leite morno
 - 1 ovo
-- 1/2 tablete de fermento biológico fresco (ou 1 colher de chá de fermento biológico seco)
+- ½ tablete de fermento biológico fresco (ou 1 colher de chá de fermento biológico seco)
 - 2 colheres de sopa de azeite (ou óleo)
 - 1 colher de chá de açúcar
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - --
 
 ---

@@ -32,7 +32,7 @@ flags: []
 - 800 gramas de coxinha da asa
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de sopa de mostarda
+- ½ colher de sopa de mostarda
 - Óleo para fritar
 - Em uma tigela com o frango, adicione o alho triturado, o sal, a pimenta, a mostarda e esprema o limão. Misture com as mãos mesmo, para espalhar melhor os temperos. Cubra com plástico filme e deixe na geladeira por 25 minutos marinando;
 - Aqueça uma panela com bastante óleo para submergir os pedaços de frango. Coloque uma colher de pau para saber se está quente o suficiente - algumas bolhinhas devem se formar em torno da colher;

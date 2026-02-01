@@ -32,11 +32,11 @@ flags: []
 - 1 xícara de chá de aveia em flocos finos
 - 2 xícaras de chá de água
 - 4 dentes de alho picados
-- 1/2 xícara de chá de cebola picada
+- ½ xícara de chá de cebola picada
 - 300 gramas de palmito fatiado
 - 100 gramas de cogumelos champignon fatiados
 - 2 xícaras de chá de molho de tomate
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 2 colheres de sopa de mostarda amarela
 - 1 xícara de chá de salsinha picada
 - Sal a gosto

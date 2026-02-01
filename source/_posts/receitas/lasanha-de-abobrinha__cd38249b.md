@@ -35,7 +35,7 @@ flags: []
 
 - 220 gramas de abobrinha
 - 3 colheres de sopa de azeite
-- 1/2 cebola
+- ½ cebola
 - 3 dentes de alho
 - 430 gramas de carne moída
 - Sal a gosto

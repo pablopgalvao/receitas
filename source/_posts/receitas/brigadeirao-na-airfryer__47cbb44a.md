@@ -31,7 +31,7 @@ flags: []
 - 1 caixinha de leite condensado (395 gramas)
 - 3 ovos médios (com cerca de 50 gramas cada)
 - 1 caixinha de creme de leite (200 gramas)
-- 1/2 xícara de cacau em pó 50% (45 gramas)
+- ½ xícara de cacau em pó 50% (45 gramas)
 - 4 colheres de sopa de açúcar
 - 2 colheres de sopa de manteiga
 - 1 xícara de chá de granulado ou a gosto (100 gramas)

@@ -31,7 +31,7 @@ flags: []
 - 1 barra (90 gramas) de chocolate meio amargo
 - 4 colheres de sopa de manteiga
 - 2 colheres de sopa (bem cheias) de farinha de trigo
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - 3 ovos
 - --
 

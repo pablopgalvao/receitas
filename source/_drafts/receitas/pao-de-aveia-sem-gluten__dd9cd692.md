@@ -32,9 +32,9 @@ flags: []
 - 3 ovos
 - 1 xícara de café de azeite de oliva ou óleo vegetal
 - 150 ml de água morna
-- 1 e 1/2 xícara de chá de aveia em flocos finos sem glúten ou farelo de aveia sem glúten
+- 1 e ½ xícara de chá de aveia em flocos finos sem glúten ou farelo de aveia sem glúten
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) sem glúten
-- 1/2 colher de sopa rasa de sal (ou a gosto)
+- ½ colher de sopa rasa de sal (ou a gosto)
 - 50 gramas de queijo parmesão ralado sem glúten (opcional)
 - Sementes de chia, linhaça ou gergelim para enriquecer a massa (opcional)
 - --

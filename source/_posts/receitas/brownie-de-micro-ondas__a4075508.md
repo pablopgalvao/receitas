@@ -32,7 +32,7 @@ flags: []
 - 2 colheres de sopa de farinha de trigo
 - 2 colheres de sopa de açúcar
 - 2 colheres de sopa de chocolate em pó
-- 1 e 1/2 colher de sopa de manteiga derretida (sem sal)
+- 1 e ½ colher de sopa de manteiga derretida (sem sal)
 - 2 colheres de sopa de leite
 - Amendoim ou nozes a gosto
 - --

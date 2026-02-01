@@ -33,8 +33,8 @@ flags: []
 
 - 2 cebolas grandes
 - 1 ovo
-- 1/2 copo de leite (120 ml)
-- 1/2 xícara de chá de farinha de trigo (70 gramas)
+- ½ copo de leite (120 ml)
+- ½ xícara de chá de farinha de trigo (70 gramas)
 - Sal a gosto
 - Páprica picante a gosto
 - Flocão de milho (300 gramas)

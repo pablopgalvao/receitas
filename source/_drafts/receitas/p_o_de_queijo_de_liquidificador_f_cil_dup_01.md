@@ -31,7 +31,7 @@ flags: []
 
 - 2 xícaras de chá de polvilho azedo (300 gramas)
 - 1 ovo médio
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite (240 ml)
 - 1 colher de chá de sal (ou a gosto)
 - 200 gramas de mussarela

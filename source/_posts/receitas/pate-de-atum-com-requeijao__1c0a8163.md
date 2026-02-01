@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de atum em óleo ralado (120 gramas)
-- 1/2 cenoura pequena (80 gramas)
-- 1/2 lata de milho (70 ramas)
+- ½ cenoura pequena (80 gramas)
+- ½ lata de milho (70 ramas)
 - 3 colheres de sopa de cebolinha (ou a gosto)
 - 2 colheres de sopa de requeijão
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - --
 
 ---

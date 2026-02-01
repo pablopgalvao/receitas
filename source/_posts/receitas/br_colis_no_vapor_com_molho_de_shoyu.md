@@ -41,6 +41,6 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Descarte a base grossa do talo; vire o brócolis de ponta cabeça na tábua e corte em floretes médios. Transfira para uma tigela e lave bem sob água corrente.
-2. Complete 1/3 do volume de uma panela média com água e leve ao fogo alto. Assim que começar a ferver, transfira os floretes de brócolis para um cesto (ou peneira) de cozimento a vapor e encaixe sobre a panela. Diminua o fogo, tampe e deixe cozinhar por cerca de 15 minutos, até ficar macio.
+2. Complete ⅓ do volume de uma panela média com água e leve ao fogo alto. Assim que começar a ferver, transfira os floretes de brócolis para um cesto (ou peneira) de cozimento a vapor e encaixe sobre a panela. Diminua o fogo, tampe e deixe cozinhar por cerca de 15 minutos, até ficar macio.
 3. Enquanto isso prepare o molho: num pote de vidro com tampa, junte o shoyu, o açúcar mascavo, o caldo de limão, o óleo e a pimenta calabresa; tampe e chacoalhe bem.
 4. Disponha os floretes de brócolis num prato, regue com o molho e finalize com a cebolinha fatiada. Sirva a seguir.

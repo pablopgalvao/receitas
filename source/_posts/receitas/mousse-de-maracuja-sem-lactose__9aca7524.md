@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 maracujás grandes (ou 3 pequenos)
-- 1/2 xícara de chá de açúcar demerara
+- ½ xícara de chá de açúcar demerara
 - 200 ml de leite de coco
 - 1 sachê de gelatina sem sabor
 - --

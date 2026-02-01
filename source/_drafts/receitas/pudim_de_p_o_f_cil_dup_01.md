@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 xícara de chá de água
-- 2/3 xícara de chá de açúcar
+- ⅓ xícara de chá de água
+- ⅔ xícara de chá de açúcar
 - 300 ml de leite
 - 1 caixinha de creme de leite (200 gramas)
 - 1 lata de leite condensado (395 gramas)

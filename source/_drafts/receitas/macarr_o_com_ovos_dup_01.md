@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de macarrão tipo espaguete (250 gramas)
+- ½ pacote de macarrão tipo espaguete (250 gramas)
 - Sal a gosto
 - 4 colheres de sopa de óleo
 - 1 colher de sopa de manteiga

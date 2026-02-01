@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 colheres de sopa de flocão de milho (50 gramas)
-- 1/2 colher de chá de sal
-- 1/4 de xícara de água (50 ml)
+- ½ colher de chá de sal
+- ¼ de xícara de água (50 ml)
 - 1 fatia de mussarela
 - 1 colher de sopa de requeijão light (20 gramas)
 - --

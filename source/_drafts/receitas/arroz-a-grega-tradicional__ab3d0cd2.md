@@ -30,15 +30,15 @@ flags: []
 
 - 2 xícaras de chá de arroz agulhinha cru
 - 1 fio de azeite
-- 1/2 cebola média picada
+- ½ cebola média picada
 - 2 dentes de alho picados
 - 1 cenoura média picada
-- 1/2 xícara de chá de pimentão vermelho médio picado
-- 1/2 xícara de chá de pimentão amarelo médio picado
-- 1/2 xícara de chá de uva-passa
+- ½ xícara de chá de pimentão vermelho médio picado
+- ½ xícara de chá de pimentão amarelo médio picado
+- ½ xícara de chá de uva-passa
 - 1 latinha de milho-verde (sem água)
 - 1 latinha de ervilha (sem água)
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 4 xícaras de chá de água
 - 3 colheres de sopa de cheiro-verde picado
 - --

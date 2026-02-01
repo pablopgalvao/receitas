@@ -33,7 +33,7 @@ flags: []
 - 1 xícara (chá) de farinha de trigo
 - 1 colher (sopa) de mel
 - 2 colheres (sopa) de azeite
-- Leve 1 1/2 xícara (chá) de água ao fogo, apenas para amornar, sem deixar ferver - caso contrário, o calor irá matar o fermento em vez de ativá-lo.
+- Leve 1 ½ xícara (chá) de água ao fogo, apenas para amornar, sem deixar ferver - caso contrário, o calor irá matar o fermento em vez de ativá-lo.
 - Junte a metade da água e 1 xícara (chá) de farinha de trigo na tigela com o fermento. Misture bem e regue com o restante da água e junte o azeite. Mexa bem até que a mistura fique lisa. Tampe (com um prato) e deixe descansar por 30 minutos.
 - 1¼ de xícara (chá) de farinha de trigo
 - 1¼ de xícara (chá) de farinha de trigo integral
@@ -55,6 +55,6 @@ flags: []
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Leve 1 1/2 xícara (chá) de água ao fogo, apenas para amornar, sem deixar ferver - caso contrário, o calor irá matar o fermento em vez de ativá-lo.
+1. Leve 1 ½ xícara (chá) de água ao fogo, apenas para amornar, sem deixar ferver - caso contrário, o calor irá matar o fermento em vez de ativá-lo.
 2. Numa tigela, misture o fermento com o mel, até ficar liso. Dica: unte com óleo (ou azeite) a colher de sopa para medir o mel, assim ele não fica grudado.
 3. Junte a metade da água e 1 xícara (chá) de farinha de trigo na tigela com o fermento. Misture bem e regue com o restante da água e junte o azeite. Mexa bem até que a mistura fique lisa. Tampe (com um prato) e deixe descansar por 30 minutos.

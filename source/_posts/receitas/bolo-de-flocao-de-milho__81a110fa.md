@@ -32,7 +32,7 @@ flags: []
 - 3 ovos (170 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 xícara de chá de leite integral (240 ml)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de chá de sal
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - --

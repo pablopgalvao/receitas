@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 pacote de fermento biológico seco instantâneo (10 gramas)
-- 1 e 1/2 xícara de chá de água
+- 1 e ½ xícara de chá de água
 - 1 lata de leite condensado (395 gramas)
 - 2 colheres de sopa de manteiga
 - 3 ovos

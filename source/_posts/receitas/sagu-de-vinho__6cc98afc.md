@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de sagu
-- 1 e 1/2 litro de água
+- 1 e ½ litro de água
 - 600 ml de vinho tinto suave
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - Canela em pau e cravo-da-índia a gosto
 - --
 

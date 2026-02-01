@@ -31,7 +31,7 @@ flags: []
 - 3 ovos
 - 1 xícara de chá de óleo
 - 2 xícaras de chá de abóbora de pescoço crua cortada em cubinhos
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 xícara de chá de farinha de trigo
 - 1 xícara de chá de fubá
 - 1 colher de chá de fermento químico em pó

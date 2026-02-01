@@ -32,8 +32,8 @@ flags: []
 - 2 colheres e sopa de azeite
 - 2 colheres de sopa de manteiga
 - 1 cebola média
-- 1/2 colher de chá de pimenta calabresa seca
-- 1/4 de colher de chá de pimenta-do-reino a gosto
+- ½ colher de chá de pimenta calabresa seca
+- ¼ de colher de chá de pimenta-do-reino a gosto
 - 1 colher de chá de sementes de coentro
 - 2 dentes de alho
 - 1 colher de chá de sal a gosto

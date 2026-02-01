@@ -31,8 +31,8 @@ flags: []
 
 - 4 colheres de sopa de azeite
 - 1 colher de sopa de queijo parmesão ralado
-- 1/2 caixa de creme de leite (100 ml)
-- 1/2 olher de sopa de mostarda amarela
+- ½ caixa de creme de leite (100 ml)
+- ½ olher de sopa de mostarda amarela
 - Suco de 1 limão
 - 1 dente de alho pequeno
 - --

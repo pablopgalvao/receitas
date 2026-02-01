@@ -31,14 +31,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 cebola
-- 1/2 alho-poró
+- ½ alho-poró
 - 500 gramas de ervilha partida em grão
 - 10 mini batatas inteiras (ou 3 grandes partidas ao meio)
 - Água até cobrir tudo
-- 1/2 colher de sopa de tomilho fresco
-- 1/2 colher de sopa de páprica defumada
-- 1/2 colher de sopa de alho em pó
-- 1/2 colher de sopa de cebola em pó
+- ½ colher de sopa de tomilho fresco
+- ½ colher de sopa de páprica defumada
+- ½ colher de sopa de alho em pó
+- ½ colher de sopa de cebola em pó
 - Sal a gosto
 - --
 

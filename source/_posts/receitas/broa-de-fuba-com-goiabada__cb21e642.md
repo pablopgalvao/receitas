@@ -33,8 +33,8 @@ flags: []
 - 1 xícara de chá de farinha de trigo (150 gramas)
 - 2 colheres de sopa de manteiga (60 gramas)
 - 1 ovo (50 gramas)
-- 1/2 colher de sopa de fermento em pó (fermento para bolo)
-- 1/4 de xícara de chá de leite (60 ml)
+- ½ colher de sopa de fermento em pó (fermento para bolo)
+- ¼ de xícara de chá de leite (60 ml)
 - 1 gema para pincelar
 - 100 gramas de goiabada (cortada em quadradinhos)
 - --

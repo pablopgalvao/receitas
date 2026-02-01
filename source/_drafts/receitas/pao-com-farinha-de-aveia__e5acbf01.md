@@ -31,13 +31,13 @@ flags: []
 - 2 ovos
 - 30 ml de azeite
 - 1 colher de chá de goma xantana
-- 1 e 2/3 xícara de chá de farinha de aveia (250 gramas)
-- 1/2 xícara de chá de farinha de arroz (100 gramas)
+- 1 e ⅔ xícara de chá de farinha de aveia (250 gramas)
+- ½ xícara de chá de farinha de arroz (100 gramas)
 - 50 gramas de polvilho doce
 - 10 gramas de semente de chia (opcional)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 5 gramas de fermento químico
-- 1 e 2/3 xícara de chá de água morna (400 ml)
+- 1 e ⅔ xícara de chá de água morna (400 ml)
 - --
 
 ---

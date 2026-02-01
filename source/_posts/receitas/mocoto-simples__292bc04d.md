@@ -30,19 +30,19 @@ flags: []
 
 - 2 kg de mocotó limpo
 - 600 ml de água quente para cozinhar
-- 1/2 xícara de chá de vinagre (120 ml)
+- ½ xícara de chá de vinagre (120 ml)
 - 2 cebolas
 - 6 dentes de alho
 - 1 talo de alho-poró
 - 1 pimentão vermelho
-- 1/2 colher de café de pimenta-calabresa
-- 1/2 cenoura
-- 1/2 ramo de alecrim
+- ½ colher de café de pimenta-calabresa
+- ½ cenoura
+- ½ ramo de alecrim
 - 1 colher de sopa de extrato de tomate
 - 1 lata de tomate pelado
 - 1 colher de sopa de sal
-- 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
-- 1/4 de xícara de chá de cheiro-verde picado (ou a gosto)
+- ½ colher de sopa de pimenta-do-reino (ou a gosto)
+- ¼ de xícara de chá de cheiro-verde picado (ou a gosto)
 - 2 colheres de sopa de azeite de oliva (ou a gosto)
 - --
 

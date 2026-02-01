@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 a 3 dentes de alho (sem as cascas)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 1 xícara de chá de nozes torradas levemente (90 gramas)
 - 280 gramas de manjericão sem talos
 - 80 gramas de queijo parmesão ralado

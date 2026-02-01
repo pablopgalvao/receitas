@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de leite integral
-- 1/2 xícara de chá de creme de leite fresco
+- 1 e ½ xícara de chá de leite integral
+- ½ xícara de chá de creme de leite fresco
 - 2 colheres de chá de açúcar mascavo (pode ser de coco, refinado ou demerara)
-- 1/2 colher de chá de café granulado solúvel
+- ½ colher de chá de café granulado solúvel
 - 200 gramas de chocolate em barra 70% picado
 - Pimenta caiena em pó a gosto
 - 50 ml de cachaça

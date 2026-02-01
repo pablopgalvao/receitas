@@ -33,7 +33,7 @@ flags: []
 - 4 colheres de sopa de leite desnatado (60 ml)
 - 1 colher de chá de cúrcuma
 - 2 colheres de sopa de creme de ricota (60 gramas)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - Água para cozinhar as batatas
 - --
 

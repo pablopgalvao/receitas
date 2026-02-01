@@ -31,10 +31,10 @@ flags: []
 
 - 2 xícaras de chá de polvilho azedo (300 gramas)
 - 1 xícara de chá de polvilho doce (120 gramas)
-- 1 e 1/2 xícara de chá de queijo meia-cura ralado grosso (120 gramas)
+- 1 e ½ xícara de chá de queijo meia-cura ralado grosso (120 gramas)
 - 3 ovos
-- 1 e 1/2 xícara de chá de água (320 ml)
-- 1/4 de xícara de chá de óleo (60 ml)
+- 1 e ½ xícara de chá de água (320 ml)
+- ¼ de xícara de chá de óleo (60 ml)
 - 1 colher de chá de sal
 - Óleo a gosto para untar as mãos
 - --

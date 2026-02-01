@@ -30,8 +30,8 @@ flags: []
 
 - 3 bananas grandes
 - 3 ovos médio
-- 1/4 xícara de chá de óleo de girassol ou soja
-- 1/2 xícara de chá de café coado
+- ¼ xícara de chá de óleo de girassol ou soja
+- ½ xícara de chá de café coado
 - 1 xícara de chá de farinha de aveia
 - 1 xícara de chá de aveia em flocos
 - 1 colher de sopa de cacau em pó

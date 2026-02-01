@@ -33,7 +33,7 @@ flags: []
 - 3 pimentas dedo-de-moça
 - 1 xícara de chá de açúcar (180 gramas)
 - 1 pitada de sal (ou a gosto)
-- 1/2 xícara de chá de água (100 ml)
+- ½ xícara de chá de água (100 ml)
 - --
 
 ---

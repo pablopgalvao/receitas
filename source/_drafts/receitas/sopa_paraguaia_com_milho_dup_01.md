@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sobremesa de sal
 - 160 gramas de queijo minas
 - 3 xícaras de chá de farinha de milho (250 gramas)
-- 3/4 de xícara de chá de leite (200 ml)
+- ¾ de xícara de chá de leite (200 ml)
 - 2 ovos grandes
 - 1 colher de sopa de fermento químico em pó
 - Queijo mussarela ralado a gosto

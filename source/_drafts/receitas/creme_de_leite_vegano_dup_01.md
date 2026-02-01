@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de castanha-de-caju sem sal
-- 3/4 de xícara de chá de água
+- ¾ de xícara de chá de água
 - Em um liquidificador, coloque as castanhas e a água. Bata até obter um creme com textura homogênea. Se preciso, desligue o liquidificador mexa com uma colher e volte a bater;
 - Creme de leite vegano prontinho para você usar tanto em preparos doces quanto salgados.
 

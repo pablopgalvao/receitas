@@ -33,9 +33,9 @@ flags: []
 - 1 colher de sopa de azeite (ou óleo vegetal)
 - 1 colher de sopa de salsinha picada (ou a gosto)
 - 1 colher de sopa de cebolinha picada (ou a gosto)
-- 1/2 colher de sopa de hortelã picado (ou a gosto)
-- 1/2 colher de chá de páprica picante
-- 1/2 colher de chá de sal
+- ½ colher de sopa de hortelã picado (ou a gosto)
+- ½ colher de chá de páprica picante
+- ½ colher de chá de sal
 - --
 
 ---

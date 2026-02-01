@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 100 gramas de leite em pó desnatado
-- 2 e 1/2 colheres de sopa de café solúvel
+- 2 e ½ colheres de sopa de café solúvel
 - 2 colheres de chá de cacau 100%
 - 1 colher de café de canela em pó
 - 1 colher de chá de bicarbonato de sódio

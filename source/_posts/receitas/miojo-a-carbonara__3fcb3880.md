@@ -33,7 +33,7 @@ flags: []
 - 30 gramas de bacon
 - 30 gramas de queijo parmesão
 - 1 colher de café de pimenta-do-reino (ou a gosto)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - --
 
 ---

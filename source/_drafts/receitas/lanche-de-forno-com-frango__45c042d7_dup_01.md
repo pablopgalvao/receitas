@@ -48,7 +48,7 @@ flags: []
 - 1 pacote de pão de forma Kim sem cascas (450 gramas)
 - 300 gramas de queijo mussarela fatiado
 - 8 rodelas de tomate para decorar
-- 1/2 colher de chá de orégano a gosto para decorar
+- ½ colher de chá de orégano a gosto para decorar
 - --
 
 ---

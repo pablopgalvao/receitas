@@ -35,8 +35,8 @@ flags: []
 - 2 pacotes de bolacha champagne (360 gramas)
 - 40 ml de leite
 - 500 gramas de morango para recheio e cobertura
-- 1/2 xícara de chá de açúcar (100 gramas)
-- 1/4 de limão espremido ou 1 colher de chá de vinagre de álcool
+- ½ xícara de chá de açúcar (100 gramas)
+- ¼ de limão espremido ou 1 colher de chá de vinagre de álcool
 - 250 gramas de morangos picados para a decoração
 - --
 

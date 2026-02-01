@@ -35,7 +35,7 @@ flags: []
 - 140 gramas de macarrão Ave Maria (macarrão para sopa)
 - 2 colheres de sopa de azeite
 - 1 cebola média picada
-- 1/2 pimentão médio picado
+- ½ pimentão médio picado
 - 4 dentes de alho picado
 - 2 litros de água ou caldo de legumes
 - 1 cenoura grande picada

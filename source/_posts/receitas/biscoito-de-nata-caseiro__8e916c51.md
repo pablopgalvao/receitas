@@ -30,9 +30,9 @@ flags: []
 
 - 300 gramas de nata
 - 1 xícara de chá de açúcar (215 gramas)
-- 1/2 colher de chá de extrato de baunilha
+- ½ colher de chá de extrato de baunilha
 - 2 colheres de sopa de manteiga (45 gramas)
-- 2 e 1/2 xícara de chá de farinha de trigo (355 gramas)
+- 2 e ½ xícara de chá de farinha de trigo (355 gramas)
 - 2 xícaras de chá de amido de milho (200 gramas)
 - --
 

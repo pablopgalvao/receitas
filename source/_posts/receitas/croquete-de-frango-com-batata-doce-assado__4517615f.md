@@ -33,7 +33,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de azeite
-- 1/2 cebola bem picadinha
+- ½ cebola bem picadinha
 - 2 dentes de alho picado
 - 100 gramas de frango cozido e desfiado
 - Sal a gosto

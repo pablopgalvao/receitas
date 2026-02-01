@@ -33,8 +33,8 @@ flags: []
 - 1 kg de sobrecoxa de frango sem osso, com pele
 - 1 colher de chá de sal
 - 1 colher de chá de páprica defumada
-- 1/2 colher de chá de pimenta-calabresa
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-calabresa
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de vinagre balsâmico
 - 2 colheres de sopa de azeite de oliva
 - 1 ramo pequeno de alecrim

@@ -32,8 +32,8 @@ flags: []
 
 - 2 ovos
 - 2 maçãs lavadas em água corrente (320 gramas)
-- 1/2 xícara de chá de óleo (125 ml)
-- 1/2 xícara de chá de leite (125 ml)
+- ½ xícara de chá de óleo (125 ml)
+- ½ xícara de chá de leite (125 ml)
 - 1 xícara de chá de açúcar (140 gramas)
 - 1 pitada de sal
 - 2 xícaras de chá de farinha de trigo (280 gramas)

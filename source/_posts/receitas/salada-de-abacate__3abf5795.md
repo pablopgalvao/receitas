@@ -35,10 +35,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate
+- ½ abacate
 - Uvas-passas a gosto
 - 1 tomate-cereja
-- 1/4 de cebola roxa
+- ¼ de cebola roxa
 - Coentro a gosto
 - 1 picles de pepino
 - Azeitonas a gosto

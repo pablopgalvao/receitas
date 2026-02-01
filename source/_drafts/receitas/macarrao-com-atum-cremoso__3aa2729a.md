@@ -32,10 +32,10 @@ flags: []
 - 1 cebola pequena
 - 2 colheres de sopa de azeite
 - 2 dentes de alho
-- 1/2 sachê de molho de tomate (150 gramas)
+- ½ sachê de molho de tomate (150 gramas)
 - 1 lata de atum ralado ou em pedaços
 - 1 caixinha de creme de leite (200 gramas)
-- 1/2 pacote de macarrão penne ou parafuso
+- ½ pacote de macarrão penne ou parafuso
 - Cheiro-verde a gosto
 - --
 

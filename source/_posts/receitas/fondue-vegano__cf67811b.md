@@ -31,12 +31,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de semente de girassol
-- 1/2 xícara de chá de água
+- ¼ xícara de chá de semente de girassol
+- ½ xícara de chá de água
 - 4 colheres de sopa de óleo
 - 1 xícara de chá de mandioquinha-salsa cozida
-- 1 e 1/2 xícara de chá de água quente
-- 1/2 dente de alho picado
+- 1 e ½ xícara de chá de água quente
+- ½ dente de alho picado
 - 1 colher de sopa (rasa) de levedura nutricional
 - 1 colher de sopa de polvilho azedo
 - 1 pitada de cebola em pó

@@ -33,9 +33,9 @@ flags: []
 - 3 ovos médios
 - 1 pitadinha de sal
 - 1 xícara de chá de açúcar (180 gramas)
-- 1 e 1/2 xícara de chá de farinha de trigo sem fermento (190 gramas)
+- 1 e ½ xícara de chá de farinha de trigo sem fermento (190 gramas)
 - 1 colher de sopa de manteiga (30 gramas)
-- 1/2 xícara de chá de leite (125 ml)
+- ½ xícara de chá de leite (125 ml)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 2 maçãs médias
 - 1 colher de sopa de açúcar (para decorar)

@@ -28,12 +28,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 4 e 1/2 xícaras de chá de farinha de trigo (630 gramas)
-- 3/4 xícaras de chá + 2 colheres de chá de leite (190 ml)
-- 3/4 xícara de chá de açúcar (150 gramas)
+- 4 e ½ xícaras de chá de farinha de trigo (630 gramas)
+- ¾ xícaras de chá + 2 colheres de chá de leite (190 ml)
+- ¾ xícara de chá de açúcar (150 gramas)
 - 1 ovo
 - 2 gemas
-- 1/3 de xícara de chá de margarina ou manteiga (60 gramas)
+- ⅓ de xícara de chá de margarina ou manteiga (60 gramas)
 - 2 colheres de chá de sal (10 gramas)
 - --
 

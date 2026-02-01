@@ -35,15 +35,15 @@ flags: []
 - 1 ovo médio
 - 4 colheres de sopa de água gelada (60 ml)
 - 1 fio de azeite ou óleo
-- 1/2 xícara de azeitonas verdes (opcional)
-- 1/2 xícara de milho-verde (em conserva ou cozido)
+- ½ xícara de azeitonas verdes (opcional)
+- ½ xícara de milho-verde (em conserva ou cozido)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 colher de chá de páprica doce ou defumada
 - 500 gramas de peito de frango cozido e desfiado
 - 1 sachê de molho de tomate (340 gramas)
 - 3 colheres de sopa de requeijão cremoso
-- 200 gramas de requeijão em bisnaga (1/2 bisnaga)
+- 200 gramas de requeijão em bisnaga (½ bisnaga)
 - 100 gramas de mussarela picada, ralada ou fatiada
 - Em outra panela, aqueça um fio de óleo ou azeite e refogue o alho e a cebola até dourarem levemente;
 - Adicione os tomates, azeitona e milho. Refogue por mais alguns minutos até murchar. Tempere com sal, pimenta-do-reino e páprica. Misture bem e deixe cozinhar mais um pouco;

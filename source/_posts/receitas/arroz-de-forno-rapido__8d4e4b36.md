@@ -31,11 +31,11 @@ flags: []
 
 - 280 gramas de presunto
 - 230 gramas de queijo mussarela
-- 1/4 de xícara de chá de folhas de manjericão
+- ¼ de xícara de chá de folhas de manjericão
 - 2 colheres de sopa de azeite
 - 3 xícaras de chá de arroz cozido e frio
 - Pimenta-do-reino a gosto
-- 1/3 de xícara de chá de queijo parmesão ralado
+- ⅓ de xícara de chá de queijo parmesão ralado
 - --
 
 ---

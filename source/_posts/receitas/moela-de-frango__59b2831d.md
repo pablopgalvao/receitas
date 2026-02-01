@@ -35,13 +35,13 @@ flags: []
 - 2 dentes de alho
 - 50 gramas de pimentão vermelho
 - 2 colheres de sopa de extrato de tomate
-- 1/2 colher de chá de páprica
-- 1/4 colher de chá de lemon pepper
-- 1/4 de colher de chá de cominho
-- 1/2 colher de chá de manjericão desidratado
-- 1/4 de colher de chá de pimenta-do-reino
+- ½ colher de chá de páprica
+- ¼ colher de chá de lemon pepper
+- ¼ de colher de chá de cominho
+- ½ colher de chá de manjericão desidratado
+- ¼ de colher de chá de pimenta-do-reino
 - 500 ml de água (para cobrir a moela e cozinhar)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - Cheiro-verde a gosto
 - Azeite a gosto
 - 700 ml de água quente (para limpar a moela)

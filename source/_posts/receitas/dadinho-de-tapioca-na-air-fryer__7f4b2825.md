@@ -31,7 +31,7 @@ flags: []
 - 1 xícara de chá de tapioca granulada (150 gramas)
 - 150 gramas de queijo coalho ralado
 - 1 colher de chá de sal
-- 1 e 1/4 de xícara de chá de leite integral (300 ml)
+- 1 e ¼ de xícara de chá de leite integral (300 ml)
 - --
 
 ---

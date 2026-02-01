@@ -35,12 +35,12 @@ flags: []
 - 2 colheres de sopa de manteiga
 - 1 cebola picada
 - 1 xícara de chá de arroz carnaroli (ou arbóreo)
-- 1/2 xícara de chá de vinho branco
+- ½ xícara de chá de vinho branco
 - 1 xícara de chá de carne seca dessalgada e desfiada
 - Cerca de 1,5 litros de caldo de legumes
-- 1/2 colher de chá de açafrão
+- ½ colher de chá de açafrão
 - Sal e pimenta-do-reino a gosto
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de queijo parmesão ralado
 - 1 colher de sopa de salsinha picada
 - --
 

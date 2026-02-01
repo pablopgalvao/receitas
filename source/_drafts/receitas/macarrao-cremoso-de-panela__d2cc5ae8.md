@@ -37,8 +37,8 @@ flags: []
 - 2 xícaras de macarrão parafuso ou outro tipo curto (250 gramas)
 - Água quente até cobrir o macarrão (900 ml)
 - 1 sachê de molho de tomate (340 gramas)
-- 2 + 1/2 colher de café de sal ou a gosto
-- 1/2 colher de café de pimenta-do-reino ou a gosto
+- 2 + ½ colher de café de sal ou a gosto
+- ½ colher de café de pimenta-do-reino ou a gosto
 - 1 colher de sopa de cheiro-verde
 - 1 caixinha de creme de leite (200 gramas)
 - 1 copo de requeijão cremoso (200 gramas)

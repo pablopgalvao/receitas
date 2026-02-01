@@ -33,7 +33,7 @@ flags: []
 - 2 batatas (por pessoa)
 - 2 ramos de alecrim
 - 1 colher de chá de sal ou a gosto
-- 1/4 de colher de chá de pimenta-do-reino ou a gosto
+- ¼ de colher de chá de pimenta-do-reino ou a gosto
 - 1 colher de chá de azeite (10 ml)
 - 1 colher de café de lemon pepper
 - --

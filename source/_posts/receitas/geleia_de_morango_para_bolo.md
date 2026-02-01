@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas de morangos
-- 1/2 xícara de chá de açúcar cristal (100 gramas)
-- 1/2 colher de sopa de manteiga (com ou sem sal)
+- ½ xícara de chá de açúcar cristal (100 gramas)
+- ½ colher de sopa de manteiga (com ou sem sal)
 - Coloque os morangos picados em uma panela e adicione o açúcar. Misture bem ainda com o fogo desligado;
 - Deixe cozinhar em fogo médio-baixo, mexendo de vez em quando, por cerca de 8 minutos. Quando começar a levantar fervura, retire a espuma que acumular com auxílio de uma colher, isso ajuda a geleia a ficar com a cor mais intensa;
 - Adicione a manteiga e misture bem, ela deixará a geleia mais brilhosa e aveludada;

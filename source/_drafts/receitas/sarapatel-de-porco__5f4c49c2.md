@@ -41,7 +41,7 @@ flags: []
 - 2 colheres de sopa de vinagre de maçã
 - 1 cebola
 - 2 dentes de alho
-- 1/2 pimentão verde
+- ½ pimentão verde
 - 1 tomate
 - 2 colheres de sopa de molho de tomate
 - Água para cozinhar até cobrir

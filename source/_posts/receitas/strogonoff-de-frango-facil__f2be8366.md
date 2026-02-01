@@ -34,10 +34,10 @@ flags: []
 - 1 tomate médio
 - 3 colheres de sopa de ketchup
 - 1 colher de sopa de mostarda
-- 1/2 colher de café de orégano
-- 1/2 colher de chá de páprica doce
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/8 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de café de orégano
+- ½ colher de chá de páprica doce
+- ½ colher de chá de sal (ou a gosto)
+- ⅛ de colher de chá de pimenta-do-reino (ou a gosto)
 - 2 caixinhas de creme de leite (400 gramas)
 - 1 colher de sopa de azeite de oliva (ou a gosto)
 - --

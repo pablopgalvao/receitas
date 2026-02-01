@@ -38,7 +38,7 @@ flags: []
 - 1 cebola
 - 2 dentes de alho
 - 1 xícara de chá de risoni
-- 1/2 xícara de chá de vinho branco suave
+- ½ xícara de chá de vinho branco suave
 - 1 litro de água
 - 2 cubos de tempero (caldo de carne e outro de legumes)
 - 80 gramas de queijo gorgonzola

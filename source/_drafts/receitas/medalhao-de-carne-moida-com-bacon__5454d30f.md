@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 g de carne moída
-- 1/2 tomate sem semente picado
+- ½ tomate sem semente picado
 - 1 colher de sopa de cebola ralada
 - 1 colher de chá de alho triturado
 - 2 colheres de chá de salsinha picada

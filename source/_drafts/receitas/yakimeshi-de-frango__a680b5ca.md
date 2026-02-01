@@ -34,7 +34,7 @@ flags: []
 - 3 xícaras de chá de arroz cozido
 - 225 gramas de filé de peito de frango
 - 25 gramas de presunto
-- 1 e 1/2 cenoura média
+- 1 e ½ cenoura média
 - 1 e ½ cebola média
 - 3 dentes de alho
 - 4 a 5 ovos inteiros

@@ -33,7 +33,7 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 1 vidro de leite de coco (200 ml)
 - 2 envelopes de gelatina sem sabor (12 gramas cada)
-- 100 ml de água (1/2 xícara de chá de 200 ml)
+- 100 ml de água (½ xícara de chá de 200 ml)
 - 2 envelopes de gelatina sabor morango (25 gramas cada)
 - 250 ml de água quente
 - 250 ml de água fria

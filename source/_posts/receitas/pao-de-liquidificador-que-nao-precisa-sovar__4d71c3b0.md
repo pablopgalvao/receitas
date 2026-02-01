@@ -33,8 +33,8 @@ flags: []
 - 3 colheres de sopa de óleo
 - 3 colheres de sopa de açúcar
 - 1 pacote de fermento biológico seco (10 gramas)
-- 3 e 1/2 xícaras de chá de farinha de trigo sem fermento (425 gramas)
-- 1/2 colher de chá de sal
+- 3 e ½ xícaras de chá de farinha de trigo sem fermento (425 gramas)
+- ½ colher de chá de sal
 - 1 gema de ovo peneirada
 - --
 

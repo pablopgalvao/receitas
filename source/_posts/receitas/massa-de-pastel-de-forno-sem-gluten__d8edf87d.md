@@ -30,7 +30,7 @@ flags: []
 
 - 2 xícaras de chá de farinha multiuso (farinha sem glúten)
 - 200 gramas de creme de leite
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - --
 
 ---

@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de maionese
-- 1/2 xícara de chá de creme de leite
-- 1/2 copo de requeijão cremoso (200 gramas)
+- ½ xícara de chá de creme de leite
+- ½ copo de requeijão cremoso (200 gramas)
 - --
 
 ---

@@ -31,7 +31,7 @@ flags: []
 
 - 2 xícaras de chá de arroz cru (400 gramas)
 - 1 pitada de sal
-- 2 e 1/2 xícaras de chá de açúcar (300 gramas)
+- 2 e ½ xícaras de chá de açúcar (300 gramas)
 - 1 colher de sopa de manteiga (15 gramas)
 - 1 caixinha de creme de leite (200 gramas)
 - 1 xícara de leite em pó (100 gramas)

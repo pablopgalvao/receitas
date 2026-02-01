@@ -31,7 +31,7 @@ flags: []
 
 - 100 gramas de queijo gorgonzola
 - Azeite a gosto
-- 1/2 colher de sopa de mostarda Dijon
+- ½ colher de sopa de mostarda Dijon
 - 1 colher de sopa de mel
 - 1 colher de sopa de creme de leite
 - 50 gramas de bacon em cubinhos pequenos

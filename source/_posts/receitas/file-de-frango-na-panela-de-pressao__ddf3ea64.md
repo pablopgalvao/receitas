@@ -39,9 +39,9 @@ flags: []
 - 1 pitada de pimenta calabresa em flocos
 - 1 cebola média picada
 - 1 colher de chá de colorau
-- 1/2 colher sopa de banha ou qualquer óleo da sua preferência
+- ½ colher sopa de banha ou qualquer óleo da sua preferência
 - 1 dedinho de água
-- Caldo de 1/2 limão
+- Caldo de ½ limão
 - Sal a gosto
 - Cebolinha para finalizar
 - --

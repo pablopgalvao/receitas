@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote ou 250 gramas de macarrão espaguete
+- ½ pacote ou 250 gramas de macarrão espaguete
 - 2 dentes de alho amassados com sal
 - Azeite a gosto
 - 1 colher de sopa de manteiga

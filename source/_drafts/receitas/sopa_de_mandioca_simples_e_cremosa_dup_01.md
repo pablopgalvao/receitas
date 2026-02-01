@@ -32,7 +32,7 @@ flags: []
 - 3 colheres de sopa de óleo
 - 500 gramas de carne moída
 - Colorau a gosto
-- 1/2 colher de sopa (rasa) de sal
+- ½ colher de sopa (rasa) de sal
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de extrato de tomate
 - 1 kg de mandioca

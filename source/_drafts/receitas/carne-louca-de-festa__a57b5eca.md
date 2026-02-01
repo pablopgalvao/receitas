@@ -41,7 +41,7 @@ flags: []
 - 1 pimentão amarelo
 - 2 tomates
 - 1 xícara de chá de molho de tomate (240 ml)
-- 1/2 maço de salsinha ou coentro
+- ½ maço de salsinha ou coentro
 - Pão francês para servir
 - --
 

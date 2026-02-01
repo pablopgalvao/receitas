@@ -31,10 +31,10 @@ flags: []
 
 - 6 batatas médias com casca (800 gramas)
 - 100 gramas de queijo tipo emmental (pode ser gouda, minas meia‑cura, canastra, parmesão ou outro)
-- 3/4 de tablete de manteiga (150 gramas)
+- ¾ de tablete de manteiga (150 gramas)
 - 1 colher de sopa de azeite (15 ml)
 - 1 colher de sal
-- 1/2 colher de chá de pimenta-do-reino branca
+- ½ colher de chá de pimenta-do-reino branca
 - Em uma frigideira, aqueça 20 gramas de manteiga com um fio de azeite. Adicione as lâminas de cebola, tempere com uma pitada de sal e refogue por 8 minutos até dourar. Reserve;
 - Enquanto a cebola refoga, tempere as batatas raladas com sal, pimenta‑do‑reino branca e cerca de 50 gramas de manteiga em cubinhos. Misture bem;
 - No refratário untado, distribua cubos de manteiga, faça uma camada com metade das batatas raladas;

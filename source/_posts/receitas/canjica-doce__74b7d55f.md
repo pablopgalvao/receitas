@@ -31,9 +31,9 @@ flags: []
 - 1 litro de leite integral
 - 500 gramas de milho de canjica
 - 1 caixa de leite condensado (395 gramas)
-- 1/2 xícara de chá de coco ralado (pode colocar mais se gostar) (50 gramas)
+- ½ xícara de chá de coco ralado (pode colocar mais se gostar) (50 gramas)
 - 1 xícara de chá de amendoim torrado (pode colocar mais se gostar) (170 gramas)
-- 3/4 de xícara de chá de açúcar (150 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
 - 1 vidro de leite de coco (200 ml)
 - 1 canela em pau (ou em pó a gosto)
 - 8 unidades de cravo-da-índia (ou a gosto)

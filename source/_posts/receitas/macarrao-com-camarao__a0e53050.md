@@ -36,8 +36,8 @@ flags: []
 - 1 colher de sopa de azeite
 - 500 gramas de camarões
 - Sal e pimenta-do-reino a gosto
-- Suco de 1/2 limão
-- 1/2 cebola picada
+- Suco de ½ limão
+- ½ cebola picada
 - 2 dentes de alho picados
 - 340 gramas de molho de tomate
 - 1 xícara de chá de ervilha (opcional)

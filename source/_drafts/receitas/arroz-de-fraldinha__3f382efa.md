@@ -36,7 +36,7 @@ flags: []
 - 1 colher de sopa de molho inglês
 - 4 cebolas cortadas em 4 partes
 - 150 ml de cerveja preta
-- 1 e 1/2 xícara de chá de molho de tomate
+- 1 e ½ xícara de chá de molho de tomate
 - 2 xícaras de chá de arroz branco
 - Água quente (o suficiente para cobrir)
 - Sal, pimenta e cebolinha a gosto

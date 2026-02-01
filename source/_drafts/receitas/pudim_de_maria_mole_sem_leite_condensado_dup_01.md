@@ -31,10 +31,10 @@ flags: []
 
 - 1 xícara de chá de açúcar refinado (180 gramas)
 - 3 colheres de sopa de água fervente (45 ml)
-- 1/4 xícara de chá de água para dissolver a calda (50 ml)
-- 1/2 xícara de chá de claras (120 gramas)
+- ¼ xícara de chá de água para dissolver a calda (50 ml)
+- ½ xícara de chá de claras (120 gramas)
 - 2 xícaras de chá de açúcar refinado (360 gramas)
-- 1/2 xícara de chá de água fria (120 ml)
+- ½ xícara de chá de água fria (120 ml)
 - 2 envelopes de gelatina incolor e sem sabor (24 gramas)
 - 2 caixas de creme de leite (400 gramas)
 - Vamos começar pela calda! Na forma, adicione o açúcar refinado e leve ao fogo médio para derreter. Abaixe o fogo e continue mexendo até derreter completamente;

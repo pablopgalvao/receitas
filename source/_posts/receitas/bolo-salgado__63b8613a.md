@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite (240 ml)
 - 1 colher de chá de sal (5 gramas)
-- 1/3 de xícara de chá de amido de milho (40 gramas)
+- ⅓ de xícara de chá de amido de milho (40 gramas)
 - 2 xícaras de chá de farinha de trigo (240 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 tomate médio

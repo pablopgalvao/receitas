@@ -32,7 +32,7 @@ flags: []
 - 2 litros de água
 - 4 colheres de sopa de bicarbonato de sódio
 - 500 gramas de açúcar refinado
-- 1/2 limão
+- ½ limão
 - 10 cravos-da-índia
 - 2 canelas em pau
 - --

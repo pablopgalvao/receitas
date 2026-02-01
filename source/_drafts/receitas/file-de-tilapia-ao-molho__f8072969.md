@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 tilápias limpas
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
+- ½ pimentão verde
+- ½ pimentão vermelho
+- ½ pimentão amarelo
 - 2 tomates
 - Cheiro-verde a gosto
-- 3 e 1/2 colheres de café rasas de sal (ou a gosto)
+- 3 e ½ colheres de café rasas de sal (ou a gosto)
 - 1 colher de café rasa de pimenta-do-reino (ou a gosto)
 - 1 colher de café de páprica picante (ou a gosto)
 - 1 colher de café de cúrcuma (ou a gosto)

@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/3 de xícara de chá de água (150 ml)
-- 1 e 2/3 xícara de chá de açúcar (350 gramas)
+- ⅔ de xícara de chá de água (150 ml)
+- 1 e ⅔ xícara de chá de açúcar (350 gramas)
 - 6 colheres de sopa de café solúvel
 - 2 dashes de extrato de baunilha (cada dash ou gotejada tem cerca de 1 ml)
-- 1 e 3/4 xícara de chá de vodka (450 ml)
+- 1 e ¾ xícara de chá de vodka (450 ml)
 - --
 
 ---

@@ -32,12 +32,12 @@ flags: []
 - 2 xícaras de chá de Farinha de Trigo Globo Original (cerca de 280 gramas)
 - 1 colher de sopa de fermento químico em pó
 - 1 xícara de chá de amendoim torrado e triturado
-- 1/2 xícara de chá de óleo de milho (120 ml)
+- ½ xícara de chá de óleo de milho (120 ml)
 - 1 xícara de chá de açúcar (cerca de 200 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 3 ovos (claras e gemas separadas)
 - 1 xícara de chá de doce de leite cremoso
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - Amendoim triturado a gosto
 - --
 

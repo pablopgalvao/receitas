@@ -31,7 +31,7 @@ flags: []
 
 - 2 ovos
 - 30 ml de água
-- 1 e 1/2 xícara de farinha de rosca
+- 1 e ½ xícara de farinha de rosca
 - Óleo para fritar
 - --
 

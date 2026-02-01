@@ -36,7 +36,7 @@ flags: []
 - 2 latas de molho de tomate pronto
 - 2 tomates picados
 - 5 azeitonas verdes picadas
-- 1/2 cenoura ralada
+- ½ cenoura ralada
 - 500 gramas de macarrão papardelle (ou outra massa longa de grano duro)
 - --
 

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (200 gramas)
-- 3/4 de xícara de chá de água (60 ml)
+- ¾ de xícara de chá de água (60 ml)
 - 1 pitada de sal (opcional)
 - O dente de alho cozinhará na própria mistura da geleia. Quando ele estiver macio, aperte até que ele se despedace e incorpore bem. Desligue o fogo, prove e adicione uma pitada de sal, se achar necessário;
 

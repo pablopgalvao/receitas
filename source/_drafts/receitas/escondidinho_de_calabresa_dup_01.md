@@ -35,15 +35,15 @@ flags: []
 - Alho em pó a gosto
 - Lemon pepper a gosto
 - 1 colher de sopa de manteiga (20 gramas)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - Queijo mussarela fatiado (100 gramas)
 - Queijo parmesão ralado a gosto
 - Azeite a gosto
 - Salsinha a gosto
 - Queijo mussarela fatiado a gosto
 - 2 colheres de sopa de manteiga (40 gramas)
-- 1 e 1/2 colher de sopa de farinha de trigo (22 gramas)
-- 1 e 1/2 xícara de chá de leite integral (400 ml)
+- 1 e ½ colher de sopa de farinha de trigo (22 gramas)
+- 1 e ½ xícara de chá de leite integral (400 ml)
 - Pimenta-do-reino a gosto
 - Noz-moscada a gosto
 - Com a água fervendo na panela, coloque um pouco de sal e adicione as batatas para cozinhar;

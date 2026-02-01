@@ -33,7 +33,7 @@ flags: []
 - 3 ovos
 - 250 g de ameixa cozida picada (a ameixa da calda)
 - 3 colheres de sopa de calda da ameixa
-- 1/2 xícara de chá de leite
+- ½ xícara de chá de leite
 - 2 xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento químico
 - --

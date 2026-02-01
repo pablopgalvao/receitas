@@ -35,7 +35,7 @@ flags: []
 - Páprica defumada a gosto
 - Orégano a gosto
 - 300 gramas de molho de tomate
-- 1/2 xícara de chá de água fervente
+- ½ xícara de chá de água fervente
 - 1 colher chá de açúcar
 - 2 colheres de sopa de azeitonas picadas
 - Cheiro-verde a gosto

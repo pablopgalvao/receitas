@@ -37,7 +37,7 @@ flags: []
 - 1 colher de sopa de molho inglês
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de ketchup
-- 1/2 xícara de chá de champignon em fatias
+- ½ xícara de chá de champignon em fatias
 - 1 lata de creme de leite sem soro (300 gramas)
 - Batata palha a gosto
 - Leve uma panela ao fogo baixo com azeite e manteiga. Refogue a cebola por 2 minutos, ou até murchar e dourar. A dica é picar bem fininho para a cebola quase desmanchar no molho. Se quiser, pode acrescentar um dente de alho triturado;

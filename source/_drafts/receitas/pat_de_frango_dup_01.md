@@ -42,7 +42,7 @@ flags: []
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Se quiser, adicione 1/2 cebola ralada bem fininha ou picadinha. Se não gosta de azeitona, retire esse ingrediente. Pode acrescentar especiarias de sua preferência, como pimenta-do-reino, orégano, ervas finas, entre outras;
+1. Se quiser, adicione ½ cebola ralada bem fininha ou picadinha. Se não gosta de azeitona, retire esse ingrediente. Pode acrescentar especiarias de sua preferência, como pimenta-do-reino, orégano, ervas finas, entre outras;
 2. Em uma vasilha, coloque o frango desfiado;
 3. Adicione a maionese e, com uma espátula ou colher, misture até formar uma pastinha;
 4. Acrescente o requeijão e misture novamente para incorporar. Nesse ponto, o patê já está bem cremoso;

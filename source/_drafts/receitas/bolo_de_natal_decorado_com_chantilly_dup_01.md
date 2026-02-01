@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 xícara de chá de açúcar (190 gramas)
-- 1 e 1/4 de xícara de chá de farinha de trigo (150 gramas)
-- 2 e 1/2 colheres de sopa de manteiga (50 gramas)
+- ¾ xícara de chá de açúcar (190 gramas)
+- 1 e ¼ de xícara de chá de farinha de trigo (150 gramas)
+- 2 e ½ colheres de sopa de manteiga (50 gramas)
 - 1 colher de café de sal
 - 1 colher de chá de essência de baunilha (2 ml)
-- Calda de açúcar (1/2 xícara de chá de água + 1/2 xícara de chá de açúcar)
+- Calda de açúcar (½ xícara de chá de água + ½ xícara de chá de açúcar)
 - 2 xícaras de chá de chantilly
 - Reúna todos os ingredientes em sua bancada e forre o fundo e as laterais de uma forma de 20 cm com papel manteiga;
 - Na batedeira, bata os ovos com o açúcar até obter uma mistura clara e bem aerada, cerca de 3 minutos;

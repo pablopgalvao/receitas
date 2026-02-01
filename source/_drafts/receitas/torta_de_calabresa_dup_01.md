@@ -31,10 +31,10 @@ flags: []
 
 - 300 gramas de linguiça calabresa defumada picada
 - 200 gramas de milho-verde
-- 1/3 xícara de chá de óleo
-- 3/4 xícara de chá de leite
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de chá de sal
+- ⅓ xícara de chá de óleo
+- ¾ xícara de chá de leite
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ colher de chá de sal
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 2 colheres de sopa de parmesão
 - Orégano a gosto
@@ -42,7 +42,7 @@ flags: []
 - Desligue o fogo e coloque a salsinha picada. Reserve;
 - Para a massa, em um liquidificador, coloque os ovos, o leite, o óleo, o creme de leite e um pouquinho de sal. Bata até misturar bem (cerca de 2 minutos);
 - Com o liquidificador batendo, acrescente a farinha de trigo e o fermento. Deixe bater até tudo incorporar;
-- Para a montagem, coloque 2/3 da massa em uma forma untada e enfarinhada;
+- Para a montagem, coloque ⅔ da massa em uma forma untada e enfarinhada;
 
 ---
 
@@ -55,7 +55,7 @@ flags: []
 5. Desligue o fogo e coloque a salsinha picada. Reserve;
 6. Para a massa, em um liquidificador, coloque os ovos, o leite, o óleo, o creme de leite e um pouquinho de sal. Bata até misturar bem (cerca de 2 minutos);
 7. Com o liquidificador batendo, acrescente a farinha de trigo e o fermento. Deixe bater até tudo incorporar;
-8. Para a montagem, coloque 2/3 da massa em uma forma untada e enfarinhada;
+8. Para a montagem, coloque ⅔ da massa em uma forma untada e enfarinhada;
 9. Por cima da massa, distribua uniformemente todo o recheio;
 10. Despeje o restante da massa por cima do recheio e finalize com queijo parmesão ralado e orégano;
 11. Leve ao forno preaquecido a 200º C por cerca de 40 minutos ou até dourar;

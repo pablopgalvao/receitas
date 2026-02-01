@@ -36,7 +36,7 @@ flags: []
 - 1 colher de chá de óleo de coco sem sabor
 - 4 colher de sopa de farinha de aveia (55 gramas)
 - Canela em pó a gosto
-- 1/2 colher de sopa de fermento
+- ½ colher de sopa de fermento
 - Aveia em flocos a gosto
 - --
 

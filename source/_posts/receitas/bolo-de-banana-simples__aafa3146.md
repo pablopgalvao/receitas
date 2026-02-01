@@ -30,13 +30,13 @@ flags: []
 
 - 3 ovos médios (165 gramas)
 - 3 bananas maduras
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de sopa de manteiga (20 gramas)
 - 1 colher de chá de canela em pó
-- 1 e 1/2 de xícara de chá de açúcar (300 gramas)
+- 1 e ½ de xícara de chá de açúcar (300 gramas)
 - 2 xícaras de chá de farinha de trigo (320 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (15 gramas)
-- 1/8 de colher de chá de sal (1 pitada)
+- ⅛ de colher de chá de sal (1 pitada)
 - --
 
 ---

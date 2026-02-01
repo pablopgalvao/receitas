@@ -30,10 +30,10 @@ flags: []
 
 - 2 batatas-asterix grandes ou 4 médias (620 gramas)
 - 2 colheres de sopa de azeite de oliva (30 ml)
-- 1/2 colher de chá de páprica defumada
-- 1/4 de colher de chá de páprica picante
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de lemmon pepper
+- ½ colher de chá de páprica defumada
+- ¼ de colher de chá de páprica picante
+- ½ colher de chá de sal
+- ½ colher de chá de lemmon pepper
 - --
 
 ---

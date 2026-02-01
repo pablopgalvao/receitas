@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de manteiga
-- 1/2 colher de sopa de farinha de trigo
-- 1/2 colher de sopa de extrato de tomate
-- 1/4 de xícara de chá de vinho tinto
-- 1/2 xícara de chá de água fervente
+- ½ colher de sopa de manteiga
+- ½ colher de sopa de farinha de trigo
+- ½ colher de sopa de extrato de tomate
+- ¼ de xícara de chá de vinho tinto
+- ½ xícara de chá de água fervente
 - Sal e pimenta-do-reino a gosto
 - --
 

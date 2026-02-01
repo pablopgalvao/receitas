@@ -33,7 +33,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 de xícara de chá de trigo para kibe (250 gramas)
+- 1 e ¼ de xícara de chá de trigo para kibe (250 gramas)
 - 2 xícaras de chá de água fervente (500 ml)
 - 500 gramas de carne moída
 - 3 dentes de alho

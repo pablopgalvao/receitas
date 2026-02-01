@@ -28,14 +28,14 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/4 de xícara de chá de flocão de milho (80 gramas)
+- ½ de xícara de chá de flocão de milho (80 gramas)
 - 4 colheres de sopa de água (60 ml)
 - 1 pitada de sal
-- 1/2 cebola
+- ½ cebola
 - 1 cenoura
 - 1 fio de azeite
-- 1/4 de colher de chá de pimenta-do-reino
-- 1/4 de colher de chá de curry
+- ¼ de colher de chá de pimenta-do-reino
+- ¼ de colher de chá de curry
 - 1 colher de sopa de salsinha (ou a gosto)
 - --
 

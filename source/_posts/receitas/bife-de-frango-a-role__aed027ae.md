@@ -31,7 +31,7 @@ flags: []
 - 1,5 kg de filé de peito de frango
 - 2 xícaras de chá de molho de tomate
 - 2 cenouras cozidas e cortada em palitos
-- 1/2 pimentão cortado em palitos
+- ½ pimentão cortado em palitos
 - 2 ovos cozidos cortados em palitos
 - --
 

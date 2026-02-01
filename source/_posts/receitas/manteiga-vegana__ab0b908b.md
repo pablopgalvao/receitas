@@ -31,10 +31,10 @@ flags: []
 
 - 1 xícara de chá de óleo de coco (240 ml)
 - 2 colheres de chá de vinagre de maçã
-- 1/4 xícara de chá de azeite (ou óleo vegetal) (60 ml)
-- 1/2 xícara de chá de leite vegetal neutro (120 ml)
-- 1/4 colher de café de cúrcuma em pó (ou a gosto)
-- 1/2 colher de café de sal (ou a gosto)
+- ¼ xícara de chá de azeite (ou óleo vegetal) (60 ml)
+- ½ xícara de chá de leite vegetal neutro (120 ml)
+- ¼ colher de café de cúrcuma em pó (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
 - Papel manteiga
 - --
 

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (185 gramas)
-- 1/4 xícara de chá de água (50 ml)
+- ¼ xícara de chá de água (50 ml)
 - 2 xícaras de chá de bananas (3 bananas médias)
 - --
 

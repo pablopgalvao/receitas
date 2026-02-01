@@ -30,7 +30,7 @@ flags: []
 
 - 350 ml de água morna
 - 1 envelope de fermento biológico seco
-- 1/4 de xícara de chá de açúcar
+- ¼ de xícara de chá de açúcar
 - 3 e ½ colheres de sopa de manteiga
 - 1 ovo (levemente batido)
 - 1 colher de chá de sal

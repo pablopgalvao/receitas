@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abóbora cabotiá (japonesa)
+- ½ abóbora cabotiá (japonesa)
 - Sal e pimenta-do-reino a gosto
 - 1 ramo de tomilho
 - 1 ramo de alecrim fresco

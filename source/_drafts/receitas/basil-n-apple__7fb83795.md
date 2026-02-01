@@ -32,7 +32,7 @@ flags: []
 - 1 sachê de chá de maçã
 - 100 ml de água fervente
 - 10 folhas de manjericão fresco
-- 1/4 de uma maçã com casca
+- ¼ de uma maçã com casca
 - 1 colher de sopa de açúcar mascavo
 - 10 ml de suco de limão-taiti
 - Gelo a gosto

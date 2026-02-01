@@ -34,9 +34,9 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 2 colheres de sopa de vinagre
 - 1 xícara de chá de açúcar (165 gramas)
-- 1/2 xícara de chá de água (120 ml)
-- 1/2 xícara de chá de açúcar (85 gramas)
-- 1/2 xícara de chá água (120 ml)
+- ½ xícara de chá de água (120 ml)
+- ½ xícara de chá de açúcar (85 gramas)
+- ½ xícara de chá água (120 ml)
 - Coloque o açúcar dentro da forma de pudim e leve ao fogo baixo. Deixe derreter (sem mexer) até atingir uma cor de caramelo;
 - No liquidificador, acrescente o leite condensado, o leite, o creme de leite, os ovos e a polpa do maracujá. Bata até ficar homogêneo;
 - Enquanto isso, para a calda, adicione em uma panela a polpa do maracujá, o açúcar e a água;

@@ -30,14 +30,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ou mais bifes de contrafilé ou alcatra (500 gramas)
-- 2/3 de xícara de chá de molho de tomate (160 ml)
+- ⅔ de xícara de chá de molho de tomate (160 ml)
 - 150 gramas de mussarela ralada (6 fatias)
-- 1/2 xícara de chá de farinha de trigo (70 gramas)
-- 1/2 xícara de chá de farinha de rosca (40 gramas)
+- ½ xícara de chá de farinha de trigo (70 gramas)
+- ½ xícara de chá de farinha de rosca (40 gramas)
 - 1 ovo médio
-- 2 e 1/2 xícaras de chá de óleo para fritar (600 ml)
-- 1/2 colher de chá de sal ou a gosto
-- 1/4 colher de chá de pimenta-do-reino ou a gosto
+- 2 e ½ xícaras de chá de óleo para fritar (600 ml)
+- ½ colher de chá de sal ou a gosto
+- ¼ colher de chá de pimenta-do-reino ou a gosto
 - 50 gramas de queijo parmesão ralado
 - Separe 3 pratos, um ao lado do outro. No primeiro, coloque o ovo e bata com um garfo ou fuê. No segundo, coloque a farinha de trigo. No último, coloque a farinha de rosca. Separe uma assadeira com papel-toalha também;
 - Em uma frigideira de borda alta, no fogo médio, coloque o óleo para aquecer. Enquanto isso, tempere os bifes com sal e pimenta-do-reino. É possível deixar os bifes temperados posar na geladeira para absorverem bem os temperos;

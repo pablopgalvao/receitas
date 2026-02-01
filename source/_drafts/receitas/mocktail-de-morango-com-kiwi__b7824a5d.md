@@ -32,7 +32,7 @@ flags: []
 
 - 1 sachê de chá de morango
 - 100 ml de água fervente
-- 1/2 kiwi maduro
+- ½ kiwi maduro
 - 1 colher de chá de mel
 - Gelo a gosto
 - 100 ml de água com gás ou água de coco gelada

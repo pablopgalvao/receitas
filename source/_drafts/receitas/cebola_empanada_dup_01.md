@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de farinha de trigo (60 gramas)
-- 1/2 xícara de chá de farinha de rosca (100 gramas)
+- ½ xícara de chá de farinha de trigo (60 gramas)
+- ½ xícara de chá de farinha de rosca (100 gramas)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 3 colheres de sopa de leite (40 ml)

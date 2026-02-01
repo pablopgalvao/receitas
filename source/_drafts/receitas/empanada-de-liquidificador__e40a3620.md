@@ -31,12 +31,12 @@ flags: []
 - 1 colher de sopa de azeite
 - 1 cebola pequena
 - 1 tomate grande
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
+- ½ pimentão verde
+- ½ pimentão vermelho
 - 2 colheres de cebolinha picada
 - 2 latas de atum ou sardinha (180 gramas)
-- 1/2 lata de milho (80 gramas)
-- 1/2 lata de ervilha (80 gramas)
+- ½ lata de milho (80 gramas)
+- ½ lata de ervilha (80 gramas)
 - 1 colher de sopa de extrato de tomate (25 gramas)
 - 1 colher de chá de tempero caipira
 - 1 colher de chá de orégano (opcional)

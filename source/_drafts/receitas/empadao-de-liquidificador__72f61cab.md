@@ -30,7 +30,7 @@ flags: []
 
 - 3 xícaras de chá de farinha de trigo (400 gramas)
 - 2 xícaras de chá de leite (480 ml)
-- 1/2 xícaras de chá de manteiga ou margarina derretida (60 gramas)
+- ½ xícaras de chá de manteiga ou margarina derretida (60 gramas)
 - 3 ovos inteiros
 - 2 colheres de sopa de queijo parmesão ralado (40 gramas)
 - 1 colher de sopa de fermento em pó para bolo

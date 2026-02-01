@@ -36,9 +36,9 @@ flags: []
 - 1 dente de alho picado
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- Suco de 1/2 limão
-- 1/2 copo de farinha de trigo
-- 1/2 copo de fubá mimoso
+- Suco de ½ limão
+- ½ copo de farinha de trigo
+- ½ copo de fubá mimoso
 - Óleo para fritar
 - --
 

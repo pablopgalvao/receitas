@@ -35,12 +35,12 @@ flags: []
 - 4 dentes de alho (22 gramas)
 - 2 xícaras de chá de arroz cru (380 gramas)
 - 1 cenoura picada (180 gramas)
-- 1/4 colher de chá de sal (ou a gosto)
+- ¼ colher de chá de sal (ou a gosto)
 - 3 xícaras de chá de água quente (600 ml)
 - 2 colheres de sopa de pimentão vermelho picado (50 gramas)
 - 2 colheres de sopa de pimentão amarelo picado (50 gramas)
 - 1 lata de milho verde (170 gramas)
-- 1/2 xícara de chá de uvas passa preta (60 gramas)
+- ½ xícara de chá de uvas passa preta (60 gramas)
 - 3 colheres de sopa de azeitona picada
 - 2 colheres de sopa de cheiro-verde picado (ou a gosto)
 - Coloque a água para ferver e leve uma frigideira grande, despeje o óleo ou azeite e ligue no fogo alto;
@@ -53,7 +53,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna os ingredientes para preparar esse arroz de Natal e receba elogios dos seus convidados nas festas de fim de ano;
-2. Em uma tábua, corte a calabresa em 1/2 rodelas com o auxílio de uma faca e reserve. Corte a cebola, descasque-a e pique-a em cubos. Repita o mesmo processo com a cenoura. Descasque o alho e pique-o finamente. Reserve também;
+2. Em uma tábua, corte a calabresa em ½ rodelas com o auxílio de uma faca e reserve. Corte a cebola, descasque-a e pique-a em cubos. Repita o mesmo processo com a cenoura. Descasque o alho e pique-o finamente. Reserve também;
 3. Coloque a água para ferver e leve uma frigideira grande, despeje o óleo ou azeite e ligue no fogo alto;
 4. Coloque a calabresa na frigideira com o azeite/óleo e espere ela dourar. Mexa nesse processo para que ela não queime;
 5. Após ela soltar o óleo e fritar, acrescente a cebola e o alho picados. Deixe dourar com a calabresa até eles ficarem douradinhos;

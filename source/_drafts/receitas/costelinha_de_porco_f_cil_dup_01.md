@@ -34,7 +34,7 @@ flags: []
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 4 colheres de sopa de óleo
 - 2 cebolas médias (cerca de 180 gramas)
-- 1 e 1/2 xícara de chá de água quente (360 ml)
+- 1 e ½ xícara de chá de água quente (360 ml)
 - 2 colheres de sopa de cheiro-verde picado para finalizar
 - Coloque as costelinhas em uma tigela e tempere com alho, sal, pimenta-do-reino e alecrim. Regue com o caldo do limão e misture bem para incorporar os temperos em todos os pedaços. Deixe marinando por 30 minutos;
 - Aqueça o óleo em uma panela no fogo alto e acomode as costelinhas. Deixe dourar bem de um lado antes de virar. Vire aos poucos com um pegador, dourando todos os lados. Evite mexer demais para não soltar muito líquido e garantir uma carne bem dourada;

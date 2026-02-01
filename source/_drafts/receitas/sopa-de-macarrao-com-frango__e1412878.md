@@ -38,7 +38,7 @@ flags: []
 - 2 batatas
 - 1 cenoura
 - Sal a gosto
-- 1 e 1/2 xícara de chá de macarrão de sua preferência (150 gramas)
+- 1 e ½ xícara de chá de macarrão de sua preferência (150 gramas)
 - Cebolinha a gosto
 - --
 

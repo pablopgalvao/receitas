@@ -34,7 +34,7 @@ flags: []
 - 3 sachês de chá de amora e laranja
 - 500 ml de água
 - 1 colher de sopa de semente de linhaça dourada
-- Casca de 1/2 laranja-bahia (em tiras largas, sem a parte branca)
+- Casca de ½ laranja-bahia (em tiras largas, sem a parte branca)
 - Gelo a gosto
 - Fatias finas de laranja-bahia e folhas de hortelã para decorar
 - --

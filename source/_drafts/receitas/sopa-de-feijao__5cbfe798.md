@@ -30,12 +30,12 @@ flags: []
 
 - 3 xícaras de chá de feijão cozido (600 gramas)
 - 2 xícaras de chá de água filtrada (480 ml)
-- 1/2 cebola
+- ½ cebola
 - 1 dente de alho
 - 100 gramas de bacon
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de páprica defumada (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de páprica defumada (ou a gosto)
 - 1 xícara de chá de macarrão Ave Maria
 - 1 colher de sopa de cheiro-verde picado (5 gramas)
 - --

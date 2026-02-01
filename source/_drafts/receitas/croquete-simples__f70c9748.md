@@ -33,13 +33,13 @@ flags: []
 - 400 gramas de fraldinha desfiada
 - 100 gramas de bacon
 - 5 dentes de alho
-- 1/2 cebola média
-- 1/2 tomate
+- ½ cebola média
+- ½ tomate
 - 150 ml de água
 - 1 colher de sopa de farinha de trigo
 - 4 ovos
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de farinha de rosca
+- 1 e ½ xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de rosca
 - 150 gramas de mussarela peça
 - Páprica doce a gosto
 - Sal a gosto

@@ -35,7 +35,7 @@ flags: []
 - 5 gotas de essência de baunilha
 - 1 colher de sopa de mel ou a gosto
 - Morangos ou mirtilos a gosto
-- 1/3 de xícara de gotas de chocolate a gosto
+- ⅓ de xícara de gotas de chocolate a gosto
 - --
 
 ---

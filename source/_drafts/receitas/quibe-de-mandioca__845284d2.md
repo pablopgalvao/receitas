@@ -34,7 +34,7 @@ flags: []
 
 - 500 gramas de carne moída
 - 1 tomate pequeno
-- 1/2 cebola média
+- ½ cebola média
 - 2 dentes de alho
 - Sal a gosto
 - Pimenta-do-reino a gosto

@@ -30,11 +30,11 @@ flags: []
 
 - 1 laranja
 - 4 ovos
-- 1/2 xícara de chá de óleo de girassol ou azeite de oliva
-- 3/4 xícara de chá de açúcar demerara
+- ½ xícara de chá de óleo de girassol ou azeite de oliva
+- ¾ xícara de chá de açúcar demerara
 - 1 xícara de chá de farinha de arroz
-- 1/2 xícara de chá de fécula de batata
-- 1/2 xícara de chá de polvilho doce
+- ½ xícara de chá de fécula de batata
+- ½ xícara de chá de polvilho doce
 - 1 colher de sopa de fermento químico em pó (para bolo)
 - 1 colher de sopa de cacau em pó
 - --

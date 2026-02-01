@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de leite
 - 1 xícara de chá de açúcar
 - 2 xícaras de chá de farinha
 - 1 colher de sopa de fermento
-- 1/2 xícara de chá de chocolate granulado
+- ½ xícara de chá de chocolate granulado
 - 1 colher de sopa de farinha de trigo
 - 200 ml de creme de leite
 - 3 colheres de sopa de chocolate em pó

@@ -37,9 +37,9 @@ flags: []
 - 250 gramas de macarrão tipo espaguete
 - 2,5 litros de água para cozinhar o macarrão
 - 1 dente de alho
-- 1/4 de cebola média
+- ¼ de cebola média
 - 1 sachê de molho de tomate (ou 1 lata de tomate pelado em cubos)
-- 1/3 de uma cenoura pequena
+- ⅓ de uma cenoura pequena
 - 2 linguiças toscanas (em temperatura ambiente)
 - 1 colher de chá de manteiga
 - Azeite a gosto

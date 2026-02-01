@@ -32,8 +32,8 @@ flags: []
 - 3 batatas cozidas cortadas ao meio (ou batata-doce)
 - Sal e cebolinha a gosto
 - 3 colheres de sopa de cream cheese
-- 1/2 xícara de chá de frango cozido e desfiado
-- 1/2 xícara de chá de queijo mussarela ralado
+- ½ xícara de chá de frango cozido e desfiado
+- ½ xícara de chá de queijo mussarela ralado
 - --
 
 ---

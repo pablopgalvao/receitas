@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de leite
 - 3 colheres de sopa de queijo parmesão ralado
 - 1 pitada de sal
@@ -50,7 +50,7 @@ flags: []
 1. Separe todos os ingredientes em sua bancada; unte bem as forminhas de empada com manteiga e reserve;
 2. No liquidificador, adicione os ovos, o óleo, o leite, o parmesão ralado e o sal. Bata por cerca de 1 minuto até ficar homogêneo;
 3. Acrescente a farinha de trigo e bata por mais 20 segundos, apenas até incorporar;
-4. Preencha cerca de 1/3 das forminhas com a massa líquida;
+4. Preencha cerca de ⅓ das forminhas com a massa líquida;
 5. Adicione o recheio de sua preferência, pressionando levemente com um garfo para que ele fique nivelado e não ultrapasse o volume de massa;
 6. Cubra o recheio com mais massa, preenchendo quase até o topo da forminha (deixe cerca de 1 mm de borda). Leve ao forno preaquecido a 200°C por 20 minutos;
 7. Retire do forno, misture a gema com a água e pincele cuidadosamente sobre o centro das empadas, evitando as bordas;

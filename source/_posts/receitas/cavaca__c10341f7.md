@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de fubá (140 gramas)
 - 1 xícara de chá de farinha de trigo (120 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 2 colheres de sopa de manteiga ou margarina
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 ovo médio

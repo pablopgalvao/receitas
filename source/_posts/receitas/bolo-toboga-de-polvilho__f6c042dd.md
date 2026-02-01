@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1/2 xícara de chá de leite (120 ml)
-- 2 e 1/2 xícaras de chá de polvilho doce (320 gramas)
-- 1/2 xícara de chá de óleo ou azeite (120 ml)
+- ½ xícara de chá de leite (120 ml)
+- 2 e ½ xícaras de chá de polvilho doce (320 gramas)
+- ½ xícara de chá de óleo ou azeite (120 ml)
 - 1 colher de café de sal
 - Queijo parmesão ralado a gosto (opcional)
 - --

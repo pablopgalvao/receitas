@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de manteiga
 - 150 gramas de cogumelo Paris fresco em fatias
 - 1 colher de sopa de molho inglês
-- 1/4 xícara de chá de conhaque
+- ¼ xícara de chá de conhaque
 - 1 xícara de chá de molho de tomate
 - 200 gramas de creme de leite
 - --

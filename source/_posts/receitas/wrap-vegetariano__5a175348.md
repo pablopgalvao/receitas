@@ -36,10 +36,10 @@ flags: []
 - 1 cebola
 - 2 dentes de alho
 - 1 maço de salsinha
-- 1/4 de colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ¼ de colher de chá de sal
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de manteiga (20 gramas)
-- 1/2 colher de sopa de azeite (10 ml)
+- ½ colher de sopa de azeite (10 ml)
 - Manjericão fresco a gosto
 - --
 

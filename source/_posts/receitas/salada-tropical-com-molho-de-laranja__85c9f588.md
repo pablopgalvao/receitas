@@ -31,9 +31,9 @@ flags: []
 - 4 colheres de sopa de vinagre branco
 - 4 colheres de sopa de azeite de oliva extravirgem
 - 1 colher de sopa de mostarda
-- 1/2 xícara de chá de suco de laranja natural (120 ml)
+- ½ xícara de chá de suco de laranja natural (120 ml)
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

@@ -30,19 +30,19 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de açúcar (200 gramas)
-- 1 e 1/2 xícara de farinha de trigo peneirada (180 gramas)
-- 3/4 de xícara de chá de água (180 ml)
+- 1 e ½ xícara de farinha de trigo peneirada (180 gramas)
+- ¾ de xícara de chá de água (180 ml)
 - 1 colher de chá de fermento químico em pó
 - 1 colher de chá de essência de baunilha (opcional)
 - 1 abacaxi picado (600 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 xícara de chá de leite condensado (395 gramas)
 - 1 caixa de creme de leite (200 gramas)
-- 1 e 1/2 xícara de chá de leite Ninho integral (200 gramas)
+- 1 e ½ xícara de chá de leite Ninho integral (200 gramas)
 - 3 colheres de sopa cheias de margarina ou manteiga (60 gramas)
 - 1 colher de sobremesa de emulsificante (10 gramas)
 - 200 ml de água
-- 1/2 caixa de leite condensado (198 gramas)
+- ½ caixa de leite condensado (198 gramas)
 - 80 gramas de granulado (ou a gosto)
 - Reúna todos os ingredientes em sua bancada. O leite condensado e o creme de leite devem estar bem gelados para essa receita. Prepare potinhos de 220 ml com lacre para a montagem da mousse;
 - Na batedeira, bata os ovos até formarem um creme claro e aerado. Se quiser, acrescente a essência de baunilha;

@@ -34,7 +34,7 @@ flags: []
 - 200 gramas de bacon
 - 200 gramas de queijo coalho
 - 2 colheres de sopa de passata da tomate (pode ser molho de tomate caseiro)
-- 1/2 colher de chá de alho amassado (2 dentes)
+- ½ colher de chá de alho amassado (2 dentes)
 - Sal a gosto
 - Pimenta malagueta a gosto
 - --

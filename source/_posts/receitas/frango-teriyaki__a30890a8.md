@@ -32,9 +32,9 @@ flags: []
 - 1 kg de sobrecoxa desossada e com pele
 - 1 colher de chá de pimenta-do-reino ou a gosto
 - Amido de milho para empanar (cerca de 1 xícara de chá)
-- 1/2 xícara de chá de saquê seco (100 ml)
-- 1/2 xícara de chá de saquê mirin (100 ml)
-- 3/4 de xícara de chá de shoyu (125 ml)
+- ½ xícara de chá de saquê seco (100 ml)
+- ½ xícara de chá de saquê mirin (100 ml)
+- ¾ de xícara de chá de shoyu (125 ml)
 - 3 colheres de sopa de açúcar
 - 3 dentes de alho
 - 1 colher de sopa de gengibre

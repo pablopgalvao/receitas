@@ -32,8 +32,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 cebola grande
-- 1/2 xícara de chá de farinha de trigo (60 gramas)
-- 1/2 xícara de chá de farinha de rosca (100 gramas)
+- ½ xícara de chá de farinha de trigo (60 gramas)
+- ½ xícara de chá de farinha de rosca (100 gramas)
 - 2 ovos
 - Sal a gosto
 - Pimenta-do-reino a gosto

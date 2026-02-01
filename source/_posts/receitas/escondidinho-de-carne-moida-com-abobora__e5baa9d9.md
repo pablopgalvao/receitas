@@ -32,7 +32,7 @@ flags: []
 - 300 ml de água
 - 3 dentes de alho
 - 2 colheres de sobremesa de manteiga
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de sobremesa de requeijão
 - 100 gramas de mussarela
 - --

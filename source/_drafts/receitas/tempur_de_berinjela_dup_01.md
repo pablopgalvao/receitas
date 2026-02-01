@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de água gelada (180 ml)
-- 1/2 xícara de chá de farinha de trigo (120 gramas)
+- ¾ de xícara de água gelada (180 ml)
+- ½ xícara de chá de farinha de trigo (120 gramas)
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de chá de páprica (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de fermento em pó
+- ½ colher de chá de fermento em pó
 - 3 xícaras de chá de óleo (720 ml)
 - Escorra a água, adicione farinha de trigo ao poucos, depois tempere com sal, páprica e pimenta-do-reino;
 - Aqueça o óleo em uma panela e comece a fritar o tempurá. Junte 3 ou 4 fatias e frite até dourar completamente;

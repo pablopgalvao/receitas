@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate picado
+- ½ abacate picado
 - 45 gramas de Whey
-- 1/4 xícara de chá de leite
+- ¼ xícara de chá de leite
 - --
 
 ---

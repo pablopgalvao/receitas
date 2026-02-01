@@ -37,7 +37,7 @@ flags: []
 - 1 gema
 - 1 talo de alho-poró
 - 2 colheres de sopa de azeite
-- 1/2 xícara de chá de vinho branco seco
+- ½ xícara de chá de vinho branco seco
 - Sal a gosto
 - --
 

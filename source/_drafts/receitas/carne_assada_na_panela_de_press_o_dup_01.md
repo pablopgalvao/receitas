@@ -32,9 +32,9 @@ flags: []
 - 3 colheres de sopa de óleo
 - 1 kg de lagarto (peça inteira)
 - 1 cebola média (80 gramas)
-- 1/4 colher de chá de pimenta calabresa
+- ¼ colher de chá de pimenta calabresa
 - 2 colheres de sopa de sal
-- 1/2 colher de chá de páprica
+- ½ colher de chá de páprica
 - 1 colher de sopa de orégano
 - 2 colheres de sopa de molho shoyu
 - 4 xícaras de chá de água (cerca de 1 litro)

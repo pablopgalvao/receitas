@@ -34,14 +34,14 @@ flags: []
 - Fio de óleo de gergelim torrado
 - 2 dentes de alho
 - 1 colher de chá de gengibre ralado
-- 1/4 xícara de chá de pimentão picado
+- ¼ xícara de chá de pimentão picado
 - 1 cenoura ralada
 - 1 batata ralada
 - 3 xícaras de chá de repolho
 - 1 colher de sopa do mix de temperos (sal, cebola e salsa)
 - 3 colheres de sopa de shoyu
 - Cebolinha a gosto
-- 1 colher de chá de amido de milho dissolvida em 1/3 xícara de chá de água
+- 1 colher de chá de amido de milho dissolvida em ⅓ xícara de chá de água
 - 3 xícaras de chá de farinha de trigo
 - Pitada de sal
 - 1 xícara de chá de água morna

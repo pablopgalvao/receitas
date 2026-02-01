@@ -37,10 +37,10 @@ flags: []
 - 100 gramas de vagem picada
 - 1 cenoura picada
 - 1 cebola cortada em cubos
-- 1/3 de talo de alho-poró
+- ⅓ de talo de alho-poró
 - Caldo de carne ( caldo de legumes ou água)
 - 1 colher de sopa de manteiga
-- 1/2 limão
+- ½ limão
 - Ervas a gosto
 - Sal e pimenta-do-reino a gosto
 - Azeite para refogar

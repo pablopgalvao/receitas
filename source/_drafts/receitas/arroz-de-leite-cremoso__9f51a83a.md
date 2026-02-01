@@ -33,7 +33,7 @@ flags: []
 - 1 litro de leite
 - 1 colher de sopa de margarina (ou manteiga)
 - 1 xícara de chá de arroz (180 gramas)
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 150 gramas de queijo mussarela
 - Sal a gosto
 - --

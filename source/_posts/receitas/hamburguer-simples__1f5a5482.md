@@ -33,12 +33,12 @@ flags: []
 - 1 colher de chá de creme de cebola
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - Manteiga a gosto para tostar pães
 - 5 pães brioches
 - 200 gramas de queijo mussarela fatiado (ou a gosto)
 - 5 folhas de alface (ou a gosto)
-- 1 e 1/2 tomate (ou a gosto)
+- 1 e ½ tomate (ou a gosto)
 - 6 colheres de sopa de maionese (ou a gosto)
 - --
 

@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de azeite
 - 2 dentes de alho picados
 - Sal e pimenta-do-reino a gosto
-- 1/2 xícara de chá de farinha de rosca
+- ½ xícara de chá de farinha de rosca
 - 2 colheres de sopa de manjericão picado
 - 2 colheres de sopa de ricota light
 - 2 colheres de sopa de parmesão light

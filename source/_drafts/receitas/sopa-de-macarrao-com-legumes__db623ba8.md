@@ -33,7 +33,7 @@ flags: []
 - 1 cebola pequena
 - 1 cenoura média
 - 1 batata média
-- 1/2 xícara de chá de vagem (70 gramas)
+- ½ xícara de chá de vagem (70 gramas)
 - 2 cubos de caldo de legumes (ou caldo em pó)
 - 1,5 litros de água
 - 1 colher de sopa de óleo

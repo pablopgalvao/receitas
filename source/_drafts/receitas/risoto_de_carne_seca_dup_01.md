@@ -32,11 +32,11 @@ flags: []
 - Azeite a gosto
 - 2 colheres de sopa de manteiga
 - 1 xícara de chá de arroz carnaroli (ou arbóreo)
-- 1/2 xícara de chá de vinho branco
+- ½ xícara de chá de vinho branco
 - 1 xícara de chá de carne seca dessalgada e desfiada
-- 1/2 colher de chá de açafrão
+- ½ colher de chá de açafrão
 - Sal e pimenta-do-reino a gosto
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de queijo parmesão ralado
 - 1 colher de sopa de salsinha picada
 - Em uma panela, adicione 1 colher de manteiga, o azeite, a cebola e refogue até ficar transparente;
 - Acrescente o açafrão, o sal, a pimenta, o queijo parmesão, a salsinha e misture bem;

@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 2 xícaras de chá de leite integral (480 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 pitada de sal
-- 2 e 1/2 xícaras de chá de flocão de milho (280 gramas)
+- 2 e ½ xícaras de chá de flocão de milho (280 gramas)
 - 50 gramas de coco ralado
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

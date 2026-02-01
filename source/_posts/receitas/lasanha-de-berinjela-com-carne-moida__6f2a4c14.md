@@ -35,9 +35,9 @@ flags: []
 
 - 1 fio de óleo
 - 2 dentes de alho
-- 1/2 cebola
+- ½ cebola
 - 500 gramas de carne moída (acém ou patinho)
-- 1/2 pimentão verde
+- ½ pimentão verde
 - 4 tomates
 - Sal a gosto
 - Pimenta-do-reino a gosto

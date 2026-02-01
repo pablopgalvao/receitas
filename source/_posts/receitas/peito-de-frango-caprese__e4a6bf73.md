@@ -30,7 +30,7 @@ flags: []
 
 - 2 peitos de frango (sem pele e sem osso)
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de azeite
 - 1 xícara de tomates-cereja cortados ao meio (150 gramas)
 - 2 a 3 ramos de manjericão fresco (ou a gosto)

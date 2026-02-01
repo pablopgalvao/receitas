@@ -34,14 +34,14 @@ flags: []
 - 400 gramas de carne moída
 - 1 cebola picada
 - 3 dentes de alho
-- 1/4 de xícara de chá de leite (60 ml)
+- ¼ de xícara de chá de leite (60 ml)
 - 2 colheres de sopa de farinha de trigo (30 gramas)
 - 2 colheres de sopa de extrato de tomate
 - Cheiro-verde a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 xícara de chá de farinha de trigo para empanar
-- 1/2 xícara de chá de farinha de rosca para empanar
+- ½ xícara de chá de farinha de trigo para empanar
+- ½ xícara de chá de farinha de rosca para empanar
 - 1 ovo para empanar
 - --
 

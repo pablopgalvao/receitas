@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 peito de frango (500 gramas)
-- 1/2 brócolis
+- ½ brócolis
 - 2 colheres de sopa de azeite
 - 3 colheres de sopa de requeijão cremoso (45 gramas)
 - 1 colher de sopa de salsinha picada

@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de manteiga
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de café de pimenta-do-reino
 - 1 xícara de chá de leite
-- 1/2 xícara de chá de farinha de trigo
+- ½ xícara de chá de farinha de trigo
 - 2 xícaras de chá de farinha de rosca
 - Leve uma panela ao fogo médio, derreta a manteiga, coloque a carne moída e mexa. Deixe toda a água da carne secar e frite-a;
 - Adicione o alho, a cebola, tempere-a com sal e pimenta e continue a fritá-la;

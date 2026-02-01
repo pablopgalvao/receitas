@@ -34,8 +34,8 @@ flags: []
 
 - 3 fatias de Pão de Forma Nobre Integral da Kim
 - 1 lata de atum sólido em óleo (170 gramas)
-- 1/2 cebola roxa
-- 1/2 tomate
+- ½ cebola roxa
+- ½ tomate
 - 1 colher de sopa de cebolinha picada
 - Sal a gosto
 - Pimenta-do-reino a gosto

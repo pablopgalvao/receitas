@@ -30,7 +30,7 @@ flags: []
 
 - 500 gramas de camarão médio limpo
 - 320 gramas de arroz arbóreo
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
 - 40 gramas de manteiga sem sal
 - 160 ml de vinho branco seco
@@ -39,7 +39,7 @@ flags: []
 - 2 colheres de sopa de salsinha picada
 - 2 colheres de sopa de azeite (30 ml)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 50 gramas de parmesão ralado
 - 1 colher de sopa de raspas de limão-siciliano (ou a gosto)
 - --

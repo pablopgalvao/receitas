@@ -33,7 +33,7 @@ flags: []
 
 - 1 sachê de chá de iced tea com limão
 - 200 ml de água gelada
-- 2 e 1/2 doses de cachaça (aproximadamente 100 ml)
+- 2 e ½ doses de cachaça (aproximadamente 100 ml)
 - 1 colher de sopa de açúcar
 - Suco de 1 limão-taiti
 - Gelo a gosto

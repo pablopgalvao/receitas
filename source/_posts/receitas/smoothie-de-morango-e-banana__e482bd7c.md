@@ -32,7 +32,7 @@ flags: []
 
 - 2 bananas
 - 2 xícaras de chá de morangos
-- 1/3 xícara de chá de iogurte natural bem consistente
+- ⅓ xícara de chá de iogurte natural bem consistente
 - Adoçante ou açúcar a gosto
 - Gelo a gosto
 - --

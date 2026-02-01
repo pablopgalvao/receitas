@@ -31,12 +31,12 @@ flags: []
 
 - 4 colheres de sopa de azeite
 - 1 colher de sopa de levedura nutricional (opcional)
-- 1/2 colher de sopa de suco de limão
+- ½ colher de sopa de suco de limão
 - Sal a gosto
 - Noz-moscada a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de sopa de raspas de limão (siciliano ou taiti)
-- 1/2 pacote de macarrão (250 gramas)
+- ½ colher de sopa de raspas de limão (siciliano ou taiti)
+- ½ pacote de macarrão (250 gramas)
 - Coloque o alho embrulhado e as duas abobrinha inteiras em uma assadeira. Regue tudo com azeite e salpique um pouco de sal. Leve para assar por cerca de 30 minutos, até que tudo fique macio. Teste espetando um garfo;
 - Após esfriar, raspe a polpa da abobrinha, desprezando a casca e o cabinho. Retire os dentes de alho e coloque tudo num liquidificador com a levedura nutricional, suco de limão, sal, noz-moscada e pimenta-do-reino. Bata até virar um molho liso;
 - Enquanto isso, cozinhe o macarrão em água salgada, de acordo com as instruções oferecidas pela embalagem;

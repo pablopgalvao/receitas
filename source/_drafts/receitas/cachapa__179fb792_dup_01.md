@@ -30,7 +30,7 @@ flags: []
 
 - 5 espigas de milho-verde
 - 1 colher de chá de açúcar
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 ovo
 - 350 gramas de queijo minas fresco
 - 1 colher de sopa de óleo

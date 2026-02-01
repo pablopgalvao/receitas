@@ -33,8 +33,8 @@ flags: []
 - 3 ovos médios
 - 1 colher de sopa de shoyu
 - 1 colher de chá de dashi ou 2 colheres de chá de extrato de alga kombu
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de açúcar (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ½ colher de chá de açúcar (ou a gosto)
 - 2 colheres de sopa de água
 ---
 

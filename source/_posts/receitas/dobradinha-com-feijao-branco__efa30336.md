@@ -39,9 +39,9 @@ flags: []
 - 1 gomo de calabresa (cerca de 270 gramas)
 - 1 cebola média (90 gramas)
 - 6 dentes de alho
-- 1/2 sachê de molho de tomate (150 gramas)
+- ½ sachê de molho de tomate (150 gramas)
 - 1 colher de chá de colorau (ou a gosto)
-- 1/2 pimenta-dedo-de-moça (ou a gosto)
+- ½ pimenta-dedo-de-moça (ou a gosto)
 - 1 colher de sopa de sal (ou a gosto)
 - Cebolinha picada a gosto
 - --

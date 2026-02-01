@@ -34,7 +34,7 @@ flags: []
 - 1 xícara de chá da água do cozimento
 - 1 lata de sardinha em óleo (85 gramas)
 - 2 colheres de sopa de azeitonas verdes fatiadas
-- 1/2 xícara de chá de extrato de tomate (130 gramas)
+- ½ xícara de chá de extrato de tomate (130 gramas)
 - 1 colher de chá de orégano seco
 - Pimenta-do-reino a gosto
 - Pimenta calabresa a gosto

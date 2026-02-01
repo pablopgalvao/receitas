@@ -37,7 +37,7 @@ flags: []
 - 1 fio de azeite
 - 3 dentes de alho
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de páprica (ou a gosto)
+- ½ colher de chá de páprica (ou a gosto)
 - 1 caldo de galinha
 - 150 gramas de macarrão ave-maria
 - --

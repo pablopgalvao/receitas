@@ -32,12 +32,12 @@ flags: []
 - 400 ml de leite
 - 3 colheres de sopa leite em pó
 - 1 colher de sopa de manteiga
-- 1/2 xícara de chá de chocolate branco nobre
+- ½ xícara de chá de chocolate branco nobre
 - 3 colheres de sopa (rasas) de amido de milho
 - 400 ml de leite
 - 3 colheres de sopa de amido de milho
-- 1/2 xícara de chá de chocolate meio amargo
-- 2 e 1/2 colheres de sopa de chocolate 50%
+- ½ xícara de chá de chocolate meio amargo
+- 2 e ½ colheres de sopa de chocolate 50%
 - Depois, coloque o leite, o chocolate branco e a manteiga. Leve ao fogo e misture por cerca de 3 minutinhos até engrossar um pouco. Tire da panela e reserve;
 
 ---

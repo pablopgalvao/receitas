@@ -36,13 +36,13 @@ flags: []
 - 8 filés de tilápia
 - 1 colher de sopa de lemon pepper
 - 500 gramas de tomate-cereja
-- 1 e 1/2 cebola roxa
-- 1/2 alho-poró
+- 1 e ½ cebola roxa
+- ½ alho-poró
 - 80 gramas de azeitona preta
 - 80 gramas de azeitona verde
 - 30 gramas de alcaparras
 - 6 dentes de alho
-- 1/2 xícara de chá de vinho branco seco (120 ml)
+- ½ xícara de chá de vinho branco seco (120 ml)
 - Ramos de tomilho a gosto
 - Raspas e suco de 1 limão-siciliano
 - Sal a gosto

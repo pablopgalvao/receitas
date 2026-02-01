@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de arroz (pode ser integral se preferir)
 - 1 xícara chá de lentilha
-- 1/2 colher de chá de açafrão
+- ½ colher de chá de açafrão
 - 3 colheres de sopa de manteiga
 - 2 colheres de sopa de açúcar mascavo
 - Sal e tempero verde a gosto

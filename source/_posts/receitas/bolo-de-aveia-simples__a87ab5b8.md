@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1 e 1/2 xícara de chá de farinha de aveia sem glúten
+- 1 e ½ xícara de chá de farinha de aveia sem glúten
 - 1 xícara de chá de mel
-- 1/2 xícara de chá de óleo vegetal
-- 1/2 xícara de chá de leite integral
-- 1/2 xícara de chá de amido de milho
+- ½ xícara de chá de óleo vegetal
+- ½ xícara de chá de leite integral
+- ½ xícara de chá de amido de milho
 - 1 pitada de sal
 - 1 colher de sopa canela em pó
 - 1 colher de sopa fermento químico em pó (fermento para bolo)

@@ -28,23 +28,23 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 de xícara de chá de bacon (50 gramas)
+- ¼ de xícara de chá de bacon (50 gramas)
 - 2 colheres de sopa de azeite (25 ml)
-- 1/4 de xícara de chá de cebola (55 gramas)
-- 1/2 colher de sopa rasa de alho (10 gramas)
-- 1/2 xícara de chá de linguiça calabresa cozida e defumada (80 gramas)
-- 1/4 de xícara de chá de pimentão vermelho (40 gramas)
-- 1/2 xícara de chá de tomate (100 gramas)
+- ¼ de xícara de chá de cebola (55 gramas)
+- ½ colher de sopa rasa de alho (10 gramas)
+- ½ xícara de chá de linguiça calabresa cozida e defumada (80 gramas)
+- ¼ de xícara de chá de pimentão vermelho (40 gramas)
+- ½ xícara de chá de tomate (100 gramas)
 - 1 xícara de chá de peito de frango cozido e desfiado (130 gramas)
-- 1/2 xícara de chá de cenoura crua (60 gramas)
-- 1/2 xícara de chá de milho em conserva (80 gramas)
-- 1/2 xícara de chá de ervilha (65 gramas)
-- 1/2 xícara de chá de maçã vermelha (65 gramas)
-- 1/4 de xícara de chá de uvas passas pretas (40 gramas)
+- ½ xícara de chá de cenoura crua (60 gramas)
+- ½ xícara de chá de milho em conserva (80 gramas)
+- ½ xícara de chá de ervilha (65 gramas)
+- ½ xícara de chá de maçã vermelha (65 gramas)
+- ¼ de xícara de chá de uvas passas pretas (40 gramas)
 - 5 xícaras de chá de arroz (625 gramas)
 - 2,5 litro de água
 - 1 colher de chá de sal ou a gosto
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de pimenta-do-reino ou a gosto
 - 2 xícaras de chá de batata palha fina (100 gramas)
 - 3 colheres de sopa rasa de salsinha picadinha
 - --

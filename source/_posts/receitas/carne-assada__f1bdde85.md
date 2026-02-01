@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/5 kg de alcatra
+- 1 e ½ kg de alcatra
 - 1 colher de chá de sal
 - 1 colher de café de pimenta-do-reino branca (ou a normal)
 - 5 dentes de alho amassado
@@ -37,8 +37,8 @@ flags: []
 - 1 folha de louro
 - 3 colheres de sopa de óleo de soja
 - 1 cebola ralada (ou picada)
-- 1/2 xícara de chá de molho de tomate
-- 1/2 xícara de chá de azeitona verde picadinhas
+- ½ xícara de chá de molho de tomate
+- ½ xícara de chá de azeitona verde picadinhas
 - 500 gramas de batata
 - --
 

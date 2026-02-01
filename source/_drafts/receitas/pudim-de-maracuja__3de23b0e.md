@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (165 gramas)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - --
 
 ---

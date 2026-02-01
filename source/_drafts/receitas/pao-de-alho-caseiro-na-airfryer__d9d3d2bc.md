@@ -33,9 +33,9 @@ flags: []
 - 1 colher de sopa de cheiro-verde para o recheio
 - 200 gramas de requeijão cremoso
 - 3 colheres de sopa de manteiga ou margarina
-- 1/3 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/3 de colher de chá de sal (ou a gosto)
-- 1/2 pacotinho de parmesão ralado (50 gramas)
+- ⅓ de colher de chá de pimenta-do-reino (ou a gosto)
+- ⅓ de colher de chá de sal (ou a gosto)
+- ½ pacotinho de parmesão ralado (50 gramas)
 - 250 gramas de queijo mussarela ralado (ou a gosto)
 - 1 colher de sopa de cheiro-verde para finalizar
 - --

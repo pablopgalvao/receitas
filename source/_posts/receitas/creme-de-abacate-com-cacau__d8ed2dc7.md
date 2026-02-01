@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate maduro
+- ½ abacate maduro
 - 1 colher de sopa de cacau em pó
-- 1 e 1/2 colher de açúcar mascavo
+- 1 e ½ colher de açúcar mascavo
 - 5 gotas de extrato de baunilha
 - --
 

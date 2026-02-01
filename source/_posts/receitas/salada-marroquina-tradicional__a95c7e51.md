@@ -36,7 +36,7 @@ flags: []
 - 2 xícaras de chá de trigo para quibe
 - 4 maçãs-verdes
 - 2 xícaras de chá de azeitonas picadas
-- 1/2 xícara de chá de uvas-passas
+- ½ xícara de chá de uvas-passas
 - 2 pimentões vermelhos (ou de outra cor)
 - 1 cebola grande
 - 6 colheres de sopa de suco de limão

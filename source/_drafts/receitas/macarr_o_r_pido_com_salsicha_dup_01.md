@@ -33,7 +33,7 @@ flags: []
 - 500 gramas de salsicha picada
 - Salsinha picada a gosto
 - 500 ml de água
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 1 colher de sopa de azeite
 
 ---

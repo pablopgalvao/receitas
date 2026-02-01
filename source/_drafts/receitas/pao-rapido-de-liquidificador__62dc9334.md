@@ -30,11 +30,11 @@ flags: []
 
 - 1 ovo
 - 2 colheres de sopa de açúcar (24 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de café de sal (3 gramas)
 - 1 copo (tipo requeijão) de leite morno (250 ml)
 - 1 envelope de fermento biológico seco (10 gramas)
-- 2 e 1/2 de xícara de chá de farinha de trigo (350 gramas)
+- 2 e ½ de xícara de chá de farinha de trigo (350 gramas)
 - --
 
 ---

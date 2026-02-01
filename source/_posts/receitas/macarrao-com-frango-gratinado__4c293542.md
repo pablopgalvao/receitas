@@ -36,7 +36,7 @@ flags: []
 - 3 colheres de sopa de manteiga
 - Noz-moscada a gosto
 - 2 colheres de sopa de farinha de trigo
-- 1/2 pacote de macarrão parafuso cozido al dente
+- ½ pacote de macarrão parafuso cozido al dente
 - Queijo mussarela ralado a gosto
 - --
 

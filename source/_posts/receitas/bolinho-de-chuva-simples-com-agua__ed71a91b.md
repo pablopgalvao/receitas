@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de trigo (290 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 colher de sobremesa de fermento químico em pó (fermento para bolo)
 - 1 xícara de chá de água (240 ml)
 - Óleo para fritar
 - 1 colher de sopa de canela em pó para polvilhar
-- 1/2 xícara de chá de açúcar para confeitar
+- ½ xícara de chá de açúcar para confeitar
 - --
 
 ---

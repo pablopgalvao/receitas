@@ -35,8 +35,8 @@ flags: []
 - 1 ovo grande
 - 2 colheres de sopa de azeite
 - 6 colheres de sopa de leite em pó (95 gramas)
-- 1/2 xícara de chá de leite desnatado fervente (120 ml)
-- 1/2 xícara de chá de água fervente (120 ml)
+- ½ xícara de chá de leite desnatado fervente (120 ml)
+- ½ xícara de chá de água fervente (120 ml)
 
 ---
 

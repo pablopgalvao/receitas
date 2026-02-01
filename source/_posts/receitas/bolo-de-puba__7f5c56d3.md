@@ -30,9 +30,9 @@ flags: []
 
 - 2 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/4 de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de manteiga (30 gramas)
-- 1 e 1/2 xícara de puba seca (farinha de puba) (300 gramas)
+- 1 e ½ xícara de puba seca (farinha de puba) (300 gramas)
 - 3 xícaras de chá de leite (720 ml)
 - --
 

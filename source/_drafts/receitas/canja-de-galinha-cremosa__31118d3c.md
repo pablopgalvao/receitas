@@ -42,7 +42,7 @@ flags: []
 - 1 folha de louro
 - 1 cenoura grande
 - 2 batatas
-- 1/2 xícara de chá de arroz cru
+- ½ xícara de chá de arroz cru
 - Cebolinha a gosto
 - Azeite a gosto
 - 800 ml de água para cozinhar

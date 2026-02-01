@@ -31,8 +31,8 @@ flags: []
 
 - 1,5 kg de costela bovina
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de sobremesa de pimenta-do-reino (ou a gosto)
-- 1/4 xícara de chá de farinha de trigo
+- ½ colher de sobremesa de pimenta-do-reino (ou a gosto)
+- ¼ xícara de chá de farinha de trigo
 - 2 cebolas pequenas picadas em cubos
 - 2 dentes de alho amassados
 - 2 tomates médios picado em cubos

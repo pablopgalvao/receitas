@@ -41,7 +41,7 @@ flags: []
 - 100 gramas de açúcar mascavo
 - 125 gramas de mostarda
 - 2 colheres de sopa de molho inglês
-- 1/2 xícara de chá de vinagre de maçã ou vinho tinto
+- ½ xícara de chá de vinagre de maçã ou vinho tinto
 - 250 ml de água
 - Para a carne, em uma tigela, misture o alho, a páprica, o sal, o açúcar, a pimenta calabresa e o café solúvel;
 - Adicione o ketchup, a mostarda, o açúcar, o molho inglês, o vinagre e a água. Misture bem e cozinhe em fogo médio-baixo por 20 a 25 minutos com a panela tampada. Mexa a cada 5 minutos para não queimar. Se preferir uma textura mais lisa, bata no liquidificador. Reserve;

@@ -32,10 +32,10 @@ flags: []
 - 2 postas de bacalhau (500 gramas)
 - 1 lata de grão-de-bico (400 gramas)
 - 2 ovos cozidos
-- 1/3 de xícara de chá de azeite
-- 1/2 colher de chá de pimenta-do-reino
+- ⅓ de xícara de chá de azeite
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de salsinha fresca
-- 1/4 de xícara de chá de azeitonas
+- ¼ de xícara de chá de azeitonas
 - Sal a gosto
 - Reúna os ingredientes. Pique a cebola e o tomate em cubinhos, e corte as azeitonas em rodelas finas. Pique a salsinha finamente e aproveite para dessalgar as postas de bacalhau e cozinhar o grão-de-bico. Cozinhe também os ovos;
 - Com o bacalhau já dessalgado, cozinhe-o em água fervente de 15 a 20 minutos;

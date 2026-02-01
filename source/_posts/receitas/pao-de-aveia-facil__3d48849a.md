@@ -31,13 +31,13 @@ flags: []
 
 - 10 gramas de fermento biológico seco
 - 2 colheres de sopa açúcar demerara
-- 1/2 xícara de chá de água morna
+- ½ xícara de chá de água morna
 - 1 ovo batido
-- 1/2 colher de chá de sal
-- 1/4 xícara de chá de azeite
-- 1/2 xícara de chá de aveia em flocos finos
-- 1/2 xícara de chá de aveia em flocos grossos
-- 1/3 xícara de chá de polvilho doce
+- ½ colher de chá de sal
+- ¼ xícara de chá de azeite
+- ½ xícara de chá de aveia em flocos finos
+- ½ xícara de chá de aveia em flocos grossos
+- ⅓ xícara de chá de polvilho doce
 - 1 colher de chá de goma xantana
 - Aveia em flocos e gergelim para polvilhar
 - --

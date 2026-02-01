@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 2/3 de xícara de chá de iogurte natural (160 gramas)
+- ⅔ de xícara de chá de iogurte natural (160 gramas)
 - 4 colheres de sopa de eritritol com stevia (60 gramas)
 - 140 gramas de coco ralado
 - 1 colher de chá de fermento em pó

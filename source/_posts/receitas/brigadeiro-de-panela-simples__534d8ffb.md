@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/3 de xícara de chá de leite integral (160 ml)
+- ⅔ de xícara de chá de leite integral (160 ml)
 - 3 colheres de sopa de chocolate em pó 50%
 - 1 colher de manteiga
 - 1 lata de leite condensado (395 gramas)

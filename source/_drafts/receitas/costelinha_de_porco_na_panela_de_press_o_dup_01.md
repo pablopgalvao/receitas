@@ -37,7 +37,7 @@ flags: []
 - 1 colher de sobremesa de sal (ou a gosto)
 - 1 colher de chá de pimenta calabresa (ou a gosto)
 - 50 ml de shoyu
-- 1/2 lata de cerveja Pilsen (175 ml)
+- ½ lata de cerveja Pilsen (175 ml)
 - 2 colheres de sopa de cebolinha (ou a gosto)
 - Esquente uma panela de pressão. Assim que ficar quente, coloque um fio de azeite e os pedaços de costelinha, e deixe dourar. Passado um tempo, acrescente o sal por cima e cubra com mais um fio de azeite. Vá mexendo para pegar cor em toda a carne por cerca de 10 minutos;
 - Após dourar, retire as costelinhas da panela e reserve. Na mesma panela, acrescente o alho e deixe dourar levemente. Depois, junte a cebola, o pimentão e o salsão. Deixe refogar, mexendo bem o fundo, para pegar todo o sabor da crostinha que se formou do refogado da carne;

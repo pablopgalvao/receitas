@@ -32,8 +32,8 @@ flags: []
 - 1 colher de sobremesa de sal
 - Azeitonas sem caroço a gosto
 - Orégano a gosto
-- 1/2 xícara de chá de vinagre (ou a gosto)
-- 3/4 de xícaras de azeite (ou a gosto)
+- ½ xícara de chá de vinagre (ou a gosto)
+- ¾ de xícaras de azeite (ou a gosto)
 - Em uma tigela, coloque água e sal. Junte as berinjelas fatiadas e deixe de molho por aproximadamente 15 minutos;
 - Escorra a água da berinjela e seque-as levemente. Deixe-as na tigela e adicione o pimentão, a pimenta dedo-de-moça, a cebola, o alho, o tomilho e o sal. Misture com uma colher;
 

@@ -29,18 +29,18 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 2 colheres de sopa de manteiga ou margarina
-- 1 e 1/2 xícara de chá de leite (360 ml)
+- 1 e ½ xícara de chá de leite (360 ml)
 - 3 xícaras de chá de goma de polvilho doce (350 gramas)
-- 1/2 colher de chá de erva-doce, essência de baunilha ou canela em pó (a gosto)
+- ½ colher de chá de erva-doce, essência de baunilha ou canela em pó (a gosto)
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Se não tiver erva-doce, pode retirar, usar algumas gotinhas de essência de baunilha ou 1/4 colher de chá de canela em pó. Caso necessário, ajuste o sal de acordo com seu paladar - principalmente se usar manteiga com sal;
+1. Se não tiver erva-doce, pode retirar, usar algumas gotinhas de essência de baunilha ou ¼ colher de chá de canela em pó. Caso necessário, ajuste o sal de acordo com seu paladar - principalmente se usar manteiga com sal;
 2. Em uma panela pequena, coloque a manteiga ou a margarina, o leite e o sal. Misture bem e leve ao fogo médio ou baixo. Espere levantar fervura e desligue o fogo;
 3. Coloque a goma de polvilho doce em uma tigela e despeje a mistura de leite quente. Adicione a erva-doce e, com uma colher, misture até formar uma massa homogênea. Reserve para esfriar completamente;
 4. Quebre o ovo em um copo e, se estiver bom, despeje-o na batedeira. Repita o mesmo processo com os outros ovos. Bata por cerca de 5 minutos até dobrar de volume e formar uma espuma cremosa;

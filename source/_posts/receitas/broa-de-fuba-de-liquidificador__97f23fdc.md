@@ -33,8 +33,8 @@ flags: []
 - 1 xícara de chá de açúcar
 - 80 ml de óleo
 - 1 copo de leite (250 ml)
-- 1/2 copo de amido de milho
-- 1/2 copo de farinha de trigo
+- ½ copo de amido de milho
+- ½ copo de farinha de trigo
 - 1 copo de fubá
 - 1 colher de sopa de fermento
 - Erva-doce a gosto

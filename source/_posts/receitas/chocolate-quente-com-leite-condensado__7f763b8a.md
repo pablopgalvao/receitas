@@ -31,9 +31,9 @@ flags: []
 
 - 500 ml de leite integral
 - 1 colher de sopa de amido de milho
-- 1/2 caixa de leite condensado
+- ½ caixa de leite condensado
 - 3 colheres de sopa de chocolate em pó 50%
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - Ganache para decorar
 - --
 

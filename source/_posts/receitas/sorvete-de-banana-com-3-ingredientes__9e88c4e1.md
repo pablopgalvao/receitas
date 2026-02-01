@@ -30,7 +30,7 @@ flags: []
 
 - 7 bananas maduras e grandes
 - 2 caixinhas de creme de leite (400 gramas)
-- 1/2 caixinha de leite condensado (200 gramas)
+- ½ caixinha de leite condensado (200 gramas)
 - --
 
 ---

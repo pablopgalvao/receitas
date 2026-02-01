@@ -32,7 +32,7 @@ flags: []
 - 3 colheres de sopa de vinagre branco
 - 50 gramas de manteiga sem sal (em ponto de pomada)
 - 200 gramas de creme de leite (com mais de 20% de gordura)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - --
 
 ---

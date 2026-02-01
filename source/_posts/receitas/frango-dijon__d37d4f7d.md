@@ -32,12 +32,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de peito de frango cortado em tiras
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - Pimenta-do-reino moída a gosto
 - Suco de 1 limão
 - 3 colheres de sopa de manteiga
-- 1/2 colher de sopa de óleo
-- 1/2 cebola picada
+- ½ colher de sopa de óleo
+- ½ cebola picada
 - 500 gramas de creme de leite fresco
 - 2 a 3 colheres de mostarda Dijon
 - Sal a gosto
@@ -48,7 +48,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna todos os ingredientes do seu frango Dijon;
-2. Em um recipiente, coloque o frango e tempere com 1/2 colher de sopa de sal, suco do limão e pimenta-do-reino a gosto. Misture bem e deixe marinando por cerca de 30 minutos;
+2. Em um recipiente, coloque o frango e tempere com ½ colher de sopa de sal, suco do limão e pimenta-do-reino a gosto. Misture bem e deixe marinando por cerca de 30 minutos;
 3. Em uma frigideira aquecida, em fogo médio/alto, adicione a manteiga e o óleo e, assim que a manteiga começar a derreter, disponha as tiras frango e doure brevemente;
 4. Assim que o filé começar a ficar branco nas bordas, vire para dourar o outro lado. Repita o processo com o restante das tiras de frango e reserve;
 5. Na mesma frigideira, coloque a cebola e refogue até murchar e ficar levemente transparente;

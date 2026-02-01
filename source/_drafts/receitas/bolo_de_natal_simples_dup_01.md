@@ -31,12 +31,12 @@ flags: []
 
 - 1 xícara de chá de aveia em flocos ou farelo (110 gramas)
 - 1 xícara de chá de nozes (100 gramas)
-- 1/2 xícara de chá de frutas secas (cranberry, uva-passa, damasco)
+- ½ xícara de chá de frutas secas (cranberry, uva-passa, damasco)
 - 1 colher de chá de fermento químico em pó
 - 1 colher de sopa de extrato de baunilha
 - 1 colher de chá de canela em pó
-- 1/2 colher de chá de gengibre em pó
-- 1/4 colher de sopa de noz-moscada ralada
+- ½ colher de chá de gengibre em pó
+- ¼ colher de sopa de noz-moscada ralada
 - 1 colher de sopa de mel
 - Em uma tigela grande, adicione as maçãs raladas, os ovos, a aveia, as nozes, as frutas secas e o fermento;
 

@@ -36,7 +36,7 @@ flags: []
 - 200 gramas de mussarela
 - 200 gramas de presunto
 - 200 gramas de bacon
-- 1/2 unidade de cebola média
+- ½ unidade de cebola média
 - 2 dentes de alho
 - Sal a gosto
 - --

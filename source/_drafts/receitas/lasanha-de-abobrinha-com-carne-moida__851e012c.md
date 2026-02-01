@@ -40,7 +40,7 @@ flags: []
 - Folhas de manjericão
 - 2 abobrinhas
 - 350 gramas de queijo mussarela ralado
-- 1/2 xícara de chá de queijo parmesão (70 gramas)
+- ½ xícara de chá de queijo parmesão (70 gramas)
 - --
 
 ---

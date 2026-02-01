@@ -32,11 +32,11 @@ flags: []
 - 250 gramas de grão-de-bico cozido
 - 1 lata de milho (170 gramas)
 - Cheiro-verde a gosto
-- 1/2 xícara de chá de azeitonas verdes (80 gramas)
+- ½ xícara de chá de azeitonas verdes (80 gramas)
 - 15 ovos de codorna (ou a gosto)
-- 1/4 de xícara de chá de azeite (para regar)
-- 1/2 colher de sobremesa de sal + 1 colher de chá do cozimento grão de bico
-- 1/2 colher de chá de pimenta-do-reino a gosto
+- ¼ de xícara de chá de azeite (para regar)
+- ½ colher de sobremesa de sal + 1 colher de chá do cozimento grão de bico
+- ½ colher de chá de pimenta-do-reino a gosto
 - Para montagem da salada, junte o grão-de-bico cozido com a cenoura ralada, tomate picado, milho e as azeitonas. Misture tudo muito bem;
 - Adicione agora o cheiro-verde, um generoso fio de azeite, suco de limão, sal, pimenta e mexa para incorporar tudo;
 - Decore com os ovos de codorna, leve para gelar até a hora de servir. Prontinho! Combine o preparo com uma proteína magra como peixe e aproveite.

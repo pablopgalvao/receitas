@@ -44,7 +44,7 @@ flags: []
 - Queijo coalho (285 gramas)
 - Coentro (10 gramas)
 - 1 caixa de creme de leite (200 gramas)
-- 1/3 xícara de chá de leite (80 ml)
+- ⅓ xícara de chá de leite (80 ml)
 - Queijo coalho ralado para finalizar
 - --
 

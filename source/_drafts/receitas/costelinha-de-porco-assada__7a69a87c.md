@@ -32,8 +32,8 @@ flags: []
 - 1,5 kg de costela suína
 - Suco de 2 laranjas
 - 1 copo de vinho branco (200 ml)
-- 1/2 maço de cheiro-verde
-- 1/2 maço de tomilho
+- ½ maço de cheiro-verde
+- ½ maço de tomilho
 - 3 folhas de louro
 - 1 cebola grande
 - 1 colher de sobremesa de sal

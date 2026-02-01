@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 3 ovos médios (cerca de 175 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de suco de laranja natural (240 ml)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

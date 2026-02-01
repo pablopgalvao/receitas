@@ -31,11 +31,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de arroz
-- 1/3 xícara de chá de açúcar
+- 1 e ½ xícara de chá de farinha de arroz
+- ⅓ xícara de chá de açúcar
 - 1 pitada de sal
-- 1 e 1/2 xícara de chá de água
-- 1 e 1/2 colher de sopa de leite vegetal
+- 1 e ½ xícara de chá de água
+- 1 e ½ colher de sopa de leite vegetal
 - 1 colher de chá de extrato de baunilha
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - Óleo para fritar

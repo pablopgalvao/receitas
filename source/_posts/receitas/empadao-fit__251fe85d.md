@@ -35,9 +35,9 @@ flags: []
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 250 gramas de frango cozido
 - 2 dentes de alho
-- 1/2 cebola picada
+- ½ cebola picada
 - Salsinha, cebolinha e sal a gosto
-- 1/2 xícara de chá de molho de tomate
+- ½ xícara de chá de molho de tomate
 - 100 gramas de iogurte natural desnatado
 - --
 

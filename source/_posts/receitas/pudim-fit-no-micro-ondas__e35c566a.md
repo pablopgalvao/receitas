@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de eritritol cristal (10 gramas)
-- 1/2 colher de chá de açúcar cristal (3 gramas)
+- ½ colher de chá de açúcar cristal (3 gramas)
 - 1 colher de chá de água
 - --
 

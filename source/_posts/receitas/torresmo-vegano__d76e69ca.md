@@ -36,7 +36,7 @@ flags: []
 
 - 6 bifes de proteína de soja
 - Água para hidratar
-- 1/3 xícara de chá de vinagre
+- ⅓ xícara de chá de vinagre
 - 1 colher de sopa de páprica defumada
 - 1 colher de chá de cominho em pó
 - Azeite a gosto

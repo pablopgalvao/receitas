@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 3/4 de xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de óleo (180 ml)
 - 300 ml de água
 - 1 colher de café de sal
 - 3 xícaras de chá de farinha de trigo (360 gramas)

@@ -31,11 +31,11 @@ flags: []
 
 - 600 gramas de costela limpa
 - 1 colher de chá de sal (ou a gosto)
-- 1/8 de colher de chá de pimenta do reino moída na hora (ou a gosto)
+- ⅛ de colher de chá de pimenta do reino moída na hora (ou a gosto)
 - 1 cebola grande (250 gramas)
 - 3 dentes de alho
 - 1 colher de chá de páprica defumada (ou a gosto)
-- 1/2 colher de chá de páprica picante (ou a gosto)
+- ½ colher de chá de páprica picante (ou a gosto)
 - Água para cozinhar (cerca de 1,5 litro para a mandioca e 1 litro para a costela)
 - 700 gramas de mandioca
 - 2 colheres de sopa de cebolinha

@@ -31,11 +31,11 @@ flags: []
 - 1 peito de frango
 - 1 colher de chá de sal
 - 2 colheres de chá de páprica defumada
-- 1/3 de colher de chá de pimenta-do-reino
+- ⅓ de colher de chá de pimenta-do-reino
 - 2 dentes de alho amassados
 - 2 ovos (temperados com ½ colher de chá de sal, de páprica e de pimenta)
-- 1/2 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de farinha panko
+- ½ xícara de chá de farinha de trigo
+- ½ xícara de chá de farinha panko
 - 1 colher de sopa de parmesão ralado
 - --
 

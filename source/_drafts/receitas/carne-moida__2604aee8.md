@@ -32,14 +32,14 @@ flags: []
 
 - 500 gramas de patinho moído
 - 5 gramas de sal
-- 1/4 de cebola picada
+- ¼ de cebola picada
 - 1 pitada de pimenta-do-reino
 - 2 colheres de chá de ervas finas secas
-- 1/4 de colher de chá de páprica
+- ¼ de colher de chá de páprica
 - Azeite de oliva e manteiga sem sal
 - 3 dentes de alho picados
-- 1/2 colher de sopa de extrato de tomate
-- 1/4 de xícara de chá de água aproximadamente
+- ½ colher de sopa de extrato de tomate
+- ¼ de xícara de chá de água aproximadamente
 - Salsinha picada
 - --
 

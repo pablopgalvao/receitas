@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de água (240 ml)
 - 5 colheres de sopa manteiga (100 gramas)
-- 1 pitada de sal (ou 1/4 de colher de chá)
+- 1 pitada de sal (ou ¼ de colher de chá)
 - 2 colheres de chá de açúcar (10 gramas)
 - 1 xícara de chá de farinha de trigo (140 gramas)
 - 4 ovos tipo extra (bem grandes)

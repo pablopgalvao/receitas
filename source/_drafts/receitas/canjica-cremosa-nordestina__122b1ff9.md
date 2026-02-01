@@ -31,8 +31,8 @@ flags: []
 
 - 8 espigas de milho (945 gramas)
 - 1 litro de leite de coco
-- 1 e 1/2 xícara de chá de açúcar (360 gramas)
-- 1/2 colher de chá de sal
+- 1 e ½ xícara de chá de açúcar (360 gramas)
+- ½ colher de chá de sal
 - Canela em pó a gosto para finalizar (opcional)
 - --
 

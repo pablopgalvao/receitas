@@ -33,7 +33,7 @@ flags: []
 - 1 xícara de chá de açúcar
 - 3 ovos inteiros
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 xícara de chá de amido de milho
+- ½ xícara de chá de amido de milho
 - 1 xícara de chá de suco de laranja
 - 1 xícara de chá de óleo ou manteiga derretida
 - Raspas de 1 laranja

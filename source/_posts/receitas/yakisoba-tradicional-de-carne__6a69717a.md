@@ -35,7 +35,7 @@ flags: []
 - 1 cebola bem grande ou 2 pequenas cortadas em meia-lua
 - 2 cenouras cortadas em rodelas finas
 - 1 brócolis cortado
-- 1/4 de repolho ou acelga fatiado finamente
+- ¼ de repolho ou acelga fatiado finamente
 - 1 cebolinha cortada
 - 100 ml de shoyu
 - 150 ml de água

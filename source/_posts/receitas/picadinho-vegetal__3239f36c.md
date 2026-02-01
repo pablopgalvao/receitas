@@ -41,14 +41,14 @@ flags: []
 - 1 colher de sopa de farinha de trigo
 - Azeite a gosto
 - 4 xícaras de chá de caldo de legumes quente
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 cebola picada
 - Sal a gosto
 - 4 dentes de alho picados
-- 1/3 xícara de chá de tofu defumado em cubos
+- ⅓ xícara de chá de tofu defumado em cubos
 - 3 colheres de sopa de extrato de tomate
 - 2 colheres de sopa de molho inglês
-- 1/2 colher de chá de cominho em pó
+- ½ colher de chá de cominho em pó
 - Pimenta-do-reino a gosto
 - Salsinha picada a gosto
 - --

@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de sambiquira de frango
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de chá de páprica picante (ou a gosto)
 - 1 colher de chá de colorau (ou a gosto)
 - 1 colher de chá de orégano seco (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1 colher de sopa de vinagre (ou suco de 1/2 limão)
+- 1 colher de sopa de vinagre (ou suco de ½ limão)
 - 1 xícara de chá de farinha de trigo para empanar (140 gramas)
 - 900 ml de óleo para fritar
 - Em um recipiente grande, adicione a sambiquira limpa, o sal, a páprica, o colorau, o orégano, a pimenta-do-reino e o vinagre;

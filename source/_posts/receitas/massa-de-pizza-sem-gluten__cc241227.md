@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de polvilho doce
-- 1 e 1/2 xícara de chá de farinha de arroz (ou creme de arroz)
+- 1 e ½ xícara de chá de polvilho doce
+- 1 e ½ xícara de chá de farinha de arroz (ou creme de arroz)
 - 2 colheres de chá de açúcar
 - 1 colher de chá de sal
 - 180 ml de água morna

@@ -33,11 +33,11 @@ flags: []
 
 - 700 gramas de batata-doce cortada e cozida
 - 700 gramas de frango cozido e desfiado
-- 1/2 cebola grande picada finamente
+- ½ cebola grande picada finamente
 - Salsinha picada a gosto
 - Sal e pimenta a gosto
 - 1 ovo
-- 1/2 xícara de chá de leite
+- ½ xícara de chá de leite
 - Farinha de rosca para empanar
 - --
 

@@ -31,11 +31,11 @@ flags: []
 
 - 1 kg de tomate maduro
 - 1 cebola média (250 gramas)
-- 1/2 beterraba (120 gramas)
+- ½ beterraba (120 gramas)
 - 2 dentes de alho médios
-- 1/2 cenoura média (120 gramas)
+- ½ cenoura média (120 gramas)
 - 2 dentes de alho triturados
-- 1/4 de cebola média triturada
+- ¼ de cebola média triturada
 - Azeite a gosto
 - 2 colheres de sopa de manjericão (ou a gosto)
 - 2 colheres de sopa de coentro (ou a gosto)

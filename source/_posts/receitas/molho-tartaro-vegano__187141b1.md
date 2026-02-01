@@ -32,13 +32,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de sementes de girassol cruas e sem casca
-- 1/3 xícara de chá de água
-- 1/4 xícara de chá de azeite ou óleo
+- ½ xícara de chá de sementes de girassol cruas e sem casca
+- ⅓ xícara de chá de água
+- ¼ xícara de chá de azeite ou óleo
 - Suco de 1 limão pequeno
 - 1 colher de sopa de mostarda
-- 1/2 colher de chá de molho inglês
-- 1/2 colher de chá de orégano seco
+- ½ colher de chá de molho inglês
+- ½ colher de chá de orégano seco
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 2 colheres de sopa de picles em cubinhos

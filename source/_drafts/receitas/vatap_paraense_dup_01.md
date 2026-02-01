@@ -35,7 +35,7 @@ flags: []
 - Sal a gosto
 - 1 pitada de colorau
 - 200 ml de leite de coco
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de trigo
 - 600 ml de água para bater a farinha
 - Em outra panela, aqueça o azeite de dendê e o óleo, e refogue a cebola até murchar. Adicione as pimentas picadas, o camarão seco dessalgado e o colorau. Refogue por uns 5 minutos;
 - Enquanto isso, bata a farinha de trigo e a água no liquidificador. Essa mistura é que vai dar a textura cremosa ao prato;

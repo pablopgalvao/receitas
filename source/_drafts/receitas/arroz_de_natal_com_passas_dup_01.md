@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícaras de chá de arroz branco cozido (600 gramas)
-- 1/3 de xícara de chá de uvas-passas brancas (65 gramas)
+- ⅓ de xícara de chá de uvas-passas brancas (65 gramas)
 - 1 colher de chá de manteiga (10 gramas)
 - Em uma frigideira, derreta a manteiga em fogo baixo. Adicione as passas com o caldo de limão e mexa por 2 minutos, apenas para reduzir o excesso de líquido;
 - Sirva em seguida com carnes ou saladas!

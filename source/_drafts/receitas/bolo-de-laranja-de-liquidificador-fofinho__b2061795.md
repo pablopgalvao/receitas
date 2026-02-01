@@ -33,8 +33,8 @@ flags: []
 - 3 ovos
 - 2 laranjas pequenas
 - 1 xícara de chá de açúcar (215 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
-- 1 e 1/2 xícara de chá de farinha de trigo (210 gramas)
+- ½ xícara de chá de óleo (120 ml)
+- 1 e ½ xícara de chá de farinha de trigo (210 gramas)
 - 1 pitada de sal
 - 1 colher de sopa de fermento em pó
 - Óleo para untar a forma

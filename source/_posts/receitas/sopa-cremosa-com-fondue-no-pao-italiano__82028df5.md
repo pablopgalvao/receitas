@@ -36,7 +36,7 @@ flags: []
 - 2 dentes de alho
 - 2 folhas de louro
 - 1 cebola média (280 gramas)
-- 1/2 talo de salsão (70 gramas)
+- ½ talo de salsão (70 gramas)
 - 1,5 litro de caldo de frango ou legumes
 - 1 pacote de sopa de cebola com bacon
 - 5 colheres de sopa de cheiro-verde (salsinha e cebolinha picadas)

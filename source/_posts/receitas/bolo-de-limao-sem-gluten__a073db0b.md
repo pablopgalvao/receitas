@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos (gemas e claras separadas)
-- 3/4 xícara de chá de açúcar demerara
-- 1/2 xícara de chá de óleo da sua preferência
-- 1/2 xícara de chá de leite desnatado
-- 1/4 xícara de chá de suco de limão
-- 1 e 1/2 xícara de chá de arroz
-- 1/2 xícara de chá de polvilho doce
+- ¾ xícara de chá de açúcar demerara
+- ½ xícara de chá de óleo da sua preferência
+- ½ xícara de chá de leite desnatado
+- ¼ xícara de chá de suco de limão
+- 1 e ½ xícara de chá de arroz
+- ½ xícara de chá de polvilho doce
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

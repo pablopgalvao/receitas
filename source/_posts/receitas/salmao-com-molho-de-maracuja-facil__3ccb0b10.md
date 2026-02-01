@@ -36,7 +36,7 @@ flags: []
 - 1 limão
 - 2 maracujás
 - 120 ml de suco de maracujá concentrado
-- 1 e 1/2 colher de sopa de açúcar
+- 1 e ½ colher de sopa de açúcar
 - 2 colheres de chá de amido de milho
 - --
 

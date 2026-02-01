@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 abacaxi grande
-- 3/4 de xícara de chá de açúcar (150 gramas)
-- 3/4 de xícara de chá de água (180 ml)
+- ¾ de xícara de chá de açúcar (150 gramas)
+- ¾ de xícara de chá de água (180 ml)
 - --
 
 ---

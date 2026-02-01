@@ -38,7 +38,7 @@ flags: []
 - 1 tomate grande
 - 1 colher de sopa de banha de porco
 - 1 colher de chá de sal
-- 1/8 de colher de chá de pimenta-do-reino
+- ⅛ de colher de chá de pimenta-do-reino
 - 1 colher de chá de páprica doce
 - 1 colher de chá de cúrcuma
 - --

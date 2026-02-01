@@ -32,16 +32,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 berinjela média
-- 1/2 xícara de chá de proteína de soja (50 gramas)
+- ½ xícara de chá de proteína de soja (50 gramas)
 - Suco de 1 limão
 - 1 dente de alho
-- 1/2 cebola pequena
+- ½ cebola pequena
 - 3 colheres de sopa de creme de ricota (130 gramas)
 - 1 tomate pequeno
 - 2 fatias de mussarela
 - Azeite de oliva a gosto
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de páprica defumada (ou a gosto)
 - Orégano a gosto para finalizar
 - --

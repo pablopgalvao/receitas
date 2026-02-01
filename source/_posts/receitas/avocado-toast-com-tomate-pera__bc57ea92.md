@@ -39,7 +39,7 @@ flags: []
 - Sal a gosto
 - Páprica a gosto
 - Pimenta-calabresa a gosto
-- 1/2 abacate
+- ½ abacate
 - Vinagre ou suco de limão a gosto
 - 1 fatia grossa de pão
 - Cebolinha picada a gosto

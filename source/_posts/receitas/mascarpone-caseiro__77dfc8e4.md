@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de creme de leite fresco
-- 3 colheres de sopa de suco de limão coado (cerca de 1/2 limão)
+- 3 colheres de sopa de suco de limão coado (cerca de ½ limão)
 - --
 
 ---

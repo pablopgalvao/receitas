@@ -30,11 +30,11 @@ flags: []
 
 - 4 bananas maduras médias
 - 3 ovos inteiros
-- 1/3 de xícara de chá de óleo (80 ml)
+- ⅓ de xícara de chá de óleo (80 ml)
 - 1 xícara de chá de açúcar mascavo (200 gramas)
 - 1 colher de chá de canela em pó
 - 2 xícaras de chá de aveia em flocos finos (150 gramas)
-- 1/3 de xícara de chá de água (80 ml)
+- ⅓ de xícara de chá de água (80 ml)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

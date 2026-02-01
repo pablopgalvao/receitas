@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 barra de chocolate meio amargo (90 gramas)
-- 1/2 barra de chocolate ao leite (90 gramas)
+- ½ barra de chocolate meio amargo (90 gramas)
+- ½ barra de chocolate ao leite (90 gramas)
 - 1 caixa de leite condensado (200 gramas)
 - --
 

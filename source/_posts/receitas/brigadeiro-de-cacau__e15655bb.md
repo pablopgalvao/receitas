@@ -31,7 +31,7 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 1 lata de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga
-- 1 colher e 1/2 de cacau 100%
+- 1 colher e ½ de cacau 100%
 - --
 
 ---

@@ -31,7 +31,7 @@ flags: []
 - 1 caixinha de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga (ou margarina)
 - 3 colheres de sopa de leite em pó (opcional)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - 1 caixinha de morangos (cerca de 250 gramas)
 - --
 

@@ -32,10 +32,10 @@ flags: []
 - 2 potes de iogurte natural sem açúcar (340 gramas)
 - 1 xícara de chá de frango desfiado e temperado (200 gramas)
 - 1 talo de salsão (sem as folhas)
-- 1/2 xícara de chá de uvas-passas claras (40 gramas)
+- ½ xícara de chá de uvas-passas claras (40 gramas)
 - 2 colheres de sopa de azeite
 - 1 colher de chá de mostarda de dijon
-- 1/4 de xícara de chá de nozes picadas e tostadas (30 gramas)
+- ¼ de xícara de chá de nozes picadas e tostadas (30 gramas)
 - Sal a gosto
 - Reúna e separe todos os ingredientes necessários sobre a bancada. Rale a cenoura e passe o talo de salsão em um descascador para tirar as fibras. Depois, fatie finamente usando um mandolim ou faca. Pique as folhas de hortelã da forma que desejar e reserve;
 - Incorpore a mostarda de dijon, o azeite e o sal, ajustando conforme sua preferência;

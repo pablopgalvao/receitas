@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de flocos de milho sem açúcar
+- ½ xícara de chá de flocos de milho sem açúcar
 - 3 colheres de sopa de semente de abóbora
 - 1 colher de sopa de semente de gergelim preto
 - 3 colheres de sopa de semente de girassol

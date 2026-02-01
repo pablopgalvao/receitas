@@ -36,10 +36,10 @@ flags: []
 - 2 filés de tilápia
 - Sal e pimenta-do-reino a gosto
 - Lemon pepper a gosto
-- Raspas de 1/2 limão
+- Raspas de ½ limão
 - 1 colher de chá (rasa) de farinha de trigo
 - 2 colheres de chá de manteiga
-- 1/2 xícara de café de alcaparras em conserva picadas grosseiramente
+- ½ xícara de café de alcaparras em conserva picadas grosseiramente
 - Suco de 1 limão
 - 1 colher de chá de água
 - Salsinha a gosto

@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 350 gramas de filé de peito de frango em cubos
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 4 colheres de sopa de azeite
-- 1/2 cebola picada (80 gramas)
-- 1 e 1/2 xícara de chá de arroz arbório (300 gramas)
+- ½ cebola picada (80 gramas)
+- 1 e ½ xícara de chá de arroz arbório (300 gramas)
 - 1 xícara de chá de vinho branco seco (200 ml)
 - 1 tomate picado (160 gramas)
 - 1 colher de chá de páprica picante (ou a gosto)
@@ -44,7 +44,7 @@ flags: []
 - 2 colheres de sopa de azeite
 - 1 de salsão sem as folhas (30 gramas)
 - 1 talo médio de alho-poró (60 gramas)
-- 1/2 cebola descascada (80 gramas)
+- ½ cebola descascada (80 gramas)
 - 1 cenoura descascada (180 gramas)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá (cheia) de sal

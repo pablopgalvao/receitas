@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de proteína de soja (50 gramas)
+- ½ xícara de chá de proteína de soja (50 gramas)
 - 3 colheres de sopa de creme de ricota (130 gramas)
 - Azeite de oliva a gosto
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de páprica defumada (ou a gosto)
 - Orégano a gosto para finalizar
 - Descarte o papel-toalha e, com cuidado para não se queimar, corte a berinjela ao meio no sentido do comprimento. Retire o miolo com a ajuda de uma colher e descarte-o. Reserve as duas metades;

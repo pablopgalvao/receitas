@@ -36,7 +36,7 @@ flags: []
 - 1 xícara de chá de azeitona verde fatiadas
 - 250 gramas de mussarela
 - 500 gramas de maionese
-- 1/2 xícara de chá de cheiro verde
+- ½ xícara de chá de cheiro verde
 - Sal e pimenta-do-reino a gosto
 - --
 

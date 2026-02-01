@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 sachê de maionese (200 gramas)
-- 1/2 xícara de chá de salsinha (ou a gosto)
-- 1/2 xícara de chá de cebolinha (ou a gosto)
+- ½ xícara de chá de salsinha (ou a gosto)
+- ½ xícara de chá de cebolinha (ou a gosto)
 - Sal a gosto
 - No liquidificador, ou mini processador, coloque o alho, a salsinha, a cebolinha e o sal;
 

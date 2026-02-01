@@ -31,7 +31,7 @@ flags: []
 - 3 caixinhas de Bis branco
 - 80 gramas de chocolate meio amargo
 - 1 pacotinho de gelatina em pó sem sabor (12 gramas)
-- 1/2 xícara de chá de água quente
+- ½ xícara de chá de água quente
 - 1 caixinha de leite condensado
 - 1 xícara de chá de caldo de maracujá (o suco da polpa sem as sementes)
 - 2 caixinhas de creme de leite

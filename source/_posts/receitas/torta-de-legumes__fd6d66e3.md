@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola
-- 1/2 berinjela
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
-- 1/2 cenoura
-- 1/4 de alho-poró
+- ½ cebola
+- ½ berinjela
+- ½ pimentão vermelho
+- ½ pimentão amarelo
+- ½ cenoura
+- ¼ de alho-poró
 - 3 colheres de sopa de manteiga derretida
 - 1 xícara de chá de farinha de trigo
 - 1 copo de leite integral

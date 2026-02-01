@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de massa folhada amanteigada congelada
+- ½ pacote de massa folhada amanteigada congelada
 - Creme de avelã a gosto
 - --
 

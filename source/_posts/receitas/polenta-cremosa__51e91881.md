@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de fubá de milho (120 gramas)
+- ¾ de xícara de chá de fubá de milho (120 gramas)
 - 480 ml de caldo de legumes ou frango
 - 6 colheres de sopa de creme de leite fresco ou nata (80 gramas)
 - 2 colheres de sopa de manteiga (50 gramas)
 - 4 colheres de sopa de queijo parmesão ralado (40 gramas)
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de café de pimenta-do-reino (ou a gosto)
+- ¼ de colher de café de pimenta-do-reino (ou a gosto)
 - Molho de tomate a gosto para finalizar
 - --
 

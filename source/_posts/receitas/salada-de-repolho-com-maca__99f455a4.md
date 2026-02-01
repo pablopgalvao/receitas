@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 repolho de tamanho médio (cerca de 500 gramas)
-- 1/2 cebola média ralada
+- ½ repolho de tamanho médio (cerca de 500 gramas)
+- ½ cebola média ralada
 - 1 maçã do tipo fuji ralada (ou do tipo gala)
 - 8 colheres de sopa de maionese
 - 1 colher de sopa de orégano

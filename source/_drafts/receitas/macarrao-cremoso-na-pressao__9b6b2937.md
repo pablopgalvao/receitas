@@ -35,7 +35,7 @@ flags: []
 - 1 cebola média
 - 5 dentes de alho
 - 1 calabresa (150 gramas)
-- 1/2 xícara de chá de bacon (150 gramas)
+- ½ xícara de chá de bacon (150 gramas)
 - 650 gramas de passata de tomate
 - 1 caixinha de creme de leite (200 gramas)
 - 700 ml de água

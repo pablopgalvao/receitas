@@ -34,7 +34,7 @@ flags: []
 - 1 envelope de fermento biológico seco (10 gramas)
 - 2 ovos
 - 1 colher de sopa de açúcar (20 gramas)
-- 1/2 copo americano de óleo (100 ml)
+- ½ copo americano de óleo (100 ml)
 - 5 xícaras de chá de farinha de trigo (700 gramas)
 - 1 colher de chá de sal
 - 1 pacote de queijo parmesão ralado (50 gramas)

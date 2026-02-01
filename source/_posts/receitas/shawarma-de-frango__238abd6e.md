@@ -40,7 +40,7 @@ flags: []
 - 1 colher de chá de zaatar
 - 1 colher de chá de cominho
 - 1 colher de sopa de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 4 pães sírios
 - Azeite para untar
 - 3 colheres de sopa de maionese (ou a gosto)

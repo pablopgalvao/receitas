@@ -35,7 +35,7 @@ flags: []
 - 2 colheres de sopa de chocolate em pó 50% cacau (20 gramas)
 - 3 colheres de sopa de farinha de trigo
 - Sal a gosto
-- 1/2 colher de sopa de fermento em pó
+- ½ colher de sopa de fermento em pó
 - Chocolate em pedaços a gosto
 - 2 colheres de sopa de creme de leite
 - Chocolate em barra a gosto (4 quadradinhos)

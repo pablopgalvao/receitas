@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 latas de tomate pelado ou passata de tomate (500 gramas)
-- 1/2 cebola (30 gramas)
+- ½ cebola (30 gramas)
 - 3 ramos de manjericão
 - 3 colheres de sopa de azeite de oliva
-- 1 e 1/2 colher de chá de sal
-- 1/4 de colher de chá de pimenta-do-reino moída na hora (ou a gosto)
+- 1 e ½ colher de chá de sal
+- ¼ de colher de chá de pimenta-do-reino moída na hora (ou a gosto)
 - 50 gramas de parmesão ralada na hora (ou a gosto)
 - --
 

@@ -30,11 +30,11 @@ flags: []
 
 - 2 bananas-nanicas maduras
 - 1 ovo
-- 1/2 xícara de chá de leite integral
+- ½ xícara de chá de leite integral
 - 1 colher de chá de essência de baunilha
-- 1/3 de xícara de chá de leite condensado
-- 1/2 colher de chá de canela em pó (opcional)
-- 1/4 de xícara de chá de gotas de chocolate ao leite
+- ⅓ de xícara de chá de leite condensado
+- ½ colher de chá de canela em pó (opcional)
+- ¼ de xícara de chá de gotas de chocolate ao leite
 - --
 
 ---

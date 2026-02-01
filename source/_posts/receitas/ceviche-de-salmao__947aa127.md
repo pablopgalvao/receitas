@@ -33,7 +33,7 @@ flags: []
 
 - 500 gramas de filé de salmão fresco
 - 1 cebola roxa
-- 1/2 pimenta-dedo-de-moça
+- ½ pimenta-dedo-de-moça
 - 4 colheres de azeite de oliva extravirgem
 - 1 colher de sopa de shoyu
 - 3 a 4 limões

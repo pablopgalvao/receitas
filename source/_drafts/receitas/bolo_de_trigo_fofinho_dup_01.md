@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de trigo (210 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (210 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
-- 2/3 xícara de chá de leite (160 ml)
-- 1/3 xícara de chá + 2 colheres de chá de óleo (100 ml)
+- ⅔ xícara de chá de leite (160 ml)
+- ⅓ xícara de chá + 2 colheres de chá de óleo (100 ml)
 - 1 colher de sopa de fermento em pó
 - 3 ovos médios
 - 1 colher de sopa de essência de baunilha (15 ml)

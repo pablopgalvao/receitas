@@ -34,7 +34,7 @@ flags: []
 - 3 colheres de sopa de mostarda
 - 2 colheres de chá de mel
 - 3 colheres de azeite
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - --

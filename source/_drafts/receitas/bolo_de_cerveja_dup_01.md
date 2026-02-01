@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de açúcar (250 gramas)
+- 1 e ½ xícara de chá de açúcar (250 gramas)
 - 1 colher de sopa de manteiga (15 gramas)
 - 1 xícara de chá de cerveja preta (240 ml)
 - 1 xícara de chá de farinha de trigo (120 gramas)
-- 1/2 xícara de chá de farinha de rosca (60 gramas)
+- ½ xícara de chá de farinha de rosca (60 gramas)
 - 1 colher de chá de canela (ou a gosto)
 - 1 colher de sopa de fermento em pó (12 gramas)
 - Organize seus ingredientes na bancada. Unte uma forma redonda com furo central (20cm) e polvilhe farinha de trigo. Preaqueça o forno a 180°C;

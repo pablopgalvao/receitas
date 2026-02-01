@@ -33,7 +33,7 @@ flags: []
 - 10 unidades de paçoca rolha
 - 180 ml de manteiga derretida
 - 2 latas de leite condensado (395 gramas cada)
-- 1/2 xícara de chá de pasta de amendoim (150 gramas)
+- ½ xícara de chá de pasta de amendoim (150 gramas)
 - 1 caixa de creme de leite (200 gramas)
 - Paçocas rolha a gosto para decorar
 - --

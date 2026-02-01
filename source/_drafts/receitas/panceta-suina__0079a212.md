@@ -40,8 +40,8 @@ flags: []
 - 1 colher de café de gengibre em pó
 - 1 colher de sopa de molho de pimenta doce
 - 1 colher de chá de molho shoyu
-- 3/4 de xícara de água (200 ml)
-- 1/2 colher de sopa de óleo
+- ¾ de xícara de água (200 ml)
+- ½ colher de sopa de óleo
 - Sal a gosto
 - Cheiro-verde a gosto
 - --

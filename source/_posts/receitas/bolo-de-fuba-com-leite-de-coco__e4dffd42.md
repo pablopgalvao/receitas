@@ -31,9 +31,9 @@ flags: []
 - 3 ovos médios
 - 2 colheres de sopa de manteiga
 - 1 lata de leite condensado (395 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 1 xícara de chá de leite de coco (240 ml)
-- 2 e 1/2 xícaras de chá de fubá (300 gramas)
+- 2 e ½ xícaras de chá de fubá (300 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

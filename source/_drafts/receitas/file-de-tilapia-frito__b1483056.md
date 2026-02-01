@@ -36,7 +36,7 @@ flags: []
 - 1 xícara de chá de farinha de trigo
 - Suco de 1 limão
 - 3 ovos
-- 1/2 colher de chá de alho ralado
+- ½ colher de chá de alho ralado
 - 250 gramas de farinha panko ou de rosca
 - Cheiro-verde a gosto
 - Sal a gosto

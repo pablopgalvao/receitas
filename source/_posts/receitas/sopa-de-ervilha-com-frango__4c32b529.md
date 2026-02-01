@@ -28,14 +28,14 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de ervilha (200 gramas)
+- ½ pacote de ervilha (200 gramas)
 - 500 gramas de peito de frango
 - 2 colheres de sopa de azeite (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 180 gramas de cebola
 - 1 colher de sopa de alho (ou a gosto)
-- 1/4 de colher de café de cominho (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ¼ de colher de café de cominho (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 150 gramas de bacon
 - --
 

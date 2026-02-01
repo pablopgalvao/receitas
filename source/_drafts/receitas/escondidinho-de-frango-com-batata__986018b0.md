@@ -36,8 +36,8 @@ flags: []
 - 2 colheres de sopa de extrato de tomate (40 gramas)
 - 3 colheres de sopa de coentro ou a gosto
 - 1 colher de chá de sal ou a gosto
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
-- 1/2 colher de chá de páprica picante ou a gosto
+- ½ colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de páprica picante ou a gosto
 - 1 colher de chá de chimichurri ou a gosto
 - 1 colher de chá de colorau a gosto
 - 360 gramas de mussarela para gratinar

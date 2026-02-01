@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - Suco de 2 laranjas
 - --
 

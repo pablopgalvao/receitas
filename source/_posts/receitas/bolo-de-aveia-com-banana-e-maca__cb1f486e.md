@@ -30,8 +30,8 @@ flags: []
 
 - 4 bananas médias (480 gramas)
 - 3 maçãs médias (350 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
-- 1 e 1/2 xícara de chá de açúcar mascavo (300 gramas)
+- ½ xícara de chá de óleo (120 ml)
+- 1 e ½ xícara de chá de açúcar mascavo (300 gramas)
 - 2 xícaras de chá de farinha de aveia ou em flocos finos (200 gramas)
 - 4 ovos médios (50 gramas cada)
 - 1 colher de sobremesa de canela (opcional)

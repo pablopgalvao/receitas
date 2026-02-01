@@ -30,7 +30,7 @@ flags: []
 
 - 800 gramas de filé de peito de frango
 - 1,5 litro de água para cozinhar o frango
-- 1/4 de xícara de chá de óleo ou azeite (30 ml)
+- ¼ de xícara de chá de óleo ou azeite (30 ml)
 - 1 xícara de chá de cebola picada (170 gramas)
 - 2 colheres de sopa de alho picado
 - 1 xícara de chá de salsão fatiado (120 gramas)
@@ -41,13 +41,13 @@ flags: []
 - 1 maçã vermelha ralada
 - 1 maçã verde ralada
 - 1 limão espremido para as maçãs raladas
-- 1/2 xícara de chá de uvas-passas (100 gramas)
+- ½ xícara de chá de uvas-passas (100 gramas)
 - 1 xícara de chá de maionese (200 gramas)
 - 1 caixa de creme de leite (200 gramas)
 - 1 colher de sopa rasa de sal
-- 1/2 colher de chá rasa de pimenta-do-reino (ou a gosto)
-- 1/4 de xícara de chá de salsinha picada (ou a gosto)
-- 1/4 de xícara de chá de cebolinha picada (ou a gosto)
+- ½ colher de chá rasa de pimenta-do-reino (ou a gosto)
+- ¼ de xícara de chá de salsinha picada (ou a gosto)
+- ¼ de xícara de chá de cebolinha picada (ou a gosto)
 - 100 gramas de batata palha
 - --
 

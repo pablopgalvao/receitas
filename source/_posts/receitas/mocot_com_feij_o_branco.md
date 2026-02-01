@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1,2 kg de mocotó limpo
-- 1/2 xícara de chá de vinagre (120 ml)
+- ½ xícara de chá de vinagre (120 ml)
 - 200 gramas de bacon
 - 200 gramas de linguiça calabresa
 - 250 gramas de feijão-branco

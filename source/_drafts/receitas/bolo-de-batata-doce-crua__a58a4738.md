@@ -30,10 +30,10 @@ flags: []
 
 - 200 gramas de batata-doce
 - 3 ovos
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 150 ml de leite
 - 1 xícara de chá de açúcar
-- 1 e 1/2 xícara de chá de farinha
+- 1 e ½ xícara de chá de farinha
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

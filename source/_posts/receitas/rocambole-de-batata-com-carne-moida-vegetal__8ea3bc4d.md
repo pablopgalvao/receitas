@@ -34,8 +34,8 @@ flags: []
 - 1 cebola picada
 - 2 dentes de alho picados
 - 1 bandeja de tomate-cereja picado
-- 1/2 xícara de chá de extrato de tomate
-- 1/2 xícara de chá de água
+- ½ xícara de chá de extrato de tomate
+- ½ xícara de chá de água
 - 250 gramas de carne moída vegetal
 - Sal a gosto
 - Pimenta-do-reino a gosto

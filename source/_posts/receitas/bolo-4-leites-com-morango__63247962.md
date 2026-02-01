@@ -31,8 +31,8 @@ flags: []
 
 - 3 ovos médios (180 gramas)
 - 1 xícara de chá de açúcar refinado (200 gramas)
-- 1 e 1/2 xícara de farinha de trigo (210 gramas)
-- 1/4 de xícara de chá de óleo (60 ml)
+- 1 e ½ xícara de farinha de trigo (210 gramas)
+- ¼ de xícara de chá de óleo (60 ml)
 - 100 ml de água (em temperatura ambiente)
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - Manteiga para untar

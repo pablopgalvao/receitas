@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1 e 1/2 xícara de chá de açúcar
-- 1/2 xícara de chá de óleo
+- 1 e ½ xícara de chá de açúcar
+- ½ xícara de chá de óleo
 - 170 gramas de iogurte natural
 - 2 xícaras de chá de farinha de arroz
 - 1 pitada de sal

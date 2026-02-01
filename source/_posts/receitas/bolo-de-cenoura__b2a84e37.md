@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de chocolate meio amargo
-- 1/2 xícara de chá de leite condensado (120 ml)
-- 1/2 xícara de chá de creme de leite (120 ml)
+- ½ xícara de chá de leite condensado (120 ml)
+- ½ xícara de chá de creme de leite (120 ml)
 - --
 
 ---

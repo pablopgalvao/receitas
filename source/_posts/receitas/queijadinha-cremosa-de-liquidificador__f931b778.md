@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos inteiros médios
-- 1 e 1/2 xícara de chá de açúcar (250 gramas)
+- 1 e ½ xícara de chá de açúcar (250 gramas)
 - 200 ml de leite integral
 - 200 ml de leite de coco
 - 50 gramas de queijo parmesão ralado

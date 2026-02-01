@@ -30,7 +30,7 @@ flags: []
 
 - 750 gramas de mandioca fresca
 - 3 ovos
-- 3/4 xícara de chá de açúcar
+- ¾ xícara de chá de açúcar
 - 1 vidro de leite de coco (200 ml)
 - 50 gramas de coco ralado
 - 2 colheres de sopa de manteiga derretida

@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de leite (200 ml)
+- ¾ de xícara de chá de leite (200 ml)
 - 1 dente de alho
 - 450 ml de óleo de soja
 - 1 pitada de sal
-- 1/2 xícara de chá de cebolinha (ou a gosto)
+- ½ xícara de chá de cebolinha (ou a gosto)
 - --
 
 ---

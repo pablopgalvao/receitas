@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 latas de sardinha
-- 1/2 cebola média
+- ½ cebola média
 - 2 tomates pequenos
 - 1 pimentão verde pequeno
 - 100 gramas de azeitonas picadas
-- 1/2 lata de milho
-- 1/2 lata de ervilha
+- ½ lata de milho
+- ½ lata de ervilha
 - 1 colher de sopa de cheiro-verde picado
 - --
 

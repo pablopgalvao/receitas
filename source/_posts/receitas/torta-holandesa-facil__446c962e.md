@@ -34,7 +34,7 @@ flags: []
 - 4 gemas
 - 1 colher de chá de essência de baunilha
 - 400 gramas de manteiga sem sal (em temperatura ambiente)
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - 2 pacotes de bolacha Calipso (ou outra similar de sua preferência)
 - 300 gramas de chocolate meio amargo
 - 1 caixinha de creme de leite (200 gramas)

@@ -38,7 +38,7 @@ flags: []
 - 1 colher de chá de colorau
 - 1 colher de chá de páprica
 - 1 colher de chá de tempero baiano
-- 1/2 colher de sopa de pimenta calabresa (ou a gosto)
+- ½ colher de sopa de pimenta calabresa (ou a gosto)
 - 1 colher de sopa de sal (ou a gosto)
 - 3 colheres de sopa de cheiro-verde picado (ou a gosto)
 - 600 ml de água para cozinhar

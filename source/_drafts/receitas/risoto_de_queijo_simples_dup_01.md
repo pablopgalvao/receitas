@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz arbóreo
+- 1 e ½ xícara de chá de arroz arbóreo
 - 3 xícaras de chá de água fervente
 - Alho a gosto
 - Azeite a gosto

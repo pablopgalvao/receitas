@@ -31,11 +31,11 @@ flags: []
 
 - 2 fatias de pão de sua preferência (usamos multigrãos)
 - 180 gramas de iogurte natural
-- 1/2 tomate
+- ½ tomate
 - 1 lata de atum sólido (130 gramas)
 - 2 folhas de alface
-- 1/2 cenoura
-- Raspas de 1/2 limão-siciliano
+- ½ cenoura
+- Raspas de ½ limão-siciliano
 - 1 colher de sopa de manjericão ou manjerona (usamos manjericão)
 - 1 pitada de pimenta-do-reino (ou a gosto)
 - 1 pitada de sal (ou a gosto)

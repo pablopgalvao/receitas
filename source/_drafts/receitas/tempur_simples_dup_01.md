@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 1 xícara de chá de farinha de trigo (135 gramas)
 - Páprica doce a gosto
 - Sal a gosto

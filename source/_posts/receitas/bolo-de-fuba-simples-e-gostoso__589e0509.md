@@ -31,11 +31,11 @@ flags: []
 - 1 colher de sopa de manteiga sem sal
 - 1 colher de sopa mais 1 xícara de chá de farinha de trigo
 - 3 ovos
-- 1 e 1/2 xícara de chá de açúcar
-- 3/4 xícara de chá de óleo vegetal
-- 3/4 xícara de chá de leite integral
-- 3/4 xícara de chá de fubá
-- 1/2 xícara de chá de amido de milho
+- 1 e ½ xícara de chá de açúcar
+- ¾ xícara de chá de óleo vegetal
+- ¾ xícara de chá de leite integral
+- ¾ xícara de chá de fubá
+- ½ xícara de chá de amido de milho
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

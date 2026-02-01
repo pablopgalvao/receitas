@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de farinha de trigo integral (420 gramas)
-- 1 e 1/3 de xícara de chá de água (320 ml)
+- 1 e ⅓ de xícara de chá de água (320 ml)
 - 2 colheres de chá de fermento biológico seco (8 gramas)
 - 2 colheres de sopa de açúcar mascavo (40 gramas)
-- 1 e 1/2 colher de chá de sal (7 gramas)
+- 1 e ½ colher de chá de sal (7 gramas)
 - 3 colheres de sopa de óleo vegetal (45 ml)
 - --
 

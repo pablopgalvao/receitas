@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas de batata crua
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de páprica defumada
+- ½ colher de chá de sal
+- ½ colher de chá de páprica defumada
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de cheiro-verde
-- 1/2 colher de sopa de azeite de oliva (para cada lado da fritura)
+- ½ colher de sopa de azeite de oliva (para cada lado da fritura)
 - --
 
 ---
@@ -47,8 +47,8 @@ flags: []
 4. Adicione os cogumelos, o sal e a páprica defumada. Cozinhe por 1 minuto em fogo alto. Junte a água, misture e cozinhe por mais 1 minuto. Reserve;
 5. Coloque a batata ralada em uma peneira e pressione com as mãos para retirar o excesso de água;
 6. Transfira a batata para uma tigela, adicione o sal, a páprica, a pimenta-do-reino e o cheiro-verde. Misture bem;
-7. Aqueça 1/2 colher de sopa de azeite de oliva em uma frigideira antiaderente pequena, em fogo baixo. Faça uma camada uniforme com metade da batata, pressionando com as mãos até formar uma base compacta;
+7. Aqueça ½ colher de sopa de azeite de oliva em uma frigideira antiaderente pequena, em fogo baixo. Faça uma camada uniforme com metade da batata, pressionando com as mãos até formar uma base compacta;
 8. Espalhe todo o recheio sobre a base de batata;
 9. Cubra com o restante da batata, pressionando levemente para formar uma tampa. Com uma espátula, arredonde as laterais e deixe fritar por cerca de 4 minutos, até dourar;
-10. Coloque um prato sobre a frigideira e vire de uma vez para dourar o outro lado. Acrescente mais 1/2 colher de sopa de azeite e retorne a batata para a frigideira;
+10. Coloque um prato sobre a frigideira e vire de uma vez para dourar o outro lado. Acrescente mais ½ colher de sopa de azeite e retorne a batata para a frigideira;
 11. Deixe dourar por mais 5 minutos e retire da frigideira. Sirva quente!

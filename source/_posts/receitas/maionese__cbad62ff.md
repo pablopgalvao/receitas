@@ -31,7 +31,7 @@ flags: []
 
 - 2 gemas de ovo em temperatura ambiente
 - 1 colher de sopa de vinagre
-- 1 e 1/2 colher de chá de mostarda de Dijon
+- 1 e ½ colher de chá de mostarda de Dijon
 - 200 ml de óleo girassol (ou quanto bastar)
 - Sal a gosto
 - --

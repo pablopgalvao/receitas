@@ -29,14 +29,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/2 xícara de chá de açúcar demerara
-- 1/4 xícara de chá de óleo de coco
-- 1/2 xícara de chá de leite de coco
-- 1/4 xícara de chá de coco ralado
-- 1/4 xícara de cháde amido de milho
-- 3/4 xícara de chá de farinha de trigo
-- 1/2 colher de chá de sopa de fermento químico em pó
-- 1/2 xícara de chá de mirtilos frescos
+- ½ xícara de chá de açúcar demerara
+- ¼ xícara de chá de óleo de coco
+- ½ xícara de chá de leite de coco
+- ¼ xícara de chá de coco ralado
+- ¼ xícara de cháde amido de milho
+- ¾ xícara de chá de farinha de trigo
+- ½ colher de chá de sopa de fermento químico em pó
+- ½ xícara de chá de mirtilos frescos
 - --
 
 ---

@@ -34,7 +34,7 @@ flags: []
 - 1 xícara de chá de mostarda
 - 5 colheres de sopa de mel
 - 1 colher de chá de ervas finas
-- 1/4 xícara de chá de azeite
+- ¼ xícara de chá de azeite
 - Sal a gosto
 - Salsinha a gosto
 - Pimenta-do-reino a gosto

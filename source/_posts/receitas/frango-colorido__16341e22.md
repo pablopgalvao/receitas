@@ -34,9 +34,9 @@ flags: []
 - Sal e pimenta a gosto
 - 1 dente de alho picado
 - 3 colheres de sopa de óleo
-- 1/2 xícara de chá de pimentão vermelho em cubinhos
-- 1/2 xícara de chá de pimentão verde em cubinhos
-- 1/2 xícara de chá de pimentão amarelo em cubinhos
+- ½ xícara de chá de pimentão vermelho em cubinhos
+- ½ xícara de chá de pimentão verde em cubinhos
+- ½ xícara de chá de pimentão amarelo em cubinhos
 - 2 tomates sem sementes picados
 - Cebolinha picada a gosto
 - --

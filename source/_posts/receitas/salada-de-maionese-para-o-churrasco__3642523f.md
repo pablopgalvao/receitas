@@ -35,11 +35,11 @@ flags: []
 - 2 cenouras médias
 - 400 gramas de vagem
 - 4 ovos
-- 1/2 cebola média
+- ½ cebola média
 - 1 maço de cheiro-verde
 - 270 gramas de palmito (1 vidro drenado)
 - 10 azeitonas
-- 1 e 1/2 colher de chá de maionese
+- 1 e ½ colher de chá de maionese
 - Fio de azeite
 - Suco de 1 limão
 - Sal a gosto

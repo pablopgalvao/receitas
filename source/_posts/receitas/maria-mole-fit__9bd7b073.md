@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de água quente (240 ml)
-- 1/2 xícara de chá de leite de coco em pó
+- ½ xícara de chá de leite de coco em pó
 - 1 colher de chá de adoçante natural
 - 1 colher de sopa de gelatina em pó (incolor e sem sabor)
-- 1/2 xícara de chá de coco seco ralado (ou a gosto)
+- ½ xícara de chá de coco seco ralado (ou a gosto)
 - --
 
 ---

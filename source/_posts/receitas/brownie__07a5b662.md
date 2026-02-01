@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1 e 1/2 xícara de chá de açúcar refinado
+- 1 e ½ xícara de chá de açúcar refinado
 - 200 gramas de chocolate meio amargo
 - 3 colheres de sopa de manteiga (ou margarina)
-- 1/2 xícara de chá de chocolate em pó (peneirado)
+- ½ xícara de chá de chocolate em pó (peneirado)
 - 1 xícara de chá de farinha de trigo sem fermento (peneirada)
 - 1 pitadinha de sal
 - --

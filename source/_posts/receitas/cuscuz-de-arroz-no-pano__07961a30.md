@@ -31,7 +31,7 @@ flags: []
 
 - 3 xícaras de flocão de arroz (390 gramas)
 - 1 colher de chá de sal (ou a gosto)
-- 1 e 1/2 xícara de água para hidratar ou cuscuz (360 ml)
+- 1 e ½ xícara de água para hidratar ou cuscuz (360 ml)
 - Água para o banho-maria
 - --
 

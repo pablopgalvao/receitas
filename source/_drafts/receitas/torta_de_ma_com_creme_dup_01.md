@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de trigo
 - 4 colheres bem cheias de sopa de manteiga ou margarina gelada
 - 2 colheres cheias de sopa de açúcar
 - 3 xícaras de chá de leite

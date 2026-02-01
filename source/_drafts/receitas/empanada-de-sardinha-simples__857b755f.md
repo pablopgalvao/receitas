@@ -36,10 +36,10 @@ flags: []
 - 1 cebola
 - 1 pimentão
 - 2 colheres de sopa de cheiro-verde
-- 1/4 colher de chá de louro em pó
-- 1/4 colher de chá de pimenta-caiena
-- 1/4 colher de chá de cominho em pó
-- 1/4 colher de chá de pimenta-do-reino moída na hora
+- ¼ colher de chá de louro em pó
+- ¼ colher de chá de pimenta-caiena
+- ¼ colher de chá de cominho em pó
+- ¼ colher de chá de pimenta-do-reino moída na hora
 - --
 
 ---

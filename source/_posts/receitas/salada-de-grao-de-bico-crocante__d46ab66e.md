@@ -34,11 +34,11 @@ flags: []
 - 3 colheres de sopa de azeite de oliva
 - 1 pepino grande (300 gramas)
 - 4 folhas grandes de alface-americana (75 gramas)
-- 1/2 maço de rúcula (75 gramas)
+- ½ maço de rúcula (75 gramas)
 - 180 gramas de tomatinho-cereja
 - 1 colher de sopa de suco de limão
-- 1/2 colher de sopa de sal
-- 1/4 de colher de chá de pimenta-do-reino
+- ½ colher de sopa de sal
+- ¼ de colher de chá de pimenta-do-reino
 - --
 
 ---

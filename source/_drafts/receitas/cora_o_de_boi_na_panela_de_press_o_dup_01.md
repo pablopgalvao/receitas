@@ -35,7 +35,7 @@ flags: []
 - 1 colher de sopa de pimenta dedo-de-moça
 - 1 colher de café de tempero baiano
 - 1 colher de café de colorau sal a gosto
-- 1 e 1/2 colher sopa cheiro-verde a gosto
+- 1 e ½ colher sopa cheiro-verde a gosto
 - Coloque o óleo na panela e junte o alho com a cebola. Mexa bem até eles ficarem dourados;
 - Coloque a carne picada em cubos e tempere com tempero baiano, colorau e o sal. Misture e acrescente água até quase cobrir;
 

@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de abóbora cozida
+- ½ xícara de chá de abóbora cozida
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de cebola ralada
 - 2 colheres de sopa de farinha de trigo
-- 3/4 de xícara de chá de leite
+- ¾ de xícara de chá de leite
 - Sal a gosto
 - 3 ovos (gemas e claras separadas)
 - 1 colher de sobremesa de queijo ralado

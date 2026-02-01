@@ -32,9 +32,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote do macarrão de sua preferência (250 gramas)
+- ½ pacote do macarrão de sua preferência (250 gramas)
 - 2,5 litros de água
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 1 copo de requeijão (200 gramas)
 - Cebolinha e salsinha a gosto

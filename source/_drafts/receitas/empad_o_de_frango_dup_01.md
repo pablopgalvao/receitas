@@ -39,8 +39,8 @@ flags: []
 - 1 kg de peito de frango cozido e desfiado
 - 1 colher de sopa de azeite
 - Cheiro-verde a gosto picado
-- 1/2 lata de milho-verde (85 gramas)
-- 1/2 xícara de chá de molho de tomate
+- ½ lata de milho-verde (85 gramas)
+- ½ xícara de chá de molho de tomate
 - 1 colher de sopa de farinha de trigo
 - Azeitonas a gosto picadas
 - Sal a gosto

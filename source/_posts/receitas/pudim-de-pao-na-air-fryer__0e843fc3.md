@@ -30,10 +30,10 @@ flags: []
 
 - 2 ovos inteiros
 - 330 ml de leite integral
-- 2/3 da caixinha de leite condensado (260 gramas)
+- ⅔ da caixinha de leite condensado (260 gramas)
 - 2 pães franceses amanhecidos
-- 2/3 de xícara de chá de açúcar para a calda (130 gramas)
-- 1/3 de xícara de chá de água para a calda (80 ml)
+- ⅔ de xícara de chá de açúcar para a calda (130 gramas)
+- ⅓ de xícara de chá de água para a calda (80 ml)
 - --
 
 ---

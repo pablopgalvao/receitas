@@ -33,9 +33,9 @@ flags: []
 - 500 gramas de carne moída (alcatra ou patinho)
 - 1 cebola grande
 - 2 colheres de sopa de salsinha
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 colher de sobremesa de pimenta-síria
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - Azeite para pincelar
 - --
 

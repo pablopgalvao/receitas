@@ -38,7 +38,7 @@ flags: []
 - 1 colher de sopa de molho shoyu
 - 200 gramas de arroz cozido (de preferência gohan, mas pode ser arroz branco normal)
 - 10 camarões médios limpos (100 gramas)
-- 1/2 cenoura (50 gramas)
+- ½ cenoura (50 gramas)
 - 50 gramas de ervilha
 - 7 vagens (50 gramas)
 - Sal a gosto

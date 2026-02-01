@@ -39,8 +39,8 @@ flags: []
 - 1 litro de água
 - 1 kg de batata bolinhas pré-cozidas
 - 1 xícara de chá de azeite (120 ml)
-- 2 e 1/2 colher de sopa de sal
-- 1/2 colher de sopa de pimenta-do-reino
+- 2 e ½ colher de sopa de sal
+- ½ colher de sopa de pimenta-do-reino
 - --
 
 ---

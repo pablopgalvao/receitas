@@ -36,7 +36,7 @@ flags: []
 - 3 colheres de sopa de azeite
 - 1 cebola descascada
 - 1 pimentão amarelo
-- 1/2 pimentão verde
+- ½ pimentão verde
 - 1 tomate
 - 1 vidro de leite de coco (200 ml)
 - 1 colher de sopa (cheia) de extrato de tomate

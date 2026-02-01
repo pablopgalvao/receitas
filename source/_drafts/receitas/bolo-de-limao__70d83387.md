@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de leite condensado (395 gramas)
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Raspas de 1 limão
 - --
 

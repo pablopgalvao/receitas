@@ -35,8 +35,8 @@ flags: []
 - 1 cebola-roxa média
 - 3 dentes de alho
 - 1 tomate médio
-- 1/2 xícara de chá de azeite (60 ml)
-- 1/2 maço de salsinha
+- ½ xícara de chá de azeite (60 ml)
+- ½ maço de salsinha
 - 2 colheres de chá de sal (ou a gosto)
 - 1 colher de café de pimenta-do-reino (ou a gosto)
 - --

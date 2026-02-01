@@ -32,7 +32,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída
-- 1/2 pacote de creme de cebola
+- ½ pacote de creme de cebola
 - Alho, sal, tempero baiano e coentro a gosto
 - 200 gramas de queijo
 - 200 gramas de presunto

@@ -37,10 +37,10 @@ flags: []
 - 1 cebola picada
 - 1 dente de alho bem picado
 - 3 espigas de milho-verde cozidas (ou 1 lata de milho)
-- 1/2 xícara de chá de azeitonas verdes sem caroço fatiadas ou picadas
+- ½ xícara de chá de azeitonas verdes sem caroço fatiadas ou picadas
 - Salsinha fresca a gosto bem picada
 - 1 xícara de chá de creme de ricota light
-- 2/3 de xícara de chá de leite desnatado
+- ⅔ de xícara de chá de leite desnatado
 - Batata palha para finalizar
 - --
 

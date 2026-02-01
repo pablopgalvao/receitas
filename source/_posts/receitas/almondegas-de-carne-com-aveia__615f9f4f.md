@@ -30,16 +30,16 @@ flags: []
 
 - 1 colher de sopa de azeite
 - 1 lata tomate pelado (390 gramas)
-- 1/4 de xícara de chá de manjericão fresco (5 gramas)
-- 1/2 colher de café de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 xícara de chá de água (120 ml)
+- ¼ de xícara de chá de manjericão fresco (5 gramas)
+- ½ colher de café de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ xícara de chá de água (120 ml)
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna os ingredientes para o preparo das melhores almôndegas da internet;
-2. Em uma tigela grande, coloque a carne moída, 1/2 parte do alho amassado, 1/2 parte da cebola picada, o sal, a pimenta-do-reino, a cebolinha e a salsinha a gosto. Misture com uma colher;
+2. Em uma tigela grande, coloque a carne moída, ½ parte do alho amassado, ½ parte da cebola picada, o sal, a pimenta-do-reino, a cebolinha e a salsinha a gosto. Misture com uma colher;
 3. Acrescente a clara de ovo e continue misturando até tudo ficar homogêneo;
 4. Junte a aveia e misture novamente. Agora, com as mãos higienizadas, aperte todos os ingredientes misturando tudo. Quando você apertar uma porção da carne na mão e os pedacinhos de carne ficarem unidos, a massa está pronta;
 5. Para modelar as almôndegas, utilize uma colher de sopa para medir. Elas não devem ficar muito grandes e nem muito pequenas. Depois, pegue essa porção medida e aperte com a palma da mão, fechando os dedos;

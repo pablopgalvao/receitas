@@ -34,7 +34,7 @@ flags: []
 
 - 1 lata de grão-de-bico
 - 2 avocados maduros ou um abacate pequeno
-- 1/2 colher de chá de pimenta síria
+- ½ colher de chá de pimenta síria
 - 2 colheres de sopa de tahine
 - Suco de 2 limões
 - Meia cabeça de alho assado

@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 de xícara de chá de óleo de girassol
-- 1/2 cebola cortada
+- ⅓ de xícara de chá de óleo de girassol
+- ½ cebola cortada
 - 1 colher de chá sal
 - 1 xícara de chá de água
 - 1 colher de café de cúrcuma
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de sopa fermento
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ colher de sopa fermento
 - Orégano a gosto
 - --
 

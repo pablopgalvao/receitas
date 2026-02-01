@@ -35,17 +35,17 @@ flags: []
 - 300 gramas de torresmo
 - 2 colheres de banha de porco ou óleo
 - 5 ovos
-- 1/2 maço de couve (cerca de 8 folhas)
+- ½ maço de couve (cerca de 8 folhas)
 - 2 xícaras de feijão carioca (360 gramas)
 - 6 xícaras de chá de água (1,440 L)
 - 2 folhas de louro
-- 1 e 1/2 xícara de chá de farinha de mandioca torrada (150 gramas)
+- 1 e ½ xícara de chá de farinha de mandioca torrada (150 gramas)
 - 2 cebolas
 - 6 dentes de alho amassados
 - 1 colher de sobremesa de páprica
 - 1 pimenta-dedo-de-moça
 - 1 colher de sopa de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - Cheiro-verde picado a gosto
 - --
 

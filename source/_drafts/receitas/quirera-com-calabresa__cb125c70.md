@@ -34,13 +34,13 @@ flags: []
 - 2 colheres de sopa de óleo
 - 3 dentes de alho
 - 1 cebola média
-- 1/2 pimentão verde
+- ½ pimentão verde
 - 1 tomate
 - 1 colher de café de colorau
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 1,5 litro de água
 - Salsinha a gosto
-- 1 e 1/2 litro de água fervente
+- 1 e ½ litro de água fervente
 - --
 
 ---

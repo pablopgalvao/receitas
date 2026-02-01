@@ -32,18 +32,18 @@ flags: []
 - 2 berinjelas médias fatiadas (400 gramas)
 - 1 colher de sopa rasa de sal
 - 2 colheres de sopa de azeite de oliva
-- 1/2 colher de sopa rasa de alho ralado (10 gramas)
+- ½ colher de sopa rasa de alho ralado (10 gramas)
 - 1 xícara de chá de cebola fatiada (110 gramas)
-- 1/2 xícara de chá de pimentão vermelho fatiado (75 gramas)
-- 1/2 xícara de chá de pimentão amarelo fatiado (75 gramas)
-- 1/2 xícara de chá de pimentão verde fatiado (75 gramas)
-- 1/2 xícara de chá de azeite (110 ml)
-- 1/4 de xícara de chá de azeitonas verdes picadas (40 gramas)
+- ½ xícara de chá de pimentão vermelho fatiado (75 gramas)
+- ½ xícara de chá de pimentão amarelo fatiado (75 gramas)
+- ½ xícara de chá de pimentão verde fatiado (75 gramas)
+- ½ xícara de chá de azeite (110 ml)
+- ¼ de xícara de chá de azeitonas verdes picadas (40 gramas)
 - 1 colher de sopa rasa de orégano
-- 1/4 de colher de chá rasa de pimenta calabresa desidratada
+- ¼ de colher de chá rasa de pimenta calabresa desidratada
 - 1 colher de sopa de vinagre de vinho
 - 1 pitada de pimenta-do-reino
-- 1/4 de xícara de chá de uvas-passas (40 gramas)
+- ¼ de xícara de chá de uvas-passas (40 gramas)
 - Fatie as berinjelas, coloque-as em uma tigela grande e adicione o sal. Misture bem utilizando as mãos, tampe e deixe descansar por 1 hora em temperatura ambiente, para soltar toda a água;
 - Em uma panela grande, adicione as colheres de azeite e o alho ralado. Leve ao fogo alto para dourar, mas tome cuidado para não queimar. Após isso, reduza para o fogo médio;
 - Adicione a xícara de azeite de oliva, a azeitona, o orégano, a pimenta calabresa, o vinagre de vinho e a pimenta-do-reino. Misture bem e continue cozinhando, mexendo de vez em quando. Deixe cozinhando por mais 10 minutos, até que o pimentão fique mais macio;

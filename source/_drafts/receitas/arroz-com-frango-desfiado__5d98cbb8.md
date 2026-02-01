@@ -33,15 +33,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite
-- 1/2 cebola
+- ½ cebola
 - 3 dentes de alho
-- 1 e 1/2 xícara de chá de frango cozido e desfiado
+- 1 e ½ xícara de chá de frango cozido e desfiado
 - 1 colher de chá de açafrão-da-terra (cúrcuma)
 - Pimenta-do-reino a gosto
 - Orégano a gosto
 - Sal a gosto
 - Cheiro-verde picado a gosto
-- 1/2 pimentão verde
+- ½ pimentão verde
 - 1 lata de milho-verde escorrido
 - 2 xícaras de chá de arroz cru
 - 4 xícaras de chá de água quente

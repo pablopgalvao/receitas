@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (200 gramas)
-- 2 e 1/2 xícaras de chá de água
+- 2 e ½ xícaras de chá de água
 - 60 gramas de gengibre (ou a gosto)
 - 6 cravos-da-índia (ou a gosto)
 - 3 paus de canela (ou a gosto)
-- 2 e 1/2 xícaras de chá de cachaça (600 ml)
+- 2 e ½ xícaras de chá de cachaça (600 ml)
 - --
 
 ---

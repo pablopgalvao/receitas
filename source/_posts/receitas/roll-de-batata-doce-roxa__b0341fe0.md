@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sobremesa de goma de tapioca
 - 1 colher de sobremesa de açaí em pó (opcional)
 - 2 colheres de sopa de água
-- 1/2 scoop de proteína vegetal sabor baunilha
+- ½ scoop de proteína vegetal sabor baunilha
 - 5 gotinhas de limão Tahiti
 - --
 

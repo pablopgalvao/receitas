@@ -30,11 +30,11 @@ flags: []
 
 - 800 gramas de mandioca fresca e descascada
 - 4 ovos médios (cerca de 200 gramas)
-- 1 e 1/4 de xícara de chá de açúcar demerara ou refinado (250 gramas)
+- 1 e ¼ de xícara de chá de açúcar demerara ou refinado (250 gramas)
 - 200 ml de leite de coco diluído em 200 ml de água
-- 1/2 xícara de chá de óleo de coco derretido ou outro de sua preferência (120 ml)
+- ½ xícara de chá de óleo de coco derretido ou outro de sua preferência (120 ml)
 - 100 gramas de coco ralado seco ou fresco (opcional)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - --
 
 ---

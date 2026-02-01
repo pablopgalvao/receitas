@@ -31,8 +31,8 @@ flags: []
 
 - 1 kg de salsicha (2 pacotes ou 20 salsichas)
 - 2 sachês de molho de tomate (480 gramas)
-- 1/2 pimentão verde
-- 1/2 cebola
+- ½ pimentão verde
+- ½ cebola
 - 2 dentes de alho
 - 1 fio de óleo (pode ser substituído por azeite)
 - 1 pitada de pimenta-do-reino

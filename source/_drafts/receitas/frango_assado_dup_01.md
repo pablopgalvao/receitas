@@ -38,7 +38,7 @@ flags: []
 - 3 a 4 colheres de sopa de azeite de oliva
 - 3 cebolas brancas descascada e cortada em pétalas (500 gramas)
 - 2 colheres de sopa de mel
-- Caldo de 1/2 limão-siciliano ou laranja (50 ml)
+- Caldo de ½ limão-siciliano ou laranja (50 ml)
 - Polpa de 2 maracujás (240 ml)
 - 1 pedaço de gengibre fatiado (10 gramas)
 - 2 colheres de sopa de açúcar demerara ou cristal
@@ -46,7 +46,7 @@ flags: []
 - Para fazer a mistura de ervas frescas, em um potinho, adicione as folhinhas de alecrim e tomilho com a manteiga, uma pitada de sal e pimenta-do-reino. Misture para formar uma pastinha que levará todo o sabor para o interior do frango;
 - Com as duas mãos (se preferir, coloque luvas descartáveis), solte a pele da carne do frango cuidadosamente para ela não rasgar e, ainda com as luvas, passe a pastinha de manteiga e ervas entre o espaço aberto da pele e o frango. Aproveite e passe por fora também (se precisar de mais manteiga, pode adicionar);
 - Nesse primeiro momento, para manter a carne molhadinha e macia, leve a assadeira com o frango ao forno preaquecido a 160ºC (forno baixo) por cerca de 1 hora e sem cobrir (o tempo total até o final da receita será 1h45) - se seu frango tiver mais de 1,5 kg aumente o tempo de forno;
-- Após cozinhar o frango por esse período, retire-o do forno e deixe em cima da mesa. Enquanto isso, em uma tigela média, adicione 1/2 suco de limão, 2 colheres de sopa de manteiga e 2 colheres de mel. Misture;
+- Após cozinhar o frango por esse período, retire-o do forno e deixe em cima da mesa. Enquanto isso, em uma tigela média, adicione ½ suco de limão, 2 colheres de sopa de manteiga e 2 colheres de mel. Misture;
 - Após os primeiros 15 minutos, retire a assadeira do forno e pincele mais a mistura de manteiga, limão e mel com o frango virado (a parte de baixo deve estar exposta para caramelizar);
 - Enquanto espera, em uma frigideira, coloque as polpas de maracujá, o açúcar e as fatias de gengibre. Cozinhe em fogo médio para baixo por cerca de 10 minutos ou até o açúcar dissolver completamente;
 - Retire o frango do forno, corte os barbantes e está pronto para servir. Decore com os temperos, o alho assado e 1 limão-siciliano cortado ao meio e sirva ele com o molho de maracujá, arroz, salada e farofa. Bom apetite!
@@ -65,7 +65,7 @@ flags: []
 8. Corte o excesso dos barbantes. Na cavidade do frango, adicione ervas frescas e um pedaço generoso de manteiga (DICA: se você quiser colocar cebola, maçã, farofa ou laranja na cavidade do frango, isso irá trazer umidade ao preparo e pode umedecer a pele crocante);
 9. Em uma travessa de laterais baixas, faça uma camada com as pétalas de cebola, os alhos sem a tampa e mais ervas (alecrim e sálvia). Coloque o frango por cima e despeje azeite por cima para trazer brilho e sabor;
 10. Nesse primeiro momento, para manter a carne molhadinha e macia, leve a assadeira com o frango ao forno preaquecido a 160ºC (forno baixo) por cerca de 1 hora e sem cobrir (o tempo total até o final da receita será 1h45) - se seu frango tiver mais de 1,5 kg aumente o tempo de forno;
-11. Após cozinhar o frango por esse período, retire-o do forno e deixe em cima da mesa. Enquanto isso, em uma tigela média, adicione 1/2 suco de limão, 2 colheres de sopa de manteiga e 2 colheres de mel. Misture;
+11. Após cozinhar o frango por esse período, retire-o do forno e deixe em cima da mesa. Enquanto isso, em uma tigela média, adicione ½ suco de limão, 2 colheres de sopa de manteiga e 2 colheres de mel. Misture;
 12. Com um pincel de silicone para cozinha, passe essa mistura por toda a superfície do frango e aumente a temperatura do forno para 180-200ºC. Agora, o frango será assado em 3 partes, por enquanto, leve o frango para assar por cerca de 15 minutos;
 13. Após os primeiros 15 minutos, retire a assadeira do forno e pincele mais a mistura de manteiga, limão e mel com o frango virado (a parte de baixo deve estar exposta para caramelizar);
 14. Na 3º e última parte, vire o frango novamente e deixe o lado que falta caramelizar exposto. Passe um pouco mais da mistura e retorne a assadeira ao forno por mais 15 minutos;

@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de amendoim cru com casca
 - 1 xícara de chá de açúcar
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 ---
 
 ## 👨‍🍳 Modo de Preparo

@@ -32,10 +32,10 @@ flags: []
 - 100 gramas de batata-doce cozida
 - 2 Bananas
 - 1 xícara rasa de cacau em pó
-- 1/3 de xícara de xilitol
+- ⅓ de xícara de xilitol
 - 1 xícara de farinha de amêndoas ou de coco
 - 1 xícara de castanha-de-caju
-- 1/3 de xícara de óleo de coco
+- ⅓ de xícara de óleo de coco
 - 1 colher de sopa de fermento em pó
 - --
 

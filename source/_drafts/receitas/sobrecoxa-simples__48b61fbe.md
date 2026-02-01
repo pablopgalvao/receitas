@@ -36,8 +36,8 @@ flags: []
 - 2 cebolas médias
 - 1 colher de chá de coentro em pó
 - 1 colher de chá de páprica defumada
-- 2/3 de xícaras de chá de molho shoyu (150 ml)
-- 3/4 de xícara de chá de água (200 ml)
+- ⅔ de xícaras de chá de molho shoyu (150 ml)
+- ¾ de xícara de chá de água (200 ml)
 - 2 colheres de azeite
 - --
 

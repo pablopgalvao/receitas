@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 caixinha de leite condensado
+- ½ caixinha de leite condensado
 - 1 xícara de chá de leite integral (240 ml)
-- 1/2 xícara de chá de leite de coco (120 ml)
+- ½ xícara de chá de leite de coco (120 ml)
 - 100 gramas de coco ralado para decorar
 - --
 

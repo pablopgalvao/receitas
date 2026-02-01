@@ -34,8 +34,8 @@ flags: []
 - 2 folhas de louro
 - 10 folhas de salsão (ou a gosto)
 - 3 tiras de couro de bacon
-- 1 e 1/2 litro de caldo de frango ou água
-- 1/2 xícara de chá de vinho branco seco (120 ml)
+- 1 e ½ litro de caldo de frango ou água
+- ½ xícara de chá de vinho branco seco (120 ml)
 - 300 gramas de bacon cortado em cubos grandes
 - 300 gramas de barriga de porco cortado em tiras de 1,5 cm (panceta)
 - 300 gramas de linguiça calabresa em rodelas
@@ -48,11 +48,11 @@ flags: []
 - 65 gramas de extrato de tomate
 - 2 colheres de sopa de alho picado ou amassado
 - 3 tomates maduros cortados em cubos (220 gramas)
-- 1/2 colher de chá de pimenta calabresa (ou a gosto)
+- ½ colher de chá de pimenta calabresa (ou a gosto)
 - 1 colher de sopa de páprica (ou a gosto)
 - 1 colher de chá de tomilho (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de azeite de oliva (ou a gosto)
 - 3 colheres de sopa de cheiro-verde (ou a gosto)
 - --

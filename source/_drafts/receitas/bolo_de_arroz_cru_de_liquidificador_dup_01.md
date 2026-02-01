@@ -32,10 +32,10 @@ flags: []
 - 1 xícara de chá de arroz cru (200 gramas)
 - 2 xícaras de chá de água fervente (480 ml)
 - 3 ovos grandes
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de açúcar refinado (200 gramas)
 - 1 colher de sopa de fermento químico em pó
-- 1/2 colher de chá de essência de baunilha
+- ½ colher de chá de essência de baunilha
 - 1 colher de chá de manteiga ou óleo para untar a forma
 - Vamos ao preparo! Com o arroz demolhado e escorrido, adicione-o no liquidificador junto dos ovos e óleo. Bata por 5 minutos em potência média;
 - Transfira o creme para uma bacia e acrescente o açúcar, a baunilha e o fermento. Mexa delicadamente com um fouet (batedor de arame) por 1 minuto até homogeneizar;

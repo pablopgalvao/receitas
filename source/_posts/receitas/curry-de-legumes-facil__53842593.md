@@ -31,13 +31,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite
-- 1/2 pimentão picado
+- ½ pimentão picado
 - 1 cenoura grande picada em meia-lua
 - 2 dentes de alho amassados
 - Sal a gosto
 - 2 colheres de chá de curry
 - 1 colher de chá de páprica
-- 1/2 xícara de chá de água quente
+- ½ xícara de chá de água quente
 - 200ml de leite de coco
 - 200 gramas de brócolis (cozido)
 - 200 gramas de couve-flor (cozida)

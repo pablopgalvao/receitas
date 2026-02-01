@@ -31,7 +31,7 @@ flags: []
 
 - 400 ml de água gelada
 - 100 ml de suco fresco de toranja (grapefruit)
-- 1/2 xícara de chá de frutas vermelhas (amora, morango, framboesa ou mirtilo)
+- ½ xícara de chá de frutas vermelhas (amora, morango, framboesa ou mirtilo)
 - Gelo a gosto
 
 ---

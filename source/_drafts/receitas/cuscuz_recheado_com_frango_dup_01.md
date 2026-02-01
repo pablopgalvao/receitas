@@ -36,7 +36,7 @@ flags: []
 - 100 gramas de frango cozido e desfiado
 - 1 colher de chá de páprica
 - 1 colher de chá de chilli
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - Sal a gosto
 - 2 colheres de sopa de requeijão cremoso
 - Manteiga para untar a cuscuzeira

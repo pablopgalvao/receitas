@@ -33,7 +33,7 @@ flags: []
 - 1 colher (rasa) de sopa de sal
 - 1 xícara de chá de água
 - 1 xícara de chá de leite
-- 1 xícara de chá de óleo (essa quantidade pode ser alterada para 3/4 de xícara ou 180 ml)
+- 1 xícara de chá de óleo (essa quantidade pode ser alterada para ¾ de xícara ou 180 ml)
 - 1 kg de farinha de trigo
 - 1 colher de sopa de fermento biológico seco
 - --

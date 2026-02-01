@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de tapioca granulada (3 xícaras de chá)
-- 800 ml de leite integral (3 e 1/2 xícaras de chá)
-- 100 gramas de manteiga (1/2 xícara de chá)
-- 100 gramas de queijo parmesão fresco ralado (1/2 xícara de chá)
+- 800 ml de leite integral (3 e ½ xícaras de chá)
+- 100 gramas de manteiga (½ xícara de chá)
+- 100 gramas de queijo parmesão fresco ralado (½ xícara de chá)
 - 4 ovos médios (50 gramas)
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - --
 
 ---

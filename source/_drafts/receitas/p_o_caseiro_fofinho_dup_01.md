@@ -31,8 +31,8 @@ flags: []
 
 - 1 colher de sopa de fermento biológico seco
 - 3 colheres de sopa de açúcar
-- 1 e 1/2 xícara de chá de água morna
-- 1/2 xícara de chá de óleo
+- 1 e ½ xícara de chá de água morna
+- ½ xícara de chá de óleo
 - 1 colher de café de sal
 - 5 xícaras de chá de farinha de trigo
 - Manteiga e farinha para untar

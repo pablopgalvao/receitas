@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola
+- ½ cebola
 - 1 folha de louro
 - 3 cravos-da-índia
 - 500 ml de leite

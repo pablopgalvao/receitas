@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de açúcar de confeiteiro
 - 2 colheres de sopa de caldo de limão
-- 1/2 colher de chá de raspas de limão para finalizar
+- ½ colher de chá de raspas de limão para finalizar
 - --
 
 ---

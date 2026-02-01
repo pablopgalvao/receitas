@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 ovo grande
-- 3/4 de xícara de chá de farinha de rosca (120 gramas)
-- 1/4 de colher de sal
+- ¾ de xícara de chá de farinha de rosca (120 gramas)
+- ¼ de colher de sal
 - 1 colher de sopa de azeite (para pincelar)
 - Quebre o ovo em uma tigela, adicione uma pitadinha de sal e bata até homogeneizar;
 - Coloque a farinha de rosca em um prato raso e deixe ao lado do ovo batido;

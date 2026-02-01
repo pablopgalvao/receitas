@@ -32,7 +32,7 @@ flags: []
 - 1 colher de sopa de manteiga (20 gramas)
 - 1 cebola pequena
 - 150 gramas de cogumelos Paris
-- 1/3 de xícara de chá de vinho madeira (100 ml)
+- ⅓ de xícara de chá de vinho madeira (100 ml)
 - Caldo coado do cozimento da carne (aproximadamente 600 ml)
 - --
 

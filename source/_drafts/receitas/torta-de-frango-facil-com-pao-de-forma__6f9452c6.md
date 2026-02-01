@@ -36,10 +36,10 @@ flags: []
 - 200 gramas de frango cozido e desfiado
 - Azeite a gosto
 - 1 cebola
-- 1/4 de pimentão vermelho
+- ¼ de pimentão vermelho
 - 2 tomates
 - 2 dentes de alho
-- 3/4 de xícara de chá de molho de tomate (200 gramas)
+- ¾ de xícara de chá de molho de tomate (200 gramas)
 - 5 colheres de sopa de requeijão cremoso (100 gramas)
 - 100 ml de leite
 - 2 ovos

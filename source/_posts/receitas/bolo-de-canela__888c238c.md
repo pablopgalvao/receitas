@@ -32,13 +32,13 @@ flags: []
 - 2 xícaras de chá de açúcar cristal
 - 3 ovos médios
 - 1 xícara de chá de leite
-- 2 e 1/2 xícaras de chá de farinha de trigo
+- 2 e ½ xícaras de chá de farinha de trigo
 - 1 colher de chá de canela em pó para a massa
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 4 colheres de sopa de açúcar cristal
 - 1 colher de chá de canela em pó para a forma
 - 2 colheres de sopa de açúcar cristal
-- 1/2 colher de chá de canela em pó para finalizar
+- ½ colher de chá de canela em pó para finalizar
 - --
 
 ---

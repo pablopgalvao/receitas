@@ -35,7 +35,7 @@ flags: []
 - 4 dentes de alho
 - 1 colher de sopa de páprica defumada
 - 1 colher de chá de pimenta-do-reino
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - --
 
 ---

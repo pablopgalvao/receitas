@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de açúcar mascavo
-- 1/2 xícara de chá de água
-- 3/4 de xícara de chá de aveia em flocos
+- ½ xícara de chá de açúcar mascavo
+- ½ xícara de chá de água
+- ¾ de xícara de chá de aveia em flocos
 - 2 xícaras de chá de farinha de amendoim
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - 100 gramas de chocolate amargo (para a cobertura)

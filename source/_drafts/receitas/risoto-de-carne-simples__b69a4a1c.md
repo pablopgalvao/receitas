@@ -36,7 +36,7 @@ flags: []
 - 1 Cebola
 - 1 colher de sopa de sal
 - 1 colher de chá de chimichurri
-- 1 e 1/2 xícara de chá de arroz (270 gramas)
+- 1 e ½ xícara de chá de arroz (270 gramas)
 - Caldo de legumes para cozinhar o arroz (cerca de 700 ml)
 - 1 colher de sopa de manteiga
 - Salsinha a gosto

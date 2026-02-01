@@ -33,7 +33,7 @@ flags: []
 - 2 bananas nanicas maduras
 - 2 colheres de sopa de nozes picadas
 - 4 colheres de sopa de farelo de aveia
-- 1/2 colher de sopa de canela em pó
+- ½ colher de sopa de canela em pó
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

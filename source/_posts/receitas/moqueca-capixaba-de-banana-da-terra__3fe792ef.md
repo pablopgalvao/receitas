@@ -36,8 +36,8 @@ flags: []
 - 3 dentes de alho picados
 - 1 cebola picada
 - 3 tomates picados
-- 1/3 de xícara de cebolinha picada
-- 1/3 de xícara de coentro picado
+- ⅓ de xícara de cebolinha picada
+- ⅓ de xícara de coentro picado
 - 5 bananas-da-terra descascadas e cortadas em três partes
 - Sal a gosto
 - Pimenta-do-reino a gosto

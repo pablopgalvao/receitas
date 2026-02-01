@@ -30,13 +30,13 @@ flags: []
 
 - 1 pacote de miojo (do sabor que preferir)
 - 450 ml de água
-- 1/4 lata de milho (40 gramas)
-- 1/2 latinha de seleta de legumes (85 gramas)
+- ¼ lata de milho (40 gramas)
+- ½ latinha de seleta de legumes (85 gramas)
 - 2 colheres de sopa de queijo ralado (ou a gosto)
 - 100 gramas de linguiça calabresa
-- 1/2 caixinha de creme de leite (100 gramas)
-- 1/2 colher de chá rasa de colorau (ou a gosto)
-- 1/2 colher de chá rasa de pimenta-do-reino (ou a gosto)
+- ½ caixinha de creme de leite (100 gramas)
+- ½ colher de chá rasa de colorau (ou a gosto)
+- ½ colher de chá rasa de pimenta-do-reino (ou a gosto)
 - 1 fio de óleo
 - --
 

@@ -45,8 +45,8 @@ flags: []
 - Colorau a gosto (opcional)
 - 1 sachê de molho de tomate pronto
 - 1 colher de sopa de mostarda (opcional)
-- 1/3 de xícara de chá de cebolinha (ou a gosto)
-- 1/4 de xícara de chá de coentro (ou a gosto)
+- ⅓ de xícara de chá de cebolinha (ou a gosto)
+- ¼ de xícara de chá de coentro (ou a gosto)
 - --
 
 ---

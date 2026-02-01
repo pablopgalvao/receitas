@@ -35,8 +35,8 @@ flags: []
 - 4 dentes de alho (para temperar a carne)
 - 1 colher de chá de páprica defumada (para temperar a carne)
 - 1 colher de café de sal (ou a gosto) (para temperar a carne)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto) (para temperar a carne)
-- Suco de 1/2 limão (para temperar a carne)
+- ½ colher de café de pimenta-do-reino (ou a gosto) (para temperar a carne)
+- Suco de ½ limão (para temperar a carne)
 - 1 colher de sopa de mostarda (para temperar a carne)
 - 1 cebola grande (280 gramas)
 - 1 colher de chá de colorau

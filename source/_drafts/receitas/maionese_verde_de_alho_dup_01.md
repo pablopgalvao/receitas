@@ -31,8 +31,8 @@ flags: []
 
 - 60 gramas de cheiro-verde
 - 250 ml de óleo
-- 1/2 colher de chá (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Descasque os dentes de alho e esprema o suco do limão. Quebre os ovos para verificar se estão bons;
 - No liquidificador, coloque o alho, a pimenta, o suco de limão, os ovos, o sal e a pimenta-do-reino. Bata por cerca de 3 minutos, até a mistura clarear;
 - Com o liquidificador ligado, vá adicionando o óleo em fio, lentamente, até a maionese engrossar e atingir a textura cremosa desejada. Experimente e ajuste o sal, se necessário;

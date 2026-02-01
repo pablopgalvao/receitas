@@ -31,7 +31,7 @@ flags: []
 
 - 250 gramas de macarrão para sobá
 - 500 gramas de coxão mole
-- 1/2 copo americano de shoyu (100 ml)
+- ½ copo americano de shoyu (100 ml)
 - 2 colheres de sopa de açúcar
 - 2 colheres de sobremesa de amido de milho
 - 1 colher de chá de gengibre

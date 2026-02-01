@@ -42,7 +42,7 @@ flags: []
 - 1 xícara de farinha de rosca
 - Óleo para fritar
 - 200 gramas de mussarela ralada
-- 1 e 1/2 xícara de chá de molho de tomate (300 gramas)
+- 1 e ½ xícara de chá de molho de tomate (300 gramas)
 - 100 gramas de queijo parmesão ralado
 - Salsinha picada a gosto
 - Em uma leiteira, coloque o leite e tempere com pimenta-do-reino, sal e a folha de louro. Deixe esquentando em fogo médio;

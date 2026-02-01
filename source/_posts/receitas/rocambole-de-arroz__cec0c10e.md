@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz cozido (270 gramas)
+- 1 e ½ xícara de chá de arroz cozido (270 gramas)
 - 1 xícara de chá de leite (240 ml)
-- 1/3 de xícara de chá de óleo (80 ml)
+- ⅓ de xícara de chá de óleo (80 ml)
 - 3 ovos grandes
 - 5 colheres de sopa de queijo parmesão ralado (50 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

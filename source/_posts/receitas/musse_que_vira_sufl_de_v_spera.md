@@ -48,7 +48,7 @@ flags: []
 4. Separe as claras das gemas dos 4 ovos, que devem estar em temperatura ambiente.
 5. Junte a cachaça às gemas e, somente quando o chocolate estiver em temperatura ambiente, junte a mistura de gemas ao chocolate. (Se ele estiver quente, vai cozinhar as gemas.)
 6. Na batedeira, bata as claras até que tripliquem de volume. Para começar, deixe a batedeira em velocidade baixa; assim que as claras começarem a espumar, junte a metade do açúcar. Aumente a velocidade. Quando as claras começarem a firmar, junte o restante do açúcar. Elas precisam estar firmes, mas não podem endurecer excessivamente.
-7. Junte 1/3 das claras ao chocolate e misture bem. O restante, incorpore delicadamente com uma espátula, fazendo movimentos circulares de baixo para cima.
+7. Junte ⅓ das claras ao chocolate e misture bem. O restante, incorpore delicadamente com uma espátula, fazendo movimentos circulares de baixo para cima.
 8. Coloque a massa nos ramequins, limpe as bordas com papel-toalha e leve à geladeira por 24 horas.
 9. No dia seguinte, cerca de 10 minutos antes de assar a sobremesa, preaqueça o forno a 200 ºC (temperatura média-alta).
 10. Transfira os ramequins da geladeira para uma assadeira e leve ao forno para assar por cerca de 15 minutos, até crescer. Decore com açúcar de confeiteiro e sirva a seguir.

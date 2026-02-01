@@ -32,11 +32,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 100 gramas de manteiga (em temperatura ambiente)
-- 1/2 xícara de chá de gorgonzola esfarelado (50 gramas)
+- ½ xícara de chá de gorgonzola esfarelado (50 gramas)
 - 1 maço de espinafre
 - 1 dente de alho
 - 2 xícaras de chá da água do cozimento do nhoque
-- 1/2 xícara de chá de noz-pecã (picada grosseiramente)
+- ½ xícara de chá de noz-pecã (picada grosseiramente)
 - Azeite a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto

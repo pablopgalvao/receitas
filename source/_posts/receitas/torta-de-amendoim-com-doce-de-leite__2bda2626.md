@@ -32,7 +32,7 @@ flags: []
 
 - 1 pote de nata
 - 3 colheres de sopa cheia de doce de leite
-- 1/2 xícara de leite
+- ½ xícara de leite
 - 5 gotas de essência de baunilha
 - 200 g de biscoito de Maisena
 - Amendoim triturado a gosto

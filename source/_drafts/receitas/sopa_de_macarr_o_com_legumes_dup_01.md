@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de macarrão Padre Nosso
 - 200 gramas de abóbora pescoço
-- 1/2 xícara de chá de vagem (70 gramas)
+- ½ xícara de chá de vagem (70 gramas)
 - 1 colher de sopa de óleo
 - 1 colher de sopa de salsinha fresca picada (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)

@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de tomate-cereja
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 300 gramas de cream cheese
 - 1 colher de café de tempero de alho frito
 - 1 colher de café de sal ou a gosto
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - Coloque o sal e a pimenta-do-reino, mexendo levemente para incorporar os temperos;
 - Enquanto isso, em uma frigideira, adicione um fio de azeite, o sal, a pimenta-do-reino e o alho-poró fatiado. Refogue por cerca de 2 minutos, até murchar;
 - Sirva ainda morno, acompanhado de torradas, saladas, massas ou como aperitivo. Aproveite!

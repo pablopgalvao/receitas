@@ -37,9 +37,9 @@ flags: []
 - Orégano a gosto
 - 2 cebolas
 - 2 tomates
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
+- ½ pimentão verde
+- ½ pimentão vermelho
+- ½ pimentão amarelo
 - 1 cenoura
 - 300 gramas de batata descascadas e picadas
 - 3 colheres de sopa de manteiga

@@ -32,7 +32,7 @@ flags: []
 - 2 colheres de sopa de manteiga (ou margarina)
 - 1 xícara de chá de açúcar (190 gramas)
 - 2 xícaras de chá de tapioca granulada (350 gramas)
-- 500 ml de leite quente (2 e 1/2 xícaras de chá)
+- 500 ml de leite quente (2 e ½ xícaras de chá)
 - 1 xícara de chá de amido de milho (100 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 100 gramas de leite condensado para finalizar (opcional)

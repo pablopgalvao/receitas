@@ -29,15 +29,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 ovo médio (50 gramas)
-- 1/4 de xícara de chá de leite (60 ml)
+- ¼ de xícara de chá de leite (60 ml)
 - 4 colheres de sopa de açúcar (48 gramas)
 - 1 colher de sopa de manteiga (14 gramas)
 - 1 colher de chá de essência de baunilha (15 ml)
-- 1/3 de xícara de chá de amido de milho (55 gramas)
-- 1 e 1/3 de xícara de chá de farinha de trigo (185 gramas)
+- ⅓ de xícara de chá de amido de milho (55 gramas)
+- 1 e ⅓ de xícara de chá de farinha de trigo (185 gramas)
 - 2 colheres de chá de fermento químico em pó (fermento para bolo) (10 gramas)
 - 3 colheres de sopa de açúcar para finalizar (ou a gosto)
-- 1/4 colher de chá de canela em pó para finalizar (ou a gosto)
+- ¼ colher de chá de canela em pó para finalizar (ou a gosto)
 - --
 
 ---

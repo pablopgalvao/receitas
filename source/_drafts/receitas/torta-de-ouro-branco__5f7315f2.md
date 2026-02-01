@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 ml de leite integral
-- 1/2 caixa de leite condensado
+- ½ caixa de leite condensado
 - 2 colheres de sopa de amido de milho
 - 2 gemas peneiradas
 - 1 caixa de creme de leite

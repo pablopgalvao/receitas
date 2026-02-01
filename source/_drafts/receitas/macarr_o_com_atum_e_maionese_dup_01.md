@@ -36,7 +36,7 @@ flags: []
 - Cebolinha a gosto
 - Pimenta-do-reino a gosto
 - Sal a gosto
-- 1/2 xícara de chá de maionese (120 gramas)
+- ½ xícara de chá de maionese (120 gramas)
 - Junte todos os ingredientes na bancada! Escorra a água do milho em conserva, pique as cenouras em cubinhos, e corte a salsinha e cebolinha finamente;
 - Adicione as latas de atum sem óleo, o milho escorrido, a cenoura cozida, a salsinha e a cebolinha, assim como a maionese. Com uma colher, misture tudo muito bem;
 

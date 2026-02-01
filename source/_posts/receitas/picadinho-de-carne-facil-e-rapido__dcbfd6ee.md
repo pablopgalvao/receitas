@@ -34,8 +34,8 @@ flags: []
 - 3 dentes de alho
 - 1 pimentão
 - 2 tomates
-- 1/3 colher de chá de pimenta calabresa
-- 1/3 de colher de chá de pimenta-do-reino
+- ⅓ colher de chá de pimenta calabresa
+- ⅓ de colher de chá de pimenta-do-reino
 - 1 kg de acém sem osso
 - 1 colher de chá de sal
 - 2 colheres de sopa de molho inglês

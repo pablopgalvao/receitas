@@ -34,8 +34,8 @@ flags: []
 - 2 ovos
 - 60 gramas de cheiro-verde
 - 250 ml de óleo
-- 1/2 colher de chá (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 batatas pequenas
-- 1/2 xícara de chá de amido de milho
+- ½ xícara de chá de amido de milho
 - Óleo para fritar
 - Sal a gosto
 - --

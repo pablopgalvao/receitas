@@ -36,8 +36,8 @@ flags: []
 - 300 ml de creme de leite
 - 1 pote de iogurte natural (75 gramas)
 - 1,8 litros de água
-- 1/2 colher de chá de pimenta Síria (ou a gosto)
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de chá de pimenta Síria (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de sopa de raspas de laranja-bahia
 - --
 

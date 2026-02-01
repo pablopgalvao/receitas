@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de quirera (250 gramas)
+- ½ pacote de quirera (250 gramas)
 - 2 colheres de sopa de azeite
 - 2 colheres de chá de sal
 - Cebolinha a gosto

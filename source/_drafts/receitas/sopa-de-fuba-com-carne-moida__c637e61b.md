@@ -40,7 +40,7 @@ flags: []
 - 1 colher de café de colorau
 - Pimenta-do-reino a gosto
 - 1 cebola
-- 1/2 pimentão vermelho
+- ½ pimentão vermelho
 - 1 litro de água
 - 240 gramas de fubá mimoso fino
 - Cheiro-verde a gosto

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 colheres de sopa de flocão de milho (65 gramas)
-- 1/4 de xícara de chá de água (60 ml)
+- ¼ de xícara de chá de água (60 ml)
 - 1 pitada de sal
 - 3 fatias de queijo mussarela
 - Orégano a gosto

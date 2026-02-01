@@ -32,9 +32,9 @@ flags: []
 
 - 1 pão de forma de sua preferência
 - 1 abacate avocado (175 gramas)
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/8 de colher de chá pimenta-do-reino (ou a gosto)
-- Caldo de 1/2 limão
+- ¼ de colher de chá de sal (ou a gosto)
+- ⅛ de colher de chá pimenta-do-reino (ou a gosto)
+- Caldo de ½ limão
 - 1 ovo
 - 1 fio de azeite (ou 1 colher de sopa de manteiga)
 - 1 pitada de páprica defumada

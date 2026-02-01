@@ -33,9 +33,9 @@ flags: []
 - 1 kg de macarrão tipo rigatoni
 - 1 colher de sopa de azeite
 - 2 colheres de sopa de manteiga
-- 1 e 1/2 xícara de chá de queijo parmesão ralado
+- 1 e ½ xícara de chá de queijo parmesão ralado
 - 2 xícaras de chá de creme de leite fresco ou nata (480 gramas)
-- 1/2 colher de café de páprica
+- ½ colher de café de páprica
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Comece temperando os camarões. Salpique a pimenta, sal, páprica e metade das raspas de limão. Deixe pegando o sabor por uns 10 minutos;

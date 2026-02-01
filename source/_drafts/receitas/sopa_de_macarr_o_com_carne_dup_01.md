@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de carne bovina (coxão mole ou acém)
 - 2 colheres de sopa de óleo
 - 1 colher de chá de colorau
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de chá de sal
 - 1 pitada de curry
 - 350 gramas de macarrão ave-maria

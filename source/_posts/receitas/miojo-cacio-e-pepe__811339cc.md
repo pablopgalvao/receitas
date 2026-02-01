@@ -30,7 +30,7 @@ flags: []
 
 - 1 fio de azeite de oliva
 - 1 colher de sopa de manteiga
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 1 pacote de miojo
 - 300 ml de água para cozinhar o miojo
 - 40 gramas de parmesão ou pecorino romano

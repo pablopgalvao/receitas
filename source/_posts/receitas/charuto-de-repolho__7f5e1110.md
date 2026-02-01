@@ -31,10 +31,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 350 gramas de carne moída
-- 1 e 1/2 xícara de chá de arroz
-- 1/2 cebola picada
+- 1 e ½ xícara de chá de arroz
+- ½ cebola picada
 - 1 dente de alho amassado
-- 1/2 tablete de caldo de carne
+- ½ tablete de caldo de carne
 - Sal a gosto
 - Temperos a gosto (pimenta-do-reino, páprica…)
 - 1 repolho grande (de qualquer cor)

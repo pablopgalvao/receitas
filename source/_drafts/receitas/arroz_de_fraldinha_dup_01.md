@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de mostarda dijon
 - 1 colher de sopa de molho inglês
 - 150 ml de cerveja preta
-- 1 e 1/2 xícara de chá de molho de tomate
+- 1 e ½ xícara de chá de molho de tomate
 - 2 xícaras de chá de arroz branco
 - Sal, pimenta e cebolinha a gosto
 - Adicione os cubos de carne e tempere com sal e pimenta. Doure todos os lados por cerca de 5 minutos;

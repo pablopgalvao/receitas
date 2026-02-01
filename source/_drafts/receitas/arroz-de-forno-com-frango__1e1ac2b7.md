@@ -39,9 +39,9 @@ flags: []
 - 1 tomate picado e sem sementes
 - Sal e pimenta-do-reino a gosto
 - Uma pitada de orégano
-- 1/2 lata de milho-verde
-- 1/2 xícara de chá de ervilha fresca
-- 1/2 xícara de chá de azeitonas picadas
+- ½ lata de milho-verde
+- ½ xícara de chá de ervilha fresca
+- ½ xícara de chá de azeitonas picadas
 - 3 xícaras de chá de arroz cozido
 - 1 xícara de chá de molho de tomate
 - Cheiro-verde picado a gosto

@@ -34,8 +34,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 avocados
-- 1/2 cebola roxa
-- 1/2 pimenta-dedo-de-moça (opcional)
+- ½ cebola roxa
+- ½ pimenta-dedo-de-moça (opcional)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Cheiro-verde a gosto

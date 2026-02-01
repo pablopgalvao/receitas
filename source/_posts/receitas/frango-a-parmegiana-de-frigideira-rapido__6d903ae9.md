@@ -31,10 +31,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 fio de azeite
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 1 sachê de molho de tomate pronto (340 g)
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - Sal e pimenta-do-reino a gosto
 - 1 pitada de orégano
 - Cheiro verde picado a gosto

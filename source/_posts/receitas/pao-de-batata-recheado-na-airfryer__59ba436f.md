@@ -32,12 +32,12 @@ flags: []
 - 1 xícara de chá de leite morno
 - 3 xícaras de chá de farinha de trigo
 - 1 ovo
-- 1/2 xícara de chá de batatas cozidas e amassadas
+- ½ xícara de chá de batatas cozidas e amassadas
 - 2 colheres de sopa de manteiga
 - 1 colher de sopa de azeite (ou óleo)
-- 1 e 1/2 colher de chá de sal
+- 1 e ½ colher de chá de sal
 - 2 colheres de sopa de açúcar
-- 2 e 1/2 colheres de chá de fermento biológico seco
+- 2 e ½ colheres de chá de fermento biológico seco
 - Requeijão a gosto para rechear
 - 1 gema para pincelar
 - --

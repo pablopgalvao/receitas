@@ -31,12 +31,12 @@ flags: []
 
 - 1 xícara de chá de açúcar
 - 75 gramas de manteiga sem sal derretida
-- 1/2 xícara de chá de leite
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de chá de canela em pó
+- ½ xícara de chá de leite
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ colher de chá de canela em pó
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
-- 1/2 xícara de chá de nozes picadas
-- 1 e 1/2 xícara de chá de açúcar de confeiteiro
+- ½ xícara de chá de nozes picadas
+- 1 e ½ xícara de chá de açúcar de confeiteiro
 - 2 colheres de sopa de leite
 - Em um recipiente, adicione o açúcar, os ovos e a manteiga. Misture bem até formar uma mistura clara e cremosa;
 - Coloque a farinha de trigo (peneirada), a canela, o fermento, as nozes e misture bem até ficar homogêneo;

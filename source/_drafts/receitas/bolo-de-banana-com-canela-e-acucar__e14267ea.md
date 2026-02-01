@@ -32,7 +32,7 @@ flags: []
 - 3 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
 - 3 colheres de sopa de manteiga (40 gramas)
-- 1 e 1/4 de xícara de chá de leite (300 ml)
+- 1 e ¼ de xícara de chá de leite (300 ml)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 1 colher de sopa de fermento em pó (15 gramas)
 - 6 bananas prata maduras

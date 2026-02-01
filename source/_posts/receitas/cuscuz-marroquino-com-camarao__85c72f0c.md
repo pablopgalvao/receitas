@@ -30,16 +30,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 cenoura
-- 1/2 abobrinha
+- ½ abobrinha
 - 1 xícara de chá de cuscuz marroquino
 - 1 xícara de chá de caldo de legumes, frango ou camarão
 - 2 conchas de caldo de legumes frango ou camarão para os legumes
 - 1 pitada de açafrão
-- 1/2 cebola roxa
+- ½ cebola roxa
 - 1 tomate
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 2 colheres de azeite
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de chá de lemon pepper (ou a gosto)
 - 4 colheres de sopa de salsinha (ou a gosto)
 - --

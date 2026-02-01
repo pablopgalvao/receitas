@@ -35,12 +35,12 @@ flags: []
 - 1 cebola
 - 2 dentes de alho
 - 500 gramas de peito de frango
-- 1/2 tomate
+- ½ tomate
 - Sal a gosto
 - Pimenta a gosto
 - 2 colheres de sopa de ketchup
 - 1 colher de sopa de mostarda
-- 1/2 lata de creme de leite
+- ½ lata de creme de leite
 - --
 
 ---

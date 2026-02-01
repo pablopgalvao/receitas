@@ -30,10 +30,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de aveia em flocos
+- ½ xícara de chá de aveia em flocos
 - 1 colher de sopa de chia
 - Temperinhos e sal a gosto (orégano, alho em pó, cúrcuma, pimenta-do-reino e tomilho)
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

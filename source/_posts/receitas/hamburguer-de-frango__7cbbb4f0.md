@@ -31,11 +31,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 pão de hambúrguer com ou sem gergelim
-- 1/4 de alface americana fatiada
+- ¼ de alface americana fatiada
 - 3 colheres de sopa de maionese (90 gramas)
 - 1 colher de café rasa de alho em pó
 - 400 gramas de peito de frango
-- 1/2 cebola
+- ½ cebola
 - 1 dente de alho
 - Sal e pimenta-do-reino a gosto
 - 1 xícara de chá de farinha de rosca (ou o suficiente para empanar)

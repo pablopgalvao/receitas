@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de manteiga
-- 1/2 cebola picadinha
+- ½ cebola picadinha
 - 2 dentes de alho amassados
 - 3 colheres de sopa de mostarda dijon
 - 200 ml de creme de leite fresco

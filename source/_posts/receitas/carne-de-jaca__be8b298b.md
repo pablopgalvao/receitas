@@ -33,8 +33,8 @@ flags: []
 - 2 dentes de alho picado ou amassado
 - 1 cebola média picada
 - 1 rodela de gengibre ralada
-- 1/3 de alho-poró em rodelas finas ou picado (35 gramas)
-- 1/2 pimentão vermelho picado (110 gramas)
+- ⅓ de alho-poró em rodelas finas ou picado (35 gramas)
+- ½ pimentão vermelho picado (110 gramas)
 - 1 xícara de chá de molho de tomate ou extrato (240 gramas)
 - 3 colheres de sopa de molho shoyu
 - 1 colher de sal (ou a gosto)

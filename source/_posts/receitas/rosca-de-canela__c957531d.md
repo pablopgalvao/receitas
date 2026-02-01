@@ -31,11 +31,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 10 gramas de fermento biológico seco
-- 3/4 de xícara de chá de água morna
+- ¾ de xícara de chá de água morna
 - 2 colheres de sopa de açúcar
 - 1 ovo
 - 4 colheres de sopa de óleo
-- Aproximadamente 1/2 kg de farinha de trigo
+- Aproximadamente ½ kg de farinha de trigo
 - 1 colher de chá de sal
 - Açúcar e canela em pó para rechear as roscas
 - --

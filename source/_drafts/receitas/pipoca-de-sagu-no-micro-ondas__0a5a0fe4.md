@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de pérolas de sagu (160 gramas)
 - Papel-filme para cobrir
-- 1/4 de colher de chá de sal
+- ¼ de colher de chá de sal
 - --
 
 ---

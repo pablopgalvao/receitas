@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 ovos
-- 1/2 xícara de chá de açúcar refinado (100 gramas)
+- ½ xícara de chá de açúcar refinado (100 gramas)
 - 6 colheres de sopa de manteiga sem sal (150 gramas)
 - 300 gramas de chocolate 70% cacau
 - 1 colher de chá de essência de baunilha

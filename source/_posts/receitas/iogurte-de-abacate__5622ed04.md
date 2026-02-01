@@ -30,10 +30,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate maduro
+- ½ abacate maduro
 - 1 banana-nanica bem madura
 - 1 potinho de iogurte natural (170 gramas)
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Folhinhas de hortelã a gosto
 - --
 

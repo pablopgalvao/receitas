@@ -31,13 +31,13 @@ flags: []
 - 3 colheres de sopa (rasas) de manteiga ou margarina
 - 2 caixinhas de leite condensado (790 gramas)
 - 3 ovos
-- 1 e 1/2 xícara de chá de açúcar (275 gramas)
-- 3/4 xícara de chá de óleo (150 ml)
-- 3/4 xícara de chá de chocolate em pó 50% cacau (75 gramas)
-- 1 e 1/2 xícara de chá de farinha de trigo (205 gramas)
+- 1 e ½ xícara de chá de açúcar (275 gramas)
+- ¾ xícara de chá de óleo (150 ml)
+- ¾ xícara de chá de chocolate em pó 50% cacau (75 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (205 gramas)
 - 1 colher de sopa (rasa) de fermento químico em pó (fermento para bolo)
 - 1 xícara de chá de água fria (210 ml)
-- 1/2 colher de chá de essência de baunilha
+- ½ colher de chá de essência de baunilha
 - --
 
 ---

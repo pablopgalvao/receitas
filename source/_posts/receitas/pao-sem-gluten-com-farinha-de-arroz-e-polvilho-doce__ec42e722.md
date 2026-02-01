@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de arroz integral
-- 1/2 xícara de chá de polvilho doce
+- ½ xícara de chá de polvilho doce
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 colher de chá de sal
 - 3 colheres de sopa de semente de linhaça
 - 1 xícara de chá de água
-- 1/2 xícara de chá de óleo de coco
+- ½ xícara de chá de óleo de coco
 - 3 ovos
 - 1 fio de azeite
 - --

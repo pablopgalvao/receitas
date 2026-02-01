@@ -31,9 +31,9 @@ flags: []
 
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 xícara de chá de água quente (240 ml)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 2 pitadas de sal
-- 2 e 1/2 xícaras de chá de farinha de trigo sem fermento (350 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo sem fermento (350 gramas)
 - 1 colher de sopa de fermento químico em pó
 - 1 colher de chá de essência de baunilha
 - Em uma tigela grande, misture o açúcar com a água quente. Acrescente o óleo e misture com um fouet (batedor de arame), até derreter um pouco do açúcar;

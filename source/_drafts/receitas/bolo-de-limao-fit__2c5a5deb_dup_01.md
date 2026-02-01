@@ -33,7 +33,7 @@ flags: []
 - 80 ml de leite
 - 2 colheres de sopa de manteiga
 - 1 xícara de chá de xilitol ou açúcar demerara
-- 2 e 1/2 xícaras de chá de farinha de arroz
+- 2 e ½ xícaras de chá de farinha de arroz
 - 3 limões-taiti
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

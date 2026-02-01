@@ -34,7 +34,7 @@ flags: []
 - 1 dente de alho
 - 20 gramas de nozes tostadas
 - 2 colheres de sopa de parmesão ralado (30 gramas)
-- 1/4 de xícara de chá de azeite de oliva (50 ml)
+- ¼ de xícara de chá de azeite de oliva (50 ml)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - --

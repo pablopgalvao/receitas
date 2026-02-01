@@ -31,12 +31,12 @@ flags: []
 
 - 1 caixa de leite condensado (395 gramas)
 - 2 colheres de sopa de amido de milho (30 gramas)
-- 1 e 3/4 de xícara de chá de leite integral (400 ml)
+- 1 e ¾ de xícara de chá de leite integral (400 ml)
 - 200 ml de leite de coco
 - 1 caixa de creme de leite (200 gramas)
 - 1 colher de chá de essência de baunilha
-- 3/4 de xícara de chá de açúcar (150 gramas)
-- 3/4 de xícara de chá de água (180 ml)
+- ¾ de xícara de chá de açúcar (150 gramas)
+- ¾ de xícara de chá de água (180 ml)
 - 2 pacotes de bolacha/biscoito de maizena ou leite (350 gramas)
 - 1 xícara de chá de leite (240 ml)
 - 100 gramas de coco ralado

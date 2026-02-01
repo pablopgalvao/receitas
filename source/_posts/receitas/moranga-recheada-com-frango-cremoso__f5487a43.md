@@ -32,7 +32,7 @@ flags: []
 - 1 abóbora moranga
 - 1 kg de peito de frango cortado em cubinhos
 - 200 gramas de requeijão cremoso
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 cebola picada
 - 4 tomates picados
 - 1 pimenta dedo-de-moça picada

@@ -31,11 +31,11 @@ flags: []
 - 1 kg de mandioca
 - 2 gomos de calabresa (300 gramas)
 - 5 dentes de alho
-- 1/2 colher de chá de sal ou a gosto
+- ½ colher de chá de sal ou a gosto
 - 1 cebola
 - 2 folhas de louro
 - 1 colher de chá de colorau ou páprica defumada/doce
-- 1/4 de colher de chá de pimenta-do-reino a gosto (opcional)
+- ¼ de colher de chá de pimenta-do-reino a gosto (opcional)
 - 2 colheres de sopa de salsinha picada a gosto (opcional)
 - 2 litros de água quente
 - 2 colheres de sopa de azeite

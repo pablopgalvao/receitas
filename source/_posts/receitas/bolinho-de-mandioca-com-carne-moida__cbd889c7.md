@@ -31,9 +31,9 @@ flags: []
 - 2 colheres de sopa de óleo
 - 400 gramas de patinho moído
 - 2 colheres de chá de alho picado
-- 1/4 de xícara de chá de pimentão verde picado (40 gramas)
+- ¼ de xícara de chá de pimentão verde picado (40 gramas)
 - 1 colher de chá de sal
-- 1/4 de colher de chá de pimenta-do-reino moída
+- ¼ de colher de chá de pimenta-do-reino moída
 - 2 colheres de chá de orégano
 - --
 

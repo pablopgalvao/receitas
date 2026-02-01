@@ -48,5 +48,5 @@ flags: []
 2. Em uma tigela, coloque a canjica com a água e deixe de molho por cerca de 24 horas - isso ajuda a diminuir o tempo de cozimento. Depois, transfira a canjica com a água para uma panela de pressão, tampe e leve ao fogo baixo. Após pegar pressão, cozinhe por 35 minutos, ou até os grãos ficarem macios;
 3. Desligue o fogo e deixe a pressão sair sozinha. Abra a panela, verifique se os grãos estão macios (caso não esteja, volte para a pressão por mais 5 a 10 minutos) e transfira para uma panela grande;
 4. Adicione o leite, o leite condensado, leite de coco, o coco ralado, a canela em pau e os cravos-da-índia. Misture bem e, em fogo médio, deixe a canjica cozinhar e reduzir até ficar mais cremosa (cerca de 20 minutos)
-5. Prove a canjica e, se necessário, acrescente mais leite condensado (1/2 caixinha) ou açúcar (cerca de 3 colheres de sopa) para deixar mais docinha. Cozinhe por mais uns 3 a 5 minutos para incorporar;
+5. Prove a canjica e, se necessário, acrescente mais leite condensado (½ caixinha) ou açúcar (cerca de 3 colheres de sopa) para deixar mais docinha. Cozinhe por mais uns 3 a 5 minutos para incorporar;
 6. Agora é só aproveitar! Você pode servir a canjica quentinha ou levar à geladeira para gelar e ficar ainda mais cremosa. Na hora de servir, salpique canela em pó a gosto.

@@ -35,9 +35,9 @@ flags: []
 - 300 ml de leite integral
 - Sal e pimenta-do-reino a gosto
 - 2 gemas
-- 1/2 lata de creme de leite sem soro
-- 1/2 pacote de queijo ralado
-- 1/2 xícara de chá de cebolinha verde (ou salsinha)
+- ½ lata de creme de leite sem soro
+- ½ pacote de queijo ralado
+- ½ xícara de chá de cebolinha verde (ou salsinha)
 - 2 alhos-porós fatiados e aferventados previamente
 - --
 

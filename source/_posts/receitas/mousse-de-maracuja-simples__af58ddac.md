@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 1 colher de sobremesa de amido de milho
 - Polpa de 1 maracujá (100 gramas)
 - 3 colheres de sopa de açúcar (45 gramas)

@@ -30,9 +30,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 lata de leite condensado
+- 1 e ½ lata de leite condensado
 - 3 colheres de sopa de leite em pó
-- 1/2 colher de sopa de manteiga (ou margarina)
+- ½ colher de sopa de manteiga (ou margarina)
 - Uvas sem sementes a gosto
 - Leite em pó a gosto para decorar
 - --

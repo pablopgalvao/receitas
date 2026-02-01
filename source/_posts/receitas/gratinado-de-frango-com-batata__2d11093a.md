@@ -40,7 +40,7 @@ flags: []
 - 1 colher de chá de sal (para o frango)
 - 1 colher de café de sal (para o molho branco)
 - 1 colher de café de noz-moscada
-- 1/2 xícara de chá de parmesão ralado a gosto
+- ½ xícara de chá de parmesão ralado a gosto
 - --
 
 ---

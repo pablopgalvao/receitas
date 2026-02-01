@@ -33,7 +33,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abóbora japonesa
+- ½ abóbora japonesa
 - Óleo a gosto
 - 1 cebola picada
 - 1 colher de café de canela em pó

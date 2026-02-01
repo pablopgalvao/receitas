@@ -32,7 +32,7 @@ flags: []
 - 800 ml de leite integral
 - 3 ovos médios
 - 3 colheres de sopa de manteiga
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - --
 

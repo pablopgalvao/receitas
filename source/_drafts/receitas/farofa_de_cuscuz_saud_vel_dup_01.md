@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/4 de xícara de chá de flocão de milho (80 gramas)
+- ½ de xícara de chá de flocão de milho (80 gramas)
 - 4 colheres de sopa de água (60 ml)
 - 1 pitada de sal
-- 1/4 de colher de chá de pimenta-do-reino
-- 1/4 de colher de chá de curry
+- ¼ de colher de chá de pimenta-do-reino
+- ¼ de colher de chá de curry
 - 1 colher de sopa de salsinha (ou a gosto)
 - Em uma tigela, adicione o flocão de milho, o sal e umedeça com 2 colheres de sopa de água. Misture e leve ao micro-ondas por 2 minutos. Em seguida, aguarde esfriar e desmanche com as mãos ou garfo, até formar uma farofinha;
 - Adicione a cenoura ralada e 2 colheres de sopa de água. Misture e deixe cozinhar por 3 minutos;

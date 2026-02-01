@@ -32,7 +32,7 @@ flags: []
 - 1 litro de leite integral
 - 300 gramas de chocolate meio amargo nobre picado (40% a 55%)
 - 1 xícara de chá de açúcar refinado
-- 1/2 xícara de chá de creme de leite fresco (150 gramas)
+- ½ xícara de chá de creme de leite fresco (150 gramas)
 - 4 colheres de sopa de amido de milho
 - 4 colheres de sopa de cacau em pó 100% peneirado
 - Chocolate granulado para polvilhar

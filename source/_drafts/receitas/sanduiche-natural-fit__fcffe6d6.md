@@ -42,7 +42,7 @@ flags: []
 - Molho de pimenta (opcional)
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/4 de cebola roxa pequena
+- ¼ de cebola roxa pequena
 - 3 folhas pequenas de alface
 - Queijo ralado de sua preferência a gosto
 - Pão multigrãos

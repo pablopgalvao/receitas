@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 limões-taiti
-- 1/4 de xícara de chá de leite condensado (80 gramas)
-- 1/4 de xícara de chá de açúcar (100 gramas)
+- ¼ de xícara de chá de leite condensado (80 gramas)
+- ¼ de xícara de chá de açúcar (100 gramas)
 - 200 ml de cachaça
 - Gelo a gosto
 - --

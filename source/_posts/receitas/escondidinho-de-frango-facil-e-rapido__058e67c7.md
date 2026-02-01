@@ -31,8 +31,8 @@ flags: []
 
 - 1 kg de batatas
 - 2 colheres de sopa de margarina
-- 1/2 cebola média
-- 3/4 de xícara de chá de leite
+- ½ cebola média
+- ¾ de xícara de chá de leite
 - 1 colher de café de sal
 - 1 pitada de pimenta-do-reino
 - 200 gramas de queijo mussarela ralado

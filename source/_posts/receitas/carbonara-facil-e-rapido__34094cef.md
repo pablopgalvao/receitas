@@ -32,7 +32,7 @@ flags: []
 - 80 gramas de queijo parmesão ralado
 - 150 gramas de bacon
 - 150 gramas de espaguete (massa seca)
-- 1/4 de colher de chá de pimenta-do-reino moída (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino moída (ou a gosto)
 - --
 
 ---

@@ -34,7 +34,7 @@ flags: []
 - 10 linguiças toscana
 - 6 batatas médias
 - 3 dentes de alho amassados
-- 1/2 colher de chá de colorau
+- ½ colher de chá de colorau
 - 1 colher de chá de páprica defumada (opcional)
 - Sal e pimenta-do-reino a gosto
 - 2 colheres de sopa mais 1 fio de azeite

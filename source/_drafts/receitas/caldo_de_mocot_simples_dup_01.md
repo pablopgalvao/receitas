@@ -37,7 +37,7 @@ flags: []
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de chá de tempero baiano
 - 1 colher de chá de tempero vinagrete seco
-- 1 e 1/2 colher de sopa de sal
+- 1 e ½ colher de sopa de sal
 - Coentro e cebolinha a gosto
 - Finalize com cheiro-verde picado e, se desejar, ajuste o sal ou adicione um pouco mais de água para deixar o caldo mais ralo. Misture bem e sirva quente!
 

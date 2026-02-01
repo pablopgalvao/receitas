@@ -38,8 +38,8 @@ flags: []
 - 3 cenouras médias
 - 6 ovos
 - 2 xícaras de chá bem cheias de maionese (500 gramas)
-- 3 colheres de sopa de ervilha (85 gramas ou 1/2 latinha)
-- 3 colheres de sopa de milho-verde (85 gramas ou 1/2 latinha)
+- 3 colheres de sopa de ervilha (85 gramas ou ½ latinha)
+- 3 colheres de sopa de milho-verde (85 gramas ou ½ latinha)
 - Palmito a gosto
 - Azeitonas a gosto
 - Sal a gosto

@@ -33,7 +33,7 @@ flags: []
 - 500 gramas de mandioca
 - 4 colheres de sopa de colorau
 - 1 colher de sopa de cominho
-- 1/3 de xícara de vinagre de maçã
+- ⅓ de xícara de vinagre de maçã
 - Salsinha a gosto
 - Cebolinha a gosto
 - Sal a gosto

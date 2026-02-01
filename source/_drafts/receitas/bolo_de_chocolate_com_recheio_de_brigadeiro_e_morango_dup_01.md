@@ -31,7 +31,7 @@ flags: []
 
 - 1 caixa de creme de leite (200 gramas)
 - 4 colheres de sopa de chocolate em pó
-- 1 e 1/2 colher de sopa de manteiga (ou margarina)
+- 1 e ½ colher de sopa de manteiga (ou margarina)
 - Morangos picados a gosto
 - 2 xícaras de chá de farinha de trigo
 - 1 xícara de chá de açúcar

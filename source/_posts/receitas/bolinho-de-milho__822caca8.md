@@ -34,7 +34,7 @@ flags: []
 
 - 4 espigas de milho
 - 4 colheres de sopa de leite (50 ml)
-- 1/2 cebola pequena
+- ½ cebola pequena
 - 1 pacotinho de queijo parmesão ralado (ou 50 gramas ralado na hora)
 - Sal a gosto
 - Pimenta-do-reino a gosto

@@ -53,6 +53,6 @@ flags: []
 4. Adicione o alho, a cebola, a pimenta-de-cheiro, o pimentão e mexa. Deixe fritar até murcharem bem;
 5. Entre com os quiabos e logo em seguida, despeje o suco de limão. Assim, evita que ele fique com muita baba. Refogue por mais 2 minutinhos;
 6. Acrescente o arroz e os temperos secos. O sal, orégano, pimenta-do-reino e tempero baiano. Misture para incorporar;
-7. Quando o refogado começar a grudar levemente, no fundo da panela, adicione a água. Deve ficar de 1 a 1 e 1/2 dedo acima do nível dos ingredientes. Mantenha o fogo alto até começar a ferver;
+7. Quando o refogado começar a grudar levemente, no fundo da panela, adicione a água. Deve ficar de 1 a 1 e ½ dedo acima do nível dos ingredientes. Mantenha o fogo alto até começar a ferver;
 8. Quando o arroz começar a aparecer por cima, abaixe o fogo no mínimo e tampe a panela. O ponto ideal é quando o arroz seca e fica macio;
 9. Após desligar, é só finalizar com cheiro-verde. Sua refeição está pronta, agora é só servir e aproveitar!

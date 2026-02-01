@@ -32,18 +32,18 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz agulhinha
+- 1 e ½ xícara de chá de arroz agulhinha
 - 450 gramas de moela
 - 3 dentes de alho
 - 1 cebola grande
-- 1/2 cenoura
+- ½ cenoura
 - 2 talos pequenos de salsão
 - 1 colher de sopa de extrato de tomate
 - 1 pimenta-dedo-de-moça
 - 2 folhas de louro
 - 1 maço de coentro picado
 - Talos de coentro picado a gosto
-- 1/3 do maço de cebolinha picada
+- ⅓ do maço de cebolinha picada
 - Água até cobrir os ingredientes para cozinhar
 - Ovos a gosto
 - Óleo a gosto

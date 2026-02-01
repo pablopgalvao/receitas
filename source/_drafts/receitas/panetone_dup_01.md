@@ -41,7 +41,7 @@ flags: []
 - 1 colher de café de sal
 - 125 ml de água morna
 - 2 formas de papel para panetone (forma 500 gramas)
-- 1/2 xícara de chá de suco de laranja (opcional)
+- ½ xícara de chá de suco de laranja (opcional)
 - Em uma vasilha, coloque o fermento, a água, a farinha, misture bem, cubra com um pano e deixe descansar por 15 minutos;
 - Adicione na vasilha (com a esponja), o açúcar, a manteiga, as gemas, o sal, a essência de panetone e misture bem;
 - Gradualmente vá colocando a farinha, intercalando com a água e misturando até ganhar consistência;

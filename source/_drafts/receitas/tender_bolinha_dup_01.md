@@ -36,8 +36,8 @@ flags: []
 - 2 pimentas dedo-de-moça (20 gramas)
 - 2 limões grandes (60 ml de suco de limão)
 - 1 xícara de chá de açúcar
-- 1/2 xícara de chá de água
-- 1/2 colher de chá de sal
+- ½ xícara de chá de água
+- ½ colher de chá de sal
 - Em uma panela, adicione a pimenta picada, a maçã ralada, o alho inteiro, o suco de limão, o açúcar, a água e o sal. Misture bem;
 
 ---

@@ -31,12 +31,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 tomates higienizados
-- 4 e 1/2 xícaras de chá de mussarela ralada grosseiramente (300 gramas)
+- 4 e ½ xícaras de chá de mussarela ralada grosseiramente (300 gramas)
 - 1 colher de sopa de orégano
 - 1 colher de sopa de azeite
 - Sal e pimenta-do-reino a gosto
-- 1/4 de xícara de chá de molho ou passata de tomate (para pincelar a massa)
-- 1/4 de xícara de chá de queijo parmesão ralado finamente (polvilhar na massa)
+- ¼ de xícara de chá de molho ou passata de tomate (para pincelar a massa)
+- ¼ de xícara de chá de queijo parmesão ralado finamente (polvilhar na massa)
 - Farinha de trigo o suficiente para polvilhar a bancada
 - --
 
@@ -58,7 +58,7 @@ flags: []
 12. Com uma faca, separe a massa em 8 porções. Faça bolinhas;
 13. Coloque 4 porções da massa em uma assadeira (polvilhada com farinha de trigo) e cubra com um pano de prato limpo. Reserve na geladeira para evitar que a massa fermente em excesso;
 14. Com o auxílio do rolo de macarrão, abra uma porção da massa em formato de disco (aproximadamente 20 cm), com cerca de 0,5 cm de espessura. Polvilhe a bancada com farinha sempre que precisar para a massa não grudar;
-15. Em uma metade do disco, coloque 2/3 xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
+15. Em uma metade do disco, coloque ⅔ xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
 16. Dobre a massa, pressionando levemente para tirar o ar de dentro. Feche as bordas com os dedos;
 17. Com as pontas dos dedos, começando por uma das pontas, dobre a borda, em movimento de fora para dentro (dê uma leve puxadinha em um pequeno pedaço da borda e dobre para dentro, pressionando bem). Repita o processo. Essa é a bordinha clássica do calzone;
 18. Repita os processos de abrir, rechear e fechar com o restante da massa, sempre lembrando de polvilhar a bancada com farinha de trigo. Transfira os calzones moldados para uma assadeira. Deixe um espaço entre um e o outro;

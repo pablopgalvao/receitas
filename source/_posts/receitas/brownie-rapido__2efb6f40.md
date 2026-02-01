@@ -33,7 +33,7 @@ flags: []
 - 5 colheres de sopa de manteiga derretida
 - 3 xícara de chá de achocolatado (ou chocolate em pó)
 - 12 colheres de sopa de farinha de trigo
-- 1/2 xícara de chá de nozes picadas
+- ½ xícara de chá de nozes picadas
 - --
 
 ---

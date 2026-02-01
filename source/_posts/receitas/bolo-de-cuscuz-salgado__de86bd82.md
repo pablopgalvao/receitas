@@ -33,7 +33,7 @@ flags: []
 - 1 colher de chá de sal
 - 1 lata de milho-verde sem a água
 - 3 ovos
-- 1/4 de xícara de chá de leite
+- ¼ de xícara de chá de leite
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - 150 gramas de calabresa cortada em cubinhos
 - 150 gramas de queijo meia cura ou coalho em cubinhos

@@ -33,7 +33,7 @@ flags: []
 - 1 dente de alho
 - 2 pimentas-de-cheiro
 - 1 tomate
-- 1/2 maço de coentro e cebolinha
+- ½ maço de coentro e cebolinha
 - 1 pitada de colorau
 - 3 colheres de sopa de azeite de dendê
 - 1 xícara de chá de farinha de trigo

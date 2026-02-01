@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 8 unidades de tomate-italiano (1 kg)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 1 colher de sopa de azeite de oliva
 - 2 dentes de alho
 - 1 cenoura pequena (100 gramas)
 - 1 colher de sobremesa de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 5 ramos de manjericão
 - 250 gramas de macarrão espaguete
 - 2,5 litros de água

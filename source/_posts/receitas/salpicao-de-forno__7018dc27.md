@@ -32,12 +32,12 @@ flags: []
 - 2 colheres de sopa de amido de milho (dissolvido em um pouco de leite)
 - 1 copo de requeijão cremoso
 - 50 gramas de queijo parmesão ralado
-- 2 e 1/2 xícaras de leite
+- 2 e ½ xícaras de leite
 - 2 colheres de sopa de azeite
 - 3 colheres de sopa de extrato de tomate
 - 1 lata de milho-verde
 - 1 lata de ervilhas
-- 1 e 1/2 xícara de cenoura picada
+- 1 e ½ xícara de cenoura picada
 - 100 gramas de batata palha
 - 1 caixa de creme de leite
 - --

@@ -33,7 +33,7 @@ flags: []
 - 350 gramas de mortadela defumada picada
 - 300 gramas de mussarela ralada
 - 1 tomate picado
-- 1/2 cebola picada
+- ½ cebola picada
 - Salsinha a gosto
 - Sal a gosto
 - --

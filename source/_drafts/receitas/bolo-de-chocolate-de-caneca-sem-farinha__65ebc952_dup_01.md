@@ -30,7 +30,7 @@ flags: []
 
 - 2 colheres de sopa de cacau (ou chocolate) em pó
 - 7 colheres de sopa de leite
-- 1/2 colher de chá de manteiga
+- ½ colher de chá de manteiga
 - --
 
 ---

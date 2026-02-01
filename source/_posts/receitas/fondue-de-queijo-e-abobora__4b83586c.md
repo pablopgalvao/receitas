@@ -36,7 +36,7 @@ flags: []
 - 1 fio de azeite
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/3 xícara de chá de água
+- ⅓ xícara de chá de água
 - 200 gramas de queijo parmesão ralado
 - 200 gramas de queijo mussarela ralado
 - --

@@ -33,8 +33,8 @@ flags: []
 - 2 colheres de café de sal
 - 1 colher de café de pimenta-do-reino
 - Suco de 1 limão médio
-- 3/4 xícara de chá de polpa de maracujá fresca
-- 3/4 xícara de chá de água
+- ¾ xícara de chá de polpa de maracujá fresca
+- ¾ xícara de chá de água
 - 5 colheres de sopa (rasas) de açúcar
 - 1 colher de sobremesa (rasa) de manteiga com sal
 - 1 colher de sopa de azeite ou óleo (para dourar)

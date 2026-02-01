@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 2 colheres de sopa de manteiga
-- 1/4 xícara de chá de queijo parmesão fresco ralado (30 gramas)
-- 1/4 xícara de chá de amido de milho (ou fécula de batata) (35 gramas)
+- ¼ xícara de chá de queijo parmesão fresco ralado (30 gramas)
+- ¼ xícara de chá de amido de milho (ou fécula de batata) (35 gramas)
 - 1 xícara de chá de coco ralado sem açúcar (opcional) (110 gramas)
 - 1 xícara de chá de fubá (130 gramas)
 - 2 xícaras de chá de leite (480 ml)

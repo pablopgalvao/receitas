@@ -33,10 +33,10 @@ flags: []
 - 5 gramas de sal
 - 1 pitada de pimenta-do-reino
 - 2 colheres de chá de ervas finas secas
-- 1/4 de colher de chá de páprica
+- ¼ de colher de chá de páprica
 - Azeite de oliva e manteiga sem sal
-- 1/2 colher de sopa de extrato de tomate
-- 1/4 de xícara de chá de água aproximadamente
+- ½ colher de sopa de extrato de tomate
+- ¼ de xícara de chá de água aproximadamente
 - Em um recipiente, coloque a carne moída e tempere com sal, a cebolinha, a pimenta, as ervas finas secas, a páprica;
 - Em uma frigideira grande, esquente o azeite com a manteiga e refogue a cebola por 2 minutos;
 - Desligue o fogo e finalize com as salsinhas;

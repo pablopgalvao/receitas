@@ -37,8 +37,8 @@ flags: []
 - Coentro fresco a gosto
 - 1 tortilha grande (wrap tradicional Kim)
 - Guacamole
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Azeite a gosto
 - 160 gramas de frijoles (opcional)
 - --

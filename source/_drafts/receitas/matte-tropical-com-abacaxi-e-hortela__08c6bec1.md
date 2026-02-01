@@ -35,7 +35,7 @@ flags: []
 - 1 sachê de chá mate
 - 100 ml de água gelada
 - 1 sachê de abacaxi com hortelã
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 2 rodelas de abacaxi
 - 1 colher de sopa de mel
 - Gelo a gosto

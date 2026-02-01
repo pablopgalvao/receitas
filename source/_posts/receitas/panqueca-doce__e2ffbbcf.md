@@ -33,7 +33,7 @@ flags: []
 
 - 1 xícara de chá de farinha de trigo
 - 1 xícara de chá de leite
-- 3/4 de xícara de chá de água
+- ¾ de xícara de chá de água
 - 1 colher de sopa de manteiga derretida
 - 2 ovos
 - 1 pitada de sal

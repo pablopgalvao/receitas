@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 2 colheres de sopa de açúcar (30 gramas)
 - --
 

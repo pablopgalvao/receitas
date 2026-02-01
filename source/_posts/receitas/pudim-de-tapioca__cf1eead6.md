@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de tapioca granulada (75 gramas)
+- ½ xícara de chá de tapioca granulada (75 gramas)
 - 2 caixinhas de creme de leite (200 gramas cada)
 - 200 ml de leite de coco
-- 1/2 xícara de chá de leite integral (120 ml)
+- ½ xícara de chá de leite integral (120 ml)
 - 1 caixinha de leite condensado (395 gramas)
 - 2 ovos médios
 - 2 gemas

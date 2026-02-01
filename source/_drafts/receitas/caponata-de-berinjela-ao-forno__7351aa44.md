@@ -33,14 +33,14 @@ flags: []
 - 1 pimentão vermelho
 - 1 pimentão amarelo
 - 1 cebola
-- 1/3 de xícara de chá de azeitona picada
+- ⅓ de xícara de chá de azeitona picada
 - 3 dentes de alho
-- 1/3 de xícara de chá de uva-passa (40 gramas)
+- ⅓ de xícara de chá de uva-passa (40 gramas)
 - 2 colheres de sopa de alcaparras (50 gramas)
 - 1 colher de sopa de vinagre de vinho tinto
 - 1 colher de chá de sementes de erva-doce
-- 1/2 xícara de chá de azeite (120 ml)
-- 1/3 de xícara de chá de nozes picadas e tostadas (50 gramas)
+- ½ xícara de chá de azeite (120 ml)
+- ⅓ de xícara de chá de nozes picadas e tostadas (50 gramas)
 - 6 ramos de salsinha
 - --
 

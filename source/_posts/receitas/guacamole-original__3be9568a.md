@@ -36,8 +36,8 @@ flags: []
 - 1 cebola-roxa pequena
 - Caldo de 1 limão-taiti
 - 1 colher de chá de coentro fresco picado (ou a gosto)
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos grandes
-- 1/2 xícara de chá de óleo (110 ml)
+- ½ xícara de chá de óleo (110 ml)
 - 2 xícaras de chá de leite integral (450 ml)
 - 1 colher de chá de sal
 - 50 gramas de queijo parmesão ralado
-- 2 e 1/2 xícaras de chá de farinha de trigo (388 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (388 gramas)
 - 1 colher de sopa de fermento químico em pó - fermento para bolo (14 gramas)
 - Gergelim ou ervas finas para finalizar
 - --

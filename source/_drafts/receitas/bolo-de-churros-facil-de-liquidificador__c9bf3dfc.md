@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de doce de leite (100 gramas)
+- ¾ de xícara de chá de doce de leite (100 gramas)
 - 1 caixinha de creme de leite (200 ml)
 - --
 

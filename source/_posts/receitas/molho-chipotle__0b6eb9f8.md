@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de maionese (200 gramas)
-- 1 e 1/2 colher de sopa de molho de pimenta chipotle (15 gramas)
+- 1 e ½ colher de sopa de molho de pimenta chipotle (15 gramas)
 - 1 pitada de cominho em pó
 - 2 colheres de sopa de suco de limão (30 gramas)
 - 1 colher de sopa (rasa) de páprica doce (5 gramas)

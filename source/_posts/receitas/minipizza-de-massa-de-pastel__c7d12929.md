@@ -32,7 +32,7 @@ flags: []
 
 - 2 discos de massa de pastel
 - 2 colheres de sopa de molho de tomate
-- 1/2 tomate grande
+- ½ tomate grande
 - Queijo ralado a gosto
 - Orégano a gosto
 - --

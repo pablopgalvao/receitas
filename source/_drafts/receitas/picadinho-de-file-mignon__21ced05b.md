@@ -34,11 +34,11 @@ flags: []
 - 3 dentes de alho descascados
 - 4 colheres de sopa de farinha de trigo
 - 70 gramas de bacon em cubinhos
-- 1/2 de xícara de chá de extrato de tomate (130 gramas)
+- ½ de xícara de chá de extrato de tomate (130 gramas)
 - 2 colheres de sopa de molho inglês
-- Caldo de 1/2 limão
+- Caldo de ½ limão
 - 5 colheres de sopa de azeite
-- 1/4 de xícara de chá de salsa higienizados (20 gramas)
+- ¼ de xícara de chá de salsa higienizados (20 gramas)
 - 3 xícaras de chá de água fervente (cerca de 600 ml)
 - 1 colher de sopa rasa de sal
 - 1 colher de chá de pimenta-do-reino
@@ -53,7 +53,7 @@ flags: []
 3. Com uma faca, corte os bifes em tiras. E, por fim, as tiras em cubos (se você tiver comprado uma peça de filé mignon inteira, corte-a em bifes primeiro e depois siga o processo);
 4. Seque os cubos de carne com papel-toalha, para retirar a umidade;
 5. Coloque os cubos de carne em uma tigela e polvilho-os com a farinha de trigo - essa técnica serve para engrossar o molho;
-6. No fogo médio, aqueça uma panela grande com azeite. Quando ela estiver aquecida, coloque 1/3 dos cubos, deixando eles bem espaçados;
+6. No fogo médio, aqueça uma panela grande com azeite. Quando ela estiver aquecida, coloque ⅓ dos cubos, deixando eles bem espaçados;
 7. Acrescente pimenta-do-reino e sal. Mexa para todos os lados dourarem;
 8. Reserve os cubos de carne dourados e doure o restante em duas porções separadas. Uma dica é regar com um pouco de azeite antes de cada porção;
 9. Após finalizar e transferir todos os cubos de carne dourados para uma tigela, coloque 1 xícara de água quente e o caldo de limão na panela. Com uma colher, raspe os fundinhos da panela para dissolver as crostas cheias de sabor do fundo da panela;

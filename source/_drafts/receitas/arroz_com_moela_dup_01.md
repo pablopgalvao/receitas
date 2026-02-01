@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz agulhinha
+- 1 e ½ xícara de chá de arroz agulhinha
 - 450 gramas de moela
 - 2 talos pequenos de salsão
 - 1 colher de sopa de extrato de tomate

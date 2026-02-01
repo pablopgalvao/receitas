@@ -33,7 +33,7 @@ flags: []
 - 2 cebolas médias
 - 1 colher de sopa de azeite (ou a gosto)
 - Sal a gosto
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de orégano (ou a gosto)
 - --
 

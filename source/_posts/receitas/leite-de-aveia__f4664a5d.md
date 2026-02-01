@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de aveia em flocos grossos (150 gramas)
+- 1 e ½ xícara de chá de aveia em flocos grossos (150 gramas)
 - 4 xícaras de água para demolhar (960 ml)
-- 3 e 1/2 xícaras de água para bater no liquidificador (840 a 900 ml)
+- 3 e ½ xícaras de água para bater no liquidificador (840 a 900 ml)
 - 2 gotas de extrato de baunilha (opcional)
 - --
 

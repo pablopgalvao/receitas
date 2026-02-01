@@ -31,9 +31,9 @@ flags: []
 - 5 a 6 xícaras de farinha de trigo integral
 - 2 xícaras de chá de água
 - 5 gramas de fermento biológico seco
-- 1/2 colher de sopa de açúcar mascavo
+- ½ colher de sopa de açúcar mascavo
 - 3 colheres de sopa de azeite de oliva
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - --
 
 ---

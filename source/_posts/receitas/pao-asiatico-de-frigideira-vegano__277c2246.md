@@ -39,7 +39,7 @@ flags: []
 - Água para finalizar
 - Gergelim preto e branco para finalizar
 - Azeite para fritar
-- 1/3 xícara de chá de água (para cozinhar)
+- ⅓ xícara de chá de água (para cozinhar)
 - --
 
 ---

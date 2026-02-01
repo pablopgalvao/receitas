@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de castanha-de-caju cruas (40 gramas)
-- 1/3 xícara de chá de óleo de coco em estado líquido (80 ml)
+- ¼ xícara de chá de castanha-de-caju cruas (40 gramas)
+- ⅓ xícara de chá de óleo de coco em estado líquido (80 ml)
 - 2 colheres de sopa de azeite (30 ml)
 - --
 

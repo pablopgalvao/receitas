@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 lata de milho
-- 1/2 lata de óleo (medida da lata de milho)
-- 1/2 lata de açúcar (medida da lata de milho)
-- 1/2 lata de fubá (medida da lata de milho)
-- 1/2 lata de farinha de trigo com fermento
+- ½ lata de milho
+- ½ lata de óleo (medida da lata de milho)
+- ½ lata de açúcar (medida da lata de milho)
+- ½ lata de fubá (medida da lata de milho)
+- ½ lata de farinha de trigo com fermento
 - 2 ovos
 - --
 

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de leite condensado (395 gramas)
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 300 gramas de cobertura fracionada de chocolate branco
 - 13 uvas verdes grandes e sem caroço
 - 40 gramas de cobertura fracionada de chocolate ao leite para decorar

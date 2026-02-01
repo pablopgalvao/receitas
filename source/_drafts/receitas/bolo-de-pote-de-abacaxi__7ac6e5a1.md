@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 abacaxi picado (600 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 xícara de chá de leite condensado (395 gramas)
 - 1 caixa de creme de leite (200 gramas)
-- 1 e 1/2 xícara de chá de leite Ninho integral (200 gramas)
+- 1 e ½ xícara de chá de leite Ninho integral (200 gramas)
 - 3 colheres de sopa cheias de margarina ou manteiga (60 gramas)
 - 1 colher de sobremesa de emulsificante (10 gramas)
 - --

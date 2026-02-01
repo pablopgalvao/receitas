@@ -33,17 +33,17 @@ flags: []
 - 250 gramas de macarrão parafuso colorido
 - Água para cozinhar o macarrão
 - Sal a gosto para cozinhar o macarrão
-- 1 e 1/2 colher de chá de sal
+- 1 e ½ colher de chá de sal
 - 1 cenoura pequena
-- 1/2 lata de dueto milho e ervilha
+- ½ lata de dueto milho e ervilha
 - 10 azeitonas
 - 2 colheres de sopa de uvas-passas
 - 150 gramas de presunto em pedaço
 - 150 gramas de queijo mussarela em pedaço
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 100 gramas de maionese
 - 1 colher de sopa de chimichurri (ou a gosto)
-- 1/3 de colher de chá de pimenta-do-reino (ou a gosto)
+- ⅓ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

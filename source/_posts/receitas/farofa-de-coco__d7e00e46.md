@@ -32,7 +32,7 @@ flags: []
 
 - Bagaço do leite de coco caseiro
 - 1 colher de sopa rasa de manteiga ghee
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 dente de alho picado ou amassado
 - Sal a gosto
 - --

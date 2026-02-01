@@ -45,6 +45,6 @@ flags: []
 
 1. Separe todos os ingredientes na bancada. Quebre os ovos um a um em um recipiente separado, para garantir que estão bons. Meça os líquidos e o polvilho. Rale os queijos e unte as forminhas com óleo ou azeite. Deixe o forno preaquecendo a 180°C;
 2. No liquidificador, adicione os ovos, o óleo (ou azeite), o leite, os polvilhos, o sal e o queijo mussarela ralado. Bata por cerca de 2 minutos, até obter uma massa homogênea e levemente cremosa;
-3. Distribua a massa nas forminhas untadas, preenchendo até 3/4 da capacidade para evitar que transbordem ao crescer;
+3. Distribua a massa nas forminhas untadas, preenchendo até ¾ da capacidade para evitar que transbordem ao crescer;
 4. Se desejar, polvilhe queijo parmesão ralado por cima da massa antes de assar. Leve ao forno preaquecido por aproximadamente 20 minutos, ou até os pãezinhos de queijo crescerem e dourarem levemente;
 5. Retire do forno com cuidado e sirva ainda quentes.

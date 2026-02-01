@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de castanha-de-caju sem sal
-- 3/4 de xícara de chá de água
+- ¾ de xícara de chá de água
 - --
 
 ---

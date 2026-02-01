@@ -37,10 +37,10 @@ flags: []
 - 2 ovos
 - 1 xícara de chá de leite
 - 3 colheres de sopa de manteiga
-- 1/2 xícara de chá de eritritol
+- ½ xícara de chá de eritritol
 - Uma pitada de canela em pó
 - Essência de baunilha a gosto
-- 1/2 xícara de chá de farinha de aveia
+- ½ xícara de chá de farinha de aveia
 - 1 colher de sopa de fermento químico em pó
 - --
 

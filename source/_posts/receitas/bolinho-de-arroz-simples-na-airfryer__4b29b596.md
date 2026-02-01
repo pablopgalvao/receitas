@@ -35,7 +35,7 @@ flags: []
 - 2 colheres de sopa de queijo parmesão ralado
 - 1 colher de sopa de salsinha picada grosseiramente
 - 1 colher de sopa de azeite (ou a gosto)
-- 1/4 de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
 - Uma pitada de pimenta-do-reino (ou a gosto)
 - --
 

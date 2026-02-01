@@ -32,8 +32,8 @@ flags: []
 - 1 colher de sobremesa de salsinha desidratada
 - 1 colher de chá de cebola ou alho em pó
 - 1 colher de sopa de azeite
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de sal
+- ½ colher de chá de pimenta-do-reino
 - --
 
 ---

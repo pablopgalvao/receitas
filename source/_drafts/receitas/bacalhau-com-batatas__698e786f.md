@@ -34,8 +34,8 @@ flags: []
 - 1 cebola grande picada
 - Azeite a gosto
 - 1 tomate picado
-- 1/2 pimentão vermelho picado
-- 1/2 pimentão amarelo picado
+- ½ pimentão vermelho picado
+- ½ pimentão amarelo picado
 - 100 gramas de azeitonas
 - 600 gramas de bacalhau dessalgado, cozido e desfiado
 - Sal e pimenta-do-reino a gosto

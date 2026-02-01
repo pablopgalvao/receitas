@@ -36,7 +36,7 @@ flags: []
 - Suco de 1 limão
 - 1 colher de chá de chimichurri
 - 1 tomate
-- 1/2 maço de coentro
+- ½ maço de coentro
 - 150 gramas de charque
 - 1 colher de chá de colorau
 - 1 colher de chá de louro em pó

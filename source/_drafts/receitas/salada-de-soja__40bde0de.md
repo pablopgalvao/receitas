@@ -36,7 +36,7 @@ flags: []
 - 1 tomate médio (120 gramas)
 - 1 colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de azeite (ou a gosto)
-- 1/4 de xícara de chá de cheiro-verde (ou a gosto)
+- ¼ de xícara de chá de cheiro-verde (ou a gosto)
 - Água para cozinhar
 - Suco de 1 limão
 - --

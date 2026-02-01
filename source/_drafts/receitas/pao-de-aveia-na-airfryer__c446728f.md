@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 de xícara de chá de leite morno
-- 1/4 de xícara de chá de azeite (ou óleo)
+- 1 e ¼ de xícara de chá de leite morno
+- ¼ de xícara de chá de azeite (ou óleo)
 - 1 envelope de fermento biológico seco
-- 1/4 de xícara de chá de açúcar
+- ¼ de xícara de chá de açúcar
 - 2 ovos
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de farelo de aveia
+- 1 e ½ xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farelo de aveia
 - 1 colher de chá de sal
 - --
 

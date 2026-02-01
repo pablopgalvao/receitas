@@ -28,15 +28,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de azeite ou óleo
-- 1/4 de xícara de chá de cebola ralada
+- ½ colher de sopa de azeite ou óleo
+- ¼ de xícara de chá de cebola ralada
 - 1 colher de chá (rasa) de alho ralado
 - 1 xícara de chá de peito de frango já cozido e desfiado
-- 1/2 colher de chá (rasa) de sal
-- 1/4 de colher de chá (rasa) de pimenta-do-reino
+- ½ colher de chá (rasa) de sal
+- ¼ de colher de chá (rasa) de pimenta-do-reino
 - 1 colher de chá (rasa) de orégano
 - 1 colher de chá (rasa) de colorau
-- 1/2 colher de sopa de salsinha picada
+- ½ colher de sopa de salsinha picada
 - 6 colheres de sopa (rasas) de requeijão cremoso
 - --
 

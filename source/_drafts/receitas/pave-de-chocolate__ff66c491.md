@@ -31,12 +31,12 @@ flags: []
 
 - 1 caixa de leite condensado (395 gramas)
 - 3 colheres de sopa de amido de milho (30 gramas)
-- 3 + 1/2 xícaras de chá de leite (850 ml)
+- 3 + ½ xícaras de chá de leite (850 ml)
 - 1 colher de sopa de essência de baunilha (15 ml)
 - 1 xícara de chá de chocolate em pó 33% cacau (90 gramas)
 - Bolacha maisena de chocolate (220 gramas)
 - Bolacha maisena tradicional (150 gramas)
-- 1 + 1/2 xícaras de chá de leite para umedecer as bolachas (360 ml)
+- 1 + ½ xícaras de chá de leite para umedecer as bolachas (360 ml)
 - --
 
 ---

@@ -30,10 +30,10 @@ flags: []
 
 - 1 xícara de chá de leite (240 ml)
 - 3 ovos médios
-- 1/2 xícara de chá de óleo vegetal (120 ml)
-- 1/2 cebola
+- ½ xícara de chá de óleo vegetal (120 ml)
+- ½ cebola
 - 1 colher de chá de sal
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de trigo
 - 1 xícara de chá de fubá
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 200 gramas de requeijão cremoso para montagem

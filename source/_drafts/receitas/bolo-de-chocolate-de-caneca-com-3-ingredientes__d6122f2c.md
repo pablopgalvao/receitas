@@ -31,7 +31,7 @@ flags: []
 - 6 bolachas de chocolate recheadas
 - 10 colheres de sopa de leite (40 ml)
 - 1 colher de café rasa de fermento (3 gramas)
-- 1/2 barra de chocolate (opcional)
+- ½ barra de chocolate (opcional)
 - --
 
 ---

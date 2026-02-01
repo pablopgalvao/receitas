@@ -33,7 +33,7 @@ flags: []
 - 1 ovo médio batido
 - 1 colher de sopa de farinha de trigo
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 350 ml de óleo para fritar
 - Depois, coloque o ovo em uma tigela grande, acrescente a farinha na mesma tigela e misture com um garfo até ficar homogêneo;
 - Junte o peixe desfiado na mesma tigela, tempere com sal e pimenta. Misture com as mãos para os temperos pegarem por toda a massa;

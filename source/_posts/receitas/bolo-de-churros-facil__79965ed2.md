@@ -29,13 +29,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 pitada generosa de sal
 - 2 colheres de sopa de doce de leite
 - 1 colher de sopa de canela em pó
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de leite
-- 2 e 1/2 xícaras de farinha de trigo peneirada
+- 2 e ½ xícaras de farinha de trigo peneirada
 - 1 colher de sopa de fermento químico em pó
 - --
 

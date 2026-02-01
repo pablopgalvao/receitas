@@ -38,7 +38,7 @@ flags: []
 - 200 gramas de requeijão
 - 1 colher de sopa de farinha de trigo
 - 2 colheres de sopa de azeite
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho
 - 3 peitos de frango cozidos e desfiados
 - 4 colheres de molho de tomate

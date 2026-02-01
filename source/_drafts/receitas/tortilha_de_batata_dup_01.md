@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - Tomilho ou orégano fresco a gosto
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de sal
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de chá de cebolete
-- 1/3 xícara de chá de azeite
+- ⅓ xícara de chá de azeite
 - Em uma tigela, quebre os ovos, adicione sal e bata ligeiramente;
 - Acrescente parte das batatas aos ovos, amassando levemente com um garfo, depois adicione o restante mantendo a estrutura de algumas fatias inteiras;
 - Adicione a cebola, pimenta-do-reino e ajuste o sal, se necessário. Misture delicadamente;

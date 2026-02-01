@@ -37,7 +37,7 @@ flags: []
 - 3 raminhos de alecrim (ou a gosto)
 - 10 raminhos de tomilho (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de azeite (ou a gosto)
 - --
 

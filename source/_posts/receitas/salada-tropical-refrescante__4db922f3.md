@@ -31,11 +31,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 repolho pequeno
-- 1/2 cenoura
+- ½ repolho pequeno
+- ½ cenoura
 - 1 pimentão-vermelho
 - 1 tomate
-- 1/2 cebola
+- ½ cebola
 - 5 fatias de abacaxi (ou a gosto)
 - Orégano a gosto
 - Azeite a gosto

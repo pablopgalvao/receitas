@@ -30,9 +30,9 @@ flags: []
 
 - 2 xícaras de chá de goma de tapioca (280 gramas)
 - 1 xícara de chá de queijo mussarela ralado (120 gramas)
-- 1/3 de xícara de chá de queijo parmesão ralado (40 gramas)
+- ⅓ de xícara de chá de queijo parmesão ralado (40 gramas)
 - 2 colheres de sopa de manteiga (50 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - --
 
 ---

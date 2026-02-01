@@ -31,7 +31,7 @@ flags: []
 - 1 abóbora moranga média (1,6 kg)
 - 2 colheres de sopa de óleo para pincelar
 - 1 colher de sopa de sal (ou a gosto)
-- 1 e 1/2 colher de sopa de azeite
+- 1 e ½ colher de sopa de azeite
 - 2 dentes de alho
 - 1 cebola
 - 1 colher de chá de pimenta-calabresa (ou a gosto)

@@ -31,8 +31,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 colheres de sopa de nata
-- Suco de 1/2 limão
-- Raspas de 1/2 limão
+- Suco de ½ limão
+- Raspas de ½ limão
 - 1 pitada de sal
 - 1 pitada de pimenta-do-reino
 - --

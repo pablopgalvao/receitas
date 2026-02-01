@@ -28,12 +28,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água quente ou fervendo
-- 3/4 xícara de chá de açúcar
-- 1 e 1/2 xícara de chá de leite de coco em pó
+- ½ xícara de chá de água quente ou fervendo
+- ¾ xícara de chá de açúcar
+- 1 e ½ xícara de chá de leite de coco em pó
 - 1 xícara de chá de coco ralado
 - 2 colheres de sopa de óleo de coco
-- 1/4 xícara de chá de coco ralado para enrolar
+- ¼ xícara de chá de coco ralado para enrolar
 - 30 cravos-da-índia
 - --
 

@@ -29,16 +29,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de feijão carioca cru (150 gramas)
-- 1/4 de xícara de chá de água do cozimento do feijão (60 ml)
+- ¼ de xícara de chá de água do cozimento do feijão (60 ml)
 - 200 gramas de bacon
 - 100 gramas de linguiça calabresa defumada
 - 1 dente de alho
-- 1/4 de cebola (75 gramas)
+- ¼ de cebola (75 gramas)
 - 1 ovo médio
 - 3 folhas de couve
 - 50 gramas de farinha de mandioca
-- 1/2 colher de chá de sal para o cozimento feijão (ou a gosto)
-- 1/4 de colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal para o cozimento feijão (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
 - --
 
 ---

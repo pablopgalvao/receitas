@@ -31,15 +31,15 @@ flags: []
 
 - 2 xícaras de chá de farinha de mandioca (300 gramas)
 - 1 xícara de chá de bacon (120 gramas)
-- 1/2 cebola média
-- 1/3 de pimentão vermelho
+- ½ cebola média
+- ⅓ de pimentão vermelho
 - 1 cenoura média
 - 4 colheres de sopa de óleo (60 ml)
 - 3 ovos cozidos
-- 1/2 xícara de chá de uvas-passas (100 gramas)
+- ½ xícara de chá de uvas-passas (100 gramas)
 - Salsinha a gosto
-- 1/2 colher de chá de sal ou a gosto
-- 1/2 colher de chá de tempero baiano ou a gosto
+- ½ colher de chá de sal ou a gosto
+- ½ colher de chá de tempero baiano ou a gosto
 - 1 colher de chá de páprica doce ou a gosto
 - --
 

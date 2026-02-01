@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de purê de abóbora
-- 1 e 1/2 xícara de chá de polvilho azedo
+- 1 e ½ xícara de chá de purê de abóbora
+- 1 e ½ xícara de chá de polvilho azedo
 - 2 colheres de sopa de azeite
 - 1 colher de sopa de chia
 - 1 colher de chá rasa de sal

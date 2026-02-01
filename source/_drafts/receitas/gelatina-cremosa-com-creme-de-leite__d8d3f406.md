@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3 + 1/3 de xícara de chá de água (800 ml)
+- 3 + ⅓ de xícara de chá de água (800 ml)
 - 4 envelopes de gelatina sabor morango (80 gramas)
 - 2 caixas de creme de leite (400 gramas)
 - --

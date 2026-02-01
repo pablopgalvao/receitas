@@ -50,8 +50,8 @@ flags: []
 - sal a gosto
 - 3 cebolas pequenas, cortadas em rodelas
 - 100 g de bacon em fatias
-- 1/3 de xícara de chá de vinagre
-- 1/2 colher de café de cominho e pimenta do reino
+- ⅓ de xícara de chá de vinagre
+- ½ colher de café de cominho e pimenta do reino
 - 1 maço de jambu (ou agrião)
 - 12 colheres de sopa de farinha de mandioca torrada
 

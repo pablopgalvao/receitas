@@ -35,10 +35,10 @@ flags: []
 - 2 xícaras de chá de ervilha fresca (300 gramas)
 - 2 xícaras de chá de bacon picadinho (300 gramas)
 - 1 xícara de chá de amêndoas laminadas (80 gramas)
-- 2/3 xícara de chá de nozes (70 gramas)
-- 1/2 xícara de chá de uva-passas pretas (75 gramas)
-- 1/2 xícara de chá de uva-passas brancas (75 gramas)
-- 1/2 xícara de chá de vinho branco para as uva-passas (120 ml)
+- ⅔ xícara de chá de nozes (70 gramas)
+- ½ xícara de chá de uva-passas pretas (75 gramas)
+- ½ xícara de chá de uva-passas brancas (75 gramas)
+- ½ xícara de chá de vinho branco para as uva-passas (120 ml)
 - 2 colheres de sopa de salsinha picada
 - 1 colher de chá de sal
 - 1 colher de chá de pimenta-do-reino

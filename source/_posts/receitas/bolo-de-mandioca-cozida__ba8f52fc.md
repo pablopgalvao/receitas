@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1 e 1/2 xícara de chá de leite (360 ml)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de leite (360 ml)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 2 xícaras de aipim ou mandioca cozida (cerca de 500 gramas)
 - 2 colheres de sopa de manteiga (em temperatura ambiente)
 - 1 xícara de chá de farinha de trigo (140 gramas)

@@ -32,9 +32,9 @@ flags: []
 - 500 gramas de coxa e sobrecoxa (corte para frango a passarinho)
 - 400 gramas de mandioca
 - 1 colher de sopa de sal
-- 1/2 colher de chá de páprica defumada
-- 1/2 colher de chá de açafrão
-- 1/2 colher de chá de lemon pepper
+- ½ colher de chá de páprica defumada
+- ½ colher de chá de açafrão
+- ½ colher de chá de lemon pepper
 - 1 colher de sopa de vinagre
 - Adicione os pedaços de frango, sal, vinagre, chimichurri e cebola desidratada. Misture bem e acrescente os tomates;
 

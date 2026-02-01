@@ -34,10 +34,10 @@ flags: []
 - 1 cebola picada
 - 3 dentes de alho
 - 200 gramas de carne-seca dessalgada
-- 1/2 abóbora cabotiá em cubos
+- ½ abóbora cabotiá em cubos
 - 1 colher de sobremesa de açúcar
 - 1 colher de chá de sal
-- 1/4 de xícara de chá de água
+- ¼ de xícara de chá de água
 - Salsinha a gosto
 - Sal e pimenta-do-reino a gosto
 - Azeite para refogar

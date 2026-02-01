@@ -31,10 +31,10 @@ flags: []
 
 - 600 gramas de quiabo (cerca de 60 unidades)
 - 1 cebola
-- 1/4 de xícara de chá de camarão seco (descascado e sem olhos)
-- 1 e 1/4 de xícara de chá de castanha-de-caju (secas, sem torrar, sem salgar)
+- ¼ de xícara de chá de camarão seco (descascado e sem olhos)
+- 1 e ¼ de xícara de chá de castanha-de-caju (secas, sem torrar, sem salgar)
 - 1 xícara de chá de amendoim sem casca
-- 1 e 1/2 xícara de chá de água
+- 1 e ½ xícara de chá de água
 - 1 colher de sopa de gengibre ralado
 - 2 colheres de sopa de azeite de dendê
 - Sal a gosto

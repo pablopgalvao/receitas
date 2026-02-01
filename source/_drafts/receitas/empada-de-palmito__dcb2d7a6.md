@@ -30,9 +30,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/4 xícaras de chá de farinha de trigo sem fermento (315 gramas)
+- 2 e ¼ xícaras de chá de farinha de trigo sem fermento (315 gramas)
 - 4 colheres de sopa de manteiga
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 gema (sem pele)
 - 3 colheres de sopa ou mais de água gelada para dar o ponto
 - Gema para pincelar

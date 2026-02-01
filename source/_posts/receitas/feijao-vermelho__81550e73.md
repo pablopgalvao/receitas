@@ -31,7 +31,7 @@ flags: []
 
 - 500 gramas de feijão-vermelho
 - 1 colher de sopa de óleo
-- 1/2 cebola picada
+- ½ cebola picada
 - Sal e pimenta-do-reino a gosto
 - --
 

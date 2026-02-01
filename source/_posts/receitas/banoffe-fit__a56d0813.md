@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 caixinha de creme de leite light
+- ½ caixinha de creme de leite light
 - Whey de baunilha a gosto
 - 1 banana em rodelas
 - 3 colheres de sopa de doce de leite zero açúcar

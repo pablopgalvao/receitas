@@ -31,15 +31,15 @@ flags: []
 - 300 gramas de carne moída
 - 1 cebola (50 gramas)
 - 1 colher de café de páprica defumada
-- 1/4 de colher de chá de pimenta calabresa
+- ¼ de colher de chá de pimenta calabresa
 - 1 lata de milho (170 gramas)
 - 1 xícara de chá de molho de tomate (200 gramas)
 - 300 gramas de macarrão penne ou parafuso (grano duro)
-- 3 e 1/2 xícaras de água (840 ml)
+- 3 e ½ xícaras de água (840 ml)
 - 200 gramas de requeijão cremoso
 - 150 gramas de queijo mussarela ralado
 - 2 colheres de sopa de azeite
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 2 colheres de sopa de cheiro-verde picado
 - --
 

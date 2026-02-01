@@ -35,7 +35,7 @@ flags: []
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de colorau
 - 1 colher de chá de lemon pepper
-- 1/2 colher de chá de chimichurri seco
+- ½ colher de chá de chimichurri seco
 - Sal a gosto
 - Cheiro-verde a gosto
 - Em uma panela de pressão, aqueça o óleo (ou azeite) e refogue a cebola até murchar levemente. Agregue o alho picado e refogue até dourar;

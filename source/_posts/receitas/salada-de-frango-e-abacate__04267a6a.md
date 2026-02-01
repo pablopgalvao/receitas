@@ -35,11 +35,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate
+- ½ abacate
 - Frango desfiado e refogado a gosto
-- 1/2 cenoura ralada
-- 1/2 tomate
-- 1/2 pimentão-verde
+- ½ cenoura ralada
+- ½ tomate
+- ½ pimentão-verde
 - Azeitona preta a gosto
 - Alcaparras a gosto
 - Manjericão baby a gosto

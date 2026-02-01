@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída
-- 1/2 colher de sopa rasa de sal
+- ½ colher de sopa rasa de sal
 - 2 dentes de alho amassados
 - 1 ovo
 - Pimenta-do-reino a gosto
@@ -41,7 +41,7 @@ flags: []
 - 1 dente de alho picado
 - 3 tomates
 - 1 colher de sopa de colorau
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 3 colheres de extrato de tomate
 - 500 ml de água
 - Salsinha e cebolinha a gosto

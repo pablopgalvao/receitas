@@ -29,9 +29,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 copo de leite bem gelado (100 ml)
+- ½ copo de leite bem gelado (100 ml)
 - Óleo de soja (300 ml)
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - Pimenta-do-reino a gosto
 - Para começar, organize sua bancada e separe todos os ingredientes! Descasque os dentes de alho e corte-os em pedaços médios. Aproveite para quebrar o ovo e verificar se está bom;
 - No copo do liquidificador, coloque o leite gelado, os dentes de alho, o sal, a pimenta-do-reino, o suco de meio limão e um ovo. Se preferir uma consistência mais firme, use dois ovos;

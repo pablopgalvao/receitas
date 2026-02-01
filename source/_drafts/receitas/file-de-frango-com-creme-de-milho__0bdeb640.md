@@ -37,7 +37,7 @@ flags: []
 - 1 lata de milho (sem a água)
 - 250 ml de leite
 - 1 copo de requeijão
-- 1/2 cebola picada
+- ½ cebola picada
 - 3 dentes de alho picados
 - 200 gramas de parmesão
 - Cheiro-verde a gosto

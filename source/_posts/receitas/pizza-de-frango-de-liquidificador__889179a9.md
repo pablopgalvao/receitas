@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de açúcar
 - 1 pitada de sal
 - 1 colher de sopa de fermento em pó
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de trigo
 - 3 colheres de sopa de molho de tomate
 - 200 g de frango desfiado e temperado
 - 200 g de queijo mussarela ralado

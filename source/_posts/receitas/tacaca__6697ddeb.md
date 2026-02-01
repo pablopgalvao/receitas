@@ -35,7 +35,7 @@ flags: []
 - 4 dentes de alho médios
 - 3 maços de jambu
 - Água suficiente para ferventar o jambu
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 500 ml de água
 - 4 colheres de sopa de goma de mandioca do norte
 - 300 gramas de camarão seco dessalgado

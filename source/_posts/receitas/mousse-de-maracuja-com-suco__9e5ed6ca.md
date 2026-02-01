@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 3/4 de xícara de chá de leite em pó (200 gramas)
+- 1 e ¾ de xícara de chá de leite em pó (200 gramas)
 - 1 pacote de suco em pó de maracujá (18 gramas)
-- 1 e 1/2 xícara de chá de água (300 ml)
+- 1 e ½ xícara de chá de água (300 ml)
 - --
 
 ---

@@ -35,7 +35,7 @@ flags: []
 - 1 tomate médio (120 gramas)
 - 1 colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de azeite (ou a gosto)
-- 1/4 de xícara de chá de cheiro-verde (ou a gosto)
+- ¼ de xícara de chá de cheiro-verde (ou a gosto)
 - Reúna os ingredientes para fazer a salada de soja, deliciosa e proteica;
 - Pare o fogo, aguarde a pressão sair naturalmente, escorra a água e retire as casquinhas da soja. Transfira para um recipiente e junte a cebola, o tomate e o cheiro-verde. Tempere com sal, azeite e o suco de limão, e misture bem.
 - Sirva essa deliciosa salada de soja proteica e saborosa. Bom apetite!

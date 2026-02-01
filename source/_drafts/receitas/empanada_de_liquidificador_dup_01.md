@@ -29,15 +29,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 2 xícaras de chá de leite (480 ml)
-- 1/4 de xícara de queijo ralado (40 gramas)
+- ¼ de xícara de queijo ralado (40 gramas)
 - 2 xícaras de farinha de trigo com fermento (300 gramas)
 - 1 colher de sopa de azeite
 - 2 colheres de cebolinha picada
 - 2 latas de atum ou sardinha (180 gramas)
-- 1/2 lata de milho (80 gramas)
-- 1/2 lata de ervilha (80 gramas)
+- ½ lata de milho (80 gramas)
+- ½ lata de ervilha (80 gramas)
 - 1 colher de sopa de extrato de tomate (25 gramas)
 - 1 colher de chá de tempero caipira
 - 1 colher de chá de orégano (opcional)

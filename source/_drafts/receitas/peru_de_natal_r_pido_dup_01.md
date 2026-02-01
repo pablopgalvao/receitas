@@ -30,14 +30,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 peru inteiro (o nosso tinha 3,8 kg)
-- 1/2 xícara de chá de manteiga sem sal em temperatura ambiente (100 gramas)
+- ½ xícara de chá de manteiga sem sal em temperatura ambiente (100 gramas)
 - 1 colher de sopa de manteiga sem sal gelada (20 gramas)
 - 1 colher de chá de páprica doce
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de chá de pimenta-da-Jamaica
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de gengibre em pó
+- ½ colher de chá de sal
+- ½ colher de chá de gengibre em pó
 - 1 xícara de chá de vinho branco (240 ml)
 - 1 xícara de chá de água (240 ml)
 - Enquanto isso, em um bowl, misture a manteiga em temperatura ambiente com as pápricas, as pimentas, o sal, as raspas e o suco de limão. Envolva também o gengibre e o alho ralado até formar uma pasta homogênea;

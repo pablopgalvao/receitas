@@ -35,9 +35,9 @@ flags: []
 - 1 filé de frango (150 gramas)
 - 4 colheres de sopa de milho verde enlatado
 - 2 xícaras de chá de arroz (300 gramas)
-- 1/2 xícara de chá de seleta de legumes
+- ½ xícara de chá de seleta de legumes
 - 1 colher de chá de sal
-- 1/2 colher de sopa de tempero baiano (ou a gosto)
+- ½ colher de sopa de tempero baiano (ou a gosto)
 - Cheiro-verde a gosto
 - 4 xícaras de chá de água para o cozimento (ou até cobrir)
 - --

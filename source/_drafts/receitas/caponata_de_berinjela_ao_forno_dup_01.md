@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de chá de sal
-- 1/3 de xícara de chá de azeitona picada
-- 1/3 de xícara de chá de uva-passa (40 gramas)
+- ⅓ de xícara de chá de azeitona picada
+- ⅓ de xícara de chá de uva-passa (40 gramas)
 - 2 colheres de sopa de alcaparras (50 gramas)
 - 1 colher de sopa de vinagre de vinho tinto
 - 1 colher de chá de sementes de erva-doce
-- 1/2 xícara de chá de azeite (120 ml)
-- 1/3 de xícara de chá de nozes picadas e tostadas (50 gramas)
+- ½ xícara de chá de azeite (120 ml)
+- ⅓ de xícara de chá de nozes picadas e tostadas (50 gramas)
 - 6 ramos de salsinha
 - Transfira as berinjelas para um escorredor de macarrão e adicione 2 colheres de chá de sal. Misture bem e deixe descansando por 30 minutos;
 - Adicione na assadeira o vinagre de vinho tinto, as sementes de erva-doce, e o azeite. Com uma colher, misture tudo muito bem;

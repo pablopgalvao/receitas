@@ -32,7 +32,7 @@ flags: []
 - 1 pimenta jalapeño
 - 1 cebola média
 - 2 dentes de alho
-- 1/2 xícara de chá de coentro fresco picado
+- ½ xícara de chá de coentro fresco picado
 - 1 xícara de chá de caldo de galinha
 - 1 colher de sopa de óleo
 - 1 colher de chá de sal (ou a gosto)

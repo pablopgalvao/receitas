@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de fermento biológico seco
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
 - 2 colheres de sopa de açúcar
-- 1 e 1/2 colher de chá de sal
+- 1 e ½ colher de chá de sal
 - 1 colher de sopa de banha (pode ser óleo ou manteiga)
 - --
 

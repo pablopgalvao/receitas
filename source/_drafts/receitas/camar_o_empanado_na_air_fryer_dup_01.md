@@ -30,14 +30,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 700 gramas de camarões (limpos e sem casca)
-- 3/4 xícara de chá de farinha de trigo (100 gramas)
+- ¾ xícara de chá de farinha de trigo (100 gramas)
 - 1 colher de chá de alho em pó
 - 1 colher de sopa de cebola em pó
 - 1 colher de sopa de páprica doce
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de chá de molho de pimenta (ou a gosto)
 - 3 colheres de sopa de água (45 ml)
-- 1 e 1/2 xícara de chá de farinha panko (80 gramas)
+- 1 e ½ xícara de chá de farinha panko (80 gramas)
 - Azeite a gosto
 - Pimenta-do-reino a gosto
 - Reúna todos os ingredientes em sua bancada. Aproveite para quebrar os ovos e verificar se estão bons;

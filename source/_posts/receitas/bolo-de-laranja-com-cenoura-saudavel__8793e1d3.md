@@ -31,11 +31,11 @@ flags: []
 - 1 xícara de chá de cenoura ralada (120 gramas)
 - 1 xícara de chá de suco de laranja (240 ml)
 - 3 ovos
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de açúcar demerara (160 gramas)
 - 1 xícara de chá de farinha de arroz (120 gramas)
 - 1 xícara de chá de farinha de aveia (100 gramas)
-- 3/4 de xícara de chá de polvilho doce (90 gramas)
+- ¾ de xícara de chá de polvilho doce (90 gramas)
 - 1 colher de sopa de fermento em pó
 - --
 

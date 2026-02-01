@@ -34,11 +34,11 @@ flags: []
 - 2 dentes de alho triturado
 - 1 cebola grande picada
 - 1 xícara de chá de arroz arbóreo
-- 1/2 xícara de chá de vinho branco
+- ½ xícara de chá de vinho branco
 - 2 litros de caldo legumes caseiro (ou feito com 2 tabletes)
 - Sal e pimenta-do-reino a gosto
 - 1 talo de alho-poró cortado em rodelas
-- 1/2 xícara de chá de queijo parmesão ralado⁣
+- ½ xícara de chá de queijo parmesão ralado⁣
 - --
 
 ---

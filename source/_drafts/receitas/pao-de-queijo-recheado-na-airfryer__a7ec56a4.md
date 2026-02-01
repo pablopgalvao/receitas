@@ -31,7 +31,7 @@ flags: []
 
 - 1 dente de alho
 - 1 cebola pequena (40 gramas)
-- 1/2 calabresa (100 gramas)
+- ½ calabresa (100 gramas)
 - Cheiro-verde a gosto
 - 1 colher de sopa de requeijão cremoso
 - --

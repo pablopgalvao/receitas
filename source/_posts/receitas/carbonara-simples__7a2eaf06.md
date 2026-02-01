@@ -34,8 +34,8 @@ flags: []
 - 400 gramas de bacon (ou guanciale)
 - 5 gemas de ovo
 - 200 gramas de queijo parmesão (ou pecorino) ralado na hora
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

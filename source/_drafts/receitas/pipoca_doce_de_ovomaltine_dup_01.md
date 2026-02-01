@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de óleo
-- 1/2 xícara de chá de pipoca
-- 1/2 xícara de chá de água
+- ½ xícara de chá de pipoca
+- ½ xícara de chá de água
 - 1 xícara de chá de açúcar
 - 1 colher de sopa de manteiga (ou margarina)
-- 1/2 xícara de chá de Ovomaltine
+- ½ xícara de chá de Ovomaltine
 - Em uma panela, adicione o óleo, a pipoca, mexa bem, tampe a panela e deixe estourar;
 - Em outra panela, coloque a água, o açúcar, a manteiga, misture e deixe ferver. Quando você passar a colher e formar um caminho, desligue o fogo;
 - Finalize colocando o Ovomaltine e misture bem;

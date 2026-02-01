@@ -37,7 +37,7 @@ flags: []
 - 10 ramos de tomilho
 - 2 colheres de sopa de molho inglês
 - 1 colher de chá de noz-moscada ralada
-- 1/2 colher de sobremesa de sal
+- ½ colher de sobremesa de sal
 - 1 colher de chá de pimenta-do-reino
 - Fatias de pão italiano
 - 80 gramas de queijo gruyère ralado

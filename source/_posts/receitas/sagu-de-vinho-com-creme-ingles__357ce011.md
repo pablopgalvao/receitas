@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de sagu (80 gramas)
-- 1 e 1/2 xícara de chá de vinho tinto (1/2 garrafa) (375 ml)
+- ½ xícara de chá de sagu (80 gramas)
+- 1 e ½ xícara de chá de vinho tinto (½ garrafa) (375 ml)
 - 500 ml de água
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 canela em rama
 - 2 cravos-da-índia
 - --

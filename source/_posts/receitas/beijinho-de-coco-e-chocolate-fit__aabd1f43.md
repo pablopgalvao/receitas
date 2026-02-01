@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite em pó⁣
-- 2/3 xícara de chá de água⁣
+- ⅔ xícara de chá de água⁣
 - 3 colheres de sopa de coco ralado⁣
 - 3 colheres de sopa de eritritol
 - Cerca de 25 gramas de chocolate 70% cacau

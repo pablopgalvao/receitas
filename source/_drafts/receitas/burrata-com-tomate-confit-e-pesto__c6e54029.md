@@ -39,7 +39,7 @@ flags: []
 - 2 ramos grandes de alecrim, ou tomilho, ou orégano, ou sálvia (ou mix dos quatro)
 - 30 gramas de parmesão
 - 30 gramas de nozes
-- 1/2 dente de alho
+- ½ dente de alho
 - Sal a gosto
 - Azeite a gosto
 - Pimenta-do-reino a gosto

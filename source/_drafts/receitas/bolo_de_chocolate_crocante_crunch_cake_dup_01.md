@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar (100 gramas)
-- 1/3 xícara de chá de óleo (80 ml)
+- ½ xícara de chá de açúcar (100 gramas)
+- ⅓ xícara de chá de óleo (80 ml)
 - 6 colheres de sopa de cacau em pó 50% (60 gramas)
-- 1/2 xícara de chá de leite morno (120 ml)
-- 1 e 1/2 de xícara de chá de farinha de trigo (180 gramas)
+- ½ xícara de chá de leite morno (120 ml)
+- 1 e ½ de xícara de chá de farinha de trigo (180 gramas)
 - 2 colheres de chá de fermento químico (10 gramas)
-- 1 e 1/2 de xícara de chá de leite (360 ml)
+- 1 e ½ de xícara de chá de leite (360 ml)
 - 3 colheres de sopa de açúcar (45 gramas)
 - 3 colheres de sopa de cacau em pó 50% (30 gramas)
 - 350 gramas de chocolate meio amargo

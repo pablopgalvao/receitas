@@ -32,7 +32,7 @@ flags: []
 - 1,4 kg de coxa e sobrecoxa de frango
 - 1 colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de mostarda (50 gramas)
-- 1/2 xícara de chá de maionese (125 gramas)
+- ½ xícara de chá de maionese (125 gramas)
 - 1 colher de sopa de vinagre (25 ml)
 - Orégano a gosto (opcional)
 - Em seguida, incorpore os dentes de alho amassados e a cebola ralada, misturando bem com as mãos. Ajuste o sal se necessário;

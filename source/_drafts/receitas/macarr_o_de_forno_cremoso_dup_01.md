@@ -36,7 +36,7 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 colher de chá de shoyu
-- 1/2 xícara de chá de extrato de tomate
+- ½ xícara de chá de extrato de tomate
 - 300 ml de água
 - Molho de pimenta a gosto
 - Salsinha a gosto

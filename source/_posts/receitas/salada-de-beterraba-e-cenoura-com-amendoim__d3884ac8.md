@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de pasta de amendoim
 - 1 colher de chá de mel
 - 1 colher de sopa de shoyu
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 beterraba ralada
 - 1 cenoura ralada
 - Sal a gosto

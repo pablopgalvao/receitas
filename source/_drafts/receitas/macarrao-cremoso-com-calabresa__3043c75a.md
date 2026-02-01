@@ -38,9 +38,9 @@ flags: []
 - 3 dentes de alho
 - 1 cebola
 - 1 tomate
-- 1/2 pimentão
-- 1 e 1/2 xícara de chá de molho de tomate (350 gramas)
-- 1 e 1/2 xícara de chá de requeijão cremoso (200 gramas)
+- ½ pimentão
+- 1 e ½ xícara de chá de molho de tomate (350 gramas)
+- 1 e ½ xícara de chá de requeijão cremoso (200 gramas)
 - 1 xícara de chá de creme de leite (200 gramas)
 - 300 gramas de mussarela ralada ou picada
 - Cheiro-verde a gosto

@@ -30,18 +30,18 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 maço pequeno de alface (100 gramas)
-- 1/2 repolho roxo pequeno (150 gramas)
+- ½ repolho roxo pequeno (150 gramas)
 - 1 brócolis pequeno (200 gramas)
 - 1 cenoura (80 gramas)
 - 1 abacate (50 gramas)
-- 1/2 manga (50 gramas)
-- 1/2 colher de chá sal de ervas (ou o sal comum)
+- ½ manga (50 gramas)
+- ½ colher de chá sal de ervas (ou o sal comum)
 - 3 colheres de sopa de azeite (ou a gosto)
 - 2 colheres de sopa de vinagre de balsâmico
 - 1 colher de sopa de suco de limão
 - 1 colher de sopa de gergelim misto
 - 1 colher de sopa de salsa picada
-- 1/4 colher de chá de pimenta-da-jamaica
+- ¼ colher de chá de pimenta-da-jamaica
 - --
 
 ---

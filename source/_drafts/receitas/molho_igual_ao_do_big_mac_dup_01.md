@@ -31,7 +31,7 @@ flags: []
 
 - 250 ml de óleo de canola
 - 1 colher de sopa de mostarda
-- 1/2 colher de sopa de páprica doce
+- ½ colher de sopa de páprica doce
 - 1 colher de chá de alho em pó
 - 1 colher de chá de cebola em pó
 - Sal e pimenta-do-reino a gosto

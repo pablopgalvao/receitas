@@ -31,11 +31,11 @@ flags: []
 
 - 100 gramas de pinhão cozido
 - 200 gramas de arroz arbóreo
-- 1/2 cebola picada
+- ½ cebola picada
 - 50 gramas de parmesão ralado
 - 50 gramas de manteiga
 - 50 gramas de gorgonzola
-- 2/3 de xícara de chá de vinho branco
+- ⅔ de xícara de chá de vinho branco
 - 1 litro de caldo de legumes caseiro
 - 1 fio de azeite
 - Sal e pimenta-do-reino a gosto

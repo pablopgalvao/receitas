@@ -34,7 +34,7 @@ flags: []
 - 2 dentes de alho
 - 1 limão
 - Sal a gosto
-- 1/4 de xícara de chá de cebolinha verde (opcional)
+- ¼ de xícara de chá de cebolinha verde (opcional)
 - Óleo de soja (aprox. 30ml)
 - --
 

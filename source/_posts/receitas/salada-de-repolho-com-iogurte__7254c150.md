@@ -33,8 +33,8 @@ flags: []
 - 200 g de repolho verde cortado em tiras
 - 100 g de repolho roxo cortado em tiras
 - 1 xícara de chá de cenoura ralada
-- 1/2 xícara de chá de cebolinha picada
-- 2/3 xícara de chá de iogurte grego sem açúcar
+- ½ xícara de chá de cebolinha picada
+- ⅔ xícara de chá de iogurte grego sem açúcar
 - 2 colheres de sopa de mel
 - Suco de 1 limão
 - 1 colher de chá de mostarda amarela

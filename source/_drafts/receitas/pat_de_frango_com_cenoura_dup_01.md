@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de filé de frango desfiado (sassami)
-- 1/2 xícara de chá de azeitonas picadas
+- ½ xícara de chá de azeitonas picadas
 - Salsinha picada a gosto
 - 180 gramas de requeijão
 - 3 colheres de sopa de azeite de oliva

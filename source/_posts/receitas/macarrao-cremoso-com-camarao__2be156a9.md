@@ -41,7 +41,7 @@ flags: []
 - Pimenta-do-reino a gosto
 - 300 ml de creme de leite
 - Suco de 1 a 2 limões
-- 1/2 colher de sopa de sal para o molho de camarão
+- ½ colher de sopa de sal para o molho de camarão
 - --
 
 ---

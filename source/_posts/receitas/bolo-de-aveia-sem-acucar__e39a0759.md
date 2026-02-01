@@ -33,7 +33,7 @@ flags: []
 - 1 banana
 - 160 gramas de aveia em flocos
 - 2 ovos
-- 1/2 xícara de chá de uvas-passas
+- ½ xícara de chá de uvas-passas
 - 1 colher de chá de canela em pó
 - 1 colher de chá de fermento químico em pó
 - --

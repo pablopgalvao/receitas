@@ -31,13 +31,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de macarrão Padre Nosso
-- 1/2 kg de feijão cozido
+- ½ kg de feijão cozido
 - 700 ml de água
 - 2 chuchu
 - 2 cenouras
 - 2 batatas
 - 4 dentes de alho amassados
-- 1/2 cebola pequena picada
+- ½ cebola pequena picada
 - 4 colheres de azeite
 - 340 gramas de molho de tomate
 - Cheiro-verde a gosto

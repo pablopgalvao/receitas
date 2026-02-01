@@ -36,8 +36,8 @@ flags: []
 - 1 colher de sopa + 1 fio de azeite
 - 2 colheres de sopa de caldo do limão
 - 1 dente de alho picadinho
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/2 noz-moscada ralada na hora
+- ½ colher de chá de sal (ou a gosto)
+- ½ noz-moscada ralada na hora
 - --
 
 ---

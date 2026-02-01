@@ -34,7 +34,7 @@ flags: []
 
 - 3 colheres de sopa de aveia em flocos (cerca de 30 gramas)
 - 1 xícara de chá de leite (cerca de 200 ml)
-- 1/4 de colher de café de canela em pó (ou a gosto)
+- ¼ de colher de café de canela em pó (ou a gosto)
 - 1 cravo (ou a gosto)
 - 1 banana amassada
 

@@ -30,7 +30,7 @@ flags: []
 
 - 8 morangos médios
 - 1 caixa de leite condensado (395 gramas)
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 1 colher de sopa rasa de leite em pó
 - 10 gramas de manteiga sem sal
 - 100 gramas de cobertura fracionada de chocolate meio amargo

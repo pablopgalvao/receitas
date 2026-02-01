@@ -33,7 +33,7 @@ flags: []
 
 - 1 lata de leite condensado (395 gramas)
 - 100 gramas de coco seco ralado
-- 1/2 colher de sopa de manteiga (15 gramas)
+- ½ colher de sopa de manteiga (15 gramas)
 - 15 unidades de ameixa seca sem caroço
 - Água quente (opcional)
 - Manteiga para untar (opcional)

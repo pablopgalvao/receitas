@@ -30,8 +30,8 @@ flags: []
 
 - 250 gramas de batata
 - 1 colher de sopa de requeijão
-- 1/2 xícara de chá de leite (120 ml)
-- 1/4 de colher de chá de sal (ou a gosto)
+- ½ xícara de chá de leite (120 ml)
+- ¼ de colher de chá de sal (ou a gosto)
 - --
 
 ---

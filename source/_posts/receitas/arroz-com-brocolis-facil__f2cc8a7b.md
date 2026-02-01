@@ -33,7 +33,7 @@ flags: []
 - 4 xícaras de chá de água filtrada (960 ml)
 - 2 colheres de sopa de óleo (30 ml)
 - 2 dentes de alho
-- 1/2 cebola média
+- ½ cebola média
 - 2 xícaras de chá de arroz cru (360 gramas)
 - 1 colher de chá de sal
 - Caldo do brócolis batido (do preparo)

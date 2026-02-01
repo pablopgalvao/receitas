@@ -35,9 +35,9 @@ flags: []
 
 - 1 kg de filé de pescada branca (ou qualquer outro peixe de sua preferência)
 - 2 dentes de alho
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
+- ½ pimentão verde
+- ½ pimentão vermelho
+- ½ pimentão amarelo
 - 2 tomates grandes
 - 2 dentes de alho
 - 1 cebola média

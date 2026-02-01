@@ -34,14 +34,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 250 gramas de camarões frescos
-- 1/2 colher de sopa de manteiga
+- ½ colher de sopa de manteiga
 - Pimenta-do-reino a gosto
 - Sal a gosto
 - Salsinha picada a gosto
 - 2 batatas médias
 - 5 ovos grandes
 - 100 gramas de queijo mussarela ralado ou em cubinhos
-- 1/2 cebola picada ou ralada
+- ½ cebola picada ou ralada
 - Ervas finas a gosto
 - Azeite a gosto
 - --

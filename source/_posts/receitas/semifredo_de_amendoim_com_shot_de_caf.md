@@ -42,6 +42,6 @@ flags: []
 
 1. Numa tigela média coloque a pasta de amendoim, o mel e o caldo de laranja. Mexa bem com uma espátula até formar um creme liso.
 2. Numa outra tigela, coloque o creme de leite fresco e bata com o batedor de arame por cerca de 3 minutos, até o formar um creme firme.
-3. Junte cerca de 1/3 do creme batido à pasta de amendoim e misture bem com a espátula para incorporar. Adicione o restante do creme batido e misture delicadamente, fazendo movimentos circulares de baixo para cima - assim você não perde o ar do creme de leite batido e o semifredo fica levíssimo.
+3. Junte cerca de ⅓ do creme batido à pasta de amendoim e misture bem com a espátula para incorporar. Adicione o restante do creme batido e misture delicadamente, fazendo movimentos circulares de baixo para cima - assim você não perde o ar do creme de leite batido e o semifredo fica levíssimo.
 4. Transfira a base do semifredo para copos individuais (ou tigelas para sobremesa) e leve ao congelador por, no mínimo, 1 hora para firmar.
 5. Retire o semifredo do congelador e deixe em temperatura ambiente por 10 minutos antes de servir - assim ele perde um pouco do gelo e fica mais cremoso. Sirva acompanhado de um shot de café e amendoim picado a gosto.

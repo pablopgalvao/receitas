@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de água para a pamonha (120 ml)
+- ½ xícara de chá de água para a pamonha (120 ml)
 - Leve uma panela ao fogo alto com água suficiente para submergir as palhas. Transfira as palhas para a panela e afunde-as com uma colher. Mantenha por cerca de 3 minutos;
-- Transfira metade do milho para o liquidificador com um pouco de água, cerca de 1/2 xícara de chá. Não coloque água demais, apenas o suficiente para triturar o milho com facilidade. Bata por 3 a 5 minutos. Adicione o restante do milho e bata novamente;
+- Transfira metade do milho para o liquidificador com um pouco de água, cerca de ½ xícara de chá. Não coloque água demais, apenas o suficiente para triturar o milho com facilidade. Bata por 3 a 5 minutos. Adicione o restante do milho e bata novamente;
 - Passe esse creme de milho para uma tigela e junte o açúcar. Misture com uma colher até tudo incorporar, formando a massa da pamonha;
 - Para fazer a montagem, pegue uma palha grande e enrole-a um pouco, deixando uma cavidade no centro, onde a massa será colocada. Para que a pamonha não vaze, dobre a metade final da palha para cima e segure firmemente. Adicione a massa com cuidado na cavidade, em colheradas;
 
@@ -45,7 +45,7 @@ flags: []
 3. Leve uma panela ao fogo alto com água suficiente para submergir as palhas. Transfira as palhas para a panela e afunde-as com uma colher. Mantenha por cerca de 3 minutos;
 4. Retire as palhas da água e deixe-as escorrendo sobre um prato ou escorredor. Desligue o fogo e reserve essa água. Ela será reutilizada para cozinhar as pamonhas;
 5. Limpe as espigas, removendo os cabelos com as mãos. Após limpar, posicione uma espiga na vertical e corte o milho rente ao sabugo com uma faca grande e bem afiada. Repita com todas as espigas;
-6. Transfira metade do milho para o liquidificador com um pouco de água, cerca de 1/2 xícara de chá. Não coloque água demais, apenas o suficiente para triturar o milho com facilidade. Bata por 3 a 5 minutos. Adicione o restante do milho e bata novamente;
+6. Transfira metade do milho para o liquidificador com um pouco de água, cerca de ½ xícara de chá. Não coloque água demais, apenas o suficiente para triturar o milho com facilidade. Bata por 3 a 5 minutos. Adicione o restante do milho e bata novamente;
 7. Passe esse creme de milho para uma tigela e junte o açúcar. Misture com uma colher até tudo incorporar, formando a massa da pamonha;
 8. Para fazer a montagem, pegue uma palha grande e enrole-a um pouco, deixando uma cavidade no centro, onde a massa será colocada. Para que a pamonha não vaze, dobre a metade final da palha para cima e segure firmemente. Adicione a massa com cuidado na cavidade, em colheradas;
 9. Deixe cerca de 1 centímetro da cavidade sem preencher. Pegue outra palha, enrole em volta encaixando na outra palha e dobre ao contrário, para cobrir a cavidade. Segure bem as pontas, mas não aperte a pamonha para vazar;

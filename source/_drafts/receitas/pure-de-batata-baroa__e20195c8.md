@@ -30,8 +30,8 @@ flags: []
 
 - 2 xícaras de chá de batata-baroa (400 gramas)
 - 2 colheres de sopa de manteiga sem sal (30 gramas)
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de suco de laranja
 - --
 

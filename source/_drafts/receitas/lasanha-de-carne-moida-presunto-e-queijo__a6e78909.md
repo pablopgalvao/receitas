@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de óleo
-- 1/2 cebola
+- ½ cebola
 - 1 dente de alho
 - 400 gramas de molho de tomate
 - 200 ml de água quente

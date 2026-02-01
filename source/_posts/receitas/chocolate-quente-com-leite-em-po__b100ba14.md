@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 caixa de creme de leite (200 gramas)
-- 60 gramas de chocolate em pó (1/4 de xícara de chá)
+- 60 gramas de chocolate em pó (¼ de xícara de chá)
 - 100 gramas de leite em pó (cerca de 10 colheres de sopa cheias)
-- 300 ml de leite integral (1 e 1/4 xícara de chá)
+- 300 ml de leite integral (1 e ¼ xícara de chá)
 - --
 
 ---

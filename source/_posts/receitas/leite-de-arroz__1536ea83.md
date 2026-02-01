@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de arroz branco cru (100 gramas)
+- ½ xícara de arroz branco cru (100 gramas)
 - 2 xícaras de água filtrada para demolhar (480 ml)
-- 1 e 1/2 xícaras de água filtrada em temperatura ambiente para cozinhar (360 ml)
-- 2 e 1/2 xícaras de água filtrada para bater no liquidificador (600 ml)
+- 1 e ½ xícaras de água filtrada em temperatura ambiente para cozinhar (360 ml)
+- 2 e ½ xícaras de água filtrada para bater no liquidificador (600 ml)
 - --
 
 ---

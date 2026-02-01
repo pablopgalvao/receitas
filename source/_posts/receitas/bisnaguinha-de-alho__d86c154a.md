@@ -31,7 +31,7 @@ flags: []
 
 - 9 pães Bisnaguinha da Kim
 - 10 colheres de sopa de cream cheese (250 gramas)
-- 1/3 xícara de chá de creme de leite fresco (60 ml)
+- ⅓ xícara de chá de creme de leite fresco (60 ml)
 - 2 colheres de chá de açúcar (6 gramas)
 - 6 colheres de sopa de manteiga com sal (150 gramas)
 - 6 dentes de alho

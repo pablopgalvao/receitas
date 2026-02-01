@@ -36,7 +36,7 @@ flags: []
 - 1 colher de chá de sal
 - 550 gramas de farinha de trigo
 - 2 gemas para pincelar
-- 1/2 colher de sopa de amido de milho
+- ½ colher de sopa de amido de milho
 - 2 colheres de sopa de óleo
 - --
 

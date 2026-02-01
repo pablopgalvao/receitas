@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

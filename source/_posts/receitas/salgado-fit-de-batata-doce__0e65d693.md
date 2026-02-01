@@ -30,7 +30,7 @@ flags: []
 
 - 250 gramas de batata doce
 - 1 colher de sopa cream cheese light
-- 1/2 xícara de chá de farinha de aveia
+- ½ xícara de chá de farinha de aveia
 - 100 gramas de queijo ralado
 - --
 

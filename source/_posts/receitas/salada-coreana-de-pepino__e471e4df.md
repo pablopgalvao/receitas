@@ -31,9 +31,9 @@ flags: []
 
 - 4 pepinos
 - 1 colher de sopa (rasa) de sal
-- 1/2 xícara de chá de cebolinha picada
+- ½ xícara de chá de cebolinha picada
 - 1 dente de alho picado
-- 1 e 1/2 colher de sopa de vinagre
+- 1 e ½ colher de sopa de vinagre
 - 1 colher de sopa de shoyu
 - 2 colheres de sopa de óleo de gergelim
 - 1 colher de sopa de pimenta-dedo-de-moça picada e sem sementes

@@ -37,10 +37,10 @@ flags: []
 - 40 gramas de amendoim torrado
 - 50 ml de molho de soja (shoyu)
 - 100 ml de água
-- 1/2 colher de chá de pimenta calabresa (ou a gosto)
-- 1/2 xícara de chá de cebolinha picada (ou a gosto)
+- ½ colher de chá de pimenta calabresa (ou a gosto)
+- ½ xícara de chá de cebolinha picada (ou a gosto)
 - 1 colher de café de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 3 colheres de sopa de azeite (ou a gosto)
 - --
 

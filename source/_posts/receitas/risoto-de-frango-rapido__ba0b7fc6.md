@@ -34,13 +34,13 @@ flags: []
 - 1 lata de milho em conserva
 - 2 xícaras de chá de arroz branco
 - 5 xícaras de chá de água (1,2 litro)
-- 1/2 colher de sopa de páprica doce (ou a gosto)
+- ½ colher de sopa de páprica doce (ou a gosto)
 - 1 colher de chá de açafrão (ou a gosto)
 - 3 colheres de sopa de salsinha (ou a gosto)
 - 3 colheres de sopa de cebolinha (ou a gosto)
 - 3 dentes de alho triturados (ou a gosto)
 - 1 colher de sopa cheia de manteiga
-- 1 e 1/2 colher de sopa de sal
+- 1 e ½ colher de sopa de sal
 - --
 
 ---

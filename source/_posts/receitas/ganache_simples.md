@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 150 gramas de chocolate meio amargo
-- 1/2 xícara de chá de creme de leite de caixinha ou fresco aquecido (150 ml)
+- ½ xícara de chá de creme de leite de caixinha ou fresco aquecido (150 ml)
 
 ---
 

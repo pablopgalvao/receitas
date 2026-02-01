@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/2 xícara de chá de creme de leite (100ml)
+- ½ xícara de chá de creme de leite (100ml)
 - 1 pitada de sal ou a gosto
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de pimenta-do-reino ou a gosto
 - 1 colher de sobremesa de mostarda amarela (10 gramas)
 - 1 limão
 - Salsinha a gosto

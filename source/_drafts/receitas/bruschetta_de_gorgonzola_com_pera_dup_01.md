@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de azeite
 - Mel a gosto
 - 80 gramas de queijo gorgonzola (4 colheres de sopa depois de esmigalhado)
-- 1/3 de xícara de chá de nozes
+- ⅓ de xícara de chá de nozes
 - Em uma frigideira em fogo médio, adicione a manteiga e, assim que derreter, despeje as lâminas de pera. Deixe dourar por 15 minutos e reserve;
 
 ---

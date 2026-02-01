@@ -32,9 +32,9 @@ flags: []
 - 1 colher de sopa de molho inglês
 - 1 colher de chá de shoyu
 - 1 colher de chá de mirin
-- 1/2 colher de chá de gengibre ralado
-- 1/2 colher de chá de alho moído
-- 1/2 colher de chá de açúcar
+- ½ colher de chá de gengibre ralado
+- ½ colher de chá de alho moído
+- ½ colher de chá de açúcar
 - 1 colher de chá de mel
 - --
 

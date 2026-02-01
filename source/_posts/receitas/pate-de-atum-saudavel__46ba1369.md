@@ -31,8 +31,8 @@ flags: []
 - 2 ovos cozidos
 - 2 colheres de sopa de iogurte natural integral
 - 1 colher de sopa de azeite
-- 1/4 de colher de chá de sal ou (a gosto)
-- 1/4 de colher de chá de pimenta-do-reino ou (a gosto)
+- ¼ de colher de chá de sal ou (a gosto)
+- ¼ de colher de chá de pimenta-do-reino ou (a gosto)
 - 2 colheres de sopa de cheiro-verde ou (a gosto)
 - 170 gramas de atum sólido em óleo
 - --

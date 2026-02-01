@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (para o caramelo)
-- 1/2 xícara de chá de água (para o caramelo)
+- ½ xícara de chá de água (para o caramelo)
 - 1 lata de leite condensado (395 gramas)
 - 1 caixinha de creme de leite (200 gramas)
 - 200 ml de leite

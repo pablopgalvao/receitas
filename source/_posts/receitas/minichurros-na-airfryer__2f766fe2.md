@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de trigo
-- 1/2 colher de sopa de manteiga
-- 1/2 xícara de chá de água
-- 1/2 xícara de chá de leite integral
+- ½ colher de sopa de manteiga
+- ½ xícara de chá de água
+- ½ xícara de chá de leite integral
 - 1 colher de sopa de açúcar
 - 1 pitada de sal
-- 3 colheres de sopa de açúcar e 1/2 colher de chá de canela em pó (para polvilhar)
+- 3 colheres de sopa de açúcar e ½ colher de chá de canela em pó (para polvilhar)
 - Doce de leite, brigadeiro, goiabada ou outro acompanhamento de sua preferência
 - --
 

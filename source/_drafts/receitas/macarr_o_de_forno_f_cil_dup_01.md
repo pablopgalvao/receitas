@@ -33,7 +33,7 @@ flags: []
 - 2 caixinhas de creme de leite (400 gramas)
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de orégano
+- ½ colher de orégano
 - 250 gramas de presunto
 - 250 gramas de queijo mussarela
 - 500 gramas de macarrão cozido

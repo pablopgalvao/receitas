@@ -30,10 +30,10 @@ flags: []
 
 - 7 espigas de milho
 - 1 colher de sobremesa de sal
-- 1/2 xícara de chá de açúcar (100 gramas)
-- 1/2 xícara de chá de leite de coco (100 ml)
-- 3/4 de xícara de chá de leite (200 ml)
-- 1 e 1/2 xícara de chá de água (360 ml)
+- ½ xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de leite de coco (100 ml)
+- ¾ de xícara de chá de leite (200 ml)
+- 1 e ½ xícara de chá de água (360 ml)
 - --
 
 ---

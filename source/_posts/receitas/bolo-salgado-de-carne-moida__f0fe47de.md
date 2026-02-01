@@ -32,7 +32,7 @@ flags: []
 
 - 2 colheres de sopa de azeite
 - 500 gramas de carne moída
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de chá de páprica defuma (ou a gosto)
 - 2 cebolas
 - 1 colher de sopa de milho

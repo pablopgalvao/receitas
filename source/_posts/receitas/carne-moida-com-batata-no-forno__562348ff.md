@@ -38,7 +38,7 @@ flags: []
 - Orégano a gosto
 - Azeite a gosto
 - 2 colheres de sopa de óleo
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho amassados
 - 600 g de carne moída (acém ou patinho)
 - 150 g de queijo muçarela ralado

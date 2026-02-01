@@ -32,8 +32,8 @@ flags: []
 - 2 xícaras de chá de aveia em flocos finos (200 gramas)
 - 3 ovos médios
 - 1 xícara de chá de açúcar refinado (200 gramas)
-- 3/4 de xícara de chá de leite (180 ml)
-- 1/2 xícara de chá de óleo (120 ml)
+- ¾ de xícara de chá de leite (180 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de chá de canela em pó
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 pitada de sal

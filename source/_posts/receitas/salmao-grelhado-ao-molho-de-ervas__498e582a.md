@@ -34,7 +34,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 caixinha de creme de leite
+- ½ caixinha de creme de leite
 - 1 colher de sopa de suco de limão
 - Raspas de limão a gosto
 - Sal e pimenta-do-reino a gosto

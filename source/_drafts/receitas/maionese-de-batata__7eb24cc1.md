@@ -32,14 +32,14 @@ flags: []
 
 - 2 gemas cozidas
 - 1 gema crua
-- 1/2 colher de sopa de vinagre
+- ½ colher de sopa de vinagre
 - 1 pitada de sal (ou a gosto)
 - 1 xícara de chá de óleo (240 ml)
 - 4 batatas inglesas
 - 1 cebola
 - 1 colher de sopa de azeite
 - Cebolinha a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - --
 
 ---

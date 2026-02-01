@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de manteiga (50 gramas)
-- 1/3 de xícara de chá de farinha de trigo (35 gramas)
+- ¼ xícara de chá de manteiga (50 gramas)
+- ⅓ de xícara de chá de farinha de trigo (35 gramas)
 - 1 litro de leite integral
-- 1/2 colher de chá de sal ou a gosto
+- ½ colher de chá de sal ou a gosto
 - Noz-moscada ralada a gosto
 - 1 cebola média (opcional)
 - --

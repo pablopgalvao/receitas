@@ -29,15 +29,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola
+- ½ cebola
 - 1 bandeja de cogumelo Paris (150 gramas)
 - 100 ml de vinho branco seco
 - 1 colher de sopa de manteiga
 - 1 caixa de creme de leite (200 gramas)
 - 2 xícaras de chá de arroz cozido
 - 100 gramas de queijo parmesão ralado
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Cheiro-verde a gosto
 - --
 

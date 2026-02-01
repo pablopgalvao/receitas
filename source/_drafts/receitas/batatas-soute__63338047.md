@@ -31,8 +31,8 @@ flags: []
 
 - 500 gramas de batatas picadas
 - 2 colheres de sopa de óleo
-- 1/2 xícara de chá de manteiga
-- 1/2 xícara de chá de parmesão ralado
+- ½ xícara de chá de manteiga
+- ½ xícara de chá de parmesão ralado
 - 1 dente de alho picado
 - 1 colher de chá de salsa picada
 - Sal e pimenta a gosto

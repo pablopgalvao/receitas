@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 chuletas (bife de contrafilé com osso)
-- 1/2 colher de chá sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá sal (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de azeite
 - 1 colher de sopa de manteiga
 - 2 dentes de alho grandes descascados (opcional)

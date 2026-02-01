@@ -32,11 +32,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 gramas de cogumelo Paris
-- 1/2 cebola pequena
+- ½ cebola pequena
 - Azeite de oliva a gosto
 - 3 colheres de sopa de manteiga
 - 1 xícara de chá de arroz arbóreo
-- 1/2 xícara de chá de vinho branco seco
+- ½ xícara de chá de vinho branco seco
 - 1 litro de caldo de cogumelos quente
 - 100 gramas de queijo parmesão ralado na hora
 - Sal a gosto

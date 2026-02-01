@@ -28,12 +28,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de água morna (360 ml)
+- 1 e ½ xícara de chá de água morna (360 ml)
 - 3 ovos
 - 10 colheres de sopa de açúcar (120 gramas)
 - 1 colher de sopa de sal
 - 4 colheres de sopa de leite em pó
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de sopa de margarina
 - 2 colheres de sopa de fermento biológico seco (20 gramas)
 - 1,2 kg de farinha de trigo tipo 1

@@ -35,9 +35,9 @@ flags: []
 - 3 colheres de sopa de óleo
 - 1 cebola picada
 - 2 dentes de alho espremidos
-- 1/2 xícara de chá de azeitona picada sem caroço
-- 1/2 xícara de chá de ameixa seca picada
-- 1 e 1/2 xícara de chá de farinha de mandioca crua
+- ½ xícara de chá de azeitona picada sem caroço
+- ½ xícara de chá de ameixa seca picada
+- 1 e ½ xícara de chá de farinha de mandioca crua
 - 1 xícara de chá de vinho branco seco
 - 1 xícara de chá de água
 - --

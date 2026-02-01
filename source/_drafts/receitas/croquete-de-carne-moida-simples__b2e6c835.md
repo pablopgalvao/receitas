@@ -33,10 +33,10 @@ flags: []
 - 500 g de carne moída
 - 4 dentes de alho amassados
 - 1 cebola ralada
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de café de pimenta-do-reino
 - 1 xícara de chá de leite
-- 1/2 xícara de chá de farinha de trigo
+- ½ xícara de chá de farinha de trigo
 - 2 ovos
 - 2 xícaras de chá de farinha de rosca
 - Óleo

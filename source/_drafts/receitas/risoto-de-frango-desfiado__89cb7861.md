@@ -32,7 +32,7 @@ flags: []
 
 - 1 xícara de chá de arroz arbóreo
 - 300 gramas de frango desfiado
-- 1/2 xícara de vinho branco (120 ml)
+- ½ xícara de vinho branco (120 ml)
 - 500 ml de caldo de frango ou legumes
 - 1 cebola grande
 - 1 colher de sopa de manteiga

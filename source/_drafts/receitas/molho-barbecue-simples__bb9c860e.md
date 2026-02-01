@@ -30,12 +30,12 @@ flags: []
 
 - 1 colher de sopa de azeite (15 ml)
 - 1 colher de sopa de cebola (15 gramas)
-- 1/2 colher de sopa de alho (1 dente pequeno)
+- ½ colher de sopa de alho (1 dente pequeno)
 - 1 colher de sopa de açúcar mascavo (30 gramas)
 - 1 colher de sopa de molho inglês (15 ml)
 - 1 colher de sopa de vinagre de álcool (15 ml)
 - 3 colheres de sopa de ketchup (45 gramas)
-- 1/2 colher de sopa de mostarda (7 gramas)
+- ½ colher de sopa de mostarda (7 gramas)
 - 4 colheres de sopa de água (60 ml)
 - --
 

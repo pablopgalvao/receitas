@@ -32,15 +32,15 @@ flags: []
 - 250 gramas de feijão-azuki
 - 500 ml de água para a primeira fervura
 - 1 xícara de chá de açúcar mascavo (200 gramas)
-- 1/2 colher de chá de sal
-- 1 e 1/4 de xícara de chá de farinha de trigo (150 gramas)
-- 1/2 xícara de chá de farinha de arroz (70 gramas)
+- ½ colher de chá de sal
+- 1 e ¼ de xícara de chá de farinha de trigo (150 gramas)
+- ½ xícara de chá de farinha de arroz (70 gramas)
 - 2 colheres de sopa de açúcar
 - 2 ovos médios
-- 1 e 1/4 xícara de chá de leite integral (300 ml)
-- 1/4 de colher de chá de bicarbonato de sódio
-- 1/4 de colher de chá de fermento químico em pó (fermento para bolo)
-- 1/4 de colher de chá de sal
+- 1 e ¼ xícara de chá de leite integral (300 ml)
+- ¼ de colher de chá de bicarbonato de sódio
+- ¼ de colher de chá de fermento químico em pó (fermento para bolo)
+- ¼ de colher de chá de sal
 - Transfira os grãos para uma frigideira grande em fogo médio, junte o açúcar e o sal e cozinhe por cerca de 20 minutos ou até formar uma pasta. Com uma colher de pau, misture e amasse enquanto cozinha. Quando desgrudar da panela, está no ponto. Reserve em um refratário;
 - Para fazer a massa, quebre os ovos separadamente e verifique se eles estão bons. Coloque-os em uma tigela e bata com um fouet;
 - Quando estiver homogêneo, adicione o leite e continue misturando. Adicione o açúcar e bata novamente até formar uma mistura líquida e homogênea;

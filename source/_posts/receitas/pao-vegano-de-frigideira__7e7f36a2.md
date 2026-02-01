@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de trigo branca
-- 1/2 xícara de chá de farinha de trigo integral
+- ½ xícara de chá de farinha de trigo integral
 - 1 colher de chá de sal
 - 2 colheres de chá de fermento em pó químico
-- 1/2 xícara de chá de água morna
+- ½ xícara de chá de água morna
 - 1 colher de sopa de óleo vegetal
-- 1/4 de xícara de chá de cebolinha verde picada
-- 1/4 de colher de chá de pimenta-do-reino (opcional)
+- ¼ de xícara de chá de cebolinha verde picada
+- ¼ de colher de chá de pimenta-do-reino (opcional)
 - Um fio de azeite
 - --
 

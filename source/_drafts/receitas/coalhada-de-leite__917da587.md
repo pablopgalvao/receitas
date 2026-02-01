@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 litros de leite tipo A de garrafa
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Mel ou açúcar a gosto para servir (opcional)
 - --
 

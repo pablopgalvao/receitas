@@ -31,7 +31,7 @@ flags: []
 
 - 1 envelope de fermento biológico seco (10 gramas)
 - 250 ml de água morna
-- 1/3 de xícara de chá de açúcar
+- ⅓ de xícara de chá de açúcar
 - 1 colher de chá de baunilha
 - 3 colheres de sopa de manteiga (para massa)
 - 500 gramas de farinha de trigo

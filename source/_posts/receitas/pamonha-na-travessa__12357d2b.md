@@ -30,11 +30,11 @@ flags: []
 
 - 2 latinhas de milho em conserva sem a água (400 gramas)
 - 3 ovos
-- 1 e 1/2 xícara de chá de leite
+- 1 e ½ xícara de chá de leite
 - 1 xícara de chá de açúcar
-- 1/2 xícara de chá de manteiga sem sal
+- ½ xícara de chá de manteiga sem sal
 - 50 gramas de queijo parmesão ralado
-- 1/3 xícara de chá de fubá fino
+- ⅓ xícara de chá de fubá fino
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

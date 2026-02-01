@@ -39,7 +39,7 @@ flags: []
 - Pimenta-do-reino a gosto
 - 2 colheres de sopa de salsinha picada
 - 2 colheres de sopa de cebolinha picada
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - --
 
 ---

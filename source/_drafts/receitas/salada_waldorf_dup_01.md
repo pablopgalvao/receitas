@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 de xícara de chá de iogurte natural
-- 1/4 de xícara de chá de maionese
+- ¼ de xícara de chá de iogurte natural
+- ¼ de xícara de chá de maionese
 - Sal e pimenta-do-reino a gosto
 - 1 talo de salsão picado
-- 1/2 xícara de chá de nozes tostadas
+- ½ xícara de chá de nozes tostadas
 - Folhas de alface a gosto
 - Tempere com sal, pimenta e misture;
 - Adicione as uvas, o salsão, as maçãs, as nozes e mexa bem. Reserve;

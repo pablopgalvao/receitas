@@ -38,7 +38,7 @@ flags: []
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de chá de louro em pó
 - 1 colher de sopa de sal (ou a gosto)
-- Em uma panela, aqueça um fio de óleo e adicione o bacon com as calabresas. Refogue até dourarem, cerca de 5 minutos. Separe 1/4 desse bacon e calabresas para a finalização;
+- Em uma panela, aqueça um fio de óleo e adicione o bacon com as calabresas. Refogue até dourarem, cerca de 5 minutos. Separe ¼ desse bacon e calabresas para a finalização;
 
 ---
 
@@ -47,7 +47,7 @@ flags: []
 1. Reúna os ingredientes e higienize os vegetais. Para facilitar, já deixe tudo bem picado em cubinhos: as calabresas, o bacon, o alho, a cebola e o tomate. Não esqueça de picar a cebolinha finamente;
 2. Leve uma panela grande ao fogo alto com as mandiocas descascadas e cortadas em rodelas. Adicione o caldo de costela até cobri-las. Deixe cozinhar por 20 minutos ou até ficarem macias;
 3. Após cozinhar, desligue o fogo e bata a mandioca com parte do caldo no liquidificador. Se necessário, faça essa etapa em várias levas - assim você não sobrecarrega o eletrodoméstico;
-4. Em uma panela, aqueça um fio de óleo e adicione o bacon com as calabresas. Refogue até dourarem, cerca de 5 minutos. Separe 1/4 desse bacon e calabresas para a finalização;
+4. Em uma panela, aqueça um fio de óleo e adicione o bacon com as calabresas. Refogue até dourarem, cerca de 5 minutos. Separe ¼ desse bacon e calabresas para a finalização;
 5. Agregue a cebola e o alho. Refogue mais um pouco até que soltem seus aromas;
 6. Junte a mandioca batida com o caldo, o tomate e o restante dos temperos: cominho, pimenta-do-reino, louro em pó e sal. Misture tudo para incorporar;
 7. Finalize com cebolinha e desligue o fogo. Sirva esse caldo de mandioca quentinho com pedacinhos de bacon e calabresa crocantes por cima!

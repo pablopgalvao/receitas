@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de maionese (130 gramas)
-- 1/4 de xícara de ketchup (70 gramas)
+- ½ xícara de maionese (130 gramas)
+- ¼ de xícara de ketchup (70 gramas)
 - 1 colher de sobremesa de mostarda (10 gramas)
 - 1 colher de café de molho inglês
 - --

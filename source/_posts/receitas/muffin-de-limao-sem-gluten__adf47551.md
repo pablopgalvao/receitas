@@ -34,7 +34,7 @@ flags: []
 - 40 ml óleo da sua preferência
 - 80 gramas de açúcar demerara
 - 40 ml leite desnatado ou vegetal
-- Suco de 1/2 limão-siciliano
+- Suco de ½ limão-siciliano
 - Raspas de limão a gosto
 - 150 gramas de farinha de arroz
 - 1 colher de chá de fermento químico em pó (fermento para bolo)

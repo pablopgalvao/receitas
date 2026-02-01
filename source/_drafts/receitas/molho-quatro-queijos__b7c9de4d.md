@@ -35,7 +35,7 @@ flags: []
 - 50 gramas de queijo provolone
 - 50 gramas de queijo parmesão
 - 2 colheres de sopa manteiga
-- 1 e 1/2 colher de sopa farinha de trigo sem fermento
+- 1 e ½ colher de sopa farinha de trigo sem fermento
 - 1 litro de leite morno
 - Sal e pimenta-branca (ou pimenta-do-reino) a gosto
 - Noz-moscada a gosto

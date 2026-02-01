@@ -30,7 +30,7 @@ flags: []
 
 - 2 colheres de sopa de amido de milho
 - 500 ml de leite integral
-- 1 e 1/2 caixa de leite condensado
+- 1 e ½ caixa de leite condensado
 - 1 caixa de creme de leite
 - 200 g de coco ralado
 - 1 colher de sopa de manteiga

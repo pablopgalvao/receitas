@@ -42,8 +42,8 @@ flags: []
 - Azeite a gosto
 - 1 cebola
 - 350 gramas de proteína de soja
-- 1/4 xícara de chá de azeitona
-- 1/4 xícara de chá de extrato de tomate
+- ¼ xícara de chá de azeitona
+- ¼ xícara de chá de extrato de tomate
 - Pimenta-do-reino, alho em pó, cebola em pó e noz-moscada a gosto
 - Levedura nutricional a gosto
 - --

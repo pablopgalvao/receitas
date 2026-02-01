@@ -30,10 +30,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de milho para canjica
+- ½ xícara de chá de milho para canjica
 - 1 litro de água
 - 1 fio de azeite
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 tomates picados
 - 1 dente de alho picado
 - 3 linguiças calabresas do tipo fininha

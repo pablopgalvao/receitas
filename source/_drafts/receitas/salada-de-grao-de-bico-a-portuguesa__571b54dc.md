@@ -36,11 +36,11 @@ flags: []
 - 1 lata de milho (170 gramas)
 - Cheiro-verde a gosto
 - Suco de 1 limão
-- 1/2 xícara de chá de azeitonas verdes (80 gramas)
+- ½ xícara de chá de azeitonas verdes (80 gramas)
 - 15 ovos de codorna (ou a gosto)
-- 1/4 de xícara de chá de azeite (para regar)
-- 1/2 colher de sobremesa de sal + 1 colher de chá do cozimento grão de bico
-- 1/2 colher de chá de pimenta-do-reino a gosto
+- ¼ de xícara de chá de azeite (para regar)
+- ½ colher de sobremesa de sal + 1 colher de chá do cozimento grão de bico
+- ½ colher de chá de pimenta-do-reino a gosto
 - --
 
 ---

@@ -33,7 +33,7 @@ flags: []
 - 4 colheres de sopa de farinha de trigo
 - 5 dentes de alho
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de colorau (ou a gosto)
 - 2 ovos inteiros
 - 2 colheres de chá de cebolinha (ou a gosto)

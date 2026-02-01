@@ -35,12 +35,12 @@ flags: []
 - 3 dentes de alho amassados
 - 1 ramo de manjericão
 - 1 colher de chá de bicarbonato de sódio
-- 1/2 xícara de chá de vinho tinto seco (120 ml)
+- ½ xícara de chá de vinho tinto seco (120 ml)
 - 3 colheres de sopa de azeite
 - 200 gramas de mussarela ralada
 - 1 colher de chá de páprica picante (ou a gosto)
-- 1/2 colher de chá de noz-moscada (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de noz-moscada (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
 ---
 

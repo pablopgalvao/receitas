@@ -33,14 +33,14 @@ flags: []
 - 500 gramas de carne macia em tiras
 - 1 colher de sopa de azeite
 - 1 colher de sopa de manteiga
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 colher de chá de sal
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de molho inglês
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de ketchup
 - 2 tomates sem pele e sem sementes picados
-- 1/2 xícara de chá de champignon em fatias
+- ½ xícara de chá de champignon em fatias
 - 1 lata de creme de leite sem soro (300 gramas)
 - Batata palha a gosto
 - --

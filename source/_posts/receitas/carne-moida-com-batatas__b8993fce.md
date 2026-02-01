@@ -41,7 +41,7 @@ flags: []
 - 2 tomates
 - 750 ml de água
 - 2 batatas médias
-- 1/4 de xícara de chá de azeitonas verde
+- ¼ de xícara de chá de azeitonas verde
 - Cheiro-verde a gosto
 - --
 

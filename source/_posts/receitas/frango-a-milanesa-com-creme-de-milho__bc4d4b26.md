@@ -49,8 +49,8 @@ flags: []
 3. Passe os filés primeiro na farinha de trigo, depois no ovo batido e, por fim, na farinha de rosca, cobrindo toda a superfície. Reserve os filés empanados em um pratinho;
 4. Aqueça uma panela ou frigideira com óleo. Quando estiver bem quente, adicione 1 ou 2 filés. Vire-os assim que um lado estiver douradinho;
 5. Quando ficarem dourados e crocantes por completo, retire e reserve em um recipiente. Repita até terminar de fritar todos os filés e desligue o fogo;
-6. Para fazer o creme de milho, em um liquidificador, adicione 2/3 da lata de milho sem a água da conserva, o leite e a maisena. Bata por 2 minutinhos e reserve;
+6. Para fazer o creme de milho, em um liquidificador, adicione ⅔ da lata de milho sem a água da conserva, o leite e a maisena. Bata por 2 minutinhos e reserve;
 7. Em uma panela no fogo médio, acrescente a manteiga ou margarina. Quando derreter, junte a cebola e o alho picadinhos, e refogue até murchar;
 8. Incorpore o amido na panela, misturando com uma colher ou espátula até que dissolva;
-9. Despeje o milho batido com leite, junto 1/3 da lata de milho que sobrou. Continue mexendo, até que o creme engrosse como um mingau;
+9. Despeje o milho batido com leite, junto ⅓ da lata de milho que sobrou. Continue mexendo, até que o creme engrosse como um mingau;
 10. Agora é só aproveitar! Sirva seu frango à milanesa com creme de milho.

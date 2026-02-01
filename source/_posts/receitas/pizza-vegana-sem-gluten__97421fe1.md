@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 xícara de chá de farinha de arroz integral
-- 1/4 xícara de chá de fécula de batata
-- 1/4 xícara de chá de fécula de mandioca ou polvilho doce
-- 1/4 xícara de chá de linhaça triturada
-- 1/2 colher de chá de goma xantana
+- 1 e ¼ xícara de chá de farinha de arroz integral
+- ¼ xícara de chá de fécula de batata
+- ¼ xícara de chá de fécula de mandioca ou polvilho doce
+- ¼ xícara de chá de linhaça triturada
+- ½ colher de chá de goma xantana
 - 2 colheres de chá de psyllium
 - 1 colher de chá de açúcar
 - 1 colher de chá de fermento biológico seco

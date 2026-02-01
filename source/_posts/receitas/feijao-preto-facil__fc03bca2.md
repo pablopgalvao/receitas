@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de feijão preto
+- ½ kg de feijão preto
 - 3 litros de água
 - 2 folhas de louro
 - 2 colheres de sopa de óleo

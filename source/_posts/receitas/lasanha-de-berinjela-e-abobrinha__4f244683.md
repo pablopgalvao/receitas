@@ -34,7 +34,7 @@ flags: []
 - 2 berinjelas fatiadas em lâminas fina
 - 2 abobrinhas italianas fatiadas em lâminas finas
 - 6 tomates maduros cortados em 4 partes
-- 1/2 cebola cortada em fatias
+- ½ cebola cortada em fatias
 - 4 dentes de alho picados
 - 200 gramas queijo meia cura em fatias
 - 100 gramas queijo meia cura ralado

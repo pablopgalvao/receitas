@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 pote de nata gelada (300 gramas)
-- 1/2 caixa de leite condensado gelado (200 gramas)
+- ½ caixa de leite condensado gelado (200 gramas)
 - 1 xícara de chá de leite em pó (100 gramas)
-- 1 e 1/2 caixa de morango (300 gramas)
+- 1 e ½ caixa de morango (300 gramas)
 - --
 
 ---

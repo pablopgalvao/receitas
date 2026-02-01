@@ -29,16 +29,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 250 gramas de batata-doce
-- 1/2 xícara de chá de queijo branco ralado (120 gramas)
+- ½ xícara de chá de queijo branco ralado (120 gramas)
 - 1 xícara de chá de farelo de aveia (95 gramas)
 - 1 ovo médio
 - 1 colher de chá de orégano
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/4 de colher de páprica (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de páprica (ou a gosto)
 - 1 colher de chá de azeite para untar a frigideira
-- 150 gramas de frango desfiado e cozido (1/2 xícara de chá)
-- 1/4 de xícara de chá de creme de ricota (cerca de 50 gramas)
+- 150 gramas de frango desfiado e cozido (½ xícara de chá)
+- ¼ de xícara de chá de creme de ricota (cerca de 50 gramas)
 - --
 
 ---

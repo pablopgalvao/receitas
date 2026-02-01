@@ -29,13 +29,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de manteiga sem sal (100 gramas)
+- ½ xícara de chá de manteiga sem sal (100 gramas)
 - 4 colheres de sopa de parmesão ralado (50 gramas)
-- 1/2 xícara de chá de amido de milho (70 gramas)
+- ½ xícara de chá de amido de milho (70 gramas)
 - 1 xícara de chá de fubá mimoso (135 gramas)
 - 2 xícaras de chá de açúcar (370 gramas)
 - 1 litro de leite
-- 1/2 xícara de chá de coco ralado (60 gramas)
+- ½ xícara de chá de coco ralado (60 gramas)
 - 1 colher de sopa de fermento químico em pó
 - --
 

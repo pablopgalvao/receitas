@@ -38,7 +38,7 @@ flags: []
 - 1 vidro de leite de coco (200 ml)
 - 2 colheres de sopa de coentro fresco picado (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1 e 1/2 colher de sopa de sal (ou a gosto)
+- 1 e ½ colher de sopa de sal (ou a gosto)
 - Separe todos os ingredientes na bancada para agilizar o preparo. Tempere os filés de tilápia com o suco de limão, sal e pimenta-do-reino. Reserve por 15 minutos para que absorvam os temperos;
 - Em seguida, faça uma camada com metade dos tomates e tempere com um pouco de sal. Coloque os filés de tilápia sobre os legumes;
 

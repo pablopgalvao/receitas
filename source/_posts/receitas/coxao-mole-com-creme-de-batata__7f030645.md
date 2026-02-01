@@ -31,7 +31,7 @@ flags: []
 
 - 500 gramas de coxão mole cortado em tiras
 - 2 colheres de chá de sal ou a gosto
-- 1/4 colher de chá de pimenta-do-reino ou a gosto
+- ¼ colher de chá de pimenta-do-reino ou a gosto
 - 2 colheres de sopa de alho amassado
 - 3 batatas médias (cerca de 350 gramas)
 - 2 xícaras de chá de água para cozinhar as batatas (cerca de 500 ml)

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 berinjelas médias
-- 1/2 cebola grande
+- ½ cebola grande
 - 1 dente de alho
 - 1 tomate
 - 4 colheres de sopa de molho de tomate pronto (80 gramas)

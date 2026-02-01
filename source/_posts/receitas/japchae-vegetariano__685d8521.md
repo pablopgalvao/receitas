@@ -31,10 +31,10 @@ flags: []
 - 200 gramas de macarrão coreano de batata-doce
 - 250 gramas de cogumelo shitake
 - 250 gramas de cogumelo shimeji
-- 1/4 de repolho (100 gramas)
+- ¼ de repolho (100 gramas)
 - 1 cenoura média (100 gramas)
 - 1 pimentão vermelho (80 gramas)
-- 1/2 brócolis japonês (150 gramas)
+- ½ brócolis japonês (150 gramas)
 - 1 cebola média (100 gramas)
 - 1 colher de sobremesa de sal
 - 1 dente de alho

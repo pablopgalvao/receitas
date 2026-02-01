@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de óleo (ou a gosto)
 - 1 colher de sopa de óleo (ou a gosto)
 - 50 gramas de bacon
-- 1/4 de abóbora cabotiá (300 gramas)
+- ¼ de abóbora cabotiá (300 gramas)
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de chá de chimichurri (ou a gosto)
 - 1 colher de chá de tempero baiano (ou a gosto)

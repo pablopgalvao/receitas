@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 lata de leite condensado
+- ½ lata de leite condensado
 - 3 colheres de sopa de manteiga em temperatura ambiente
 - 300 gramas de amido de milho
 - --

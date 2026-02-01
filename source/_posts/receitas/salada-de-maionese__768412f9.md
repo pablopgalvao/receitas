@@ -43,7 +43,7 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Orégano a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 350 gramas de maionese de sua preferência
 - --
 

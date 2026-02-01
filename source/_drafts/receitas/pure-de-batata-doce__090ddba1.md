@@ -37,7 +37,7 @@ flags: []
 - Pimenta-do-reino a gosto
 - Páprica a gosto
 - 1 colher de sopa de manteiga
-- 1/2 caixa de creme de leite
+- ½ caixa de creme de leite
 - --
 
 ---

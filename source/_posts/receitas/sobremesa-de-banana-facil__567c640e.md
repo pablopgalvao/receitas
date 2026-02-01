@@ -34,10 +34,10 @@ flags: []
 - 1 caixinha de creme de leite (200 gramas)
 - 1 colher de sopa de manteiga ou margarina sem sal (15 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 8 a 10 bananas-pratas bem maduras (800 gramas)
 - 1 colher de chá de essência de baunilha (opcional)
-- 1/2 pacotinho de biscoitos maizena (60 gramas)
+- ½ pacotinho de biscoitos maizena (60 gramas)
 - --
 
 ---

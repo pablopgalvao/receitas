@@ -31,7 +31,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de macarrão ninho
+- ½ pacote de macarrão ninho
 - 2 colheres de sopa de manteiga
 - 3 dentes de alho amassados
 - 1 cebola bem picadinha

@@ -32,7 +32,7 @@ flags: []
 - 300 gramas de amoras frescas
 - 1 maçã grande
 - Suco de 1 limão
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 2 colheres de sopa de mel (20 gramas)
 - 2 colheres de sopa de chia (opcional)
 - --

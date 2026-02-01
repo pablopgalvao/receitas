@@ -30,10 +30,10 @@ flags: []
 
 - 5 batatas grandes (750 gramas)
 - 2 colheres de sopa de azeite de oliva
-- 1/2 xícara de chá de caldo de legumes ou água quente (120 ml)
+- ½ xícara de chá de caldo de legumes ou água quente (120 ml)
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/4 de colher de chá de noz-moscada ralada (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de noz-moscada ralada (ou a gosto)
 - --
 
 ---

@@ -32,7 +32,7 @@ flags: []
 - 2 ovos grandes
 - 500 ml de água (ou o suficiente para cozinhar)
 - 1 colher de sopa de requeijão light
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - Cebolinha a gosto
 - --
 

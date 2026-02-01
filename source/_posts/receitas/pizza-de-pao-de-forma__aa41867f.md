@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 fatias de Pão de Forma Tradicional da Kim
-- 1/2 xícara de chá de molho de tomate
+- ½ xícara de chá de molho de tomate
 - 8 fatias de queijo mussarela
 - 8 fatias de presunto
 - 1 tomate
 - Orégano a gosto
-- 1/3 xícara de chá de cebola roxa
+- ⅓ xícara de chá de cebola roxa
 - 6 azeitonas
 - --
 

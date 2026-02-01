@@ -33,13 +33,13 @@ flags: []
 
 - 800 gramas de filé de tilápia
 - 2 colheres de sopa de azeite
-- 1/2 cebola
+- ½ cebola
 - 1 dente de alho
 - 2 sachês de molho de tomate (600 gramas no total)
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/3 xícara de chá de cheiro-verde (ou a gosto)
-- Suco de 1/2 limão
+- ½ colher de chá de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ⅓ xícara de chá de cheiro-verde (ou a gosto)
+- Suco de ½ limão
 - 150 gramas de mussarela ralada
 - 3 ovos
 - Farinha de trigo a gosto para empanar

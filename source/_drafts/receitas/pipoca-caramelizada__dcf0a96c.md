@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de milho de pipoca (100 gramas)
+- ½ xícara de chá de milho de pipoca (100 gramas)
 - 1 colher de sopa de óleo (cerca de 15 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - --

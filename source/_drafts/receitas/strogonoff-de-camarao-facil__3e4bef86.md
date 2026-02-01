@@ -34,12 +34,12 @@ flags: []
 - 3 dentes de alho amassados ou picados
 - 1 cebola média picada
 - 1 colher de sopa de azeite de oliva (15 ml)
-- 1 e 1/4 xícara de chá de creme de leite fresco (300 ml)
+- 1 e ¼ xícara de chá de creme de leite fresco (300 ml)
 - 5 colheres de sopa de ketchup (70 gramas)
 - 2 colheres de sopa de mostarda (30 gramas)
-- Suco de 1/2 limão (20 ml)
+- Suco de ½ limão (20 ml)
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---
@@ -47,7 +47,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna os ingredientes do seu strogonoff de camarão fácil;
-2. Tempere o camarão com sal, pimenta-do-reino e o suco de 1/2 limão. Misture e deixe reservado para ser utilizado depois na receita;
+2. Tempere o camarão com sal, pimenta-do-reino e o suco de ½ limão. Misture e deixe reservado para ser utilizado depois na receita;
 3. Separe uma frigideira e deixe elas esquentar no fogo médio. Acrescente o azeite de oliva e a manteiga e deixe derreter por completo;
 4. Assim que derretida a manteiga, acrescente o alho picado e refogue até ficar dourado;
 5. Em seguida, acrescente a cebola picada e mexa até ficar refogar e ficar transparente;

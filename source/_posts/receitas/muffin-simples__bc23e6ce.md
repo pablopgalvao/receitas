@@ -31,9 +31,9 @@ flags: []
 - 2 ovos
 - 1 colher de café de essência de baunilha
 - 1 pitada de sal
-- 3/4 de xícara de chá de açúcar (150 gramas)
-- 1/2 xícara de chá de óleo (100 ml)
-- 1/4 de xícara de chá de leite (60 ml)
+- ¾ de xícara de chá de açúcar (150 gramas)
+- ½ xícara de chá de óleo (100 ml)
+- ¼ de xícara de chá de leite (60 ml)
 - 1 copo de iogurte natural (170 gramas)
 - 2 xícaras de chá de farinha de trigo (250 gramas)
 - 2 colheres de sopa de vinagre branco
@@ -53,6 +53,6 @@ flags: []
 6. Adicione o vinagre branco e misture até incorporar. Por fim, acrescente o fermento químico e mexa delicadamente até a massa ficar uniforme;
 7. Distribua a massa em forminhas individuais para muffin, preenchendo até a metade de cada cavidade;
 8. Coloque um quadradinho de chocolate branco no centro de cada muffin;
-9. Cubra com mais um pouco de massa, sem ultrapassar 3/4 da forminha;
+9. Cubra com mais um pouco de massa, sem ultrapassar ¾ da forminha;
 10. Leve ao forno preaquecido e asse por cerca de 30 minutos, ou até que os muffins fiquem dourados e firmes ao toque;
 11. Retire do forno, deixe esfriar um pouco e estão prontos!

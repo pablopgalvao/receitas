@@ -43,7 +43,7 @@ flags: []
 - Farinha de rosca para empanar
 - 1 sachê de molho de tomate (300 gramas)
 - 1 colher de chá de manteiga
-- 1/2 cebola
+- ½ cebola
 - 200 gramas de mussarela ralada
 - Óleo vegetal para fritar por imersão
 - --

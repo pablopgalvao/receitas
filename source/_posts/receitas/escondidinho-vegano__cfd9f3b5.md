@@ -33,7 +33,7 @@ flags: []
 
 - 1 xícara de chá de castanha-de-caju crua e sem sal
 - Água quente para o demolho
-- 3/4 xícara de chá de água
+- ¾ xícara de chá de água
 - Levedura nutricional a gosto
 - 1 colher de sopa de polvilho
 - 3 dentes de alho

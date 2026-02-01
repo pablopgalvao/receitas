@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/2 colher de café de sal (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
 - 2 colheres de sopa de requeijão
-- 1/2 colher de sopa de azeite para untar a frigideira
+- ½ colher de sopa de azeite para untar a frigideira
 - 4 fatias de queijo mussarela
 - 1 tomate médio
 - 1 colher de café de orégano

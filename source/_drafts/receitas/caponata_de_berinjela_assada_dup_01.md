@@ -32,11 +32,11 @@ flags: []
 - 2 berinjelas (500 gramas)
 - 400 gramas de tomate cereja
 - 2 colheres de sopa de vinagre balsâmico (30ml)
-- 1/2 colher de sopa de açúcar (6 gramas)
-- 1/2 xícara de chá de azeite
+- ½ colher de sopa de açúcar (6 gramas)
+- ½ xícara de chá de azeite
 - 1 colher de chá de sal
-- 1/8 de colher de chá de pimenta-do-reino
-- 1/8 de colher de chá de açúcar
+- ⅛ de colher de chá de pimenta-do-reino
+- ⅛ de colher de chá de açúcar
 - Tomilho a gosto
 - Disponha as berinjelas numa assadeira. Adicione também os tomates-cereja inteiros, o alho laminado, o sal, a pimenta-do-reino, o azeite, o vinagre balsâmico e finalize com o açúcar. Misture bem com as mãos ou espátula para envolver todos os ingredientes;
 

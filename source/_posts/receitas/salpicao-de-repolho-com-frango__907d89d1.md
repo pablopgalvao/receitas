@@ -40,7 +40,7 @@ flags: []
 - 2 cenouras raladas
 - 200 g de azeitonas verdes picadas
 - 3 tomates sem semente picados
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 maçãs descascadas e picadas
 - Cheiro verde a gosto
 - Suco de 1 limão
@@ -48,7 +48,7 @@ flags: []
 - Sal a gosto
 - 2 colheres de sopa de azeite
 - Uvas-passas a gosto
-- 1/2 pote de maionese
+- ½ pote de maionese
 - Batata palha a gosto
 - --
 

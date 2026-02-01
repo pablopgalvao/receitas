@@ -31,9 +31,9 @@ flags: []
 
 - 1 xícara de café de azeite de oliva ou óleo vegetal
 - 150 ml de água morna
-- 1 e 1/2 xícara de chá de aveia em flocos finos sem glúten ou farelo de aveia sem glúten
+- 1 e ½ xícara de chá de aveia em flocos finos sem glúten ou farelo de aveia sem glúten
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) sem glúten
-- 1/2 colher de sopa rasa de sal (ou a gosto)
+- ½ colher de sopa rasa de sal (ou a gosto)
 - 50 gramas de queijo parmesão ralado sem glúten (opcional)
 - Organize todos os ingredientes em sua bancada. Quebre os ovos separadamente para verificar se estão bons;
 - No liquidificador, bata os ovos, o azeite e a água morna por 1 minuto. Acrescente a aveia em flocos finos sem glúten e o sal. Bata novamente até formar uma mistura homogênea;

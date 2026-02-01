@@ -35,8 +35,8 @@ flags: []
 - 1 cenoura pequena (cerca de 75 gramas)
 - 4 folhas grandes de acelga (100 gramas)
 - 1 colher de sopa de óleo de soja ou gergelim
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

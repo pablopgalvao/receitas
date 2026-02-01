@@ -35,7 +35,7 @@ flags: []
 - 1 kg de camarões limpos
 - 1 colher de chá de pimenta-do-reino
 - 2 colheres de sopa de suco de limão
-- 1/3 de xícara de molho de tomate
+- ⅓ de xícara de molho de tomate
 - 1 colher de sopa de farinha de trigo
 - 1 xícara de chá de leite de coco (240 ml)
 - 1 lata de creme de leite (300 gramas)

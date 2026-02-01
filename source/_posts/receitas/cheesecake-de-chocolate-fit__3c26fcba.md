@@ -42,7 +42,7 @@ flags: []
 1. Em um recipiente, coloque todos os ingredientes da massa e misture bem até formar uma massa.
 2. Transfira para uma forma redonda, de aro removível e forre todo o fundo.
 3. Leve ao forno preaquecido a 180 ºC por cerca de 15 minutos. Reserve.
-4. Hidrate a gelatina conforme as instruções do fabricante, mas utilize apenas 1/3 da quantidade de água indicada.
+4. Hidrate a gelatina conforme as instruções do fabricante, mas utilize apenas ⅓ da quantidade de água indicada.
 5. Coloque em uma batedeira, adicione o restante dos ingredientes do creme e bata por 5 minutos. Reserve na geladeira.
 6. Assim que o creme gelar, despeje-o por cima da massa (já fria), espalhe bem e volte para a geladeira por 4 horas.
 7. Perto do tempo terminar, derreta o chocolate no micro-ondas de 30 em 30 segundos, ou em banho-maria.

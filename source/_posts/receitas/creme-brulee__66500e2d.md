@@ -32,8 +32,8 @@ flags: []
 
 - 5 gemas de ovo
 - 400 ml de creme de leite fresco
-- 1/3 de xícara de chá de açúcar (aproximadamente 70 gramas)
-- 1 e 1/2 colher de chá de extrato de baunilha
+- ⅓ de xícara de chá de açúcar (aproximadamente 70 gramas)
+- 1 e ½ colher de chá de extrato de baunilha
 - Açúcar para caramelizar (aproximadamente 1 colher rasa de sobremesa ou 20 gramas por ramequin)
 - Água para o banho-maria
 - --

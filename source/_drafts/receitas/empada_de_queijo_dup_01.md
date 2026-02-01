@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícaras de chá de farinha de trigo (sem fermento)
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 300 gramas de margarina gelada (preferencialmente com maior teor de gordura)
 - 200 gramas de mussarela
 - 50 gramas de queijo parmesão ralado
 - 1 pote de requeijão cremoso tradicional (200 gramas)
 - 300 ml de leite integral
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - Em uma tigela grande, misture a farinha e o sal. Adicione a margarina gelada e, com as pontas dos dedos, forme uma farofa úmida, sem amassar completamente a massa;
 - Após o descanso, divida a massa em porções de 30 gramas (ou use uma colher de sopa como medida). Faça bolinhas, achate e acomode nas forminhas de empada de alumínio (7 cm diâmetro x 2,4 cm altura);
 

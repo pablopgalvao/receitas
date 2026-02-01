@@ -29,14 +29,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 12 folhas de acelga
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
-- 1/2 xícara de chá de gengibre em pedaços
+- ½ pimentão vermelho
+- ½ pimentão amarelo
+- ½ xícara de chá de gengibre em pedaços
 - 100 ml de óleo
 - 1 colher de chá sal para desidratar a acelga
 - 100 ml de vinagre
 - 100 ml de shoyu
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - --
 
 ---

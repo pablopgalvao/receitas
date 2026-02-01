@@ -33,7 +33,7 @@ flags: []
 - 4 colheres de sal (ou a gosto)
 - 10 gramas de cheiro-verde
 - 2 colheres de sopa de óleo ou azeite (ou a gosto)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 2 caixinhas de creme de leite (400 gramas)
 - 1 copinho de requeijão cremoso (200 gramas)
 - 100 gramas de presunto picado

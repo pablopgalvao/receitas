@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá da água do cozimento dos legumes
+- 2 e ½ xícaras de chá da água do cozimento dos legumes
 - Cebolinha picadinha e pimenta-do-reino a gosto
 - Sal a gosto
 - Coloque a mandioquinha, a cenoura, a água do cozimento e o sal no liquidificador, e bata até atingir uma mistura homogênea;

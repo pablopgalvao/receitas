@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - Polpa de 1 a 2 maracujás frescos (100 gramas)
-- 1/2 xícara de chá de água (120 ml)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de água (120 ml)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 colher de sopa de amido de milho
 - --
 

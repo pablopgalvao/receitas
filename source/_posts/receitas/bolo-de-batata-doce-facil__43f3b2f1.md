@@ -35,7 +35,7 @@ flags: []
 - 2 colheres de sopa de manteiga
 - 1 xícara de chá de açúcar
 - 50 gramas de queijo ralado
-- 1 e 3/4 de xícara de chá de farinha de trigo
+- 1 e ¾ de xícara de chá de farinha de trigo
 - Canela em pó para polvilhar
 - --
 

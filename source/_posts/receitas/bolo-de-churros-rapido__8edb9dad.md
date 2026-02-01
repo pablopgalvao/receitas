@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1 e 1/2 copo de açúcar (300 gramas)
+- 1 e ½ copo de açúcar (300 gramas)
 - 1 copo de leite (240 ml)
-- 3/4 de copo de óleo (180 ml)
-- 1/2 colher de sopa de canela em pó
+- ¾ de copo de óleo (180 ml)
+- ½ colher de sopa de canela em pó
 - 2 copos de farinha de trigo (240 gramas)
 - 1 colher de sopa de fermento em pó
 - 1 caixa de leite condensado (395 gramas)

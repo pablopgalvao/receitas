@@ -32,10 +32,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de carne moída (500 gramas)
+- ½ kg de carne moída (500 gramas)
 - 2 ovos
 - 2 colheres de sopa de farinha de rosca
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 4 dentes de alho
 - Sal a gosto
 - Cheiro-verde a gosto

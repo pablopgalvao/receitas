@@ -33,7 +33,7 @@ flags: []
 - 1 colher de chá de óleo de coco sem sabor
 - 4 colher de sopa de farinha de aveia (55 gramas)
 - Canela em pó a gosto
-- 1/2 colher de sopa de fermento
+- ½ colher de sopa de fermento
 - Aveia em flocos a gosto
 - Reúna os ingredientes necessários sobre a bancada. Quebre o ovo separadamente, para verificar se está bom;
 - Em um mixer (ou processador), adicione a maçã, o ovo, o óleo de coco e o adoçante. Bata bem, até que a massa fique homogênea e consistente;

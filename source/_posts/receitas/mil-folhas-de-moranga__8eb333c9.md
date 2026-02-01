@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 moranga cortada bem fininha em lascas sem descascar
+- ½ moranga cortada bem fininha em lascas sem descascar
 - 2 colheres de sopa de azeite
 - 1 colher de sopa de mel
 - Raspas de limão

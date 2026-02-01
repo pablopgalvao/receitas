@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de arroz cozido (300 gramas)
-- 1/4 xícara de chá de farinha de trigo (40 gramas)
+- ¼ xícara de chá de farinha de trigo (40 gramas)
 - 2 ovos
 - 1 colher de sopa de manteiga ou margarina
 - 2 xícaras de chá de água (480 ml)
 - 2 colheres de chá de sal ou a gosto
-- 1/4 colher de chá de pimenta-do-reino
+- ¼ colher de chá de pimenta-do-reino
 - 1 colher de chá de parmesão ralado
 - --
 

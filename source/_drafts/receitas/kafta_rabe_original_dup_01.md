@@ -31,7 +31,7 @@ flags: []
 
 - teste
 - 500 gramas de carne moída (usamos patinho)
-- 1/2 colher de chá de pimenta-síria
+- ½ colher de chá de pimenta-síria
 - 2 colheres de sopa de cheiro-verde picado (usamos cebolinha e hortelã)
 - 2 colheres de sopa de azeite
 - 1 colher de chá de sal

@@ -35,9 +35,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - Camarões secos a gosto
-- 1/2 cebola cortada em cubinhos
+- ½ cebola cortada em cubinhos
 - Azeite a gosto
-- 1/4 de pimentão amarelo cortado em cubinhos
+- ¼ de pimentão amarelo cortado em cubinhos
 - 1 tomate sem sementes cortado em cubinhos
 - 1 xícara de arroz
 - Água para cozinhar

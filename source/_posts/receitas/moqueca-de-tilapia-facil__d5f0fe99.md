@@ -37,13 +37,13 @@ flags: []
 - 2 colheres de sopa de azeite de dendê
 - 2 colheres de sopa de azeite de oliva
 - 1 cebola média
-- 1/2 pimentão vermelho (70 gramas)
-- 1/2 pimentão amarelo (70 gramas)
+- ½ pimentão vermelho (70 gramas)
+- ½ pimentão amarelo (70 gramas)
 - 2 tomates (300 gramas)
 - 1 colher de sopa de amido de milho
 - 200 ml de leite de coco
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Cheiro-verde picado a gosto
 - --
 

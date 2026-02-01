@@ -36,8 +36,8 @@ flags: []
 - 1 xícara de chá de leite (240 ml)
 - 4 ovos
 - 50 gramas de queijo parmesão
-- 1/2 colher de chá de noz-moscada
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de noz-moscada
+- ½ colher de chá de pimenta-do-reino
 - Sal a gosto (opcional)
 - 150 gramas de queijo mussarela
 - --

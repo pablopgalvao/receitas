@@ -29,9 +29,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de creme de leite (100ml)
+- ½ xícara de chá de creme de leite (100ml)
 - 1 pitada de sal ou a gosto
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de pimenta-do-reino ou a gosto
 - 1 colher de sobremesa de mostarda amarela (10 gramas)
 - Salsinha a gosto
 - Em uma panela, cozinhe os ovos por aproximadamente 10 minutos, até que as gemas fiquem durinhas;

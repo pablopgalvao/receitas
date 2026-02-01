@@ -33,7 +33,7 @@ flags: []
 - 500 gramas de polvilho azedo
 - 100 ml de leite
 - 100 ml de água
-- 3/4 de xícara de chá de óleo
+- ¾ de xícara de chá de óleo
 - 1 colher de café (cheia) de sal
 - 2 ovos (levemente batidos)
 - Peneire o polvilho para a massa não ficar com gruminhos. De preferência, utilize óleo vegetal de sabor mais neutro, como canola, milho e girassol. Quebre os ovos em um recipiente separado para verificar se estão bons;

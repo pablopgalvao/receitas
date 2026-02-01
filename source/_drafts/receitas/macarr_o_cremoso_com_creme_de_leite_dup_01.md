@@ -36,7 +36,7 @@ flags: []
 - 1 colher de sopa de requeijão (20 gramas)
 - 1 pacotinho de Sazón de limão (5 gramas)
 - 2 colheres de sopa de salsinha picada
-- 1/2 colher de chá de pimenta-do-reino moída (ou a gosto)
+- ½ colher de chá de pimenta-do-reino moída (ou a gosto)
 - 2 colheres de sopa de parmesão ralado (ou meio pacotinho)
 - Depois, leve uma panela grande ao fogo alto, adicione água e sal, e cozinhe o macarrão por 8 minutos, ou até que fique macio;
 - Enquanto a massa cozinha, aqueça outra panela em fogo médio com o azeite e a manteiga. Acrescente a cebola e o alho picado, fritando até dourar;

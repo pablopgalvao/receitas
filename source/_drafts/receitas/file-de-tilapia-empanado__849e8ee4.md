@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 100 gramas de maionese
-- 1/2 dente de alho
+- ½ dente de alho
 - 1 colher de café de lemon pepper
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 colher de sobremesa de cebola
 - 1 pitada de sal
 - --

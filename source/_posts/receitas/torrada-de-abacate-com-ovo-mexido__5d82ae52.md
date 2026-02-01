@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de manteiga (ou margarina)
 - 2 ovos
 - Sal e pimenta-do-reino a gosto
-- 1 avocado (ou 1/2 abacate)
+- 1 avocado (ou ½ abacate)
 - --
 
 ---

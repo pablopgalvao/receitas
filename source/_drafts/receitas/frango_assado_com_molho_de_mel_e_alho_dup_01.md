@@ -32,12 +32,12 @@ flags: []
 - 1 colher de sopa de azeite
 - 2 colheres de chá de páprica defumada
 - 1 colher de chá de páprica picante
-- 1/4 de colher de chá de pimenta-do-reino
+- ¼ de colher de chá de pimenta-do-reino
 - 1 colher de chá de sal
 - 1 kg de asinha e coxinha da asa de frango
 - 1 colher de sopa azeite
-- 1/4 de xícara de chá de molho de soja
-- 1/2 xícara de chá de mel
+- ¼ de xícara de chá de molho de soja
+- ½ xícara de chá de mel
 - 1 xícara de chá de água
 - 1 colher de sopa (rasa) de amido de milho
 - Coloque o azeite, a páprica defumada, a páprica picante, a pimenta, o sal, o alho e o suco de limão em uma tigela, misture, e mergulhe o frango no tempero;

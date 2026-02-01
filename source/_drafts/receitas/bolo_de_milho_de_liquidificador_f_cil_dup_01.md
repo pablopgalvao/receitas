@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de leite
 - 2 colheres de sopa de manteiga (em temperatura ambiente)
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 colher de sopa de farinha de trigo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Em um liquidificador, coloque o leite, os ovos, a manteiga, o açúcar, a farinha, o fermento, o milho e bata tudo por cerca de 5 minutos;

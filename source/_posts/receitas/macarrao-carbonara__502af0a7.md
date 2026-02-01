@@ -33,7 +33,7 @@ flags: []
 - 1 ovo médio
 - 3 gemas
 - 30 gramas de parmesão ralado
-- 1/4 de colher de café de pimenta-do-reino triturada (ou a gosto)
+- ¼ de colher de café de pimenta-do-reino triturada (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
 - --
 

@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de farinha panko (60 gramas)
-- 1/2 colher de sopa de páprica defumada
-- 1/2 colher de sopa de orégano
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de páprica defumada
+- ½ colher de sopa de orégano
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 ---
 
 ## 👨‍🍳 Modo de Preparo

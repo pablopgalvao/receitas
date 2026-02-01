@@ -30,12 +30,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 caixa de leite condensado
+- 1 e ½ caixa de leite condensado
 - 4 colheres de sopa de amido de milho
 - 6 colheres de sopa de chocolate em pó
 - 1 caixa de creme de leite (200 gramas)
 - 1 colher de sopa de manteiga
-- 1 e 1/2 litro de leite integral
+- 1 e ½ litro de leite integral
 - 300 gramas de chocolate nobre meio amargo picado
 - Leite para umedecer a massa
 - Granulado para finalizar

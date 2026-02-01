@@ -39,7 +39,7 @@ flags: []
 - 2 colheres de sopa de azeite de oliva
 - 6 colheres de sopa de maionese
 - Cerca de um pé de alface-americana ou romana
-- 1/2 xícara de chá de croutons
+- ½ xícara de chá de croutons
 - --
 
 ---

@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícaras de chá de farinha de trigo (120 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 2 colheres de sopa rasas de margarina (40 gramas)
-- 1/2 colher de sopa de fermento químico em pó
+- ½ colher de sopa de fermento químico em pó
 - 1 pitada de sal
 - No liquidificador, adicione o leite, a margarina, os ovos, o sal e o fermento. Bata por alguns segundos até misturar bem;
 - Acrescente a farinha de trigo e bata novamente. Caso o liquidificador não consiga bater sozinho, desligue e mexa com uma colher até obter uma massa homogênea;

@@ -43,7 +43,7 @@ flags: []
 - 3 colheres de sopa de salsinha picada
 - 3 colheres de sopa de cebolinha picada
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

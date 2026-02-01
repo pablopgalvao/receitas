@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/2 xícara de chá de açúcar (90 gramas)
-- 1/4 de xícara de chá de óleo (60ml)
+- ½ xícara de chá de açúcar (90 gramas)
+- ¼ de xícara de chá de óleo (60ml)
 - 2 maçãs
-- 1/2 xícara de chá de leite integral
+- ½ xícara de chá de leite integral
 - 1 xícara de chá de farinha de trigo
 - 1 colher de chá de fermento em pó (5 gramas)
 - 1 colher de sopa de açúcar cristal

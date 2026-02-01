@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 gema
-- 1/2 colher de chá de água
+- ½ colher de chá de água
 - Orégano a gosto
 - 50 g de queijo mussarela ralado
 - --

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite
-- 1/3 de xícara de chá de aveia em flocos
+- ⅓ de xícara de chá de aveia em flocos
 - 1 colher de sopa de açúcar
 - 1 colher de sopa de cacau em pó
 - 1 ovo

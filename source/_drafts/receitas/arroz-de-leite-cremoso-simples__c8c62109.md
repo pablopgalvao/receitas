@@ -33,9 +33,9 @@ flags: []
 - 1 colher de chá de manteiga de garrafa (5 gramas)
 - 2 xícaras de chá de arroz branco (360 gramas)
 - 3 xícaras de chá de água (720 ml)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 xícara de chá de leite (240 ml)
-- 1 e 1/2 caixa de creme de leite (300 gramas)
+- 1 e ½ caixa de creme de leite (300 gramas)
 - Noz-moscada ralada na hora (opcional)
 - 150 gramas de bacon crispy (opcional)
 - --

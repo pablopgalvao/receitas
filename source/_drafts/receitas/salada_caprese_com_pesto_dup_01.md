@@ -31,8 +31,8 @@ flags: []
 
 - 1 xícara de chá de manjericão fresco
 - 1 xícara de chá de azeite
-- 1/2 xícara de chá de nozes ou castanhas de sua preferência
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de nozes ou castanhas de sua preferência
+- ½ xícara de chá de queijo parmesão ralado
 - Sal e pimenta-do-reino a gosto
 - Azeite, sal e pimenta a gosto
 - Junte todos os ingredientes da salada caprese com pesto;

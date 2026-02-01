@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite
-- 1/2 cebola picada
-- 1/2 kg de carne moída
+- ½ cebola picada
+- ½ kg de carne moída
 - 1 colher de sopa de azeite
 - 2 tabletes de caldo de carne
 - 1 lata de molho de tomate

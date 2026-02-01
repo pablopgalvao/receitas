@@ -30,7 +30,7 @@ flags: []
 
 - 2 ovos inteiros
 - 2 gemas
-- 1/2 xícara de chá de açúcar orgânico
+- ½ xícara de chá de açúcar orgânico
 - 1 colher de chá de essência de baunilha
 - 120 gramas de chocolate meio amargo
 - 3 colheres de sopa de manteiga

@@ -35,7 +35,7 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 xícara de chá de risoni
-- 1/2 xícara de chá de vinho branco suave
+- ½ xícara de chá de vinho branco suave
 - 80 gramas de queijo gorgonzola
 - Já na panela, tempere a carne com sal e pimenta-do–reino;
 - Adicione a manteiga e o azeite e sele a carne em fogo alto, até dourar. Reserve;

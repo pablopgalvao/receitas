@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de farinha de aveia
-- 1/4 de xícara de chá de polvilho doce
+- ½ xícara de chá de farinha de aveia
+- ¼ de xícara de chá de polvilho doce
 - Sal a gosto
-- 1/2 colher de chá de fermento em pó
-- 1/2 colher de sopa de azeite
-- 1/3 de xícara de chá de água
+- ½ colher de chá de fermento em pó
+- ½ colher de sopa de azeite
+- ⅓ de xícara de chá de água
 - --
 
 ---

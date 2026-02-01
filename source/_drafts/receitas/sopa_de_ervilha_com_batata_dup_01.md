@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de ervilha partida em grão
-- 1/2 colher de sopa de tomilho fresco
-- 1/2 colher de sopa de páprica defumada
-- 1/2 colher de sopa de alho em pó
-- 1/2 colher de sopa de cebola em pó
+- ½ colher de sopa de tomilho fresco
+- ½ colher de sopa de páprica defumada
+- ½ colher de sopa de alho em pó
+- ½ colher de sopa de cebola em pó
 - Sal a gosto
 - Tempere com sal, tomilho, páprica defumada, alho em pó e cebola em pó. Misture para que todos os temperos incorporem;
 - Ajuste o sal, se necessário. E está pronta! Refeição perfeita para um dia mais friozinho de inverno.

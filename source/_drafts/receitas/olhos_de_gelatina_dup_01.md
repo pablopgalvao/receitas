@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 xícara de chá de leite
 - 3 colheres de sopa de água
 - Com uma colher, vá despejando essa mistura do liquidificador por cima das gelatinas com o chocolate, até encher a forminha;

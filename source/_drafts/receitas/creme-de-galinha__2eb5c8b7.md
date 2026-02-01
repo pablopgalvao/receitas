@@ -33,7 +33,7 @@ flags: []
 - 3 dentes de alho
 - 1 tomate grande sem pele e sem sementes (170 gramas)
 - 1 colher de chá de sal (ou a gosto)
-- 1/8 de colher de chá de pimenta-do-reino (ou a gosto)
+- ⅛ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de colorau
 - 2 colheres de sopa de farinha de trigo
 - 2 xícaras de chá de leite (480 ml)

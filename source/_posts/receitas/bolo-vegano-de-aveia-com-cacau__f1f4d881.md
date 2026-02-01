@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de aveia (100 gramas)
-- 3/4 de xícara de chá de açúcar (150 gramas)
-- 1/4 de xícara de chá de cacau 100% em pó (25 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
+- ¼ de xícara de chá de cacau 100% em pó (25 gramas)
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
-- 1/4 de colher de chá de sal
-- 1 e 1/2 xícara de leite de coco (150 ml)
+- ¼ de colher de chá de sal
+- 1 e ½ xícara de leite de coco (150 ml)
 - 1 colher de sopa de vinagre
 - --
 

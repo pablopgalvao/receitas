@@ -30,12 +30,12 @@ flags: []
 
 - 1 lata de leite condensado
 - 5 colheres de sopa de chocolate em pó 50%
-- 1/2 caixinha de creme de leite
+- ½ caixinha de creme de leite
 - 1 colher de sopa de manteiga
 - 2 maracujás reduzidos em fogo baixo
 - 1 lata de leite condensado
 - 2 colheres de sopa de leite em pó
-- 1/2 caixinha de creme de leite
+- ½ caixinha de creme de leite
 - 1 colher de sopa de manteiga
 - 3 barras de 80 gramas de chocolate
 - 1 caixinha de creme de leite

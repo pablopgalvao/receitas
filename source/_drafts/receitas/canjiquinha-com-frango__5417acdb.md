@@ -36,7 +36,7 @@ flags: []
 - 1 cebola picada
 - 1 pimenta dedo-de-moça picada
 - 3 tomates maduros cortados em cubos
-- 1/2 colher de chá de páprica doce
+- ½ colher de chá de páprica doce
 - 1 pitada de cominho em pó
 - 1 folha de louro
 - 300 gramas de canjiquinha

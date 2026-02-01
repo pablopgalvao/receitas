@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 abacaxi (650 gramas)
-- 3/4 de xícara de chá de água (180 ml)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ¾ de xícara de chá de água (180 ml)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 caixinha de leite condensado (395 gramas)
 - 2 caixinhas de creme de leite (200 gramas cada)
-- 1/2 xícara de chá de leite em pó (aproximadamente 50 gramas)
+- ½ xícara de chá de leite em pó (aproximadamente 50 gramas)
 - Adicione o açúcar, misture e abaixe o fogo. Ferva por mais 15 minutos, para retirar a acidez da fruta. Após esse tempo, desligue o fogo e escorra o caldo;
 
 ---

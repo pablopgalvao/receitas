@@ -31,7 +31,7 @@ flags: []
 
 - 2 xícaras de chá de açúcar cristal (400 gramas)
 - 4 xícaras de chá de leite (960 ml)
-- 1 e 1/2 xícara de chá de fubá mimoso (240 gramas)
+- 1 e ½ xícara de chá de fubá mimoso (240 gramas)
 - 50 gramas de queijo ralado
 - 1 colher de sopa de manteiga (ou margarina)
 - 3 colheres de sopa de farinha de trigo (30 gramas)

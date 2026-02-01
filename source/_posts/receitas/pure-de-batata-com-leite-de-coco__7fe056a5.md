@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de batata inglesa (5 unidades médias)
 - 1 colher de sopa de manteiga
-- 1/2 garrafa de leite de coco (100 ml)
+- ½ garrafa de leite de coco (100 ml)
 - Sal a gosto
 - --
 

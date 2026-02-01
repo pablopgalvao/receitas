@@ -31,7 +31,7 @@ flags: []
 
 - 2 pães franceses
 - 4 dentes de alho
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 1 colher de sopa de manteiga
 - 100 gramas de queijo mussarela ralado
 - Cheiro verde a gosto

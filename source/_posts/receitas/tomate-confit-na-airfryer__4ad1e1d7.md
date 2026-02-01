@@ -32,10 +32,10 @@ flags: []
 - 2 dentes de alho
 - 2 colheres de sopa de azeite de oliva
 - 1 ramo de alecrim
-- 1/2 colher de chá de orégano
+- ½ colher de chá de orégano
 - 4 ramos de tomilho
-- 1/4 de colher de chá de sal
-- 1/8 de colher de chá de pimenta-do-reino
+- ¼ de colher de chá de sal
+- ⅛ de colher de chá de pimenta-do-reino
 - --
 
 ---

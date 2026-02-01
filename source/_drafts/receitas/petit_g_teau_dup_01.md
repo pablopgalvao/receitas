@@ -32,7 +32,7 @@ flags: []
 - 1 barra (90 gramas) de chocolate meio amargo
 - 4 colheres de sopa de manteiga
 - 2 colheres de sopa (bem cheias) de farinha de trigo
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - Em um recipiente, derreta o chocolate em barra com a manteiga no micro-ondas de 30 em 30 segundos ou em banho-maria;
 - Em uma tigela, coloque a farinha, o açúcar e os ovos. Mexa muito bem;
 - Unte as forminhas com manteiga e chocolate em pó;

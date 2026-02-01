@@ -30,7 +30,7 @@ flags: []
 
 - 3 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite integral (240 ml)
 - 1 pitada de sal
 - 2 xícara de chá de farinha de trigo sem fermento (270 gramas)

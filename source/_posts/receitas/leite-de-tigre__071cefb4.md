@@ -33,13 +33,13 @@ flags: []
 - 100 gramas de aparas tilápia
 - 100 gramas de salsão
 - 40 gramas de gengibre
-- 1/2 pimenta-dedo-de-moça
+- ½ pimenta-dedo-de-moça
 - 150 ml de caldo de peixe
 - 250 ml de suco de limão
 - Talos do coentro
 - 1 colher de chá de sal (ou a gosto)
 - 2 dentes de alho
-- 1/2 cebola - pode ser a branca ou a roxa (70 gramas)
+- ½ cebola - pode ser a branca ou a roxa (70 gramas)
 - Pedras de gelo
 - --
 

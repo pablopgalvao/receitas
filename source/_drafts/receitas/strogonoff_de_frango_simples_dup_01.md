@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de manteiga
 - Pimenta-do-reino a gosto
 - Sal a gosto
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 caixinha de creme de leite (200 gramas)
 - 6 colheres de sopa de ketchup
 - Corte o frango em tiras de 0,5 cm de espessura. Deixe a cebola bem fininha. Pode substituir a manteiga por margarina ou óleo vegetal. Reúna os demais ingredientes para começar o preparo;

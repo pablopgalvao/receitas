@@ -39,7 +39,7 @@ flags: []
 - 4 tomates maduros cortados em pedaços pequenos
 - 2 cebolas médias cortadas em pedaços pequenos
 - 4 dentes de alho amassados
-- 1/2 maço de cebolinha picada
+- ½ maço de cebolinha picada
 - 1 maço de coentro picado
 - 2 colheres de sopa de óleo
 - 1 colher de sopa de colorau
@@ -56,7 +56,7 @@ flags: []
 3. Tempere os frutos do mar misturados com as bananas com o limão, a pimenta-do-reino e o sal;
 4. Aqueça uma panela de barro em fogo alto (caso sua panela não seja de barro, use fogo médio) e adicione o óleo e o colorau, misture até dissolver bem;
 5. Acrescente a cebola, refogue até começar a ficar transparente, junte o alho e deixe mais 2 minutos;
-6. Acrescente os tomates, 2/3 do tempero verde picado e misture. Tampe a panela;
+6. Acrescente os tomates, ⅔ do tempero verde picado e misture. Tampe a panela;
 7. Quando começar a ferver, acomode as postas de peixe lado a lado. Com uma colher, vá pegando o caldo com os temperos e jogando por cima das postas;
 8. Tampe a panela e deixe cozinhar por cerca de 10 minutos e cubra com o restante de tempero verde;
 9. Tampe a panela de novo, deixe cozinhar por mais 5 minutos, verifique se o peixe está cozido, experimente e, se necessário, corrija o sal;

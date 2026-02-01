@@ -32,7 +32,7 @@ flags: []
 - 1 caixa de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga sem sal (14 gramas)
 - 4 colheres de sopa de chocolate em pó (ou 7 colheres de sopa de achocolatado)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - Chocolate granulado para decorar
 - --
 

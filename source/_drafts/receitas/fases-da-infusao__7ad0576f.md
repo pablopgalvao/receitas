@@ -32,7 +32,7 @@ flags: []
 - 2 sachês de chá de framboesa com cravo e canela
 - 200 ml de água
 - 100 ml de suco de uva integral
-- 1/4 de maçã pequena em cubos
+- ¼ de maçã pequena em cubos
 - 1 fatia fina de gengibre
 - 1 colher de chá de hibisco seco ou pétalas de rosa comestíveis
 - Mel ou pasta de tâmaras a gosto (opcional)

@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos médios
-- 1/4 de xícara de chá de óleo (60 ml)
+- ¼ de xícara de chá de óleo (60 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 cenoura média (150 gramas)
 - 1 xícara de chá de farinha de trigo (140 gramas)
-- 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 
 ---

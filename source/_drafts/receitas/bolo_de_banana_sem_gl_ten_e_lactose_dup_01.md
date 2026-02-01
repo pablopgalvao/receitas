@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá açúcar demerara (ou mascavo)
-- 1/2 xícara de chá de óleo girassol (ou de coco)
+- ½ xícara de chá açúcar demerara (ou mascavo)
+- ½ xícara de chá de óleo girassol (ou de coco)
 - 1 colher de sopa de canela em pó
 - 1 xícara de chá de farelo de aveia
-- 1/2 xícara de chá de farinha de arroz
-- 1/2 xícara de chá farinha de amêndoa
+- ½ xícara de chá de farinha de arroz
+- ½ xícara de chá farinha de amêndoa
 - 1 colher de sopa de fermento em pó (farmento para bolo)
 - Em um liquidificador, bata as 3 bananas, os ovos, o açúcar, o óleo e a canela;
 - Em uma forma untada com óleo de coco, polvilhada com mistura de açúcar e canela, forre todo o fundo com as bananas cortadas ao meio;

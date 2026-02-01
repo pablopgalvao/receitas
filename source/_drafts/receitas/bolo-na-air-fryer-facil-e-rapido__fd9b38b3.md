@@ -30,11 +30,11 @@ flags: []
 
 - 1 ovo
 - 4 colheres de sopa de óleo
-- 1/2 xícara de chá de açúcar (90 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
 - 1 xícara de chá de farinha de trigo (135 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 2 colheres de chá de fermento em pó (10 gramas)
-- 1/2 colher de chá de essência de baunilha (opcional)
+- ½ colher de chá de essência de baunilha (opcional)
 - --
 
 ---

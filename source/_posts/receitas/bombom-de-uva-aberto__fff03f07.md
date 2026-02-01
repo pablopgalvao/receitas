@@ -34,7 +34,7 @@ flags: []
 - 4 colheres de sopa de leite em pó (50 gramas)
 - Uvas verdes sem sementes (400 gramas)
 - 150 gramas de chocolate meio amargo
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - --
 
 ---

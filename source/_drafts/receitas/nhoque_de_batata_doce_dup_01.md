@@ -30,15 +30,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1,350 kg de batata-doce (5 unidades)
-- 3/4 de xícara de chá de farinha de trigo (90 gramas)
+- ¾ de xícara de chá de farinha de trigo (90 gramas)
 - Sal a gosto
 - Azeite a gosto
 - Farinha de trigo para polvilhar a bancada
 - Óleo para untar a travessa
 - 100 gramas de manteiga (em temperatura ambiente)
-- 1/2 xícara de chá de gorgonzola esfarelado (50 gramas)
+- ½ xícara de chá de gorgonzola esfarelado (50 gramas)
 - 2 xícaras de chá da água do cozimento do nhoque
-- 1/2 xícara de chá de noz-pecã (picada grosseiramente)
+- ½ xícara de chá de noz-pecã (picada grosseiramente)
 - Azeite a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto

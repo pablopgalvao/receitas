@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de camarão limpo e sem casca
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1 e 1/3 de xícara de chá de farinha de rosca (150 gramas)
+- 1 e ⅓ de xícara de chá de farinha de rosca (150 gramas)
 - Óleo para fritar
 - Tempere os camarões com o suco de limão, o alho picado, o sal e a pimenta-do-reino. Misture bem e deixe marinar por 10 minutos;
 - Em uma tigela, bata levemente o ovo com um garfo;

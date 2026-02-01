@@ -31,7 +31,7 @@ flags: []
 
 - 3 ovos médios
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 50 gramas de coco ralado
 - 1 xícara de chá de leite (240 ml)

@@ -31,12 +31,12 @@ flags: []
 
 - 500 gramas de mandioca crua
 - 3 ovos grandes (180 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de água (240 ml)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 100 gramas de coco em flocos
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/4 de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
 - Óleo e amido de milho para untar a forma
 - --
 

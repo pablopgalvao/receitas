@@ -32,11 +32,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de semente de abóbora
-- 1/2 xícara de semente de girassol
-- 1/2 xícara de semente de linhaça dourada
-- 1/2 xícara de amêndoas picadas grosseiramente
-- 1/2 xícara de quinoa em flocos
+- ½ xícara de semente de abóbora
+- ½ xícara de semente de girassol
+- ½ xícara de semente de linhaça dourada
+- ½ xícara de amêndoas picadas grosseiramente
+- ½ xícara de quinoa em flocos
 - 4 colheres de sopa de psyllium
 - Lemon pepper a gosto
 - Páprica a gosto
@@ -45,7 +45,7 @@ flags: []
 - 1 pitada de sal
 - 1 colher de sopa de açúcar de coco
 - 3 colheres de sopa de azeite de oliva
-- 1 e 1/2 xícaras de água
+- 1 e ½ xícaras de água
 - --
 
 ---

@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 maço de brócolis (250 gramas)
-- 1/2 cebola pequena (130 gramas)
+- ½ maço de brócolis (250 gramas)
+- ½ cebola pequena (130 gramas)
 - 2 dentes de alho
 - 2 xícaras de chá de água (450 ml)
 - 1 colher de sopa de azeite
 - 1 xícara de chá de arroz (150 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 pitada de bicarbonato de sódio
 - --
 

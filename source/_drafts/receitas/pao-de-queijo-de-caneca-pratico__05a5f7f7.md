@@ -33,7 +33,7 @@ flags: []
 - 4 colheres de sopa de leite
 - 2 colheres de sopa de óleo
 - 4 colheres de sopa de polvilho azedo (ou doce)
-- 1/2 colher de sopa de fermento em pó
+- ½ colher de sopa de fermento em pó
 - 3 colheres de sopa de queijo parmesão ralado
 - 1 pitada de sal
 - Óleo para untar

@@ -38,9 +38,9 @@ flags: []
 - 2 colheres de sopa de azeite de oliva
 - 1 colher de chá de orégano
 - 1 colher de chá de molho de pimenta (opcional)
-- 1/3 de xícara de chá de molho de tomate (80 ml)
-- 1/4 de colher de chá de pimenta-do-reino
-- 1/2 colher de chá de sal
+- ⅓ de xícara de chá de molho de tomate (80 ml)
+- ¼ de colher de chá de pimenta-do-reino
+- ½ colher de chá de sal
 - --
 
 ---

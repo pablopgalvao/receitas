@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite integral
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - 5 colheres de sopa de chocolate em pó 50% cacau
 - 2 colheres de sopa de manteiga
 - Em uma panela de fundo grosso, ainda fora do fogo, coloque o leite, o açúcar, o chocolate em pó e a manteiga. Misture até incorporar para não criar gruminhos;

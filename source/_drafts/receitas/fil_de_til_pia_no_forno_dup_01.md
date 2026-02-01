@@ -34,7 +34,7 @@ flags: []
 - 80 gramas de azeitona preta
 - 80 gramas de azeitona verde
 - 30 gramas de alcaparras
-- 1/2 xícara de chá de vinho branco seco (120 ml)
+- ½ xícara de chá de vinho branco seco (120 ml)
 - Ramos de tomilho a gosto
 - Sal a gosto
 - Salsinha a gosto

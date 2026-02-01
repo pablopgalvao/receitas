@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 170 gramas de Iogurte natural (1 pote)
-- 80 ml de óleo (1/3 de xícara)
-- 225 gramas de açúcar (1 xícara e 1/4)
+- 80 ml de óleo (⅓ de xícara)
+- 225 gramas de açúcar (1 xícara e ¼)
 - 240 gramas de farinha de trigo (2 xícaras)
-- 60 ml de suco de limão siciliano (1/4 de xícara)
+- 60 ml de suco de limão siciliano (¼ de xícara)
 - 15 gramas de fermento químico (1 colher de sopa)
 - 140 gramas de açúcar de confeiteiro (1 xícara)
-- 22 ml de suco de limão siciliano (1 colher e 1/2 de sopa)
+- 22 ml de suco de limão siciliano (1 colher e ½ de sopa)
 - No liquidificador, coloque o iogurte, os ovos, o açúcar, o óleo e o suco de limão siciliano e bata bem;
 - Acrescente a farinha de trigo aos poucos e vá misturando até obter uma massa homogênea. Em seguida adicione e incorpore o fermento;
 - Transfira para uma forma untada e enfarinhada de 26 cm de diâmetro e leve ao forno pré-aquecido a 180°C por aproximadamente 40 minutos ou até que esteja assado;

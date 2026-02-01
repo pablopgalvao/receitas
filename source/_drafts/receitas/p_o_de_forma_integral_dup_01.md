@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de farinha de trigo integral (420 gramas)
-- 1 e 1/3 de xícara de chá de água (320 ml)
+- 1 e ⅓ de xícara de chá de água (320 ml)
 - 2 colheres de chá de fermento biológico seco (8 gramas)
 - 2 colheres de sopa de açúcar mascavo (40 gramas)
-- 1 e 1/2 colher de chá de sal (7 gramas)
+- 1 e ½ colher de chá de sal (7 gramas)
 - 3 colheres de sopa de óleo vegetal (45 ml)
 - Junte os ingredientes para o preparo do pão de forma integral. Antes de iniciar, coloque 2 colheres de sopa da água do total indicado na receita em um recipiente. Ela será usada para dissolver o fermento;
 - Coloque a farinha em uma tigela grande e adicione a água restante. Mexa com uma colher de pau para incorporar. Quando a massa começar a criar resistência, mexa com as mãos e forme uma bola;

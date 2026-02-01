@@ -32,8 +32,8 @@ flags: []
 - 2 ovos
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 xícara de chá de farinha de trigo (120 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
-- 1/2 colher de sopa de fermento químico em pó (7 gramas)
+- ½ xícara de chá de óleo (120 ml)
+- ½ colher de sopa de fermento químico em pó (7 gramas)
 - --
 
 ---

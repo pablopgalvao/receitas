@@ -33,7 +33,7 @@ flags: []
 - 1 xícara de chá de farinha de rosca grossa
 - 4 colheres de sopa de azeite
 - Lemon pepper a gosto (pode substituir por outros tipos de pimenta)
-- 1/4 de xícara de chá de cheiro-verde
+- ¼ de xícara de chá de cheiro-verde
 - 1 dente de alho grande picado
 - Sal a gosto
 - --

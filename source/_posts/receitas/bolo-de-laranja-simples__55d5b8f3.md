@@ -31,7 +31,7 @@ flags: []
 - 200 ml de suco de laranja natural (2 laranjas grandes)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 1 xícara de chá de açúcar (180 gramas)
-- 3/4 de xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de óleo (180 ml)
 - 2 ovos
 - 1 colher de sopa de fermento químico em pó para bolo
 - --

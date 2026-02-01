@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 ovos
-- 1 + 2/3 de xícara de chá de óleo (400 ml)
-- 2 + 3/4 de xícara de chá de leite (600 ml)
+- 1 + ⅔ de xícara de chá de óleo (400 ml)
+- 2 + ¾ de xícara de chá de leite (600 ml)
 - 1 colher de chá de sal
-- 1/4 de xícara de chá de fermento químico (50 gramas)
-- 3 + 1/4 de xícara de chá de farinha de trigo (500 gramas)
+- ¼ de xícara de chá de fermento químico (50 gramas)
+- 3 + ¼ de xícara de chá de farinha de trigo (500 gramas)
 - 350 gramas de frango desfiado temperado
 - 150 gramas de mussarela ralada
 - 1 gema de ovo

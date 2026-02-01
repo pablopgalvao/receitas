@@ -37,13 +37,13 @@ flags: []
 - 2 pimentões médios
 - 2 tomates grandes
 - 2 colheres de sopa de cominho
-- 1/2 maço de hortelã
+- ½ maço de hortelã
 - 2 colheres de chá de pimenta-do-reino
 - 2 colheres de sopa de colorau
 - Azeite
 - 1 colher de sopa de sal
 - 10 dentes de alho
-- 1/2 maço de coentro
+- ½ maço de coentro
 - Agulha de tapeceiro e barbante culinário para costurar os buchos
 - Água suficiente para cozinhar a buchada
 - --

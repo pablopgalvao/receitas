@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de gergelim preto sem casca (130 gramas)
 - 2 colheres de sopa de azeite (30 ml)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - --
 
 ---

@@ -31,7 +31,7 @@ flags: []
 - 400 ml de leite integral
 - 1 colher de sopa de essência de baunilha
 - 1 caixinha de creme de leite
-- 1/2 colher de sopa de amido de milho
+- ½ colher de sopa de amido de milho
 - 200 gramas de chocolate branco derretido
 - --
 

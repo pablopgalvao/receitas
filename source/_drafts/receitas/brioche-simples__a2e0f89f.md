@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícara de chá de farinha de trigo (560 gramas)
-- 1 e 1/4 xícara de chá de leite integral (300 ml)
+- 1 e ¼ xícara de chá de leite integral (300 ml)
 - 6 colheres de sopa de manteiga sem sal (84 gramas)
 - 2 ovos médios
-- 1/4 xícara de chá de açúcar refinado (50 gramas)
-- 1/2 colher de sopa de sal (7 gramas)
+- ¼ xícara de chá de açúcar refinado (50 gramas)
+- ½ colher de sopa de sal (7 gramas)
 - 10 gramas de fermento biológico seco (1 pacotinho)
 - --
 

@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de leite Ninho em pó
+- 2 e ½ xícaras de chá de leite Ninho em pó
 - 1 caixinha de leite condensado
 - 2 caixinhas de creme de leite
 - 400 ml de leite morno

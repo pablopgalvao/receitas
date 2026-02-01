@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 pote de nata (600 gramas)
+- 1 e ½ pote de nata (600 gramas)
 - 3 colheres de sopa de açúcar (40 gramas)
 - 150 gramas de suspiros
 - Morangos a gosto (300 gramas)

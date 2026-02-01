@@ -33,7 +33,7 @@ flags: []
 - 1 linguiça calabresa (200 gramas)
 - 2 colheres de sopa de óleo
 - 1 colher de café de colorau
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - Salsinha a gosto
 - Reúna os ingredientes! Lave a quirera em água corrente e escorra. Corte a calabresa em cubos médios. Pique a cebola, o pimentão e o tomate em um mm cubinhos, separadamente. Amasse o alho e pique o tanto de salsinha que desejar. Ferva a água;
 - Em uma panela de pressão, esquente o óleo e refogue a calabresa até que fique bem douradinha e solte sua própria gordura;

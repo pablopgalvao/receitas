@@ -35,7 +35,7 @@ flags: []
 - 150 gramas de quinoa cozida
 - 30 gramas de farinha de aveia (ou aveia em flocos)
 - 20 gramas de aveia em flocos
-- 1/2 cebola pequena ralada
+- ½ cebola pequena ralada
 - 2 colheres de sopa de cenoura ralada
 - Páprica doce a gosto
 - Sal e pimenta-do-reino a gosto

@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 xícara de doce de leite firme
+- 1 e ¼ xícara de doce de leite firme
 - 1 caixa de creme de leite (200 gramas)
 - 4 colheres sopa de chocolate em pó 50% (40 gramas)
 - 250 gramas de chocolate meio amargo

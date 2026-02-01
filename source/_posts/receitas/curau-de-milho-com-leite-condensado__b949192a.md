@@ -31,7 +31,7 @@ flags: []
 
 - 4 espigas de milho verde (ou 2 latas de milho sem o líquido)
 - 3 xícaras de chá de leite (720 ml)
-- 1/2 colher de sopa de manteiga
+- ½ colher de sopa de manteiga
 - 1 lata de leite condensado (395 gramas)
 - Canela em pó a gosto
 - --

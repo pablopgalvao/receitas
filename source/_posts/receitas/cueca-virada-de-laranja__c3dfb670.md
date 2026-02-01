@@ -31,13 +31,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 4 e 1/2 xícaras de chá de farinha de trigo
+- 4 e ½ xícaras de chá de farinha de trigo
 - 3 ovos
 - 2 laranjas (suco e raspas)
 - 1 xícaras de chá de açúcar
-- 1/4 de xícara de chá de manteiga derretida
+- ¼ de xícara de chá de manteiga derretida
 - 1 colher de sopa de pinga
-- 1/2 colher de sopa de fermento químico
+- ½ colher de sopa de fermento químico
 - Uma pitada de sal
 - Óleo para fritar
 - Açúcar com raspas de laranja para finalizar

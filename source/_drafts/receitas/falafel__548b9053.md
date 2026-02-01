@@ -30,18 +30,18 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 de xícara de chá de grão-de-bico seco (250 gramas)
-- 1/2 cebola
-- 1/4 de xícara de chá de folhas de salsinha (aproximadamente 8 ramos)
-- 1/4 de xícara de chá de folhas de coentro (aproximadamente 8 ramos)
+- 1 e ¼ de xícara de chá de grão-de-bico seco (250 gramas)
+- ½ cebola
+- ¼ de xícara de chá de folhas de salsinha (aproximadamente 8 ramos)
+- ¼ de xícara de chá de folhas de coentro (aproximadamente 8 ramos)
 - 1 dente de alho
 - 1 colher de chá de cominho em pó
 - 1 colher de chá de pimenta síria
-- 1/4 de colher de chá de canela em pó
+- ¼ de colher de chá de canela em pó
 - 1 colher de chá de sementes de coentro
-- 1 e 1/2 colher de chá de sal
-- 1/2 colher de chá de bicarbonato de sódio em pó
-- 1 e 1/2 colher de sopa de farinha de trigo
+- 1 e ½ colher de chá de sal
+- ½ colher de chá de bicarbonato de sódio em pó
+- 1 e ½ colher de sopa de farinha de trigo
 - Noz-moscada ralada na hora a gosto
 - Pimenta-do-reino a gosto
 - 500 ml de óleo para fritar

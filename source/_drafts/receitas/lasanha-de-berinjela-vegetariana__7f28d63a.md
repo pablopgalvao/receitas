@@ -30,14 +30,14 @@ flags: []
 
 - 3 berinjelas médias
 - 2 latas de tomate pelado sem pele (400 gramas cada)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 2 dentes de alho grandes
 - 1 colher de sopa de azeite de oliva extravirgem
 - 2 ramos grandes de manjericão fresco
 - 400 gramas de mussarela ralada
 - 60 gramas de parmesão ralado na hora para finalizar (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - --
 
 ---

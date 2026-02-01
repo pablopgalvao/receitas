@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola roxa média (70 gramas)
-- 1/2 pimentão amarelo médio (60 gramas)
+- ½ cebola roxa média (70 gramas)
+- ½ pimentão amarelo médio (60 gramas)
 - 80 gramas de aparas de tilápia
 - 15 gramas de talos de coentro
 - Suco de 3 limões
-- 1/2 xícara de chá de água gelada para bater no liquidificador
+- ½ xícara de chá de água gelada para bater no liquidificador
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de chá rasa de pimenta-do-reino (ou a gosto)
 - --

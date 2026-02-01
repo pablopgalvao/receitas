@@ -30,11 +30,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de farinha de amaranto
-- 1/2 xícara de chá de farinha de linhaça dourada
-- 1/2 xícara de chá de farinha de amêndoas
+- ½ xícara de chá de farinha de amaranto
+- ½ xícara de chá de farinha de linhaça dourada
+- ½ xícara de chá de farinha de amêndoas
 - 2 colheres de sopa de sementes de gergelim
-- 1/2 colher de chá de cúrcuma
+- ½ colher de chá de cúrcuma
 - Sal rosa a gosto (ou sal comum)
 - Azeite de oliva para untar
 - --

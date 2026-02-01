@@ -35,13 +35,13 @@ flags: []
 - 4 colheres de sopa de azeite
 - 1 cabeça de alho
 - 1 colher de sopa de levedura nutricional (opcional)
-- 1/2 colher de sopa de suco de limão
+- ½ colher de sopa de suco de limão
 - Sal a gosto
 - Noz-moscada a gosto
 - Pimenta-do-reino a gosto
-- 1/2 cebola média
-- 1/2 colher de sopa de raspas de limão (siciliano ou taiti)
-- 1/2 pacote de macarrão (250 gramas)
+- ½ cebola média
+- ½ colher de sopa de raspas de limão (siciliano ou taiti)
+- ½ pacote de macarrão (250 gramas)
 - --
 
 ---

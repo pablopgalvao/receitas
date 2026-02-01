@@ -33,7 +33,7 @@ flags: []
 - 4 gemas de ovo
 - 450 ml de leite integral
 - 1 xícara de chá de açúcar refinado
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

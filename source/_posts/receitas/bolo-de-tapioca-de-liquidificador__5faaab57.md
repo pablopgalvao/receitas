@@ -30,8 +30,8 @@ flags: []
 
 - 3 ovos médios
 - 1 garrafinha de leite de coco (200 ml)
-- 1/4 de xícara de chá de óleo (60 ml)
-- 1 e 1/3 de xícara de chá de açúcar (266 gramas)
+- ¼ de xícara de chá de óleo (60 ml)
+- 1 e ⅓ de xícara de chá de açúcar (266 gramas)
 - 1 xícara de chá de goma de tapioca (150 gramas)
 - 1 xícara de chá de farinha de trigo (140 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

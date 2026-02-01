@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de salsinha bem picadinha
-- 1/4 xícara de chá de cebolinha em rodelas bem fininhas
+- ¼ xícara de chá de salsinha bem picadinha
+- ¼ xícara de chá de cebolinha em rodelas bem fininhas
 - 3 colheres de sopa de vinagre de vinho branco
-- 1/3 xícara de chá de azeite de oliva
-- 1/2 colher de sopa de tomilho (opcional)
+- ⅓ xícara de chá de azeite de oliva
+- ½ colher de sopa de tomilho (opcional)
 - Sal e pimenta-do-reino a gosto
 - Despeje o azeite. Tempere com sal, pimenta-do-reino e tomilho. Adicione a salsinha e a cebolinha picadinhas. Misture bem e leve para a geladeira;
 

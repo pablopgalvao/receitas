@@ -33,7 +33,7 @@ flags: []
 - 500 gramas de bacalhau dessalgado em lascas
 - 1 kg de batata cozida e amassada
 - 5 colheres de sopa de requeijão de bisnaga ou cremoso (150 gramas)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - 2 colheres de sopa de salsinha picada (10 gramas)
 - 3 colheres de sopa de azeite (40 ml)
 - 1 cebola

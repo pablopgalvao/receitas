@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de aveia em flocos finos
+- 1 e ½ xícara de chá de aveia em flocos finos
 - 3 colheres de sopa de proteína vegetal
-- 1/2 xícara de chá de cacau em pó
+- ½ xícara de chá de cacau em pó
 - 150 gramas de chocolate meio amargo vegano
 - 1 xícara de chá de pasta de amendoim
 - 3 colheres de sopa de melado de cana

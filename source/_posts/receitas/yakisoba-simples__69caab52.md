@@ -35,8 +35,8 @@ flags: []
 
 - 400 gramas de filezinho (sassami) de frango
 - 1 cebola
-- 1/2 pimentão vermelho
-- 1/2 cenoura
+- ½ pimentão vermelho
+- ½ cenoura
 - 4 folhas de repolho
 - 4 folhas de acelga
 - 8 floretes de brócolis Ninja

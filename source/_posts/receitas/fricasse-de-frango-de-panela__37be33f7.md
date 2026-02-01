@@ -37,7 +37,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - Azeite a gosto
-- 1/2 cebola
+- ½ cebola
 - Alho a gosto
 - 1 kg de peito de frango desfiado
 - 1 tomate

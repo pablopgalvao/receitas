@@ -31,7 +31,7 @@ flags: []
 
 - 500 gramas de farinha de trigo
 - 3 colheres de sopa de açúcar
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 3 colheres de sopa de óleo
 - 1 colher de sopa de azeite
 - 10 gramas de fermento biológico seco

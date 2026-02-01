@@ -30,14 +30,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de milho-verde (sem a água)
-- 1/3 de xícara de chá de bacon em cubos
+- ⅓ de xícara de chá de bacon em cubos
 - 1 colher de sopa de azeite
 - 6 colheres de sopa de manteiga
 - 2 dentes de alho triturados
-- 1/2 cebola grande picada
+- ½ cebola grande picada
 - 2 xícaras de chá de farinha de milho flocada
 - Sal e pimenta-do-reino a gosto
-- 1/4 de xícara de chá de cebolinha e/ou salsinha picada
+- ¼ de xícara de chá de cebolinha e/ou salsinha picada
 - --
 
 ---

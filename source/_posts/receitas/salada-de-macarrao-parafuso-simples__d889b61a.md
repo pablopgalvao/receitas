@@ -32,11 +32,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote de macarrão parafuso colorido
+- ½ pacote de macarrão parafuso colorido
 - 6 ovos cozidos e picados
-- 1/2 lata de milho
-- 1/2 lata de ervilha
-- 1/2 xícara de chá de azeitona picada
+- ½ lata de milho
+- ½ lata de ervilha
+- ½ xícara de chá de azeitona picada
 - Orégano a gosto
 - Sal e pimenta-do-reino a gosto
 - Maionese a gosto

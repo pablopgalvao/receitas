@@ -35,7 +35,7 @@ flags: []
 - 1 colher chá de pimenta calabresa
 - 6 dentes de alho
 - 1 cebola pequena (ou meia cebola grande)
-- 1/2 xícara de chá de vinagre de vinho tinto
+- ½ xícara de chá de vinagre de vinho tinto
 - 5 colheres de sopa de azeite
 - 1 colher de chá de alecrim fresco (ou desidratado)
 - --

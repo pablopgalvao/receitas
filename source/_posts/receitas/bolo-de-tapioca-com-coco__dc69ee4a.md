@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de tapioca granulada (170 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 xícara de chá de leite fervente (240 ml)
 - 1 xícara de chá de água (240 ml)
 - 3 ovos
 - 1 caixa de leite condensado (396 gramas)
-- 1/2 xícara de chá de farinha de trigo ou amido de milho (70 gramas)
+- ½ xícara de chá de farinha de trigo ou amido de milho (70 gramas)
 - 1 xícara de chá de coco ralado (50 gramas)
 - 1 colher de sopa de fermento em pó
 - --

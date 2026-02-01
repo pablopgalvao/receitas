@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de farinha de mandioca branca
+- ½ xícara de chá de farinha de mandioca branca
 - 300 ml de água para hidratar a farinha
 - 800 gramas de chambari
 - 500 ml de água para o cozimento

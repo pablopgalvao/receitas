@@ -30,15 +30,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 gramas de filé de tilápia
-- 1/2 pacote de creme de cebola em pó (30 gramas)
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ pacote de creme de cebola em pó (30 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 250 ml de leite
 - 1 cebola grande
 - Suco de 1 limão
 - 1 colher de sopa de azeite para untar
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de colorau (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de colorau (ou a gosto)
 - 1 colher de sopa de cebolinha (ou a gosto)
 - --
 

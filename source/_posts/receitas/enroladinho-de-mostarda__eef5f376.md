@@ -31,12 +31,12 @@ flags: []
 - 1 colher de sopa de cebola
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de farinha de trigo
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/4 de colher de chá de noz-moscada (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de noz-moscada (ou a gosto)
 - 1 xícara de chá de água (240 ml)
 - 1 colher de sopa de talos de mostarda
-- 1 e 1/2 xícara de chá de leite (360 ml)
-- 1/2 colher de chá de sal (ou a gosto)
+- 1 e ½ xícara de chá de leite (360 ml)
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de sopa de queijo ralado
 - --
 

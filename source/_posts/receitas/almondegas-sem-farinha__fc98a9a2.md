@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de patinho moído
-- 1/2 cebola (80 gramas) picada em quadrados pequenos com cerca de 0,5 centímetro de espessura
+- ½ cebola (80 gramas) picada em quadrados pequenos com cerca de 0,5 centímetro de espessura
 - 100 gramas de parmesão ralado
 - Sal e pimenta-do-reino a gosto
 - 1 colher de chá de salsinha (ou a gosto)

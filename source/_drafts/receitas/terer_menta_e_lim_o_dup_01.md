@@ -37,6 +37,6 @@ flags: []
 
 1. Reúna os ingredientes e utensílios necessários para esse preparo clássico;
 2. Utilize um copo, cuia ou guampa de sua preferência. Posicione a bomba no recipiente, de forma que alcance o fundo - isso ajuda a evitar entupimentos;
-3. Preencha cerca de 2/3 desse mesmo recipiente com a erva mate. Essa quantidade é ideal para garantir o sabor e facilitar a infusão;
+3. Preencha cerca de ⅔ desse mesmo recipiente com a erva mate. Essa quantidade é ideal para garantir o sabor e facilitar a infusão;
 4. Despeje lentamente a água bem gelada sobre a erva mate, até cobrir completamente. A água fria preserva os sabores naturais e proporciona uma bebida mais refrescante;
 5. Para realçar o sabor, você pode adicionar algumas gotas de limão à água antes de despejá-la. Aproveite seu tereré e reabasteça conforme for consumindo!

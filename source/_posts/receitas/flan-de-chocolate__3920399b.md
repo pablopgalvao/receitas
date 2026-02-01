@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar (90 gramas)
-- 1/4 de xícara de chá de cacau em pó (20 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
+- ¼ de xícara de chá de cacau em pó (20 gramas)
 - 1 xícara de chá de leite (240 ml)
 - 1 colher de sopa de manteiga (20 gramas)
 - --

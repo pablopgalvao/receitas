@@ -34,9 +34,9 @@ flags: []
 - 1 xícara de chá de vinagre
 - 1 xícara de chá de molho ou extrato de tomate (opcional)
 - 150 ml de água
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de chá de cominho
-- 2 e 1/2 colheres de chá de colorau
+- 2 e ½ colheres de chá de colorau
 - Em uma tigela grande, adicione as sardinhas e tempere com sal, colorau e cominho. Misture com as mãos, para incorporar bem os ingredientes;
 
 ---

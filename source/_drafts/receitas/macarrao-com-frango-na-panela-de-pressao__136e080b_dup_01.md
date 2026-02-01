@@ -35,9 +35,9 @@ flags: []
 - Colorau a gosto
 - 1 tablete de caldo de galinha
 - 3 dentes de alho bem picadinhos
-- 1/2 kg de peito de frango picadinho
+- ½ kg de peito de frango picadinho
 - Sal e pimenta-do-reino a gosto
-- 1/2 colher de sopa de orégano
+- ½ colher de sopa de orégano
 - 1 sachê de molho de tomate pronto
 - 300 gramas de macarrão (o de sua preferência)
 - Água (para cozinhar o macarrão)

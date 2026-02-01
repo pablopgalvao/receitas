@@ -31,14 +31,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de maionese
-- 1/2 lata de milho verde escorrido (80 gramas)
+- ½ lata de milho verde escorrido (80 gramas)
 - 1 pitada de sal
 - 1 pitada de pimenta-do-reino
 - 1 colher de sopa de azeite
 - 1 pão tipo baguete grande
 - 3 folhas de alface americana
 - 1 tomate grande
-- 1/2 cebola roxa média
+- ½ cebola roxa média
 - 1 cenoura média ralada
 - 50 gramas de queijo prato
 - 50 gramas de peito de peru

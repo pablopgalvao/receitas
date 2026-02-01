@@ -31,7 +31,7 @@ flags: []
 
 - 2 colheres de sopa de azeite
 - Molho de pimenta a gosto
-- 1/3 de xícara de chá de ervilhas frescas
+- ⅓ de xícara de chá de ervilhas frescas
 - 2 colheres de chá de sal
 - 1 colher de chá de açafrão-da-terra (cúrcuma)
 - 1 colher de chá de páprica picante

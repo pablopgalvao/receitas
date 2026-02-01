@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sobremesa de alho
 - 1 colher de sobremesa de páprica picante
 - 1 colher de sopa de sal
-- 1/2 colher de sopa de pimenta-do-reino
+- ½ colher de sopa de pimenta-do-reino
 - 2 colheres de sopa de mostarda
 - --
 

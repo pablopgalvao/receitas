@@ -28,12 +28,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de sal
-- 1/2 xícara de chá de vinagre de álcool (120 ml)
+- ½ colher de sopa de sal
+- ½ xícara de chá de vinagre de álcool (120 ml)
 - 4 colheres de sopa de azeite
 - 2 colheres de sopa de salsa picada
 - 2 colheres de sopa de cebolinha-verde picada
-- 1 e 1/2 colher de sopa de suco de limão
+- 1 e ½ colher de sopa de suco de limão
 - --
 
 ---

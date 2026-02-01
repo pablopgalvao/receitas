@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 gomos de linguiça toscana
-- 1/4 de uma cebola picada
+- ¼ de uma cebola picada
 - 1 tomate picado
 - 150 gramas de queijo mussarela
-- 1/2 colher de chá de orégano a gosto
+- ½ colher de chá de orégano a gosto
 - 1 colher de sopa generosa de nata, requeijão ou creme de leite
 - --
 

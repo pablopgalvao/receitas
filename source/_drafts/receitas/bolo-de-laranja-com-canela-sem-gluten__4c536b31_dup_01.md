@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1 e 1/2 xícara de chá de laranja-pera com ou sem casca (240 gramas)
-- 1/2 xícara de chá de açúcar demerara (112 gramas)
-- 2/4 xícara de chá óleo de girassol (120ml)
-- 2/3 xícara de chá de farinha de arroz (110 gramas)
-- 1/2 xícara de chá de amido de milho (50 gramas)
-- 1/3 xícara de chá de polvilho doce (30 gramas)
+- 1 e ½ xícara de chá de laranja-pera com ou sem casca (240 gramas)
+- ½ xícara de chá de açúcar demerara (112 gramas)
+- ½ xícara de chá óleo de girassol (120ml)
+- ⅔ xícara de chá de farinha de arroz (110 gramas)
+- ½ xícara de chá de amido de milho (50 gramas)
+- ⅓ xícara de chá de polvilho doce (30 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Canela em pó a gosto
 - --

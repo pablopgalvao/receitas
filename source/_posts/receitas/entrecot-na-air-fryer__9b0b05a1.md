@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 100 ml de leite
-- 1/2 dente de alho
-- 1/2 limão
+- ½ dente de alho
+- ½ limão
 - 60 ml de óleo (ou a gosto)
-- 1/2 xícara de chá de folhas de manjericão (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ xícara de chá de folhas de manjericão (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - --
 
 ---

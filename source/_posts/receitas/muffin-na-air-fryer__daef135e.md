@@ -28,16 +28,16 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/3 de xícara de chá de farinha de trigo (80 gramas)
-- 1/3 de xícara de chá e 1 colher de sopa de açúcar mascavo claro (80 gramas)
-- 1/4 de xícara de chá de açúcar cristal (50 gramas)
+- ⅔ de xícara de chá de farinha de trigo (80 gramas)
+- ⅓ de xícara de chá e 1 colher de sopa de açúcar mascavo claro (80 gramas)
+- ¼ de xícara de chá de açúcar cristal (50 gramas)
 - 5 colheres de sopa de manteiga sem sal (70 gramas)
 - 6 colheres de sopa de cacau em pó (30 gramas)
 - 7 colheres de sopa de café passado quente (110 ml)
 - 5 colheres de sopa de gotas de chocolate (50 gramas)
-- 1/2 colher de chá de fermento em pó para bolo
-- 1/4 de colher de chá de bicarbonato de sódio
-- 1/4 de colher de chá de sal
+- ½ colher de chá de fermento em pó para bolo
+- ¼ de colher de chá de bicarbonato de sódio
+- ¼ de colher de chá de sal
 - 1 ovo
 - --
 

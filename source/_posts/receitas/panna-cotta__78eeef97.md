@@ -30,7 +30,7 @@ flags: []
 
 - 450 gramas de frutas vermelhas
 - 150 gramas de açúcar
-- 1/2 limão
+- ½ limão
 - --
 
 ---

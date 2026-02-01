@@ -32,7 +32,7 @@ flags: []
 - 2 xícaras de chá de leite sem lactose (480 ml)
 - 1 xícaras de chá de amido de milho
 - 2 ovos médios (120 gramas)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - Óleo para untar
 - --
 

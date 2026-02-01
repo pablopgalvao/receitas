@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de sal
 - 2 colheres de sopa de óleo
 - 1 xícara de chá de molho de tomate (240 ml)
-- 1/2 maço de salsinha ou coentro
+- ½ maço de salsinha ou coentro
 - Organize sua bancada! Descasque o alho e pique 4 deles em cubinhos. Corte a cebola, os pimentões e o tomate em cubos, desprezando as sementes apenas dos pimentões. Pique a salsinha ou coentro finamente;
 - Em uma panela de pressão, coloque a carne inteira, as folhas de louro, os 2 dentes de alho inteiros e o sal. Sele por cerca de 10 minutos até que todos os lados dourem, cubra com água fervente;
 - Em outra panela grande, aqueça o óleo em fogo médio. Refogue a cebola e o restante do alho até dourarem;

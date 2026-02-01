@@ -31,8 +31,8 @@ flags: []
 
 - 1 kg de mocotó
 - 1 maço de salsinha ou coentro
-- 1 e 1/2 colher de sopa de sal
-- 1 e 1/2 colher de sopa de cominho com pimenta-do-reino
+- 1 e ½ colher de sopa de sal
+- 1 e ½ colher de sopa de cominho com pimenta-do-reino
 - 1 colher de sopa de páprica picante (ou colorau)
 - 3 colheres de sopa de azeite ou óleo para refogar
 - Cheiro-verde a gosto para finalizar

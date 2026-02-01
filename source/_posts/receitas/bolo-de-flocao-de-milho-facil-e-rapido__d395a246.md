@@ -30,7 +30,7 @@ flags: []
 
 - 3 ovos
 - 1 xícara de chá de leite integral
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de açúcar
 - 1 pitada de sal
 - 2 xícaras de chá de flocão de milho

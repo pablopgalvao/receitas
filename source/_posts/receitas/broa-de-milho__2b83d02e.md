@@ -29,15 +29,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 lata de milho-verde em conserva
+- ½ lata de milho-verde em conserva
 - 2 ovos
 - 100 ml de leite
 - 3 colheres de sopa de açúcar
 - 1 xícara de chá de fubá
 - Uma pitada de sal
 - 2 colheres de sopa de manteiga (ou margarina)
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 
 ---

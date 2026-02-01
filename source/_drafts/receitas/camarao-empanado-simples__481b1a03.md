@@ -38,7 +38,7 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 ovo
-- 1 e 1/3 de xícara de chá de farinha de rosca (150 gramas)
+- 1 e ⅓ de xícara de chá de farinha de rosca (150 gramas)
 - Óleo para fritar
 - --
 

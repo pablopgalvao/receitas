@@ -29,14 +29,14 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 repolho pequeno
+- ½ repolho pequeno
 - 1 xícara de chá de leite (240 ml)
 - Leite para dissolver o amido de milho
-- 1/2 cenoura
-- 1 e 1/2 colheres de sopa de manteiga derretida
-- 1 e 1/2 colheres de sopa de amido de milho
+- ½ cenoura
+- 1 e ½ colheres de sopa de manteiga derretida
+- 1 e ½ colheres de sopa de amido de milho
 - 1 colher de chá de sal a gosto
-- 1/2 colher de chá de pimenta-do-reino a gosto
+- ½ colher de chá de pimenta-do-reino a gosto
 - --
 
 ---

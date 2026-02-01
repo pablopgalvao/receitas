@@ -31,7 +31,7 @@ flags:
 
 - 1 fatia de Rap10 integral
 - 3 folhas de alface
-- 1/4 de cebola roxa
+- ¼ de cebola roxa
 - 4 tomates-cereja
 - 1 colher de chá de cheiro verde (ou a gosto)
 - 1 lata de atum natural

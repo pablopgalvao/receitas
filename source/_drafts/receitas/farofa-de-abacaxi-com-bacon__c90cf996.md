@@ -37,7 +37,7 @@ flags: []
 - 4 colheres de sopa de azeite de oliva (opcional)
 - 2 xícaras de chá de farinha de mandioca grossa ou fina
 - 1 abacaxi pequeno
-- 1/2 xícara de chá de azeitona verde ou preta picada
+- ½ xícara de chá de azeitona verde ou preta picada
 - Sal a gosto
 - 1 pimenta dedo-de-moça (sem sementes)
 - Cheiro-verde a gosto

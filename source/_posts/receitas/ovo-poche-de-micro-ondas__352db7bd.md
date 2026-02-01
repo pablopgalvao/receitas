@@ -32,7 +32,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de água
+- ¼ xícara de chá de água
 - 1 ovo
 - 1 fatia de pão sem glúten
 - Abacate amassado a gosto

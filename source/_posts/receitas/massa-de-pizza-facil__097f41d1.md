@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de trigo (180 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (180 gramas)
 - 5 gramas de fermento biológico seco ou 15 gramas de fermento biológico fresco
 - 1 ovo médio (50 gramas)
 - 1 colher de chá rasa de sal (5 gramas)
 - 1 colher de sopa rasa de açúcar (10 gramas)
 - 1 colher de sopa de óleo (10 ml)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - --
 
 ---

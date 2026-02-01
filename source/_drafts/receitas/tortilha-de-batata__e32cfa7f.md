@@ -34,10 +34,10 @@ flags: []
 - 1 dente de alho
 - 1 cebola pequena
 - Tomilho ou orégano fresco a gosto
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de sal
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de chá de cebolete
-- 1/3 xícara de chá de azeite
+- ⅓ xícara de chá de azeite
 - --
 
 ---

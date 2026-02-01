@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos médios
-- 3/4 de xícara de chá de açúcar (160 gramas)
+- ¾ de xícara de chá de açúcar (160 gramas)
 - 50 gramas de manteiga
-- 3/4 de xícara de chá de achocolatado (80 gramas)
-- 1/2 xícara de chá de farinha de trigo (60 gramas)
-- 1/2 xícara de chá de chocolate picado (80 gramas)
+- ¾ de xícara de chá de achocolatado (80 gramas)
+- ½ xícara de chá de farinha de trigo (60 gramas)
+- ½ xícara de chá de chocolate picado (80 gramas)
 - 50 gramas de chocolate em gotas para decorar
 - --
 

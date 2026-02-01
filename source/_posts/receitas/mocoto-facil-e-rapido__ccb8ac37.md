@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 peça de mocotó limpo (1,9 kg)
+- 1 e ½ peça de mocotó limpo (1,9 kg)
 - 1,5 litros de água para cozinhar e eliminar cheiro forte
 - 1 litro de água para cozinhar com temperos
-- 1/2 xícara de vinagre (120 ml)
+- ½ xícara de vinagre (120 ml)
 - 300 gramas de bacon
 - 2 gomos de linguiça calabresa (400 gramas)
 - 1 cebola

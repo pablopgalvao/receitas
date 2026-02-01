@@ -31,11 +31,11 @@ flags: []
 - 4 a 6 filés de marapá (300 gramas)
 - 2 colheres de sopa de azeite
 - 3 dentes de alho
-- 1/2 limão taiti ou siciliano
-- 1/4 de colher de chá de páprica defumada
-- 1/8 de colher de chá de cúrcuma
-- 1/4 de colher de chá de gengibre em pó
-- 1/2 colher de chá de sal
+- ½ limão taiti ou siciliano
+- ¼ de colher de chá de páprica defumada
+- ⅛ de colher de chá de cúrcuma
+- ¼ de colher de chá de gengibre em pó
+- ½ colher de chá de sal
 - 2 colheres de sopa de coentro/chimichurri
 - --
 

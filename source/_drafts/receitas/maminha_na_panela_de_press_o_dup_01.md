@@ -43,7 +43,7 @@ flags: []
 - 3 colheres de sopa de salsinha picada
 - 3 colheres de sopa de cebolinha picada
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Descasque e pique fino a cebola e o alho. Corte o tomate em cubos. Retire as folhas do salsão e corte o talo em cubos pequenos. Descasque a cenoura e corte em pedaços pequenos. Descarte as folhas do alho-poró e fatie a parte branca em rodelas finas;
 - Regue novamente a panela com azeite. Coloque a cebola e refogue por 2 minutos ou até ficar transparente. Junte o alho e refogue até dourar. Acrescente a cenoura e o salsão. Tempere com sal e pimenta-do-reino e mexa;
 - Espalhe os legumes sobre o fundo da panela e disponha a carne com a gordura virada para baixo sobre os legumes. Adicione o molho inglês, as folhas de louro e cubra com a água. Prove e ajuste o sal e a pimenta-do-reino;

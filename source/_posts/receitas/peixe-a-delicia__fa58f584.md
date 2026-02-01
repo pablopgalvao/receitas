@@ -45,7 +45,7 @@ flags: []
 - Coentro a gosto picado
 - 1 colher de sopa de amido de milho
 - 300 ml de leite de coco
-- 1/2 lata de creme de leite
+- ½ lata de creme de leite
 - Queijo mussarela a gosto
 - --
 

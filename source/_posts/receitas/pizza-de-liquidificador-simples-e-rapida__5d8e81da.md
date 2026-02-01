@@ -31,7 +31,7 @@ flags: []
 
 - Molho de tomate a gosto
 - 300 gramas de queijo mussarela
-- 1/2 gomo de linguiça calabresa defumada
+- ½ gomo de linguiça calabresa defumada
 - 1 tomate grande
 - 1 colher de sobremesa de orégano (ou a gosto)
 - 1 colher de sopa de azeite de oliva (ou a gosto)

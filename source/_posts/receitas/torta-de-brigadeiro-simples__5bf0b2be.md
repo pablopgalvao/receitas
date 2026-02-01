@@ -34,7 +34,7 @@ flags: []
 - 3 colheres de sopa de chocolate em pó
 - 1 colher de sopa de manteiga (para o recheio)
 - 1 lata de creme de leite
-- 1/2 xícara de chá de granulado
+- ½ xícara de chá de granulado
 - 100 gramas de cobertura de chocolate ao leite em barra (opcional)
 - --
 

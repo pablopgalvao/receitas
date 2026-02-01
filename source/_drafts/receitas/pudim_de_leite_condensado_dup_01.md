@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de água quente (120 ml)
+- ½ xícara de chá de água quente (120 ml)
 - 3 ovos médios
 - 320 ml de leite integral
 - 1 lata de leite condensado (395 gramas)

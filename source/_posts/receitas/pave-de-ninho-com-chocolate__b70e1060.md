@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de chocolate meio amargo
-- 100 gramas de creme de leite (1/2 caixinha)
+- 100 gramas de creme de leite (½ caixinha)
 - --
 
 ---

@@ -31,8 +31,8 @@ flags: []
 
 - 1 lata de leite condensado (395 gramas)
 - 1 caixinha de creme de leite (200 gramas)
-- 3/4 de xícara de leite em pó (100 gramas)
-- 1/2 xícara de chá de leite integral (120 ml)
+- ¾ de xícara de leite em pó (100 gramas)
+- ½ xícara de chá de leite integral (120 ml)
 - 350 gramas de uvas verdes sem semente (reserve algumas para decoração)
 - 250 gramas de chocolate meio amargo
 - 1 caixinha de creme de leite (200 gramas)

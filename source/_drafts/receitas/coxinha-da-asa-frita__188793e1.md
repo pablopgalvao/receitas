@@ -36,7 +36,7 @@ flags: []
 - 4 dentes de alho
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de sopa de mostarda
+- ½ colher de sopa de mostarda
 - Suco de 1 limão pequeno
 - Óleo para fritar
 - --

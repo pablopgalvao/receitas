@@ -35,10 +35,10 @@ flags: []
 - 1 colher de sopa de páprica
 - 1 pitada de pimenta calabresa (opcional)
 - 1 colher de sopa de sal
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 1 cebola grande
 - 1 cebola-roxa grande
-- 1 e 1/2 xícara de chá de água (360 ml)
+- 1 e ½ xícara de chá de água (360 ml)
 - --
 
 ---

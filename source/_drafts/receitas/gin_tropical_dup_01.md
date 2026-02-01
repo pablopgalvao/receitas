@@ -39,7 +39,7 @@ flags: []
 1. Já deixe tudo o que você precisa organizado para começar o preparo.
 2. Preferencialmente, escolha uma taça de haste longa e bojo arredondado.
 3. Preencha a taça com gelo e movimente-a em círculos para resfriar.
-4. Corte 1/2 rodela de laranja com 5 cm de espessura mais ou menos.
+4. Corte ½ rodela de laranja com 5 cm de espessura mais ou menos.
 5. Coloque a rodela de laranja na taça com gelo.
 6. Acrescente o gin, o suco de laranja e o energético. Misture bem.
 7. Decore como preferir e aproveite o sabor tropical.

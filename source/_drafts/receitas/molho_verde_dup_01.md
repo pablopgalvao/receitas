@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 100 ml de leite
-- 1 pitada de sal (1/2 colher de chá)
+- 1 pitada de sal (½ colher de chá)
 - 1 maço de cheiro-verde a gosto (100 gramas)
 - 200 ml de óleo
 - Em um liquidificador ou mixer desligado, despeje o leite, um dente de alho descascado, o sal e o cheiro-verde. Ligue-o e bata por cerca de 5 minutos até ficar uma mistura homogênea;

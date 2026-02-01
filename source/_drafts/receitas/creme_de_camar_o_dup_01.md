@@ -38,8 +38,8 @@ flags: []
 - 200 ml de leite de coco
 - 1 colher de sopa de requeijão
 - 3 colheres de sopa de azeite
-- 1/2 colher de chá de sal
-- 1/4 colher de chá de pimenta-do-reino
+- ½ colher de chá de sal
+- ¼ colher de chá de pimenta-do-reino
 - 2 colheres de sopa de suco de limão (30 ml)
 - 2 colheres de sopa de cheiro-verde picado
 - Coloque os camarões em uma tigela e tempere-os com o sal, a pimenta-do-reino e o suco de limão. Deixe marinar por cerca de 15 minutos;

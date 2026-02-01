@@ -35,7 +35,7 @@ flags: []
 - 3 filés de peito soltinho e temperado
 - 1 xícara de chá de alho-poró cortado
 - 1 dente de alho picado
-- 1/2 pimentão verde picado
+- ½ pimentão verde picado
 - 1 lata de tomate pelado
 - 4 colheres de sopa de extrato de tomate
 - 1 ramo de manjericão

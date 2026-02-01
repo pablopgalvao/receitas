@@ -57,7 +57,7 @@ flags: []
 1. Para facilitar o passo a passo, deixe os queijos ralados e as folhas de manjericão higienizadas. Separe os ingredientes em uma bancada;
 2. Em um recipiente, coloque a carne moída, o ovo, a mostarda dijon, o parmesão ralado, a farinha de pão de forma, a pimenta, o sal e o molho inglês. Misture tudo com as mãos;
 3. Em outro recipiente, coloque a mussarela e o cream cheese. Misture tudo;
-4. Pegue uma porção da carne (aproximadamente 1/4 de xícara de chá) e faça bolinhas;
+4. Pegue uma porção da carne (aproximadamente ¼ de xícara de chá) e faça bolinhas;
 5. Faça um furinho no meio e recheie com um pouco da combinação de queijos. Repita o processo com toda a carne;
 6. Em uma panela bem quente com azeite, coloque os polpetones. Deixe tostar por 2 minutos de cada lado;
 7. Coloque-os em um refratário, cubra com molho de tomate, adicione folhinhas de manjericão e cubra com mussarela e parmesão. Leve ao forno para gratinar por 15 minutos;

@@ -31,7 +31,7 @@ flags: []
 - 1 ovo
 - 2 colheres de sopa de requeijão light
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
-- 1/4 de colher de chá de sal
+- ¼ de colher de chá de sal
 - --
 
 ---

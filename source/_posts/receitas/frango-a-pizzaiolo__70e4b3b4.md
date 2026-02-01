@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de azeite
 - 1 xícara de chá de molho de tomate
 - 200 gramas de queijo mussarela ralado
-- 1 e 1/2 tomate cortados em rodelas bem finas
+- 1 e ½ tomate cortados em rodelas bem finas
 - 1 pitada de orégano seco
 - --
 

@@ -38,9 +38,9 @@ flags: []
 - 1 colher de sopa de manteiga em temperatura ambiente
 - 1 colher de sopa de manteiga gelada
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de cheiro-verde
-- 1/2 xícara de chá de queijo parmesão ralado a gosto
+- ½ xícara de chá de queijo parmesão ralado a gosto
 - Leve uma frigideira ao fogo médio e acrescente mais um pouco de azeite. Derreta a manteiga em temperatura ambiente no azeite quente e refogue a cebola até que murche. Junte o tomate e misture para incorporar. Abaixe o fogo;
 - Enquanto o tomate refoga, em uma tigela, tempere os camarões com sal, pimenta e azeite. Mexa tudo para espalhar os temperos;
 - Finalize com o queijo parmesão ralado e a manteiga gelada. Desligue o fogo e misture bem. O queijo e a manteiga derretem no próprio calor da panela;

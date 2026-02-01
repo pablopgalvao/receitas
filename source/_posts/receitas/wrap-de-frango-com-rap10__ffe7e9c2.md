@@ -40,8 +40,8 @@ flags: []
 - Rap 10
 - 2 folhas de alface cortadas em tiras
 - 4 tomates-cerejas cortados ao meio
-- 1/2 cebola roxa picada
-- 1/2 pepino ralado
+- ½ cebola roxa picada
+- ½ pepino ralado
 - --
 
 ---

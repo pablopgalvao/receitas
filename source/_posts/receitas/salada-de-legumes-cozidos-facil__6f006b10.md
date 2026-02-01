@@ -34,7 +34,7 @@ flags: []
 
 - 1 cenoura grande
 - 3 batatas inglesas médias
-- 1/2 bandeja de vagem
+- ½ bandeja de vagem
 - Salsinha fresca a gosto
 - Azeitona preta a gosto
 - Orégano a gosto

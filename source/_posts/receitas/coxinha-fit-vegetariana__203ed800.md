@@ -32,7 +32,7 @@ flags: []
 
 - 1 lata de grão-de-bico
 - Azeite a gosto
-- 1/2 cebola picadinha
+- ½ cebola picadinha
 - 1 colher de chá de páprica
 - 1 colher de chá de cúrcuma
 - Sal a gosto

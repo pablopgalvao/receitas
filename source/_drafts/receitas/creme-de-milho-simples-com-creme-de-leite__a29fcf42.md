@@ -32,10 +32,10 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 1 colher de sopa de manteiga
 - 1 cebola média
-- 1 e 1/4 xícara de chá de leite (300 ml)
+- 1 e ¼ xícara de chá de leite (300 ml)
 - 1 colher de sopa de amido de milho
-- 1/2 tablete de caldo de legumes (opcional)
-- 1/4 colher de chá de pimenta-do-reino a gosto
+- ½ tablete de caldo de legumes (opcional)
+- ¼ colher de chá de pimenta-do-reino a gosto
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de sopa de cheiro-verde (ou a gosto)
 - --

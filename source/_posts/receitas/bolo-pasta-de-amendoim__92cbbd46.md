@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 colheres de sopa de pasta de amendoim (150 gramas)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 2 colheres de sopa de açúcar demerara (40 gramas)
 - 1 colher de sopa de cacau em pó (20 gramas)
 - --

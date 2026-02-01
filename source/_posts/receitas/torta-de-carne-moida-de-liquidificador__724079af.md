@@ -35,7 +35,7 @@ flags: []
 - 2 xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento químico
 - 50 gramas de queijo parmesão ralado
-- 1/2 colher de chá de colorau
+- ½ colher de chá de colorau
 - --
 
 ---

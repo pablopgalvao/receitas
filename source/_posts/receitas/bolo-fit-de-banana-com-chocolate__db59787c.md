@@ -32,7 +32,7 @@ flags: []
 
 - 3 bananas maduras
 - 4 ovos
-- 1/2 xícara de chá de açúcar demerara
+- ½ xícara de chá de açúcar demerara
 - 2 colheres de sopa de manteiga Ghee
 - 1 xícara de chá de farinha de aveia
 - 3 colheres de sopa de cacau em pó

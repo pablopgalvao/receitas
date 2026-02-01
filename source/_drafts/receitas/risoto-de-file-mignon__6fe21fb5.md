@@ -35,7 +35,7 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 1 fio de azeite
 - 2 colher de sopa de manteiga sem sal
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 2 xícaras de chá de arroz arbório
 - 1 xícara de chá de vinho branco

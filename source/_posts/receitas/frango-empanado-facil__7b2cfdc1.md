@@ -40,9 +40,9 @@ flags: []
 - Páprica defumada a gosto
 - Cebola em pó a gosto
 - 1 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de amido de milho
+- ½ xícara de chá de amido de milho
 - 2 ovos
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 colher de sobremesa de fermento químico em pó (fermento para bolo)
 - Farinha de trigo a gosto para empanar
 - Óleo suficiente para fritar por imersão

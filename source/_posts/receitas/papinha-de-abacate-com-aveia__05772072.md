@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 laranja
-- 1/2 banana
-- 1/2 abacate
+- ½ banana
+- ½ abacate
 - 2 colheres de sopa de aveia cozida
 - --
 

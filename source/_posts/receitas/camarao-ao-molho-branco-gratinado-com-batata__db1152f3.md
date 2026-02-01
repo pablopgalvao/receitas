@@ -32,8 +32,8 @@ flags: []
 - 1 colher de sopa de manteiga (15 gramas)
 - 1 colher de sopa de farinha de trigo (10 gramas)
 - 200 ml de leite
-- 1/2 colher de chá de sal ou a gosto
-- 1/4 de colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de sal ou a gosto
+- ¼ de colher de chá de pimenta-do-reino ou a gosto
 - 3 batatas cozidas em rodelas (300 gramas)
 - 150 gramas de queijo mussarela ralado
 - Ervas frescas para decorar

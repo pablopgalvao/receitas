@@ -30,9 +30,9 @@ flags: []
 
 - 2 ovos (100 gramas)
 - 1 laranja (80 gramas)
-- 3/4 de xícara de chá de óleo (160 ml)
+- ¾ de xícara de chá de óleo (160 ml)
 - 1 xícara de chá de açúcar refinado (200 gramas)
-- 1 e 1/2 xícara de chá de farinha de trigo (210 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (210 gramas)
 - 1 colher de sopa de fermento químico em pó (15 gramas)
 - --
 

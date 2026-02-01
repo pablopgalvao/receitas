@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de suco de limão
 - 1 colher de sopa de azeite
 - Sal a gosto
-- 1/2 cebola pequena picada
+- ½ cebola pequena picada
 - 1 tomate médio picado
 - Cheiro-verde a gosto
 - --

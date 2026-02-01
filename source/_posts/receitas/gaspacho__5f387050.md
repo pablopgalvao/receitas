@@ -30,14 +30,14 @@ flags: []
 
 - 5 tomates maduros
 - 1 pepino japonês
-- 1/4 de pimentão vermelho
-- 1/2 cebola pequena
+- ¼ de pimentão vermelho
+- ½ cebola pequena
 - 2 dentes de alho
 - 2 colheres de sopa de vinagre de vinho branco (30 ml)
 - 1 colher de sopa de azeite (15 ml)
 - 1 colher de café de páprica doce (3 gramas)
 - 1 colher de café de sal (3 gramas)
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - 3 fatias de pão de forma integral
 - --
 

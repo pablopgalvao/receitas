@@ -32,7 +32,7 @@ flags: []
 
 - 1 peça de queijo tipo gouda (180 gramas)
 - Parmesão ralado na hora a gosto
-- 3/4 de xícara de chá de molho de tomate
+- ¾ de xícara de chá de molho de tomate
 - 60 gramas de tomates-cereja cortados ao meio (ou a gosto)
 - 12 azeitonas (ou a gosto)
 - Folhas de manjericão frescas a gosto

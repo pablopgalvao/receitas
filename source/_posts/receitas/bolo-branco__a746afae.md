@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 xícara de chá de leite
-- 1/4 de xícara de chá de água
+- ¼ de xícara de chá de água
 - 2 colheres de sopa de óleo de soja
 - 2 xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

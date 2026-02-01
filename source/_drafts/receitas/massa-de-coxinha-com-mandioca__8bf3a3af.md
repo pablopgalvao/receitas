@@ -32,7 +32,7 @@ flags: []
 
 - 1 ovo inteiro
 - 1 pitada de sal
-- 1/2 copo americano de água (120ml)
+- ½ copo americano de água (120ml)
 - 2 colheres de sopa de vinagre
 - Farinha de rosca para empanar
 - Óleo para fritar

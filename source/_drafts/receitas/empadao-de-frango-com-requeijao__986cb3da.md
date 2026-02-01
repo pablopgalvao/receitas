@@ -34,15 +34,15 @@ flags: []
 - 2 dentes de alho
 - 1 cebola média
 - 2 tomates
-- 1/2 xícara de azeitonas verdes (opcional)
-- 1/2 xícara de milho-verde (em conserva ou cozido)
+- ½ xícara de azeitonas verdes (opcional)
+- ½ xícara de milho-verde (em conserva ou cozido)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 colher de chá de páprica doce ou defumada
 - 500 gramas de peito de frango cozido e desfiado
 - 1 sachê de molho de tomate (340 gramas)
 - 3 colheres de sopa de requeijão cremoso
-- 200 gramas de requeijão em bisnaga (1/2 bisnaga)
+- 200 gramas de requeijão em bisnaga (½ bisnaga)
 - 100 gramas de mussarela picada, ralada ou fatiada
 - --
 

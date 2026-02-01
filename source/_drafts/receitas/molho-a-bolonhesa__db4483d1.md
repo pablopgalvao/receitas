@@ -33,7 +33,7 @@ flags: []
 - 500 gramas de carne moída
 - 2 colheres de sopa de óleo
 - 2 xícaras de chá de molho de tomate
-- 1/2 xícara de chá extrato de tomate
+- ½ xícara de chá extrato de tomate
 - 1 xícara de chá de água
 - 1 cebola picada
 - 3 dentes de alho picados

@@ -31,14 +31,14 @@ flags: []
 
 - 1 xícara de chá de óleo
 - 1 xícara de chá de leite integral
-- 2 e 1/2 xícaras de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de açúcar
-- 1/2 xícara de chá de chocolate em pó (ou achocolatado)
+- 2 e ½ xícaras de chá de farinha de trigo
+- 1 e ½ xícara de chá de açúcar
+- ½ xícara de chá de chocolate em pó (ou achocolatado)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 xícara de chá de chocolate em pó (ou achocolatado)
+- ½ xícara de chá de chocolate em pó (ou achocolatado)
 - 1 xícara de chá de açúcar
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de chá de leite integral
+- ½ xícara de chá de leite integral
 - Transfira para uma forma redonda, untada, enfarinhada (que caiba na fritadeira) e leve para a air fryer preaquecida a 160ºC por cerca de 20 minutos;
 
 ---

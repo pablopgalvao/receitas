@@ -32,7 +32,7 @@ flags: []
 - 5 salsichas
 - 500 ml de água para ferver as salsichas
 - 2 pacotes de miojo (sabor de sua preferência)
-- 1/2 colher de sopa de manteiga
+- ½ colher de sopa de manteiga
 - 1 cebola pequena
 - 1 tomate médio
 - 4 colheres de sopa de requeijão cremoso

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite
-- 1 e 1/2 xícara de chá de frango cozido e desfiado
+- 1 e ½ xícara de chá de frango cozido e desfiado
 - 1 colher de chá de açafrão-da-terra (cúrcuma)
 - Pimenta-do-reino a gosto
 - Orégano a gosto

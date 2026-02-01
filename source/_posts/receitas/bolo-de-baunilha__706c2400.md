@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de essência de baunilha
 - 3 colheres de sopa de manteiga
 - 2 xícaras de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de açúcar extra fino
+- 1 e ½ xícara de chá de açúcar extra fino
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 pitadinha de sal
 - --

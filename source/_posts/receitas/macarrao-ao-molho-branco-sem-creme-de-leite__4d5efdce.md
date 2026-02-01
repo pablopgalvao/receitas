@@ -32,7 +32,7 @@ flags: []
 - 3 litros de água para cozinhar o macarrão
 - 1 colher de sopa cheia de sal
 - 2 colheres de sopa de manteiga (30 gramas)
-- 1/2 cebola pequena
+- ½ cebola pequena
 - 1 dente de alho
 - 2 colheres de sopa de farinha de trigo (40 gramas)
 - 500 ml de leite integral

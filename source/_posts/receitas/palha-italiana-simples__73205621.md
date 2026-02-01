@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de leite condensado (395 gramas)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - 150 gramas de chocolate meio amargo
 - 1 colher de sopa de manteiga (20 gramas)
-- 1/2 pacote de bolacha maisena (85 gramas)
-- 1/2 xícara de chá de açúcar de confeiteiro
+- ½ pacote de bolacha maisena (85 gramas)
+- ½ xícara de chá de açúcar de confeiteiro
 - --
 
 ---

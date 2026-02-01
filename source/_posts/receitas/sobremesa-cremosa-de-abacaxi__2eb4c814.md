@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de amido de milho (40 gramas)
-- 500 ml de leite (2 e 1/4 xícara de chá)
+- 500 ml de leite (2 e ¼ xícara de chá)
 - 1 lata de leite condensado (395 gramas)
 - 3 ovos (gemas e claras separados)
 - 2 caixinhas de creme de leite (200 gramas cada)

@@ -31,10 +31,10 @@ flags: []
 - 5 bananas-nanicas bem maduras (400 gramas)
 - 2 ovos médios
 - 3 colheres de sopa de manteiga derretida (35 gramas)
-- 1/4 de xícara de chá de açúcar (50 gramas)
+- ¼ de xícara de chá de açúcar (50 gramas)
 - 1 xícara de chá de aveia em flocos finos (135 gramas)
 - 1 colher de sopa de fermento químico em pó - fermento para bolo (15 gramas)
-- 1/2 colher de chá de canela em pó (6 gramas)
+- ½ colher de chá de canela em pó (6 gramas)
 - --
 
 ---

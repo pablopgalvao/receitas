@@ -35,7 +35,7 @@ flags: []
 - 1 xícara de chá de arroz cru (200 gramas)
 - 2 xícaras de chá de água (480 ml)
 - 2 colheres de chá de sal ou a gosto
-- 1/4 de colher de chá de pimenta-do-reino ou a gosto
+- ¼ de colher de chá de pimenta-do-reino ou a gosto
 - 1 xícara de chá de batata palha (120 gramas)
 - 2 colheres de sopa de cheiro-verde picado
 - 2 colheres de sopa de azeite

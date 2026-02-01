@@ -31,8 +31,8 @@ flags: []
 
 - 300 gramas de chocolate meio amargo
 - 1 caixa de creme de leite (200 gramas)
-- 1 e 1/2 caixa de Bis (190 gramas)
-- Bis branco e preto picados para decorar (cerca de 1/2 caixa) (opcional)
+- 1 e ½ caixa de Bis (190 gramas)
+- Bis branco e preto picados para decorar (cerca de ½ caixa) (opcional)
 - --
 
 ---

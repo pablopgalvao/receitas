@@ -35,7 +35,7 @@ flags: []
 - 1 banana madura
 - 60 ml de leite ou água
 - Whey protein de chocolate a gosto
-- 1/2 colher de chá de fermento químico em pó (fermento para bolo)
+- ½ colher de chá de fermento químico em pó (fermento para bolo)
 - Pedacinhos ou gotas de chocolate meio amargo
 - --
 

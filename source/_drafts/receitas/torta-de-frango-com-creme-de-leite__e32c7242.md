@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos médios
-- 1/2 xícara de chá e 2 colheres de sopa de leite integral (150 ml)
+- ½ xícara de chá e 2 colheres de sopa de leite integral (150 ml)
 - 1 colher de sopa de cebola ralada
 - 1 caixinha de creme de leite (200 gramas)
-- 1/4 de xícara de chá de óleo (60 ml)
+- ¼ de xícara de chá de óleo (60 ml)
 - 1 xícara de chá de farinha de trigo (140 gramas)
-- 1/2 xícara de chá de queijo mussarela ralado (100 gramas)
+- ½ xícara de chá de queijo mussarela ralado (100 gramas)
 - 1 colher de chá de sal
 - 1 colher de sobremesa de fermento químico em pó (fermento para bolo)
 - --

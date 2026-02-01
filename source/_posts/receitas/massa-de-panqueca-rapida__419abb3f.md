@@ -31,7 +31,7 @@ flags: []
 - 2 ovos médios
 - 200 ml de leite integral
 - 1 colher de sopa de óleo (10 ml)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 xícara de farinha de trigo (120 gramas)
 - --
 

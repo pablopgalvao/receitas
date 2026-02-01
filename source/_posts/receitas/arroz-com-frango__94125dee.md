@@ -35,10 +35,10 @@ flags: []
 - 1 colher de chá de lemon pepper
 - 1 colher de chá de curry
 - 1 dente de alho ralado
-- 1/3 de um alho-poró picado
-- 1/2 cebola picada
-- 1 e 1/2 xícara de chá de arroz
-- 1/2 pimentão vermelho picado
+- ⅓ de um alho-poró picado
+- ½ cebola picada
+- 1 e ½ xícara de chá de arroz
+- ½ pimentão vermelho picado
 - 4 xícaras de chá de água quente
 - 1 colher de sopa de salsa desidratada (ou a gosto)
 - 1 colher de óleo e manteiga (para dourar a carne)

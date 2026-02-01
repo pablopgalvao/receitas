@@ -31,7 +31,7 @@ flags: []
 
 - 500 gramas de amendoim torrado e moído
 - 1 caixa de leite condensado (395 gramas)
-- 2 e 1/2 colheres de sopa de chocolate em pó (30 gramas ou a gosto)
+- 2 e ½ colheres de sopa de chocolate em pó (30 gramas ou a gosto)
 - Açúcar cristal a gosto (para a finalização)
 - Amendoim a gosto (para a decoração)
 - Junte a farinha de amendoim e o chocolate em pó em uma tigela grande. Misture bem e ajuste a cor, acrescentando mais chocolate se desejar deixá-la mais escura;

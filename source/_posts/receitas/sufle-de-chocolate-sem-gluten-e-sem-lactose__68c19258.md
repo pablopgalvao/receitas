@@ -34,7 +34,7 @@ flags: []
 - Essência de baunilha a gosto
 - 200 g chocolate 50 a 70%
 - 2 colheres de sopa açúcar demerara
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 4 colheres de sopa farinha de castanha
 - --
 

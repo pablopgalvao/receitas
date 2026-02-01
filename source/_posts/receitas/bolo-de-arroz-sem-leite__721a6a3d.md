@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de arroz cozido (375 gramas)
+- 2 e ½ xícaras de chá de arroz cozido (375 gramas)
 - 3 ovos médios
 - 1 garrafa de leite de coco (200 ml)
-- 1/4 de xícara de chá de óleo (60 ml)
+- ¼ de xícara de chá de óleo (60 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 pacote de coco seco ralado (50 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (15 gramas)

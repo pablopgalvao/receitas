@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de milho flocada
-- 1/2 colher de chá de sal
-- 3/4 de xícara de chá de água
+- 1 e ½ xícara de chá de farinha de milho flocada
+- ½ colher de chá de sal
+- ¾ de xícara de chá de água
 - 2 colheres de sopa de manteiga
 - --
 
@@ -45,5 +45,5 @@ flags: []
 5. Despeje a farinha de milho já hidratada. Use uma colher para nivelar o cuscuz, porém não aperte. A farinha compactada interfere na textura do cuscuz. Tampe a panela e deixe cozinhar em fogo alto;
 6. Quando começar a sair um vapor da lateral entre a tampa e a panela, diminua o fogo e cozinhe por aproximadamente 10 minutinhos (o cuscuz incha na panela e fica macio);
 7. Desligue o fogo. Para desenformar, basta puxar a haste do cestinho de vapor. Cuidado para não queimar a mão;
-8. Em uma tigela, misture a manteiga e 1/4 de xícara de chá da água quente da cuscuzeira. Misture com a colher até derreter parte da manteiga. Ao entrar em contato com o cuscuz quentinho, o restante da manteiga acabará de derreter;
+8. Em uma tigela, misture a manteiga e ¼ de xícara de chá da água quente da cuscuzeira. Misture com a colher até derreter parte da manteiga. Ao entrar em contato com o cuscuz quentinho, o restante da manteiga acabará de derreter;
 9. Despeje a água com manteiga no cuscuz. Se quiser, em um recipiente, desfaça o cuscuz com um gafo, ou sirva no cestinho mesmo, cortando os pedaços;

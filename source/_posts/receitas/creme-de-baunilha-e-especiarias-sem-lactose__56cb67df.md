@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - 5 gemas
 - 1 colher de sopa de pasta ou extrato de baunilha
 - 4 colheres de sopa de amido de milho

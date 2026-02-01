@@ -33,7 +33,7 @@ flags: []
 - 2 latas de milho verde
 - 2 xícaras de chá de leite
 - 2 colheres de sopa de manteiga
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 dente de alho picado
 - Sal e pimenta a gosto
 - Páprica doce ou picante a gosto

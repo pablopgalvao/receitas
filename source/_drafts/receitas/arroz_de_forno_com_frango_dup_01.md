@@ -33,8 +33,8 @@ flags: []
 - 300 gramas de peito de frango cozido desfiado
 - Sal e pimenta-do-reino a gosto
 - Uma pitada de orégano
-- 1/2 xícara de chá de ervilha fresca
-- 1/2 xícara de chá de azeitonas picadas
+- ½ xícara de chá de ervilha fresca
+- ½ xícara de chá de azeitonas picadas
 - 3 xícaras de chá de arroz cozido
 - 1 xícara de chá de molho de tomate
 - Cheiro-verde picado a gosto

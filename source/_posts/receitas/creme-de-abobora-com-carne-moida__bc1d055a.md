@@ -30,15 +30,15 @@ flags: []
 
 - 500 gramas de patinho moído
 - 5 gramas de sal
-- 1/4 de uma cebola média (50 gramas)
+- ¼ de uma cebola média (50 gramas)
 - 1 pitada de pimenta-do-reino
 - 2 colheres de chá de ervas finas secas
-- 1/4 de colher de chá de páprica
+- ¼ de colher de chá de páprica
 - 2 colheres de sopa de azeite de oliva
 - 1 colher de sopa de manteiga sem sal
 - 3 dentes de alho
-- 1/2 colher de sopa de extrato de tomate
-- 1/4 de xícara de chá de água (60 ml)
+- ½ colher de sopa de extrato de tomate
+- ¼ de xícara de chá de água (60 ml)
 - 3 colheres de sopa de salsinha (ou a gosto)
 - --
 
@@ -54,6 +54,6 @@ flags: []
 6. Quando ela estiver douradinha, acrescente o alho picado e refogue por mais 30 segundos. Adicione a carne moída e espalhe-a por toda a superfície;
 7. Quando a carne moída estiver bem refogada e começar a formar a crostinha no fundo da frigideira, adicione o extrato de tomate e misture bem, mexendo até essa casquinha se soltar;
 8. Despeje a água até cobrir metade da carne moída e cozinhe por mais 10 minutos. Desligue o fogo e finalize com a salsinha. Reserve;
-9. No liquidificador, coloque a abóbora cozida com gengibre e sal. Esquente 1 e 1/2 xícara de água e adicione à mistura também. Bata até ficar um creme homogêneo;
-10. Reserve 1/4 da carne para finalização. Despeje o creme na panela com o restante da carne moída e mexa até chegar à consistência desejada;
+9. No liquidificador, coloque a abóbora cozida com gengibre e sal. Esquente 1 e ½ xícara de água e adicione à mistura também. Bata até ficar um creme homogêneo;
+10. Reserve ¼ da carne para finalização. Despeje o creme na panela com o restante da carne moída e mexa até chegar à consistência desejada;
 11. Coloque a carne moída que você reservou por cima do prato, antes de servir. Deguste esse creme de abóbora com carne moída para esquentar a sua noite fria. Bom apetite!

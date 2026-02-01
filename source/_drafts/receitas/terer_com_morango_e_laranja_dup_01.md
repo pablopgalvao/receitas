@@ -38,6 +38,6 @@ flags: []
 2. Em uma jarra com 1 litro de água gelada, coloque os sachês de chá e deixe em infusão por 10 a 15 minutos;
 3. Retire os sachês e mantenha a infusão na geladeira;
 4. Escolha o recipiente (copo, cuia ou guampa) e posicione a bomba, alcançando o fundo;
-5. Preencha cerca de 2/3 do recipiente com a erva-mate;
+5. Preencha cerca de ⅔ do recipiente com a erva-mate;
 6. Despeje o chá gelado sobre a erva lentamente, até cobrir;
 7. Aproveite e reabasteça com mais chá gelado conforme for consumindo!

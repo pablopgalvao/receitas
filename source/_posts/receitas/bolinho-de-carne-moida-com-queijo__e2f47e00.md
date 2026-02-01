@@ -33,7 +33,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída
-- 1/2 cebola picada
+- ½ cebola picada
 - Salsinha e cebolinha a gosto
 - 1 pacote de creme de cebola (68 gramas)
 - Sal e pimenta a gosto

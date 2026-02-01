@@ -42,7 +42,7 @@ flags: []
 - 1 colher de chá de tempero baiano
 - 1 colher de chá de tempero vinagrete seco
 - 1 batata média
-- 1 e 1/2 colher de sopa de sal
+- 1 e ½ colher de sopa de sal
 - Vinagre para lavar o mocotó
 - Coentro e cebolinha a gosto
 - Água fervente quanto baste

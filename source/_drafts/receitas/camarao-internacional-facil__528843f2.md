@@ -35,8 +35,8 @@ flags: []
 - 3 caixas de creme de leite
 - 3 colheres de sopa (cheias) de manteiga
 - 01 colher de sopa de óleo ou azeite
-- 1/2 cebola grande
-- 1/2 lata de ervilha (85 gramas)
+- ½ cebola grande
+- ½ lata de ervilha (85 gramas)
 - 150 gramas de presunto em cubos
 - 250 gramas de mussarela ralada
 - 150 gramas de queijo mussarela em fatias

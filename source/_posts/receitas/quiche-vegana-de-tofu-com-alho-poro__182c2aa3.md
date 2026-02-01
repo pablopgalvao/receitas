@@ -32,13 +32,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola em cubinhos
+- ½ cebola em cubinhos
 - 1 talo de alho-poró fatiado
 - Azeite a gosto
 - 300 gramas de tofu natural
 - 180 gramas de requeijão vegano
 - Sal a gosto
-- 1/4 de xícara de chá de vinagre
+- ¼ de xícara de chá de vinagre
 - Queijo ralado a gosto
 - Fatias de alho-poró para decorar
 - --

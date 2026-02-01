@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 maçãs (cerca de 600 gramas)
-- 1/2 colher de chá canela em pó ou a gosto
-- 1 e 3/4 de xícara de chá de farinha de trigo (210 gramas)
-- 1 e 1/4 de xícara de chá de açúcar (225 gramas)
+- ½ colher de chá canela em pó ou a gosto
+- 1 e ¾ de xícara de chá de farinha de trigo (210 gramas)
+- 1 e ¼ de xícara de chá de açúcar (225 gramas)
 - 1 ovo médio
 - 3 colheres de sopa de manteiga gelada (em cubos pequenos) (60 gramas)
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
@@ -44,7 +44,7 @@ flags: []
 
 1. Reúna os ingredientes da torta de maçã na air fryer. Unte, com manteiga, uma assadeira redonda com 20 cm diâmetro, com fundo removível - você deve verificar qual assadeira cabe na sua air fryer;
 2. Lave as maçãs e, com uma faca, corte elas ao meio, na vertical, e ao meio novamente, dividindo em 4 partes. Retire o miolo com as sementes e os cabinhos. Repita o processo com todas elas e fatie cada uma das partes em meia-lua (não é necessário tirar a casca);
-3. Coloque as maçãs fatiadas em uma tigela e junte a canela e 1/4 de xícara de chá de açúcar. Com o auxílio de 2 colheres, misture os ingredientes até incorporar bem em todos os pedaços. Reserve;
+3. Coloque as maçãs fatiadas em uma tigela e junte a canela e ¼ de xícara de chá de açúcar. Com o auxílio de 2 colheres, misture os ingredientes até incorporar bem em todos os pedaços. Reserve;
 4. Em outra tigela, coloque a farinha de trigo, o açúcar, uma pitada de canela e a manteiga em cubinhos. Com as mãos, misture até obter uma farofa úmida;
 5. Acrescente o ovo e misture até incorporar - a massa deve ficar úmida e soltinha (não aperte, se não ela ficará compactada). Adicione o fermento e, ainda com as mãos, misture apenas para incorporar;
 6. Para a montagem, distribua metade da farofa úmida, espalhando bem pelo fundo da forma;

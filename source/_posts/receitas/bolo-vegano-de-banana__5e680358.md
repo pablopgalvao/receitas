@@ -31,9 +31,9 @@ flags: []
 - 3 bananas nanicas
 - 1 colher de café de canela em pó
 - 1 xícara de chá de açúcar demerara
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 2/3 xícara de chá de leite de soja
-- 1/2 xícara de chá de óleo vegetal
+- 1 e ½ xícara de chá de farinha de trigo
+- ⅔ xícara de chá de leite de soja
+- ½ xícara de chá de óleo vegetal
 - 1 colher de sopa de fermento químico em pó
 - --
 

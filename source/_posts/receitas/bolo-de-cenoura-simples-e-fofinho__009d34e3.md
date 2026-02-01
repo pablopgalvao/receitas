@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de cenoura cortada em cubos (210 gramas)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- 1 e ½ xícara de chá de cenoura cortada em cubos (210 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
+- ½ xícara de chá de óleo (120 ml)
 - 3 ovos médios
-- 1 e 1/2 xícara de chá de farinha de trigo (240 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (240 gramas)
 - 1 colher de sopa de fermento em pó
 - --
 

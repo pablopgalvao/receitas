@@ -34,7 +34,7 @@ flags: []
 - 4 gemas de ovo
 - 450 ml de leite integral
 - 1 xícara de chá de açúcar refinado
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - Confira se você pegou todos os ingredientes necessários para o preparo. Comece separando a gema de 2 ovos (guarda a clara para fazer outras receitas). Quebre os ovos em um recipiente separado para verificar se não estão estragados;
 - Assim que o açúcar derreter, adicione a água e deixe cozinhar por alguns minutos, até a calda começar a engrossar e ganhar uma cor caramelo;
 

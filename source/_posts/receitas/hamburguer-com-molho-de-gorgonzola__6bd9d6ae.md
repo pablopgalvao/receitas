@@ -33,11 +33,11 @@ flags: []
 - 1 cebola
 - 1 colher de sopa de vinagre
 - 2 colheres de sopa de açúcar mascavo
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de sopa de azeite (20 ml)
 - 100 gramas de queijo gorgonzola
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 80 gramas de bacon
 - --
 

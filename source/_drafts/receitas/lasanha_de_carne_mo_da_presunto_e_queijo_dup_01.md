@@ -40,7 +40,7 @@ flags: []
 - 400 gramas de molho de tomate
 - 200 ml de água quente
 - Sal a gosto
-- 1/2 pacote de massa pronta para lasanha (250 gramas)
+- ½ pacote de massa pronta para lasanha (250 gramas)
 - 500 gramas de mussarela
 - 300 gramas de presunto
 - Queijo mussarela ralado a gosto

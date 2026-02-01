@@ -30,7 +30,7 @@ flags: []
 
 - 4 gemas
 - 300 ml de creme de leite fresco
-- 1/2 xícara de açúcar refinado
+- ½ xícara de açúcar refinado
 - 1 colher de sopa de açúcar refinado (para finalização)
 - 1 colher de chá de extrato ou essência de baunilha
 - --

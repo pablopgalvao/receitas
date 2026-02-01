@@ -32,14 +32,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
 - 250 gramas de carne moída
 - 1 colher de extrato de tomate
 - Cheiro-verde a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de chá de páprica
+- ½ colher de chá de páprica
 - --
 
 ---

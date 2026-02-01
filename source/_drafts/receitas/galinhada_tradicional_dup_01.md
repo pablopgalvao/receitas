@@ -34,11 +34,11 @@ flags: []
 - 1 colher de chá de colorau
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de páprica picante
-- 1/3 de colher de chá de açafrão
-- 1/2 colher de chá de pimenta-do-reino
+- ⅓ de colher de chá de açafrão
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de banha de porco
 - 2 xícaras de chá de arroz
-- 4 e 1/2 xícaras de chá de água quente (1,8 litro)
+- 4 e ½ xícaras de chá de água quente (1,8 litro)
 - Cheiro-verde a gosto
 - Coloque o frango em uma tigela grande, tempere com 2 colheres de chá de sal, colorau, páprica defumada, páprica picante e açafrão. Com as mãos limpas, mexa tudo para que os temperos se distribuam;
 - Acrescente a água quente e mexa bem. Acrescente mais 1 colher de chá de sal e a pimenta-do-reino. Tampe e deixe cozinhar por cerca de 15 a 20 minutos;

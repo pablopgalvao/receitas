@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de leite vegetal de sua preferência
-- 1 e 1/2 colher de sopa de amido de milho
-- 1/2 xícara de chá de açúcar
+- 1 e ½ colher de sopa de amido de milho
+- ½ xícara de chá de açúcar
 - 1 colher chá de manteiga vegetal (ou óleo de coco)
 - 50 gramas de chocolate amargo
-- 1/3 de xícara de nozes torradas e trituradas
+- ⅓ de xícara de nozes torradas e trituradas
 - --
 
 ---

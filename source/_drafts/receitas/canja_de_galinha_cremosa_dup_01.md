@@ -32,7 +32,7 @@ flags: []
 - Sal a gosto
 - Páprica a gosto
 - Açafrão a gosto
-- 1/2 xícara de chá de arroz cru
+- ½ xícara de chá de arroz cru
 - Cebolinha a gosto
 - Azeite a gosto
 - 800 ml de água para cozinhar

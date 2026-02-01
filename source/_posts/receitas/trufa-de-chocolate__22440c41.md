@@ -30,8 +30,8 @@ flags: []
 
 - 2 tabletes de chocolate (60 gramas cada)
 - 1 colher de sopa de manteiga
-- 1/2 caixinha de creme de leite (100 gramas)
-- 1/2 xícara de chá de chocolate em pó (50 gramas)
+- ½ caixinha de creme de leite (100 gramas)
+- ½ xícara de chá de chocolate em pó (50 gramas)
 - 1 dose de rum
 - --
 

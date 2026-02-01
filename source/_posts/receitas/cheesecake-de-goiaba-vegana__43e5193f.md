@@ -47,7 +47,7 @@ flags: []
 - 2 colheres de chá de extrato de baunilha
 - 5 colheres de sopa de suco de limão
 - 150 gramas de goiabada cascão picada
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

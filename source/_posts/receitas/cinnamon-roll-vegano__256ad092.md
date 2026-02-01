@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 80 gramas de açúcar
-- 1 e 1/2 colher de sopa de canela
+- 1 e ½ colher de sopa de canela
 - 1 colher de sopa de manteiga vegetal derretida
 - --
 

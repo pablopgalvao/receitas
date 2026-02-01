@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 claras
-- 1 e 2/3 de xícara de chá de açúcar (320 gramas)
-- 1/2 xícara de chá de água (120ml)
+- 1 e ⅔ de xícara de chá de açúcar (320 gramas)
+- ½ xícara de chá de água (120ml)
 - --
 
 ---

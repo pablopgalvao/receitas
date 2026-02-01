@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 ml de leite de coco
-- 1/2 xícara de chá de leite em pó
+- ½ xícara de chá de leite em pó
 - 100 gramas de coco ralado
 - 2 caixinhas de creme de leite
 - 1 lata de leite condensado

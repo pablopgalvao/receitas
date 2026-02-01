@@ -48,7 +48,7 @@ flags: []
 - Numa tigela grande, coloque a farinha com o sal e o fermento. Junte os cubinhos de manteiga e, com as pontas dos dedos, misture até formar uma farofa grossa, sem dissolver completamente a manteiga - quanto mais pedaços de manteiga espalhados pela massa, mais crocante ela fica. Junte o creme de leite e amasse apenas para formar uma bolota.
 - 1 xícara (chá) de queijo gruyère ralado
 - 1 clara de ovo
-- Forme uma bola com 2/3 da massa e transfira para uma superfície polvilhada com farinha. Com um rolo, abra a massa num formato arredondado até ficar grande o suficiente para cobrir o fundo e as laterais de uma fôrma de torta de 24 cm de diâmetro.
+- Forme uma bola com ⅔ da massa e transfira para uma superfície polvilhada com farinha. Com um rolo, abra a massa num formato arredondado até ficar grande o suficiente para cobrir o fundo e as laterais de uma fôrma de torta de 24 cm de diâmetro.
 - Com um garfo, faça furos no fundo da massa. Cubra a massa com papel-manteiga e preencha o fundo da fôrma com feijões crus, apenas para fazer peso. Leve ao forno preaquecido para assar por 20 minutos.
 - Retire a massa de torta do forno e, com cuidado, retire o papel-manteiga com os feijões.
 - Com as sobras de massa, faça bolinhas de cerca de 1,5 cm para decorar a torta. Molhe a base de cada bolinha na clara de ovo reservada e distribua por toda a beirada da torta. Se desejar uma aparência mais brilhante, pincele a massa com uma gema de ovo batida com 1 colher (chá) de água.

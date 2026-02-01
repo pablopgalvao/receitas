@@ -39,7 +39,7 @@ flags: []
 - 1 ovo
 - 1 clara
 - 1 colher de sopa de aveia em flocos finos
-- 1/2 sachê de soup lift (mistura de proteína vegetal de tomate seco, salsinha desidratada e batata-doce em pó)
+- ½ sachê de soup lift (mistura de proteína vegetal de tomate seco, salsinha desidratada e batata-doce em pó)
 - Um fio de azeite
 - --
 

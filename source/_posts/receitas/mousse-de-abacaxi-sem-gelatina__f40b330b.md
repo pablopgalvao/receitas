@@ -30,7 +30,7 @@ flags: []
 
 - 1 caixa de leite condensado (395 gramas)
 - 2 caixas de creme de leite (400 gramas)
-- 1 e 1/2 pacote de suco em pó sabor abacaxi
+- 1 e ½ pacote de suco em pó sabor abacaxi
 - 200 ml de chantilly
 - --
 

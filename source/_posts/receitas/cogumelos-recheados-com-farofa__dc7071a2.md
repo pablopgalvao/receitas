@@ -32,8 +32,8 @@ flags: []
 - 3 ou 4 cogumelos Portobello
 - 1 dente de alho ralado
 - 2 colheres de sopa de salsinha picada
-- 1/3 xícara de farinha panko ou de rosca
-- 1/4 xícaras de queijo ralado
+- ⅓ xícara de farinha panko ou de rosca
+- ¼ xícaras de queijo ralado
 - Azeite, sal e pimenta a gosto
 - --
 

@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/2 xícara de chá de farinha de fubá
-- 1/2 xícara (rasa) de chá de farinha de arroz ou aveia
-- 1/2 xícara de chá de açúcar demerara
+- ½ xícara de chá de farinha de fubá
+- ½ xícara (rasa) de chá de farinha de arroz ou aveia
+- ½ xícara de chá de açúcar demerara
 - 4 colheres de sopa de óleo de coco
 - 170 ml de creme de leite ou 1 pote (170 gramas) de iogurte natural
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

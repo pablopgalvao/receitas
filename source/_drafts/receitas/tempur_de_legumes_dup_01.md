@@ -32,7 +32,7 @@ flags: []
 - 1 cenoura (110 gramas)
 - 1 cebola média (90 gramas)
 - 1 xícara de chá de farinha de trigo (140 gramas)
-- 1/3 de xícara de amido de milho (40 gramas)
+- ⅓ de xícara de amido de milho (40 gramas)
 - 2 colheres de chá de sal
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
 - 1 xícara de chá de água gelada (240 ml)

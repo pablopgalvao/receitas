@@ -31,7 +31,7 @@ flags: []
 
 - 1 lata de leite condensado (395 gramas)
 - 100 gramas de coco seco ralado
-- 1/2 colher de sopa de manteiga (15 gramas)
+- ½ colher de sopa de manteiga (15 gramas)
 - Manteiga para untar (opcional)
 - Açúcar cristal (para finalizar)
 - Em uma panela, coloque o leite condensado, o coco seco ralado e a manteiga. Misture bem antes de ir ao fogo;

@@ -35,7 +35,7 @@ flags: []
 - 3 xícaras de chá de espumante (660 ml)
 - 1 xícara de chá de uva passas pretas (130 gramas)
 - 1 xícara de chá de damascos (110 gramas)
-- 1/4 de xícara de chá de salsinha picada (15 gramas)
+- ¼ de xícara de chá de salsinha picada (15 gramas)
 - 1 xícara de chá de amêndoas em lâminas tostadas (80 gramas)
 - Em uma panela, adicione o azeite, a cebola picada, o arroz branco e o sal. Misture e refogue por 5 minutos para refogar levemente;
 - Agora, coloque o espumante até que cubra o arroz e mexa levemente com uma colher;

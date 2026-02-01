@@ -32,11 +32,11 @@ flags: []
 - 250 gramas de carne moída
 - 1 colher de sopa de azeite (25 ml)
 - 1 dente de alho grande
-- 1/2 cebola pequena (64 gramas)
+- ½ cebola pequena (64 gramas)
 - 1 colher de chá de sal
-- 1/8 de colher de chá de pimenta-do-reino
+- ⅛ de colher de chá de pimenta-do-reino
 - 35 gramas de molho de tomate
-- 1/2 lata de milho-verde (80 gramas)
+- ½ lata de milho-verde (80 gramas)
 - Azeitonas verdes picadas (cerca de 30 gramas ou a gosto)
 - 2 colheres de sopa de cheiro-verde
 - --

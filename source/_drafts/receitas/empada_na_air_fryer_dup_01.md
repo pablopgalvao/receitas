@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de chá de páprica doce ou defumada
+- ½ colher de chá de páprica doce ou defumada
 - 1 xícara de chá de frango cozido e desfiado
 - 2 colheres de sopa de requeijão cremoso
 - Orégano a gosto

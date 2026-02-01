@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite
-- 1/2 sachê de molho de tomate (150 gramas)
+- ½ sachê de molho de tomate (150 gramas)
 - 1 caixinha de creme de leite (200 gramas)
 - Cheiro-verde a gosto
 - Reúna os ingredientes! Descasque e corte a cebola e o alho em cubinhos pequenos. Pique o cheiro-verde fininho na quantidade que desejar. Escorra o óleo da lata de atum e despedace com um garfo;

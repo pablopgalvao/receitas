@@ -31,8 +31,8 @@ flags: []
 - 500 gramas de farinha de trigo
 - 5 gramas de fermento biológico seco
 - 3 colheres de sopa de açúcar
-- 1/2 colher de sopa de sal
-- 1/4 de xícara de chá de óleo
+- ½ colher de sopa de sal
+- ¼ de xícara de chá de óleo
 - 240 ml de leite
 - 1 ovo
 - 1 ovo para pincelar

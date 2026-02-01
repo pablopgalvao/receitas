@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de trigo (140 gramas)
-- 1/3 de xícara de chá de açúcar (60 gramas)
+- ⅓ de xícara de chá de açúcar (60 gramas)
 - 4 colheres de sopa de manteiga (80 gramas)
-- 1/4 de xícara de chá de chocolate em pó (25 gramas)
+- ¼ de xícara de chá de chocolate em pó (25 gramas)
 - 1 colher de sopa de café solúvel (10 gramas)
 - 1 colher de sopa de água fervente para dissolver o café (15 ml)
 - --

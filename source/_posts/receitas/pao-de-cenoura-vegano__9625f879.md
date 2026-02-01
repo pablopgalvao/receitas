@@ -34,8 +34,8 @@ flags: []
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
 - 3 colheres de sopa de linhaça moída
 - 9 colheres de sopa de água
-- 1/2 xícara de chá de azeite
-- 1/2 xícara de chá de açúcar de coco
+- ½ xícara de chá de azeite
+- ½ xícara de chá de açúcar de coco
 - --
 
 ---

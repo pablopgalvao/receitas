@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de feijão preto cozido (com o caldo do cozimento)
-- 2 e 1/2 xícaras de chá de água
-- 3/4 de xícara de chá de macarrão tipo Ave Maria
+- 2 e ½ xícaras de chá de água
+- ¾ de xícara de chá de macarrão tipo Ave Maria
 - 2 colheres de sopa de azeite de oliva
 - Sal a gosto
 - Pimenta-do-reino a gosto

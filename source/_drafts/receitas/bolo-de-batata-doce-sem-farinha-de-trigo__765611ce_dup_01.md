@@ -32,8 +32,8 @@ flags: []
 
 - 280 gramas de batata-doce crua
 - 2 ovos
-- 1/2 xícara de açúcar demerara
-- 1/2 xícara de chá de óleo
+- ½ xícara de açúcar demerara
+- ½ xícara de chá de óleo
 - 200 ml de leite de coco
 - 50 gramas de queijo parmesão
 - 2 xícaras de chá de farinha de arroz

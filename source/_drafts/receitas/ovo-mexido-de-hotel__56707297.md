@@ -32,7 +32,7 @@ flags: []
 - 2 ovos
 - 2 colheres de sopa de leite integral (30 ml)
 - 1 colher de sopa de requeijão cremoso (25 gramas)
-- 1/2 colher de manteiga (10 gramas)
+- ½ colher de manteiga (10 gramas)
 - Sal a gosto
 - --
 

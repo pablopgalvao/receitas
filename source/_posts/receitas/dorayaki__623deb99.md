@@ -32,7 +32,7 @@ flags: []
 - 2 ovos médios
 - 50 gramas de açúcar
 - 15 gramas de mel
-- 1/2 colher de chá de fermento químico em pó (fermento para bolo)
+- ½ colher de chá de fermento químico em pó (fermento para bolo)
 - 80 gramas de farinha de trigo
 - Óleo para fritar
 - --

@@ -31,8 +31,8 @@ flags: []
 - 500 gramas de toucinho
 - 500 gramas de feijão roxinho (ou vermelho) demolhado
 - 2 folhas de louro
-- 1/2 gomo de calabresa (100 gramas)
-- 1/2 gomo de linguiça portuguesa (100 gramas)
+- ½ gomo de calabresa (100 gramas)
+- ½ gomo de linguiça portuguesa (100 gramas)
 - 1 gomo de linguiça paio
 - 250 gramas de linguiça de pernil
 - 100 gramas de bacon magro

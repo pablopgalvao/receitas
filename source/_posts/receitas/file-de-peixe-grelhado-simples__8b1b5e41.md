@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de filé de tilápia
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de sopa de azeite
 - 1 colher de chá de alho granulado
 - 2 colheres de chá de tomilho

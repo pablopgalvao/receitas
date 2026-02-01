@@ -35,7 +35,7 @@ flags: []
 - 2 colheres de chá cúrcuma
 - Óleo para fritar por imersão (cerca de 1 litro)
 - 20 ovos
-- 1/4 colher de chá de pimenta-do-reino
+- ¼ colher de chá de pimenta-do-reino
 - --
 
 ---

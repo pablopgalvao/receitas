@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1/2 xícara de chá de óleo (200 ml)
+- ½ xícara de chá de óleo (200 ml)
 - 2 xícaras de chá de leite integral (400 ml)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 50 gramas de queijo parmesão ralado (5 colheres de sopa)
-- 2 e 1/2 xícaras de chá de farinha de trigo tradicional e sem fermento (290 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo tradicional e sem fermento (290 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

@@ -31,10 +31,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola pequena (80 gramas)
-- 1/3 de cenoura pequena (60 gramas)
+- ½ cebola pequena (80 gramas)
+- ⅓ de cenoura pequena (60 gramas)
 - 1 lata de atum em pedaços ou sólido em óleo (170 gramas)
-- 1/2 xícara de chá de maionese (140 gramas)
+- ½ xícara de chá de maionese (140 gramas)
 - 20 gramas de cebolinha (ou a gosto)
 - 1 colher de café de páprica defumada
 - Raspas de 1 limão

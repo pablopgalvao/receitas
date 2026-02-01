@@ -30,7 +30,7 @@ flags: []
 
 - 1 lata de creme de leite sem soro (300 gramas)
 - 1 lata de leite condensado (395 gramas)
-- 1/2 xícara de chá de suco de limão (120 ml)
+- ½ xícara de chá de suco de limão (120 ml)
 - --
 
 ---

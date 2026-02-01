@@ -33,14 +33,14 @@ flags: []
 - 500 gramas de camarão seco dessalgado (separe as cabeças para o caldo)
 - 1 cebola grande
 - 5 pimentas-de-cheiro
-- 1/2 maço de coentro
-- 1/2 maço de cebolinha
+- ½ maço de coentro
+- ½ maço de cebolinha
 - 3 colheres de sopa de azeite de dendê
 - 3 colheres de sopa de óleo
 - Sal a gosto
 - 1 pitada de colorau
 - 200 ml de leite de coco
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de trigo
 - 600 ml de água para bater a farinha
 - 1 maço de jambu
 - Água para cozinhar o jambu

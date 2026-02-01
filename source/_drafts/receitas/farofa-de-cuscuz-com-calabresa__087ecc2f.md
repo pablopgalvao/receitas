@@ -38,7 +38,7 @@ flags: []
 - 2 bananas-da-terra
 - Cheiro-verde a gosto
 - 300 gramas de queijo coalho
-- 1/2 cebola roxa
+- ½ cebola roxa
 - 2 colheres de sopa de manteiga (40 gramas)
 - --
 

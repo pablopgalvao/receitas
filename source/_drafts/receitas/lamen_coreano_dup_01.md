@@ -32,7 +32,7 @@ flags: []
 - Panceta de porco (400 gramas)
 - 1 colher de sopa de óleo
 - 30 ml de saquê mirim
-- 1/2 xícara de chá de shoyu (120ml)
+- ½ xícara de chá de shoyu (120ml)
 - 200 gramas de macarrão para rámen
 - 2 ovos cozidos (por 7 minutos)
 - 1 xícara de chá de shoyu (240ml)

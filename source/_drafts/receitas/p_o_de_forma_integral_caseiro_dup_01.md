@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícaras de chá de farinha de trigo integral (600 gramas)
-- 1 e 1/2 colher de sopa de fermento biológico seco (15 gramas)
+- 1 e ½ colher de sopa de fermento biológico seco (15 gramas)
 - 2 colheres de sopa de açúcar mascavo (30 gramas)
-- 1/2 xícara de óleo (120 ml)
-- 1 e 1/2 xícara de chá de leite morno (360 ml)
+- ½ xícara de óleo (120 ml)
+- 1 e ½ xícara de chá de leite morno (360 ml)
 - 1 colher de chá de sal
 - 1 xícara de chá de aveia em flocos finos (110 gramas0
 - Em uma tigela grande, coloque a farinha de trigo integral, o fermento biológico seco e o açúcar mascavo. Misture bem com ajuda de uma colher;

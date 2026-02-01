@@ -32,7 +32,7 @@ flags: []
 
 - 8 bistecas de porco
 - 4 dentes de alho amassados
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Sal e pimenta-do-reino a gosto
 - 1 colher de sobremesa de colorau
 - 1 xícara de chá de água quente

@@ -35,7 +35,7 @@ flags: []
 - 3 ovos
 - 3 colheres de sopa de manteiga (ou margarina) em temperatura ambiente
 - 2 xícaras de chá de açúcar (400 gramas)
-- 2 e 1/2 xícaras de chá de farinha de trigo (350 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (350 gramas)
 - 1 xícara de chá de leite (240 ml)
 - 1 pitada de sal
 - 1 colher de chá de fermento químico em pó (fermento para bolo)

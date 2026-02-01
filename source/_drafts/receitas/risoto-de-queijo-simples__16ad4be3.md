@@ -31,11 +31,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz arbóreo
+- 1 e ½ xícara de chá de arroz arbóreo
 - 3 xícaras de chá de água fervente
 - 1 caldo seco da sua preferência (tablete ou pó)
 - 1 alho-poró grande
-- 1/2 cebola média
+- ½ cebola média
 - 4 fatias de queijo mussarela
 - Alho a gosto
 - Azeite a gosto

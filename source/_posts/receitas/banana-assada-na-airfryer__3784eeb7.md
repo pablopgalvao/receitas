@@ -30,7 +30,7 @@ flags: []
 
 - 3 bananas (as bananas não podem estar nem verdes e nem maduras demais, devem estar no meio-termo)
 - 1 colher de café de canela
-- 1/2 xícara de chá açúcar cristal
+- ½ xícara de chá açúcar cristal
 - --
 
 ---

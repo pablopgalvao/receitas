@@ -28,17 +28,17 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/3 de xícara de chá de grão-de-bico
-- 1/4 de cebola
+- ⅔ de xícara de chá de grão-de-bico
+- ¼ de cebola
 - 1 dente de alho
 - 4 ramos de salsinha
 - 4 ramos de coentro
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de cominho
-- 1/2 colher de chá de pimenta síria
-- 1/2 colher de chá de semente de coentro
+- ½ colher de chá de sal
+- ½ colher de chá de cominho
+- ½ colher de chá de pimenta síria
+- ½ colher de chá de semente de coentro
 - 1 pitada de canela em pó
-- 1/4 de colher de chá de bicarbonato
+- ¼ de colher de chá de bicarbonato
 - 2 colheres de sopa de farinha de trigo
 - 1 colher de sopa de azeite
 - --

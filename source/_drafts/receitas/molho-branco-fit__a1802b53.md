@@ -31,11 +31,11 @@ flags: []
 - 1 xícara de chá de aveia em flocos grossos (90 gramas)
 - 2 xícaras de chá de água quente (480 ml)
 - 1 dente de alho grande
-- 1/2 cebola média
+- ½ cebola média
 - 1 colher de sopa de azeite
 - 1 colher de café de sal (ou a gosto)
-- 1/2 colher de café de noz-moscada (ou a gosto)
-- 1/2 colher de café de pimenta branca (ou a gosto)
+- ½ colher de café de noz-moscada (ou a gosto)
+- ½ colher de café de pimenta branca (ou a gosto)
 - --
 
 ---

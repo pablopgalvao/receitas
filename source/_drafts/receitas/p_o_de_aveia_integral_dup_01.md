@@ -33,10 +33,10 @@ flags: []
 - 1 xícara de chá de polvilho doce (ou araruta)
 - 1 colher de sopa de açúcar mascavo (ou outro açúcar, exceto adoçante)
 - 1 colher de sopa de fermento biológico seco instantâneo
-- 1/4 de colher de chá de goma xantana
+- ¼ de colher de chá de goma xantana
 - 1 colher de chá de sal
 - 1 xícara de chá de água morna
-- 1/3 de xícara de chá de mix de sementes e castanhas (girassol, chia, linhaça, castanha-do-pará, etc.)
+- ⅓ de xícara de chá de mix de sementes e castanhas (girassol, chia, linhaça, castanha-do-pará, etc.)
 - Organize todos os ingredientes em sua bancada. Higienize as mãos, quebre o ovo separadamente e deixe a água morna pronta;
 - Em uma tigela grande, misture a aveia em flocos, o polvilho doce, o açúcar mascavo, o fermento biológico e a goma xantana. Mexa bem até homogeneizar;
 - Faça uma cavidade no centro da mistura seca e adicione o ovo, o sal e metade da água morna. Misture com colher ou espátula, incorporando a farinha aos líquidos;

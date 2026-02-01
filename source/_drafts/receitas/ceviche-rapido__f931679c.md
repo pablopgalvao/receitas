@@ -33,7 +33,7 @@ flags: []
 - 50 ml de suco de laranja
 - Caldo de 1 limão
 - 1 pimenta dedo-de-moça sem sementes
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 1 cebola pequena (65 gramas)
 - 2 colheres de sopa de salsa
 - --

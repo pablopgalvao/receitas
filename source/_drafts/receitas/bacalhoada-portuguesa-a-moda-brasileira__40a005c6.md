@@ -35,9 +35,9 @@ flags: []
 - 1 xícara de chá de azeite (240 ml)
 - 3 dentes de alho médios
 - 1 cebola média
-- 1/2 pimentão vermelho médio
-- 1/2 pimentão verde médio
-- 1/2 pimentão amarelo médio
+- ½ pimentão vermelho médio
+- ½ pimentão verde médio
+- ½ pimentão amarelo médio
 - 1 pitada de sal
 - 1 colher de chá de páprica
 - 2 tomates médios

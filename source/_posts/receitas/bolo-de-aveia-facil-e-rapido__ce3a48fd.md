@@ -32,7 +32,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/3 de xícara de chá de farelo de aveia
+- ⅓ de xícara de chá de farelo de aveia
 - 1 colher de sopa de aveia em flocos
 - 1 banana
 - 1 colher de sopa de cacau em pó 100%

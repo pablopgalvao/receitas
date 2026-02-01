@@ -37,7 +37,7 @@ flags: []
 - 7 dentes de alho (30 gramas)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
 - 10 gramas de pimenta-biquinho (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de azeite (ou a gosto)
 - 1 colher de sobremesa de sal (ou a gosto)
 - 4 xícaras de chá de água (960 ml)

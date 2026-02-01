@@ -31,7 +31,7 @@ flags: []
 - 530 gramas de peito de frango desossado e limpo
 - 1 colher de sopa de farinha de arroz
 - 1 colher de sopa de azeite
-- 1/2 colher de sopa rasa de sal (ou a gosto)
+- ½ colher de sopa rasa de sal (ou a gosto)
 - 1 colher de chá de páprica doce (ou a gosto)
 - 1 colher de chá de chimichurri (ou a gosto)
 - 1 colher de chá de pimenta calabresa (ou a gosto)

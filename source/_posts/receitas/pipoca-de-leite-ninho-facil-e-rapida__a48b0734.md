@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de milho para pipoca (80 gramas)
+- ½ xícara de chá de milho para pipoca (80 gramas)
 - 1 colher de sopa de óleo
 - 6 colheres de sopa de leite Ninho (60 gramas)
 - 4 colheres de sopa de água
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - --
 
 ---

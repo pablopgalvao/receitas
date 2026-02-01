@@ -32,11 +32,11 @@ flags: []
 - 300 gramas de bacalhau em lascas
 - 1 xícara de chá de grão-de-bico cozido (160 gramas)
 - Salsinha a gosto
-- 1/2 xícara de chá de azeitona preta (70 gramas)
-- 1/2 xícara de chá de azeitona verde (70 gramas)
+- ½ xícara de chá de azeitona preta (70 gramas)
+- ½ xícara de chá de azeitona verde (70 gramas)
 - Sal a gosto
 - 1 colher de chá de pimenta-do-reino
-- 1/2 xícara de chá de azeite (120 ml)
+- ½ xícara de chá de azeite (120 ml)
 - Reúna todos os ingredientes sobre a bancada. Dessalgue o bacalhau antes de começar;
 - Para essa receita, retire a pele dos pimentões, depois pique em cubinhos; pique o tomate (sem sementes) e a cebola da mesma forma; corte a salsinha finamente e fatie as azeitonas;
 - Junte o grão-de-bico, o tomate, os pimentões, a cebola, as azeitonas e a salsinha;

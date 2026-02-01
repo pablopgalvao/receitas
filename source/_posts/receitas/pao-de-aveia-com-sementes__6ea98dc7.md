@@ -31,15 +31,15 @@ flags: []
 - 3 ovos
 - 1 xícara de chá de farelo de aveia sem glúten
 - 1 xícara de chá de farinha de amêndoas
-- 1/2 xícara de chá de polvilho doce
+- ½ xícara de chá de polvilho doce
 - 1 colher de sopa de psyllium
 - 1 colher de sopa de açúcar demerara
-- 1/2 xícara de chá de água morna
+- ½ xícara de chá de água morna
 - 4 colheres de sopa de azeite de oliva extra virgem
 - 1 colher de sopa de vinagre de maçã
 - 10 gramas de fermento biológico seco
 - 1 colher de chá de sal
-- 1/2 xícara de chá de mix de sementes (linhaça, girassol, abóbora e chia)
+- ½ xícara de chá de mix de sementes (linhaça, girassol, abóbora e chia)
 - --
 
 ---

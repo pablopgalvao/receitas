@@ -36,7 +36,7 @@ flags: []
 - 3 peitos de frango sem osso
 - Suco de 1 limão
 - Sal e pimenta-do-reino a gosto
-- 1/2 xícara de chá de cebola cortada
+- ½ xícara de chá de cebola cortada
 - 2 xícaras de chá de cogumelos Paris
 - 400 ml de creme de leite fresco
 - Páprica a gosto

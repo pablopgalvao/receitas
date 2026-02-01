@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 litros de água
-- 3/4 de xícara de shoyu (200 ml)
-- 1 e 1/2 colher de sopa de amido de milho (15 gramas)
+- ¾ de xícara de shoyu (200 ml)
+- 1 e ½ colher de sopa de amido de milho (15 gramas)
 - 1 colher de sopa rasa de açúcar (10 gramas)
 - --
 

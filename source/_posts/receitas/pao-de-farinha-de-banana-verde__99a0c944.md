@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de banana verde (400 gramas)
-- 1/2 xícara de chá de fécula de batata (75 gramas)
+- ½ xícara de chá de fécula de batata (75 gramas)
 - 2 xícaras de chá de água morna (480 ml)
 - 2 ovos médios
-- 1/2 xícara de chá de óleo vegetal (120 ml)
+- ½ xícara de chá de óleo vegetal (120 ml)
 - 3 colheres de sopa de açúcar mascavo
 - 1 colher de café de sal
 - 10 gramas de fermento biológico

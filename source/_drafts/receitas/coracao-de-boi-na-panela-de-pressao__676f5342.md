@@ -38,7 +38,7 @@ flags: []
 - 2 tomates grandes e sem sementes
 - 1 colher de café de tempero baiano
 - 1 colher de café de colorau sal a gosto
-- 1 e 1/2 colher sopa cheiro-verde a gosto
+- 1 e ½ colher sopa cheiro-verde a gosto
 - --
 
 ---

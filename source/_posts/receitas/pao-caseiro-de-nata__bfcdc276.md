@@ -32,7 +32,7 @@ flags: []
 - 4 colheres de sopa de nata
 - 1 colher de café de sal
 - 1 colher de chá de fermento biológico seco
-- 5 1/2 xícaras de farinha de trigo
+- 5 ½ xícaras de farinha de trigo
 - --
 
 ---

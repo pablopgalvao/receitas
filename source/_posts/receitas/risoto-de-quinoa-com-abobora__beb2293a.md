@@ -31,10 +31,10 @@ flags: []
 
 - 2 colheres de sopa de azeite
 - 1 cebola média picada
-- 1/2 xícara de chá de abóbora picada
+- ½ xícara de chá de abóbora picada
 - 4 champignons médios picados
-- 1/2 xícara de chá de quinoa
-- 2 e 1/2 xícaras de chá de caldo de legumes
+- ½ xícara de chá de quinoa
+- 2 e ½ xícaras de chá de caldo de legumes
 - 1 colher de chá de sal
 - 1 colher de sopa de manteiga vegetal
 - Chips de abóbora, champignon e brotos a gosto

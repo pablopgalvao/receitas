@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 gramas de morangos picados
-- 1/2 xícara de chá de açúcar
-- Suco de 1/2 limão
+- ½ xícara de chá de açúcar
+- Suco de ½ limão
 - --
 
 ---

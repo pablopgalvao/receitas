@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abóbora cabotiá (600 gramas)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ abóbora cabotiá (600 gramas)
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de chá de páprica (ou a gosto)
-- 2/3 colher de chá de pimenta-do-reino (ou a gosto)
+- ⅔ colher de chá de pimenta-do-reino (ou a gosto)
 - Azeite de oliva a gosto
 - 3 ramos de tomilho fresco (opcional)
 ---

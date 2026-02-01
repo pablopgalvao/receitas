@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 caixinha de leite condensado (600 gramas)
-- 1 e 1/2 caixinha de creme de leite (300 gramas)
-- 1/2 xícara de chá de suco de limão (110 ml)
+- 1 e ½ caixinha de leite condensado (600 gramas)
+- 1 e ½ caixinha de creme de leite (300 gramas)
+- ½ xícara de chá de suco de limão (110 ml)
 - --
 
 ---

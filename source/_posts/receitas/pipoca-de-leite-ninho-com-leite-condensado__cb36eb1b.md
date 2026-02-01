@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de pipoca (200 gramas)
-- 1/2 xícara de chá de açúcar (90 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
 - 2 colheres de sopa de água
 - 2 colheres de sopa de óleo
 - 150 gramas de leite condensado

@@ -28,17 +28,17 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 de xícara de chá de chocolate ao leite (50 gramas)
-- 1/4 de xícara de chá de chocolate meio amargo (50 gramas)
+- ¼ de xícara de chá de chocolate ao leite (50 gramas)
+- ¼ de xícara de chá de chocolate meio amargo (50 gramas)
 - 100 gramas de manteiga sem sal
 - 1 xícara de chá de açúcar (200 gramas)
 - 2 ovos médios (50 gramas)
 - 1 colher de chá de baunilha
-- 1 e 1/3 de xícara de chá de farinha de trigo (180 gramas)
+- 1 e ⅓ de xícara de chá de farinha de trigo (180 gramas)
 - 4 colheres de sopa de chocolate em pó 50% cacau
 - 1 colher de chá rasa de bicarbonato de sódio
 - 1 colher de café de sal
-- 1 e 1/2 xícara de chá de gotas de chocolate forneáveis (200 gramas)
+- 1 e ½ xícara de chá de gotas de chocolate forneáveis (200 gramas)
 - --
 
 ---

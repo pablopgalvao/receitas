@@ -32,9 +32,9 @@ flags: []
 - 1 pimentão verde
 - 1 pimentão vermelho
 - 1 pimentão amarelo
-- 1 e 1/2 cebola
+- 1 e ½ cebola
 - 1 limão
-- 1/2 xícara de coentro picado
+- ½ xícara de coentro picado
 - 2 tomates
 - 200 ml de leite de coco
 - 1 pimenta dedo-de-moça (opcional)
@@ -51,7 +51,7 @@ flags: []
 1. Separe os ingredientes para facilitar o preparo dessa receita. Descasque e corte uma cebola em rodelas. Limpe os pimentões e corte metade de cada um deles em formato meio anéis. Reserve a outra metade da cebola e dos pimentões para a finalização;
 2. Comece aquecendo uma Wok ou uma panela de ferro grande. Adicione azeite e coloque a cebola e os pimentões cortados. Tempere com um pouco de sal, cerca de 1 colher de chá;
 3. Em uma tábua, coloque os filés de robalo e corte em pedaços com cerca de 3 dedos de largura;
-4. Na panela, após 5 minutos, quando os ingredientes tiverem reduzido, adicione um dente de alho picado e, caso queira, 1/2 pimenta-dedo-de-moça sem sementes. Mexa cuidadosamente;
+4. Na panela, após 5 minutos, quando os ingredientes tiverem reduzido, adicione um dente de alho picado e, caso queira, ½ pimenta-dedo-de-moça sem sementes. Mexa cuidadosamente;
 5. Em uma tábua, corte o tomate em meia-lua e acrescente na panela. Adicione mais um pouco de sal e misture. Corte os talos brancos da cebolinha e adicione na panela;
 6. Coloque os pedaços de peixe em uma tigela e tempere com limão e 1 colher de sopa de sal. Adicione-os na panela sobre os vegetais com a pele virada para baixo;
 7. Corte o restante dos pimentões, do tomate e da cebola em tiras ainda mais finas, afinal, esses ingredientes serão refogados, apenas cozidos;

@@ -32,8 +32,8 @@ flags: []
 - 1 colher de sobremesa de salsinha desidratada
 - 1 colher de chá de cebola ou alho em pó
 - 1 colher de sopa de azeite
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de sal
+- ½ colher de chá de pimenta-do-reino
 - Depois de secas, transfira as batatas para uma tigela grande. Adicione a salsinha, a cebola ou alho em pó, o azeite, o sal e a pimenta-do-reino. Misture bem com o auxílio de uma colher até que os temperos agreguem em todas as rodelas de batata;
 
 ---

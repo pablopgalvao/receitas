@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 maçãs sem casca
-- 1 e 1/2 xícara de chá de farinha de trigo (210 gramas)
-- 3/4 de xícara de chá de açúcar (150 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (210 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
 - 100 ml de leite
-- 1 e 1/2 colher de sopa de margarina (20 gramas)
+- 1 e ½ colher de sopa de margarina (20 gramas)
 - 2 ovos
 - 1 colher de sopa rasa de fermento em pó
 - 1 colher de chá de essência de baunilha

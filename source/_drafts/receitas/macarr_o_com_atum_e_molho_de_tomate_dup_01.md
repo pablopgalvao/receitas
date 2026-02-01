@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de atum (170 gramas)
-- 1/2 pacote de espaguete ou linguine (200 gramas)
+- ½ pacote de espaguete ou linguine (200 gramas)
 - 3 colheres de sopa de molho de tomate
-- 1/2 colher de sopa de margarina
+- ½ colher de sopa de margarina
 - 1 colher de sopa de óleo
 - Cebolinha a gosto
 - Sal a gosto

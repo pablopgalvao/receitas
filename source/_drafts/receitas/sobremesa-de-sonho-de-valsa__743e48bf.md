@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 ml de leite
-- 1/2 caixinha de leite condensado
+- ½ caixinha de leite condensado
 - 3 colheres de sopa de amido de milho
 - 1 caixinha de creme de leite
-- 1/2 xícara de chá de chocolate meio amargo
-- 2 e 1/2 colheres de sopa de chocolate 50%
+- ½ xícara de chá de chocolate meio amargo
+- 2 e ½ colheres de sopa de chocolate 50%
 - Cerca de 20 bombons Sonho de Valsa
 - --
 

@@ -36,8 +36,8 @@ flags: []
 - 3 dentes de alho médios
 - 2 cebolas médias
 - 1 xícara de chá de arroz cru (180 gramas)
-- 1/2 xícara de chá de salsinha picada
-- 1/2 xícara de chá de cebolinha picada
+- ½ xícara de chá de salsinha picada
+- ½ xícara de chá de cebolinha picada
 - --
 
 ---

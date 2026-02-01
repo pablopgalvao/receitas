@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 acelga (650 gramas)
-- 1/2 cebola média (110 gramas)
+- ½ acelga (650 gramas)
+- ½ cebola média (110 gramas)
 - 1 dente de alho
 - 1 fio de azeite
-- 1/3 de xícara de chá de shoyu (80 ml)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ⅓ de xícara de chá de shoyu (80 ml)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - Gergelim a gosto para decorar (opcional)
 ---
 

@@ -32,9 +32,9 @@ flags: []
 - 1 xícara de chá de sagu (100 gramas)
 - 2 xícaras de chá de água (para hidratar o sagu) (480 ml)
 - 1 lata de leite condensado (395 gramas)
-- 1/2 xícara de chá de coco ralado (50 gramas)
+- ½ xícara de chá de coco ralado (50 gramas)
 - 1 caixa de creme de leite (200 gramas)
-- 1/3 xícara de chá de manga para decorar (opcional)
+- ⅓ xícara de chá de manga para decorar (opcional)
 - --
 
 ---

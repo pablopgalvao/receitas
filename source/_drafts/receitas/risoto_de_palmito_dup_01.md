@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz arbóreo (280 gramas)
+- 1 e ½ xícara de chá de arroz arbóreo (280 gramas)
 - 2 colheres de sopa de manteiga
 - 1 colher de sopa de azeite de oliva
 - 1 pote de palmito tolete (300 gramas)
@@ -57,7 +57,7 @@ flags: []
 2. Para o caldo, em uma tábua, corte a cebola ao meio e, cada metade, ao meio novamente. Corte a cenoura em rodelas com cerca de 1 cm. Lave e corte o alho-poró em fatias de 0,5 cm;
 3. Em uma panela, em fogo médio para alto, aqueça o azeite e adicione a cebola, a cenoura, o alho-poró e a folha de louro. Tempere com sal e pimenta-do-reino. Refogue os ingredientes por cerca de 5 minutos, mexendo às vezes para não queimar;
 4. Assim que os legumes estiverem levemente refogados, acrescente a água e deixe ferver. Quando começar a borbulhar, tampe metade da panela e cozinhe por cerca de 20 a 30 minutos, para que o sabores incorporem bem no caldo;
-5. Enquanto isso, descasque e pique 1/2 cebola em cubos pequenos, guarde a outra metade para as próximas receitas. Pique 1 tolete de palmito em pedaços bem pequenos - esse picado vai junto com o refogado da cebola para trazer ainda mais o sabor do palmito ao prato;
+5. Enquanto isso, descasque e pique ½ cebola em cubos pequenos, guarde a outra metade para as próximas receitas. Pique 1 tolete de palmito em pedaços bem pequenos - esse picado vai junto com o refogado da cebola para trazer ainda mais o sabor do palmito ao prato;
 6. Corte o restante dos toletes de palmito em rodelas, com cerca de 1 cm. Reserve;
 7. Passado o tempo, deixe o caldo de legumes ainda na panela, em fogo baixo, só para manter a temperatura. Em outra panela, aqueça 1 colher de manteiga e o azeite e, assim que derreter, adicione a cebola e o palmito picado. Refogue por 2 minutos, mexendo às vezes para não queimar;
 8. Junte o arroz, tempere com uma pitada de sal e pimenta-do-reino e misture bem para os ingredientes incorporarem. Refogue por mais 1 minuto, mexendo sempre. Depois, acrescente o vinho e continue mexendo até o líquido reduzir;

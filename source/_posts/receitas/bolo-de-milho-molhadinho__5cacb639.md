@@ -32,7 +32,7 @@ flags: []
 - 3 ovos
 - 1 lata de leite condensado (395 gramas)
 - 1 lata ou pacotinho de milho em conserva (com a água)
-- 1/2 xícara de chá de óleo vegetal
+- ½ xícara de chá de óleo vegetal
 - 1 xícara de chá de leite de coco
 - 1 xícara de chá de flocão
 - 1 pitada de sal

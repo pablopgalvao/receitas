@@ -33,7 +33,7 @@ flags: []
 - 700 gramas de costelinha de porco
 - 3 colheres de sopa de azeite
 - 4 dentes de alho
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de chá de chimichurri
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de lemon pepper

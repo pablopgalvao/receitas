@@ -45,7 +45,7 @@ flags: []
 - ½ colher (chá) de sal
 - ½ colher (sopa) de azeite
 - ½ xícara (chá) de água
-- Leve uma jarra de vidro com 1/2 xícara (chá) de água para aquecer no micro-ondas por cerca de 1 minuto. Numa tigela, coloque o cuscuz marroquino, misture o sal e as passas.
+- Leve uma jarra de vidro com ½ xícara (chá) de água para aquecer no micro-ondas por cerca de 1 minuto. Numa tigela, coloque o cuscuz marroquino, misture o sal e as passas.
 - azeite a gosto
 - sal e pimenta-do-reino moída na hora a gosto
 - Numa tigela, coloque os gomos e esprema o suco do que sobrou da laranja. Regue com um fio de azeite, tempere com sal e pimenta-do-reino moída na hora a gosto. Misture as folhas de coentro e sirva a seguir.

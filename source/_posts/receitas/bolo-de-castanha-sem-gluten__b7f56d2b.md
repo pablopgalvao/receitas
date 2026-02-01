@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de açúcar demerara
+- ½ xícara de chá de açúcar demerara
 - 200 ml leite vegetal
 - 2 colheres de sopa de óleo de sua preferência
 - 2 xícaras de chá de farinha de castanha-de-caju

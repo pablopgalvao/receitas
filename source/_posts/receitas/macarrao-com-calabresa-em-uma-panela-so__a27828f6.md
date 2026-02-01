@@ -31,7 +31,7 @@ flags: []
 
 - 2 colheres de sopa de azeite
 - 1 gomo de calabresa picada em rodelas
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 1 lata de tomate pelado
 - 1 colher de café de orégano

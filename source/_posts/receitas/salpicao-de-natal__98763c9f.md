@@ -34,14 +34,14 @@ flags: []
 - 3 xícaras de chá de filezinho de frango cozido e desfiado (sassami) (450 gramas)
 - 700 gramas de maionese
 - 1 xícara de chá de presunto picado (150 gramas)
-- 1 e 1/2 xícara de chá de cenoura ralada e pré-cozida (100 gramas)
+- 1 e ½ xícara de chá de cenoura ralada e pré-cozida (100 gramas)
 - 1 caixinha de creme de leite (200 gramas)
 - 1 xícara de chá de bacon picado e frito (150 gramas)
 - 1 xícara de chá de palmito picado (100 gramas)
 - 1 xícara de chá de abacaxi picado (150 gramas)
-- 1/2 lata de milho (80 gramas)
-- 1/2 lata de ervilha (80 gramas)
-- 1/2 xícara de chá de azeitona (50 gramas)
+- ½ lata de milho (80 gramas)
+- ½ lata de ervilha (80 gramas)
+- ½ xícara de chá de azeitona (50 gramas)
 - Cebolinha a gosto
 - Batata palha a gosto
 - Sal a gosto

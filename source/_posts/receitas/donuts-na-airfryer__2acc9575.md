@@ -32,8 +32,8 @@ flags: []
 
 - 1 xícara de chá de água morna (240 ml)
 - 1 ovo médio (50 gramas)
-- 1/2 xícara de chá de manteiga ou margarina (100 gramas)
-- 1/2 colher de chá de sal (cerca de 3 gramas)
+- ½ xícara de chá de manteiga ou margarina (100 gramas)
+- ½ colher de chá de sal (cerca de 3 gramas)
 - 5 colheres de sopa de açúcar (60 gramas)
 - 3 colheres de chá de fermento biológico seco (ou 3 de sopa do fresco) (30 gramas)
 - 4 xícaras de chá de farinha de trigo (480 gramas)

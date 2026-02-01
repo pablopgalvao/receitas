@@ -32,10 +32,10 @@ flags: []
 - 2 xícaras de chá de arroz cru (360 gramas)
 - 4 xícaras de chá de água fervendo (960 ml)
 - 3 ovos médios
-- 1 e 1/4 xícara de açúcar refinado (250 gramas)
-- 2/3 xícara de chá de óleo (160 ml)
-- 2/3 xícara de chá de leite integral (160 ml)
-- 1/2 xícara de chá de coco ralado (50 gramas)
+- 1 e ¼ xícara de açúcar refinado (250 gramas)
+- ⅔ xícara de chá de óleo (160 ml)
+- ⅔ xícara de chá de leite integral (160 ml)
+- ½ xícara de chá de coco ralado (50 gramas)
 - 1 colher de sopa de fermento em pó (15 gramas)
 - Em seguida, separe todos os ingredientes sobre a bancada. Escorra a água e reserve o arroz hidratado. Preaqueça o forno a 180 ºC e unte uma forma (20x5) com manteiga;
 - No liquidificador, adicione os ovos, o açúcar, o óleo e o leite. Bata por cerca de 1 minuto apenas para misturar;

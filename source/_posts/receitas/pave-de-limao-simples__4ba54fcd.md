@@ -33,7 +33,7 @@ flags: []
 
 - 1 caixinha de leite condensado (395 gramas)
 - 2 caixinhas de creme de leite (400 gramas)
-- 1/2 xícara de chá de suco de limão (120 ml)
+- ½ xícara de chá de suco de limão (120 ml)
 - Cerca de 1 pacote de biscoito champanhe (180 gramas)
 - Leite para hidratar o biscoito
 - Raspas de limão para decorar

@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 de xícara de chá de açúcar (50 gramas)
-- 1/4 de xícara de chá de leite vegetal bem gelado (60 ml)
+- ¼ de xícara de chá de açúcar (50 gramas)
+- ¼ de xícara de chá de leite vegetal bem gelado (60 ml)
 - 2 colheres de sopa de cacau em pó
 - 1 colher de sopa de emulsificante (25 gramas)
 - --

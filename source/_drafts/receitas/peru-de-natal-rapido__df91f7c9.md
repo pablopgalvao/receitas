@@ -30,16 +30,16 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de manteiga sem sal em temperatura ambiente (100 gramas)
+- ½ xícara de chá de manteiga sem sal em temperatura ambiente (100 gramas)
 - 1 colher de sopa de manteiga sem sal gelada (20 gramas)
 - 1 colher de chá de páprica doce
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de chá de pimenta-da-Jamaica
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - Raspas de 1 limão-siciliano
 - Suco de 1 limão-siciliano
-- 1/2 colher de chá de gengibre em pó
+- ½ colher de chá de gengibre em pó
 - 2 dentes de alho ralado
 - --
 

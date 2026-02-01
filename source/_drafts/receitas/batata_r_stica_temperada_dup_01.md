@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de bicarbonato de sódio
+- ½ colher de sopa de bicarbonato de sódio
 - 1 colher de sopa de salsinha
 - 1 colher de chá de páprica picante
 - 4 colheres de sopa de nata

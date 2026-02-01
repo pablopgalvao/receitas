@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de pasta de amendoim
+- ½ xícara de chá de pasta de amendoim
 - 1 colher de sopa de óleo de coco
 - 2 scoops de proteína vegana
 - 2 colheres de sopa de farinha de aveia

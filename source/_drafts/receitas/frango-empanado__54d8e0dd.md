@@ -33,7 +33,7 @@ flags: []
 - 1 xícara de chá de farinha de trigo
 - 1 colher de sopa de sal
 - 5 dentes de alho
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de páprica defumada
 - 1 xícara de chá de farinha Panko
 - 500 ml de óleo para fritar por imersão

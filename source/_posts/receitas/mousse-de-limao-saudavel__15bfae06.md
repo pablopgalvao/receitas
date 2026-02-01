@@ -33,8 +33,8 @@ flags: []
 - Suco de 1 limão-taiti
 - Raspas de 1 limão
 - 1 inhame pequeno cozido
-- 1/2 xícara de chá de leite em pó
-- 1/3 de xícara de chá de água quente
+- ½ xícara de chá de leite em pó
+- ⅓ de xícara de chá de água quente
 - 2 colheres de sopa de açúcar demerara
 - --
 

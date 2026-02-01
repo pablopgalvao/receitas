@@ -31,7 +31,7 @@ flags: []
 
 - 250 gramas de polpa de maracujá (cerca de 4 maracujás)
 - 200 ml de vodka ou cachaça
-- 1/2 caixinha (ou lata) de leite condensado (cerca de 200 gramas)
+- ½ caixinha (ou lata) de leite condensado (cerca de 200 gramas)
 - Gelo a gosto
 
 ---

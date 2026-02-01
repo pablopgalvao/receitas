@@ -32,10 +32,10 @@ flags: []
 
 - 500 gramas de camarão médio
 - Suco de 1 limão
-- 1/2 xícara de chá de azeite de dendê
+- ½ xícara de chá de azeite de dendê
 - 2 cebolas médias em fatias
-- 1/2 xícara de chá de coentro
-- 1/2 xícara de chá de salsinha
+- ½ xícara de chá de coentro
+- ½ xícara de chá de salsinha
 - 2 cebolinhas verdes
 - 3 tomates cortados em rodelas
 - 1 xícara de chá de caldo de camarão

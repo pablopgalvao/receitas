@@ -34,9 +34,9 @@ flags: []
 - 350 gramas de margarina para folhados
 - 2 ovos
 - 1 xícara de chá de leite
-- 1/4 xícara de chá de óleo⁣⁣⁣
+- ¼ xícara de chá de óleo⁣⁣⁣
 - 10 gramas de fermento biológico⁣⁣⁣
-- 1/4 xícara de chá de açúcar⁣⁣⁣
+- ¼ xícara de chá de açúcar⁣⁣⁣
 - 1 colher de sopa de margarina comum
 - 1 colher de sopa de sal⁣⁣⁣
 - 500 gramas de farinha de trigo

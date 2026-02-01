@@ -34,7 +34,7 @@ flags: []
 - 4 colher de sopa de açúcar de coco ou mascavo
 - 3 colheres de sopa de óleo de coco ou girassol
 - 1 colher de sopa de café solúvel
-- 1/2 xícara de água
+- ½ xícara de água
 - 1 colher de sobremesa de canela em pó
 - 1 colher sopa de fermento em pó
 - --

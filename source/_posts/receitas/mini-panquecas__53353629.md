@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 ovo
-- 1/3 xícara de chá de leite
-- 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de sopa de açúcar
-- 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- ⅓ xícara de chá de leite
+- ½ xícara de chá de farinha de trigo
+- ½ colher de sopa de açúcar
+- ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 colher de sopa de creme de ricota
 - --
 

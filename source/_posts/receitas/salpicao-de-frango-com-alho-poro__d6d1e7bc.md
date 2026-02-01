@@ -32,16 +32,16 @@ flags: []
 - 4 colheres de sopa de azeite de oliva
 - 1 cebola média
 - 1 talo de alho-poró
-- 1/2 lata de ervilhas (85 gramas)
+- ½ lata de ervilhas (85 gramas)
 - 1 cenoura média
 - 1 maçã-verde
 - 8 azeitonas verdes
 - 1 limão-taiti espremido
 - 1 copo de requeijão (200 gramas)
 - 6 colheres de sopa de maionese (ou a gosto)
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 xícara de chá de cheiro-verde picado
+- ½ xícara de chá de cheiro-verde picado
 - 100 gramas de batata palha para finalizar
 - --
 

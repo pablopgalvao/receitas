@@ -32,8 +32,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 600 gramas de carne moída
-- 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 10 bisnaguinhas
 - 6 fatias de mussarela (ou a gosto)
 - Picles a gosto

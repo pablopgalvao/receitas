@@ -36,9 +36,9 @@ flags: []
 - 1 sachê de molho de tomate ou molho de tomate caseiro (390 gramas)
 - Azeite a gosto
 - 5 dentes de alho
-- 1/2 colher de café de pimenta-do-reino a gosto (ou a gosto)
-- 1/2 colher de café de páprica doce (ou a gosto)
-- 1/2 colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino a gosto (ou a gosto)
+- ½ colher de café de páprica doce (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
 - Cebolinha a gosto
 ---
 

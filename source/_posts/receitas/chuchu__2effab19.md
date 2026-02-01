@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 chuchu
-- 1/2 cebola
+- ½ cebola
 - 1 colher de sopa de manteiga
 - 1 colher de chá de orégano seco
 - Sal e pimenta-do-reino moída na hora a gosto

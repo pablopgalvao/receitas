@@ -33,10 +33,10 @@ flags: []
 - 500 gramas de peito de frango cozido e desfiado
 - 1 cebola média picada (220 gramas)
 - 6 xícaras de chá de água (2 litros)
-- 1 e 1/2 colher de sopa de manteiga
+- 1 e ½ colher de sopa de manteiga
 - 1 caixa de creme de leite (200 gramas)
 - 50 ml de leite de coco
-- 1/2 colher de sal (ou a gosto)
+- ½ colher de sal (ou a gosto)
 - Leve uma panela grande ao fogo médio, adicione a manteiga e refogue a cebola e o alho;
 - Em seguida, adicione o frango desfiado e o sal e refogue por 2 minutos. Coloque o caldo de mandioca batido, o creme de leite e o leite de coco e misture bem. Deixe cozinhar até ferver e reduzir;
 - Salpique cebolinha picada e sirva bem quentinho. Bom apetite!

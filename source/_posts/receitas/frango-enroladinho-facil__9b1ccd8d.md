@@ -32,7 +32,7 @@ flags: []
 
 - 7 filés de peito de frango (400 gramas)
 - Sal e pimenta-do-reino a gosto
-- 1/2 colher de chá de páprica (ou a gosto)
+- ½ colher de chá de páprica (ou a gosto)
 - Azeite para untar a forma
 - 3 colheres de sopa de requeijão (75 gramas)
 - 2 colheres de sopa de cenoura ralada (25 gramas)

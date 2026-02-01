@@ -29,17 +29,17 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 1 xícara de chá de leite
 - 1 colher de chá de açúcar demerara
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 xícara de chá de farinha de arroz
-- 1/2 xícara de chá de polvilho doce
-- 1/2 xícara de chá de amido de milho
-- 1/2 colher de chá de fermento biológico para pão
+- ½ xícara de chá de polvilho doce
+- ½ xícara de chá de amido de milho
+- ½ colher de chá de fermento biológico para pão
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 colher de chá de goma xantana
-- 1/2 colher de chá de vinagre de maçã
+- ½ colher de chá de goma xantana
+- ½ colher de chá de vinagre de maçã
 - --
 
 ---

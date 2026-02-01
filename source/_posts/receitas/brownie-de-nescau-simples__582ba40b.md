@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1 e 1/2 xícara de chá de açúcar (270 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- 1 e ½ xícara de chá de açúcar (270 gramas)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de farinha de trigo (120 gramas)
-- 1 e 1/2 xícara de chá de Nescau (140 gramas)
+- 1 e ½ xícara de chá de Nescau (140 gramas)
 - Gotinhas de chocolate ou chocolate picado a gosto (opcional)
 - --
 

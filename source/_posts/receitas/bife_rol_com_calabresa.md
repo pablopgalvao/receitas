@@ -42,7 +42,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 8 bifes de Coração da Alcatra bovina (aproximadamente 1,2 kg)
-- 1/2 pacote de Linguiça Tipo Calabresa
+- ½ pacote de Linguiça Tipo Calabresa
 - 1 cenoura média
 - 100 a 150 g de vagem (8 unidades)
 - 2 colheres de sopa de óleo

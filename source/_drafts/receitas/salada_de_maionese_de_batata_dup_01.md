@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de vinagre (15 ml)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - Sal a gosto
 - Cheiro-verde a gosto
 - Em outra panela, cozinhe 4 ovos por aproximadamente 10 minutos após ferver;

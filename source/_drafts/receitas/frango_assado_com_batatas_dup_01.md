@@ -31,11 +31,11 @@ flags: []
 
 - 1 kg de sobrecoxas
 - 500 gramas de batatas médias ou pequenas
-- 1/2 colher de sopa (rasa) de alho triturado
-- 1/2 colher de sopa (rasa) de sal
-- 1/4 de colher de chá (rasa) de pimenta-do-reino
+- ½ colher de sopa (rasa) de alho triturado
+- ½ colher de sopa (rasa) de sal
+- ¼ de colher de chá (rasa) de pimenta-do-reino
 - 1 colher de chá (rasa) de orégano
-- 1/2 xícara de chá de maionese
+- ½ xícara de chá de maionese
 - 2 colheres de sopa de salsinha picadinha
 - Manteiga para untar (ou outro tipo de gordura)
 - Para temperar, em um recipiente, misture o alho triturado, o sal, a pimenta-do-reino, o orégano, a maionese e a salsinha. Em seguida, adicione o tempero cremoso na tigela com as batatas e o frango e misture até incorporar bem em todos os pedaços;

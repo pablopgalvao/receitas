@@ -35,13 +35,13 @@ flags: []
 - 3 colheres de sopa de água morna (45 ml)
 - 30 ml de azeite
 - 1 colher de chá de goma xantana
-- 1 e 2/3 xícara de chá de farinha de aveia (250 gramas)
-- 1/2 xícara de chá de farinha de arroz (100 gramas)
+- 1 e ⅔ xícara de chá de farinha de aveia (250 gramas)
+- ½ xícara de chá de farinha de arroz (100 gramas)
 - 50 gramas de polvilho doce
 - 10 gramas de semente de chia (opcional)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 5 gramas de fermento químico
-- 1 e 2/3 xícara de chá de água morna (400 ml)
+- 1 e ⅔ xícara de chá de água morna (400 ml)
 - Em uma tigela pequena, misture o fermento biológico, a farinha de arroz, o açúcar e a água morna;
 - Em outro recipiente, bata levemente os ovos por um minuto. e, em um potinho separado, misture o azeite com a goma xantana até formar uma pasta espessa. Reserve ambos;
 - Em uma tigela grande ou batedeira, junte a farinha de aveia, a farinha de arroz, o polvilho doce, a chia, o sal e o fermento químico. Misture bem os ingredientes secos;

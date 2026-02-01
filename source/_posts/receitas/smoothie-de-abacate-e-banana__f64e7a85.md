@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate
+- ½ abacate
 - 1 banana gelada
 - 3 pedras de gelo
 - Um pouco de leite ou bebida vegetal

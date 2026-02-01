@@ -36,7 +36,7 @@ flags: []
 - 150 gramas de ricota
 - 1 xícara de chá de frango cozido e desfiado
 - 2 colheres de sopa de cebolinha picada
-- 1/2 colher de chá de sal a gosto
+- ½ colher de chá de sal a gosto
 - Molho pesto ou passata de tomate a gosto
 - Para preparar o recheio, em uma tigela, adicione a ricota, o frango, a cebolinha, o suco de limão, o sal e amasse tudo com um garfo. Misture bem, cubra com um pano limpo ou plástico filme e reserve;
 - Para a massa, em uma bancada, coloque a farinha e deixe um buraco no meio. No centro, acrescente os ovos, o azeite e o sal. Mexa com as pontas dos dedos e em movimentos circulares até o ponto de sovar. Sove por aproximadamente 10 minutos ou até ficar homogênea e desgrudar das mãos;

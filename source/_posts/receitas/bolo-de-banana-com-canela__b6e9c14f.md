@@ -30,7 +30,7 @@ flags: []
 
 - 3 ovos
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 3 bananas-nanicas maduras
 - 1 colher de chá de canela em pó
 - 2 xícaras de chá de farinha de trigo sem fermento (340 gramas)

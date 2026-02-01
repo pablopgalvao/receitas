@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícaras de chá de farinha de trigo (120 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 2 colheres de sopa rasas de margarina (40 gramas)
 - 1 ovo
-- 1/2 colher de sopa de fermento químico em pó
+- ½ colher de sopa de fermento químico em pó
 - 1 pitada de sal
 - --
 

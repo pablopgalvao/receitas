@@ -30,10 +30,10 @@ flags: []
 
 - 1 xícara de chá de água morna (240 ml)
 - 1 colher de sopa de açúcar
-- 1 e 1/2 colher de chá de fermento biológico seco (5 gramas)
+- 1 e ½ colher de chá de fermento biológico seco (5 gramas)
 - 3 colheres de sopa de azeite
 - 2 colheres de chá rasas de sal
-- 2 e 1/2 xícaras de farinha de trigo sem fermento
+- 2 e ½ xícaras de farinha de trigo sem fermento
 - --
 
 ---

@@ -39,7 +39,7 @@ flags: []
 - 1 pitada de sal
 - 200 gramas de macarrão ninho
 - 200 gramas de iscas de frango temperadas
-- 1/2 cebola
+- ½ cebola
 - Requeijão a gosto
 - Azeite a gosto
 - Orégano a gosto

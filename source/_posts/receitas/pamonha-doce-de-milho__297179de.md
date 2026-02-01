@@ -32,10 +32,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 espigas de milho bem amarelas
-- 1/2 xícara de chá de leite (ou água)
+- ½ xícara de chá de leite (ou água)
 - 1 xícara de chá de açúcar
 - Sal a gosto
-- 1/2 xícara de chá de coco ralado fresco
+- ½ xícara de chá de coco ralado fresco
 - 2 colheres de sopa de manteiga derretida
 - Palha do milho para embalar
 - Barbante, a palha do próprio milho ou elástico culinário para amarrar

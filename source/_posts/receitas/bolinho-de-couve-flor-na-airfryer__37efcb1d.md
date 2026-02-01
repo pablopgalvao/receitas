@@ -33,7 +33,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 couve-flor média cozida
+- ½ couve-flor média cozida
 - 2 colheres de sopa de cebola picada
 - Salsinha picada a gosto
 - 1 xícara de chá de aveia em flocos

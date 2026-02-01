@@ -32,7 +32,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de açúcar de confeiteiro
+- 1 e ½ xícara de chá de açúcar de confeiteiro
 - 4 colheres de sopa de suco de limão coado
 - Cerejas a gosto
 - Nozes a gosto

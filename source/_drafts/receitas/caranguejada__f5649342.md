@@ -36,10 +36,10 @@ flags: []
 - 3 colheres de sopa de coentro picado
 - 1 coco
 - 1,5 litro de água (para bater o coco)
-- 1/3 de xícara de chá de mostarda (80 ml)
+- ⅓ de xícara de chá de mostarda (80 ml)
 - 2 caixas de creme de leite (400 gramas totais)
-- 2 colheres e 1/2 de sopa de colorau
-- 2 colheres e 1/2 de sopa de cominho
+- 2 colheres e ½ de sopa de colorau
+- 2 colheres e ½ de sopa de cominho
 - 1 colher de sopa rasa de sal
 - 1 fio de óleo
 - --

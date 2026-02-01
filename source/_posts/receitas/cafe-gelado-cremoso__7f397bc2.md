@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de café solúvel
-- 1/2 colher de sopa de açúcar
+- ½ colher de sopa de açúcar
 - 200 ml de leite gelado
 - 2 colheres de sopa de água bem gelada
 - Gelo a gosto

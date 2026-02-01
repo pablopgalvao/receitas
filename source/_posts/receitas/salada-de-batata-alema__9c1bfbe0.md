@@ -32,10 +32,10 @@ flags: []
 - 800 gramas de batata bolinha
 - 2 colheres de chá de sal
 - 100 gramas de bacon picado
-- 1/4 de cebola roxa cortada em tiras
-- 1/3 de xícara de chá de vinagre
+- ¼ de cebola roxa cortada em tiras
+- ⅓ de xícara de chá de vinagre
 - 1 colher de sopa de açúcar
-- 1/4 de xícara de chá de óleo
+- ¼ de xícara de chá de óleo
 - Salsinha e cebolinha a gosto
 - --
 

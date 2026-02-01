@@ -42,16 +42,16 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e ½ xícara (chá) de farinha de trigo
 - 2 ovos
 - sal a gosto
 - 2 colheres (sopa) de cebola picada ou ralada
-- 1/2 lata de extrato de tomate
+- ½ lata de extrato de tomate
 - queijo ralado a gosto
 - 1 xícara (chá) de leite
 - 4 colheres (sopa) de óleo
 - 300 g de carne moída
-- 1/2 tomate cortado em cubos
+- ½ tomate cortado em cubos
 - 1 caixa de creme de leite
 - 400 g de muçarela fatiado
 

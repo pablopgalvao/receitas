@@ -32,9 +32,9 @@ flags: []
 - 3 xícaras de chá de leite integral (720 ml)
 - 200 ml de leite de coco (1 garrafinha)
 - 1 caixa de creme de leite (200 gramas)
-- 1 e 1/2 caixa de leite condensado (600 gramas)
+- 1 e ½ caixa de leite condensado (600 gramas)
 - 1 xícara de chá de leite em pó (90 gramas)
-- 1 e 1/4 xícara de chá de coco ralado (fresco ou seco) (100 gramas)
+- 1 e ¼ xícara de chá de coco ralado (fresco ou seco) (100 gramas)
 - --
 
 ---

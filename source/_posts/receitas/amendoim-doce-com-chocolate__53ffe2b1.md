@@ -30,7 +30,7 @@ flags: []
 
 - 400 g de amendoim cru com casca
 - 1 xícara de açúcar refinado
-- 1/2 xícara de açúcar mascavo
+- ½ xícara de açúcar mascavo
 - 2 colheres de sopa de cacau em pó
 - 1 xícara de água
 ---

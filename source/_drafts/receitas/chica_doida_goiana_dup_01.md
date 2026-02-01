@@ -33,12 +33,12 @@ flags: []
 - 4 xícaras de chá de leite integral (1 litro)
 - 1 colher de sopa de amido de milho (10 gramas)
 - 2 colheres de sopa de azeite de oliva
-- 1 e 1/2 xícara de chá de linguiça calabresa (250 gramas)
+- 1 e ½ xícara de chá de linguiça calabresa (250 gramas)
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - Noz-moscada a gosto
 - 2 colheres de sopa de cheiro-verde
-- 1 e 1/2 xícaras de queijo parmesão ralado (150 gramas)
+- 1 e ½ xícaras de queijo parmesão ralado (150 gramas)
 - Tempere com sal, pimenta-do-reino, noz-moscada e cheiro-verde. Mexa sem parar, em fogo médio, até o creme engrossar;
 
 ---

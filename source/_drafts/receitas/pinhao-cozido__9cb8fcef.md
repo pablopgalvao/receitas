@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de pinhão
 - 1 colher de sopa (rasa) de sal
-- 1 e 1/2 litro de água para cozinhar
+- 1 e ½ litro de água para cozinhar
 - Água o suficiente para deixar de molho
 - --
 

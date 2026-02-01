@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de molho shoyu
+- ¼ xícara de chá de molho shoyu
 - 3 colheres de sopa de óleo de gergelim ou azeite
-- 1/4 xícara de chá de suco do limão
+- ¼ xícara de chá de suco do limão
 - 2 colheres de sopa de cebolinha
 - 2 colheres de sopa de salsinha
 - --

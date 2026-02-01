@@ -36,8 +36,8 @@ flags: []
 - 2 colheres de sopa de óleo
 - 1 cebola pequena picada
 - 2 xícaras de chá de frango cozido e desfiado
-- 1/2 lata de ervilha em conserva escorrida
-- 1/2 lata de milho em conserva escorrido
+- ½ lata de ervilha em conserva escorrida
+- ½ lata de milho em conserva escorrido
 - Orégano a gosto
 - Pimenta do reino a gosto
 - 1 sachê de tempero para frango

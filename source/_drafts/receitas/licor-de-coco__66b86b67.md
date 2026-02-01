@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 coco médio (150 gramas)
-- 1 e 2/3 xícara de chá de água morna (400 ml)
+- 1 e ⅔ xícara de chá de água morna (400 ml)
 - 2 caixinhas de creme de leite (400 gramas)
 - 1 caixinha de leite condensado (395 gramas)
 - 150 gramas de chocolate branco nobre
-- 1 e 1/2 xícara de chá de cachaça ou vodka (360 ml)
-- 1/2 vidro de leite de coco (100 ml)
+- 1 e ½ xícara de chá de cachaça ou vodka (360 ml)
+- ½ vidro de leite de coco (100 ml)
 - --
 
 ---

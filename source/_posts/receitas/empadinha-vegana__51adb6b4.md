@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de farinha de aveia (80 gramas)
+- ¾ de xícara de chá de farinha de aveia (80 gramas)
 - 2 colheres de sopa de azeite de oliva
 - Pitadinha de sal
 - 2 colheres de sopa de água (20 ml)

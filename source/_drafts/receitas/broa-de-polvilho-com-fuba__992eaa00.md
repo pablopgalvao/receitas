@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de fubá mimoso (320 gramas)
-- 1 e 1/2 xícara de chá de polvilho doce (165 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- 1 e ½ xícara de chá de polvilho doce (165 gramas)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - 3 xícaras de chá de leite (720 ml)
 - 4 ovos médios

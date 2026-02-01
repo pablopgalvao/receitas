@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite (15 ml)
-- 1/2 pacote de creme de cebola (25 gramas)
+- ½ pacote de creme de cebola (25 gramas)
 - 1 colher de café de açafrão em pó
 - 1 colher de café de páprica picante
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - 1 colher de sopa (cheia) de requeijão
 - Salsinha a gosto
 - 2 ovos batidos

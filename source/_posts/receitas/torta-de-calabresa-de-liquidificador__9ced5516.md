@@ -32,7 +32,7 @@ flags: []
 - 1 cebola média
 - 2 tomates médios
 - 2 colheres de sopa de azeite
-- 1/4 de colher de sopa sal (ou a gosto)
+- ¼ de colher de sopa sal (ou a gosto)
 - --
 
 ---

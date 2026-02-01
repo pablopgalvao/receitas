@@ -32,12 +32,12 @@ flags: []
 - 800 gramas camarão limpo
 - Suco de 1 limão (3 colheres de sopa)
 - 2 dentes de alho pequenos
-- 1/4 colher de chá de pimenta (ou a gosto)
+- ¼ colher de chá de pimenta (ou a gosto)
 - 4 colheres de sopa de manteiga ou margarina
 - 4 colheres de sopa de farinha de trigo
 - 800 ml de leite gelado
 - 1 colher de chá de sal
-- 1/4 colher de chá de noz-moscada (ou a gosto)
+- ¼ colher de chá de noz-moscada (ou a gosto)
 - 1 maço de espinafre cozido e picado
 - 400 gramas de queijo mussarela
 - --

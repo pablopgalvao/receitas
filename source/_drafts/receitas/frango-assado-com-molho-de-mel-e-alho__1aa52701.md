@@ -30,8 +30,8 @@ flags: []
 
 - 1 colher de sopa azeite
 - 4 dentes de alho amassados
-- 1/4 de xícara de chá de molho de soja
-- 1/2 xícara de chá de mel
+- ¼ de xícara de chá de molho de soja
+- ½ xícara de chá de mel
 - 1 xícara de chá de água
 - 1 colher de sopa (rasa) de amido de milho
 - --

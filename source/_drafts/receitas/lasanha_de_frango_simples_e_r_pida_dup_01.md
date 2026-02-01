@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de peito de frango cozido e desfiado
 - 2 sachês de molho de tomate (480 ml)
-- 1/2 xícara de chá de azeitonas fatiadas
+- ½ xícara de chá de azeitonas fatiadas
 - 1 pacote de massa de lasanha fresca (500 gramas)
 - 300 gramas de presunto
 - 300 gramas de mussarela

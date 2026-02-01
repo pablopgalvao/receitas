@@ -39,7 +39,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícaras (chá) de água
-- 1/2 xícara (chá) de polvilho azedo (ou goma de mandioca)
+- ½ xícara (chá) de polvilho azedo (ou goma de mandioca)
 - 1 colher (chá) de sal
 - 500 g de camarão salgado (seco)
 - 4 folhas de chicória

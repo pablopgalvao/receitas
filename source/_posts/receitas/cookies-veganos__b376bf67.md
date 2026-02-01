@@ -36,7 +36,7 @@ flags: []
 - 2 colheres de sopa de coco ralado
 - 1 colheres de sopa de chia
 - 2 colheres de sopa de farinha de arroz
-- 1/2 xícara de chocolate vegano picado
+- ½ xícara de chocolate vegano picado
 - --
 
 ---

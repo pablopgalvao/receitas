@@ -33,8 +33,8 @@ flags: []
 - 2 caixinhas de creme de leite (400 gramas)
 - 2 caixinhas de leite condensado (790 gramas)
 - 1 xícara de chá de suco de maracujá (240 ml)
-- 1/4 de xícara de chá de água fria (50 ml)
-- 1/2 colher de sopa rasa de gelatina em pó sem sabor (6 gramas)
+- ¼ de xícara de chá de água fria (50 ml)
+- ½ colher de sopa rasa de gelatina em pó sem sabor (6 gramas)
 - --
 
 ---

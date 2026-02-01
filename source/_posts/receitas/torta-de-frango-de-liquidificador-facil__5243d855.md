@@ -30,11 +30,11 @@ flags: []
 
 - 4 ovos inteiros
 - 300 ml de leite integral
-- 3/4 de xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de óleo (180 ml)
 - 2 dentes de alho descascados
-- 1/2 xícara de chá de amido de milho
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ xícara de chá de amido de milho
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

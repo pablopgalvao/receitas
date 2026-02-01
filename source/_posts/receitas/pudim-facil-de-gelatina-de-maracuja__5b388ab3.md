@@ -33,8 +33,8 @@ flags: []
 - 200 g de creme de leite
 - 400 g de leite condensado
 - 1 maracujá
-- 1/2 xícara de chá de água gelada
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de água gelada
+- ½ xícara de chá de açúcar
 - --
 
 ---

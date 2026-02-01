@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 2 e 1/2 colheres de sopa de açúcar
+- 1 e ½ xícara de chá de farinha de trigo
+- 2 e ½ colheres de sopa de açúcar
 - 1 pitada de sal
 - 1 pitada de canela em pó
 - 1 xícara de chá de leite
-- 2 e 1/2 colheres de sopa de óleo ou manteiga derretida
+- 2 e ½ colheres de sopa de óleo ou manteiga derretida
 - 2 colheres de chá de fermento químico em pó (fermento para bolo)
 - 1 pitada de bicarbonato de sódio
 - Óleo ou manteiga para untar

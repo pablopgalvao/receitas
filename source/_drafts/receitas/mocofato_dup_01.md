@@ -36,10 +36,10 @@ flags: []
 - 2 tomates médios (300 gramas)
 - 2 cebolas grandes (520 gramas)
 - 1 pimentão vermelho médio (190 gramas)
-- 1/2 xícara de chá de extrato de tomate (120 ml)
+- ½ xícara de chá de extrato de tomate (120 ml)
 - 1 colher de sopa de tempero baiano
-- 1 e 1/2 colher de sopa de sal
-- 1 e 1/2 colher de chá de pimenta-do-reino
+- 1 e ½ colher de sopa de sal
+- 1 e ½ colher de chá de pimenta-do-reino
 - 4 colheres de sopa de cheiro-verde
 - 1 colher de sopa de óleo
 - Higienize os legumes. Retire resíduos, lave e escalde o mocotó por 15 minutos com 1 xícara de vinagre para remover odores e impurezas. Repita o processo com o bucho. Caso ache necessário, coloque 2 folhas de louro para amenizar o odor. Junte os outros ingredientes;

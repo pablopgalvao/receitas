@@ -32,9 +32,9 @@ flags: []
 - 50 gramas de bacon
 - 150 gramas de linguiça calabresa (ou 1 gomo)
 - 150 gramas de paio (ou 1 gomo)
-- 250 gramas de ervilha seca (1 e 1/4 de xícara de chá)
+- 250 gramas de ervilha seca (1 e ¼ de xícara de chá)
 - Sal a gosto
-- 1/2 cebola (80 gramas)
+- ½ cebola (80 gramas)
 - 3 colheres de sopa de azeite
 - Retire os embutidos fritos da panela - reserve. Adicione as ervilhas secas, a água e o sal na mesma panela. Tampe e, assim que pegar pressão, reduza o fogo para baixo e deixe cozinhar por 12 minutos;
 - Desligue o fogo e espere a pressão sair naturalmente. Abra a panela e retorne com o bacon, a calabresa e o paio. Adicione o refogado com tomate, prove e ajuste o sal se necessário;

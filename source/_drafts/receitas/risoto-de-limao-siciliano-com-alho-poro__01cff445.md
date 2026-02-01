@@ -34,13 +34,13 @@ flags: []
 - 1 fio de azeite (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
 - 1 dente de alho
-- 1/2 cebola
-- 1/2 talo de alho-poró
+- ½ cebola
+- ½ talo de alho-poró
 - 1 xícara de chá de arroz arbóreo
 - 100 ml de vinho branco seco
 - 800 ml de caldo quente
 - 1 xícara de chá de queijo prato ralado
-- Suco de 1/2 limão-siciliano
+- Suco de ½ limão-siciliano
 - Raspas de limão-siciliano a gosto (para decorar)
 - --
 

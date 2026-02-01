@@ -31,9 +31,9 @@ flags: []
 - 1 kg de batatas
 - 1 colher de sopa de manteiga (20 gramas)
 - 2 colheres de sopa de queijo parmesão ralado (20 gramas)
-- 1/3 de xícara e 1 colher de sopa de leite (100 ml)
-- 2 e 1/2 colheres de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ⅓ de xícara e 1 colher de sopa de leite (100 ml)
+- 2 e ½ colheres de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 15 ml de azeite
 - --
 

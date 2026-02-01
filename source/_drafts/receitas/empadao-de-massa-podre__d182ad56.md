@@ -60,7 +60,7 @@ flags: []
 5. Finalize o recheio com o creme de leite e cheiro-verde picado. Misture, desligue o fogo e reserve até esfriar completamente;
 6. Para a massa, misture a farinha e o sal em uma tigela grande. Adicione a manteiga em ponto de pomada e incorpore com as pontas dos dedos até formar uma massa homogênea e moldável;
 7. Modele em forma de bola, envolva em plástico-filme e leve à geladeira por 30 minutos;
-8. Divida a massa em duas partes: 2/3 para a base e 1/3 para a cobertura;
+8. Divida a massa em duas partes: ⅔ para a base e ⅓ para a cobertura;
 9. Abra a parte maior da massa entre dois plásticos e forre o fundo e as laterais de uma forma de fundo removível.
 10. Coloque o recheio já frio sobre a base de massa. Distribua o catupiry sobre o recheio em camada uniforme;
 11. Salpique a mussarela ralada por cima do catupiry;

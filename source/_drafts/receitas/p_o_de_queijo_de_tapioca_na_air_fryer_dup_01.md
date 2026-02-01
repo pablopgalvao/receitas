@@ -31,7 +31,7 @@ flags: []
 
 - 2 xícaras de chá de tapioca (goma hidratada) (300 gramas)
 - 2 colheres de sopa (bem cheias) de requeijão cremoso (100 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 100 gramas de queijo mussarela ralado
 - 50 gramas de queijo parmesão ralado
 - Em um recipiente grande, adicione a tapioca hidratada, o requeijão cremoso, o sal e os queijos ralados;

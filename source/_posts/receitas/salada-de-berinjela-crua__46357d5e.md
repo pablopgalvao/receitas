@@ -37,7 +37,7 @@ flags: []
 - 2 tomates picadinhos
 - 1 cebola grande picada
 - 10 azeitonas picadas
-- 1/2 pimentão picado
+- ½ pimentão picado
 - Vinagre a gosto
 - Sal e pimenta-do-reino a gosto
 - Azeite a gosto

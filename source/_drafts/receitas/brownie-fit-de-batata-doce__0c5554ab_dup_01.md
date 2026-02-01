@@ -29,15 +29,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de purê de batata doce
-- 1/2 xícara de aveia em flocos grossos
-- 3/4 de xícara de açúcar cristal ou demerara
-- 1/2 xícara de cacau em pó
-- 1/4 colher de chá de sal
-- 1/3 de xícara de pasta de amêndoas
-- 1/2 colher de chá de extrato de baunilha
+- ½ xícara de aveia em flocos grossos
+- ¾ de xícara de açúcar cristal ou demerara
+- ½ xícara de cacau em pó
+- ¼ colher de chá de sal
+- ⅓ de xícara de pasta de amêndoas
+- ½ colher de chá de extrato de baunilha
 - 1 colher de chá de fermento em pó
-- 1/2 xícara de gotas de chocolate
-- 1/2 xícara de nozes pecan picadas
+- ½ xícara de gotas de chocolate
+- ½ xícara de nozes pecan picadas
 - --
 
 ---

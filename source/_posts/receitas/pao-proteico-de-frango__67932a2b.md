@@ -35,12 +35,12 @@ flags: []
 
 - 3 ovos
 - 1 colher de sopa de azeite
-- 1/2 colher de sopa de páprica defumada
-- 1/2 colher de chá de tomilho seco
+- ½ colher de sopa de páprica defumada
+- ½ colher de chá de tomilho seco
 - Sal e pimenta-do-reino a gosto
 - 150 gramas de frango cozido desfiado
 - Cebolinha a gosto
-- 1/2 colher de sopa de fermento em pó (fermento para bolo)
+- ½ colher de sopa de fermento em pó (fermento para bolo)
 - Tomate-cereja a gosto
 - Alecrim a gosto
 - Pimenta-calabresa a gosto

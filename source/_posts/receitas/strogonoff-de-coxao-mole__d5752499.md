@@ -30,17 +30,17 @@ flags: []
 
 - 500 gramas de coxão mole em tirinhas
 - 1 cebola pequena
-- 1 e 1/2 caixinha de creme de leite (300 gramas)
+- 1 e ½ caixinha de creme de leite (300 gramas)
 - 2 colheres de sopa de manteiga
 - 1 colher de sopa de azeite ou óleo
 - 1 pacote de champignon (170 gramas)
-- 1/2 xícara de molho de tomate
+- ½ xícara de molho de tomate
 - 3 colheres de sopa de ketchup
 - 1 colher de sopa de mostarda
 - 3 dentes de alho
 - 2 colheres de sopa de conhaque (opcional)
-- 1/2 xícara de chá de água (120 ml)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ xícara de chá de água (120 ml)
+- ½ colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
 - --
 

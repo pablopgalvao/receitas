@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de flocos de milho (120 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 xícaras de chá de água
 - 1 colher de sopa de óleo
 - 150 gramas de mussarela ralada

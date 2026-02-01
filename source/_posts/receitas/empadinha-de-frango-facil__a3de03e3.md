@@ -35,7 +35,7 @@ flags: []
 - 1 peito de frango cozido e desfiado
 - Sal e pimenta-do-reino a gosto
 - 1 colher de café de colorau
-- 1/2 sachê de molho de tomate pronto
+- ½ sachê de molho de tomate pronto
 - 3 colheres de sopa de cheiro-verde picado
 - --
 

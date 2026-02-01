@@ -32,7 +32,7 @@ flags: []
 - Azeite a gosto
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de manteiga
-- 1/3 de xícara de chá de água
+- ⅓ de xícara de chá de água
 - Sal a gosto
 - Cheiro-verde picado a gosto
 - 2 xícaras de chá de leite

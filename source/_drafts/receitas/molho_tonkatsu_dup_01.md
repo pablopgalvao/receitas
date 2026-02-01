@@ -33,9 +33,9 @@ flags: []
 - 1 colher de sopa de molho inglês
 - 1 colher de chá de shoyu
 - 1 colher de chá de mirin
-- 1/2 colher de chá de gengibre ralado
-- 1/2 colher de chá de alho moído
-- 1/2 colher de chá de açúcar
+- ½ colher de chá de gengibre ralado
+- ½ colher de chá de alho moído
+- ½ colher de chá de açúcar
 - 1 colher de chá de mel
 - Acrescente também o mirin, o gengibre ralado, o alho moído, o açúcar e o mel;
 - Em seguida, misture tudo muito bem com uma colher até obter um molho homogêneo e brilhante;

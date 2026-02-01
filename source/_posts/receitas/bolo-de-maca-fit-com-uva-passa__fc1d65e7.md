@@ -38,7 +38,7 @@ flags: []
 - 1 colher de sopa de mix de especiarias
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 2 maçãs
-- 1/2 xícara de chá de uvas-passas
+- ½ xícara de chá de uvas-passas
 - --
 
 ---

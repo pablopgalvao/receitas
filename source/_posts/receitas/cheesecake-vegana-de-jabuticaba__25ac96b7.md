@@ -30,15 +30,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de oleaginosas
+- ½ xícara de oleaginosas
 - 10 biscoitos de arroz integral
-- 1/2 xícara de uva-passa branca
+- ½ xícara de uva-passa branca
 - Água a gosto
 - 100 gramas de tofu firme
-- Suco de 1/2 limão-taiti
+- Suco de ½ limão-taiti
 - 1 colher de sopa de essência de baunilha
 - 1 banana madura
-- 1/4 de xícara de açúcar demerara
+- ¼ de xícara de açúcar demerara
 - 1 colher de sopa de polvilho doce
 - 4 colheres de sopa de geleia de jabuticaba
 - --

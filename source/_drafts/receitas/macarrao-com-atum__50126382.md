@@ -37,7 +37,7 @@ flags: []
 - 5 dentes de alho
 - Salsa a gosto
 - 2 latas de atum (340 gramas)
-- 1/2 xícara de chá de vinho branco (120 ml)
+- ½ xícara de chá de vinho branco (120 ml)
 - Água para cozimento
 - Sal a gosto
 - Pimenta-do-reino a gosto

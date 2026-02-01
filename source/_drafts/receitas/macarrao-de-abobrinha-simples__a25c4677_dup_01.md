@@ -32,8 +32,8 @@ flags: []
 
 - 2 abobrinhas
 - 1 colher de sopa de azeite
-- 1/2 cebola picada
-- 1/2 cenoura picada
+- ½ cebola picada
+- ½ cenoura picada
 - 1 dente de alho picado
 - 1 lata de molho de tomate
 - 1 lata de água

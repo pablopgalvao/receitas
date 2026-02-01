@@ -33,7 +33,7 @@ flags: []
 - 400 gramas de frango cozido e desfiado
 - 6 xícaras de chá de caldo do cozimento do frango (1,5 litro)
 - Sal a gosto
-- 1 e 1/2 xícara de chá de macarrão de sua preferência (150 gramas)
+- 1 e ½ xícara de chá de macarrão de sua preferência (150 gramas)
 - Cebolinha a gosto
 - Depois, junte o frango desfiado, as batatas, a cenoura, o caldo do cozimento do frango e tempere com sal;
 

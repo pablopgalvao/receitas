@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída (usamos patinho)
-- 1/8 de colher de chá de pimenta-do-reino
+- ⅛ de colher de chá de pimenta-do-reino
 - 1 colher de chá de sal
-- 1/2 cebola-roxa
+- ½ cebola-roxa
 - 2 colheres de sopa de cheiro-verde picado (usamos salsinha, cebolinha e hortelã)
-- 1/4 de colher de chá de pimenta síria
-- 1/2 colher de chá de coentro em pó
+- ¼ de colher de chá de pimenta síria
+- ½ colher de chá de coentro em pó
 - 1 colher de sopa de azeite
 - --
 

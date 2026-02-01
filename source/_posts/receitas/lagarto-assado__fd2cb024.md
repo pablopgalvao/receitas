@@ -46,7 +46,7 @@ flags: []
 2. Coloque o lagarto em cima de uma tábua e, com uma faca, faça cuidadosamente um furo no centro da peça, que vá de uma extremidade até a outra;
 3. Depois, retire a pele da linguiça calabresa e encaixe-a na cavidade do lagarto;
 4. Para temperar a carne, você vai preparar uma pastinha. Em um recipiente, misture a manteiga, o alho, o sal e o manjericão;
-5. Deixe o lado com a capa de gordura virada para baixo na tigela. Com uma colher ou espátula, espalhe 2/3 da pastinha de alho pela parte da carne, sem passar na gordura. Coloque um pouco da pastinha dentro da cavidade também;
+5. Deixe o lado com a capa de gordura virada para baixo na tigela. Com uma colher ou espátula, espalhe ⅔ da pastinha de alho pela parte da carne, sem passar na gordura. Coloque um pouco da pastinha dentro da cavidade também;
 6. Descasque e corte as cebolas ao meio;
 7. Lave as batatas para tirar toda a sua sujeira. Nessa receita, utilizaremos as batatas descascadas, mas você também pode utilizá-las com casca.
 8. Disponha 8 partes de cebolas, com a parte cortada virada para cima, em uma forma - você vai fazer uma cama de cebolas para a carne não encostar na forma. Em seguida, acomode a carne por cima das cebolas, com a capa de gordura virada para baixo;

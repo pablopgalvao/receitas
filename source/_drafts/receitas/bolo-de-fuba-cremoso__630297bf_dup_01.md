@@ -33,7 +33,7 @@ flags: []
 - 3 xícaras de chá de açúcar
 - 50 gramas de queijo parmesão ralado
 - 1 pitada de sal
-- 1 e 1/2 xícara de chá de fubá
+- 1 e ½ xícara de chá de fubá
 - 2 colheres de sopa de farinha de trigo
 - 2 colheres de sopa de margarina
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

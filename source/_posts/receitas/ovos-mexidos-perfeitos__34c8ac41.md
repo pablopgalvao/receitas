@@ -30,7 +30,7 @@ flags: []
 
 - 3 ovos batidos
 - 1 pitada de sal
-- 1/2 colher de chá de manteiga
+- ½ colher de chá de manteiga
 - --
 
 ---

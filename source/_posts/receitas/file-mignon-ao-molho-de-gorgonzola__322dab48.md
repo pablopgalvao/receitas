@@ -35,7 +35,7 @@ flags: []
 - 300 gramas de creme de leite fresco
 - 200 gramas de queijo gorgonzola
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 ramo de alecrim
 - --
 

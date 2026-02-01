@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 kg de mocotó limpo
-- 1/2 xícara de chá de vinagre
+- ½ xícara de chá de vinagre
 - 3 colheres de sopa de óleo
 - 3 cebolas
 - 4 tomates (300 gramas)
@@ -42,7 +42,7 @@ flags: []
 - 4 dentes de alho
 - 4 colheres de sopa de cheiro-verde picado (ou a gosto)
 - 1 colher de café de pimenta calabresa
-- 1/2 cenoura pequena
+- ½ cenoura pequena
 - 2 colheres de sopa de sal (ou a gosto)
 - --
 

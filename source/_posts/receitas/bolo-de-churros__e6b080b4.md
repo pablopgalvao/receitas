@@ -32,13 +32,13 @@ flags: []
 - 3 ovos
 - 2 colheres de chá de canela em pó
 - 2 colheres de chá de essência baunilha
-- 1/2 xícara de chá de óleo (ou manteiga em temperatura ambiente)
-- 1 e 1/2 xícara de chá de açúcar (ou demerara)
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 3/4 de xícara de chá de água ou leite
+- ½ xícara de chá de óleo (ou manteiga em temperatura ambiente)
+- 1 e ½ xícara de chá de açúcar (ou demerara)
+- 1 e ½ xícara de chá de farinha de trigo
+- ¾ de xícara de chá de água ou leite
 - 1 colher de sopa de fermento em pó
 - 1 colher de sopa de açúcar refinado (para finalizar)
-- 1/2 colher de chá de canela em pó (para finalizar)
+- ½ colher de chá de canela em pó (para finalizar)
 - Doce de leite pastoso ou bem cremoso (para finalizar)
 - --
 

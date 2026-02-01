@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 600 gramas de carne moída
-- 1/2 cebola picada
+- ½ cebola picada
 - 3 dentes de alho picados
 - Salsinha a gosto
 - Sal e pimenta-do-reino a gosto

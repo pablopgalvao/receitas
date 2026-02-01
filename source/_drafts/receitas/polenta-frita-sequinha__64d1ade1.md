@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite (ou a gosto)
-- 1/2 cebola
+- ½ cebola
 - 1 tablete de caldo de galinha (ou outro de sua preferência)
 - 1 colher de chá de pimenta-do-reino
 - 1 litro de água fria

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas de frango cozido e desfiado
-- 1/2 cebola cortada em cubinhos (80 gramas)
+- ½ cebola cortada em cubinhos (80 gramas)
 - 1 dente de alho picado
 - 1 tomate picado (115 gramas)
 - Pimenta-do-reino ou outros temperos a gosto

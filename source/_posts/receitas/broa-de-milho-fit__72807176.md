@@ -28,15 +28,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de farinha de milho
-- 1/2 xícara de chá de farinha de amêndoas
-- 1/2 xícara de chá de farinha de arroz
+- ½ xícara de chá de farinha de milho
+- ½ xícara de chá de farinha de amêndoas
+- ½ xícara de chá de farinha de arroz
 - 2 colheres de sopa de linhaça hidratada
 - 3 colheres de sopa de xilitol
 - 100ml de leite de coco
 - 1 colher de sopa de óleo de coco
 - 3 colheres de sopa de semente de erva-doce
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

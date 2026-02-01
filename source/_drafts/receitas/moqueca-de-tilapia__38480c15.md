@@ -42,7 +42,7 @@ flags: []
 - Suco de 1 limão
 - 2 colheres de sopa de coentro fresco picado (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1 e 1/2 colher de sopa de sal (ou a gosto)
+- 1 e ½ colher de sopa de sal (ou a gosto)
 - --
 
 ---

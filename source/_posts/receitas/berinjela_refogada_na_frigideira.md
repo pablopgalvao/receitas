@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 berinjela grande (300 gramas)
-- 1/2 colher de chá de sal ou a gosto
-- 1/2 colher de chá de pimenta-do-reino ou a gosto
+- ½ colher de chá de sal ou a gosto
+- ½ colher de chá de pimenta-do-reino ou a gosto
 - 3 colheres de sopa de amido de milho (25 gramas)
 - 1 colher de sopa de amido de milho (10 gramas)
 - 2 colheres de sopa de shoyu (30 ml)
-- 1/2 xícara de chá de água (100 ml)
+- ½ xícara de chá de água (100 ml)
 - Tempere os cubos de berinjela com sal e pimenta-do-reino a gosto. Passe-os no amido de milho, envolvendo bem cada pedaço;
 - Em um recipiente separado, dissolva a 1 colher de sopa de amido de milho com o shoyu e a água, formando um molho uniforme;
 - Na frigideira, adicione 3 colheres de sopa de azeite e refogue os dentes de alho picados até dourarem levemente;

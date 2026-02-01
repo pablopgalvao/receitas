@@ -34,7 +34,7 @@ flags: []
 - 800 ml de leite
 - 2 ovos médios
 - 1 colher de sopa de canela em pó
-- 1/2 colher de sopa de cravo triturado
+- ½ colher de sopa de cravo triturado
 - Quando eles estiverem hidratados, quebre os ovos em um potinho separado e junte na bacia com os pães. Adicione o açúcar, a canela em pó e o cravo triturado. Mexa bastante com uma espátula até obter uma massa homogênea;
 - Quando estiver completamente assado, retire do forno e espere amornar. Desenforme e, se desejar, polvilhe açúcar de confeiteiro ou a canela em pó por cima. Sirva e bom apetite!
 

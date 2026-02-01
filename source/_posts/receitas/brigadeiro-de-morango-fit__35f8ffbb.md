@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de morangos congelados picados
+- ½ xícara de chá de morangos congelados picados
 - 1 caixa de creme de leite zero lactose ou vegetal (200 gramas)
 - 1 xícara de chá de leite em pó zero lactose ou vegetal (100 gramas)
 - 6 gotas de adoçante (ou a gosto)

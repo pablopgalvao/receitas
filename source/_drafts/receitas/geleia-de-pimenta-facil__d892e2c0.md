@@ -32,7 +32,7 @@ flags: []
 - 3 pimentas dedo-de-moça
 - 1 maçã
 - Suco de 1 limão
-- 1/3 de xícara de chá de água (80 ml)
+- ⅓ de xícara de chá de água (80 ml)
 - 1 xícara de chá de açúcar (220 gramas)
 - --
 
@@ -42,7 +42,7 @@ flags: []
 
 1. Junte todos os ingredientes em sua bancada;
 2. Descasque a maçã, retire as sementes e corte-a em cubos médios. Lave as pimentas, retire os cabinhos e corte-as em pedaços pequenos;
-3. Em um liquidificador ou processador, adicione a maçã, o suco do limão, a água e cerca de 1/3 das pimentas picadas. Bata até formar uma pasta homogênea;
+3. Em um liquidificador ou processador, adicione a maçã, o suco do limão, a água e cerca de ⅓ das pimentas picadas. Bata até formar uma pasta homogênea;
 4. Transfira a pasta para uma panela e adicione o açúcar. Leve ao fogo baixo, mexendo até o açúcar se dissolver por completo;
 5. Acrescente o restante das pimentas e mantenha em fogo baixo, mexendo de vez em quando, até reduzir e atingir ponto de geleia. O tempo pode variar, observe a consistência e desligue quando estiver espessa e brilhante;
 6. Deixe amornar e transfira para um recipiente esterilizado. Sirva em seguida ou mantenha refrigerado!

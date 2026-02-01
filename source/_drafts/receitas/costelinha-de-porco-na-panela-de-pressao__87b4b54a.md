@@ -31,7 +31,7 @@ flags: []
 - 1,5 kg de costelinha suína bem carnuda
 - 3 dentes de alho picados ou amassados
 - 1 cebola grande picada em tamanho médio (ou 2 cebolas pequenas)
-- 1/2 pimentão vermelho cortado em cubos médios
+- ½ pimentão vermelho cortado em cubos médios
 - 1 talo de salsão cortado em cubos médios
 - 2 colheres de sopa de extrato de tomate
 - 1 colher de sopa de colorau (ou a gosto)
@@ -41,7 +41,7 @@ flags: []
 - 3 folhas de louro
 - 2 tomates grandes sem sementes e cortados em cubos médios (ou 3 pequenos)
 - 50 ml de shoyu
-- 1/2 lata de cerveja Pilsen (175 ml)
+- ½ lata de cerveja Pilsen (175 ml)
 - 2 colheres de sopa de cebolinha (ou a gosto)
 - --
 

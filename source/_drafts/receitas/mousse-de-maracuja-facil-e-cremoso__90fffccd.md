@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 colher de sopa de amido de milho
 - 3 colheres de sopa de suco de maracujá natural (apenas a poupa coada)
 - 3 colheres de sopa de açúcar

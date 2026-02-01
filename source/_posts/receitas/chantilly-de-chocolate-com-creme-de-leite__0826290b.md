@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/3 de xícara de chá de chocolate meio amargo 55% (200 gramas)
+- 1 e ⅓ de xícara de chá de chocolate meio amargo 55% (200 gramas)
 - 2 xícaras de chá de creme de leite fresco (480 gramas)
-- 1/4 de xícara de chá de cacau em pó (25 gramas)
+- ¼ de xícara de chá de cacau em pó (25 gramas)
 - --
 
 ---

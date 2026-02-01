@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 avocados pequenos
-- 1/4 de cebola-roxa
+- ¼ de cebola-roxa
 - 1 tomate médio
-- 1/2 pimenta dedo-de-moça
+- ½ pimenta dedo-de-moça
 - 2 colheres de sopa de cebolinha picada
 - Suco de 1 limão
-- 1/4 de colher de chá de sal
+- ¼ de colher de chá de sal
 - 1 colher de sopa de azeite de oliva
 - 1 xícara de chá de milho cozido (150 gramas)
 - 1 xícara de chá de arroz cozido (150 gramas)

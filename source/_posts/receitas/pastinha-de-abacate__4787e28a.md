@@ -33,8 +33,8 @@ flags: []
 - 300 gramas de abacate
 - 50 gramas de castanha-de-caju
 - 4 colheres de sopa de pasta de tofu
-- 1/2 xícara de azeite
-- 1/2 limão espremido
+- ½ xícara de azeite
+- ½ limão espremido
 - Sal a gosto
 - Manjericão, hortelã e coentro a gosto
 - --

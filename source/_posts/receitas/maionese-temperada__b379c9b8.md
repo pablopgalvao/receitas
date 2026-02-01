@@ -31,9 +31,9 @@ flags: []
 - 3 ovos médios inteiros
 - 500 ml de óleo vegetal
 - 2 dentes de alho
-- 1/2 maço de salsinha
-- 1/2 maço de cebolinha
-- 1/2 limão espremido
+- ½ maço de salsinha
+- ½ maço de cebolinha
+- ½ limão espremido
 - 1 colher de café de sal (ou a gosto)
 - --
 

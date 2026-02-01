@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 3/4 xícara de chá de leite integral (500 ml)
+- 1 e ¾ xícara de chá de leite integral (500 ml)
 - 1 caixa de leite condensado (395 gramas)
 - 1 colher de chá de essência de baunilha (25 ml)
-- 1/2 caixa de leite condensado (197 gramas)
+- ½ caixa de leite condensado (197 gramas)
 - 1 caixa de creme de leite (200 gramas)
 - 2 colheres de sopa de leite em pó (38 gramas)
 - 1 xícara de chá de açúcar (200 gramas)

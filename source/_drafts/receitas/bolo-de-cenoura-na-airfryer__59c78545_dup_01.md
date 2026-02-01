@@ -30,7 +30,7 @@ flags: []
 
 - 3 colheres de sopa de açúcar refinado (45 gramas)
 - 2 colheres de sopa de chocolate em pó (20 gramas)
-- 1/2 colher de sopa de manteiga (10 gramas)
+- ½ colher de sopa de manteiga (10 gramas)
 - 2 colheres de sopa de leite (30 ml)
 - --
 

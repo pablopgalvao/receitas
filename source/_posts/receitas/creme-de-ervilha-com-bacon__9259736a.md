@@ -30,12 +30,12 @@ flags: []
 
 - 2 xícaras de chá de ervilha seca (350 gramas)
 - 250 gramas de bacon
-- 1/2 cebola média (60 gramas)
+- ½ cebola média (60 gramas)
 - 2 dentes de alho
 - 8 xícaras de chá de água para cozinhar (2 litros)
 - 2 folhas de louro
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de azeite para regar
 - --
 

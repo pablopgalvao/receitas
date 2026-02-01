@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de açúcar (240 gramas)
-- 1/2 xícara de chá de óleo (110 ml)
+- 1 e ½ xícara de chá de açúcar (240 gramas)
+- ½ xícara de chá de óleo (110 ml)
 - 1 pitada de sal
 - 1 colher de chá de essência de baunilha
-- 1 e 1/3 xícara de chá de farinha de trigo (180 gramas)
+- 1 e ⅓ xícara de chá de farinha de trigo (180 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 2/3 xícara de chá de leite morno (140 ml)
+- ⅔ xícara de chá de leite morno (140 ml)
 - Quebre os ovos, um por um, em uma xícara para verificar se não estão estragados. Peneire os ingredientes secos. Preaqueça o forno a 180 ºC;
 - Em um recipiente, coloque os ovos e bata por 1 minuto com um fuê (batedor de bolos) ou garfo;
 - Adicione o açúcar. Bata por mais 1 minuto;

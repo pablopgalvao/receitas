@@ -29,16 +29,16 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de abobrinha italiana ralada (ralada mais grossinha)
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de abobrinha italiana ralada (ralada mais grossinha)
+- 1 e ½ xícara de chá de farinha de trigo
 - 2 colheres de chá de fermento químico em pó
-- 1/4 de colher de chá de bicarbonato de sódio
-- 1/2 colher de chá de sal
+- ¼ de colher de chá de bicarbonato de sódio
+- ½ colher de chá de sal
 - Pimenta-do-reino a gosto (opcional)
 - 2 raminhos de tomilho fresco (opcional)
 - 2 ovos
-- 1/2 xícara de chá de óleo
-- 3/4 de xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de óleo
+- ¾ de xícara de chá de queijo parmesão ralado
 - --
 
 ---

@@ -31,7 +31,7 @@ flags: []
 
 - 2 caixas de leite condensado (790 gramas)
 - 1 caixa de creme de leite (200 gramas)
-- 1/2 xícara de chá de leite em pó (40 gramas)
+- ½ xícara de chá de leite em pó (40 gramas)
 - 2 colheres de sopa de manteiga
 - 200 gramas de chocolate em barra ou callets (ao leite ou meio amargo)
 - 6 morangos (140 gramas)

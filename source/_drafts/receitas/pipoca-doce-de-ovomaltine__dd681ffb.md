@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de óleo
-- 1/2 xícara de chá de pipoca
-- 1/2 xícara de chá de água
+- ½ xícara de chá de pipoca
+- ½ xícara de chá de água
 - 1 xícara de chá de açúcar
 - 1 colher de sopa de manteiga (ou margarina)
-- 1/2 xícara de chá de Ovomaltine
+- ½ xícara de chá de Ovomaltine
 - --
 
 ---

@@ -36,8 +36,8 @@ flags: []
 - 1 tomate médio
 - 1 cubo de caldo de legumes
 - 1,5 litros de água
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
 - 2 colheres de sopa de azeite (ou a gosto)
 - --

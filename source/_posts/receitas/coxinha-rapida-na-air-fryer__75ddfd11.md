@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de batata-inglesa
-- 1/2 colher de sopa de sal para cozinhar as batatas (ou a gosto)
+- ½ colher de sopa de sal para cozinhar as batatas (ou a gosto)
 - 300 gramas de frango desfiado cozido e temperado
 - 1 colher de chá de sal (ou a gosto)
 - 100 gramas de requeijão light para rechear (ou a gosto)
@@ -43,7 +43,7 @@ flags: []
 2. Descasque as batatas e corte-as em quatro partes. Coloque as batatas com sal em uma panela, cubra com água e leve ao fogo alto. Cozinhe por 12 minutos após levantar fervura ou até as batatas ficarem macias;
 3. Depois, escorra as batatas, coloque-as em uma tigela e amasse-as até virar um purê lisinho;
 4. Junte o frango desfiado com o purê de batata, misturando até incorporar e virar uma massa. Prove o sabor e acerte o sal se necessário. Preaqueça a air fryer a 200 ºC;
-5. Pegue uma porção de cerca de 35 gramas, molde com as mãos em formato de disco e recheie com uma pequena porção de requeijão. Não coloque muito, senão vaza quando for assar - no máximo, 1/2 colher de chá;
+5. Pegue uma porção de cerca de 35 gramas, molde com as mãos em formato de disco e recheie com uma pequena porção de requeijão. Não coloque muito, senão vaza quando for assar - no máximo, ½ colher de chá;
 6. Feche a massa e molde em formato de coxinha. Repita o mesmo com o restante dos ingredientes;
 7. Coloque as coxinhas na air fryer preaquecida e asse por 15 minutos, ou até dourar levemente. Deixe as coxinhas espaçadas no cesto, sem sobrepor. Faça esse processo em etapas;
 8. E estão prontas! Sirva com uma maionese caseira de ovo cozido e aproveite com essa delícia.

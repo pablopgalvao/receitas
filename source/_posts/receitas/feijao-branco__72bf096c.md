@@ -50,7 +50,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna todos os ingredientes;
-2. Lave o feijão-branco em água corrente, transfira para um recipiente grande, cubra com água (cerca de dois dedos acima do grão), esprema 1/2 limão, tampe e leve para a geladeira de um dia para o outro;
+2. Lave o feijão-branco em água corrente, transfira para um recipiente grande, cubra com água (cerca de dois dedos acima do grão), esprema ½ limão, tampe e leve para a geladeira de um dia para o outro;
 3. Troque a água pelo menos uma vez e esprema a outra metade do limão;
 4. Escorra a água e coloque o feijão na panela de pressão;
 5. Adicione as folhas de louro, cubra com 2 litros de água, tampe, leve para o fogo alto e deixe pegar pressão;

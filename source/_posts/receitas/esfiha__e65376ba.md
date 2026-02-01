@@ -31,7 +31,7 @@ flags: []
 - 310 gramas de farinha de trigo
 - 5 gramas de fermento biológico seco
 - 3 colheres de sopa (rasa) de açúcar
-- 1/2 colher de chá (rasa) de sal
+- ½ colher de chá (rasa) de sal
 - 2 colheres de sopa de manteiga
 - 1 colher de sopa de óleo
 - 150 ml de água

@@ -35,12 +35,12 @@ flags: []
 - 1 cebola grande cortada em cubinhos
 - 3 a 4 dentes de alho picados
 - 1 xícara de chá de feijão-preto com 12 horas de demolho na água (200 gramas)
-- 1 litro e 1/2 de água (6 xícaras de chá de 250 ml)
-- 1/2 chuchu descascado e picado rusticamente
+- 1 litro e ½ de água (6 xícaras de chá de 250 ml)
+- ½ chuchu descascado e picado rusticamente
 - 1 cenoura pequena cortada em rodelas diagonais
 - 1 batata-doce pequena cortada em rodelas
 - 1 laranja inteira
-- 1/2 pimenta-dedo-de-moça
+- ½ pimenta-dedo-de-moça
 - --
 
 ---
@@ -55,5 +55,5 @@ flags: []
 6. Enquanto isso, em uma frigideira, esquente 1 fio de óleo e grelhe os legumes. Reserve;
 7. Corte a laranja em rodelas e coloque-as para cozinhar com o feijão;
 8. Junte a pimenta-dedo-de-moça e misture bem;
-9. Assim que o feijão cozinhar e o caldo engrossar, retire as rodelas de laranja, adicione os legumes grelhados, o tofu frito, 1/2 xícara de água, misture e deixe cozinhar por mais 10 minutos;
+9. Assim que o feijão cozinhar e o caldo engrossar, retire as rodelas de laranja, adicione os legumes grelhados, o tofu frito, ½ xícara de água, misture e deixe cozinhar por mais 10 minutos;
 10. Sirva esse preparo mais que saboroso e aproveite. Bom apetite!

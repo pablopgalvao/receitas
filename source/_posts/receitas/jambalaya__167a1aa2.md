@@ -37,11 +37,11 @@ flags: []
 - 3 dentes de alho
 - 3 talos de aipo (salsão)
 - 1 pimentão vermelho pequeno
-- 1/2 pimenta-dedo-de-moça
+- ½ pimenta-dedo-de-moça
 - 7 colheres de sopa de manteiga (85 gramas)
 - 2 galhos de tomilho fresco
-- 1/2 colher de chá de pimenta-caiena
-- 1/2 colher de chá de semente de cominho
+- ½ colher de chá de pimenta-caiena
+- ½ colher de chá de semente de cominho
 - 1 colher de sopa de sal (ou a gosto)
 - 2 colheres de sopa de azeite (15 ml)
 - 2 colheres de sopa de cebolinha e salsa picada

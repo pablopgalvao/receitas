@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de berinjela cortada em cubos médios
-- 1 e 1/2 xícara de chá de água
+- 1 e ½ xícara de chá de água
 - 1 cebola média cortada em tiras
 - 1 pimentão vermelho pequeno cortado em tiras
 - 3 dentes de alho amassados
@@ -37,7 +37,7 @@ flags: []
 - 4 colheres de sopa de vinagre
 - 1 colher de café de pimenta-do-reino
 - 1 xícara de chá de azeitona preta sem caroço
-- 1/2 xícara de chá de cheiro-verde
+- ½ xícara de chá de cheiro-verde
 - 5 colheres de sopa de azeite
 - --
 

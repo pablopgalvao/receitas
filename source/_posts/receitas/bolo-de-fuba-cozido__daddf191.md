@@ -31,7 +31,7 @@ flags: []
 - 2 xícaras de chá de fubá mimoso (280 gramas)
 - 2 xícaras de chá de açúcar (300 gramas)
 - 2 xícaras de chá de leite (480 ml)
-- 3/4 xícara de chá de óleo (180 ml)
+- ¾ xícara de chá de óleo (180 ml)
 - 3 ovos médios
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

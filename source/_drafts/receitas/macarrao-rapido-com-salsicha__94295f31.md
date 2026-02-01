@@ -35,8 +35,8 @@ flags: []
 - 1 caixa de creme de leite
 - Salsinha picada a gosto
 - 500 ml de água
-- 1/2 colher de sopa de sal
-- 1/2 cebola picada
+- ½ colher de sopa de sal
+- ½ cebola picada
 - 1 folha de louro
 - 1 colher de sopa de azeite
 - --

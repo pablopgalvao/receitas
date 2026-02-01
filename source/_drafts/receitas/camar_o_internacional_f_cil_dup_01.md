@@ -33,7 +33,7 @@ flags: []
 - Sal a gosto
 - 3 colheres de sopa (cheias) de manteiga
 - 01 colher de sopa de óleo ou azeite
-- 1/2 lata de ervilha (85 gramas)
+- ½ lata de ervilha (85 gramas)
 - 150 gramas de presunto em cubos
 - 250 gramas de mussarela ralada
 - 150 gramas de queijo mussarela em fatias

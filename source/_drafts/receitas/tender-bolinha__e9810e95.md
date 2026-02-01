@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 pimentas dedo-de-moça (20 gramas)
-- 1/2 maçã grande
+- ½ maçã grande
 - 1 dente de alho
 - 2 limões grandes (60 ml de suco de limão)
 - 1 xícara de chá de açúcar
-- 1/2 xícara de chá de água
-- 1/2 colher de chá de sal
+- ½ xícara de chá de água
+- ½ colher de chá de sal
 - --
 
 ---

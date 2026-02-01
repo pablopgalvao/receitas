@@ -29,9 +29,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 garrafa de vinho tinto suave
-- 1/2 abacaxi sem o miolo
-- 1/2 lata de leite condensado
+- ½ garrafa de vinho tinto suave
+- ½ abacaxi sem o miolo
+- ½ lata de leite condensado
 - Gelo a gosto
 - --
 

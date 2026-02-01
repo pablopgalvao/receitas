@@ -30,8 +30,8 @@ flags: []
 
 - 2 ovos médios
 - 3 colheres de sopa de açúcar (70 gramas)
-- 1/2 copo de leite (125 ml)
-- 2 e 1/2 copos de farinha de trigo (280 gramas)
+- ½ copo de leite (125 ml)
+- 2 e ½ copos de farinha de trigo (280 gramas)
 - 1 pitada de sal
 - 1 colher de sopa rasa de fermento químico em pó (fermento para bolo)
 - --

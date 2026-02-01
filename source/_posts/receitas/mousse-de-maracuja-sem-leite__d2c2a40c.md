@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de castanha-de-caju crua (300 gramas)
-- 1/2 xícara de chá de açúcar demerara (100 gramas)
+- ½ xícara de chá de açúcar demerara (100 gramas)
 - 1 copo de suco concentrado de maracujá (180 ml)
 - Polpa de 1 maracujá azedo
 - --

@@ -31,10 +31,10 @@ flags: []
 
 - 10 bananas nanicas
 - 2 xícaras de chá de açúcar
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 2 cravos
 - 1 pau de canela
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

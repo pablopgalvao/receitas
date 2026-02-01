@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 180 gramas de chocolate 70% cacau picado (se preferir, misture metade 70% e a outra metade ao leite 50%) (1 xícara de chá)
-- 170 gramas de manteiga fria sem sal (1/2 e 1/3 de xícara de chá)
-- 50 gramas de cacau amargo em pó (1/4 xícara de chá)
+- 170 gramas de manteiga fria sem sal (½ e ⅓ de xícara de chá)
+- 50 gramas de cacau amargo em pó (¼ xícara de chá)
 - 150 gramas de açúcar (1 xícara de chá)
 - 4 ovos (gemas e claras separados) (médios)
 - 1 colher de chá de essência ou pasta de baunilha (15 ml)
-- 1 pitada de sal (1/4 colher de chá)
+- 1 pitada de sal (¼ colher de chá)
 - --
 
 ---

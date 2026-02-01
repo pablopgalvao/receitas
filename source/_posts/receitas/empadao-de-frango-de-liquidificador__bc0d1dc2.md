@@ -34,7 +34,7 @@ flags: []
 - 240 ml de manteiga derretida
 - 3 xícaras de chá de farinha de trigo
 - 1 colher de chá de açúcar
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de sopa de queijo parmesão ralado
 - 1 colher de sopa de fermento em pó para bolo
 - Catupiry a gosto

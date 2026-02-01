@@ -32,7 +32,7 @@ flags: []
 - 1 xícara de chá de farinha de trigo
 - 170 gramas de iogurte natural
 - 4 ovos
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de açúcar
 - 1 colher de sopa de queijo parmesão ralado (opcional)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

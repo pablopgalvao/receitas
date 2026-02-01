@@ -30,7 +30,7 @@ flags: []
 
 - 1 lata de leite condensado (395 gramas)
 - 2 latas de creme de leite (200 gramas cada)
-- 1/2 pacote de gelatina em pó sem sabor
+- ½ pacote de gelatina em pó sem sabor
 - 8 colheres de sopa de chocolate em pó
 - --
 

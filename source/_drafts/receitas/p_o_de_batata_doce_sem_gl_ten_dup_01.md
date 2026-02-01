@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de batata-doce descascada, picada e cozida
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 colher de chá de sal rasa
 - 1 pitada de orégano
-- 1/2 xícara de chá de farinha de arroz
-- 1/2 xícara de chá de aveia em flocos finos sem glúten
+- ½ xícara de chá de farinha de arroz
+- ½ xícara de chá de aveia em flocos finos sem glúten
 - 1 colher de sopa de fermento biológico seco
 - Coloque a água, os ovos, a batata amassada, o sal, o orégano, a farinha e a aveia no liquidificador, e bata até atingir uma mistura homogênea;
 

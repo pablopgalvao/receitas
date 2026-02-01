@@ -37,8 +37,8 @@ flags: []
 - 3 discos de Rap10
 - 200 gramas de frango desfiado
 - 2 colheres de sopa de requeijão cremoso
-- 1/2 cenoura ralada
-- 1/2 cebola picada
+- ½ cenoura ralada
+- ½ cebola picada
 - 1 dente de alho picado
 - Cebolinha picada a gosto
 - Azeitonas picadas a gosto

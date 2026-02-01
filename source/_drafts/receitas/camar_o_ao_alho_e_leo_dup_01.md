@@ -33,7 +33,7 @@ flags: []
 - 2 colheres de sopa de óleo
 - 1 colher de chá (rasa) de sal
 - 1 colher de chá de noz-moscada (ou a gosto)
-- 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cebolinha picada (ou a gosto)
 - Coloque os camarões limpos em uma tigela e tempere com sal, noz-moscada e pimenta-do-reino, misturando bem para incorporar em todos os filés. Deixe marinando por uns 10 minutos;
 - Aqueça uma frigideira com óleo em fogo alto e disponha alguns camarões, sem sobrepor. Se não couber todos na frigideira, sele em etapas. Doure por cerca de 50 segundos. Não doure muito nessa etapa, para que o camarão não fique borrachudo;

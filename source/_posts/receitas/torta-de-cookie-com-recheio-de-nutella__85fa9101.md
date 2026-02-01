@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de manteiga (75 gramas)
+- ½ xícara de chá de manteiga (75 gramas)
 - 10 colheres de sopa de açúcar mascavo (135 gramas)
 - 1 ovo
 - 1 colher de chá de essência de baunilha
-- 1/2 colher de café de sal
+- ½ colher de café de sal
 - 1 colher de chá de bicarbonato de sódio
 - 2 xícaras de chá de farinha de trigo (250 gramas)
 - 1 xícara de chá de chocolate em gotas (150 gramas)

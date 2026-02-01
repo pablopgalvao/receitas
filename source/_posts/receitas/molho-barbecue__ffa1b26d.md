@@ -28,15 +28,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar mascavo
-- 1/3 xícara de chá de vinagre de maçã
-- 1/2 xícara de chá de água
+- ½ xícara de chá de açúcar mascavo
+- ⅓ xícara de chá de vinagre de maçã
+- ½ xícara de chá de água
 - 380 gramas de catchup
 - 2 colheres de sopa de molho inglês
 - 1 colher de chá de páprica picante
 - 1 colher de chá de alho em pó
 - 1 colher de chá de cebola em pó
-- 1/2 colher de chá de pimenta caiena
+- ½ colher de chá de pimenta caiena
 - --
 
 ---

@@ -33,8 +33,8 @@ flags: []
 - 1 batata-doce média (ou 2 unidades pequenas)
 - Água para cozinhar a batata
 - 1 tomate sem pele e sem sementes picado
-- 1/2 cebola picada
-- 1/4 de peito de frango cozido e desfiado
+- ½ cebola picada
+- ¼ de peito de frango cozido e desfiado
 - 2 colheres de sopa de farinha de aveia
 - 2 dentes de alho
 - 1 colher de sopa de requeijão light

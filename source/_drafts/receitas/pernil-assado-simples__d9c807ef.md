@@ -33,15 +33,15 @@ flags: []
 - 1 pimenta-dedo-de-moça
 - Cominho a gosto
 - 1 colher de café de semente de coentro
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - 1 folha de louro
 - 4 dentes de alho
 - 1 tablete de tempero sabor carne
-- 1/2 colher de sobremesa de colorau
-- 1/2 limão
+- ½ colher de sobremesa de colorau
+- ½ limão
 - 4 cravos-da-índia (opcional)
 - 1 cebola média ou grande
-- 2 e 1/2 xícara de chá de água (600 ml)
+- 2 e ½ xícara de chá de água (600 ml)
 - --
 
 ---

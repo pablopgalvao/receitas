@@ -30,14 +30,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 colher de sopa de fermento químico
 - 5 bananas picadas
 - 4 maçã picadas
 - 4 ovos
-- 1/2 xícara de chá de leite
+- ½ xícara de chá de leite
 - Canela em pó a gosto
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - --
 
 ---

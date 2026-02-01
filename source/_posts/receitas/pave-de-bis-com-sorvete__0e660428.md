@@ -32,7 +32,7 @@ flags: []
 - 1 caixa de leite condensado (395 gramas)
 - 30 gramas de cacau em pó 50% (ou chocolate em pó)
 - 1 caixa de creme de leite (200 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 1 colher de sopa de manteiga ou margarina
 - 1 caixa de Bis (sabor de sua preferência)
 - 1 pote de sorvete sabor creme ou flocos (435 gramas ou 12 bolas)

@@ -38,9 +38,9 @@ flags: []
 - 1 cebola média
 - 1 pimentão-vermelho médio
 - 1 tomate médio em cubos
-- 1/8 de colher de chá de pimenta-do-reino (ou a gosto)
+- ⅛ de colher de chá de pimenta-do-reino (ou a gosto)
 - 2 xícaras de chá de água quente (480 ml)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 2 colheres de sopa de coentro ou salsa (ou a gosto)
 - 1 pitada de páprica defumada ou colorau
 - 1 colher de chá de azeite ou óleo

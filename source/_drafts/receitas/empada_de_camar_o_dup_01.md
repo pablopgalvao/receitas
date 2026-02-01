@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de farinha de trigo (360 gramas)
-- 1/2 colher de chá rasa de sal (5 gramas)
-- 3/4 de xícara de chá de manteiga ou margarina (180 gramas)
+- ½ colher de chá rasa de sal (5 gramas)
+- ¾ de xícara de chá de manteiga ou margarina (180 gramas)
 - 2 colheres de sopa de água gelada (30 ml)
 - 400 gramas de camarão limpo
 - 1 colher de chá rasa de sal (7 gramas)
@@ -42,7 +42,7 @@ flags: []
 - 1 colher de sopa de farinha de trigo (20 gramas)
 - 3 colheres de sopa de requeijão de bisnaga (90 gramas)
 - 1 gema de ovo
-- 3/4 de xícara de chá de água
+- ¾ de xícara de chá de água
 - Vamos começar pelo recheio! Em uma tigela, tempere os camarões com sal, páprica defumada, pimenta-do-reino e misture bem. Reserve;
 - Adicione o cheiro-verde picado, a farinha de trigo e a água. Misture bem, deixe cozinhar por 1 minutinho e desligue o fogo. Reserve;
 - Para a massa, junte a farinha de trigo e o sal em uma tigela. Mexa bem e adicione a margarina;

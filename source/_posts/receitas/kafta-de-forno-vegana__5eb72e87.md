@@ -33,7 +33,7 @@ flags: []
 - 2 xícaras de chá de proteína de soja texturizada pequena
 - 3 xícaras de chá de água
 - 1 cebola média ralada
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 1 colher de sopa de orégano
 - 1 colher de sopa de hortelã desidratada
 - 1 colher de sopa de vinagre branco

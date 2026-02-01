@@ -38,7 +38,7 @@ flags: []
 - 1 colher de chá de tempero baiano
 - 1 colher de chá de sal
 - 300 gramas de molho de tomate
-- 2 e 1/2 xícaras de chá de água
+- 2 e ½ xícaras de chá de água
 - Cheiro-verde picado a gosto
 - --
 

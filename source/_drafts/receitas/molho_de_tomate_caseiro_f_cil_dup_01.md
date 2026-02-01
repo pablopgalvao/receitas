@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 5 colheres de sopa de azeite
 - Sal e pimenta-do-reino a gosto
 - 1 colher de chá de açúcar

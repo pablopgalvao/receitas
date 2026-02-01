@@ -37,12 +37,12 @@ flags: []
 - 1 talo de salsão (sem as folhas)
 - 1 maçã verde
 - 3 ramos de hortelã
-- 1/2 xícara de chá de uvas-passas claras (40 gramas)
+- ½ xícara de chá de uvas-passas claras (40 gramas)
 - Suco de 1 limão grande ou 2 pequenos (para a uva-passa)
 - Suco de 1 limão grande (para a maçã)
 - 2 colheres de sopa de azeite
 - 1 colher de chá de mostarda de dijon
-- 1/4 de xícara de chá de nozes picadas e tostadas (30 gramas)
+- ¼ de xícara de chá de nozes picadas e tostadas (30 gramas)
 - Água (para deixar a maçã de molho)
 - Sal a gosto
 - --

@@ -32,8 +32,8 @@ flags: []
 - 3 colheres de sopa de açúcar
 - 1 pitada de sal
 - 1 xícara de chá de leite
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - Óleo para fritar
 - --
 

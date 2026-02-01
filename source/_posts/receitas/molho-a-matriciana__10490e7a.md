@@ -36,7 +36,7 @@ flags: []
 - 3 dentes de alho picados
 - 2 tomates picados
 - 2 latas de tomates pelados
-- 1/2 colher de café de gengibre ralado
+- ½ colher de café de gengibre ralado
 - Sal e pimenta-do-reino a gosto
 - 1 pitada de açúcar
 - --

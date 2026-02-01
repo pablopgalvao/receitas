@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - Suco de 1 limão
-- 1/4 de xícara de azeite
+- ¼ de xícara de azeite
 - Sal e pimenta a gosto
 - 100 g de iogurte natural integral
 - --

@@ -32,7 +32,7 @@ flags: []
 - 100 ml de leite
 - 1 fio de azeite
 - 1 pitada de sal
-- 1/2 xícara de chá de farinha de trigo (70 gramas)
+- ½ xícara de chá de farinha de trigo (70 gramas)
 - 1 pitada de fermento químico em pó (fermento para bolo)
 - 100 gramas de requeijão cremoso
 - 200 gramas de presunto

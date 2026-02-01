@@ -32,8 +32,8 @@ flags: []
 - 2 sachês de chá de camomila e maracujá
 - 200 ml de água
 - 100 ml de leite vegetal (amêndoas, aveia ou coco)
-- 1/2 xícara de tâmaras sem caroço
-- 1/2 xícara de água morna (para hidratar as tâmaras)
+- ½ xícara de tâmaras sem caroço
+- ½ xícara de água morna (para hidratar as tâmaras)
 - Raspas de laranja para finalizar
 - 1 pitada de canela (opcional)
 - --

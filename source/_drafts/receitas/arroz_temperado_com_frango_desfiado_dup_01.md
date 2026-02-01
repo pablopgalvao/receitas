@@ -32,8 +32,8 @@ flags: []
 - 2 colheres de sopa de azeite
 - 1 colher de chá de sal
 - 1 pitada de pimenta-do-reino
-- 1/2 xícara de chá de molho de tomate
-- 1/2 xícara de chá de azeitonas
+- ½ xícara de chá de molho de tomate
+- ½ xícara de chá de azeitonas
 - 3 xícaras de chá de arroz cozido
 - 50 gramas de queijo parmesão ralado
 - Cheiro-verde picado a gosto

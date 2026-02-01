@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 25 pequis in natura
-- 1/2 colher de sopa de azeite
+- ½ colher de sopa de azeite
 - 600 ml de água para cozinhar
 - 3 dentes de alho
 - 1 cebola pequena
-- 1/2 pimenta dedo-de-moça
+- ½ pimenta dedo-de-moça
 - 1 pimenta-de-cheiro
 - 2 colheres de sopa de cebolinha picada
 - --

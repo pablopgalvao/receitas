@@ -37,7 +37,7 @@ flags: []
 - 1 colher de sopa colorau
 - 2 colheres de sopa de coentro picado
 - 2 colheres de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 4 colheres de sopa de azeite
 - Leve uma panela com água ao fogo médio. Coloque os ovos para cozinhar. Assim que ferver, conte 5 minutos. Retire os ovos da panela, coloque em uma tigela com água fria e descasque. Reserve;
 - Lave o peixe em água corrente e tempere com o suco de limão, o sal e a pimenta-do-reino. Deixe marinar por 30 minutos;

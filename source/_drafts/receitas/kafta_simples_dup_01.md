@@ -34,9 +34,9 @@ flags: []
 - 1 colher de sopa de azeite (ou óleo vegetal)
 - 1 colher de sopa de salsinha picada (ou a gosto)
 - 1 colher de sopa de cebolinha picada (ou a gosto)
-- 1/2 colher de sopa de hortelã picado (ou a gosto)
-- 1/2 colher de chá de páprica picante
-- 1/2 colher de chá de sal
+- ½ colher de sopa de hortelã picado (ou a gosto)
+- ½ colher de chá de páprica picante
+- ½ colher de chá de sal
 - Pique o alho, a hortelã, a salsinha e a cebolinha finamenete. Separe todos os ingredientes em sua bancada e deixe os espetinhos de madeira de molho em água por 5 minutos;
 - Em uma tigela grande, misture a carne moída com o alho, azeite, cheiro-verde, páprica picante e sal, até formar uma massa homogênea;
 - Repita o processo com toda a carne. Essa receita rende aproximadamente 5 kaftas, com cerca de 100 gramas cada uma;

@@ -32,14 +32,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - Macarrão
-- 1/4 de abacate grande
+- ¼ de abacate grande
 - Um punhado de folhas de manjericão
 - 3 colheres de sopa de azeite
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 dente de alho
 - 2 colheres de sopa de parmesão ralado
 - 1 colher de sopa de tahine
-- 1/2 xícara de chá da água do cozimento da massa
+- ½ xícara de chá da água do cozimento da massa
 - --
 
 ---

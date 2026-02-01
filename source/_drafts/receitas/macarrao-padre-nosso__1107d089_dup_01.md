@@ -37,7 +37,7 @@ flags: []
 - 3 colheres de sopa de extrato de tomate (60 gramas)
 - 2 xícaras de chá de macarrão padre nosso (250 gramas)
 - 2 colheres de sopa de cebolinha fresca picada (6 gramas)
-- 2 e 1/3 de xícara de chá de água (500 ml)
+- 2 e ⅓ de xícara de chá de água (500 ml)
 - --
 
 ---

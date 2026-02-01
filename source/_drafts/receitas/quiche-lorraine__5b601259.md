@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de bacon picado
+- ½ xícara de chá de bacon picado
 - 4 ovos
 - 1 xícara de chá de creme de leite fresco
 - 2 xícaras de chá de queijo gruyère ralado grosso

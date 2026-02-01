@@ -35,7 +35,7 @@ flags: []
 - 5 dentes de alho
 - Sal e pimenta-do-reino a gosto
 - 1 colher de chá de pimenta calabresa
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 3 colheres de sopa de azeite
 - --
 

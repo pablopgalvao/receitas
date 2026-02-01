@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de aveia em flocos grossos
+- ½ xícara de chá de aveia em flocos grossos
 - 1 colher de sopa de chia
 - 1 colher de chá de mel
-- 3/4 xícara de chá de leite vegetal
-- 1/2 colher de sopa de cacau em pó
+- ¾ xícara de chá de leite vegetal
+- ½ colher de sopa de cacau em pó
 - 1 banana
 - --
 

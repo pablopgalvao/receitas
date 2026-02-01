@@ -36,7 +36,7 @@ flags: []
 - Azeite a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - --
 
 ---
@@ -52,6 +52,6 @@ flags: []
 7. Inicie o processo de “pinga e frita”: adicione um pouco de água quente, tampe parcialmente a panela e deixe cozinhar até a água secar. Repita esse processo mais duas vezes (três no total);
 8. Enquanto o frango cozinha, prepare o quiabo: corte metade em tiras e a outra metade em rodelas;
 9. Em uma frigideira quente, grelhe as tiras de quiabo com um fio de azeite e pressione com uma panela pesada para criar contato com o fundo quente. Reserve;
-10. Na mesma frigideira, adicione os quiabos em rodelas, tempere com sal e pimenta-do-reino, refogue e esprema o suco de 1/2 limão sobre eles. Mexa até que toda a baba seja liberada e evaporada;
+10. Na mesma frigideira, adicione os quiabos em rodelas, tempere com sal e pimenta-do-reino, refogue e esprema o suco de ½ limão sobre eles. Mexa até que toda a baba seja liberada e evaporada;
 11. Quando o frango estiver bem cozido e com molho espesso, adicione os quiabos grelhados e refogados. Misture delicadamente;
 12. Finalize com cheiro-verde picado e sirva em um refratário de sua preferência!

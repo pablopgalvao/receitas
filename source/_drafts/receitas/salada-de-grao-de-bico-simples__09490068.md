@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de grão-de-bico cozido ou em conserva (240 gramas)
-- 1/2 xícara de chá de tomate picado (80 gramas)
-- 1/2 pimentão vermelho higienizado (70 gramas)
-- 1/4 de xícara de chá de cebola picada (35 gramas)
+- 1 e ½ xícara de chá de grão-de-bico cozido ou em conserva (240 gramas)
+- ½ xícara de chá de tomate picado (80 gramas)
+- ½ pimentão vermelho higienizado (70 gramas)
+- ¼ de xícara de chá de cebola picada (35 gramas)
 - 1 colher de sopa de salsinha (ou a gosto)
 - 1 colher de sopa de suco de limão
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de sopa de azeite (ou a gosto)
 - 40 gramas de lascas de queijo parmesão (ou a gosto)
 - --

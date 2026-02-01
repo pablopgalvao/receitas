@@ -42,7 +42,7 @@ flags: []
 - Sal a gosto
 - 2 xícaras de farinha de trigo
 - 2 ovos
-- 1/2 xícara de queijo ralado
+- ½ xícara de queijo ralado
 - Cheiro-verde a gosto
 - Farinha de rosca a gosto
 - Óleo para fritar

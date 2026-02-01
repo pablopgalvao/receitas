@@ -33,7 +33,7 @@ flags: []
 - 1 lata de leite (mesma medida da lata de milho)
 - 1 lata de fubá (mesma medida da lata de milho)
 - 3 ovos
-- 1/2 lata de óleo (mesma medida da lata de milho)
+- ½ lata de óleo (mesma medida da lata de milho)
 - 1 lata de açúcar (mesma medida da lata de milho)
 - 100 gramas de coco ralado (opcional)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)

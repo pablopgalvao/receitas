@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos médios
-- 3/4 de xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de óleo (180 ml)
 - 300 ml de água
 - 1 colher de café de sal
 - 3 xícaras de chá de farinha de trigo
@@ -47,7 +47,7 @@ flags: []
 4. Por último, coloque o molho de tomate, o cheiro-verde e misture novamente. Prove e ajuste os temperos se achar necessário. Desligue o fogo e reserve em um outro recipiente para esfriar;
 5. Para fazer a massa, em um liquidificador, adicione os ovos, o óleo, a água, o sal e bata por 3 minutos;
 6. Adicione o queijo ralado e bata por 10 segundos. Transfira a mistura para uma tigela grande. Peneire a farinha de trigo na tigela e misture delicadamente com o batedor de arame (fouet). Por último, coloque o fermento e mexa apenas para incorporar;
-7. Unte uma assadeira (24 x 34 cm) com óleo e despeje 3/4 da massa até espalhar pelo fundo. Ligue o forno a 180 ºC;
+7. Unte uma assadeira (24 x 34 cm) com óleo e despeje ¾ da massa até espalhar pelo fundo. Ligue o forno a 180 ºC;
 8. Espalhe uma camada generosa do recheio de frango e adicione o requeijão cremoso;
 9. Disponha as fatias de queijo mussarela por cima e despeje o restante da massa. Utilize uma espátula para cobrir e leve ao forno preaquecido por cerca de 50 minutos;
 10. Desligue o forno e deixe a torta esfriar alguns minutos;

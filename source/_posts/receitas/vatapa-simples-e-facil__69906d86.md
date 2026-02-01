@@ -36,8 +36,8 @@ flags: []
 - 1 cebola média
 - 2 dentes de alho
 - 2 colheres de sopa de azeite de dendê
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

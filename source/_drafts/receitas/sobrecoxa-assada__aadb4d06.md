@@ -38,8 +38,8 @@ flags: []
 - 2 colheres de sopa de páprica (doce ou defumada)
 - Raspas de 1 limão-siciliano
 - Raspas de 1 limão-Taiti
-- Suco de 1/2 limão-siciliano
-- Suco de 1/2 limão-Taiti
+- Suco de ½ limão-siciliano
+- Suco de ½ limão-Taiti
 - 2 colheres de chá (rasas) de sal
 - 80 ml de azeite de oliva
 - 4 cebolas médias

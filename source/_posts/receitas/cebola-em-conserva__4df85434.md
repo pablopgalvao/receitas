@@ -35,7 +35,7 @@ flags: []
 - 1 colher de chá de pimenta-calabresa
 - 2 folhas de louro
 - 1 xícara de chá de vinagre de álcool (240 ml)
-- 1/2 xícara de chá de azeite ou óleo (120 ml)
+- ½ xícara de chá de azeite ou óleo (120 ml)
 - --
 
 ---

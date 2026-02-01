@@ -39,7 +39,7 @@ flags: []
 - Pimenta-do-reino a gosto
 - 1 caixinha de creme de leite (200 gramas)
 - 50 ml de vinho branco seco
-- 1/2 xícara de chá de parmesão (50 gramas)
+- ½ xícara de chá de parmesão (50 gramas)
 - 1 colher de chá de mostarda dijon
 - 1 colher de chá de salsinha picada
 - 100 gramas de tomate-cereja

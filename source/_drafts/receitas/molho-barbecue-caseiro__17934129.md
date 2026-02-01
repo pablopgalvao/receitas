@@ -30,10 +30,10 @@ flags: []
 
 - 1 cebola
 - 2 colheres de sopa de molho inglês
-- 1/2 xícara de chá de açúcar mascavo
+- ½ xícara de chá de açúcar mascavo
 - 4 colheres de sopa de mostarda
 - 1 xícara de chá de ketchup
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 2 colheres de sopa de vinagre de maçã
 - 2 colheres de sopa de páprica doce defumada
 - --

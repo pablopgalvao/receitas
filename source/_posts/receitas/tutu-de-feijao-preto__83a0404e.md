@@ -37,8 +37,8 @@ flags: []
 - 30 gramas de farinha de mandioca
 - 2 ovos cozidos
 - 3 colheres de sopa de cheiro-verde ou a gosto
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Pimenta biquinho a gosto para enfeitar
 - --
 

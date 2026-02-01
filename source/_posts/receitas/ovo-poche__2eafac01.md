@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 ovo (o mais fresco possível)
-- 1 e 1/2 xícara de chá de água (para uma panela pequena)
+- 1 e ½ xícara de chá de água (para uma panela pequena)
 - --
 
 ---

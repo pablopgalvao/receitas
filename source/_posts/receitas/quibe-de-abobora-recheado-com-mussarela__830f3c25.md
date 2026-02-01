@@ -31,10 +31,10 @@ flags: []
 
 - 2 xícaras de trigo para quibe
 - 500 gramas de abóbora cozida
-- 1/2 xícara de cebolinha verde picada
+- ½ xícara de cebolinha verde picada
 - 2 dentes de alho
 - 1 cebola picada
-- 1/2 xícara de hortelã picado
+- ½ xícara de hortelã picado
 - 150 gramas de mussarela
 - Temperos a gosto
 - --

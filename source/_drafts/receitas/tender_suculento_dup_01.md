@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 Tender (1kg)
-- 1/4 xícara de chá de azeite (4 colheres de sopa)
-- 1 e 1/4 xícara de água (300 ml)
-- 1/2 xícara de azeitona
+- ¼ xícara de chá de azeite (4 colheres de sopa)
+- 1 e ¼ xícara de água (300 ml)
+- ½ xícara de azeitona
 - Tomates-cereja a gosto
 - Cebola crispy a gosto
 - Lave bem as batatas e corte em formato rústico. Cozinhe em água com sal por 10 minutos e escorra;

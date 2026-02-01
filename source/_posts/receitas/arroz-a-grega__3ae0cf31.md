@@ -38,7 +38,7 @@ flags: []
 - 1 colher de sopa de manteiga
 - 1 fio de óleo
 - 4 colheres de sopa de pimentão vermelho
-- 1/4 de xícara de cebola picada
+- ¼ de xícara de cebola picada
 - 2 colheres de sopa de salsa picada
 - 2 colheres de sopa de cebolinha picada
 - 5 colheres de sopa de cenoura picada

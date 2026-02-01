@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de flocos de milho (60 gramas)
-- 1/3 xícara de chá de água (80 ml)
-- 1 e 1/2 xícara de chá de água para cozinhar (360 ml)
+- ⅓ xícara de chá de água (80 ml)
+- 1 e ½ xícara de chá de água para cozinhar (360 ml)
 - 2 colheres de sopa de azeite (30 ml)
 - 2 ovos médios
 - 1 cebola
-- 1/4 colher de chá de sal
+- ¼ colher de chá de sal
 - 50 gramas de queijo ralado
 - 150 gramas de bacon
 - 400 gramas de carne seca desfiada e dessalgada

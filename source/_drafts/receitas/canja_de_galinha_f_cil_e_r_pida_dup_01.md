@@ -33,7 +33,7 @@ flags: []
 - 1 kg de peito de frango com osso (ou sobrecoxa com osso)
 - 2 colheres de chá de páprica picante
 - 1 colher de chá de açafrão
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 2 colheres de chá de sal
 - 1 xícara de chá de arroz (200 gramas)
 - 3 colheres de sopa de coentro ou salsinha

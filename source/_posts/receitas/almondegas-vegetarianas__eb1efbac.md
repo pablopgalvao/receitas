@@ -29,16 +29,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite de oliva
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
 - 100 gramas de folhas de espinafre
 - 200 gramas de ricota
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
-- 1/2 xícara de chá de farinha de rosca
-- 1/2 xícara de chá de queijo parmesão ralado (100 gramas)
+- ½ colher de sopa de pimenta-do-reino (ou a gosto)
+- ½ xícara de chá de farinha de rosca
+- ½ xícara de chá de queijo parmesão ralado (100 gramas)
 - 1 xícara de chá de molho de tomate (200 gramas)
-- 1/2 xícara de chá de leite de coco (120 ml)
+- ½ xícara de chá de leite de coco (120 ml)
 ---
 
 ## 👨‍🍳 Modo de Preparo

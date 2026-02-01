@@ -33,9 +33,9 @@ flags: []
 - 1,2 litros de água
 - 150 gramas de linguiça calabresa (ou 1 gomo)
 - 150 gramas de paio (ou 1 gomo)
-- 250 gramas de ervilha seca (1 e 1/4 de xícara de chá)
+- 250 gramas de ervilha seca (1 e ¼ de xícara de chá)
 - Sal a gosto
-- 1/2 cebola (80 gramas)
+- ½ cebola (80 gramas)
 - 2 dentes de alho
 - 1 tomate grande
 - 3 colheres de sopa de azeite

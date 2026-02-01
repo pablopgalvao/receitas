@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 litro de leite integral (tipo A)
-- 1/4 de xícara de chá de caldo de limão coado
+- ¼ de xícara de chá de caldo de limão coado
 - Sal a gosto
 - --
 

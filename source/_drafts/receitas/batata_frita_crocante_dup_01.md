@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de amido de milho
+- ½ xícara de chá de amido de milho
 - Óleo para fritar
 - Sal a gosto
 - Frite as batatas em óleo bem quente até elas ficarem douradinhas;

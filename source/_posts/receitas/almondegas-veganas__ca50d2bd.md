@@ -32,11 +32,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícara de chá de proteína de soja granulada
-- 1/2 cebola ralada
+- ½ cebola ralada
 - 1 colher de chá de alho em pó ou esmagado
 - 3 colheres de sopa de molho de soja
 - 1 colher de chá de sal
-- 1/2 colher de chá de cominho
+- ½ colher de chá de cominho
 - Pimenta-do-reino a gosto
 - Salsinha picada a gosto
 - Farinha de trigo para dar liga

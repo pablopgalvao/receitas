@@ -32,12 +32,12 @@ flags: []
 - 2 postas de bacalhau (500 gramas)
 - 1 lata de grão-de-bico (400 gramas)
 - 2 ovos cozidos
-- 1/3 de xícara de chá de azeite
-- 1/2 colher de chá de pimenta-do-reino
+- ⅓ de xícara de chá de azeite
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de salsinha fresca
 - 1 cebola (opcional)
 - 1 tomate (opcional)
-- 1/4 de xícara de chá de azeitonas
+- ¼ de xícara de chá de azeitonas
 - Sal a gosto
 - --
 

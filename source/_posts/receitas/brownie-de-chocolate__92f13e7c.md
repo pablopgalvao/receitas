@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de farinha de trigo (80 gramas)
-- 3/4 de xícara de chá de açúcar mascavo (80 gramas)
-- 1/4 de xícara de chá de açúcar refinado (50 gramas)
+- ¾ de xícara de chá de farinha de trigo (80 gramas)
+- ¾ de xícara de chá de açúcar mascavo (80 gramas)
+- ¼ de xícara de chá de açúcar refinado (50 gramas)
 - 4 ovos
 - 100 gramas de manteiga
 - 2 colheres de sopa de chocolate em pó (40 gramas)

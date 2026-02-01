@@ -40,9 +40,9 @@ flags: []
 - Cheiro-verde a gosto
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de chá de páprica
+- ½ colher de chá de páprica
 - Sal a gosto
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - Farinha de rosca para empanar
 - Óleo suficiente para fritar por imersão
 - Para o recheio, em uma panela, aqueça o óleo e coloque a carne moída para fritar. Não mexa até começar a dourar. Quando começar a dourar, mexa para que doure uniformemente;

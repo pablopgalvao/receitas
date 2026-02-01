@@ -36,8 +36,8 @@ flags: []
 - 4 postas de salmão
 - Alho amassado a gosto
 - Sal, lemon pepper e pimenta-do-reino a gosto
-- Suco do 1 e 1/2 limão
-- Raspas de 1/2 limão
+- Suco do 1 e ½ limão
+- Raspas de ½ limão
 - 5 rodelas de limão
 - 1 colher de sopa de manteiga
 - 1 cebola picada
@@ -55,7 +55,7 @@ flags: []
 2. Tempere o salmão com alho amassado, sal, lemon pepper, suco de 1 limão e pimenta a gosto. Deixe marinando por alguns minutos;
 3. Em uma panela, coloque 1 fio de azeite e sele as postas. Reserve;
 4. Na mesma panela, refogue a cebola com a salsinha na manteiga;
-5. Em seguida, adicione o creme de leite, o leite, o suco de 1/2 limão e as raspas do limão. Tempere com sal e pimenta;
+5. Em seguida, adicione o creme de leite, o leite, o suco de ½ limão e as raspas do limão. Tempere com sal e pimenta;
 6. Deixe cozinhar até o molho encorpar e, em seguida, acrescente o salmão;
 7. Finalize com cheiro-verde e rodelas de limão por cima. Cozinhe por mais 1 minuto;
 8. Agora é só servir esse peixe macio com o molho por cima. Bom apetite!

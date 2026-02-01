@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 pacote do macarrão de sua preferência (250 gramas)
+- ½ pacote do macarrão de sua preferência (250 gramas)
 - 1 copo de requeijão (200 gramas)
 - Cebolinha e salsinha a gosto
 - Sal a gosto

@@ -36,8 +36,8 @@ flags: []
 - 1 colher de sopa de açúcar
 - 1 colher de sopa de páprica defumada
 - 1 colher de sopa de orégano
-- 1/4 de xícara de chá de shoyu
-- 1 e 1/2 xícara de chá de molho de tomate
+- ¼ de xícara de chá de shoyu
+- 1 e ½ xícara de chá de molho de tomate
 - 2 colheres de sopa de ketchup
 - 1 xícara de chá de água (temperatura ambiente)
 - Sal a gosto

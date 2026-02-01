@@ -32,7 +32,7 @@ flags: []
 - 2 caixas de creme de leite
 - 1 lata de leite condensado
 - 1 pacotinho de gelatina sem sabor
-- 1/2 xícara de leite morno
+- ½ xícara de leite morno
 - --
 
 ---

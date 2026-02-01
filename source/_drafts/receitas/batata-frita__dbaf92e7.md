@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 a 3 batatas-asterix grandes
-- 1 litro e 1/2 de óleo para fritar
+- 1 litro e ½ de óleo para fritar
 - Sal e pimenta-do-reino a gosto
 - --
 

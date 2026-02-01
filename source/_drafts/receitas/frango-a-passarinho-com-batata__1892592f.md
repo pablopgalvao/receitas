@@ -31,7 +31,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de batata
+- ½ kg de batata
 - 2 xícaras de chá de água (500 ml)
 - 1 colher de sopa de sal
 - 1 kg de frango cortado passarinho

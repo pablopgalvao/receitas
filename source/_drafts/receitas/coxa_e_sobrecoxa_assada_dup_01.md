@@ -35,7 +35,7 @@ flags: []
 - 1 colher de sobremesa de gengibre ralado (4 cm de gengibre)
 - 1 colher de sopa de páprica defumada
 - 1 colher de chá de pimenta-do-reino
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - Em uma tigela grande, adicione os pedaços de frango, 6 colheres de shoyu, 2 colheres de mel, o alho, a páprica, a pimenta-do-reino, o gengibre ralado e o sal;
 - Enquanto isso, em uma tigela pequena, misture 2 colheres de mel e 2 colheres de shoyu até ficar homogêneo;
 - Passado os 20 minutos de forno, retire a forma e espalhe a mistura de mel com shoyu sobre os pedaços de frango com o auxílio de uma colher ou espátula;

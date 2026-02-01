@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de macarrão penne (100 gramas)
-- 1/2 cebola
+- ½ cebola
 - 1 colher de sopa de azeite (15ml)
 - 1 colher de sopa de manteiga (20 gramas)
 - 3 dentes de alho
@@ -37,7 +37,7 @@ flags: []
 - 1 colher de sopa de requeijão (20 gramas)
 - 1 pacotinho de Sazón de limão (5 gramas)
 - 2 colheres de sopa de salsinha picada
-- 1/2 colher de chá de pimenta-do-reino moída (ou a gosto)
+- ½ colher de chá de pimenta-do-reino moída (ou a gosto)
 - 2 colheres de sopa de parmesão ralado (ou meio pacotinho)
 - --
 

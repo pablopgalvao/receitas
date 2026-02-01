@@ -31,8 +31,8 @@ flags: []
 
 - 2 latas de milho verde (170 gramas cada)
 - 1 xícara de chá de leite condensado (280 gramas)
-- 1/2 xícara de chá de creme de leite (110 gramas)
-- 1/2 xícara de chá de água (110 ml)
+- ½ xícara de chá de creme de leite (110 gramas)
+- ½ xícara de chá de água (110 ml)
 - Canela em pó a gosto
 - --
 

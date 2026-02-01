@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/4 de cebola
+- ¼ de cebola
 - 1 colher de sopa de creme de ricota (20 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de sopa de cebolinha ou cheiro-verde
 - --
 

@@ -43,7 +43,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Mais um preparo clássico! Reúna os ingredientes e utensílios necessários;
-2. Coloque a erva-mate na cuia, preenchendo cerca de 2/3 do recipiente;
+2. Coloque a erva-mate na cuia, preenchendo cerca de ⅔ do recipiente;
 3. Cubra a boca do recipiente com a palma da mão, vire de cabeça para baixo e agite suavemente para misturar a erva e posicionar o pó mais fino no topo, evitando entupimentos;
 4. Volte o recipiente à posição normal e incline a erva para um lado, formando um “morrinho”, deixando um espaço vazio do outro lado;
 5. No espaço vazio, despeje um pouco de água fria ou morna e aguarde 30 segundos para hidratar a erva;

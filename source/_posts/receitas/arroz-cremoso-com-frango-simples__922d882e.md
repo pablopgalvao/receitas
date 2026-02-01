@@ -35,12 +35,12 @@ flags: []
 - 3 dentes de alho triturados
 - 2 xícaras de chá de arroz
 - 2 xícaras de chá de frango desfiado
-- 1/2 xícara de chá de molho de tomate
+- ½ xícara de chá de molho de tomate
 - Sal e pimenta-do-reino
 - 4 xícaras de chá de água quente (ou caldo de galinha)
 - Folhas de manjericão a gosto
 - 1 xícara de chá de requeijão cremoso
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de queijo parmesão ralado
 - --
 
 ---

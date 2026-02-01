@@ -31,7 +31,7 @@ flags: []
 - 6 colheres de sopa de milho de pipoca (125 gramas)
 - 3 colheres de sopa de açúcar refinado (60 gramas)
 - 2 colheres de sopa de leite em pó (30 gramas)
-- 1/2 colher de sopa de banha
+- ½ colher de sopa de banha
 - --
 
 ---

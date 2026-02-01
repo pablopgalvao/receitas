@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 de suco de limão-siciliano (25 ml)
+- ¼ de suco de limão-siciliano (25 ml)
 - 1 colher de sopa de mostarda dijon ou comum
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Óleo até dar o ponto
 - Quebre o ovo e separe a clara da gema. Coloque um pano em uma panela e a tigela onde a maionese será preparada por cima. Transfira as gemas para a tigela, coloque o suco de limão-siciliano, a mostarda, o sal e a pimenta-do-reino. Bata com o fouet por 1 minuto, até ficar homogêneo;
 - Continue batendo vigorosamente com um fouet e despeje o óleo em fio;

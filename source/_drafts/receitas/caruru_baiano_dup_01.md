@@ -50,4 +50,4 @@ flags: []
 4. Acrescente o quiabo picado e refogue por alguns minutos, mexendo sempre para que ele fique bem envolvido no dendê;
 5. Com o quiabo já começando a refogar, adicione a mistura do liquidificador à panela. Misture bem e com cuidado, para incorporar os ingredientes. Acrescente a água e continue mexendo, deixando cozinhar por cerca de 20 a 25 minutos em fogo baixo, mexendo com frequência;
 6. Se desejar, adicione alguns camarões secos para dar mais textura. Acerte o sal e continue mexendo. Caso a mistura fique muito espessa, vá acrescentando mais um pouco de água aos poucos;
-7. Para ajudar a tirar a baba do quiabo, esprema o suco de 1/2 limão sobre o preparo e mexa bem. Quando o quiabo estiver macio e as sementes começarem a ficar levemente rosadas, o caruru estará no ponto certo! Sirva com arroz ou outro acompanhamento!
+7. Para ajudar a tirar a baba do quiabo, esprema o suco de ½ limão sobre o preparo e mexa bem. Quando o quiabo estiver macio e as sementes começarem a ficar levemente rosadas, o caruru estará no ponto certo! Sirva com arroz ou outro acompanhamento!

@@ -33,10 +33,10 @@ flags: []
 - 1 xícara de chá de bacon (120 gramas)
 - 4 colheres de sopa de óleo (60 ml)
 - 3 ovos cozidos
-- 1/2 xícara de chá de uvas-passas (100 gramas)
+- ½ xícara de chá de uvas-passas (100 gramas)
 - Salsinha a gosto
-- 1/2 colher de chá de sal ou a gosto
-- 1/2 colher de chá de tempero baiano ou a gosto
+- ½ colher de chá de sal ou a gosto
+- ½ colher de chá de tempero baiano ou a gosto
 - 1 colher de chá de páprica doce ou a gosto
 - Reúna os ingredientes e organize sua bancada. Corte o bacon em cubinhos, a cebola e o pimentão da mesma maneira, rale a cenoura e pique a salsinha finamente. Corte os ovos cozidos em rodelas ou pedaços menores;
 - Aqueça o óleo em panela grande e refogue o bacon até dourar;

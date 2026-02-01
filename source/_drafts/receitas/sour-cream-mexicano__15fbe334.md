@@ -32,7 +32,7 @@ flags: []
 - 1 lata de creme de leite gelado (300 gramas)
 - 1 caixinha de cream cheese (150 gramas)
 - Suco de 1 limão médio
-- 1/2 xícara de chá de pimenta
+- ½ xícara de chá de pimenta
 - --
 
 ---

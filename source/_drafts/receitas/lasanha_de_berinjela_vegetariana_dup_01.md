@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 latas de tomate pelado sem pele (400 gramas cada)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 1 colher de sopa de azeite de oliva extravirgem
 - 400 gramas de mussarela ralada
 - 60 gramas de parmesão ralado na hora para finalizar (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - Adicione os tomates pelados já amassados e a água. Tempere com sal e pimenta-do-reino e misture bem. Quando o molho começar a ferver, deixe cozinhar por mais 10 minutos. Prove o sabor e acerte o sal se necessário. Finalize com as folhas de manjericão e reserve o molho;
 - Leve uma frigideira ao fogo médio-alto e deixe esquentar. Assim que estiver bem quente, coloque de 1 a 3 fatias por vez na frigideira, sem sobrepor. Tempere com sal e doure por 1 minuto;
 

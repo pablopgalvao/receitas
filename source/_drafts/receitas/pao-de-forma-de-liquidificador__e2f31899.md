@@ -31,8 +31,8 @@ flags: []
 - 2 colheres de sopa de óleo de milho ou margarina
 - 2 ovos
 - 4 colheres de sopa de açúcar (50 gramas)
-- 1/2 colher de sopa de sal (5 gramas)
-- 1 e 1/2 xícara de chá de leite (350 ml)
+- ½ colher de sopa de sal (5 gramas)
+- 1 e ½ xícara de chá de leite (350 ml)
 - 1 colher de sopa de fermento biológico seco instantâneo (10 gramas)
 - 4 xícaras de chá de farinha de trigo (500 gramas)
 - 1 ovo batido com 1 colher de sopa de leite para pincelar

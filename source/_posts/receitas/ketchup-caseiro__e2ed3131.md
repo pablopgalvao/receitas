@@ -40,9 +40,9 @@ flags: []
 - 1 colher de chá de gengibre em pó
 - 1 colher de chá de cravo-da-índia em pó
 - 3 colheres de chá de sal
-- 1/2 xícara de chá de água (125 ml)
-- 1/2 xícara de chá de vinagre de vinho branco (125 ml)
-- 1/2 xícara de chá de açúcar mascavo (65 gramas)
+- ½ xícara de chá de água (125 ml)
+- ½ xícara de chá de vinagre de vinho branco (125 ml)
+- ½ xícara de chá de açúcar mascavo (65 gramas)
 - Pimenta-do-reino moída a gosto
 - --
 

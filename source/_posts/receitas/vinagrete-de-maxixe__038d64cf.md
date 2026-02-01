@@ -34,8 +34,8 @@ flags: []
 - 1 cebola-roxa
 - 1 pimenta dedo-de-moça
 - Caldo de 1 limão
-- 1 e 1/2 colher de sopa de vinagre de vinho tinto
-- 3 e 1/2 colheres de sopa de azeite
+- 1 e ½ colher de sopa de vinagre de vinho tinto
+- 3 e ½ colheres de sopa de azeite
 - 1 colher de chá de sal
 - Cubos de gelo para deixar o maxixe de molho
 - --
@@ -46,7 +46,7 @@ flags: []
 
 1. Reúna os ingredientes do vinagrete de maxixe;
 2. Em uma tábua, retire as duas pontas da cebola, retire a casca e descarte-as. Corte-a ao meio e cada metade em fatias não muito finas nem muito grossas;
-3. Em uma tigela com gelo, adicione água e 1/2 colher de vinagre. Deixe a cebola descansando nessa mistura;
+3. Em uma tigela com gelo, adicione água e ½ colher de vinagre. Deixe a cebola descansando nessa mistura;
 4. Enquanto isso, lave os maxixes com uma escovinha de legumes. Com uma faca pequena, raspe os espinhos. Depois, corte cada maxixe em rodelas finas e unte todas as fatias com azeite;
 5. No fogo médio, doure ambos os lados do maxixe em uma frigideira (doure-os espaçadamente) e reserve;
 6. Corte a pimenta dedo-de-moça e retire as sementes (se quiser um vinagrete mais picante, pode manter). Junte na tigela com o maxixe e misture;

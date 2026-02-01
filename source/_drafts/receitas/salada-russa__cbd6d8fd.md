@@ -46,7 +46,7 @@ flags: []
 - 3 ovos cozidos
 - 3 colheres de ervilhas
 - 4 picles de pepino
-- Suco de 1/2 limão-siciliano
+- Suco de ½ limão-siciliano
 - 4 colheres de sopa de maionese
 - 1 colher de sobremesa mostarda
 - Sal a gosto

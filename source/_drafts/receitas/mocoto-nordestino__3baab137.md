@@ -38,14 +38,14 @@ flags: []
 - 2 dentes de alho
 - 1 pimenta-dedo-de-moça sem semente (ou com semente se gostar de picância)
 - 2 pimentas-de-cheiro
-- 1 e 1/2 colher de chá de pimenta calabresa
+- 1 e ½ colher de chá de pimenta calabresa
 - 1 colher de chá de pimenta-do-reino
 - 1 colher de sopa de sal
 - 1 caldo de carne em pó
 - 6 colheres de sopa de cheiro-verde picado
-- 1/2 colher de sopa de colorau
+- ½ colher de sopa de colorau
 - 1 caixinha de extrato de tomate (135 gramas)
-- 1/2 xícara de chá de vinagre para temperar (120 ml)
+- ½ xícara de chá de vinagre para temperar (120 ml)
 - Suco de 1 limão para lavar o mocotó
 - Vinagre para lavar o mocotó
 - 500 ml de água

@@ -29,16 +29,16 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de frango desfiado (280 gramas)
-- 1/2 cebola (130 gramas)
+- 2 e ½ xícaras de chá de frango desfiado (280 gramas)
+- ½ cebola (130 gramas)
 - 2 tomates maduros (250 gramas)
 - 3 dentes de alho
 - 1 pimenta dedo-de-moça (10 gramas)
-- 3/4 de xícara de chá do caldo de frango separado (180 ml)
+- ¾ de xícara de chá do caldo de frango separado (180 ml)
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de farinha de trigo
 - 3 colheres de sopa de salsinha picada
-- 1/2 colher de chá de coentro em pó
+- ½ colher de chá de coentro em pó
 - 1 colher de chá de colorau
 - Sal e pimenta-do-reino moída a gosto
 - --

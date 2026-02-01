@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - Orégano a gosto
 - Tempere com sal, orégano e azeite. Misture até formar uma pasta homogênea. Pronto! Sirva acompanhado de torradinhas, pães ou carne assada.
 

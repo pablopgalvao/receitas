@@ -31,7 +31,7 @@ flags: []
 
 - 6 postas de tilápia
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino a gosto
+- ½ colher de chá de pimenta-do-reino a gosto
 - 1 limão
 - 4 dentes de alho
 - Azeite para pincelar

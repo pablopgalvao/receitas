@@ -32,7 +32,7 @@ flags: []
 - 200 gramas de carne moída de segunda (peito ou acém)
 - 2 colheres de sopa de bacon defumado moído (opcional) (30 gramas)
 - 1 colher de café de sal
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - --
 
 ---

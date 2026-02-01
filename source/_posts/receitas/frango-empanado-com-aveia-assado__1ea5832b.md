@@ -40,7 +40,7 @@ flags: []
 - Páprica doce a gosto
 - Pimenta-do-reino a gosto
 - Orégano a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 4 filés de frango
 - 2 xícaras de aveia flocos finos para empanar
 - 2 ovos batidos

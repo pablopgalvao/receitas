@@ -33,7 +33,7 @@ flags: []
 - 1 vidrinho de leite de coco (200 ml)
 - 4 colheres de sopa de farinha de aveia ou aveia em flocos
 - 1 colher de sopa de mel
-- 1/4 de colher de chá de canela (ou a gosto)
+- ¼ de colher de chá de canela (ou a gosto)
 - --
 
 ---

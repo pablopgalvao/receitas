@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de farinha de trigo tipo 1 (400 gramas)
-- 1 e 1/2 xícaras de chá de água filtrada (300 ml)
+- 2 e ½ xícaras de chá de farinha de trigo tipo 1 (400 gramas)
+- 1 e ½ xícaras de chá de água filtrada (300 ml)
 - 2 colheres de chá de sal (10 gramas)
 - 100 gramas de fermento natural ativo (levain)
 - Farinha de arroz ou farinha de trigo para polvilhar

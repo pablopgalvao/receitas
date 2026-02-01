@@ -31,7 +31,7 @@ flags: []
 
 - 1 lata de leite condensado
 - 1 caixa de creme de leite
-- 1/2 xícara de chá de suco de limão coado
+- ½ xícara de chá de suco de limão coado
 - 1 envelope de gelatina em pó sem sabor
 - 5 colheres de sopa de água
 - 1 caixa de preparo para chantilly bem gelado (creme de leite fresco 35% ou nata)

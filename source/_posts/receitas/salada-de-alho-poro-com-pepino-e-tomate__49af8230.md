@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 talos de alho-poró
-- 1/2 xícara de chá de tomate-cereja (180 gramas)
+- ½ xícara de chá de tomate-cereja (180 gramas)
 - 1 pepino médio (220 gramas)
 - 3 ramos de coentro
 - Suco de 1 limão
 - 3 colheres de sopa de azeite
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - --
 
 ---

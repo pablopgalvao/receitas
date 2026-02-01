@@ -29,9 +29,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara de chá de manteiga (50 gramas)
-- 1/3 de xícara de chá de farinha de trigo (35 gramas)
-- 1/2 colher de chá de sal ou a gosto
+- ¼ xícara de chá de manteiga (50 gramas)
+- ⅓ de xícara de chá de farinha de trigo (35 gramas)
+- ½ colher de chá de sal ou a gosto
 - Noz-moscada ralada a gosto
 - Em uma panela grande, coloque a manteiga e leve ao fogo baixo até derreter completamente. Adicione a cebola picada e refogue até que fique levemente dourada;
 - Acrescente a farinha de trigo e mexa vigorosamente, sem parar, até que comece a soltar os aromas;

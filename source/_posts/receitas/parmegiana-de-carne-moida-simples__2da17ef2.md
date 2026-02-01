@@ -33,7 +33,7 @@ flags: []
 - 3 dentes de alho (25 gramas)
 - 1 kg de carne moída (usamos o patinho)
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 4 batatas grandes ou 5 médias/pequenas (450 gramas)
 - 1 colher de chá de sal
 - 1 colher de café de orégano

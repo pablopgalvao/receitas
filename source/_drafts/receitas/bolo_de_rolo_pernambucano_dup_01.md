@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 230 gramas de manteiga
-- 1 e 1/4 de xícara de açúcar (230 gramas)
-- 1 e 1/4 de xícara de farinha de trigo (230 gramas)
+- 1 e ¼ de xícara de açúcar (230 gramas)
+- 1 e ¼ de xícara de farinha de trigo (230 gramas)
 - 250 gramas de goiabada
-- 1/2 xícara de chá de água (125 ml)
+- ½ xícara de chá de água (125 ml)
 - Na batedeira, junte a manteiga e o açúcar e bata até aumentar de tamanho e ficar cremosa. Isso leva cerca de 2 minutos em velocidade média. Durante o processo, sempre que a mistura grudar no bowl, pare de bater, passe uma espátula e retome;
 - Aos poucos, vá adicionando intercaladamente, as claras em neve e a farinha de trigo à mistura da massa. Divida em 3 etapas, misturando delicadamente de baixo para cima, com uma espátula, até que fique homogênea;
 - Divida a massa em 3 assadeiras retangulares de 30x40 cm, forradas com papel-manteiga e untadas com manteiga. Para essa etapa, utilize uma espátula para garantir que a massa se espalhe por completo. A altura ideal é de cerca de 3 milímetros de espessura;

@@ -31,7 +31,7 @@ flags: []
 - 150 gramas de coco ralado
 - 200 ml de leite de coco
 - 2 claras
-- 1/2 xícara de chá de xilitol (60 gramas)
+- ½ xícara de chá de xilitol (60 gramas)
 - --
 
 ---

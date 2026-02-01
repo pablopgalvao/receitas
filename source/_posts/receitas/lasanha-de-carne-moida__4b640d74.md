@@ -33,12 +33,12 @@ flags: []
 - 1 cebola pequena (50 gramas)
 - 2 dentes de alho amassado
 - 2 colheres de chá de sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de salsinha (ou a gosto)
 - 1 pacote de massa de lasanha seca (200 gramas)
 - 2 caixinhas de creme de leite leve (200 gramas cada)
 - 150 gramas de mussarela (8 fatias)
-- 60 gramas de parmesão fresco (1/2 xícara de chá ou a gosto)
+- 60 gramas de parmesão fresco (½ xícara de chá ou a gosto)
 - --
 
 ---

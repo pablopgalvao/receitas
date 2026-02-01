@@ -35,7 +35,7 @@ flags: []
 - 1 cebola média
 - 2 dentes de alho
 - 1 tomate
-- 1/2 cenoura média
+- ½ cenoura média
 - 1 colher de chá de sal
 - Pimenta-do-reino a gosto
 - Cheiro-verde a gosto

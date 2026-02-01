@@ -33,7 +33,7 @@ flags: []
 - 1 colher de chá de alho amassado
 - Sal e pimenta-do-reino a gosto
 - 1 xícara de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de farinha de rosca torrada
+- 1 e ½ xícara de chá de farinha de rosca torrada
 - 2 ovos
 - --
 

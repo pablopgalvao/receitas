@@ -34,9 +34,9 @@ flags: []
 - 1 tomate
 - 3 dentes de alho
 - 1 colher de sopa de sal
-- 1/2 colher de chá de páprica defumada
-- 1/2 colher de chá de açafrão
-- 1/2 colher de chá de lemon pepper
+- ½ colher de chá de páprica defumada
+- ½ colher de chá de açafrão
+- ½ colher de chá de lemon pepper
 - 1 colher de sopa de vinagre
 - 1,5 L de água (o suficiente para cozinhar a mandioca)
 - --

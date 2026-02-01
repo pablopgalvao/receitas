@@ -35,7 +35,7 @@ flags: []
 - 1 colher de chá de orégano
 - 1 colher de chá de tomilho
 - 1 colher de chá de ervas secas mistas (ou ervas secas comuns)
-- 1/2 colher de chá de alecrim picado
+- ½ colher de chá de alecrim picado
 - 50ml de suco de limão
 - 2 colheres de sopa de azeite
 - 1 cebola pequena sem casca e picadinha

@@ -32,11 +32,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abobora cabotia descascada e cortada em pedaços menores
+- ½ abobora cabotia descascada e cortada em pedaços menores
 - Água (para cozinhar a abóbora)
 - Caldo do cozimento do frango
 - 1 fio de azeite
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 250 gramas de frango cozido e desfiado
 - 3 colheres de sopa de tomate em lata

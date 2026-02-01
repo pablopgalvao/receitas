@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de abacaxi picados e congelados
-- 1/2 xícara de chá de leite de coco
+- ½ xícara de chá de leite de coco
 - --
 
 ---

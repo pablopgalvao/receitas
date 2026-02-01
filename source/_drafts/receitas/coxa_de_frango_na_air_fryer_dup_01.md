@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de coxas de frango
 - 2 colheres de sopa de shoyu
 - 1 colher de sopa de azeite
-- 1/2 colher de sopa de colorau
+- ½ colher de sopa de colorau
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de salsa desidratada
 - Sal e pimenta-do-reino a gosto

@@ -30,7 +30,7 @@ flags: []
 
 - 1 colher de sopa de fermento biológico seco
 - 1 colher de sopa de açúcar
-- 1/4 de xícara de chá de óleo
+- ¼ de xícara de chá de óleo
 - 1 xícara de chá de leite morno
 - 500 gramas de farinha de trigo (cerca de 4 xícaras de chá)
 - 1 ovo

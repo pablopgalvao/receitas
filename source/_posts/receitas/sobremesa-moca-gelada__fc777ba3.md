@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 caixinha de leite condensado (600 gramas)
-- 3/4 xícara de chá de leite em pó (75 gramas)
-- 1 e 1/2 caixinha de creme de leite (300 gramas)
-- 1 e 1/2 caixinha de chantilly bem gelado (300 ml)
-- 1 e 1/2 xícara de chá de chocolate meio amargo picadinho (225 gramas)
+- 1 e ½ caixinha de leite condensado (600 gramas)
+- ¾ xícara de chá de leite em pó (75 gramas)
+- 1 e ½ caixinha de creme de leite (300 gramas)
+- 1 e ½ caixinha de chantilly bem gelado (300 ml)
+- 1 e ½ xícara de chá de chocolate meio amargo picadinho (225 gramas)
 - 40 gramas de chocolate meio amargo derretido para decorar (opcional)
 - Chocolate Kinder ou outro para decorar (opcional)
 - --

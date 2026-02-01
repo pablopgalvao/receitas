@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de milho para canjica
+- ½ xícara de chá de milho para canjica
 - 1 xícara de chá de extrato de tomate
 - Sal e pimenta a gosto
 - Salsinha a gosto

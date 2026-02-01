@@ -37,10 +37,10 @@ flags: []
 - 1 pimentão vermelho médio (190 gramas)
 - 3 dentes de alho grandes
 - 2 ou 3 folhas de louro
-- 1/2 xícara de chá de extrato de tomate (120 ml)
+- ½ xícara de chá de extrato de tomate (120 ml)
 - 1 colher de sopa de tempero baiano
-- 1 e 1/2 colher de sopa de sal
-- 1 e 1/2 colher de chá de pimenta-do-reino
+- 1 e ½ colher de sopa de sal
+- 1 e ½ colher de chá de pimenta-do-reino
 - 4 colheres de sopa de cheiro-verde
 - 1 colher de sopa de óleo
 - 1 litro de água

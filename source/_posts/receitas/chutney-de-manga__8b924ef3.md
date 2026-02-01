@@ -30,14 +30,14 @@ flags: []
 
 - 2 mangas-palmer não muito maduras (700 gramas)
 - 1 maçã-fuji (180 gramas)
-- 1/2 pimentão vermelho (90 gramas)
+- ½ pimentão vermelho (90 gramas)
 - 1 cebola (220 gramas)
 - 1 dente de alho
-- 1 e 1/2 colher de sopa de gengibre fresco ralado
-- 1/4 de xícara de chá de uvas-passas brancas (50 gramas)
-- 1/4 de xícara de chá de vinagre de vinho branco (60 ml)
-- 1/4 de xícara de chá de água (60 ml)
-- 1/4 de xícara de chá de açúcar (50 gramas)
+- 1 e ½ colher de sopa de gengibre fresco ralado
+- ¼ de xícara de chá de uvas-passas brancas (50 gramas)
+- ¼ de xícara de chá de vinagre de vinho branco (60 ml)
+- ¼ de xícara de chá de água (60 ml)
+- ¼ de xícara de chá de açúcar (50 gramas)
 - 1 colher de chá de sal
 - 1 rama de canela
 - --

@@ -44,11 +44,11 @@ flags: []
 - Tempero sírio a gosto
 - Azeite a gosto
 - 5 linguiças frescas (fininhas)
-- 1/2 pimentão amarelo
-- 1/2 pimentão vermelho
+- ½ pimentão amarelo
+- ½ pimentão vermelho
 - 1 cebola
-- 1/2 cenoura
-- 1/2 alho-poró
+- ½ cenoura
+- ½ alho-poró
 - 2 talos de salsão
 - 4 dentes de alho
 - 1 pimenta-dedo-de-moça
@@ -56,7 +56,7 @@ flags: []
 - Páprica doce a gosto
 - Cúrcuma a gosto
 - Gengibre a gosto
-- 1/2 copo de vinho branco
+- ½ copo de vinho branco
 - 1 colher de sopa de extrato de tomate
 - 1 xícara de chá de arroz
 - 2 xícaras de chá de caldo de frango ou água

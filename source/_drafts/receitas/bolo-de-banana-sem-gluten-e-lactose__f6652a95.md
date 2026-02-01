@@ -30,12 +30,12 @@ flags: []
 
 - 3 bananas bem maduras
 - 4 ovos
-- 1/2 xícara de chá açúcar demerara (ou mascavo)
-- 1/2 xícara de chá de óleo girassol (ou de coco)
+- ½ xícara de chá açúcar demerara (ou mascavo)
+- ½ xícara de chá de óleo girassol (ou de coco)
 - 1 colher de sopa de canela em pó
 - 1 xícara de chá de farelo de aveia
-- 1/2 xícara de chá de farinha de arroz
-- 1/2 xícara de chá farinha de amêndoa
+- ½ xícara de chá de farinha de arroz
+- ½ xícara de chá farinha de amêndoa
 - 1 colher de sopa de fermento em pó (farmento para bolo)
 - 4 bananas bem maduras para forrar a forma
 - --

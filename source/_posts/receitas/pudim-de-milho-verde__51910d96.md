@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 latas de milho-verde escorridos (340 gramas)
-- 1/2 xícara de chá de leite integral (120 ml)
+- ½ xícara de chá de leite integral (120 ml)
 - 1 vidro de leite de coco (200 ml)
 - 1 caixinha de leite condensado (395 gramas)
 - 3 ovos médios

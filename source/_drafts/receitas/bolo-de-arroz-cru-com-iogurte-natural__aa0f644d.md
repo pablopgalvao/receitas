@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de arroz cru (200 gramas)
 - 1 xícara de chá de leite integral (240 ml)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de açúcar (180 gramas)
 - 3 ovos médios
 - 3 colheres de sopa de queijo ralado (30 gramas)

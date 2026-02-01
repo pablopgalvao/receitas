@@ -37,7 +37,7 @@ flags: []
 - 3 pimenta-dedo-de-moça
 - 1 pimenta-de-cheiro
 - Coentro a gosto
-- 1/2 cebola roxa pequena
+- ½ cebola roxa pequena
 - --
 
 ---

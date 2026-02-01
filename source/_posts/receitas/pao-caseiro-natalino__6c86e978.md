@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 2 colheres de sopa de açúcar
-- 1/2 pacote de fermento biológico seco
+- ½ pacote de fermento biológico seco
 - 1 xícara de chá de água morna
-- 1/4 xícara de chá de óleo de soja (ou azeite de oliva)
+- ¼ xícara de chá de óleo de soja (ou azeite de oliva)
 - 300 gramas farinha de trigo aproximadamente
 - 1 ovo para pincelar
 - Tomate-cereja a gosto

@@ -31,7 +31,7 @@ flags: []
 - 2 cenouras médias (300 gramas)
 - 3 batatas médias (450 gramas)
 - 2 beterrabas médias (400 gramas)
-- 1/3 de xícara de maionese
+- ⅓ de xícara de maionese
 - 4 folhas grandes de alface
 - --
 

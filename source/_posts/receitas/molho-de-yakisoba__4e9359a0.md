@@ -31,7 +31,7 @@ flags: []
 - 1 colher de sopa de manteiga
 - 200 ml de shoyu
 - 1,5 litro de água
-- 1 e 1/2 colher de sopa de açúcar
+- 1 e ½ colher de sopa de açúcar
 - 1 envelope de hondashi (tempero a base de peixe)
 - 5 colheres de amido
 - --

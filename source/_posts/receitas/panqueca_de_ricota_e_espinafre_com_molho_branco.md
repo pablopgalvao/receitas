@@ -51,7 +51,7 @@ flags: []
 - ¼ de xícara (chá) de queijo parmesão ralado
 - salsinha em folhas ou picada a gosto
 - Coloque cerca de 2 colheres (sopa) do recheio na ponta da última panqueca da pilha. Enrole pressionando para que o recheio fique firme. Transfira para um refratário grande e repita o procedimento com os outros discos de panqueca.
-- Regue as panquecas com cerca de 3/4 do molho branco. (O restante pode ser servido à parte.) Salpique com as nozes e com o queijo parmesão ralado. Leve ao forno por cerca de 15 minutos ou até o molho começar a borbulhar e dourar. Sirva com as folhas de salsa fresca.
+- Regue as panquecas com cerca de ¾ do molho branco. (O restante pode ser servido à parte.) Salpique com as nozes e com o queijo parmesão ralado. Leve ao forno por cerca de 15 minutos ou até o molho começar a borbulhar e dourar. Sirva com as folhas de salsa fresca.
 
 ---
 

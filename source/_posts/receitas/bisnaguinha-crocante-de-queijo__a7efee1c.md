@@ -36,7 +36,7 @@ flags: []
 - Requeijão cremoso a gosto
 - 1 ovo
 - 1 xícara de chá de farinha de rosca ou panko
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá de queijo parmesão ralado
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Azeite ou manteiga (para untar a assadeira)

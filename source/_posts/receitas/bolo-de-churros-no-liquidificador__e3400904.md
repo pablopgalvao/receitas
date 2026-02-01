@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 de xícara de doce de leite (400 gramas)
+- 1 e ¼ de xícara de doce de leite (400 gramas)
 - ½ caixinha de creme de leite (100 gramas)
 - --
 

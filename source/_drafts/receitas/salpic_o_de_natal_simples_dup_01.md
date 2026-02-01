@@ -31,19 +31,19 @@ flags: []
 
 - 1 peito de frango inteiro (700 gramas, sem ossos)
 - 2 colheres de café de sal
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de páprica picante (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de páprica picante (ou a gosto)
 - 1 colher de sopa de azeite
 - 1 xícara de chá de maionese
-- 1/2 xícara de chá de creme de leite
-- 1/2 copo de requeijão cremoso (200 gramas)
-- 1/2 xícara de chá de milho verde
-- 1/2 xícara de chá de ervilha
-- 1/4 de xícara de chá de azeitonas verdes
+- ½ xícara de chá de creme de leite
+- ½ copo de requeijão cremoso (200 gramas)
+- ½ xícara de chá de milho verde
+- ½ xícara de chá de ervilha
+- ¼ de xícara de chá de azeitonas verdes
 - 100 gramas de presunto
 - 2 colheres de sopa de salsinha
 - 2 colheres de sopa de cebolinha
-- 1/4 de xícara de chá de uva-passa
+- ¼ de xícara de chá de uva-passa
 - Batata palha a gosto para finalizar
 - Higienize os legumes, frutas e ervas. Aproveite para picar o tomate, a meia cebola, a maçã verde, o presunto, a salsinha e a cebolinha. Rale a cenoura no ralador grosso. Fatie as azeitonas e escorra o milho e a ervilha;
 - Na panela de pressão, acomode o peito de frango, a cebola cortada em cruz, o alho picado, a folha de louro, o sal, a pimenta-do-reino e a páprica;

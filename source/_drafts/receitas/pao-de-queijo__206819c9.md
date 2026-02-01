@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de polvilho azedo
 - 100 ml de leite
 - 100 ml de água
-- 3/4 de xícara de chá de óleo
+- ¾ de xícara de chá de óleo
 - 1 colher de café (cheia) de sal
 - 2 ovos (levemente batidos)
 - --

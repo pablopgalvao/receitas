@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de abóbora de pescoço
 - 2 dentes de alho
-- 1/2 cebola média
+- ½ cebola média
 - 2 colheres de sopa de azeite
 - 1 colher de chá de sal
 - Cebolinha a gosto para finalizar

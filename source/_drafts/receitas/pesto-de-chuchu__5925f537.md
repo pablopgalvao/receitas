@@ -33,8 +33,8 @@ flags: []
 - 1 xícara de chá de folhas de manjericão
 - 300 gramas de chuchu
 - 2 dentes de alho
-- 1/4 xícara de azeite de oliva (60 ml)
-- 1/2 xícara de castanha-do-pará (60 gramas)
+- ¼ xícara de azeite de oliva (60 ml)
+- ½ xícara de castanha-do-pará (60 gramas)
 - --
 
 ---

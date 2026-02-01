@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de aveia
-- 1/2 xícara de chá de leite desnatado
-- 1/3 xícara de chá de açúcar mascavo
-- 1/4 xícara de chá de óleo de girassol
+- ½ xícara de chá de leite desnatado
+- ⅓ xícara de chá de açúcar mascavo
+- ¼ xícara de chá de óleo de girassol
 - 1 ovo
 - 1 colher de sopa de chocolate em pó
 - 2 colheres de sopa de cacau 100%

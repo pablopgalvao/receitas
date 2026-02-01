@@ -34,7 +34,7 @@ flags: []
 - 1 xícara de chá de leite
 - 100 ml de óleo
 - 1 pitada de sal
-- 1 e 1/2 xícara de chá de fubá mimoso
+- 1 e ½ xícara de chá de fubá mimoso
 - 1 colher de fermento químico em pó (fermento para bolo)
 - Coloque no liquidificador os ovos e o açúcar. Bata até misturar bem (cerca de 2 minutos);
 - Adicione o milho, o leite, o óleo e o sal. Bata por mais 2 minutos;

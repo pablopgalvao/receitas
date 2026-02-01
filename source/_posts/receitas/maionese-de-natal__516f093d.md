@@ -35,7 +35,7 @@ flags: []
 - 6 batatas inglesas médias
 - 300 gramas de bacon
 - 300 gramas de maionese
-- 1/2 lata de milho-verde (85 gramas)
+- ½ lata de milho-verde (85 gramas)
 - 5 colheres de sopa de cheiro-verde picado (ou a gosto)
 - 1 xícara de chá de picles (60 gramas)
 - 1 cenoura média
@@ -55,6 +55,6 @@ flags: []
 5. Em uma frigideira no fogo médio, frite o bacon por cerca de 20 minutos ou até ele ficar bem dourado e crocante. Reserve em um recipiente;
 6. Após a batata cozinhar, escorra a água e transfira 1 xícara de batata para a peneira. Utilize as costas da colher para passar um purê lisinho. Você também pode amassar com um garfo;
 7. Aguarde o purê de batata esfriar e junte a maionese. Misture bem até ele ficar cremoso e homogêneo;
-8. Em uma tigela de vidro grande, coloque o restante da batata cozida, junte o milho, o cheiro-verde, 3/4 do bacon frito, os picles, a cenoura ralada, o lombo picado, os ovos cozidos e mexa bem;
+8. Em uma tigela de vidro grande, coloque o restante da batata cozida, junte o milho, o cheiro-verde, ¾ do bacon frito, os picles, a cenoura ralada, o lombo picado, os ovos cozidos e mexa bem;
 9. Acrescente a maionese com o purê de batata e espalhe todos os ingredientes entre si;
 10. Transfira a maionese para uma travessa, finalize com o bacon separado, o cheiro-verde e tomatinhos por cima. Sirva e aproveite!

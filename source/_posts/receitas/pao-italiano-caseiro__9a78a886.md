@@ -31,8 +31,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3 e 1/2 xícaras de chá de farinha de trigo (350 gramas)
-- 1 e 1/2 de xícara de chá de água (360 ml)
+- 3 e ½ xícaras de chá de farinha de trigo (350 gramas)
+- 1 e ½ de xícara de chá de água (360 ml)
 - 1 colher de sopa de fermento biológico seco (cerca de 10 gramas)
 - 2 colheres de chá de sal
 - Farinha de trigo para polvilhar a bancada e sovar a massa

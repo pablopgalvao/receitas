@@ -46,7 +46,7 @@ flags: []
 2. Na parte grossa do ralador, rale todos os queijos e reserve;
 3. Amasse o dente de alho e passe-o por todo interior da panela que será usada para preparar o fondue. Descarte o alho;
 4. Na panela, adicione o vinho e o conhaque. Leve para o fogo baixo;
-5. Após esquentar brevemente, adicione 1/3 dos queijos ralados e mexa até derreter;
+5. Após esquentar brevemente, adicione ⅓ dos queijos ralados e mexa até derreter;
 6. Quando estiver tudo incorporado, acrescente o restante dos queijo aos poucos. Reduza para o fogo baixo e continue misturando por cerca de 2 minutos;
 7. Se achar necessário, coloque mais queijo e ajuste o sal. Adicione a noz-moscada ralada e a pimenta-do-reino. Misture tudo até incorporar;
 8. Agora é só servir. Bom apetite!

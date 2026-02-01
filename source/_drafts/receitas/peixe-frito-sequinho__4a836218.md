@@ -32,11 +32,11 @@ flags: []
 - 800 gramas de filé de tilápia congelado
 - 2 dentes de alho amassados
 - Suco de 1 limão
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de fubá
-- 1/2 colher de sopa de amido de milho
+- ½ xícara de chá de farinha de trigo
+- ½ xícara de chá de fubá
+- ½ colher de sopa de amido de milho
 - 1 litro de azeite ou óleo para fritar
 - --
 

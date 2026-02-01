@@ -33,7 +33,7 @@ flags: []
 
 - 2 xícaras de chá de grão-de-bico
 - 4 xícaras de chá de água
-- 1/4 de uma cebola
+- ¼ de uma cebola
 - 1 dente de alho
 - Cheiro-verde a gosto
 - Sal e páprica picante a gosto

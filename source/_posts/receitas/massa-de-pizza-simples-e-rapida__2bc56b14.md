@@ -30,9 +30,9 @@ flags: []
 
 - 2 xícaras de chá de farinha de trigo (320 gramas)
 - 1 colher de sopa de fermento em pó (15 gramas)
-- 1/2 colher de chá de sal (5 gramas)
-- 3/4 de xícara de chá de água (180 ml)
-- 1/4 de xícara de chá de óleo (60 ml)
+- ½ colher de chá de sal (5 gramas)
+- ¾ de xícara de chá de água (180 ml)
+- ¼ de xícara de chá de óleo (60 ml)
 - --
 
 ---

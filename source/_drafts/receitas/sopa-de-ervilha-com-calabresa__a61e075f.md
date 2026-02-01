@@ -32,7 +32,7 @@ flags: []
 - 1 linguiça calabresa
 - 2 dentes de alho
 - 1 cebola
-- 1/2 pimentão
+- ½ pimentão
 - 1 colher de sopa de sal
 - 1,5 litro de água
 - --

@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 10 tomates italianos maduros
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 5 colheres de sopa de azeite
 - 1 cebola picada
 - 3 dentes de alho picados

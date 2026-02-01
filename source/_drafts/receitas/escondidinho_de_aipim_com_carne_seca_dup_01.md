@@ -36,7 +36,7 @@ flags: []
 - 75 gramas de manteiga
 - 300 gramas de mussarela ralada ou a gosto
 - 100 gramas de parmesão ralado ou a gosto
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 kg de aipim
 - 250 ml de leite
 - 100 gramas de manteiga

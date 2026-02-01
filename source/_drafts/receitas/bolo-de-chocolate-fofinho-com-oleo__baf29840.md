@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite (240 ml)
-- 1/2 xícara de chá de açúcar (60 gramas)
-- 1/2 xícara de chocolate em pó (60 gramas)
-- 2 e 1/2 colheres de sopa de manteiga
+- ½ xícara de chá de açúcar (60 gramas)
+- ½ xícara de chocolate em pó (60 gramas)
+- 2 e ½ colheres de sopa de manteiga
 - --
 
 ---

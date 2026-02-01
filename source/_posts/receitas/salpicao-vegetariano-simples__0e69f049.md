@@ -37,8 +37,8 @@ flags: []
 - 1 talo de salsão
 - 1 tira de pimentão picado
 - 1 cenoura média ralada
-- 1/2 repolho ralado
-- 1/2 maçã verde sem casca cortada em cubos pequenos
+- ½ repolho ralado
+- ½ maçã verde sem casca cortada em cubos pequenos
 - 8 azeitonas picadas
 - Sal e pimenta-do-reino a gosto
 - 1 colher de sopa de mostarda

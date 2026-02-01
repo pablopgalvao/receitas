@@ -30,7 +30,7 @@ flags: []
 
 - 400 gramas de alcatra (cerca de 3 a 4 bifes)
 - 1 colher de chá de sal ou a gosto
-- 1/2 colher de café de pimenta-do-reino moída
+- ½ colher de café de pimenta-do-reino moída
 - --
 
 ---

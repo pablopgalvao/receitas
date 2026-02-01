@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abóbora cabotiá limpa
+- ½ abóbora cabotiá limpa
 - 1 cenoura
 - 1 cebola picada
 - 2 dentes de alho triturados

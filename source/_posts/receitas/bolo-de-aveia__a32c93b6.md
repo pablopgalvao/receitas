@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de leite (375 ml)
+- 1 e ½ xícara de chá de leite (375 ml)
 - 4 ovos médios
 - 5 colheres de sopa de manteiga (em ponto de pomada)
-- 3/4 de xícara de chá de açúcar demerara (135 gramas)
+- ¾ de xícara de chá de açúcar demerara (135 gramas)
 - 1 colher de chá de canela em pó (opcional)
 - 2 xícaras de chá de farinha de aveia ou flocos finos (200 gramas)
-- 1/2 xícara de chá de uva-passas (50 gramas)
+- ½ xícara de chá de uva-passas (50 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

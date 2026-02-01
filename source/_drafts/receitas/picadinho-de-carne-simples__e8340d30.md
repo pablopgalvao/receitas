@@ -30,11 +30,11 @@ flags: []
 
 - 500 gramas de filé mignon
 - 3 colheres de sopa de óleo
-- 1/4 de cebola
+- ¼ de cebola
 - 1 colher de sopa de alho picado
 - 2 colheres de sopa de molho inglês
-- 1/2 xícara de chá de ketchup
-- 1/4 de xícara de chá de mostarda
+- ½ xícara de chá de ketchup
+- ¼ de xícara de chá de mostarda
 - 100 ml de agua
 - 1 colher de chá de amido
 - --

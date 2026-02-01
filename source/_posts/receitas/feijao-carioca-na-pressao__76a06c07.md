@@ -33,7 +33,7 @@ flags: []
 - 1 xícara de chá de feijão (200 gramas)
 - 2 folhas de louro
 - 2 colheres de sopa de bacon (20 gramas)
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
 - 2 colheres de sopa de óleo (10 ml)
 - Água para o cozimento (200 ml)

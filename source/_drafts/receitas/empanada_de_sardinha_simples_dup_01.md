@@ -29,18 +29,18 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 xícara de chá de óleo (180 ml)
-- 1 e 1/4 xícara de leite (300 ml)
+- ¾ xícara de chá de óleo (180 ml)
+- 1 e ¼ xícara de leite (300 ml)
 - 4 xícaras de farinha de trigo (560 gramas)
 - 100 gramas de parmesão ralado
 - 1 lata de milho (170 gramas)
 - 1 lata de ervilha (170 gramas)
 - 1 colher de chá de sal
 - 2 colheres de sopa de cheiro-verde
-- 1/4 colher de chá de louro em pó
-- 1/4 colher de chá de pimenta-caiena
-- 1/4 colher de chá de cominho em pó
-- 1/4 colher de chá de pimenta-do-reino moída na hora
+- ¼ colher de chá de louro em pó
+- ¼ colher de chá de pimenta-caiena
+- ¼ colher de chá de cominho em pó
+- ¼ colher de chá de pimenta-do-reino moída na hora
 - No liquidificador, adicione os ovos, o óleo, o leite, o queijo ralado e a farinha de trigo. Bata até obter uma massa cremosa e levemente espessa. Reserve;
 - Unte uma forma (30x21x06) com óleo ou manteiga. Despeje metade da massa no fundo, espalhando bem;
 

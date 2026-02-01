@@ -35,7 +35,7 @@ flags: []
 - 1 colher de chá de colorau
 - 1 colher de manteiga
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 300 gramas de queijo mussarela ralado
 - 100 gramas de batata palha (ou a gosto)
 - --

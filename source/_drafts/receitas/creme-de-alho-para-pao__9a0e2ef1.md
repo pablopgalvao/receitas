@@ -32,7 +32,7 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 2 ovos cozidos
 - 2 dentes de alho
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de orégano
 - 1 pitada de sal

@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar (90 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
 - 2 colheres de sopa rasas de manteiga (25 gramas)
 - 1 caixinha de leite condensado (395 gramas)
 - --

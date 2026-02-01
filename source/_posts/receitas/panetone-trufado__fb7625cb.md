@@ -36,8 +36,8 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - 3 colheres de sopa de leite em pó (50 gramas)
 - 1 colher de sopa de amido de milho (10 gramas)
-- 1/2 colher de sopa de manteiga ou margarina (10 gramas)
-- 1/3 de xícara de chá de leite (80 ml)
+- ½ colher de sopa de manteiga ou margarina (10 gramas)
+- ⅓ de xícara de chá de leite (80 ml)
 - 100 gramas de creme de avelã
 - 100 gramas de chocolate branco
 - Tabletes de chocolate Kinder Bueno a gosto para decorar

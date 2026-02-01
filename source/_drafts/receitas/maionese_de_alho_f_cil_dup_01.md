@@ -31,7 +31,7 @@ flags: []
 
 - 1 colher de sopa de suco de limão (ou vinagre)
 - 1 xícara de chá de óleo
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - Em um recipiente, coloque o ovo, o suco de limão e o óleo. Posicione o mixer e ligue na velocidade máxima e deixe bater até a maionese estar quase pronta e não restar quase nenhum óleo boiando na superfície;
 - Coloque o alho, o sal e bata até misturar bem;
 

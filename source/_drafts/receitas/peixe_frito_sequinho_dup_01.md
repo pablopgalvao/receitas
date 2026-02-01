@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 800 gramas de filé de tilápia congelado
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de fubá
-- 1/2 colher de sopa de amido de milho
+- ½ xícara de chá de farinha de trigo
+- ½ xícara de chá de fubá
+- ½ colher de sopa de amido de milho
 - 1 litro de azeite ou óleo para fritar
 - Em uma tigela, tempere os peixes com o alho, sal, pimenta e suco de limão. Misture bem com uma colher ou com as próprias mãos. Cubra com um pano de prato limpo ou plástico filme. Deixe os filés marinando por, no mínimo, 30 minutos;
 - Enquanto isso, prepare a mistura para empanar. Em um pratinho raso, adicione a farinha de trigo, o fubá e o amido de milho. Misture tudo e, se quiser, tempere com um pouco de sal e pimenta;

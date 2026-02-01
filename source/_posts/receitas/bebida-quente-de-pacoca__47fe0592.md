@@ -30,7 +30,7 @@ flags: []
 
 - 500 ml de leite
 - 2 colheres de chá de amido de milho
-- 1/2 lata de leite condensado
+- ½ lata de leite condensado
 - 5 paçocas de rolha
 - 1 colher de chá de canela
 - --

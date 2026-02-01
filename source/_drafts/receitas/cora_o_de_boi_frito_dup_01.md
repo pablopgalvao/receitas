@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 coração de boi (1,1 kg)
-- 1/2 colher de sopa de pimenta calabresa
+- ½ colher de sopa de pimenta calabresa
 - 1 colher de chá de curry
 - 1 colher de chá de páprica defumada
 - 1 colher de sopa de lemon pepper

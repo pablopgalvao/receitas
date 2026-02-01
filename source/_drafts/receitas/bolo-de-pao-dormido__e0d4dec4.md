@@ -34,7 +34,7 @@ flags: []
 - 800 ml de leite
 - 2 ovos médios
 - 1 colher de sopa de canela em pó
-- 1/2 colher de sopa de cravo triturado
+- ½ colher de sopa de cravo triturado
 - --
 
 ---

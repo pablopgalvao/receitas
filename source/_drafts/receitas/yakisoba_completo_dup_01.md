@@ -34,18 +34,18 @@ flags: []
 - 200 gramas de alcatra
 - 1 cebola grande (80 gramas)
 - 1 cenoura média (80 gramas)
-- 1/2 brócolis (70 gramas)
-- 1/2 acelga (120 gramas)
+- ½ brócolis (70 gramas)
+- ½ acelga (120 gramas)
 - 300 gramas de macarrão para yakisoba
 - 100 ml de shoyu
-- 1/2 e 1/3 de xícara de chá de água (150 ml)
+- ½ e ⅓ de xícara de chá de água (150 ml)
 - 3 colheres chá de amido de milho (20 gramas)
 - 1 colher de sopa de açúcar
 - 3 colheres de sopa de molho de ostra (30 ml)
 - 5 ml de óleo de gergelim
 - 5 gramas de gengibre ralado (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Leve uma frigideira ou wok ao fogo alto. Assim que aquecer, adicione o óleo de gergelim e as tiras de alcatra. Tempere com um pouco de sal e pimenta-do-reino e frite até dourar, por cerca de 3 minutos. Transfira a carne para uma tigela e reserve;
 - Na mesma wok, adicione mais 1 colher de sopa de óleo, se necessário e coloque o frango. Tempere com sal e pimenta-do-reino e frite as tiras de frango até dourar. Retire e reserve com a carne;
 - Coloque mais um pouco de óleo na wok, adicione os camarões, adicione um pouco de sal e pimenta-do-reino e cozinhe até ficarem rosados, por cerca de 2 a 3 minutos. Reserve com as outras carnes;

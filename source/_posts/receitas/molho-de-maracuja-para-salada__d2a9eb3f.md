@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 maracujá pequeno (ou 1/2 grande)
+- 1 maracujá pequeno (ou ½ grande)
 - 1 colher de sopa (rasa) de mel ou açúcar mascavo
 - 1 colher de chá de sal
 - Azeite de oliva a gosto

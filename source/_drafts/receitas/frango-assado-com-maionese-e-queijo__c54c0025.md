@@ -37,7 +37,7 @@ flags: []
 - 2 dentes de alho amassados
 - Sal e pimenta-do-reino a gosto
 - Mix de cebola, alho e salsa a gosto
-- 1/2 cebola bem picadinha
+- ½ cebola bem picadinha
 - 1 tomate bem picadinho
 - Cheiro-verde picado a gosto
 - 2 colheres de sopa de maionese

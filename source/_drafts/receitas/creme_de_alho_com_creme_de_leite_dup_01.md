@@ -31,7 +31,7 @@ flags: []
 
 - 2 caixas de creme de leite (400 gramas)
 - Sal a gosto
-- 1/4 de xícara de chá de cebolinha verde (opcional)
+- ¼ de xícara de chá de cebolinha verde (opcional)
 - Óleo de soja (aprox. 30ml)
 - No copo do liquidificador, coloque o creme de leite, os dentes de alho, o sal, a cebolinha (se usar) e o suco do limão;
 - Em seguida, bata até misturar bem e ganhar corpo. O limão ajuda a encorpar mais rápido, reduzindo a necessidade de óleo;

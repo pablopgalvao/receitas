@@ -33,7 +33,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 150 gramas de atum cortado em cubos
-- 1/2 cebola cortada em cubos bem pequenos
+- ½ cebola cortada em cubos bem pequenos
 - 6 colheres de sopa de shoyu
 - 1 colher de sopa de molho de ostra
 - 1 colher de sopa de óleo de gergelim

@@ -32,7 +32,7 @@ flags: []
 
 - 2 latas de grão-de-bico (280 gramas cada lata)
 - 3 dentes de alho
-- 1/2 limão
+- ½ limão
 - 1 colher de sopa de tahine
 - 3 colheres de sopa de azeite
 - Sal e pimenta-do-reino a gosto

@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de mandioquinha
 - 1 colher de chá de sal
 - 5 colheres de sopa de manteiga gelada (70 gramas)
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 100 gramas de parmesão ralado
 - Noz-moscada a gosto (opcional)
 - Cozinhe as mandioquinhas por aproximadamente 8 minutos em uma panela com água e sal, até ficarem bem macias

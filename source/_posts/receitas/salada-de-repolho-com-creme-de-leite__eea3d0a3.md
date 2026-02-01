@@ -31,13 +31,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 repolho
+- ½ repolho
 - 1 cenoura média
 - 1 maçã pequena
 - 1 tomate médio
 - Suco de 1 limão taiti
 - 2 colheres de sopa de azeite
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
 - 1 caixa de creme de leite (200 gramas)
 - Sal a gosto

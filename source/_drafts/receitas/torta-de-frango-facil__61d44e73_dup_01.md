@@ -31,18 +31,18 @@ flags: []
 
 - 3 xícaras de frango desfiado e cozido (350 gramas)
 - 1 cenoura (180 gramas)
-- 1/2 cebola (90 gramas)
+- ½ cebola (90 gramas)
 - 1 lata de dueto de milho e ervilha (170 gramas)
 - 1 sachê de molho de tomate
-- 1/2 colher de chá de páprica doce
+- ½ colher de chá de páprica doce
 - 1 colher de chá de sal (ou a gosto)
-- 1/8 de colher de chá de pimenta-do-reino (ou a gosto)
+- ⅛ de colher de chá de pimenta-do-reino (ou a gosto)
 - 3 colheres de sopa de cheiro-verde picado (ou a gosto)
 - 3 colheres de sopa de azeite de oliva
 - 2 xícaras de farinha de trigo (320 gramas)
 - 300 ml de leite integral
 - 4 ovos
-- 3/4 de xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de óleo (180 ml)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Queijo ralado a gosto para finalizar
 - --

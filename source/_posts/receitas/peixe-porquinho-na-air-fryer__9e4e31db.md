@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de peixe-porquinho
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de páprica (ou a gosto)
 - 2 limões-taiti médios
 - 3 dentes de alho amassados

@@ -31,9 +31,9 @@ flags: []
 
 - 250 gramas de talharim
 - 2 colheres de sopa de azeite
-- 1/2 xícara de chá de calabresa defumada picada
+- ½ xícara de chá de calabresa defumada picada
 - 1 dente de alho picado
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 maço de espinafre (folhas e talos picados)
 - Sal e pimenta-do-reino a gosto
 - 250 ml de creme de leite fresco

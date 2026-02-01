@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de milho-verde (170 gramas)
-- 1/2 lata de óleo de soja (120 ml)
+- ½ lata de óleo de soja (120 ml)
 - 1 lata de leite integral (150 ml)
 - 1 lata de açúcar cristal (135 gramas)
 - 1 lata de flocão de milho ou milharina (120 gramas)

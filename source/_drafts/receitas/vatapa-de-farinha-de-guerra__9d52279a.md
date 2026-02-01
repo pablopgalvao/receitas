@@ -31,14 +31,14 @@ flags: []
 - 1,5 litros de água
 - 1 xícara de chá de amendoim torrado e sem pele (150 gramas)
 - 1 xícara de chá de camarão seco (100 gramas)
-- 1/2 xícara de chá de castanha-de-caju (70 gramas)
+- ½ xícara de chá de castanha-de-caju (70 gramas)
 - 2 xícaras de chá de leite de coco (480ml)
 - 1 colher de sobremesa de sal
 - 4 colheres de sopa de azeite de dendê
 - 2 xícaras de chá de farinha de guerra (farinha de mandioca) (220 gramas)
 - 2 colheres de sopa de açúcar
 - 2 cebolas
-- 1/2 pimentão vermelho
+- ½ pimentão vermelho
 - 1 tomate
 - 4 colheres de sopa de cheiro-verde (12 gramas) ou a gosto
 - 1 pimenta-de-cheiro

@@ -29,17 +29,17 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/4 xícara de chá de azeite ou óleo de coco
-- 1/2 colher de sopa de vinagre de maçã
+- ¼ xícara de chá de azeite ou óleo de coco
+- ½ colher de sopa de vinagre de maçã
 - 1 cebola média picada
-- 1/2 colher de chá de sal
-- 1/2 colher de chá de páprica picante
+- ½ colher de chá de sal
+- ½ colher de chá de páprica picante
 - 1 colher de sopa de chimichurri ou orégano
 - 1 xícara de chá de abóbora ou cenoura ralada
-- 1/2 xícara de chá de sementes de abóbora tostadas
-- 1/2 xícara de chá de farinha de amêndoas ou amendoim
-- 3/4 xícara de chá de amaranto ou quinoa em flocos
-- 1 e 1/2 xícara de chá de frango desfiado e temperado
+- ½ xícara de chá de sementes de abóbora tostadas
+- ½ xícara de chá de farinha de amêndoas ou amendoim
+- ¾ xícara de chá de amaranto ou quinoa em flocos
+- 1 e ½ xícara de chá de frango desfiado e temperado
 - 1 colher de sopa de fermento químico em pó (para bolo)
 - 2 colheres de sopa de sementes de abóbora para decorar
 - 2 colheres de sopa de sementes de girassol para decorar

@@ -31,7 +31,7 @@ flags: []
 - 1 tablete de caldo de legumes
 - 1 litro de água quente
 - 2 colheres de sopa de manteiga
-- 1/2 cebola picada
+- ½ cebola picada
 - 3 xícaras de chá de arroz arbóreo
 - 1 taça de vinho branco seco
 - 1 linguiça calabresa fatiada

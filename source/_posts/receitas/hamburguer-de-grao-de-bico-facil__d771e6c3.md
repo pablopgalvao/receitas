@@ -34,14 +34,14 @@ flags: []
 
 - 1 xícara de grão-de-bico cozido
 - Sal a gosto
-- 1/2 cebola picada
-- 1/2 colher de chá de cúrcuma
+- ½ cebola picada
+- ½ colher de chá de cúrcuma
 - 3 colheres de sopa de azeite de oliva
 - 2 colheres de sopa de cenoura ralada fina
 - Salsinha a gosto
 - Cebolinha a gosto
 - Pimenta-do-reino a gosto
-- 1/2 xícara de chá de aveia em flocos
+- ½ xícara de chá de aveia em flocos
 - --
 
 ---

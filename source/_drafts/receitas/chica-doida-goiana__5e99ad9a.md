@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite de oliva
-- 1 e 1/2 xícara de chá de linguiça calabresa (250 gramas)
+- 1 e ½ xícara de chá de linguiça calabresa (250 gramas)
 - 1 cebola
 - 4 dentes de alho
 - 1 talo de alho-poró
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - Noz-moscada a gosto
 - 2 colheres de sopa de cheiro-verde
 - --

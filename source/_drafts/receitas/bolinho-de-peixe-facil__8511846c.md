@@ -32,7 +32,7 @@ flags: []
 - 1 ovo médio batido
 - 1 colher de sopa de farinha de trigo
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 350 ml de óleo para fritar
 - --
 

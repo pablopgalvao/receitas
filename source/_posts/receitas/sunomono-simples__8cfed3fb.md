@@ -30,8 +30,8 @@ flags: []
 
 - 1 pepino japonês grande
 - 1 colher de sopa de sal para desidratação
-- 1/3 de xícara de chá de açúcar (60 gramas)
-- 1/3 de xícara de chá de vinagre de arroz (80 ml)
+- ⅓ de xícara de chá de açúcar (60 gramas)
+- ⅓ de xícara de chá de vinagre de arroz (80 ml)
 - 1 colher de chá de sal
 - --
 

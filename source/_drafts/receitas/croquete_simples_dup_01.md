@@ -33,8 +33,8 @@ flags: []
 - 100 gramas de bacon
 - 150 ml de água
 - 1 colher de sopa de farinha de trigo
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de farinha de rosca
+- 1 e ½ xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de rosca
 - 150 gramas de mussarela peça
 - Páprica doce a gosto
 - Sal a gosto

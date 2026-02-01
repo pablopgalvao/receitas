@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas camarão
-- 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - Azeite de oliva a gosto
-- 1/2 sachê de molho de tomate (340 gramas)
+- ½ sachê de molho de tomate (340 gramas)
 - 2 colheres de sopa de mostarda
 - 1 colher de sopa de salsinha e cebolinha
 - Junte em uma bancada os ingredientes para preparar essa receita. Para facilitar o passo a passo, deixe a cebola, o alho, a salsinha e a cebolinha picados;

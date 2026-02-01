@@ -38,7 +38,7 @@ flags: []
 - Pimenta calabresa a gosto
 - Sal a gosto
 - Azeitonas picadas a gosto (opcional)
-- 1/2 colher de sopa de manteiga
+- ½ colher de sopa de manteiga
 - --
 
 ---

@@ -38,7 +38,7 @@ flags: []
 - 1 colher de sopa de fermento biológico seco
 - 1 ovo
 - 2 xícaras de chá de farinha de trigo
-- 1/4 colher de chá de sal
+- ¼ colher de chá de sal
 - --
 
 ---

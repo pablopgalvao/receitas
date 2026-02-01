@@ -35,7 +35,7 @@ flags: []
 - 400 gramas de requeijão cremoso
 - 500 gramas de carne seca dessalgada e cozida
 - 6 colheres de sopa de azeite
-- 1/2 xícara de chá de coentro e salsinha picada
+- ½ xícara de chá de coentro e salsinha picada
 - 1 xícara de chá de queijo parmesão ralado
 - Sal a gosto
 - Acrescente 1 colher de sopa de manteiga e mexa novamente, em fogo baixo, até que derreta. Desligue o fogo, salpique coentro e salsinha, misture e reserve;

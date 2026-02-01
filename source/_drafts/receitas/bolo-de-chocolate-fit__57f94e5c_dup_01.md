@@ -30,7 +30,7 @@ flags: []
 
 - 200 ml de leite de coco
 - 4 colheres de sopa de chocolate em pó (zero lactose)
-- 1/2 xícara de chá de açúcar mascavo
+- ½ xícara de chá de açúcar mascavo
 - --
 
 ---

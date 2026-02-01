@@ -34,7 +34,7 @@ flags: []
 - 40 gramas de queijo parmesão ralado grosso
 - 2 colheres de sopa de azeite de oliva
 - 6 colheres de sopa de maionese
-- 1/2 xícara de chá de croutons
+- ½ xícara de chá de croutons
 - Em um recipiente, coloque o frango e tempere com sal, pimenta, metade do suco de limão. Deixe marinar por alguns minutos;
 - Pique o filé de anchova bem picadinho, transfira para um recipiente, adicione o alho, metade do parmesão ralado, metade do azeite, o restante do suco de limão, a maionese, o sal, a pimenta e misture bem até formar um molho. Reserve na geladeira;
 

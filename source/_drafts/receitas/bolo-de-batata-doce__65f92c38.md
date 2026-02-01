@@ -33,7 +33,7 @@ flags: []
 - 3 ovos
 - 1 xícara de chá de leite
 - 200 gramas de batata-doce descascadas e picadas
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de açúcar
 - 1 xícara de chá de farinha de trigo
 - 1 colher de sopo de fermento químico em pó

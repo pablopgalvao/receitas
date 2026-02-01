@@ -32,13 +32,13 @@ flags: []
 - 2 cenouras médias
 - 4 ovos médios
 - 150 gramas de vagem
-- 1/2 cebola
-- 1/2 xícara de chá de salsinha e cebolinha
+- ½ cebola
+- ½ xícara de chá de salsinha e cebolinha
 - 500 gramas de maionese
-- 1/2 limão
+- ½ limão
 - 1 colher de sopa de óleo
-- 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

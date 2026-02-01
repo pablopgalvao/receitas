@@ -28,15 +28,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3 e 1/2 xícara de chá de grão-de-bico (500 gramas)
+- 3 e ½ xícara de chá de grão-de-bico (500 gramas)
 - 200 gramas de tomatinho-cereja
-- 1/2 xícara de chá de azeitona sem caroço (100 gramas)
-- 250 gramas de ricota (1/2 pacote)
+- ½ xícara de chá de azeitona sem caroço (100 gramas)
+- 250 gramas de ricota (½ pacote)
 - 1 vidro de palmito de pupunha (300 gramas)
 - 1 xícara de chá de cheiro-verde (1 maço)
 - 1 colher de chá de sal
-- 1/4 colher de chá de pimenta-do-reino
-- 1/4 colher de chá de páprica
+- ¼ colher de chá de pimenta-do-reino
+- ¼ colher de chá de páprica
 - 6 colheres de sopa de azeite (90 ml)
 - --
 

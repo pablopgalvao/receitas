@@ -30,7 +30,7 @@ flags: []
 
 - 2 colheres de sopa de margarina ou manteiga
 - 2 colheres de sopa de farinha de trigo
-- 1/2 litro de leite
+- ½ litro de leite
 - --
 
 ---

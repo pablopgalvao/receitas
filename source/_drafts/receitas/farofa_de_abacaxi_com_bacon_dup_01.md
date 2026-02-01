@@ -33,7 +33,7 @@ flags: []
 - 2 colheres de sopa de manteiga (60 gramas)
 - 4 colheres de sopa de azeite de oliva (opcional)
 - 2 xícaras de chá de farinha de mandioca grossa ou fina
-- 1/2 xícara de chá de azeitona verde ou preta picada
+- ½ xícara de chá de azeitona verde ou preta picada
 - Sal a gosto
 - Cheiro-verde a gosto
 - Adicione a manteiga e misture até dissolver bem. Acrescente o alho e a cebola e refogue bem;

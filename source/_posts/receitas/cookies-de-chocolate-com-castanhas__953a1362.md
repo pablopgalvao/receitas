@@ -34,7 +34,7 @@ flags: []
 - 1 ovo
 - 2 colheres de sopa de manteiga derretida (ou óleo de coco)
 - 3 colheres de sopa de açúcar mascavo (pode ser o de coco ou demerara)
-- 1/4 de xícara de chá de cacau 100% (ou 50%)
+- ¼ de xícara de chá de cacau 100% (ou 50%)
 - Canela em pó a gosto
 - Essência de baunilha a gosto
 - 1 colher de sobremesa de fermento químico

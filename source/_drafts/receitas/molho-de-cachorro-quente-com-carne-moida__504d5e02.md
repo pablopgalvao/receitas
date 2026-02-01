@@ -43,7 +43,7 @@ flags: []
 - 1 tomate médio
 - 1 pimentão verde
 - Cheiro-verde a gosto
-- 1 e 1/4 de xícara de chá de água (300 ml)
+- 1 e ¼ de xícara de chá de água (300 ml)
 - 1 sachê de molho de tomate (340 gramas)
 - 1 lata de milho-verde (170 gramas)
 - Pimenta-de-cheiro a gosto

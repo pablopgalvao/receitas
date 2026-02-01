@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 xícara de chá de água
-- 2/3 xícara de chá de açúcar
+- ⅓ xícara de chá de água
+- ⅔ xícara de chá de açúcar
 - 2 pães franceses picados
 - 300 ml de leite
 - 3 ovos

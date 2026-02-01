@@ -30,9 +30,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de leite morno (200 ml)
+- ¾ de xícara de chá de leite morno (200 ml)
 - 1 colher de sopa de fermento biológico seco (10 gramas)
-- 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (300 gramas)
 - 2 colheres de sopa de açúcar (30 gramas)
 - 1 colher de café de sal
 - 1 colher de chá de essência de baunilha líquida ou em pó

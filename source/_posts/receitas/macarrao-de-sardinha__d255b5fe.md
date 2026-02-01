@@ -29,16 +29,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 250 gramas de macarrão espaguete
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
 - 1 lata de sardinha
 - 300 gramas de molho de tomate
 - 300 ml de água
-- 1/2 colher de sopa de açúcar
+- ½ colher de sopa de açúcar
 - 3 colheres de sopa de azeite
 - 1 folha de louro
 - 1 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 3 colheres de sopa de salsinha picada (ou a gosto)
 - 50 gramas de queijo parmesão ralado (ou a gosto)
 - --

@@ -32,11 +32,11 @@ flags: []
 
 - 2 bananas-prata
 - 2 colheres de sopa de manteiga
-- 1/2 cebola cortada em cubos pequenos
+- ½ cebola cortada em cubos pequenos
 - 1 dente de alho picado
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1 e 1/2 xícara de chá de farinha de mandioca torrada
+- 1 e ½ xícara de chá de farinha de mandioca torrada
 - --
 
 ---

@@ -34,7 +34,7 @@ flags: []
 - 1 caixinha de leite condensado
 - 1 caixinha de creme de leite
 - 400 ml de leite
-- 1/2 xícara de chocolate em pó 50% cacau
+- ½ xícara de chocolate em pó 50% cacau
 - Granulado para decorar
 - --
 

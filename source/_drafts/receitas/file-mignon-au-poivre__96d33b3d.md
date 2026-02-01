@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de manteiga
 - 1 colher de sopa de azeite
 - 2 colheres de sopa de pimenta-verde em grãos
-- 1/2 xícara de chá de vinho branco seco
+- ½ xícara de chá de vinho branco seco
 - 2 colheres de sopa de conhaque
 - 200 ml de creme de leite fresco
 - Sal a gosto

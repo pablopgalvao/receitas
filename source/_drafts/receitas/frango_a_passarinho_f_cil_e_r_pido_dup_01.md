@@ -32,7 +32,7 @@ flags: []
 - 1,2 kg de coxas e sobrecoxas picadas
 - 1 colher de chá de páprica doce
 - 1 colher de sobremesa de tempero caseiro
-- 1 e 1/2 xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farinha de trigo
 - 1 colher de chá de páprica doce
 - 1 colher de café de sal
 - 1 colher de café de pimenta-do-reino

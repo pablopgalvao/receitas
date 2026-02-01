@@ -33,8 +33,8 @@ flags: []
 - 800 gramas de batatas
 - 4 ovos médios
 - 3 colheres de sopa de salsinha
-- 2/3 de xícara de chá de azeite de oliva (160 ml)
-- 1/2 xícara de chá de azeitonas pretas
+- ⅔ de xícara de chá de azeite de oliva (160 ml)
+- ½ xícara de chá de azeitonas pretas
 - Água para cozinhar o bacalhau, batatas e ovos
 - 1 colher de chá de sal para cozimento das batatas
 - Lave e descasque as batatas. Transfira-as para uma panela grande no fogo alto, adicione água e sal, cozinhe por 10 minutos ou até ela ficar al dente, ou seja, macia mas ainda firme;

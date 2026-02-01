@@ -33,7 +33,7 @@ flags: []
 - 1 cabeça de alho
 - 3 tomates grandes maduros
 - 1 cenoura
-- 1/2 pimentão vermelho
+- ½ pimentão vermelho
 - 1 fio de azeite
 - Sal a gosto
 - Pimenta-do-reino a gosto

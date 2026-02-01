@@ -31,9 +31,9 @@ flags: []
 
 - 2 colheres de sopa de óleo
 - 2 colheres de sopa de salsinha desidratada
-- 1/2 colher de sopa de páprica (ou a gosto)
+- ½ colher de sopa de páprica (ou a gosto)
 - 1 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 1 colher de chá (rasa) de colorau
 - 1 colher de café de orégano (ou a gosto)
 - 1 colher de chá de salsinha (ou a gosto)

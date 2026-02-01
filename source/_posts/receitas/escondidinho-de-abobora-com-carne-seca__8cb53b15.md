@@ -34,7 +34,7 @@ flags: []
 - 300 gramas de carne seca cozida e desfiada
 - 1 colher de sopa de azeite de oliva
 - 5 dentes de alho picados
-- 1/2 cebola picada
+- ½ cebola picada
 - 4 colheres de sopa de queijo parmesão ralado
 - 1 tomate sem sementes picado
 - 1 colher de sopa de manteiga

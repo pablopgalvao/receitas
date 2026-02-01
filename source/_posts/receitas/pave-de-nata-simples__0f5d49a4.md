@@ -31,7 +31,7 @@ flags: []
 - 1 pote de nata (300 gramas)
 - 1 lata de leite condensado
 - 150 gramas de chocolate meio amargo
-- 1/2 caixinha de creme de leite
+- ½ caixinha de creme de leite
 - 140 gramas de bolacha do tipo maizena
 - --
 

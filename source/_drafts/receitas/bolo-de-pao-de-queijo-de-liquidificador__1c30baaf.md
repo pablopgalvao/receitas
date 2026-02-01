@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite (240 ml)
 - 3 xícaras de chá de polvilho doce (360 gramas)
 - 50 gramas de queijo ralado

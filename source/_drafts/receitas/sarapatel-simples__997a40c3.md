@@ -37,8 +37,8 @@ flags: []
 - 5 dentes de alho amassados
 - 2 tomates
 - 2 cebolas médias
-- 1/2 xícara de chá de folhas de hortelã
-- 1/2 xícara de chá de cebolinha picada
+- ½ xícara de chá de folhas de hortelã
+- ½ xícara de chá de cebolinha picada
 - 1 xícara de chá de água (240 ml)
 - 1 pimentão verde
 - 1 pimenta-dedo-de-moça (opcional)

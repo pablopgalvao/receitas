@@ -29,14 +29,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite (para temperar o frango)
-- 1/2 cebola média (80 gramas)
+- ½ cebola média (80 gramas)
 - 300 gramas de peito de frango
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1 e 1/2 colher de sopa de azeite (para refogar)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- 1 e ½ colher de sopa de azeite (para refogar)
 - 100 gramas de palmito
 - 100 gramas de champignon
-- 1/2 lata de tomate pelado ou 2 tomates sem pele e sem sementes (220 gramas)
+- ½ lata de tomate pelado ou 2 tomates sem pele e sem sementes (220 gramas)
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de molho inglês
 - 1 colher de chá de sal

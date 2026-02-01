@@ -31,15 +31,15 @@ flags: []
 
 - 3 cenouras médias (cerca de 360 gramas)
 - 1 xícara de chá de óleo de milho (240 ml)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (14 gramas)
-- 1 pitada de sal (1/4 de colher de chá)
+- 1 pitada de sal (¼ de colher de chá)
 - Manteiga e farinha de trigo para untar
 - 1 caixa de leite condensado (395 gramas)
 - 1 colher de sopa de manteiga sem sal (14 gramas)
 - 4 colheres de sopa de chocolate em pó (ou 7 colheres de sopa de achocolatado)
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - Higienize, descasque e corte as cenouras em rodelas. É possível substituir o óleo de milho por de girassol ou soja (prefira óleos com sabor mais neutro). Quebre os ovos em um recipiente separado para ver se todos estão bons. Coloque o forno para preaquecer a 180 ºC.
 - Em um recipiente, peneire a farinha (para deixar seu bolo mais leve e sem gruminhos). Adicione o sal e o fermento. Misture bem. Reserve;
 - No liquidificador, coloque as cenouras, o óleo, os ovos e o açúcar. Bata por cerca de 5 minutos, ou até ficar uma misture bem homogênea. Despeje em um recipiente grande;

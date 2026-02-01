@@ -34,15 +34,15 @@ flags: []
 - 1 colher de chá de colorau
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de páprica picante
-- 1/3 de colher de chá de açafrão
-- 1/2 colher de chá de pimenta-do-reino
+- ⅓ de colher de chá de açafrão
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de sopa de banha de porco
 - 3 dentes de alho
 - 2 tomates médios
 - 1 cebola
 - 1 pimentão verde
 - 2 xícaras de chá de arroz
-- 4 e 1/2 xícaras de chá de água quente (1,8 litro)
+- 4 e ½ xícaras de chá de água quente (1,8 litro)
 - 1 cenoura
 - 1 lata de milho verde
 - Cheiro-verde a gosto

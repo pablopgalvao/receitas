@@ -30,15 +30,15 @@ flags: []
 
 - 2 colheres de sopa de óleo (30 ml)
 - 900 gramas de paleta bovina em pedaços médios
-- 1 cebola grande picada grosseiramente (1/3 xícara de chá)
+- 1 cebola grande picada grosseiramente (⅓ xícara de chá)
 - 3 dentes de alho picados ou amassados com sal
 - 1 colher de sopa (rasa) de sal
-- 1/4 colher de chá de açafrão (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/4 colher de chá de páprica (ou a gosto)
+- ¼ colher de chá de açafrão (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ colher de chá de páprica (ou a gosto)
 - 2 colheres de sopa de mix de salsa (ou a gosto)
-- 1 e 1/2 xícara de chá de molho de tomate (360 ml)
-- 1/2 xícara de chá de água (120 ml)
+- 1 e ½ xícara de chá de molho de tomate (360 ml)
+- ½ xícara de chá de água (120 ml)
 - 1 colher de sopa de cheiro-verde (ou a gosto)
 - --
 

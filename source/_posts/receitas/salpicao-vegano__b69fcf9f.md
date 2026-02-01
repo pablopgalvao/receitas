@@ -32,11 +32,11 @@ flags: []
 
 - 1 cenoura ralada sem casca
 - 1 inhame médio
-- 1/2 xícara de uva-passa
-- 1/2 maçã ralada
-- 1/2 lata de milho-verde
-- 1/2 lata de ervilha em conserva
-- 1/4 xícara de água
+- ½ xícara de uva-passa
+- ½ maçã ralada
+- ½ lata de milho-verde
+- ½ lata de ervilha em conserva
+- ¼ xícara de água
 - 1 dente de alho
 - 1 colher de café de páprica defumada
 - Sal, coentro e cebolinha a gosto

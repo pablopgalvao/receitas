@@ -31,10 +31,10 @@ flags: []
 - 1 colher de sopa de óleo (ou a gosto)
 - 50 gramas de bacon
 - 2 dentes de alho
-- 1/2 cebola
-- 1/2 pimentão vermelho
+- ½ cebola
+- ½ pimentão vermelho
 - 1 cenoura média
-- 1/4 de abóbora cabotiá (300 gramas)
+- ¼ de abóbora cabotiá (300 gramas)
 - 1 batata média
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de chá de chimichurri (ou a gosto)

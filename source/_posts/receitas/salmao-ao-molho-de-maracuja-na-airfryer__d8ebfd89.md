@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - Polpa de 1 maracujá maduro com as sementes (50 gramas)
-- 1/2 xícara de chá de suco de maracujá concentrado (120 ml)
+- ½ xícara de chá de suco de maracujá concentrado (120 ml)
 - 1 colher de chá de açúcar
-- 1/2 colher de café de sal (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
 - 3 colheres de sopa de manteiga gelada em pedacinhos
 - --
 

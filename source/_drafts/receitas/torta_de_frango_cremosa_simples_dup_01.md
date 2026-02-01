@@ -31,11 +31,11 @@ flags: []
 
 - 200 gramas de frango cozido e desfiado
 - 1 xícara de chá de creme de ricota (100 gramas)
-- 1/2 xícara de chá de massa para tapioca (100 gramas)
+- ½ xícara de chá de massa para tapioca (100 gramas)
 - 5 colheres de sopa de milho verde (80 gramas)
-- 1/2 xícara de chá de cebolinha picada
-- 1/2 colher de chá de sal
-- 1/8 colher de chá de pimenta-do-reino
+- ½ xícara de chá de cebolinha picada
+- ½ colher de chá de sal
+- ⅛ colher de chá de pimenta-do-reino
 - 1 colher de chá de fermento químico em pó
 - Queijo minas padrão ou mussarela para finalizar (80 gramas)
 - Em uma tigela, quebre os ovos separadamente, para verificar se estão bons;

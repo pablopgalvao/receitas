@@ -29,14 +29,14 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3 e 1/2 xícaras de chá de farinha de trigo (500 gramas)
+- 3 e ½ xícaras de chá de farinha de trigo (500 gramas)
 - 500 ml de leite
 - 200 ml de água
 - 2 colheres de sopa de margarina (ou manteiga)
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 150 gramas de queijo mussarela em peça
 - 30 ml de água
-- 1 e 1/2 xícara de farinha de rosca
+- 1 e ½ xícara de farinha de rosca
 - Óleo para fritar
 - Numa panela grande em fogo médio, despeje a água, o leite integral, o caldo de galinha, o sal e a margarina. Misture levemente e espere ferver;
 - Assim que começar a ferver, adicione toda a farinha e, com o auxílio de uma colher de pau, mexa vigorosamente. A mistura ficará densa e exigirá que você pressione a massa contra a lateral da panela. Faça isso por aproximadamente 5 minutos, até que esteja bem cozida;

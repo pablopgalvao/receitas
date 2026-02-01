@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de manteiga (40 gramas)
-- 1/2 colher de sopa de banha de porco ou azeite
-- 1/2 cebola
-- 1 e 1/2 caixinha de creme de leite (300 gramas)
+- ½ colher de sopa de banha de porco ou azeite
+- ½ cebola
+- 1 e ½ caixinha de creme de leite (300 gramas)
 - 1 xícara de chá de água (240 ml)
-- 1/4 de colher de sopa de pimenta-do-reino a gosto
+- ¼ de colher de sopa de pimenta-do-reino a gosto
 - Noz-moscada a gosto
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de sopa de amido de milho
 - 2 colheres de sopa de água fria para dissolver o amido
 - 150 gramas de queijo mussarela ralado (ou a gosto)

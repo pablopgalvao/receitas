@@ -35,7 +35,7 @@ flags: []
 - 1 colher de chá de páprica
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/4 de xícara de chá de água
+- ¼ de xícara de chá de água
 - Coloque os filés de frango em uma tigela e tempere com o suco do limão, orégano, açafrão, páprica, sal, pimenta-do-reino e os dentes de alho amassados. Misture tudo muito bem para incorporar os temperos em todos os pedaços. Deixe marinando por uns 30 minutos;
 - Em seguida, com a colher mesmo, desfie o frango amassando até ficar bem soltinho. Nesse momento, prove o sabor e acerte o sal e temperos, se necessário;
 

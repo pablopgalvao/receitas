@@ -32,7 +32,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1/2 cebola pequena
+- ½ cebola pequena
 - 1 dente de alho
 - 2 colheres de sopa de creme de ricota (30 gramas)
 - 1 colher de sopa de azeite

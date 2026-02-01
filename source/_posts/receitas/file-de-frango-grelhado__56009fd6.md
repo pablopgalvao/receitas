@@ -33,8 +33,8 @@ flags: []
 - 1 filé de peito de frango
 - 1 colher de sopa de sal
 - 1 colher de chá de açúcar
-- 1/2 colher de sopa de coentro em pó
-- 1/2 colher de sopa de páprica picante
+- ½ colher de sopa de coentro em pó
+- ½ colher de sopa de páprica picante
 - 1 dente de alho amassado
 - Água
 - 1 colher de chá de azeite

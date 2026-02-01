@@ -30,7 +30,7 @@ flags: []
 
 - 1 ovo
 - 2 colheres de sopa de pasta de amendoim
-- 1/3 de xícara de chá de mussarela ralada
+- ⅓ de xícara de chá de mussarela ralada
 - 1 colher de chá de extrato de baunilha
 - --
 

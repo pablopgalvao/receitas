@@ -32,11 +32,11 @@ flags: []
 - 500 ml de leite integral
 - 5 ovos médios
 - 6 colheres de sopa de açúcar (72 gramas)
-- 1/2 xícara de chá de manteiga derretida (100 gramas)
-- 1/2 colher de sopa de essência de baunilha
+- ½ xícara de chá de manteiga derretida (100 gramas)
+- ½ colher de sopa de essência de baunilha
 - 4 bananas médias
 - 2 colheres de sopa de açúcar de confeiteiro
-- 1/2 colher de chá de canela para polvilhar
+- ½ colher de chá de canela para polvilhar
 - --
 
 ---

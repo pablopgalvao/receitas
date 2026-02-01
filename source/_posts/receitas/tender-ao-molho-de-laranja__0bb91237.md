@@ -31,13 +31,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 700 ml de suco de laranja
-- 1 e 1/2 colher de sopa de açúcar
+- 1 e ½ colher de sopa de açúcar
 - 1 cebola picada
 - Raminhos de tomilho a gosto
-- 1/2 colher de sopa de cravo-da-índia
+- ½ colher de sopa de cravo-da-índia
 - 3 folha de louro
 - Pimenta-do-reino a gosto
-- 1/2 tablete de caldo de bacon (opcional)
+- ½ tablete de caldo de bacon (opcional)
 - 2 colheres de sopa de amido de milho (misturado com um pouco de água)
 - --
 

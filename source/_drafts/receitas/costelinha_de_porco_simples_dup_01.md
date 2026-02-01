@@ -31,8 +31,8 @@ flags: []
 
 - 1 kg de costela de porco
 - 4 colheres de sopa de azeite
-- 1/4 de xícara de chá de shoyu
-- 1 e 1/2 xícara de chá de água
+- ¼ de xícara de chá de shoyu
+- 1 e ½ xícara de chá de água
 - 1 colher de sopa de páprica picante
 - 1 colher de chá de chimichurri defumado
 - Cebolinha picada a gosto

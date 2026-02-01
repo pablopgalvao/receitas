@@ -34,8 +34,8 @@ flags: []
 - 4 dentes de alho
 - 100 gramas de bacon
 - 1 cebola pequena (80 gramas)
-- 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

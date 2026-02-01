@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de arroz para sushi (200 gramas)
-- 1 e 1/2 xícaras de chá de água (500 ml)
-- 1/3 xícara de chá de vinagre de arroz (80 ml)
+- 1 e ½ xícaras de chá de água (500 ml)
+- ⅓ xícara de chá de vinagre de arroz (80 ml)
 - 2 colheres de sopa de açúcar (80 gramas)
 - 5 ml de saque culinário seco
 - 1 colher de chá de sal

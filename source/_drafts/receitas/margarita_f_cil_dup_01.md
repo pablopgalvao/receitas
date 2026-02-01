@@ -32,7 +32,7 @@ flags: []
 - 200 ml (4 doses) de tequila
 - 100 ml (2 doses) de Cointreau
 - 240 ml de suco de limão
-- 25 ml (1/2 dose) de suco de laranja
+- 25 ml (½ dose) de suco de laranja
 - 1 xícara de chá de gelo picado
 - Sal a gosto
 - Em um pirex despeje o sal de forma uniforme;

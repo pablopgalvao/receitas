@@ -32,7 +32,7 @@ flags: []
 - 500 ml de água
 - 1 colher de sopa de margarina (ou manteiga)
 - 1 xícara de chá de arroz (180 gramas)
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 150 gramas de queijo mussarela
 - Sal a gosto
 - Em uma panela grande, ainda com o fogo desligado, coloque o arroz, a água e metade do leite (500 ml). Acrescente sal a gosto e misture bem;

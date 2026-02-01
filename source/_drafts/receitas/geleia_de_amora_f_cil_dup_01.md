@@ -31,7 +31,7 @@ flags: []
 
 - 500 gramas de amoras
 - 250 gramas de açúcar
-- 1/3 xícara de chá de água (50 ml)
+- ⅓ xícara de chá de água (50 ml)
 - 1 pitada bicarbonato de sódio (5 gramas)
 - Em uma panela grande, adicione as amoras, o açúcar, o suco do limão e a água;
 - Mantenha a panela no fogo e, ao notar que a mistura começou a engrossar, adicione a pitada de bicarbonato de sódio;

@@ -34,7 +34,7 @@ flags: []
 - 2 dentes de alho amassados
 - 1 colher de chá rasa de sal
 - 1 colher de chá rasa de colorau (ou páprica defumada)
-- 1/3 de colher de chá de pimenta-do-reino
+- ⅓ de colher de chá de pimenta-do-reino
 - 1 abobrinha média cortada em cubos (cerca de 600 gramas)
 ---
 

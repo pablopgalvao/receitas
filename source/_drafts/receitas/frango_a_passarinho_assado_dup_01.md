@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de frango a passarinho
-- 1 e 1/2 colher de chá de páprica doce
-- 1/2 colher de chá de cominho
+- 1 e ½ colher de chá de páprica doce
+- ½ colher de chá de cominho
 - 1 colher de chá de sal
 - 3 colheres de sopa de azeite
-- 1/4 xícara de chá de farinha
+- ¼ xícara de chá de farinha
 - Azeite a gosto
 - No pilão, ou outro recipiente, adicione a páprica doce, o cominho, o sal e os dentes de alho. Soque todos os ingredientes até que eles virem uma pasta. Depois, acrescente o azeite aos ingredientes e mexa bem;
 - Em seguida, acrescente a farinha de trigo e continue mexendo;

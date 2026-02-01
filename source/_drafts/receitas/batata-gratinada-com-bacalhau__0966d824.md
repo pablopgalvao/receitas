@@ -32,15 +32,15 @@ flags: []
 - 600 gramas de batatas pré-cozidas com sal
 - 250 ml de creme de leite fresco
 - 1 copo de requeijão (200 gramas)
-- 1/2 pimentão vermelho picado
-- 1/2 pimentão amarelo picado
+- ½ pimentão vermelho picado
+- ½ pimentão amarelo picado
 - 1 tomate picado
 - 1 cebola grande picada
 - 3 dentes de alho
 - 100 gramas de azeitona
 - 200 gramas de queijo mussarela ralado
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cheiro-verde picado
 - 5 colheres de sopa de azeite (ou a gosto)
 - --

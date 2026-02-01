@@ -30,10 +30,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá polvilho doce
-- 1/2 xícara de chá de polvilho azedo
-- 1/2 xícara de chá de queijo mussarela ralado
-- 1/2 xícara de chá de queijo parmesão ralado
+- ½ xícara de chá polvilho doce
+- ½ xícara de chá de polvilho azedo
+- ½ xícara de chá de queijo mussarela ralado
+- ½ xícara de chá de queijo parmesão ralado
 - 1 xícara de chá de creme de ricota (requeijão ou creme de leite)
 - Sal a gosto
 - --

@@ -30,8 +30,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 bandeja de tomate-cereja
-- 1/2 cenoura média
+- ½ bandeja de tomate-cereja
+- ½ cenoura média
 - 4 folhas de alface americana
 - 150 gramas de macarrão integral
 - 6 floretes de brócolis

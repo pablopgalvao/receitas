@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 de xícara de chá de leite morno
-- 1/4 de xícara de chá de azeite (ou óleo)
-- 1/4 de xícara de chá de açúcar
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1 e 1/2 xícara de chá de farelo de aveia
+- 1 e ¼ de xícara de chá de leite morno
+- ¼ de xícara de chá de azeite (ou óleo)
+- ¼ de xícara de chá de açúcar
+- 1 e ½ xícara de chá de farinha de trigo
+- 1 e ½ xícara de chá de farelo de aveia
 - 1 colher de chá de sal
 - Em um recipiente, adicione o leite, o azeite, o fermento, o açúcar, os ovos e misture bem;
 - Coloque a farinha, a aveia, o sal e misture até ficar uma massa mole;

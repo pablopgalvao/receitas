@@ -31,7 +31,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de arroz cru
+- 1 e ½ xícara de chá de arroz cru
 - 3 colheres de sopa de azeite
 - 3 dentes de alho
 - 2 cebolas

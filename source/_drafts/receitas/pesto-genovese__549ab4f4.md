@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de sopa de sal grosso
+- ½ colher de sopa de sal grosso
 - 2 dentes de alho
 - 50 gramas de nozes chilenas (ou outra castanha de sua preferência)
 - 1 xícara de chá de folhas de manjericão
 - 20 gramas de parmesão ralado
 - 2 colheres de sopa de queijo pecorino ralado (opcional, 20 gramas)
-- 1/4 de copo de azeite de oliva extra virgem (60ml)
+- ¼ de copo de azeite de oliva extra virgem (60ml)
 - --
 
 ---

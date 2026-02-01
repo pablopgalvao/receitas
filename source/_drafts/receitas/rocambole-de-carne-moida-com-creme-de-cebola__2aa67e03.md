@@ -33,14 +33,14 @@ flags: []
 - 800 gramas de carne moída
 - 1 colher de sopa de creme de cebola
 - 2 colheres de sopa de farinha de trigo
-- 1/2 xícara de chá de azeite de oliva (120 ml)
+- ½ xícara de chá de azeite de oliva (120 ml)
 - Pimenta-do-reino a gosto
 - 1 colher de sopa de sal
 - 1 cebola
 - 1 tomate
-- 1/2 lata de milho (85 gramas)
-- 1/2 lata de ervilha (85 gramas)
-- 1 e 1/2 xícara de chá de molho de tomate (360 ml)
+- ½ lata de milho (85 gramas)
+- ½ lata de ervilha (85 gramas)
+- 1 e ½ xícara de chá de molho de tomate (360 ml)
 - 60 gramas de queijo ralado a gosto
 - Presunto fatiado a gosto
 - --

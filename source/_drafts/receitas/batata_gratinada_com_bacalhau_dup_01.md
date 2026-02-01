@@ -36,7 +36,7 @@ flags: []
 - 100 gramas de azeitona
 - 200 gramas de queijo mussarela ralado
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cheiro-verde picado
 - 5 colheres de sopa de azeite (ou a gosto)
 - Cozinhe as batatas cortadas em rodelas por 5 minutinhos na água com sal antes de iniciar esse preparo, para que fiquem mais macias. Pique os pimentões, o tomate, a cebola e o alho em pedaços pequenos. Reúna os ingredientes;

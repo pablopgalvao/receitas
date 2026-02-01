@@ -30,12 +30,12 @@ flags: []
 
 - 3 xícaras de chá de farinha de trigo
 - 1 colher de sopa de açúcar demerara
-- 1 e 1/2 colher de sopa de fermento biológico
+- 1 e ½ colher de sopa de fermento biológico
 - 1 colher de chá de sal
 - 3 colheres de sopa de óleo
 - 1 xícara de purê de abóbora cabotiá (apenas a abóbora cozida e amassada)
 - 1 colher de chá de fermento em pó
-- 3/4 de xícara de chá de água morna
+- ¾ de xícara de chá de água morna
 - --
 
 ---

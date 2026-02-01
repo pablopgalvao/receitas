@@ -31,13 +31,13 @@ flags: []
 
 - 700 gramas de mandioca cozida
 - Bacon em cubos (150 gramas)
-- 1 e 1/2 xícara de água para bater mandioca (360 ml)
+- 1 e ½ xícara de água para bater mandioca (360 ml)
 - 1 colher de sopa de manteiga
 - 2 colheres de sopa de azeite
 - 2 dentes de alho picado
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 xícara de chá de cheiro-verde (ou a gosto)
+- ½ xícara de chá de cheiro-verde (ou a gosto)
 - --
 
 ---

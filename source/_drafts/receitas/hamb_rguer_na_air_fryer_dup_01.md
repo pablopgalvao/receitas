@@ -33,7 +33,7 @@ flags: []
 - 200 gramas de carne moída de segunda (peito ou acém)
 - 2 colheres de sopa de bacon defumado moído (opcional) (30 gramas)
 - 1 colher de café de sal
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - Pré-aqueça a air fryer a 200 ºC por 5 minutos e tempere os dois lados dos hambúrgueres com sal e pimenta, na hora de grelhar;
 - Corte os pães ao meio, espalhe manteiga nas partes internas e sele na air fryer até dourarem levemente;
 - Sirva logo em seguida com acompanhamentos a gosto. Bom apetite!

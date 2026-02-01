@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 ovos
-- 3/4 xícara de chá de óleo
-- 3/4 xícara de chá de iogurte natural
-- 2 e 1/3 xícara de chá de farinha de trigo
+- ¾ xícara de chá de óleo
+- ¾ xícara de chá de iogurte natural
+- 2 e ⅓ xícara de chá de farinha de trigo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 colher de chá de sal
 - --

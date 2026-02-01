@@ -34,7 +34,7 @@ flags: []
 - 1 lata de filé de atum
 - 10 azeitonas verdes sem caroço e picadas
 - Cheiro-verde a gosto
-- 1/2 xícara de chá de cenoura ralada
+- ½ xícara de chá de cenoura ralada
 - 1 pitada de noz-moscada
 - Sal e pimenta-do-reino a gosto
 - 1 colher de sopa de maionese

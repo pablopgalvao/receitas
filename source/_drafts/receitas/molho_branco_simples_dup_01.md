@@ -32,8 +32,8 @@ flags: []
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de farinha de trigo
 - Noz-moscada a gosto (ralada na hora)
-- 1/2 colher de chá de sal
-- 1/2 lata de creme de leite sem soro (150 gramas)
+- ½ colher de chá de sal
+- ½ lata de creme de leite sem soro (150 gramas)
 - O leite precisa estar gelado, caso contrário, o trigo vai empelotar. Nessa receita, não é possível substituir a manteiga por óleo vegetal, pois ela traz cremosidade para o molho;
 - Em uma panela aquecida, em fogo médio, coloque a manteiga e espere derreter. Junte a farinha de trigo e, com o auxílio de um fuê (batedor de arame), misture bem para incorporar. Essa combinação, chamada roux, é responsável por engrossar o molho;
 - Mexa sem parar até a farinha cozinhar (cerca de 3 a 5 minutos), ou até subir um cheiro amendoado - cuidado para não escurecer ou queimar;

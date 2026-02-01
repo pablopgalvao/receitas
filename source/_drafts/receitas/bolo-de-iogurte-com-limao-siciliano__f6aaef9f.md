@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 140 gramas de açúcar de confeiteiro (1 xícara)
-- 22 ml de suco de limão siciliano (1 colher e 1/2 de sopa)
+- 22 ml de suco de limão siciliano (1 colher e ½ de sopa)
 - Raspas de limão siciliano
 - --
 

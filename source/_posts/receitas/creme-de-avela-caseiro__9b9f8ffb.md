@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas de avelã
-- 1/3 de xícara de chá de açúcar mascavo (75 gramas)
+- ⅓ de xícara de chá de açúcar mascavo (75 gramas)
 - 2 colheres de sopa de óleo (45 ml)
 - 1 pitada de sal
 - 225 gramas de chocolate meio amargo

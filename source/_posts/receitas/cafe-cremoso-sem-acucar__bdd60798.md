@@ -33,7 +33,7 @@ flags: []
 - Gelo
 - 1 xícara de chá de leite desnatado ou água (240 ml)
 - 2 colheres de sopa de café solúvel (25 gramas)
-- 3/4 de xícara de chá de água morna (180 ml)
+- ¾ de xícara de chá de água morna (180 ml)
 - 8 colheres de sopa de mel (150 gramas)
 - 6 colheres de sopa de leite em pó desnatado (80 gramas)
 - Leite ou água para servir

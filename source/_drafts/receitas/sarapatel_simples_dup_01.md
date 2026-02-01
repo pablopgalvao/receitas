@@ -34,8 +34,8 @@ flags: []
 - 1 colher de chá de pimenta-do-reino
 - 2 colheres de chá de sal
 - 1 colher de sopa de banha
-- 1/2 xícara de chá de folhas de hortelã
-- 1/2 xícara de chá de cebolinha picada
+- ½ xícara de chá de folhas de hortelã
+- ½ xícara de chá de cebolinha picada
 - 1 xícara de chá de água (240 ml)
 - Coentro picado a gosto
 - Antes de iniciar o preparo, escalde os miúdos em água fervente com 2 colheres de vinagre. Depois, escorra a água e lave os miúdos com mais um pouco de água em temperatura ambiente, para retirar o gosto do vinagre. Separe todos os ingredientes na bancada;

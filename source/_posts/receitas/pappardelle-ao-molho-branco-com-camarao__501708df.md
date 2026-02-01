@@ -34,7 +34,7 @@ flags: []
 
 - 2 colheres de sopa de manteiga (25 gramas)
 - 2 colheres de sopa de farinha de trigo (25 gramas)
-- 1 e 3/4 de xícara de chá de leite (400 ml)
+- 1 e ¾ de xícara de chá de leite (400 ml)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Noz-moscada a gosto

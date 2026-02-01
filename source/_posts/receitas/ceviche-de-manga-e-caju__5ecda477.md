@@ -33,8 +33,8 @@ flags: []
 
 - 1 manga cortada em cubinhos
 - 1 caju cortado em cubinhos
-- 1/2 xícara de chá de castanha-de-caju tostada e picada
-- 1/2 cebola roxa picada em pedaços pequenos
+- ½ xícara de chá de castanha-de-caju tostada e picada
+- ½ cebola roxa picada em pedaços pequenos
 - Salsinha a gosto
 - 1 colher de sopa de azeite de oliva
 - Suco de 1 limão

@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de proteína de soja texturizada
 - 3 colheres de sopa de creme de cebola
-- 2 e 1/2 xícaras de chá de farinha de mandioca biju
+- 2 e ½ xícaras de chá de farinha de mandioca biju
 - --
 
 ---

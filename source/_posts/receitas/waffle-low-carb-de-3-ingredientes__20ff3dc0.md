@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 de xícara de chá de coco ralado sem açúcar
+- ⅓ de xícara de chá de coco ralado sem açúcar
 - 1 ovo
 - 1 colheres de sopa de creme de amendoim sabor caramelo
 - --

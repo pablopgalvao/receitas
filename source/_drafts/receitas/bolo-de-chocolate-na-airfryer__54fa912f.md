@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de chocolate em pó (ou achocolatado)
+- ½ xícara de chá de chocolate em pó (ou achocolatado)
 - 1 xícara de chá de açúcar
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de chá de leite integral
+- ½ xícara de chá de leite integral
 - --
 
 ---

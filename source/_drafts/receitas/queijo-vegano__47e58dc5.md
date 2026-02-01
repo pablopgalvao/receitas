@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de castanhas-de-caju cruas
+- ½ xícara de chá de castanhas-de-caju cruas
 - 400 ml de água
 - 1 colher de chá de sal
 - 1 colher de sopa de óleo

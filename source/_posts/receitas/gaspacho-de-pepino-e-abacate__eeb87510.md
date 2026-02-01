@@ -32,10 +32,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 pepino japonês
-- 1/2 abacate
-- 1/2 cebola
+- ½ abacate
+- ½ cebola
 - 90 gramas de iogurte grego natural
-- Suco de 1 e 1/2 limão
+- Suco de 1 e ½ limão
 - 125 ml de água
 - 1 pedaço pequeno de gengibre
 - 1 colher de sopa de vinagre de vinho branco

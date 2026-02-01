@@ -33,15 +33,15 @@ flags: []
 - 1 pepino (180 gramas)
 - 6 vagens
 - 1 pacote de kani-kama (120 gramas)
-- 1/2 xícara de chá de shoga gari (gengibre em conserva)
+- ½ xícara de chá de shoga gari (gengibre em conserva)
 - 1 pacote de alga nori (5 folhas grandes)
 - 6 cebolinhas inteiras
 - 1 colher de sopa de sakê mirin
 - 3 colheres de sopa de shoyu
 - 1 fio de óleo
 - 1 litro de água
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - --
 
 ---

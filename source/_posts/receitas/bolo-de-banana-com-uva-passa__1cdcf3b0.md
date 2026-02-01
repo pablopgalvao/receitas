@@ -31,9 +31,9 @@ flags: []
 
 - 3 bananas-nanicas bem maduras
 - 3 ovos
-- 1 e 1/2 xícara de chá de uva-passa
+- 1 e ½ xícara de chá de uva-passa
 - 1 xícara de chá de aveia em flocos ou farinha
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de coco ralado
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Chocolate picado a gosto

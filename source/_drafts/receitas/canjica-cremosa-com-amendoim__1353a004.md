@@ -32,9 +32,9 @@ flags: []
 - 1 litro de leite
 - 2 xícaras de chá de milho de canjica (400 gramas)
 - 1 caixinha de leite condensado (395 gramas)
-- 1/2 xícara de chá de coco ralado (40 gramas)
+- ½ xícara de chá de coco ralado (40 gramas)
 - 1 xícara de chá de amendoim torrado (150 gramas)
-- 3/4 de xícara de chá de açúcar (150 gramas)
+- ¾ de xícara de chá de açúcar (150 gramas)
 - 1 vidro de leite de coco (200 ml)
 - Canela ou cravo-da-índia a gosto
 - --

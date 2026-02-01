@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 180 gramas de manteiga em temperatura ambiente
-- 3/4 xícara de chá de açúcar mascavo (120 gramas)
-- 3/4 xícara de chá + 1 colher de sopa de açúcar refinado (90 gramas)
+- ¾ xícara de chá de açúcar mascavo (120 gramas)
+- ¾ xícara de chá + 1 colher de sopa de açúcar refinado (90 gramas)
 - 1 ovo grande (cerca de 66 gramas)
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
-- 3/4 de colher de chá de bicarbonato (8 gramas)
-- 3/4 de colher de chá de sal (4 gramas)
-- 1 e 3/4 xícara de chá de farinha de trigo (250 gramas)
+- ¾ de colher de chá de bicarbonato (8 gramas)
+- ¾ de colher de chá de sal (4 gramas)
+- 1 e ¾ xícara de chá de farinha de trigo (250 gramas)
 - Essência ou pasta de baunilha a gosto (opcional)
 - 180 gramas de chocolate picado de sua preferência (ou gotas de chocolate)
 - --

@@ -28,13 +28,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá farinha de trigo
+- 1 e ½ xícara de chá farinha de trigo
 - 1 xícara de chá de açúcar mascavo
 - 2 ovos
-- 1/2 xícara de chá óleo
-- 1/2 xícara de chá de leite
+- ½ xícara de chá óleo
+- ½ xícara de chá de leite
 - 2 bananas maduras
-- 1/2 colher de sopa de canela em pó
+- ½ colher de sopa de canela em pó
 - 1 colher de sopa de fermento químico em pó
 - 1 xícara de chá de nozes picadas
 - --

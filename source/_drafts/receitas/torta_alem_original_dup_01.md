@@ -31,7 +31,7 @@ flags: []
 
 - 1 tablete de manteiga sem sal (200 gramas)
 - 4 gemas de ovo
-- 1 e 1/4 de xícara de chá de açúcar (250 gramas)
+- 1 e ¼ de xícara de chá de açúcar (250 gramas)
 - 2 latas de creme de leite sem soro (600 gramas)
 - 8 colheres de sopa de chocolate em pó (160 gramas)
 - 2 xícaras de chá de leite integral (480 ml)

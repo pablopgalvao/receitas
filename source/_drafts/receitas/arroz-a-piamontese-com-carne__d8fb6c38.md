@@ -35,7 +35,7 @@ flags: []
 - 3 xícaras de chá de arroz cozido
 - 200 gramas de queijo parmesão
 - 4 colheres de sopa de cebolinha (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

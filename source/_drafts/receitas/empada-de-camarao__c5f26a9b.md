@@ -42,7 +42,7 @@ flags: []
 - 1 colher de sopa de farinha de trigo (20 gramas)
 - 3 colheres de sopa de requeijão de bisnaga (90 gramas)
 - 1 gema de ovo
-- 3/4 de xícara de chá de água
+- ¾ de xícara de chá de água
 - --
 
 ---

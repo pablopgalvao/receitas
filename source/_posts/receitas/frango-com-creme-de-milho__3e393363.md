@@ -32,8 +32,8 @@ flags: []
 - 2 colheres de sopa de manteiga
 - 1 colher de sopa de amido de milho
 - 1 cebola
-- 600 ml de leite (2 e 1/2 xícaras de chá)
-- 1/4 de colher de chá de noz-moscada (ou a gosto)
+- 600 ml de leite (2 e ½ xícaras de chá)
+- ¼ de colher de chá de noz-moscada (ou a gosto)
 - 2 colheres de chá de sal (ou a gosto)
 - --
 

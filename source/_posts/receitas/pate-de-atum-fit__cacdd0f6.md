@@ -32,8 +32,8 @@ flags: []
 - 3 colheres de queijo cottage
 - 6 folhas de cebolinha
 - 1 lata de atum
-- 1/2 limão-taiti
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ limão-taiti
+- ½ colher de chá de sal (ou a gosto)
 - --
 
 ---

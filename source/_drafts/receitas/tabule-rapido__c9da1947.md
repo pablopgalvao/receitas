@@ -31,12 +31,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de triguilho (trigo para kibe)
+- ½ xícara de chá de triguilho (trigo para kibe)
 - 1 xícara de chá de água quente
 - 2 tomates
-- 1/2 pepino japonês
-- 1/2 cebola roxa
-- Suco de 1/2 limão
+- ½ pepino japonês
+- ½ cebola roxa
+- Suco de ½ limão
 - 1 colher de sopa de azeite
 - Hortelã e salsinha a gosto
 - Sal a gosto

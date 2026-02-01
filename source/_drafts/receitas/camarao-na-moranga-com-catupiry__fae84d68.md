@@ -34,7 +34,7 @@ flags: []
 - 1 kg de camarões limpos
 - 1 colher de chá de pimenta-do-reino
 - 2 colheres de sopa de suco de limão
-- 1/3 de xícara de molho de tomate
+- ⅓ de xícara de molho de tomate
 - 2 cebolas
 - 2 dentes de alho
 - 3 tomates

@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de água (350 ml)
+- 1 e ½ xícara de chá de água (350 ml)
 - 1 xícara de chá de açúcar (250 ml)
 - 150 gramas de chocolate meio amargo
-- 1 e 1/2 xícara de chá de rum (350 ml)
+- 1 e ½ xícara de chá de rum (350 ml)
 - 1 lata de leite condensado (395 gramas)
 - 1 xícara de chá de cacau em pó (250 gramas)
 - --

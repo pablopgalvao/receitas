@@ -31,8 +31,8 @@ flags: []
 - 1 colher de sopa de cebola picada
 - 1 dente de alho
 - 150 gramas de carne moída
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de páprica defumada (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de páprica defumada (ou a gosto)
 - 1 colher de sopa de cheiro-verde picado (ou a gosto)
 - 200 gramas de molho de tomate (ou passata)
 - 300 ml de água para cobrir os ingredientes

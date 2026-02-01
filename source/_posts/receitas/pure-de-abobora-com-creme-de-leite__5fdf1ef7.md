@@ -31,8 +31,8 @@ flags: []
 - 1 pedaço de abóbora (cerca de 800 gramas)
 - 1 cebola média (200 gramas)
 - 2 colheres de sopa de manteiga
-- 1/2 lata de creme de leite (150 gramas)
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ lata de creme de leite (150 gramas)
+- ½ colher de chá de sal (ou a gosto)
 - --
 
 ---

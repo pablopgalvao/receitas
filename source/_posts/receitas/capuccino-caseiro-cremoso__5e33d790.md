@@ -32,8 +32,8 @@ flags: []
 - 3 colheres de sopa (rasa) de café solúvel
 - 4 colheres de achocolatado ou cacau em pó 50%
 - 1 colher de chá de canela em pó
-- 1/2 colher de café de bicarbonato de sódio
-- 1/2 xícara de chá de açúcar (opcional)
+- ½ colher de café de bicarbonato de sódio
+- ½ xícara de chá de açúcar (opcional)
 - --
 
 ---

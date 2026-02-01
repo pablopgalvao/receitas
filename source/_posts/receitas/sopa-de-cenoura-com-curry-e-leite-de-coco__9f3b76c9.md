@@ -38,7 +38,7 @@ flags: []
 - 1 colher de chá de curry
 - Sal a gosto
 - 5 grãos de pimenta-do-reino
-- 1/4 de xícara de chá de leite de coco
+- ¼ de xícara de chá de leite de coco
 - --
 
 ---

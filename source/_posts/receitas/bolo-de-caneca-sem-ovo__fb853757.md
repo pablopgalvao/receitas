@@ -35,7 +35,7 @@ flags: []
 - 1 colher de sopa de óleo
 - 3 colheres de sopa de leite
 - 1 pitada de sal
-- 1/2 colher de café de fermento químico em pó (fermento para bolo)
+- ½ colher de café de fermento químico em pó (fermento para bolo)
 - Chocolate granulado a gosto para decorar
 - --
 

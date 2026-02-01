@@ -32,7 +32,7 @@ flags: []
 - 3 ovos grandes
 - 1 colher de chá de essência de baunilha
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/3 xícara de chá de óleo (80 ml)
+- ⅓ xícara de chá de óleo (80 ml)
 - 1 copo de iogurte natural (160 gramas)
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 1 colher de sopa de fermento em pó químico (15 gramas)

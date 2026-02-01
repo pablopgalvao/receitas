@@ -30,21 +30,21 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas de camarão tamanho médio descascado e limpo
-- 1 e 1/2 colher de sopa de suco de limão
+- 1 e ½ colher de sopa de suco de limão
 - 4 colheres de sopa de manteiga sem sal
 - 2 colheres de sopa de azeite
 - 1 colher de chá de alho ralado ou picadinho
-- 1/4 de xícara de chá de cebola ralada ou picadinha
+- ¼ de xícara de chá de cebola ralada ou picadinha
 - 1 colher de sopa de pimentão verde bem picadinho
 - 3 colheres de sopa de leite de coco
 - 2 colheres de sopa de farinha de trigo
 - 1 xícara de chá de leite
-- 1/2 xícara de chá de creme de leite de caixinha
-- 1/2 xícara de chá de requeijão
+- ½ xícara de chá de creme de leite de caixinha
+- ½ xícara de chá de requeijão
 - 1 pitada de noz-moscada
 - 30 gramas de presunto fatiado picadinho
 - 100 gramas de mussarela fatiada picadinha
-- 1/2 xícara de chá de ervilha
+- ½ xícara de chá de ervilha
 - 2 xícaras de chá de arroz já cozido
 - Sal, pimenta-do-reino, cheiro-verde a gosto
 - --

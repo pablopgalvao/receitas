@@ -29,13 +29,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 2 xícaras de chá de leite (480 ml)
 - 2 fatias de queijo mussarela
 - 1 colher de sobremesa de sal
-- 1/2 colher de sopa de orégano
+- ½ colher de sopa de orégano
 - 1 colher de sopa de queijo parmesão ralado
-- 2 e 1/2 xícaras de chá de farinha de trigo
+- 2 e ½ xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

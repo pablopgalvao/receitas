@@ -30,7 +30,7 @@ flags: []
 
 - 200 gramas de peixe assado (testamos com filé de tilápia)
 - 1 ovo
-- 1/2 cebola média
+- ½ cebola média
 - 1 cenoura
 - 1 colher de chá de sal (ou a gosto)
 - 1 colher de sopa de cebolinha (ou a gosto)

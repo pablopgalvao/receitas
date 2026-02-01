@@ -44,7 +44,7 @@ flags: []
 - 1 caixa de creme de leite (200 gramas)
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Salsinha a gosto
 - Raspas de limão a gosto
 - --

@@ -33,7 +33,7 @@ flags: []
 - 2 xícaras de chá de cenoura picadinha
 - 2 xícaras de chá de açúcar
 - 2 xícaras de chá de farinha de trigo
-- 1 e 1/2 colher de sopa (rasa) de fermento em pó
+- 1 e ½ colher de sopa (rasa) de fermento em pó
 - --
 
 ---

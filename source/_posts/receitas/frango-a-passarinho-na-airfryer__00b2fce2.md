@@ -31,7 +31,7 @@ flags: []
 - 1 kg de coxa e sobrecoxa de frango, cortadas a passarinho
 - 3 colheres de sopa de maionese
 - 3 dentes de alho amassados
-- 1 e 1/2 colher de chá de sal
+- 1 e ½ colher de chá de sal
 - 2 colheres de chá de páprica doce
 - --
 

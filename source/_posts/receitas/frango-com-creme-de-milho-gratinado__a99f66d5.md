@@ -31,8 +31,8 @@ flags: []
 
 - 750 g de peito de frango
 - 2 colheres de sopa de azeite
-- 1/2 cebola picada
-- 1/2 tomate picado
+- ½ cebola picada
+- ½ tomate picado
 - Sal e pimenta a gosto
 - 1 colher de sopa de açafrão
 - 1 colher de sopa de chimichurri

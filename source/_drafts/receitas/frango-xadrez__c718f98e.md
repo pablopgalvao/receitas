@@ -31,7 +31,7 @@ flags: []
 - 1 colher de sopa bem cheia de amido de milho
 - 100 ml de água
 - 50 ml de shoyu
-- 1/2 envelope de caldo de galinha em pó. Se preferir, troque a água por 100 ml de caldo de galinha caseiro
+- ½ envelope de caldo de galinha em pó. Se preferir, troque a água por 100 ml de caldo de galinha caseiro
 - --
 
 ---

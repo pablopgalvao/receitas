@@ -36,9 +36,9 @@ flags: []
 - 4 colheres de sopa de azeite (40ml)
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 colher de sopa de tomilho ou a gosto
-- 1/2 colher de sopa de orégano ou a gosto
-- 1/2 colher de sopa de salsinha desidratada ou a gosto
+- ½ colher de sopa de tomilho ou a gosto
+- ½ colher de sopa de orégano ou a gosto
+- ½ colher de sopa de salsinha desidratada ou a gosto
 - --
 
 ---

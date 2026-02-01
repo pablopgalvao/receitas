@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios
-- 1/2 xícara de chá de óleo em temperatura ambiente (120 ml)
-- 1 e 1/2 xícara de chá de açúcar demerara (300 gramas)
+- ½ xícara de chá de óleo em temperatura ambiente (120 ml)
+- 1 e ½ xícara de chá de açúcar demerara (300 gramas)
 - 1 pitada de sal
 - 1 colher de chá (rasa) de essência de baunilha
-- 1 e 1/2 xícara de chá de farinha de trigo (210 gramas)
-- 1/2 xícara de chá de água (120 ml)
+- 1 e ½ xícara de chá de farinha de trigo (210 gramas)
+- ½ xícara de chá de água (120 ml)
 - 1 colher de sopa (rasa) de fermento químico em pó (fermento para bolo)
 - --
 

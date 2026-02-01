@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de água (720 ml)
-- 1/2 xícara de chá de chocolate 50% (45 gramas)
+- ½ xícara de chá de chocolate 50% (45 gramas)
 - 100 gramas de chocolate meio amargo picado (ou ao leite)
 - 1 lata de leite condensado (395 gramas)
 - 200 ml de aguardente ou cachaça
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
 - --
 
 ---

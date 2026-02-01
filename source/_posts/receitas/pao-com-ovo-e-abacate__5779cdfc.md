@@ -35,8 +35,8 @@ flags: []
 
 - 2 ovos
 - Água para o cozimento
-- 1/2 avocado ou abacate
-- Suco de 1/2 limão
+- ½ avocado ou abacate
+- Suco de ½ limão
 - Azeite a gosto
 - Sal a gosto
 - 2 fatias de pão de fermentação natural

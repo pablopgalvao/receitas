@@ -38,9 +38,9 @@ flags: []
 - Cheiro-verde a gosto
 - 2 colheres de sopa de aveia em flocos
 - 1 xícara de chá de mussarela ralada (220 gramas)
-- 1/2 colher de sopa de páprica doce
-- 1/2 colher de sopa de pimenta caiena
-- 1/2 xícara de chá de azeitonas picadas
+- ½ colher de sopa de páprica doce
+- ½ colher de sopa de pimenta caiena
+- ½ xícara de chá de azeitonas picadas
 - Sal a gosto
 - Azeite a gosto
 - 750 ml de água

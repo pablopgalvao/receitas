@@ -36,9 +36,9 @@ flags: []
 - 1 cebola média picada
 - Sal a gosto
 - 2 xícaras de chá de molho de tomate
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 2 colheres de sopa de mostarda amarela
-- 1 e 1/2 de xícara de chá de leite de aveia
+- 1 e ½ de xícara de chá de leite de aveia
 - 1 xícara de chá de cheiro-verde picado
 - --
 

@@ -30,10 +30,10 @@ flags: []
 
 - 1 ovo
 - 300 gramas de brócolis cozido e picado
-- 1/4 xícara de chá de queijo parmesão ralado
+- ¼ xícara de chá de queijo parmesão ralado
 - 2 colheres de sopa de salsinha
-- 1/4 de colher de chá de pimenta-do-reino
-- 1/4 de colher de chá de sal
+- ¼ de colher de chá de pimenta-do-reino
+- ¼ de colher de chá de sal
 - 1 colher de chá de alho
 - 1 colher de sopa de cebola ralada
 - 4 colheres de sopa de farelo de aveia

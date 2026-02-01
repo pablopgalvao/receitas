@@ -34,7 +34,7 @@ flags: []
 - 3 colheres de sopa de manteiga ou margarina
 - 3 colheres de sopa de farinha de trigo
 - 1 caixa de creme de leite (200 gramas)
-- 2 e 1/2 xícaras de chá de leite (600 ml)
+- 2 e ½ xícaras de chá de leite (600 ml)
 - Noz-moscada a gosto
 - Pimenta-do-reino a gosto
 - Sal a gosto

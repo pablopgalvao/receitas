@@ -29,15 +29,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de suco de laranja-bahia (240 ml)
-- 1/2 xícara de chá de vinho branco (120 ml)
-- 3/4 de xícara de chá de água (180 ml)
+- ½ xícara de chá de vinho branco (120 ml)
+- ¾ de xícara de chá de água (180 ml)
 - 1 cebola pequena (50 gramas)
 - 1 tira de casca de laranja
 - 1 folha de louro
 - 2 cravos-da-índia
 - 1 colher de sopa de azeite
-- 1/4 de colher de chá de sal
-- 1/2 colher de chá de açúcar
+- ¼ de colher de chá de sal
+- ½ colher de chá de açúcar
 - 2 colheres de chá de amido de milho
 - --
 

@@ -32,7 +32,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de aveia
+- 1 e ½ xícara de chá de farinha de aveia
 - 3 colheres de chá de azeite extravirgem
 - Sal a gosto
 - 1 colher de chá de fermento químico em pó (fermento para bolo)

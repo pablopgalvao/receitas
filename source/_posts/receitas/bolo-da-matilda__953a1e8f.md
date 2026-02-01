@@ -31,7 +31,7 @@ flags: []
 - 650 gramas de chocolate ao leite picado
 - 1 xícara de chá de água quente (240 ml)
 - 1 colher de sopa de café solúvel (7 gramas)
-- 3/4 de xícara de chá de cacau em pó (70 gramas)
+- ¾ de xícara de chá de cacau em pó (70 gramas)
 - 1 caixa creme de leite (200 gramas)
 - 4 colheres de sopa de manteiga em cubos (80 gramas)
 - --

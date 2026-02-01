@@ -30,10 +30,10 @@ flags: []
 
 - 550 gramas de farinha de trigo
 - 10 gramas de fermento biológico
-- 1 e 1/2 xícara de chá de água (360 ml)
-- 1/2 xícara de chá de óleo
+- 1 e ½ xícara de chá de água (360 ml)
+- ½ xícara de chá de óleo
 - 2 colheres de sopa de açucar
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 400 gramas de doce de leite
 - --
 

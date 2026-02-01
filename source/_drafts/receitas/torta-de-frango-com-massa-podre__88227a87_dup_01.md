@@ -34,7 +34,7 @@ flags: []
 - 2 tomates grandes
 - 3 dentes de alho picados
 - 300 gramas de requeijão cremoso
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 1 colher de sopa rasa de sal (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - --

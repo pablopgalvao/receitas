@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 600 gramas de meio da asa
-- 1/2 xícara de chá de maionese
+- ½ xícara de chá de maionese
 - 1 colher de sopa de páprica
 - 4 colheres de sopa de molho shoyu
 - Sal a gosto

@@ -31,15 +31,15 @@ flags: []
 
 - 3 ovos
 - 2 maçãs fuji médias descascadas e picadas (300 gramas)
-- 1/3 xícara de chá de óleo de girassol
+- ⅓ xícara de chá de óleo de girassol
 - 1 colher de chá de canela em pó (opcional)
-- 1/4 colher de chá de noz-moscada ralada (opcional)
+- ¼ colher de chá de noz-moscada ralada (opcional)
 - Uma pitada de sal
-- 3/4 xícara de chá de açúcar demerara
-- 3/4 xícara de chá de farinha de arroz
-- 3/4 xícara de chá de quinoa em flocos
-- 1/2 xícara de chá de amido de milho
-- 1/2 colher de chá de goma guar ou goma xantana
+- ¾ xícara de chá de açúcar demerara
+- ¾ xícara de chá de farinha de arroz
+- ¾ xícara de chá de quinoa em flocos
+- ½ xícara de chá de amido de milho
+- ½ colher de chá de goma guar ou goma xantana
 - 1 colher de sopa de fermento em pó químico em pó (fermento para bolo)
 - --
 

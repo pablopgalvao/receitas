@@ -34,7 +34,7 @@ flags: []
 - Suco de 1 limão
 - 2 colheres de sopa de shoyu
 - 1 colher de sopa de azeite
-- 1/2 colher de sopa de colorau
+- ½ colher de sopa de colorau
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de salsa desidratada
 - 1 dente de alho picado

@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sobremesa de gelatina sem sabor
-- 1/4 de xícara de chá de água (60 ml)
-- 1 e 1/2 xícara de chá de iogurte natural (360 ml)
+- ¼ de xícara de chá de água (60 ml)
+- 1 e ½ xícara de chá de iogurte natural (360 ml)
 - 2 maracujás (420 gramas)
 - 1 lata de leite condensado (395 gramas)
 - --

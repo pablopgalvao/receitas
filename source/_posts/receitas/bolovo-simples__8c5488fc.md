@@ -33,7 +33,7 @@ flags: []
 - Água para cozinhar
 - 500 gramas de carne moída
 - 1 pacote de creme de cebola
-- 1/2 xícara de chá de farinha de trigo
+- ½ xícara de chá de farinha de trigo
 - 1 xícara de chá de farinha de rosca
 - 2 ovos batidos
 - 1 pitada de sal

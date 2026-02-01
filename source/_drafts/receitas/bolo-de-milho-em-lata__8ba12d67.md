@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 lata de milho escorrido (cerca de 170 gramas)
-- 200 ml de leite (3/4 xícara de chá)
-- 200 gramas de fubá (1 e 1/4 xícara de chá)
+- 200 ml de leite (¾ xícara de chá)
+- 200 gramas de fubá (1 e ¼ xícara de chá)
 - 200 gramas de açúcar (1 xícara de chá)
-- 100 ml de óleo (1/2 xícara de chá)
+- 100 ml de óleo (½ xícara de chá)
 - 3 ovos grandes
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Fubá e manteiga (ou margarina) para untar a assadeira

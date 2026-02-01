@@ -33,7 +33,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 kg de filé de peito de frango
-- 1/2 xícara de chá de passata de tomate
+- ½ xícara de chá de passata de tomate
 - 1 cebola-amarela
 - 1 cebola-roxa
 - 1 colher de chá de páprica defumada

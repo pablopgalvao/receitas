@@ -34,7 +34,7 @@ flags: []
 - 1 lata de açúcar (use a lata do milho como medida)
 - 1 lata de fubá (use a lata do milho como medida)
 - 1 lata de leite (use a lata do milho como medida)
-- 1/2 lata de óleo (use a lata do milho como medida)
+- ½ lata de óleo (use a lata do milho como medida)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

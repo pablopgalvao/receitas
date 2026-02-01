@@ -30,8 +30,8 @@ flags: []
 
 - 1 lata de leite condensado (395 gramas)
 - 1 caixa de creme de leite (200 gramas)
-- 3/4 de xícara de chá de limão-taiti espremido (180 ml)
-- 3/4 de xícara de chá de leite em pó (70 gramas)
+- ¾ de xícara de chá de limão-taiti espremido (180 ml)
+- ¾ de xícara de chá de leite em pó (70 gramas)
 - 2 colheres de sopa de raspas de limão (ou a gosto)
 - --
 

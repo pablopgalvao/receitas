@@ -31,7 +31,7 @@ flags: []
 - 200 gramas de amido de milho
 - 3 colheres de sopa de manteiga (ou margarina)
 - 4 colheres de sopa de leite em pó
-- 1/2 caixinha de leite condensado
+- ½ caixinha de leite condensado
 - --
 
 ---

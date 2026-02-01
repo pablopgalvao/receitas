@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/4 xícara suco de laranja
+- ¼ xícara suco de laranja
 - 1 colher de sopa de amido de milho
 - 2 colheres de sopa de açúcar demerara ou adoçante
 - --

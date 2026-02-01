@@ -32,8 +32,8 @@ flags: []
 - 1 lata de creme de leite gelado (300 gramas)
 - 1 cebola pequena (200 gramas)
 - 2 colheres de sopa de maionese (opcional)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
-- 1/2 colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
 - --
 

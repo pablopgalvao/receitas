@@ -33,14 +33,14 @@ flags: []
 - 2 dentes de alho
 - 1 cebola média (200 gramas)
 - 1 cenoura média (160 gramas)
-- 1/2 xícara de chá de passas brancas (40 gramas)
-- 1/2 xícara de chá de passas escuras (40 gramas)
+- ½ xícara de chá de passas brancas (40 gramas)
+- ½ xícara de chá de passas escuras (40 gramas)
 - 1 xícara de chá de ervilha congelada (100 gramas)
 - 1 colher de sopa de manteiga
 - 2 xícaras de batata palha (100 gramas)
 - 4 colheres de sopa de salsinha picada
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

@@ -60,7 +60,7 @@ flags: []
 9. Separe 400 gramas de massa de lasanha (se não for o tipo de massa que pode ir direto ao forno, cozinhe antes seguindo as instruções do fabricante);
 10. Em um refratário, forre o fundo com o molho de carne moída;
 11. Cubra com uma camada de massa;
-12. Coloque as fatias de queijo e despeje 1/3 do molho branco por cima;
+12. Coloque as fatias de queijo e despeje ⅓ do molho branco por cima;
 13. Faça uma camada de presunto, mais uma de molho de carne moída e cubra com a massa;
 14. Cubra com uma última camada de molho de carne moída, uma última de presunto, uma última de molho branco e finalize com queijo. Leve ao forno preaquecido a 180ºC até o queijo gratinar;
 15. Agora é só servir. Bom apetite!

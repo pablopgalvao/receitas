@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos médios
-- 1/4 colher de café de sal (ou a gosto)
+- ¼ colher de café de sal (ou a gosto)
 - 2 colheres de sopa azeite de oliva
 - 1 colher de chá sementes de chia ou linhaça
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - 100 gramas farinha ou farelo de aveia
-- 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 
 ---

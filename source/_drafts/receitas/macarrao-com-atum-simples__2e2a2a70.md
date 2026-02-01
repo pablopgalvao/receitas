@@ -30,11 +30,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola média
+- ½ cebola média
 - 2 dentes de alho
 - 2 colheres de sopa de óleo
 - 1 lata de atum ralado
-- 1/2 pacote de macarrão parafuso ou penne (250 gramas)
+- ½ pacote de macarrão parafuso ou penne (250 gramas)
 - Sal a gosto
 - Salsinha a gosto
 - --

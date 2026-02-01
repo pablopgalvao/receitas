@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
-- 1 e 1/2 xícara de chá de Nescau (180 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de Nescau (180 gramas)
 - 1 xícara de chá de farinha de trigo (130 gramas)
 - 4 ovos
-- 1/2 xícara de óleo ou 3 colheres de sopa de margarina
+- ½ xícara de óleo ou 3 colheres de sopa de margarina
 - --
 
 ---

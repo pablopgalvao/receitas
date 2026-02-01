@@ -35,7 +35,7 @@ flags: []
 - 200 gramas de presunto
 - 1 caixa de creme de leite
 - 250 gramas de maionese
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 3 colheres de sopa de azeite (ou a gosto)
 - 4 colheres de sopa de cebolinha (ou a gosto)
 - 4 colheres de sopa de salsinha (ou a gosto)

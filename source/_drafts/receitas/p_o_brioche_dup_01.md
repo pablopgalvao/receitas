@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 envelope de fermento biológico seco (5 gramas)
-- 1/4 de xícara de chá de açúcar (50 gramas)
+- ½ envelope de fermento biológico seco (5 gramas)
+- ¼ de xícara de chá de açúcar (50 gramas)
 - 3 colheres (sopa) de manteiga (60 gramas)
-- 1/2 xícara de chá de leite morno (120 ml)
-- 1/2 colher de café de sal (1 grama)
-- 2 e 1/4 de xícara de chá de farinha de trigo (315 gramas)
+- ½ xícara de chá de leite morno (120 ml)
+- ½ colher de café de sal (1 grama)
+- 2 e ¼ de xícara de chá de farinha de trigo (315 gramas)
 - 2 colheres de sopa de leite (para pincelar)
 - Manteiga derretida (para pincelar)
 - Adicione o açúcar em seguida e mexa até dissolver. Entre com a manteiga, o ovo e a farinha de trigo aos poucos;

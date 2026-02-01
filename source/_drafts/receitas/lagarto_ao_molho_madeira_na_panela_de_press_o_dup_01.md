@@ -40,7 +40,7 @@ flags: []
 - 2 colheres de sopa de azeite
 - 500 ml caldo da carne (300 ml)
 - 150 ml vinho tinto seco
-- 1 e 1/2 colher amido de milho (20 gramas)
+- 1 e ½ colher amido de milho (20 gramas)
 - 2 colheres de sopa de manteiga (25 gramas)
 - 100 gramas de champignons fatiados
 - Em uma tigela, misture a água, o molho inglês, o vinho tinto seco e o sal até dissolver bem. Acrescente o azeite e misture novamente para incorporar. Despeje esse líquido dentro do saco com a carne, garantindo que o tempero envolva bem toda a peça;

@@ -32,9 +32,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 colheres de sopa de manteiga
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 xícara de chá de arroz arbóreo
-- 1/2 xícara de chá de vinho branco
+- ½ xícara de chá de vinho branco
 - 1 xícara de chá de abóbora cozida e amassada
 - Queijo canastra a gosto
 - 500 ml de caldo de legumes

@@ -32,7 +32,7 @@ flags: []
 - 1 caixa de leite condensado (395 gramas)
 - 1 caixa de creme de leite (200 gramas)
 - 1 xícara de chá de leite em pó (90 gramas)
-- 2 e 3/4 xícara de chá de leite (660 ml)
+- 2 e ¾ xícara de chá de leite (660 ml)
 - 1 pacote de coco ralado (100 gramas)
 - --
 

@@ -32,10 +32,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 1 xícara de chá de folhas de manjericão lavadas e secas
-- 1/4 xícara de chá de parmesão ralado
-- 1/4 xícara de chá de amêndoas
+- ¼ xícara de chá de parmesão ralado
+- ¼ xícara de chá de amêndoas
 - 1 alho picado
 - Sal a gosto
 - Pimenta-do-reino a gosto

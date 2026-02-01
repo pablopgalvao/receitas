@@ -31,7 +31,7 @@ flags: []
 - 1 kg de abóbora cabotiá
 - 1 colher de sopa de bicarbonato de sódio (10 gramas)
 - 1 litro de água
-- 3 e 1/2 xícara de chá de açúcar refinado (700 gramas)
+- 3 e ½ xícara de chá de açúcar refinado (700 gramas)
 - --
 
 ---

@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de flocão de milho (60 gramas)
-- 1/2 xícara de chá de água (120 ml)
-- 1/4 xícara de chá de coco ralado seco (25 gramas)
+- ½ xícara de chá de água (120 ml)
+- ¼ xícara de chá de coco ralado seco (25 gramas)
 - 2 colheres de sopa de leite de coco (30 ml)
 - 2 colheres de sopa de açúcar (30 gramas)
 - --

@@ -31,11 +31,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 1 cebola em cubinhos
 - 2 dentes de alho picados
 - 1 pimentão amarelo em cubinhos
-- 1/4 xícara de chá (mais o suficiente para decorar) de azeitona verde sem caroço picada
+- ¼ xícara de chá (mais o suficiente para decorar) de azeitona verde sem caroço picada
 - 1 lata de ervilhas em conserva (170 gramas)
 - 1 lata de milho em conserva (170 gramas)
 - 130 gramas de molho de tomate

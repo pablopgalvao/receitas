@@ -32,12 +32,12 @@ flags: []
 - 300 gramas de batata-doce cozida e amassada
 - 1 ricota fresca
 - 2 xícaras de chá de espinafre cozido e picado
-- 1/2 xícara de chá de farinha de trigo
+- ½ xícara de chá de farinha de trigo
 - 2 ovos
 - Sal a gosto
 - 1 dente de alho pequeno
 - 2 colheres de sopa de azeite de oliva
-- 1/2 xícara de chá de leite
+- ½ xícara de chá de leite
 - 100 gramas de queijo gorgonzola
 - 200 ml de creme de leite
 - 2 colheres de sopa de manteiga

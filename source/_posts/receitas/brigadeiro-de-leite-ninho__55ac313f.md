@@ -31,7 +31,7 @@ flags: []
 
 - 1 lata de leite condensado (395 gramas)
 - 6 colheres de sopa de leite Ninho
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 1 colher de café de manteiga
 - Leite Ninho para finalizar
 - --

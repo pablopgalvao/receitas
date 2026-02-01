@@ -37,7 +37,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 gomo de linguiça calabresa picada
+- ½ gomo de linguiça calabresa picada
 - 100 g de queijo picado
 - Orégano a gosto
 - 4 ovos

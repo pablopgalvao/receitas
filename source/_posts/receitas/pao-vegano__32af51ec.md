@@ -28,15 +28,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de farinha de arroz integral
-- 1/2 xícara de chá de quinoa ou aveia em flocos
-- 1/2 xícara de chá de polvilho doce
+- 2 e ½ xícaras de chá de farinha de arroz integral
+- ½ xícara de chá de quinoa ou aveia em flocos
+- ½ xícara de chá de polvilho doce
 - 2 colheres de sopa de psyllium
 - 2 colheres de sopa de açúcar mascavo
 - 1 colher de sopa de fermento biológico
 - 1 colher de sopa de cacau em pó
 - 2 colheres de chá de sal
-- 3/4 xícara de chá de castanha-do-pará
+- ¾ xícara de chá de castanha-do-pará
 - 3 colheres de sopa de azeite
 - 3 xícaras de chá de água
 - --

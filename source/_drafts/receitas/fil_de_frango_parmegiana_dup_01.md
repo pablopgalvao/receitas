@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de filé de frango
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 1 pitada de pimenta-do-reino
 - 1 pitada de páprica picante
 - 1 pitada de açafrão

@@ -35,9 +35,9 @@ flags: []
 - 1 colher de sopa de tomilho (opcional)
 - 1 colher de sopa de mostarda
 - 1 colher de chá de molho inglês (opcional)
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

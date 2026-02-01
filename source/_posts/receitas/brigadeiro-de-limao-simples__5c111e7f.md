@@ -33,9 +33,9 @@ flags: []
 - 1 lata de leite condensado
 - 1 colher de sopa de manteiga (ou margarina)
 - 50 g de chocolate branco
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Raspas de 3 limões
-- 2 1/2 colheres de sopa de açúcar cristal
+- 2 ½ colheres de sopa de açúcar cristal
 - --
 
 ---

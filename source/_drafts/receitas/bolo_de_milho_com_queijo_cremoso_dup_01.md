@@ -31,7 +31,7 @@ flags: []
 
 - 1 pacote de queijo parmesão ralado (50 gramas)
 - 1 lata de açúcar (use a lata do milho como medida)
-- 1/2 lata de óleo (use a lata do milho como medida)
+- ½ lata de óleo (use a lata do milho como medida)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Despeje em uma forma untada e enfarinhada. Depois, leve ao forno preaquecido a 180ºC por cerca de 40 minutos;
 

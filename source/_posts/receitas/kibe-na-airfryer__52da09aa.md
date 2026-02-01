@@ -32,7 +32,7 @@ flags: []
 
 - 250 gramas de carne moída
 - 1 xícara de chá de trigo para kibe
-- 1/2 cebola picada
+- ½ cebola picada
 - Hortelã a gosto
 - Sal e pimenta-do-reino a gosto
 - 5 colheres de sopa de azeite de oliva

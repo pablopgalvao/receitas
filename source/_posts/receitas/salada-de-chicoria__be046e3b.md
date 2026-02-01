@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de bacon em cubos (60 gramas)
+- ½ xícara de bacon em cubos (60 gramas)
 - 1 maço de chicória
 - 1 xícara de chá de batata palha (50 gramas)
 - 1 colher de sopa de mostarda

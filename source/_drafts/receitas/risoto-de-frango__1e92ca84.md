@@ -31,7 +31,7 @@ flags: []
 - 2 colheres de sopa de azeite
 - 1 de salsão sem as folhas (30 gramas)
 - 1 talo médio de alho-poró (60 gramas)
-- 1/2 cebola descascada (80 gramas)
+- ½ cebola descascada (80 gramas)
 - 1 cenoura descascada (180 gramas)
 - 2 dentes de alho descascados
 - 1 folha de louro (de preferência fresca)

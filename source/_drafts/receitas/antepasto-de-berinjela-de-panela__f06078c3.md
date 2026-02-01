@@ -35,14 +35,14 @@ flags: []
 - 1 pimentão vermelho picado em cubos
 - 1 pimentão amarelo picado em cubos
 - 3 berinjelas médias (com casca) picadas
-- 1/3 xícara de chá de azeitonas picadas
-- 1/2 xícara de chá de uvas-passas brancas
+- ⅓ xícara de chá de azeitonas picadas
+- ½ xícara de chá de uvas-passas brancas
 - 1 colher de sopa de orégano
 - 1 colher de chá de sal
 - Folhas de manjericão e tomilho
 - Pimenta-do-reino a gosto
 - 3 colheres de sopa de vinagre branco
-- 1/2 xícara de chá de azeite de oliva
+- ½ xícara de chá de azeite de oliva
 - --
 - --
 

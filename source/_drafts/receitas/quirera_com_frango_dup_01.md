@@ -30,15 +30,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 gramas de peito de frango
-- 1 e 1/2 de xícara de chá de quirera
+- 1 e ½ de xícara de chá de quirera
 - 3 colheres de sopa de azeite
-- 1/2 maço de salsinha
+- ½ maço de salsinha
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de açafrão
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Água para cozimento (600ml)
-- Em uma tigela, tempere o frango com 1/3 do alho triturado, açafrão, sal e pimenta-do-reino. Misture bem com as mãos, para pegar em todos os pedaços. Deixe descansar por 20 minutos;
+- Em uma tigela, tempere o frango com ⅓ do alho triturado, açafrão, sal e pimenta-do-reino. Misture bem com as mãos, para pegar em todos os pedaços. Deixe descansar por 20 minutos;
 - Deixe a pressão sair naturalmente e abra a panela para finalizar. Adicione o cheiro-verde picadinho e acerte o sal. Misture bem novamente e apure por mais 2 minutos ou até engrossar;
 
 ---
@@ -46,7 +46,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Organize os ingredientes! Lave a quirera e deixe de molho por 1 hora. Corte o frango em cubinhos. Descasque e pique a cebola, os tomates (com sementes) e o pimentão em cubos, separadamente. Descasque e triture os dentes de alho. Lave e pique o cheiro-verde finamente;
-2. Em uma tigela, tempere o frango com 1/3 do alho triturado, açafrão, sal e pimenta-do-reino. Misture bem com as mãos, para pegar em todos os pedaços. Deixe descansar por 20 minutos;
+2. Em uma tigela, tempere o frango com ⅓ do alho triturado, açafrão, sal e pimenta-do-reino. Misture bem com as mãos, para pegar em todos os pedaços. Deixe descansar por 20 minutos;
 3. Em uma panela de pressão, aqueça o azeite e refogue a cebola e depois o restante de alho. Mexa até que fiquem bem douradinhos;
 4. Agora, entre com o frango e refogue bem por mais cerca de 3 minutinhos;
 5. Adicione o pimentão, tomate, a páprica defumada e refogue por mais 1 minuto. Mexa bem para desgrudar o fundinho da panela;

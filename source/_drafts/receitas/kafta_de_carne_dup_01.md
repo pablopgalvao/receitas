@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída (usamos patinho)
-- 1/8 de colher de chá de pimenta-do-reino
+- ⅛ de colher de chá de pimenta-do-reino
 - 1 colher de chá de sal
 - 2 colheres de sopa de cheiro-verde picado (usamos salsinha, cebolinha e hortelã)
-- 1/4 de colher de chá de pimenta síria
-- 1/2 colher de chá de coentro em pó
+- ¼ de colher de chá de pimenta síria
+- ½ colher de chá de coentro em pó
 - 1 colher de sopa de azeite
 - Em uma tigela grande, tempere a carne moída com cebola-roxa, salsinha, pimenta síria, coentro em pó, sal e pimenta-do-reino. Misture bem com as mãos;
 - Está pronto. Prepare um molho de sua preferência ou uma salada fresca para acompanhar!

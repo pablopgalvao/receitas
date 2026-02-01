@@ -39,7 +39,7 @@ flags: []
 - óleo para fritar
 - Numa travessa coloque as sardinhas, regue com o caldo de limão e tempere com sal e pimenta a gosto. Deixe em temperatura ambiente enquanto separa os outros ingredientes.
 - Coloque o fubá num prato e tempere com sal. Forre uma travessa com papel-toalha.
-- Leve ao fogo médio uma frigideira com cerca de 1/3 de xícara (chá) de óleo para aquecer - a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente apenas para cobrir o fundo.
+- Leve ao fogo médio uma frigideira com cerca de ⅓ de xícara (chá) de óleo para aquecer - a quantidade de óleo pode variar de acordo com o tamanho da frigideira, use o suficiente apenas para cobrir o fundo.
 - Quando o óleo estiver quente, coloque delicadamente as sardinhas empanadas. Deixe por 3 minutos até ficar com a casquinha dourada. Com uma escumadeira, vire para dourar o outro lado por igual. Enquanto isso, empane as sardinhas restantes.
 - Transfira as sardinhas douradas para a travessa forrada com papel-toalha e frite o restante. Sirva a seguir gomos de limão, salada de batata assada, arroz com alho-poró, feijão-carioca com cominho.
 

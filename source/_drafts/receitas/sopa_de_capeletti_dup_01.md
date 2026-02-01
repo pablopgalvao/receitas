@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de filé de frango
 - 3 colheres de sopa de azeite
 - 1 cebola grande (cerca de 200 gramas)
-- 1/2 alho-poró (cerca de 50 gramas)
+- ½ alho-poró (cerca de 50 gramas)
 - 1 cenoura pequena (cerca de 50 gramas)
 - 400 gramas de capeletti
 - 1 colher de chá de cúrcuma

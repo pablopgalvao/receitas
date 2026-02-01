@@ -31,10 +31,10 @@ flags: []
 
 - 2 colheres de sopa de manteiga
 - 2 colheres de sopa de farinha de trigo
-- 1/2 litro de leite gelado
+- ½ litro de leite gelado
 - Noz-moscada a gosto (ralada na hora)
-- 1/2 colher de chá de sal
-- 1/2 lata de creme de leite sem soro (150 gramas)
+- ½ colher de chá de sal
+- ½ lata de creme de leite sem soro (150 gramas)
 - --
 
 ---

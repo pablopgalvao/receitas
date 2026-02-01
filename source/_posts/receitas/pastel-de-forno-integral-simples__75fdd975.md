@@ -32,11 +32,11 @@ flags: []
 
 - 2 colheres de sopa de azeite (ou óleo de coco)
 - 1 colher de chá de alho amassado
-- 1/2 cebola picada
+- ½ cebola picada
 - Sal a gosto
 - 200 gramas de carne moída (patinho ou frango desfiado)
 - Páprica doce, pimenta-do-reino e colorau a gosto
-- 1/2 tomate picado
+- ½ tomate picado
 - 1 colher de sopa de cebolinha
 - 1 colher de sopa de água (para pincelar)
 - 1 gema (para pincelar)

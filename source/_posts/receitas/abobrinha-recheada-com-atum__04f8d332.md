@@ -32,7 +32,7 @@ flags: []
 
 - 1 batata média cozida e amassada (deixe esfriar antes de usar)
 - 1 lata de atum
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 tomate sem semente picado
 - 1 colher de sopa de alcaparras (opcional)
 - 2 colheres de sopa de maionese

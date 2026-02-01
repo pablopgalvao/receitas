@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos
-- 1/4 xícara de chá de creme de leite
-- 1/2 xícara de chá de açúcar demerara
-- 1/4 xícara de chá de cacau em pó 100%
+- ¼ xícara de chá de creme de leite
+- ½ xícara de chá de açúcar demerara
+- ¼ xícara de chá de cacau em pó 100%
 - 1 colher de chá de café solúvel
-- 1/2 xícara de chá de farinha de amêndoas
+- ½ xícara de chá de farinha de amêndoas
 - 50 gramas de chocolate 70% picado ou em gotas
 - --
 

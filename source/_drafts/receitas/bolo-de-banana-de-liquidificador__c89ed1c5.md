@@ -31,11 +31,11 @@ flags: []
 - 3 ovos
 - 1 xícara de chá de Açúcar Refinado Globo
 - 2 bananas maduras
-- 1/2 xícara de chá de óleo vegetal
+- ½ xícara de chá de óleo vegetal
 - 1 colher de chá de canela em pó
 - 1 pitada de sal
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de leite
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ xícara de chá de leite
 - 1 colher de café de fermento químico em pó (fermento para bolo)
 - --
 

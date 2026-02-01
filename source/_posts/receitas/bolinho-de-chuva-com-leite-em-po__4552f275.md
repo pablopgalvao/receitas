@@ -30,13 +30,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de trigo
-- 1/2 xícara de chá de açúcar
-- 1/2 xícara de chá de leite em pó
+- 1 e ½ xícara de chá de farinha de trigo
+- ½ xícara de chá de açúcar
+- ½ xícara de chá de leite em pó
 - 1 pitada de sal
 - 2 ovos
 - 1 colher de chá de fermento químico em pó (fermento para bolo)
-- 1/4 xícara de chá de leite
+- ¼ xícara de chá de leite
 - Óleo para fritar
 - Açúcar, canela e leite em pó a gosto para finalizar
 - --

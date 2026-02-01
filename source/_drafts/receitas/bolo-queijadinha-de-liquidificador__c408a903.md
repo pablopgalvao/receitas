@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de açúcar (350 gramas)
-- 2 e 1/3 xícara de leite (500 ml)
+- 2 e ⅓ xícara de leite (500 ml)
 - 1 lata de leite condensado (395 gramas)
 - 4 ovos
-- 1/3 de xícara de chá de farinha de trigo (53 gramas)
-- 1/4 de xícara de chá de açúcar (48 gramas)
+- ⅓ de xícara de chá de farinha de trigo (53 gramas)
+- ¼ de xícara de chá de açúcar (48 gramas)
 - 2 xícaras de chá de coco ralado (166 gramas)
 - 1 xícara de chá de parmesão ralado (90 gramas)
 - --

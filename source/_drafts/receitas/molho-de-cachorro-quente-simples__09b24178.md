@@ -30,11 +30,11 @@ flags: []
 
 - 1 cebola pequena
 - 2 dentes de alho
-- 1/2 xícara de chá de extrato de tomate (130 gramas)
+- ½ xícara de chá de extrato de tomate (130 gramas)
 - 650 gramas de passata de tomate
-- 1/2 colher de chá de páprica defumada
+- ½ colher de chá de páprica defumada
 - 10 salsichas
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 1 xícara de chá de água (240 ml)
 - 1 colher de sopa óleo ou azeite para refogar
 - --

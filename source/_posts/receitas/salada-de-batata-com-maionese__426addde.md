@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de maionese
-- 1/2 colher de sopa de mostarda
+- 1 e ½ xícara de chá de maionese
+- ½ colher de sopa de mostarda
 - 2 colheres de sopa de azeite de oliva
 - 4 gemas cozidas
 - --
@@ -39,8 +39,8 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Organize sua bancada e separe todos os ingredientes. Descasque as batatas e corte em cubos médios. Cozinhe os ovos, descasque-os e separe as gemas das claras. Corte as claras em pedaços médios e os ovos cozidos em cubos pequenos. Fatie a salsinha bem fininha;
-2. Cozinhe as batatas em 1,5 litros de água e 1/2 colher de sal, até que fiquem macias, mas sem desmanchar. Escorra, reserve em uma tigela grande e espere esfriar completamente;
+2. Cozinhe as batatas em 1,5 litros de água e ½ colher de sal, até que fiquem macias, mas sem desmanchar. Escorra, reserve em uma tigela grande e espere esfriar completamente;
 3. No liquidificador, adicione a maionese, a mostarda, o azeite e as 4 gemas cozidas. Bata até obter um creme liso e homogêneo. Se necessário, pare, mexa com uma espátula e volte a bater;
 4. Despeje essa maionese caseira sobre as batatas reservadas e misture delicadamente com uma colher grande;
-5. Acrescente a salsinha picadinha, os ovos cozidos picados, as claras cozidas em pedaços médios e, se necessário, ajuste o sal com 1/2 colher de chá. Misture tudo cuidadosamente;
+5. Acrescente a salsinha picadinha, os ovos cozidos picados, as claras cozidas em pedaços médios e, se necessário, ajuste o sal com ½ colher de chá. Misture tudo cuidadosamente;
 6. Transfira para uma travessa e finalize com salsinha picada por cima para decorar. Sirva gelada!

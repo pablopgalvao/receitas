@@ -30,22 +30,22 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de trigo
-- 1/2 xícara de chá de chocolate em pó
-- 1/2 xícara de chá de água morna
+- ½ xícara de chá de chocolate em pó
+- ½ xícara de chá de água morna
 - 1 xícara de chá de açúcar
 - 4 ovos (gemas e claras separadas)
-- 3/4 xícara de chá de óleo
+- ¾ xícara de chá de óleo
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 colher de chá de bicarbonato de sódio
+- ½ colher de chá de bicarbonato de sódio
 - 1 pitada de sal
 - Manteiga e chocolate em pó para untar
 - 2 latas de leite condensado (790 gramas)
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de chá de leite Ninho
+- ½ xícara de chá de leite Ninho
 - 1 caixinha de creme de leite (200 gramas)
 - 1 xícara de chá de leite morno
 - 2 colheres de sopa de chocolate em pó
-- 1/3 xícara de chá de leite condensado
+- ⅓ xícara de chá de leite condensado
 - Leite Ninho a gosto
 - Em um recipiente, misture as gemas, o açúcar e o óleo, com o auxílio de um fouet, até obter um creme mais claro;
 - Acrescente esse chocolate na mistura de ovos e mexa;

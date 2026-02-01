@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de biscoito do tipo Maria
-- 100 gramas de manteiga sem sal derretida (1/2 xícara de chá)
+- 100 gramas de manteiga sem sal derretida (½ xícara de chá)
 - 1 lata de leite condensado (395 gramas)
 - 3 gemas
-- 1/2 xícara de chá de polpa de maracujá sem sementes (1 a 2 maracujás) (90 gramas)
-- 100 ml de creme de leite (1/2 xícara de chá)
+- ½ xícara de chá de polpa de maracujá sem sementes (1 a 2 maracujás) (90 gramas)
+- 100 ml de creme de leite (½ xícara de chá)
 - 200 gramas de chocolate meio amargo em pedaços (1 xícara de chá bem cheia)
 - --
 

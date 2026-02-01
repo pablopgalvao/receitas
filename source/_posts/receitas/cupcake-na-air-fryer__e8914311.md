@@ -48,6 +48,6 @@ flags: []
 2. Em uma tigela, coloque a farinha de trigo e o açúcar e misture para envolver os ingredientes;
 3. Quebre o ovo em um pote pequeno, para verificar se está bom, e transfira para a tigela com os secos. Mexa bem até que fique homogêneo;
 4. Adicione o leite, o óleo e a essência de baunilha, se desejar. Misture até obter uma massa lisa e uniforme. Por último, adicione o fermento e misture suavemente;
-5. Ligue a air fryer a 180 °C por 3 minutos para pré-aquecer. Despeje a massa em forminhas próprias para cupcake, enchendo cerca de 2/3 de cada uma;
+5. Ligue a air fryer a 180 °C por 3 minutos para pré-aquecer. Despeje a massa em forminhas próprias para cupcake, enchendo cerca de ⅔ de cada uma;
 6. Coloque as forminhas na cesta da air fryer e asse por cerca de 12 minutos, ou até que, ao espetar um palito no centro, ele saia limpo. Enquanto os cupcakes assam, prepare a cobertura de sua preferência, como ganache, brigadeiro, chantilly ou outro creme. Escolhemos doce de leite;
 7. Após assar, retire os cupcakes da air fryer e deixe-os esfriarem completamente. Decore com a cobertura escolhida e sirva em seguida!

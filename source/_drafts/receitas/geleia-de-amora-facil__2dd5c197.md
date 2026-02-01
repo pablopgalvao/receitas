@@ -31,7 +31,7 @@ flags: []
 
 - 500 gramas de amoras
 - 250 gramas de açúcar
-- 1/3 xícara de chá de água (50 ml)
+- ⅓ xícara de chá de água (50 ml)
 - Suco de 1 limão
 - 1 pitada bicarbonato de sódio (5 gramas)
 - --

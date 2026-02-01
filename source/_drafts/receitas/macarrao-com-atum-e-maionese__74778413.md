@@ -40,7 +40,7 @@ flags: []
 - Cebolinha a gosto
 - Pimenta-do-reino a gosto
 - Sal a gosto
-- 1/2 xícara de chá de maionese (120 gramas)
+- ½ xícara de chá de maionese (120 gramas)
 - --
 
 ---

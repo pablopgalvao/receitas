@@ -35,7 +35,7 @@ flags: []
 - 30 gramas de açúcar
 - 4 gramas de goma xantana
 - 5 gramas de fermento biológico seco
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 20 gramas de leite em pó
 - 175 ml de água em temperatura ambiente
 - 1 ovo

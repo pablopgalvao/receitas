@@ -31,19 +31,19 @@ flags: []
 
 - 1 xícara de chá de arroz para sushi (250 gramas)
 - 2 xícaras de chá de água (480 ml)
-- 1/2 xícara de chá de vinagre de arroz
+- ½ xícara de chá de vinagre de arroz
 - 2 colheres de sopa de açúcar (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
 - 3 ovos médios
 - 1 cenoura (180 gramas)
 - 1 pepino (180 gramas)
 - 1 pacote de kani-kama (120 gramas)
-- 1/2 xícara de chá de shoga gari (gengibre em conserva)
+- ½ xícara de chá de shoga gari (gengibre em conserva)
 - 1 colher de sopa de sakê mirin
 - 3 colheres de sopa de shoyu
 - 1 fio de óleo
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - Em uma tigela pequena, misture o vinagre de arroz, o sal e o açúcar até tudo dissolver. Este é o molho su, que serve para temperar o arroz;
 - Em um recipiente separado, quebre um ovo de cada vez, verificando se estão bons. Bata com sal e pimenta usando um garfo;
 - Aqueça uma frigideira com o óleo e despeje metade dos ovos batidos. Quando formar uma omelete fina, dobre-a sobre si mesma 3 vezes, formando um rolinho, e deixe-o no canto da frigideira;

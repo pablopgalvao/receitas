@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de leite de coco
+- ½ xícara de chá de leite de coco
 - 1 colher de sopa de cacau 100%
 - 2 colheres de sopa de açúcar mascavo
 - 3 quadradinhos de barra de chocolate 70%

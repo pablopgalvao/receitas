@@ -32,8 +32,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de farinha de grão-de-bico (utilizamos uma de 160 mL)
-- 1/3 de xícara de chá de azeite de oliva⁣
-- 1/3 de xícara de chá de água gelada
+- ⅓ de xícara de chá de azeite de oliva⁣
+- ⅓ de xícara de chá de água gelada
 - Sal a gosto⁣
 - Frango cozido e desfiado para o recheio⁣
 - 3 colheres de sopa de creme de queijo/ricota/requeijão para misturar ao frango⁣

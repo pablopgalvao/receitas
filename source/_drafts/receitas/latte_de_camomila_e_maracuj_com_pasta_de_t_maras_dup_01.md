@@ -31,8 +31,8 @@ flags: []
 
 - 200 ml de água
 - 100 ml de leite vegetal (amêndoas, aveia ou coco)
-- 1/2 xícara de tâmaras sem caroço
-- 1/2 xícara de água morna (para hidratar as tâmaras)
+- ½ xícara de tâmaras sem caroço
+- ½ xícara de água morna (para hidratar as tâmaras)
 - 1 pitada de canela (opcional)
 - Escorra as tâmaras, reservando um pouco da água. Bata no processador ou liquidificador com cerca de 4 colheres da água morna até formar uma pasta cremosa e uniforme;
 - Em uma panela pequena, aqueça o leite vegetal com 1 colher (sopa) da pasta de tâmaras caseira. Mexa até incorporar bem;

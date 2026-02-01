@@ -30,13 +30,13 @@ flags: []
 
 - 160 gramas de macarrão bavette
 - 1,5 litros de água para cozinhar o macarrão
-- 1/2 xícara de chá de bacon em cubinhos (80 gramas)
-- 1/4 de xícara de chá de vinho branco (60 ml)
+- ½ xícara de chá de bacon em cubinhos (80 gramas)
+- ¼ de xícara de chá de vinho branco (60 ml)
 - 2 ovos inteiros
 - 2 gemas
-- 1/2 xícara de chá de queijo parmesão ralado (70 gramas)
+- ½ xícara de chá de queijo parmesão ralado (70 gramas)
 - 1 colher de sopa de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - --
 
 ---

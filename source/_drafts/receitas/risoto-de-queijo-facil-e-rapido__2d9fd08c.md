@@ -30,7 +30,7 @@ flags: []
 
 - 2 xícaras de chá de arroz arbóreo
 - 1 cebola grande
-- 1 e 1/2 xícara de chá de vinho (para risoto)
+- 1 e ½ xícara de chá de vinho (para risoto)
 - 2 colheres de sopa de manteiga com sal
 - 1 fio generoso de azeite (1 colher de sopa)
 - 100 gramas de queijo provolone

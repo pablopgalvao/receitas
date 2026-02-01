@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de fermento biológico seco
 - 3 colheres de sopa de açúcar
 - 1 colher de café de sal
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 500 gramas de farinha de trigo
 - Sal grosso, alecrim e tomatinhos a gosto
 - --

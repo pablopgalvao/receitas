@@ -36,7 +36,7 @@ flags: []
 - 2 ovos médios
 - 300 gramas de carne moída
 - 2 colheres de sopa de azeite
-- 1/2 xícara de cheiro-verde (ou a gosto)
+- ½ xícara de cheiro-verde (ou a gosto)
 - 100 gramas de queijo minas (ou a gosto)
 - Sal a gosto
 - Pimenta-do-reino a gosto

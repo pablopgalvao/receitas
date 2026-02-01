@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de peito de frango
 - 2 colheres de sopa de azeite de oliva
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 colher de chá de sal
 - 1 colher de chá de açafrão
 - 1 colher de chá de páprica

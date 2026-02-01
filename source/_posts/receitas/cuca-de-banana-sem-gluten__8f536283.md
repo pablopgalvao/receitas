@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/4 de xícara de chá óleo vegetal
-- 1/2 xícara de chá de açúcar
+- ¼ de xícara de chá óleo vegetal
+- ½ xícara de chá de açúcar
 - Canela a gosto
-- 3/4 de xícara de chá de farinha de aveia
-- 1/4 de xícara de chá de aveia em flocos grossos
-- 1/2 xícara de chá de farinha de amêndoas ou castanha-de-caju
+- ¾ de xícara de chá de farinha de aveia
+- ¼ de xícara de chá de aveia em flocos grossos
+- ½ xícara de chá de farinha de amêndoas ou castanha-de-caju
 - 1 colher de sopa rasa de fermento químico em pó (fermento para bolo)
 - 3 bananas maduras picadinhas em cubos
 - --

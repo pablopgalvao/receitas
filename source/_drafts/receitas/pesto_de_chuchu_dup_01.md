@@ -32,8 +32,8 @@ flags: []
 - Água fervente (200 ml)
 - 1 xícara de chá de folhas de manjericão
 - 300 gramas de chuchu
-- 1/4 xícara de azeite de oliva (60 ml)
-- 1/2 xícara de castanha-do-pará (60 gramas)
+- ¼ xícara de azeite de oliva (60 ml)
+- ½ xícara de castanha-do-pará (60 gramas)
 - Em outra panela, coloque o chuchu, a água e sal. Cozinhe por aproximadamente 10 minutos, até que fiquem macios. Reserve;
 - No liquidificador ou mini processador, coloque o chuchu cozido, as folhas de manjericão, o alho, o azeite, o óleo e o sal;
 

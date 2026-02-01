@@ -28,11 +28,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 xícara e 1/2 de chá de farinha de trigo
+- 1 xícara e ½ de chá de farinha de trigo
 - 1 colher de sopa de manteiga (ou margarina)
 - 1 pitada de sal
 - 1 pitada de açúcar
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---

@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/5 caixa de leite condensado
-- 1/5 caixinha de creme de leite
+- ½ caixa de leite condensado
+- ½ caixinha de creme de leite
 - 1 limão
 - --
 

@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de milho Mushroom (90 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de milho Mushroom (90 gramas)
+- ½ xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de água (120 ml)
 - 2 colheres de sopa de óleo
 - 1 xícara de chá de leite Ninho a gosto (cerca de 120 gramas) (ou a gosto)
 - 1 xícara de chá de Nutella (ou a gosto)

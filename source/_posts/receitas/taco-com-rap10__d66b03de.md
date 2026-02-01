@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 avocados médios (500 gramas)
-- 1/2 cebola roxa pequena (50 gramas)
+- ½ cebola roxa pequena (50 gramas)
 - 1 tomate médio (110 gramas)
 - 5 ramos de coentro (3 colheres de sopa)
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 colher de chá de sal
 - --
 

@@ -32,7 +32,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 gramas de ricota
-- 1/2 cebola picadinha
+- ½ cebola picadinha
 - 1 dente de alho amassado
 - 250 gramas de mussarela ralada
 - 1 pacote de brócolis (já cozido)

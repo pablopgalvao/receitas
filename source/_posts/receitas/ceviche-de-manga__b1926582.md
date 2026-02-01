@@ -32,8 +32,8 @@ flags: []
 - 1 cebola roxa pequena (170 gramas)
 - 1 limão
 - 2 colheres de sopa de pimenta-biquinho (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 3 colheres de sopa de azeite (ou a gosto)
 - 4 colheres de sopa de cheiro-verde ou coentro (ou a gosto)
 - --

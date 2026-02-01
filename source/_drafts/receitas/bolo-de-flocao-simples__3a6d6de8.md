@@ -30,7 +30,7 @@ flags: []
 
 - 2 xícaras de chá de flocão de milho
 - 1 xícara de chá de leite
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 2 xícaras de chá de açúcar
 - 4 ovos inteiros
 - 1 xícara de chá de farinha de trigo

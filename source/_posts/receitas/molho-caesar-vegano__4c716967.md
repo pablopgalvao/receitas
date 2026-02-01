@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de castanha-de-caju crua
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 dente de alho
 - 2 colheres de sopa de sementes de mostarda
 - 1 pitada de açafrão (cúrcuma)
 - 1 colher de chá de sal
-- 1/4 de xícara de chá de azeite de oliva
+- ¼ de xícara de chá de azeite de oliva
 - 2 colheres de sopa de suco de limão
 - --
 

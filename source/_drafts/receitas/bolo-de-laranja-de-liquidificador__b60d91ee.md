@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de farinha de trigo (360 gramas)
-- 1 e 1/2 xícara de chá de açúcar (270 gramas)
+- 1 e ½ xícara de chá de açúcar (270 gramas)
 - 200 ml de suco de laranja natural ou industrializado
 - 200 ml de leite integral
-- 3/4 de xícara de óleo (165 gramas)
+- ¾ de xícara de óleo (165 gramas)
 - 2 ovos médios
 - 1 colher de sopa de fermento químico em pó
 - --

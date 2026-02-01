@@ -30,16 +30,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de óleo de girassol
+- ½ xícara de chá de óleo de girassol
 - 100ml de leite de coco integral
-- 3/4 de xícara de chá de açúcar mascavo
+- ¾ de xícara de chá de açúcar mascavo
 - 1 xícara de chá de batata-doce ralada crua
 - 1 colher de sopa de vinagre de maçã (opcional)
 - Pitada de sal
 - 1 colher de chá de canela em pó (opcional)
-- 1/2 xícara de chá de farinha de arroz
-- 1/2 xícara de chá de aveia sem glúten em flocos finos
-- 1/2 xícara de chá de polvilho doce
+- ½ xícara de chá de farinha de arroz
+- ½ xícara de chá de aveia sem glúten em flocos finos
+- ½ xícara de chá de polvilho doce
 - 2 colheres de sopa de sementes de chia (opcional)
 - 1 colher de sopa de fermento em pó
 - --

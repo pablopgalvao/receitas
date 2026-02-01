@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite em pó desnatado
-- 1/4 de xícara de chá de água
+- ¼ de xícara de chá de água
 - 150 gramas de chocolate branco zero açúcar
 - --
 

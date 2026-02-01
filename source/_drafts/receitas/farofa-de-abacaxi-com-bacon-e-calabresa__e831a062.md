@@ -35,10 +35,10 @@ flags: []
 - 1 abacaxi pequeno (400 gramas)
 - 1 cebola
 - 2 dentes de alho
-- 1 e 1/2 xícara de chá de farinha panko (125 gramas)
+- 1 e ½ xícara de chá de farinha panko (125 gramas)
 - 1 xícara de chá de farofa pronta (125 gramas)
 - Sal a gosto
-- 1/4 colher de chá de pimenta-do-reino a gosto
+- ¼ colher de chá de pimenta-do-reino a gosto
 - 3 colheres de sopa de salsinha e cebolinha a gosto
 - --
 

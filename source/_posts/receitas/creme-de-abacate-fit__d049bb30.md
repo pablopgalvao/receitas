@@ -31,8 +31,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate
-- 1/2 copo de leite
+- ½ abacate
+- ½ copo de leite
 - Adoçante a gosto
 - Gelo a gosto
 - Limão a gosto

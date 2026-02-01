@@ -37,7 +37,7 @@ flags: []
 - 1 tomate fatiado
 - Orégano a gosto
 - Palitos grandes
-- 2 e 1/2 xícaras de chá de molho de tomate
+- 2 e ½ xícaras de chá de molho de tomate
 - --
 
 ---

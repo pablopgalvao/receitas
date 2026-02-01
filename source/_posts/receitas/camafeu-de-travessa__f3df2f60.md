@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de açúcar de confeiteiro (250 gramas)
-- 1/2 colher de chá de suco de limão
+- ½ colher de chá de suco de limão
 - 2 colheres de sopa de leite (30 ml)
 - --
 

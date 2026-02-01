@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 ovos médios (250 gramas)
-- 3/4 de xícara de chá de óleo (180 ml)
-- 1 e 1/2 xícara de chá de açúcar (270 gramas)
-- 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
+- ¾ de xícara de chá de óleo (180 ml)
+- 1 e ½ xícara de chá de açúcar (270 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (300 gramas)
 - 2 colheres de chá de canela em pó (6 gramas)
 - 1 colher de sopa de fermento químico (15 gramas)
 - 7 bananas maduras (cerca de 1,1 kg)

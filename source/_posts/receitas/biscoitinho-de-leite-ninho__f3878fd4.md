@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de amido de milho (300 gramas)
-- 1/3 de xícara de chá de leite em pó (50 gramas)
-- 1/2 xícara de chá de margarina ou manteiga gelada (100 gramas)
-- 2/3 de xícara de chá de leite condensado (200 gramas)
-- 1/3 de xícara de chá de leite em pó para empanar (50 gramas)
+- ⅓ de xícara de chá de leite em pó (50 gramas)
+- ½ xícara de chá de margarina ou manteiga gelada (100 gramas)
+- ⅔ de xícara de chá de leite condensado (200 gramas)
+- ⅓ de xícara de chá de leite em pó para empanar (50 gramas)
 - --
 
 ---

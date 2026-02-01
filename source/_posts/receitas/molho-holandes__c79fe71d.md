@@ -31,7 +31,7 @@ flags: []
 
 - 100 gramas de manteiga derretida
 - 1 gema
-- 1/2 colher de sopa de vinagre
+- ½ colher de sopa de vinagre
 - 1 colher de sopa de água fervente
 - Sal e pimenta-do-reino a gosto
 - --

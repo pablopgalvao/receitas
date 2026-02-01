@@ -35,8 +35,8 @@ flags: []
 - 1 xícara de chá farinha de trigo
 - 1 colher de chá de fermento químico
 - 1 ovo
-- 1/4 de xícara de chá de açúcar
-- Raspas de 1/2 laranja
+- ¼ de xícara de chá de açúcar
+- Raspas de ½ laranja
 - 70 ml de suco de laranja
 - 2 colheres de sopa de óleo
 - --

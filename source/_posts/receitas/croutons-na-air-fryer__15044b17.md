@@ -35,7 +35,7 @@ flags: []
 - 8 fatias de pão de forma tradicional
 - 2 colherrs de sopa de azeite (30 ml)
 - Páprica defumada a gosto
-- 1/2 colher de chá de alho em pó
+- ½ colher de chá de alho em pó
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Alecrim seco a gosto

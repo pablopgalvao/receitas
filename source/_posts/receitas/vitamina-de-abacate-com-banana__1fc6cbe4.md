@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de leite de soja
+- ½ xícara de chá de leite de soja
 - 1 xícara de chá de rodelas de bananas congeladas
 - 1 xícara de chá de abacate gelado picado
 - 1 colher de chá de chia

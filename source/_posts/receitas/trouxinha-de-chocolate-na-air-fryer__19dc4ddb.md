@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 barra de chocolate ao leite (40 gramas)
-- 1/2 barra de chocolate branco (40 gramas)
+- ½ barra de chocolate ao leite (40 gramas)
+- ½ barra de chocolate branco (40 gramas)
 - 350 gramas de massa folhada
 - 1 colher de sopa de leite (15 ml)
 - 1 colher de chá de mel (5 ml)

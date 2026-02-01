@@ -31,10 +31,10 @@ flags: []
 
 - 3 colheres de sopa de manteiga (45 gramas)
 - 2 colheres de sopa de farinha de trigo (20 gramas)
-- 2 e 1/2 xícaras de leite integral (600 ml)
+- 2 e ½ xícaras de leite integral (600 ml)
 - 1 colher de café de noz-moscada
 - Mussarela a gosto
-- 1/2 caixinha de creme de leite (100 gramas)
+- ½ caixinha de creme de leite (100 gramas)
 - --
 
 ---

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de maionese
-- 1 e 1/2 xícara de mix de farinhas sem glúten
+- 1 e ½ xícara de mix de farinhas sem glúten
 - 1 pitada de sal
 - --
 

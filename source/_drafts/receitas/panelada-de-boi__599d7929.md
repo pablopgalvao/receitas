@@ -37,7 +37,7 @@ flags: []
 
 - 500 gramas de tripa de boi pré-cozida
 - 500 gramas de bucho de boi
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 4 xícaras de chá de água (1 litro)
 - 1 colher de sopa de óleo (15 ml)
 - 3 dentes de alho

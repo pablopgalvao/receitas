@@ -31,7 +31,7 @@ flags: []
 
 - 2 xícaras de chá de farinha de trigo (240 gramas)
 - 1 xícara de chá de farinha de milho flocada para cuscuz pré-cozida (120 gramas)
-- 1 e 1/2 colher de sopa de fermento em pó (18 gramas)
+- 1 e ½ colher de sopa de fermento em pó (18 gramas)
 - 1 colher de chá de sal
 - 1 xícara de chá de água morna (240 ml)
 - 2 colheres de sopa de óleo vegetal (30 ml)

@@ -36,7 +36,7 @@ flags: []
 - 1 xícara de chá de uva passas pretas (130 gramas)
 - 1 xícara de chá de damascos (110 gramas)
 - 3 pimentas dedo-de-moça sem semente
-- 1/4 de xícara de chá de salsinha picada (15 gramas)
+- ¼ de xícara de chá de salsinha picada (15 gramas)
 - 1 xícara de chá de amêndoas em lâminas tostadas (80 gramas)
 - --
 

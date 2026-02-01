@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de tilápia limpa (aproximadamente 10 filés)
 - 1 xícara de chá de farinha de trigo
-- 1/2 colher de chá de alho ralado
+- ½ colher de chá de alho ralado
 - 250 gramas de farinha panko ou de rosca
 - Cheiro-verde a gosto
 - Sal a gosto

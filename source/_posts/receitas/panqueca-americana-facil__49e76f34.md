@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 ovo médio
-- 1/2 colher de chá de essência de baunilha
+- ½ colher de chá de essência de baunilha
 - 1 pitada de sal
 - 1 colher de sopa de óleo
-- 1/4 de xícara de chá de açúcar cristal ou refinado (40 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ¼ de xícara de chá de açúcar cristal ou refinado (40 gramas)
+- ½ xícara de chá de leite (120 ml)
 - 1 xícara de chá de farinha de trigo sem fermento
 - 1 colher de sopa (rasa) de fermento químico em pó (fermento para bolo)
 - --

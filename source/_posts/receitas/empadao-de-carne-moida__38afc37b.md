@@ -32,13 +32,13 @@ flags: []
 - 1 fio de azeite
 - 600 gramas de carne moída
 - Sal e pimenta-do-reino a gosto
-- 1/2 colher de chá de cominho em pó
+- ½ colher de chá de cominho em pó
 - 1 cebola grande picada
 - 3 dentes de alho picados
-- 1/2 xícara de chá de molho de tomate
+- ½ xícara de chá de molho de tomate
 - 2 colheres de sopa de salsinha picada
 - 1 lata de milho verde
-- 1/2 xícara de chá de requeijão
+- ½ xícara de chá de requeijão
 - --
 
 ---

@@ -33,7 +33,7 @@ flags: []
 - 3 ovos
 - 1 pote de requeijão cremoso tradicional (200 gramas)
 - 300 ml de leite integral
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - --
 
 ---

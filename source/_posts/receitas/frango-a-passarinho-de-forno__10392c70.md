@@ -31,10 +31,10 @@ flags: []
 - 2 dentes de alho
 - 1 colher de chá de sal
 - 1 colher de chá de cominho
-- 1 e 1/2 colher de chá de páprica
+- 1 e ½ colher de chá de páprica
 - 3 colheres de sopa de azeite
 - 500 gramas de frango cortado à passarinho
-- 1/4 de xícara de chá de farinha de trigo
+- ¼ de xícara de chá de farinha de trigo
 - --
 
 ---

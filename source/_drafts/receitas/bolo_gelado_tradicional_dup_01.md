@@ -31,12 +31,12 @@ flags: []
 
 - 1 copo de iogurte natural sem açúcar (170 gramas)
 - 1 copo de óleo (200 ml)
-- 1 e 1/4 de xícara de chá de açúcar (260 gramas)
-- 1 e 1/2 xícara de chá de farinha de trigo (195 gramas)
+- 1 e ¼ de xícara de chá de açúcar (260 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (195 gramas)
 - 1 colher de sopa de fermento químico em pó (12 gramas)
-- 1 e 1/2 xícara de chá de leite de coco (350 ml)
-- 2/3 de xícara de chá de leite integral (150 ml)
-- 1/2 lata de leite condensado (198 gramas)
+- 1 e ½ xícara de chá de leite de coco (350 ml)
+- ⅔ de xícara de chá de leite integral (150 ml)
+- ½ lata de leite condensado (198 gramas)
 - 1 xícara de chá de coco ralado seco (80 gramas)
 - 1 colher de sopa de manteiga (20 gramas)
 - Em uma tigela, bata os ovos com o iogurte e o óleo até misturar bem;

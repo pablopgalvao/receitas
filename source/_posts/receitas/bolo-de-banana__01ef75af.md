@@ -29,14 +29,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 bananas-nanicas ou caturra
-- 1 e 1/2 xícara de chá de açúcar para caramelizar (270 gramas)
+- 1 e ½ xícara de chá de açúcar para caramelizar (270 gramas)
 - 4 ovos médios (cerca de 200 gramas)
 - 2 xícaras de chá de açúcar refinado (400 gramas)
-- 1/4 de xícara de chá de manteiga sem sal em temperatura ambiente (65 gramas)
+- ¼ de xícara de chá de manteiga sem sal em temperatura ambiente (65 gramas)
 - 1 xícara de chá de leite (240 ml)
-- 1 e 1/2 colher de sopa de fermento químico em pó (fermento para bolo)
+- 1 e ½ colher de sopa de fermento químico em pó (fermento para bolo)
 - 2 xícaras de chá de farinha de trigo (260 gramas)
-- 1/2 colher de sopa de essência de baunilha
+- ½ colher de sopa de essência de baunilha
 - --
 
 ---

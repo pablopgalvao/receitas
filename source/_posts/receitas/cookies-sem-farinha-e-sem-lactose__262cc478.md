@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de pasta de amendoim
-- 1/2 xícara de chá de açúcar demerara
-- 1/2 colher de chá de fermento químico em pó (fermento para bolo)
+- ½ xícara de chá de açúcar demerara
+- ½ colher de chá de fermento químico em pó (fermento para bolo)
 - 1 pitada de sal
 - 1 ovo
 - 30 gramas de chocolate sem lactose picado

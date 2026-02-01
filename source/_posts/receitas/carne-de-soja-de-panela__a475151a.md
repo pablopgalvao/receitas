@@ -32,7 +32,7 @@ flags: []
 
 - 150 gramas de soja graúda
 - 1 cebola pequena
-- 1/2 pimentão vermelho
+- ½ pimentão vermelho
 - 2 batatas médias
 - 1 cenoura média
 - 1 colher de chá de sal

@@ -33,13 +33,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 fio de azeite
-- 1/2 xícara de chá de bacon picado
-- 1/2 xícara de chá de calabresa picada
-- 1/2 cebola picada
+- ½ xícara de chá de bacon picado
+- ½ xícara de chá de calabresa picada
+- ½ cebola picada
 - 2 dentes de alho amassados
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 repolho grande picado
+- ½ repolho grande picado
 - Salsinha a gosto
 - Cebolinha a gosto
 - --

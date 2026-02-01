@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 colher de chá sal (ou a gosto)
-- 1/4 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá sal (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de azeite
 - 1 colher de sopa de manteiga
 - Erva fresca de sua preferência a gosto

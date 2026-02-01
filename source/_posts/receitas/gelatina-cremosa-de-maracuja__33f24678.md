@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/3 de xícara de água fria (150 ml)
+- ⅔ de xícara de água fria (150 ml)
 - 1 colher de sobremesa de amido de milho
 - 2 colheres de sopa de açúcar
 - 50 ml de suco concentrado de maracujá

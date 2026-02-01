@@ -37,8 +37,8 @@ flags: []
 - 3 dentes de alho
 - 3 colheres de sopa de cheiro-verde picado
 - 2 colheres de chá de sal
-- 1/2 colher de chá de açafrão
-- 1/4 colher de chá de pimenta-do-reino
+- ½ colher de chá de açafrão
+- ¼ colher de chá de pimenta-do-reino
 - --
 
 ---

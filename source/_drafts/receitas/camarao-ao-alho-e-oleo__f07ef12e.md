@@ -33,7 +33,7 @@ flags: []
 - 2 colheres de sopa de óleo
 - 1 colher de chá (rasa) de sal
 - 1 colher de chá de noz-moscada (ou a gosto)
-- 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cebolinha picada (ou a gosto)
 - --
 

@@ -33,7 +33,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 250 gramas de feijão fradinho cru (demolhado por 12 horas)
-- 1/2 pimenta dedo-de-moça (sem sementes)
+- ½ pimenta dedo-de-moça (sem sementes)
 - 1 colher de sopa de farinha de linhaça
 - Sal a gosto
 - Cominho a gosto

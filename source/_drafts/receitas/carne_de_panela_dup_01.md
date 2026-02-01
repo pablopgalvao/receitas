@@ -33,10 +33,10 @@ flags: []
 - 100 gramas de salsão
 - 1 colher de sopa de farinha de trigo
 - 1 colher de sopa de extrato de tomate
-- 1 e 1/2 xícara de chá de vinho tinto seco (opcional)
+- 1 e ½ xícara de chá de vinho tinto seco (opcional)
 - Azeite a gosto
 - 1 colher de sopa de manteiga
-- 1/2 colher de chá de páprica
+- ½ colher de chá de páprica
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Cheiro-verde a gosto

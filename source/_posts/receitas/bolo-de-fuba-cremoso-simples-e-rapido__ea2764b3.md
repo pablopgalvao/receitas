@@ -35,7 +35,7 @@ flags: []
 - 1 pacotinho de queijo parmesão ralado (50 gramas)
 - 2 xícaras de chá de açúcar (400 gramas)
 - 1 xícara de chá de fubá (120 gramas)
-- 1/2 xícara de chá de farinha de trigo (60 gramas)
+- ½ xícara de chá de farinha de trigo (60 gramas)
 - 50 gramas de coco ralado
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

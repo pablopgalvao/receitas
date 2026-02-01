@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite de coco em pó (ou leite sem lactose em pó)
-- 1/2 xícara de chá de café solúvel
+- ½ xícara de chá de café solúvel
 - 2 colheres de sopa de cacau em pó
-- 1/2 colher de sopa de bicarbonato
-- 1/2 colher de sopa de canela em pó
-- 1/2 xícara de chá de xilitol (açúcar de coco ou adoçante da sua preferência)
+- ½ colher de sopa de bicarbonato
+- ½ colher de sopa de canela em pó
+- ½ xícara de chá de xilitol (açúcar de coco ou adoçante da sua preferência)
 - --
 
 ---

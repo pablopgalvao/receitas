@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de manteiga (45 gramas)
-- 3/4 de xícara de chá de vinho branco seco (200 ml)
+- ¾ de xícara de chá de vinho branco seco (200 ml)
 - 1 colher de sobremesa de amido de milho
-- 1/3 de xícara de chá de água (100 ml)
+- ⅓ de xícara de chá de água (100 ml)
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - Em seguida, tempere os medalhões com sal e pimenta;
 - Em uma panela, derreta a manteiga em fogo baixo com as folhas de sálvia para saborizar. Retire as folhas da manteiga;
 - Na mesma frigideira onde selou os medalhões, adicione o vinho branco e o amido de milho dissolvido. Deixe ferver até o molho engrossar, ajustando o sal e a pimenta-do-reino;

@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 80 gramas de leite condensado
 - 200 gramas de Nutella
 - 3 xícaras de óleo para fritar (720 ml)

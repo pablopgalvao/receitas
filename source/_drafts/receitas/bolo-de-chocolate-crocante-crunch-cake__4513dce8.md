@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 de xícara de chá de leite (360 ml)
+- 1 e ½ de xícara de chá de leite (360 ml)
 - 3 colheres de sopa de açúcar (45 gramas)
 - 3 colheres de sopa de cacau em pó 50% (30 gramas)
 - --

@@ -35,7 +35,7 @@ flags: []
 - 500 gramas de filé de peito de frango
 - Sal e pimenta-do-reino a gosto
 - 1 colher de sopa de manteiga
-- 1/2 cebola picada
+- ½ cebola picada
 - 3 dentes de alho picados
 - 1 xícara de chá de suco de laranja
 - 5 colheres de sopa de vinho branco

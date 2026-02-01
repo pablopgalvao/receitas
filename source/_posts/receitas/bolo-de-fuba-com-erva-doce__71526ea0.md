@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos médios
-- 1 e 1/3 xícara de chá de açúcar (240 gramas)
-- 3/4 xícara de chá de óleo (180 ml)
-- 3/4 de xícara de chá de leite (180 ml)
+- 1 e ⅓ xícara de chá de açúcar (240 gramas)
+- ¾ xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de leite (180 ml)
 - 1 colher de sopa de sementes de erva-doce
-- 1 e 1/2 xícara de chá de fubá (180 gramas)
-- 1/2 xícara de chá de farinha de trigo (60 gramas)
+- 1 e ½ xícara de chá de fubá (180 gramas)
+- ½ xícara de chá de farinha de trigo (60 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (15 gramas)
 - --
 

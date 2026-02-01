@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de azeite
-- 1/2 colher de sopa de suco de limão
+- ½ colher de sopa de suco de limão
 - 1 colher de sopa de suco de laranja pera
 - Sal a gosto
 - Pimenta-do-reino a gosto

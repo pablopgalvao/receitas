@@ -35,8 +35,8 @@ flags: []
 - 500 gramas de macarrão curto
 - 1 linguiça calabresa
 - 200 gramas de presunto
-- 1/2 cebola
-- 1/2 pimentão verde
+- ½ cebola
+- ½ pimentão verde
 - 2 tomates
 - 600 ml de água
 - 600 ml de leite

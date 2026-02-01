@@ -30,17 +30,17 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cenoura (cerca de 60 gramas)
-- 1/2 maço de cebolinha
-- 1/2 abobrinha (cerca de 200 gramas)
-- 1/2 repolho (cerca de 180 gramas)
+- ½ cenoura (cerca de 60 gramas)
+- ½ maço de cebolinha
+- ½ abobrinha (cerca de 200 gramas)
+- ½ repolho (cerca de 180 gramas)
 - 1 cebola pequena
 - 1 xícara de farinha de trigo (120 gramas)
 - 3 colheres de sopa de amido de milho (30 gramas)
-- 1/2 colher de sopa de fermento
+- ½ colher de sopa de fermento
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 3/4 de xícara de água gelada (200 ml)
+- ¾ de xícara de água gelada (200 ml)
 - 1 colher de sopa de óleo
 - --
 

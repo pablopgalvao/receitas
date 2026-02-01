@@ -29,15 +29,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 abóbora média
-- 1/2 xícara de chá de água
-- 1/2 xícara de chá de açúcar de coco
+- ½ xícara de chá de água
+- ½ xícara de chá de açúcar de coco
 - 1 pitada de sal
-- 1/3 xícara de chá de óleo de coco
+- ⅓ xícara de chá de óleo de coco
 - 1 colher de chá de extrato de baunilha
 - 1 xícara de chá de farinha de arroz
-- 1/2 xícara de chá de de polvilho doce
-- 1/2 colher de sopa de fermento
-- 1/4 colher de sopa de bicarbonato
+- ½ xícara de chá de de polvilho doce
+- ½ colher de sopa de fermento
+- ¼ colher de sopa de bicarbonato
 - --
 
 ---

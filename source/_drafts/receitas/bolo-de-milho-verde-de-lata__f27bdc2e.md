@@ -33,7 +33,7 @@ flags: []
 - 1 latinha de açúcar (135 gramas)
 - 1 latinha de flocão de milho fino ou milharina (120 gramas)
 - 1 latinha de leite (150 ml)
-- 1/3 de latinha de óleo (55 ml)
+- ⅓ de latinha de óleo (55 ml)
 - 50 gramas de coco ralado (opcional)
 - 1 colher de sopa de fermento químico em pó
 - --

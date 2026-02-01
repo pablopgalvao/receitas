@@ -32,9 +32,9 @@ flags: []
 - 1 caixinha de leite (a caixinha de leite condensado como medida)
 - 1 caixinha de leite de coco (a caixinha de leite condensado como medida)
 - 1 caixinha de farinha de trigo (a caixinha de leite condensado como medida)
-- 1/2 caixinha medida de açúcar (a caixinha de leite condensado como medida)
+- ½ caixinha medida de açúcar (a caixinha de leite condensado como medida)
 - 3 ovos
-- 1/2 xícara de chá de manteiga
+- ½ xícara de chá de manteiga
 - --
 
 ---

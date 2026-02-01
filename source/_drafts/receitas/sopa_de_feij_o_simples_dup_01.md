@@ -32,10 +32,10 @@ flags: []
 - 2 xícaras de chá de feijão (400 gramas)
 - 2 xícaras de macarrão ave maria (160 gramas)
 - 1 xícara de bacon (120 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 2 colheres de sopa de óleo, azeite ou banha
 - Cheiro-verde a gosto
-- Numa frigideira ou panela grande, aqueça o óleo ou banha de porco, até que fique bem derretido. Adicione o bacon e doure até que esteja bem fritinho. Reserve 1/3 da quantidade de bacon para finalização;
+- Numa frigideira ou panela grande, aqueça o óleo ou banha de porco, até que fique bem derretido. Adicione o bacon e doure até que esteja bem fritinho. Reserve ⅓ da quantidade de bacon para finalização;
 - Entre com o alho amassado, sal a gosto e refogue até liberar aroma e começar a dourar;
 - Agora, adicione o macarrão ao caldo e cozinhe até que a massa esteja al dente, cerca de 8 minutos, mexendo de vez em quando. Prove e ajuste o sal, se necessário;
 
@@ -45,7 +45,7 @@ flags: []
 
 1. Com os ingredientes reunidos na bancada, lave e pique o cheiro-verde finamente. Descasque e amasse os dentes de alho;
 2. Coloque o feijão e as folhas de louro em uma panela de pressão. Cubra com água quente, tampe e cozinhe por cerca de 40 minutos, até que os grãos estejam macios. Se necessário, adicione um pouco mais de água após o cozimento, para garantir caldo suficiente para cozinhar o macarrão;
-3. Numa frigideira ou panela grande, aqueça o óleo ou banha de porco, até que fique bem derretido. Adicione o bacon e doure até que esteja bem fritinho. Reserve 1/3 da quantidade de bacon para finalização;
+3. Numa frigideira ou panela grande, aqueça o óleo ou banha de porco, até que fique bem derretido. Adicione o bacon e doure até que esteja bem fritinho. Reserve ⅓ da quantidade de bacon para finalização;
 4. Entre com o alho amassado, sal a gosto e refogue até liberar aroma e começar a dourar;
 5. Acrescente esse refogado ao feijão cozido e misture bem para incorporar os sabores;
 6. Agora, adicione o macarrão ao caldo e cozinhe até que a massa esteja al dente, cerca de 8 minutos, mexendo de vez em quando. Prove e ajuste o sal, se necessário;

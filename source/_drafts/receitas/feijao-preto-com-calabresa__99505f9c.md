@@ -31,7 +31,7 @@ flags: []
 
 - 2 xícaras de chá de feijão preto cru (350 gramas)
 - 1 linguiça calabresa (200 gramas)
-- 1/2 unidade de cebola
+- ½ unidade de cebola
 - 4 dentes de alho
 - 1 folha de louro
 - 1 colher de sopa de óleo ou azeite

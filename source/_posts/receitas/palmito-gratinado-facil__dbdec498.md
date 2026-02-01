@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 vidro de palmito (300 gramas)
-- 1/4 de xícara de chá de leite desnatado
+- ¼ de xícara de chá de leite desnatado
 - 1 colher de sopa de extrato de tomate
 - Sal e pimenta-do-reino a gosto
 - 150 g de cream cheese

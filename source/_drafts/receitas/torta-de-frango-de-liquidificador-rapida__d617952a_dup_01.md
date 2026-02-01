@@ -30,10 +30,10 @@ flags: []
 
 - 200 gramas de frango desfiado
 - 1 lata de dueto de milho e ervilha
-- 1/2 cebola
-- 1/2 tomate
+- ½ cebola
+- ½ tomate
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 100 gramas de queijo mussarela ralado
 - --
 

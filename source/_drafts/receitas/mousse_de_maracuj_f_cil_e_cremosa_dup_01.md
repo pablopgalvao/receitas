@@ -34,7 +34,7 @@ flags: []
 - 1 lata de leite condensado (395 gramas)
 - 1 lata de creme de leite (300 gramas)
 - 200 ml de suco concentrado de maracujá
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 colher de sopa de amido de milho
 - 3 colheres de sopa de suco de maracujá natural (apenas a poupa coada)
 - 3 colheres de sopa de açúcar

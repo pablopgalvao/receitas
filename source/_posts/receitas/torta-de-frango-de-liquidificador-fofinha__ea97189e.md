@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 ovos inteiros
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite integral (240 ml)
 - 1 pitada de sal
-- 1 e 1/2 xícaras de chá de farinha de trigo (210 gramas)
-- 1/2 xícara de chá de amido de milho (75 gramas)
+- 1 e ½ xícaras de chá de farinha de trigo (210 gramas)
+- ½ xícara de chá de amido de milho (75 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 

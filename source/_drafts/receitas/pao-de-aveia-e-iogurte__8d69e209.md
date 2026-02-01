@@ -32,9 +32,9 @@ flags: []
 - 1 xícara de chá de aveia em flocos finos (90 gramas)
 - 1 pote de iogurte natural sem açúcar (170 gramas)
 - 1 ovo
-- 1/4 de xícara de chá de óleo (60 ml)
+- ¼ de xícara de chá de óleo (60 ml)
 - 2 colheres de sopa de açúcar (25 gramas)
-- 1/2 colher de chá de sal (3 gramas)
+- ½ colher de chá de sal (3 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (10 gramas)
 - 2 colheres de sopa de aveia em flocos grossos (15 gramas) para polvilhar
 - --

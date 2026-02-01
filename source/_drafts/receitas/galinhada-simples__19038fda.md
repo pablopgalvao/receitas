@@ -46,8 +46,8 @@ flags: []
 - 50 gramas de manteiga
 - 1 cebola
 - 2 tomates
-- 1/2 pimentão amarelo
-- 1/2 pimentão verde
+- ½ pimentão amarelo
+- ½ pimentão verde
 - 4 xícaras de chá de água para cozinhar o arroz
 - 2 xícaras de chá de arroz
 - Cheiro-verde a gosto

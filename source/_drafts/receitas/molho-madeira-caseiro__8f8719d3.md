@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de bifes de contra-filé
-- 1/2 cebola
+- ½ cebola
 - 1 colher de sopa de sal
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de azeite

@@ -34,7 +34,7 @@ flags: []
 - 1 colher de chá de sal
 - 3 colheres de sopa de azeite
 - 2 colheres de sopa de cachaça
-- 2/3 xícara de chá de leite
+- ⅔ xícara de chá de leite
 - --
 
 ---

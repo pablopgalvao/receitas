@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de abóbora descascada e picada
+- ½ kg de abóbora descascada e picada
 - 1 tablete de caldo de legumes
 - 1 xícara de chá de água
-- 1/2 colher de sopa de manteiga
+- ½ colher de sopa de manteiga
 - 1 colher de sopa de salsa picada
 - --
 

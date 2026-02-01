@@ -32,14 +32,14 @@ flags: []
 - 1 kg de filé de tilápia (ou merluza)
 - 1 colher de chá de sal (ou a gosto)
 - 3 dentes de alho amassados
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 5 batatas médias
-- 1/2 xícara de chá de azeite extravirgem
+- ½ xícara de chá de azeite extravirgem
 - 200 ml de leite de coco
 - 2 tomates médios
 - 1 cebola média
 - 3 colheres de sopa de cheiro-verde (ou a gosto)
-- 1/2 colher de chá de sal de ervas (ou a gosto)
+- ½ colher de chá de sal de ervas (ou a gosto)
 - --
 
 ---

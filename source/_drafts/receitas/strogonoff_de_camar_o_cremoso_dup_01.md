@@ -35,7 +35,7 @@ flags: []
 - 1 colher de sopa de manteiga
 - 3 colheres de sopa de ketchup
 - 3 colheres de sopa de mostarda
-- 1/2 garrafinha de leite de coco (100 ml)
+- ½ garrafinha de leite de coco (100 ml)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Salsinha picada a gosto

@@ -32,7 +32,7 @@ flags: []
 
 - 5 bananas-nanicas bem maduras e picadas em rodelas
 - 1 xícara de chá de açúcar mascavo
-- 1/2 xícara de chá de óleo vegetal
+- ½ xícara de chá de óleo vegetal
 - 1 ovo
 - 1 xícara de chá de farinha de trigo
 - 1 colher de chá de fermento em pó

@@ -38,15 +38,15 @@ flags: []
 - 1 cebola média
 - 3 dentes de alho
 - 1 tomate médio
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
+- ½ pimentão verde
+- ½ pimentão vermelho
 - 1 pimenta cambuci (opcional)
 - 2 colheres de sopa de óleo ou azeite
 - 1 folha de louro
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de colorau
 - 1 colher de chá de lemon pepper
-- 1/2 colher de chá de chimichurri seco
+- ½ colher de chá de chimichurri seco
 - 1 linguiça calabresa (opcional)
 - Sal a gosto
 - Cheiro-verde a gosto

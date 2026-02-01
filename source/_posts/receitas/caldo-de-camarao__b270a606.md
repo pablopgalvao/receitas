@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de camarão seco (200 gramas)
-- 1/2 cebola média
+- ½ cebola média
 - 1 cenoura média (120 gramas)
 - 2 dentes de alho
 - 3 ramos de tomilho

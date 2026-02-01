@@ -31,7 +31,7 @@ flags: []
 
 - 450 gramas de quiabo
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta‑do‑reino (ou a gosto)
+- ½ colher de chá de pimenta‑do‑reino (ou a gosto)
 - 1 colher de sopa de azeite (30 ml)
 - Salsa desidratada com alho (a gosto)
 - Cebola em pó (a gosto)

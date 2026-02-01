@@ -35,8 +35,8 @@ flags: []
 - 4 colheres de sopa de azeite
 - 5 dentes de alho
 - 3 cebolas médias
-- 1/4 de xícara de chá de shoyu
-- 1 e 1/2 xícara de chá de água
+- ¼ de xícara de chá de shoyu
+- 1 e ½ xícara de chá de água
 - 1 colher de sopa de páprica picante
 - 1 colher de chá de chimichurri defumado
 - Cebolinha picada a gosto

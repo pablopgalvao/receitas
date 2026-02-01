@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 cebolas grandes
-- 3/4 de xícara de farinha de trigo (90 gramas)
+- ¾ de xícara de farinha de trigo (90 gramas)
 - 1 colher de chá de páprica doce defumada
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de sopa de azeite
 - 1 colher de sopa rasa de açúcar
 - --

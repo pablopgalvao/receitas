@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 400 gramas de açúcar
-- 2 e 1/2 xícaras de chá de água (600 ml)
+- 2 e ½ xícaras de chá de água (600 ml)
 - 250 gramas de carne/polpa de 1 coco seco ralado e sem açúcar
 - --
 

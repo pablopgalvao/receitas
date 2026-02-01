@@ -39,7 +39,7 @@ flags: []
 - Azeite de oliva a gosto
 - 1 cebola média picada
 - 1 dente de alho picado ou amassado
-- 1/4 de um pimentão picado em pedaços pequenos
+- ¼ de um pimentão picado em pedaços pequenos
 - Suco de 1 limão
 - Sal e pimenta-do-reino a gosto
 - Hortelã a gosto

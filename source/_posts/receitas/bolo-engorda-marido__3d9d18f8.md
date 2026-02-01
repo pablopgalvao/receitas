@@ -32,7 +32,7 @@ flags: []
 - 1 caixinha de leite integral (300 ml)
 - 1 caixinha de leite de coco (300 ml)
 - 200 gramas de farinha de trigo
-- 1/2 medida de açúcar (130 gramas)
+- ½ medida de açúcar (130 gramas)
 - 3 ovos médios inteiros
 - 3 colheres de sopa de manteiga
 - --

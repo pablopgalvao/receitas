@@ -30,9 +30,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de açúcar
-- 1 litro mais 1/2 xícara de chá de água
-- 2 e 1/2 colheres de sopa de chá-mate
+- ½ xícara de chá de açúcar
+- 1 litro mais ½ xícara de chá de água
+- 2 e ½ colheres de sopa de chá-mate
 - 2 limões
 - Gelo a gosto
 - --

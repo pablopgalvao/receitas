@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 270 gramas de biscoito maisena, maria ou ao leite
-- 3/4 xícara de chá de manteiga sem sal (150 gramas)
-- 1/2 colher de chá rasa (bem apertada) de raspas de limão
-- 1 e 1/2 caixinha de leite condensado (600 gramas)
-- 1 e 1/2 caixinha de creme de leite (300 gramas)
-- 1/2 xícara de chá de suco de limão (110 ml)
+- ¾ xícara de chá de manteiga sem sal (150 gramas)
+- ½ colher de chá rasa (bem apertada) de raspas de limão
+- 1 e ½ caixinha de leite condensado (600 gramas)
+- 1 e ½ caixinha de creme de leite (300 gramas)
+- ½ xícara de chá de suco de limão (110 ml)
 - 1 xícara de chá de açúcar refinado (185 gramas)
 - Adicione a manteiga e as raspas de limão. Mexa com as mãos até a mistura ficar homogênea;
 - Enquanto isso, adicione o açúcar e as claras em uma panela. Leve ao fogo baixo, em banho-maria, e mexa sem parar até o barulho do açúcar raspando na panela parar;

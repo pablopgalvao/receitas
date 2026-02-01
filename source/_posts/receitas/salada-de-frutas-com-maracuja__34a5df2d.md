@@ -31,13 +31,13 @@ flags: []
 - 1 caixa ou lata de leite condensado (395 gramas)
 - 2 maracujás grandes
 - 1 caixa de creme de leite (200 gramas)
-- 1/2 limão
+- ½ limão
 - 200 gramas de uva vermelha sem sementes (uva crimson)
 - 1 maçã média
 - 200 gramas de morango
 - 2 mangas palmer grandes
 - 2 bananas prata médias
-- 1 e 1/2 laranja média
+- 1 e ½ laranja média
 - --
 
 ---
@@ -47,6 +47,6 @@ flags: []
 1. Para preparar uma salada de frutas com maracujá especial e saborosa, já deixe os ingredientes separados;
 2. Em um liquidificador, coloque o leite condensado, a polpa dos maracujás, o creme de leite e o suco de limão. Bata até formar uma mistura homogênea;
 3. Lave e seque as uvas, a maçã, os morangos e as laranjas. Pique o morango e a banana em rodelas. Depois, pique as uvas ao meio, corte a maçã, a laranja e a manga em cubinhos;
-4. Junte tudo em uma tigela grande e esprema o suco de 1/2 laranja por cima de todas as frutas;
+4. Junte tudo em uma tigela grande e esprema o suco de ½ laranja por cima de todas as frutas;
 5. Despeje a mistura de leite condensado e maracujá por cima das frutas. Misture bem delicadamente até elas ficarem cobertas pelo creme;
 6. Sirva a salada de frutas com maracujá geladinho e aproveite essa sobremesa deliciosa. Bom apetite!

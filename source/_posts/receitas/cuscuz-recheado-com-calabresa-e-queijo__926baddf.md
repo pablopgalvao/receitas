@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de flocos de milho (70 gramas)
-- 1/2 xícara de chá de água para hidratar o flocão (120 ml)
-- 1/2 calabresa (90 gramas)
-- 1/2 cebola média (80 gramas)
-- 1/2 tomate médio (50 gramas)
+- ½ xícara de chá de água para hidratar o flocão (120 ml)
+- ½ calabresa (90 gramas)
+- ½ cebola média (80 gramas)
+- ½ tomate médio (50 gramas)
 - 100 gramas de queijo coalho
 - 1 colher de sopa de cheiro-verde (ou a gosto)
 - 1 colher de café de pimenta-do-reino (ou a gosto)

@@ -29,11 +29,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 bifes de coxão mole médios (cerca de 500 gramas)
-- 1/2 xícara de chá de farinha de trigo (70 gramas)
+- ½ xícara de chá de farinha de trigo (70 gramas)
 - 1 xícara de chá de farinha de Panko, ou de rosca (60 gramas)
 - 2 ovos médios
 - 3 colheres de sopa de leite, ou água (45 ml)
-- 1/4 de colher de chá de pimenta calabresa seca (opcional)
+- ¼ de colher de chá de pimenta calabresa seca (opcional)
 - 2 xícaras de chá de óleo para fritar (500 ml)
 - --
 

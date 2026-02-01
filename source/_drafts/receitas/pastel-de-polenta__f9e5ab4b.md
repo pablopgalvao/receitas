@@ -34,9 +34,9 @@ flags: []
 - 300 gramas de carne moída
 - 2 colheres de sopa de azeite
 - 1 dente de alho triturado
-- 1/2 cebola
+- ½ cebola
 - 1 tomate
-- 1/2 xícara de cheiro-verde (ou a gosto)
+- ½ xícara de cheiro-verde (ou a gosto)
 - 100 gramas de queijo minas (ou a gosto)
 - Sal a gosto
 - Pimenta-do-reino a gosto

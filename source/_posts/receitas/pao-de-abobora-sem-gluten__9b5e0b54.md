@@ -33,7 +33,7 @@ flags: []
 - 50 gramas de farinha de arroz integral
 - 35 gramas de farinha de linhaça dourada
 - 100 gramas de polvilho doce
-- 1/2 colher de chá de goma xantana
+- ½ colher de chá de goma xantana
 - 1 colher de chá de sal
 - 2 colheres de sopa de açúcar
 - 1 colher de sopa de fermento biológico instantâneo

@@ -33,7 +33,7 @@ flags: []
 - 1 xícara de chá de água (para a calda)
 - 3 ovos (gemas e claras separados)
 - 3 colheres de sopa de manteiga
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 xícara de chá de leite
 - 2 xícaras de chá de farinha de trigo
 - Uma pitada de sal

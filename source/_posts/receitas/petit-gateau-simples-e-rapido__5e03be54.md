@@ -32,8 +32,8 @@ flags: []
 - 4 colheres de sopa de manteiga
 - 2 ovos médios
 - 2 gemas
-- 1/3 de xícara de chá de açúcar
-- 1/4 de xícara de chá de farinha de trigo
+- ⅓ de xícara de chá de açúcar
+- ¼ de xícara de chá de farinha de trigo
 - 1 colher de sopa de farinha de trigo para enfarinhar
 - 1 colher de sopa de chocolate em pó para enfarinhar
 - --

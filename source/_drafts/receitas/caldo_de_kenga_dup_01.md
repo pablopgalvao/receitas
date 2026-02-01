@@ -32,9 +32,9 @@ flags: []
 - 2 xícaras de chá de frango desfiado (200 gramas)
 - 1 kg de mandioca cozida
 - 1 colher de café de açafrão
-- 1/2 cebola (90 gramas)
+- ½ cebola (90 gramas)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 1 tomate (170 gramas)
 - 2 colheres de sopa de azeite (ou a gosto)
 - 1 colher de sopa de salsinha (ou a gosto)

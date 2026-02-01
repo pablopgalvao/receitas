@@ -33,7 +33,7 @@ flags: []
 
 - Azeite a gosto
 - 1 dente de alho amassado
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 filé de frango
 - 3 chuchus cortados em cubinhos
 - 3 abobrinhas pequenas cortados em cubinhos

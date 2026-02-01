@@ -30,8 +30,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 8 espigas de milho (945 gramas)
-- 1 e 1/2 xícara de chá de açúcar (360 gramas)
-- 1/2 colher de chá de sal
+- 1 e ½ xícara de chá de açúcar (360 gramas)
+- ½ colher de chá de sal
 - Canela em pó a gosto para finalizar (opcional)
 - Em uma panela, coloque a mistura do liquidificador, o açúcar e o sal. Misture tudo muito bem em fogo médio, por cerca de 10 minutos, até obter um creme amarelo e consistente;
 

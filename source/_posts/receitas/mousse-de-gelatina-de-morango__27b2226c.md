@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água quente
+- ½ xícara de chá de água quente
 - 1 pacote de gelatina de morango
 - 1 lata de creme de leite sem soro
 - 1 lata de leite condensado

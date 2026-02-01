@@ -32,7 +32,7 @@ flags: []
 - 350 gramas de bolacha de tipo maisena
 - 5 colheres de sopa de manteiga derretida
 - 6 a 8 unidades de banana-nanica
-- 1/2 limão
+- ½ limão
 - 450 gramas de doce de leite
 - 250 ml de mistura pronta para chantilly
 - Canela em pó a gosto

@@ -33,7 +33,7 @@ flags: []
 - 100 gramas de chocolate granulado
 - 100 gramas de coco ralado
 - 4 colheres de sopa de margarina
-- 1 copo americano e 1/2 de açúcar
+- 1 copo americano e ½ de açúcar
 - 4 ovos (gemas + claras em neve)
 - 1 colher de sopa de fermento em pó
 - --

@@ -32,10 +32,10 @@ flags: []
 - 2 colheres de sopa de azeite
 - 1 cebola picada
 - 2 dentes de alho picados
-- 1/3 de pimentão amarelo picado
+- ⅓ de pimentão amarelo picado
 - 1 lata de tomates pelados
 - Molho de pimenta a gosto
-- 1/3 de xícara de chá de ervilhas frescas
+- ⅓ de xícara de chá de ervilhas frescas
 - 200 g de camarões pré-cozidos e sem casca (pode usar o camarão cru também)
 - 2 colheres de chá de sal
 - 1 colher de chá de açafrão-da-terra (cúrcuma)

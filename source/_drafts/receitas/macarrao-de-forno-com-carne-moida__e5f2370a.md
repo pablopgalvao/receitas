@@ -32,7 +32,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 dentes de alho
-- 1/2 cebola
+- ½ cebola
 - 1 cenoura
 - 1 fio de óleo vegetal
 - Sal a gosto

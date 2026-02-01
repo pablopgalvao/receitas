@@ -31,8 +31,8 @@ flags: []
 
 - 500 gramas de batatas picadas
 - 2 colheres de sopa de óleo
-- 1/2 xícara de chá de manteiga
-- 1/2 xícara de chá de parmesão ralado
+- ½ xícara de chá de manteiga
+- ½ xícara de chá de parmesão ralado
 - 1 colher de chá de salsa picada
 - Sal e pimenta a gosto
 - Em uma panela média e alta, coloque água, com 1 colher de chá de sal, para ferver. Assim que pegar fervura, acrescente as batatas e conte 3 minutos, apenas para escaldar, sem amolecer completamente. Escorra a água e seque as batatas;

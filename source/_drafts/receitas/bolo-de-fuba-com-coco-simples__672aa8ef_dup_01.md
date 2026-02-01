@@ -33,8 +33,8 @@ flags: []
 - 1 xícara de chá de margarina ou manteiga
 - 2 xícaras de chá de fubá
 - 1 xícara de chá de farinha de trigo
-- 3/4 de xícara de chá de leite de coco
-- 1/2 xícara de chá de coco ralado
+- ¾ de xícara de chá de leite de coco
+- ½ xícara de chá de coco ralado
 - 1 colher de chá de fermento em pó
 - --
 

@@ -34,7 +34,7 @@ flags: []
 - Suco de 1 limão espremido
 - 1 caixinha de creme de leite
 - 4 colheres de sopa de leite em pó
-- 1 e 1/2 caixinha de leite condensado
+- 1 e ½ caixinha de leite condensado
 - 1 gelatina em pó sem sabor hidratada conforme instruções da embalagem
 - --
 

@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de tulipas de frango
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de sopa de maionese (45 gramas)
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de salsa desidratada

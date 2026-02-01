@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 xícaras de mix de castanhas (150 gramas)
+- 1 e ¼ xícaras de mix de castanhas (150 gramas)
 - 2 colheres de sopa de linhaça
 - 2 colheres de sopa de psyllium
 - 1 colher de sopa de fermento para bolo

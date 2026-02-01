@@ -32,13 +32,13 @@ flags: []
 
 - 250 gramas de broto de feijão (moyashi)
 - 1,5 litros de água fervente para escaldar
-- 1/2 cebola roxa
-- 1/2 cenoura
+- ½ cebola roxa
+- ½ cenoura
 - 3 talos de cebolinha
-- 1/2 colher de café de sal
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de sal
+- ½ colher de café de pimenta-do-reino
 - Azeite a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - --
 
 ---

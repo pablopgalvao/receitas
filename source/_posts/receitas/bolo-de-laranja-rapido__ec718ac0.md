@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 laranjas pêra grandes
-- 2/3 de xícara de chá de óleo (150 ml)
-- 3/4 de xícara de chá de açúcar (160 gramas)
+- ⅔ de xícara de chá de óleo (150 ml)
+- ¾ de xícara de chá de açúcar (160 gramas)
 - 3 ovos médios
-- 1/3 de colher de chá de sal
+- ⅓ de colher de chá de sal
 - 2 xícaras de chá de farinha de trigo (240 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

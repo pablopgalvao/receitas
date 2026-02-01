@@ -32,7 +32,7 @@ flags: []
 - 1 sachê de chá de açaí com guaraná
 - 200 ml de água gelada (filtrada ou mineral)
 - 1 polpa congelada de açaí puro (100 gramas)
-- 1/2 banana madura
+- ½ banana madura
 - 1 colher de sopa de mel (opcional)
 - 1 colher de sopa de guaraná em pó
 - 1 colher de sopa de chia ou linhaça hidratada

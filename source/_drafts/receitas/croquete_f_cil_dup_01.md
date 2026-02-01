@@ -31,8 +31,8 @@ flags: []
 
 - 300 gramas de abobrinha ralada
 - 2 colheres de sopa de cebola picada (30 gramas)
-- 1/4 de xícara de chá de queijo mussarela ralado (50 gramas)
-- 1/4 de xícara de chá de farinha de trigo (50 gramas)
+- ¼ de xícara de chá de queijo mussarela ralado (50 gramas)
+- ¼ de xícara de chá de farinha de trigo (50 gramas)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Salsinha picada a gosto

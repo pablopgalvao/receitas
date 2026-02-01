@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de açúcar de confeiteiro (240 gramas)
-- 1/2 xícara de chá de água morna (120 ml)
+- ½ xícara de chá de água morna (120 ml)
 - --
 
 ---

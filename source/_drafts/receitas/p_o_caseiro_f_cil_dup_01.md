@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de farinha de trigo
 - 1 colher de sopa de sal (10 gramas)
-- 2 e 2/3 de xícaras de chá de água morna (700 ml)
+- 2 e ⅔ de xícaras de chá de água morna (700 ml)
 - Numa tigela coloque a farinha, o fermento, o sal e a água. Misture tudo com as mãos;
 - Feito isso, divida a massa em porções de aproximadamente 100 gramas;
 - Agora está pronto. Experimente ainda quentinho com manteiga, fica uma delícia!

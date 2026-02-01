@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de claras (120 gramas)
+- ½ xícara de chá de claras (120 gramas)
 - 2 xícaras de chá de açúcar refinado (360 gramas)
-- 1/2 xícara de chá de água fria (120 ml)
+- ½ xícara de chá de água fria (120 ml)
 - 2 envelopes de gelatina incolor e sem sabor (24 gramas)
 - 2 caixas de creme de leite (400 gramas)
 - --

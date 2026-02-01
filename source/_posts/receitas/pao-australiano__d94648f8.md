@@ -31,11 +31,11 @@ flags: []
 
 - 1 colher de sopa de fermento biológico seco
 - 1 xícara de chá de água morna
-- 1/4 de xícara de chá de açúcar mascavo
-- 1/4 de xícara de chá de melado de cana (ou mel)
+- ¼ de xícara de chá de açúcar mascavo
+- ¼ de xícara de chá de melado de cana (ou mel)
 - 1 colher de sopa de chocolate em pó 50% (ou cacau em pó)
-- 2 e 1/2 colheres de sopa de manteiga
-- 1 e 1/2 xícaras de chá de farinha de trigo
+- 2 e ½ colheres de sopa de manteiga
+- 1 e ½ xícaras de chá de farinha de trigo
 - 1 xícara de chá de farinha integral
 - 1 xícara de chá de farinha de centeio
 - 1 colher de chá de sal

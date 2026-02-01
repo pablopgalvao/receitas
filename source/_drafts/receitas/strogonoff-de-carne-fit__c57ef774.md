@@ -35,7 +35,7 @@ flags: []
 - 1 cebola pequena (80 gramas)
 - 4 dentes de alho
 - 2 xícaras de chá de cogumelos (200 gramas)
-- 1/2 xícara de chá de vinho tinto (120 ml)
+- ½ xícara de chá de vinho tinto (120 ml)
 - 4 colheres de sopa de tomate pelado
 - 1 xícara de chá de água (240 ml)
 - 2 potes de iogurte desnatado em temperatura ambiente (160 gramas cada)

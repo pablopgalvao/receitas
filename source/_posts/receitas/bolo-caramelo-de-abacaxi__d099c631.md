@@ -30,13 +30,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 1 xícara de chá de açúcar refinado para a massa
-- 1/2 xícara de chá de açúcar refinado para o caramelo
+- ½ xícara de chá de açúcar refinado para o caramelo
 - 1 xícara de chá de leite
 - 2 xícaras de chá de farinha de trigo
 - 1 colher de sopa de fermento
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - Rodelas de abacaxi
 - --
 
@@ -45,7 +45,7 @@ flags: []
 ## 👨‍🍳 Modo de Preparo
 
 1. Reúna todos os ingredientes;
-2. Em uma forma de furo no meio, coloque 1/2 xícara de açúcar com 1/2 xícara de água e deixe ferver até virar um caramelo mole. Fique de olho porque quando a água evapora o açúcar queima muito rápido;
+2. Em uma forma de furo no meio, coloque ½ xícara de açúcar com ½ xícara de água e deixe ferver até virar um caramelo mole. Fique de olho porque quando a água evapora o açúcar queima muito rápido;
 3. Feito o caramelo, espalhe fatias de abacaxi no fundo e em volta. Reserve;
 4. Bata muito bem os ovos no liquidificador, na sequência adicione o óleo, o açúcar e o leite, bata até homogeneizar bem e desligue;
 5. Coloque a farinha peneirada e bata um pouquinho de leve só para ajudar a misturar, termine de homogeneizar a massa com ajuda de uma colher e finalize com o fermento;

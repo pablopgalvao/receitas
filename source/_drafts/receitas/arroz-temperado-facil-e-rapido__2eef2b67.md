@@ -37,13 +37,13 @@ flags: []
 - 150 gramas de linguiça calabresa
 - 1 cebola pequena
 - 3 dentes de alho
-- 1/2 pimentão amarelo pequeno
+- ½ pimentão amarelo pequeno
 - 1 cenoura pequena
-- 1/2 lata de milho-verde
-- 1/2 lata de ervilha
-- 1/2 colher de chá de açafrão-da-terra (cúrcuma)
-- 1/2 colher de chá de pimenta-do-reino
-- 1/2 colher de sopa de sal
+- ½ lata de milho-verde
+- ½ lata de ervilha
+- ½ colher de chá de açafrão-da-terra (cúrcuma)
+- ½ colher de chá de pimenta-do-reino
+- ½ colher de sopa de sal
 - 200 gramas de requeijão
 - 200 gramas de mussarela
 - 5 azeitonas verdes

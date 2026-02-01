@@ -31,7 +31,7 @@ flags: []
 - 1 caixa de leite condensado (395 gramas)
 - 1 colher de sopa (rasa) de amido de milho (cerca de 10 gramas)
 - 1 lata de creme de leite (300 gramas)
-- 1/2 xícara de chá de leite integral (120 ml)
+- ½ xícara de chá de leite integral (120 ml)
 - 90 gramas de chocolate branco
 - 1 colher de sopa de suco de morango em pó
 - 200 ml de chantilly gelado para bater

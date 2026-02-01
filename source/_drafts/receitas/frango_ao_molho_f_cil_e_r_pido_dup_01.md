@@ -36,7 +36,7 @@ flags: []
 - Pimenta-do-reino a gosto
 - 2 colheres de sopa de salsinha picada
 - 2 colheres de sopa de cebolinha picada
-- 1/2 xícara de chá de água (120 ml)
+- ½ xícara de chá de água (120 ml)
 - Aqueça bem a panela de pressão em fogo médio e adicione o óleo. Coloque os pedaços de frango com a parte sem pele voltada para baixo e sele por 2 minutos de cada lado, até dourar levemente;
 - Acrescente a cebola e os tomates picados, misture tudo delicadamente. Tempere com o colorau, sal, pimenta-do-reino, salsinha e cebolinha;
 - Transfira para uma travessa e sirva com arroz branco e salada. Aproveite!

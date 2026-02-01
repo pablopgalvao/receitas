@@ -32,7 +32,7 @@ flags: []
 - 1 kg de morangos
 - 2 maçãs
 - 400 gramas de açúcar
-- Suco de 1/2 limão
+- Suco de ½ limão
 - --
 
 ---

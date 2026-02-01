@@ -41,9 +41,9 @@ flags: []
 - 2 colheres de sopa de chia hidratada com 4 colheres de sopa de água
 - 1 colher de sopa de azeite de oliva
 - 1 colher de sopa de linhaça
-- 1/2 xícara de farinha de trigo integral
+- ½ xícara de farinha de trigo integral
 - 1 xícara de farelo de aveia
-- 1/2 xícara de farinha de arroz
+- ½ xícara de farinha de arroz
 - 1 colher de sopa de semente de girassol
 - 1 colher de sopa de semente de abóbora
 - --

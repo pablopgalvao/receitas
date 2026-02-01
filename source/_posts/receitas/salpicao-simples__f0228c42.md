@@ -32,14 +32,14 @@ flags: []
 - 1 colher de sopa de manteiga
 - 1 fio de azeite
 - 4 dentes de alho
-- 1/2 colher de chá de páprica defumada
+- ½ colher de chá de páprica defumada
 - 200 gramas de maionese
 - 1 pote de requeijão cremoso (200 gramas)
 - 1 pitada de sal
-- 1/3 colher de chá de pimenta-do-reino
+- ⅓ colher de chá de pimenta-do-reino
 - 1 cenoura média
-- 1/2 xícara de chá de azeitonas
-- 1/3 de xícara de chá uva-passas
+- ½ xícara de chá de azeitonas
+- ⅓ de xícara de chá uva-passas
 - 200 gramas de presunto em fatias
 - 1 lata de dueto milho e ervilha
 - 100 gramas de batata palha

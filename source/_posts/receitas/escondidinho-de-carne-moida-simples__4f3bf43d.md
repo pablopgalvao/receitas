@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 batatas cozidas (1 kg)
-- 1/2 xícara de chá de leite integral (120 ml)
+- ½ xícara de chá de leite integral (120 ml)
 - 2 colheres de sopa de manteiga ou margarina
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

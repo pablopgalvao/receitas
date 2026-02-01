@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de mel (170 gramas)
-- 1/2 xícara de chá de açúcar mascavo (90 gramas)
+- ½ xícara de chá de mel (170 gramas)
+- ½ xícara de chá de açúcar mascavo (90 gramas)
 - 2 xícaras de chá de farinha de trigo (240 gramas)
 - 1 colher de chá de canela em pó
 - 1 colher de café de cravo moído
@@ -37,7 +37,7 @@ flags: []
 - 1 ovo
 - 1 colher de café de bicarbonato de sódio
 - 1 colher de sopa de chocolate em pó
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 300 gramas de cobertura fracionada ao leite
 - --
 

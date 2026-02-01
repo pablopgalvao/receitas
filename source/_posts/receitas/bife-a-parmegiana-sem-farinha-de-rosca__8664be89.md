@@ -34,8 +34,8 @@ flags: []
 - 02 colheres de sopa de azeite de oliva
 - 1 xícara de chá de molho de tomate (300 gramas)
 - 150 gramas de mussarela em fatias
-- 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 01 colher de chá de chimichurri (ou a gosto)
 - 1 colher de chá de orégano (ou a gosto)
 - --

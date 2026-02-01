@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de leite em pó
-- 1/2 xícara de chá de água morna
+- ½ xícara de chá de água morna
 - 2 potes de iogurte natural (170 gramas cada)
 - 4 colheres de sopa de xilitol
 - Suco de 2 maracujás

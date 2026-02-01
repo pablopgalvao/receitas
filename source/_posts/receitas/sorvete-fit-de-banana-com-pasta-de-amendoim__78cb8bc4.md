@@ -30,7 +30,7 @@ flags: []
 
 - 2 bananas maduras e congeladas
 - 2 colheres de sopa de pasta amendoim
-- 1/2 vidro de leite de coco (100 ml)
+- ½ vidro de leite de coco (100 ml)
 - 1 scoop de Whey (opcional)
 - --
 

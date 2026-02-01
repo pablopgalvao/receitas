@@ -33,7 +33,7 @@ flags: []
 - 600 gramas de carne moída
 - 1 tomate grande picado e sem sementes
 - 1 cebola picada
-- Suco de 1 e 1/2 limão-taiti
+- Suco de 1 e ½ limão-taiti
 - Sal a gosto
 - --
 

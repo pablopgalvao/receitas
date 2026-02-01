@@ -39,7 +39,7 @@ flags: []
 - 2 xícaras de vinho branco seco
 - Sal a gosto
 - 1 xícara de chá de óleo
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - --
 
 ---
@@ -53,6 +53,6 @@ flags: []
 5. Volte a marinada para a panela e tampe para pegar pressão. Assim que pegar pressão, coloque no fogo médio e deixe cozinhar de 30 a 40 minutos contados após pegar pressão;
 6. Depois, desligue o fogo, deixe a pressão sair sozinha, abra a panela e verifique se a carne está completamente cozida. Caso não esteja, volte a carne por mais 10 minutos na pressão. Mas, se estiver tudo certo, retire a carne da panela, deixe descansar por 10 minutos e corte em fatias. Reserve;
 7. Para o molho que sobrou na panela, retire o excesso de gordura, o cheiro-verde e a folha de louro;
-8. Acrescente 1/2 xícara de chá de água no molho e leve ao fogo para ferver, até desgrudar todos os temperos do fundo da panela, mexendo o preparo com uma colher para liberar todos os sabores;
+8. Acrescente ½ xícara de chá de água no molho e leve ao fogo para ferver, até desgrudar todos os temperos do fundo da panela, mexendo o preparo com uma colher para liberar todos os sabores;
 9. Depois que o molho estiver mais encorpado, desligue o fogo, coe o molho com uma peneira e coloque sobre o lombo, ou então em uma molheira, para servir junto com a carne;
 10. Sirva com batatas douradas, arroz ou farofa. Bom apetite!

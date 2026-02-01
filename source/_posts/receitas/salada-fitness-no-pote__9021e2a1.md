@@ -32,8 +32,8 @@ flags: []
 - 2 colheres de chá de vinagre de maçã
 - 2 colheres de sopa de mel
 - 4 colheres de sopa de azeite
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

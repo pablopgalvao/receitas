@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 filé de peixe branco de sua preferência
-- 1/4 de cebola roxa
-- 1/2 pimenta dedo-de-moça
+- ¼ de cebola roxa
+- ½ pimenta dedo-de-moça
 - 1 colher de sopa de talo de coentro
 - 1 colher de chá de salsinha
 - Suco de 1 limão
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - --
 
 ---

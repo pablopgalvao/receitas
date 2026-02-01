@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 berinjelas grandes fatiadas finamente
-- 1/2 cebola média picada
+- ½ cebola média picada
 - 2 a 3 dentes de alho picados ou amassados
 - 1 lata de molho de tomate
 - Azeitonas sem caroço cortadas a gosto

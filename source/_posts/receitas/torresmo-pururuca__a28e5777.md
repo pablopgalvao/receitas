@@ -31,7 +31,7 @@ flags: []
 - 2 kg de toucinho (barriga ou panceta)
 - 1 xícara de chá de banha
 - 1 colher de chá de sal
-- 1/8 de colher de chá de pimenta-do-reino
+- ⅛ de colher de chá de pimenta-do-reino
 - --
 
 ---

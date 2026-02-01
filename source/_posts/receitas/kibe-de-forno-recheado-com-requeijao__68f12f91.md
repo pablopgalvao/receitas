@@ -41,7 +41,7 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 3 colheres de sopa de azeite de oliva
 - Folhas de hortelã picadas a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 250 gramas de requeijão
 - --
 

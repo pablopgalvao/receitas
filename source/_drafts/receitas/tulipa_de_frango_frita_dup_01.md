@@ -30,17 +30,17 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de tulipa de frango
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 1 colher de chá de orégano
 - 1 colher de lemon pepper
 - 1 colher de chá de páprica
 - 1 colher de chá de chimichurri
 - 2 colheres de sopa de mostarda
 - 1 xícara de chá de farinha de trigo (120 gramas)
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 1 colher de café de páprica defumada
 - 1 colher de sobremesa de fermento em pó químico
-- 3/4 de xícara de chá de água bem gelada (180 ml)
+- ¾ de xícara de chá de água bem gelada (180 ml)
 - 2 xícaras de chá de farinha de trigo para empanar (240 gramas)
 - 90 ml de óleo para fritar
 - Em uma tigela média, adicione as tulipas de frango, o sal, o lemon pepper, o orégano, a páprica, o chimichurri e a mostarda. Misture bem com as mãos até envolver completamente as tulipas nos temperos;

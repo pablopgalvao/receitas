@@ -32,9 +32,9 @@ flags: []
 - 3 batatas (aproximadamente 600 gramas)
 - 1 linguiça portuguesa (aproximadamente 200 gramas)
 - 1 dente de alho
-- 1/2 cebola
+- ½ cebola
 - 1,25 litro de caldo de carne caseiro
-- 1/2 maço de couve
+- ½ maço de couve
 - Sal e pimenta-do-reino a gosto
 - 3 colheres de sopa de azeite ou, se preferir, a gosto
 - --
@@ -47,9 +47,9 @@ flags: []
 2. Retire a pele da linguiça e corte-a em rodelas com uma faca;
 3. Depois, descasque a cebola e corte-a em meia-luas de aproximadamente 1 cm;
 4. Em seguida, lave as batatas em água corrente e corte-as em 8 pedaços;
-5. Coloque uma panela média em fogo médio e aqueça 1/2 colher de sopa de azeite;
+5. Coloque uma panela média em fogo médio e aqueça ½ colher de sopa de azeite;
 6. Refogue a linguiça fatiada por cerca de 5 minutos. Mexa a cada 15 segundos até ela ficar douradinha. Reserve em um refratário;
-7. Diminua o fogo e adicione mais 1/2 colher de sopa de azeite. Incremente a cebola, uma pitada de sal e refogue por aproximadamente 2 minutos ou até dourar;
+7. Diminua o fogo e adicione mais ½ colher de sopa de azeite. Incremente a cebola, uma pitada de sal e refogue por aproximadamente 2 minutos ou até dourar;
 8. Logo em seguida, aumente o fogo e coloque as batatas com o caldo de carne e o dente de alho. Com uma espátula de silicone, raspe o fundo da panela para incorporar todo o sabor - esse é o processo de deglacear;
 9. Quando começar a ferver, abaixe o fogo, coloque sal e pimenta-do-reino. Cozinhe por aproximadamente 25 minutos até as batatas ficarem macias ao serem espetadas por um garfo;
 10. Nesse tempo, higienize as folhas de couve em água corrente e escorra a água;

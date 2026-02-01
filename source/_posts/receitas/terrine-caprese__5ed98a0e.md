@@ -33,7 +33,7 @@ flags: []
 - 1 dente de alho
 - 1 colher de sopa de parmesão
 - Sal a gosto
-- 1/4 de xícara de chá de azeite (60 ml)
+- ¼ de xícara de chá de azeite (60 ml)
 - --
 
 ---

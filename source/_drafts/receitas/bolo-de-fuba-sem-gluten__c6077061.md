@@ -30,11 +30,11 @@ flags: []
 
 - 3 xícaras de chá de leite
 - 2 xícaras de chá de açúcar
-- 1 e 1/2 xícara de chá de fubá
+- 1 e ½ xícara de chá de fubá
 - 3 ovos
 - 3 colheres de sopa de manteiga
 - 3 colheres de sopa de farinha de arroz
-- 1/2 colher de chá de fécula de batata (ou de mandioca)
+- ½ colher de chá de fécula de batata (ou de mandioca)
 - 1 xícara de chá de queijo parmesão ralado
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

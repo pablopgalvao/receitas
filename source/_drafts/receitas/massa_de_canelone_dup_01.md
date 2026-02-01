@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de farinha de trigo (200 gramas)
+- 1 e ½ xícara de farinha de trigo (200 gramas)
 - Sal a gosto
 - 300 gramas de passata de tomate
 - 2 colheres de sopa de azeite

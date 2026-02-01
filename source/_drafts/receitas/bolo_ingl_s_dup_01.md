@@ -29,10 +29,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de farinha de trigo (255 gramas)
+- 1 e ½ xícara de chá de farinha de trigo (255 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
 - 50 ml de leite
-- 2/3 de xícara de chá de manteiga sem sal e derretida (150 gramas)
+- ⅔ de xícara de chá de manteiga sem sal e derretida (150 gramas)
 - 1 colher de sopa de essência de baunilha (15 ml)
 - 1 colher de chá de fermento em pó
 - 1 colher de café de sal

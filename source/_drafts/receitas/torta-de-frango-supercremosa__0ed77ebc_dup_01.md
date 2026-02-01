@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de leite
-- 2/3 de xícara de chá de óleo
+- ⅔ de xícara de chá de óleo
 - 3 ovos grandes
-- 1/4 de cebola média
+- ¼ de cebola média
 - 1 caixinha de creme de leite
 - 150 gramas de queijo parmesão ralado
 - 2 xícaras de chá de farinha de trigo

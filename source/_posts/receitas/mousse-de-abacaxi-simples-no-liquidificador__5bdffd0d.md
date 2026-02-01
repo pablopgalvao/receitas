@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de leite em pó (90 gramas)
-- 1 e 1/4 xícara de água gelada (300 ml)
+- 1 e ¼ xícara de água gelada (300 ml)
 - 1 pacotinho de suco em pó sabor abacaxi (20 gramas)
 - --
 

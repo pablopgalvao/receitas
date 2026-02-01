@@ -36,9 +36,9 @@ flags: []
 - 2 linguiças calabresa
 - 1 cebola pequena
 - 4 dentes de alho
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de páprica defumada (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
+- ½ colher de chá de páprica defumada (ou a gosto)
 - 4 folhas de couve
 - 3 colheres de sopa de cheiro-verde (ou a gosto)
 - --

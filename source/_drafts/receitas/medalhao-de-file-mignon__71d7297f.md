@@ -32,11 +32,11 @@ flags: []
 - 5 fatias de bacon em tiras (ou o suficiente para todos os medalhões)
 - 3 colheres de sopa de manteiga (45 gramas)
 - 10 folhas pequenas de sálvia
-- 3/4 de xícara de chá de vinho branco seco (200 ml)
+- ¾ de xícara de chá de vinho branco seco (200 ml)
 - 1 colher de sobremesa de amido de milho
-- 1/3 de xícara de chá de água (100 ml)
+- ⅓ de xícara de chá de água (100 ml)
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - --
 
 ---

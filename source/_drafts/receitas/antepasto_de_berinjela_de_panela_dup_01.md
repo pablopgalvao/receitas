@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 xícara de chá de azeitonas picadas
-- 1/2 xícara de chá de uvas-passas brancas
+- ⅓ xícara de chá de azeitonas picadas
+- ½ xícara de chá de uvas-passas brancas
 - 1 colher de sopa de orégano
 - 1 colher de chá de sal
 - Pimenta-do-reino a gosto
 - 3 colheres de sopa de vinagre branco
-- 1/2 xícara de chá de azeite de oliva
+- ½ xícara de chá de azeite de oliva
 - Adicione as azeitonas, as uvas-passas, o orégano, o sal, o manjericão, o tomilho e a pimenta-do-reino. Em seguida, coloque o vinagre e o azeite de oliva. Misture e deixe cozinhar até atingir o ponto que mais te agrada;
 
 ---

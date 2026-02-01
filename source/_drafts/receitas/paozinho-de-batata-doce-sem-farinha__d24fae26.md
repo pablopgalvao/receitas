@@ -33,7 +33,7 @@ flags: []
 - 1 xícara de chá de batata-doce cozida e amassada
 - 5 colheres de sopa de leite em pó
 - 1 colher de sopa de farinha de aveia (10 gramas)
-- 1/2 colher de chá de açúcar demerara
+- ½ colher de chá de açúcar demerara
 - 1 pitadinha de sal
 - 1 colher de sopa de fermento para bolo
 - --

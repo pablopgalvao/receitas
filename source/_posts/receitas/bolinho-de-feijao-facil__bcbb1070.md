@@ -36,7 +36,7 @@ flags: []
 - Feijão dormido (cerca de metade de uma panela)
 - 1 e ½ colher de chá de cominho
 - Sal a gosto
-- 1/2 xícara de chá azeite
+- ½ xícara de chá azeite
 - 1 colher de chá de mostarda dijon
 - 1 colher de chá de páprica defumada
 - 1 colher de chá de pimenta calabresa

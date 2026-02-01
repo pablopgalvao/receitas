@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de bife de coxão mole
-- 1 e 1/2 sachê de molho de tomate pronto (300 ml)
-- 1/2 cebola média
+- 1 e ½ sachê de molho de tomate pronto (300 ml)
+- ½ cebola média
 - 2 a 4 ovos médios
 - 3 dentes de alho
 - 1 pitada de sal
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 180 gramas de farinha de rosca para empanar
 - 100 gramas de queijo mussarela
 - --

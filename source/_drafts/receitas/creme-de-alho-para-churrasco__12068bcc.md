@@ -31,11 +31,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 dentes de alho
-- 1/2 copo de leite bem gelado (100 ml)
+- ½ copo de leite bem gelado (100 ml)
 - 1 ovo
-- 1/2 limão
+- ½ limão
 - Óleo de soja (300 ml)
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - Pimenta-do-reino a gosto
 - --
 

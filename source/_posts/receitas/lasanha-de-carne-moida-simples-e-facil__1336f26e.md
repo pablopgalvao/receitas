@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de carne moída (patinho)
-- 1/2 colher de chá de cominho
+- ½ colher de chá de cominho
 - 2 colheres de chá de colorau
 - 2 colheres de chá de sal (ou a gosto)
 - 1 lata de tomate pelado (240 gramas)

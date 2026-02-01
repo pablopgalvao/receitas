@@ -36,7 +36,7 @@ flags: []
 - 1 xícara de chá de couve-flor
 - 2 xícaras de chá de brócolis frescos picados
 - 2 colheres de sopa de azeite
-- 1 e 1/2 dente de alho picado
+- 1 e ½ dente de alho picado
 - 2 colheres de sopa de mel
 - 3 colheres de sopa de shoyu
 - Sal a gosto

@@ -31,11 +31,11 @@ flags: []
 
 - 4 ovos
 - 300 gramas de cenoura picada com casca
-- 1/2 xícara de chá de óleo de coco
+- ½ xícara de chá de óleo de coco
 - 2 xícaras de chá de farinha de amêndoas ou de amendoim
 - Canela em pó a gosto (opcional)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
-- 1/2 xícara de chá de adoçante culinário
+- ½ xícara de chá de adoçante culinário
 - --
 
 ---

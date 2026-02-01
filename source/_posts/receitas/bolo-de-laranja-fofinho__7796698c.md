@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de suco de laranja
-- 1/4 de xícara de chá de açúcar
+- ½ xícara de chá de suco de laranja
+- ¼ de xícara de chá de açúcar
 - --
 
 ---

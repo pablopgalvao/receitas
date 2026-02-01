@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 gramas de sambiquira (ponta do rabo)
-- Suco de 1/2 limão (10 ml)
+- Suco de ½ limão (10 ml)
 - 1 colher de chá de sal
 - 1 colher de chá de páprica doce
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de azeite
-- 1/2 xícara de chá de farinha de trigo para empanar (60 gramas)
+- ½ xícara de chá de farinha de trigo para empanar (60 gramas)
 - 2 xícaras de chá de óleo para fritar (480 ml)
 - Depois, coloque as sambiquiras em uma tigela e tempere com alho, suco do limão, sal, páprica, pimenta-do-reino e azeite. Misture muito bem para que os temperos peguem em todos os pedaços. Tampe com plástico filme e deixe marinar na geladeira por cerca de 1 hora;
 - Passado o tempo, retire da geladeira e, aos poucos, adicione um pouco de farinha na tigela com as sambiquiras, apenas para empanar e você conseguir aproveitar bem os temperos. Se possível, mexa com as mãos;

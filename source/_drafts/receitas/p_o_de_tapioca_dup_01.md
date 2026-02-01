@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 colheres de sopa de óleo
-- 1/2 xícara de chá de leite integral (120 ml)
+- ½ xícara de chá de leite integral (120 ml)
 - 1 colher de chá de sal (ou a gosto)
 - 1 xícara de chá de massa pronta para tapioca (150 gramas)
 - 1 xícara de chá de amido de milho (130 gramas)

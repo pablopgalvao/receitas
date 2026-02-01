@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de óleo
-- 1/2 pacote de macarrão parafuso ou penne (250 gramas)
+- ½ pacote de macarrão parafuso ou penne (250 gramas)
 - Sal a gosto
 - Salsinha a gosto
 - Reúna os ingredientes! Descasque a cebola e o alho e triture ambos em um processador de alimentos. Pique a salsinha finamente. Por último, despedace o atum com um garfo;

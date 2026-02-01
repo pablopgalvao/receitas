@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de amendoim torrado e sem pele (150 gramas)
 - 1 xícara de chá de camarão seco (100 gramas)
-- 1/2 xícara de chá de castanha-de-caju (70 gramas)
+- ½ xícara de chá de castanha-de-caju (70 gramas)
 - 2 xícaras de chá de leite de coco (480ml)
 - 1 colher de sobremesa de sal
 - 4 colheres de sopa de azeite de dendê

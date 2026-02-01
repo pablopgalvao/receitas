@@ -30,16 +30,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 xícaras de chá de farinha de trigo (420 gramas)
-- 1 e 1/2 colher de chá de fermento biológico seco instantâneo (cerca de 5 gramas)
+- 1 e ½ colher de chá de fermento biológico seco instantâneo (cerca de 5 gramas)
 - 1 colher de chá de sal
-- 1 e 1/4 de xícara de chá de água filtrada (300 ml)
+- 1 e ¼ de xícara de chá de água filtrada (300 ml)
 - 2 colheres de sopa de azeite
-- 4 e 1/2 xícaras de chá de mussarela ralada grosseiramente (300 gramas)
+- 4 e ½ xícaras de chá de mussarela ralada grosseiramente (300 gramas)
 - 1 colher de sopa de orégano
 - 1 colher de sopa de azeite
 - Sal e pimenta-do-reino a gosto
-- 1/4 de xícara de chá de molho ou passata de tomate (para pincelar a massa)
-- 1/4 de xícara de chá de queijo parmesão ralado finamente (polvilhar na massa)
+- ¼ de xícara de chá de molho ou passata de tomate (para pincelar a massa)
+- ¼ de xícara de chá de queijo parmesão ralado finamente (polvilhar na massa)
 - Farinha de trigo o suficiente para polvilhar a bancada
 - Em uma tigela grande (que tenha espaço para a massa dobrar de tamanho), misture a farinha e o sal. Reserve;
 - Com a batedeira ligada em velocidade baixa, incorpore a mistura de farinha com sal gradualmente. Bata até ficar homogêneo. Despeje o azeite e continue batendo em velocidade média por 6 minutos, ou até que a massa ficar lisa e elástica;
@@ -47,7 +47,7 @@ flags: []
 - Após 1 hora, verifique se a massa dobrou de tamanho (em dias frios, talvez você precisará deixar crescer por mais meia hora). Prepare a bancada, polvilhando farinha de trigo e coloque a massa em cima. Modele-a no formato de um rolo;
 - Coloque 4 porções da massa em uma assadeira (polvilhada com farinha de trigo) e cubra com um pano de prato limpo. Reserve na geladeira para evitar que a massa fermente em excesso;
 - Com o auxílio do rolo de macarrão, abra uma porção da massa em formato de disco (aproximadamente 20 cm), com cerca de 0,5 cm de espessura. Polvilhe a bancada com farinha sempre que precisar para a massa não grudar;
-- Em uma metade do disco, coloque 2/3 xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
+- Em uma metade do disco, coloque ⅔ xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
 - Repita os processos de abrir, rechear e fechar com o restante da massa, sempre lembrando de polvilhar a bancada com farinha de trigo. Transfira os calzones moldados para uma assadeira. Deixe um espaço entre um e o outro;
 
 ---
@@ -68,7 +68,7 @@ flags: []
 12. Com uma faca, separe a massa em 8 porções. Faça bolinhas;
 13. Coloque 4 porções da massa em uma assadeira (polvilhada com farinha de trigo) e cubra com um pano de prato limpo. Reserve na geladeira para evitar que a massa fermente em excesso;
 14. Com o auxílio do rolo de macarrão, abra uma porção da massa em formato de disco (aproximadamente 20 cm), com cerca de 0,5 cm de espessura. Polvilhe a bancada com farinha sempre que precisar para a massa não grudar;
-15. Em uma metade do disco, coloque 2/3 xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
+15. Em uma metade do disco, coloque ⅔ xícara de chá de recheio (cerca de 2 colheres de sopa de mussarela ralada e 8 pedaços do tomate fatiado). Com as pontas dos dedos, molhe as bordas da massa suavemente (ajuda na hora de fechar os calzones);
 16. Dobre a massa, pressionando levemente para tirar o ar de dentro. Feche as bordas com os dedos;
 17. Com as pontas dos dedos, começando por uma das pontas, dobre a borda, em movimento de fora para dentro (dê uma leve puxadinha em um pequeno pedaço da borda e dobre para dentro, pressionando bem). Repita o processo. Essa é a bordinha clássica do calzone;
 18. Repita os processos de abrir, rechear e fechar com o restante da massa, sempre lembrando de polvilhar a bancada com farinha de trigo. Transfira os calzones moldados para uma assadeira. Deixe um espaço entre um e o outro;

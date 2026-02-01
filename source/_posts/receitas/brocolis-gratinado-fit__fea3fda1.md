@@ -33,13 +33,13 @@ flags: []
 - 1 maço de brócolis lavado
 - 1 colher de sopa de azeite
 - 3 ovos
-- 1/2 xícara de chá de queijo ralado
+- ½ xícara de chá de queijo ralado
 - 1 cebola picada
 - 1 tomate picado
-- 1/2 pimentão picado em pedaços médios
+- ½ pimentão picado em pedaços médios
 - Salsa a gosto
 - Sal de ervas a gosto
-- 1/2 pote de creme de ricota (100 gramas)
+- ½ pote de creme de ricota (100 gramas)
 - --
 
 ---

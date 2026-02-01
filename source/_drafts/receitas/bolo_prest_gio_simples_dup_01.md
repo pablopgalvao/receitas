@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de manteiga (100 gramas)
-- 1/2 xícara de chá de açúcar (90 gramas)
-- 1/4 xícara de chá de leite (60 ml)
-- 1/2 xícara de chá de chocolate em pó (45 gramas)
-- 3/4 xícara de chá de farinha de trigo (110 gramas)
-- 1/2 colher de chá de fermento em pó
-- 1/2 colher de chá de bicarbonato de sódio
+- ½ xícara de chá de manteiga (100 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
+- ¼ xícara de chá de leite (60 ml)
+- ½ xícara de chá de chocolate em pó (45 gramas)
+- ¾ xícara de chá de farinha de trigo (110 gramas)
+- ½ colher de chá de fermento em pó
+- ½ colher de chá de bicarbonato de sódio
 - 200 ml de leite de coco
 - 3 colheres de sopa de farinha de trigo (32 gramas)
 - 150 gramas de chocolate meio amargo (ou ao leite)

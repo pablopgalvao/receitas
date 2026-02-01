@@ -33,8 +33,8 @@ flags: []
 - 60 gramas de queijo parmesão
 - 150 ml de azeite de oliva extravirgem
 - 2 dentes de alho descascados
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 250 gramas de macarrão tipo espaguete (ou linguine)
 - 2,5 litros de água
 - --

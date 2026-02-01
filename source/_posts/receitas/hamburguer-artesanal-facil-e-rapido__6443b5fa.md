@@ -38,7 +38,7 @@ flags: []
 - 1 fio de óleo para fritar o hambúrguer
 - 2 fatias de queijo cheddar inglês
 - 2 fatias de bacon
-- 1/2 cebola
+- ½ cebola
 - Maionese a gosto
 - --
 

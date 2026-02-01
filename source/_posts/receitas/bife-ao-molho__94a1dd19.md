@@ -32,7 +32,7 @@ flags: []
 
 - 500 gramas de contrafilé ou alcatra (cerca de 6 bifes médios)
 - 2 colheres de chá de páprica (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de chá de sal (ou a gosto)
 - 3 dentes de alho
 - 1 cebola média (200 gramas)

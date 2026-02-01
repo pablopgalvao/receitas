@@ -34,7 +34,7 @@ flags: []
 - 200 gramas de linguiça calabresa
 - 3 xícaras de chá de arroz branco (600 gramas)
 - 6 xícaras de chá de água quente (1,4 litros)
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 25 gramas de pimenta-biquinho amarela
 - 4 colheres de sopa de coentro ou cheiro-verde picado
 - Junte todos os ingredientes necessários para o preparo. Certifique-se que a carne seca já esteja dessalgada e desfiada para começar a receita;

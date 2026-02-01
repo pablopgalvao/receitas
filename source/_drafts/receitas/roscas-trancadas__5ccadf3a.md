@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 ovo
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de sopa de manteiga
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de açúcar
 - 1 xícara de chá de leite morno (240 ml)
 - 3 a 4 xícaras de chá de farinha de trigo (490 gramas)
 - 1 sachê de fermento biológico seco

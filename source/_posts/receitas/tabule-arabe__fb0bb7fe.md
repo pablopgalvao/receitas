@@ -29,13 +29,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de trigo fino para quibe (100 gramas)
+- ½ xícara de chá de trigo fino para quibe (100 gramas)
 - 2 tomates médios e maduros
-- 1/2 cebola média
-- 1 e 1/2 xícara de chá de folhas de salsinha (1 maço)
-- 3/4 de xícara de chá de folhas de hortelã fresca (1 maço)
+- ½ cebola média
+- 1 e ½ xícara de chá de folhas de salsinha (1 maço)
+- ¾ de xícara de chá de folhas de hortelã fresca (1 maço)
 - 1 limão espremido
-- 1/4 de xícara de chá de azeite (60 ml)
+- ¼ de xícara de chá de azeite (60 ml)
 - Sal a gosto
 - --
 

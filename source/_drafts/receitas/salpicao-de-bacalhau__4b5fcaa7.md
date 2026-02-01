@@ -30,8 +30,8 @@ flags: []
 
 - 500 gramas de bacalhau dessalgado, cozido e desfiado
 - 200 gramas de presunto picado
-- 1/2 lata de ervilha (85 gramas)
-- 1/2 lata de milho (85 gramas)
+- ½ lata de ervilha (85 gramas)
+- ½ lata de milho (85 gramas)
 - 15 azeitonas fatiadas (60 gramas)
 - 1 vidro de palmito picado (400 gramas)
 - 1 cebola média

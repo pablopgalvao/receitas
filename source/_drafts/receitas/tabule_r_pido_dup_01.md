@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de triguilho (trigo para kibe)
+- ½ xícara de chá de triguilho (trigo para kibe)
 - 1 xícara de chá de água quente
 - 1 colher de sopa de azeite
 - Hortelã e salsinha a gosto

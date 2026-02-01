@@ -29,15 +29,15 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 folhas de alface
-- 1/2 peito de frango desfiado cozido (320 gramas)
+- ½ peito de frango desfiado cozido (320 gramas)
 - 2 colheres de sopa de maionese (100 gramas)
-- 1/3 de xícara de chá de salsão picado (40 gramas)
+- ⅓ de xícara de chá de salsão picado (40 gramas)
 - 1 cenoura média (150 gramas)
 - 1 pão de metro grande (50 cm)
 - 2 tomates médios (200 gramas)
-- 1/2 cebola média (50 gramas)
-- 1/3 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ cebola média (50 gramas)
+- ⅓ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cheiro-verde (ou a gosto)
 - --
 

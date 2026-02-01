@@ -31,13 +31,13 @@ flags: []
 
 - 1 filé de peixe tilápia sem espinho fatiado (300 gramas)
 - 2 colheres de sopa óleo/azeite
-- 1/2 cebola
+- ½ cebola
 - 3 dentes de alho
 - 400 ml de água
 - 2 tomates médios
 - 1 pitada de orégano
 - 1 pitada de sal
-- 1/2 pimentão
+- ½ pimentão
 - 1 pitada de páprica doce
 - 1 pitada de pimenta-do-reino
 - 1 colher de caldo de pimenta em conserva

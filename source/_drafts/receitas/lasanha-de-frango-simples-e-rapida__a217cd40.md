@@ -33,7 +33,7 @@ flags: []
 - 1 tomate grande
 - 2 dentes de alho
 - 2 sachês de molho de tomate (480 ml)
-- 1/2 xícara de chá de azeitonas fatiadas
+- ½ xícara de chá de azeitonas fatiadas
 - 1 pacote de massa de lasanha fresca (500 gramas)
 - 300 gramas de presunto
 - 300 gramas de mussarela

@@ -32,14 +32,14 @@ flags: []
 
 - 1 kg de costela bovina em pedaços
 - 1 colher de sopa de suco de limão
-- 1/2 colher de sopa de óleo
+- ½ colher de sopa de óleo
 - 1 dente de alho
 - 1 cebola
 - 1 folha de louro
 - 500 ml de caldo de carne
 - 3 tomates
-- 1/2 xícara de chá de vinho tinto seco
-- 1/2 xícara de chá de polpa de tomate
+- ½ xícara de chá de vinho tinto seco
+- ½ xícara de chá de polpa de tomate
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - --

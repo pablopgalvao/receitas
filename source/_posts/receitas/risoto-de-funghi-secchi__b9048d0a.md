@@ -31,10 +31,10 @@ flags: []
 - 80 gramas de cogumelo seco
 - 1,5 litro de caldo de legumes caseiro ou 2 tabletes de tempero de legumes
 - 2 colheres de sopa de azeite
-- 1/2 cebola média (140 gramas)
-- 1 e 1/2 xícara de chá de arroz arbóreo (280 gramas)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
-- 1/2 colher de sal (ou a gosto)
+- ½ cebola média (140 gramas)
+- 1 e ½ xícara de chá de arroz arbóreo (280 gramas)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de sal (ou a gosto)
 - 1 xícara de chá de vinho branco (240 ml)
 - 125 gramas de queijo tipo brie
 - 125 gramas de queijo parmesão

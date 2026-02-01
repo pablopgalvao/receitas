@@ -32,8 +32,8 @@ flags: []
 - 2 colheres de sopa de farinha de trigo
 - 300 ml de leite integral
 - 300 gramas de queijo cheddar ralado
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

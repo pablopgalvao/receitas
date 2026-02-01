@@ -28,9 +28,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de leite de coco (350 ml)
-- 2/3 de xícara de chá de leite integral (150 ml)
-- 1/2 lata de leite condensado (198 gramas)
+- 1 e ½ xícara de chá de leite de coco (350 ml)
+- ⅔ de xícara de chá de leite integral (150 ml)
+- ½ lata de leite condensado (198 gramas)
 - --
 
 ---

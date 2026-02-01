@@ -33,7 +33,7 @@ flags: []
 - 1 colher de chá de colorau
 - 1 colher de chá rasa de sal
 - 2 colheres de sopa de salsinha
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de chá de páprica defumada
 - 1 sachê ou 340 gramas de molho de tomate
 - 1 xícara de chá de água

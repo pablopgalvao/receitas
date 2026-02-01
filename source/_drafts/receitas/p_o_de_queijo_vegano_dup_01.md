@@ -31,9 +31,9 @@ flags: []
 
 - 1 xícara de chá de batata cozida
 - 2 xícaras de chá de polvilho doce
-- 1/2 xícara de chá de polvilho azedo
-- 1/2 xícara de chá de água morna
-- 1/3 de xícara de chá de azeite
+- ½ xícara de chá de polvilho azedo
+- ½ xícara de chá de água morna
+- ⅓ de xícara de chá de azeite
 - Sal a gosto
 - Acrescente o polvilho doce, o salgado e o sal. Misture bem com as mãos;
 - Em uma forma untada com óleo, disponha as bolinhas com uma distância entre elas e leve ao forno preaquecido a 230 ºC por cerca de 15 minutos;

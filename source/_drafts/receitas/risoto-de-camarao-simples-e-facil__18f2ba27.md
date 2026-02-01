@@ -30,11 +30,11 @@ flags: []
 
 - 500 gramas de camarão
 - 1 cebola média
-- 1/2 limão
+- ½ limão
 - 3 colheres de sopa de manteiga
 - 2 xícaras de chá de arroz arbóreo (400 gramas)
 - 1 xícara de chá de vinho branco seco (240 ml)
-- 1/2 xícara de chá de molho de tomate (60 gramas)
+- ½ xícara de chá de molho de tomate (60 gramas)
 - 200 gramas de queijo parmesão
 - 1 colher de chá de sal
 - 1 colher de chá de pimenta-do-reino (ou a gosto)

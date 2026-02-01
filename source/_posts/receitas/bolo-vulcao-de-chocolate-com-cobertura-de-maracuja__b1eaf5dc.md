@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 lata de leite condensado
+- ½ lata de leite condensado
 - 1 caixinha de creme de leite
 - 100 ml de suco de maracujá
 - --

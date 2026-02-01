@@ -34,11 +34,11 @@ flags: []
 - 1 colher (sopa) de licor de laranja
 - água com gás gelada (ou club soda) a gosto
 - cubos de gelo a gosto
-- Divida o vinho nos dois copos e misture. Preencha com cubos de gelo e complete com a água com gás (cerca de 1/4 de xícara por copo). Sirva a seguir.
+- Divida o vinho nos dois copos e misture. Preencha com cubos de gelo e complete com a água com gás (cerca de ¼ de xícara por copo). Sirva a seguir.
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
 1. Lave, seque e passe a maçã pelo fatiador de legumes, no sentido da largura. Divida as rodelas de maçã em 2 copos. Regue as maçãs com o caldo de laranja e o licor.
-2. Divida o vinho nos dois copos e misture. Preencha com cubos de gelo e complete com a água com gás (cerca de 1/4 de xícara por copo). Sirva a seguir.
+2. Divida o vinho nos dois copos e misture. Preencha com cubos de gelo e complete com a água com gás (cerca de ¼ de xícara por copo). Sirva a seguir.

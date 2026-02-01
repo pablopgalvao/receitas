@@ -35,7 +35,7 @@ flags: []
 - 500 gramas de carne em cubos
 - 1 cebola picada
 - 6 dentes de alho
-- 1/2 pimentão vermelho picado
+- ½ pimentão vermelho picado
 - 1 cenoura picada
 - 5 batatas grandes picadas
 - 4 mandioquinhas picadas

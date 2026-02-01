@@ -33,8 +33,8 @@ flags: []
 - 1 ovo (levemente batido)
 - 2 xícaras de chá de mussarela ralada
 - 1 xícara de chá de presunto ralado
-- 1/2 colher de sopa (rasa) de fermento químico em pó (fermento para bolo)
-- 1/2 colher de chá (rasa) de sal
+- ½ colher de sopa (rasa) de fermento químico em pó (fermento para bolo)
+- ½ colher de chá (rasa) de sal
 - 1 pitada de pimenta-do-reino
 - 1 colher de sopa de salsinha picadinha
 - 1 colher de sopa de cebolinha picadinha

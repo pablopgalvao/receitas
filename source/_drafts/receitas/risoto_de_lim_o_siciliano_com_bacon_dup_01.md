@@ -33,7 +33,7 @@ flags: []
 - 200 gramas de bacon
 - 1 xícara de chá de queijo parmesão ralado (80 gramas)
 - 2 colheres de sopa de azeite
-- 1/2 xícara de chá de vinho branco seco
+- ½ xícara de chá de vinho branco seco
 - Sal a gosto
 - Para iniciar, em uma frigideira, frite o bacon picado até que fique bem dourado e sequinho. Não é necessário adicionar óleo, sua gordura é suficiente;
 - Agora, entre com o arroz arbóreo, uma pitada de sal e refogue por mais 1 minutinho;

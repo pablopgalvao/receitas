@@ -32,9 +32,9 @@ flags: []
 - 2 unidades de lombo de bacalhau já dessalgado (600 gramas)
 - 15 unidades de ovos de codorna cozidos (ou a gosto)
 - 140 gramas de tomate-cereja (ou a gosto)
-- 1/2 xícara de chá de azeitonas pretas sem caroço (ou a gosto)
-- 1/2 xícara de chá de azeite (120 ml)
-- 1/3 xícara de chá de salsinha picada (ou a gosto)
+- ½ xícara de chá de azeitonas pretas sem caroço (ou a gosto)
+- ½ xícara de chá de azeite (120 ml)
+- ⅓ xícara de chá de salsinha picada (ou a gosto)
 - 1 colher de café de pimenta-do-reino (ou a gosto)
 - 1 colher de café de sal (ou a gosto)
 - Em uma bancada, deixe todos os ingredientes reunidos. O bacalhau precisa estar dessalgado. Se preferir (e encontrar), compre o peixe fresco. Corte os ovos de codornas cozidos e os tomatinhos ao meio. Pique a salsinha bem fininha;

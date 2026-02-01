@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de óleo vegetal
-- 1/2 xícara de chá de cebola picada (75 gramas)
+- ½ xícara de chá de cebola picada (75 gramas)
 - 1 colher de chá de alho picado
 - 1 xícara de chá de ketchup (240 ml)
-- 1/4 de xícara de chá de açúcar mascavo (45 gramas)
+- ¼ de xícara de chá de açúcar mascavo (45 gramas)
 - 4 colheres de sopa de vinagre de maçã (60 ml)
 - 1 colher de sopa de mostarda (15 gramas)
 - 1 colher de sopa de molho inglês (15 ml)

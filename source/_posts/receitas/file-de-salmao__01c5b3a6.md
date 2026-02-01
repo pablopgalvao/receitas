@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de salmão fresco
-- 1/2 colher de chá de sal
+- ½ kg de salmão fresco
+- ½ colher de chá de sal
 - 1 colher de sopa de farinha de trigo
 - 1 colher de sopa de margarina
 - --

@@ -30,14 +30,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 xícaras de chá de feijão-branco (500 gramas)
-- 1/3 de xícara de chá de azeite (80 ml)
-- Suco de 1/2 limão-siciliano (50 ml)
+- ⅓ de xícara de chá de azeite (80 ml)
+- Suco de ½ limão-siciliano (50 ml)
 - 1 colher chá de sal
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - 2 tomates-italianos (260 gramas)
-- 1/2 cebola-roxa picada (80 gramas)
-- 1/2 pimentão vermelho (120 gramas)
-- 1/2 pimentão amarelo (120 gramas)
+- ½ cebola-roxa picada (80 gramas)
+- ½ pimentão vermelho (120 gramas)
+- ½ pimentão amarelo (120 gramas)
 - 3 colheres de sopa de salsinha picada
 - 3 colheres de sopa de cebolinha picada
 - Antes de começar, o feijão-branco deve ficar de molho na água por, pelo menos, 6 horas. Você pode colocá-lo na noite anterior ao preparo. Depois, é só reunir os ingredientes e iniciar o preparo da salada!

@@ -29,9 +29,9 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/4 de xícara de chá de leite em pó semidesnatado
+- 1 e ¼ de xícara de chá de leite em pó semidesnatado
 - 2 colheres de sopa de adoçante
-- 1/4 de xícara de chá de água (60 ml)
+- ¼ de xícara de chá de água (60 ml)
 - Leite em pó semidesnatado a gosto para finalizar
 - --
 

@@ -33,16 +33,16 @@ flags: []
 - 1 litro de água
 - 3 batatas médias
 - 4 colheres de sopa de azeite (60 ml)
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
-- 1/2 pimentão verde
+- ½ pimentão vermelho
+- ½ pimentão amarelo
+- ½ pimentão verde
 - 3 ovos
 - Sal a gosto (opcional)
 - 2 colheres de sopa de vinagre branco
 - 3 colheres de sopa de coentro picado
-- 1/2 xícara de azeitonas pretas
+- ½ xícara de azeitonas pretas
 - --
 
 ---

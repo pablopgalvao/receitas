@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 ml de água gelada
-- 2 e 1/2 doses de cachaça (aproximadamente 100 ml)
+- 2 e ½ doses de cachaça (aproximadamente 100 ml)
 - 1 colher de sopa de açúcar
 - Gelo a gosto
 - Em uma jarra média, adicione o sachê de chá em 200 ml de água gelada. Aguarde cerca de 5 minutos em infusão fria. Reserve;

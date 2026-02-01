@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 lata de leite condensado (197 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ lata de leite condensado (197 gramas)
+- ½ xícara de chá de leite (120 ml)
 - 2 colheres de sopa de chocolate em pó
 - 1 colher de sopa de manteiga ou margarina
 - --

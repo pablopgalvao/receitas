@@ -35,7 +35,7 @@ flags: []
 - 1 colher de sopa de sal amoníaco (63 gramas)
 - 3 colheres de sopa de leite (50 ml)
 - 5 xícaras de chá de farinha de trigo (810 gramas)
-- 1 e 1/3 xícara de açúcar de confeiteiro (200 gramas)
+- 1 e ⅓ xícara de açúcar de confeiteiro (200 gramas)
 - Granulado colorido para decorar (80 gramas)
 - Em uma tigela, misture com uma colher os ovos, o açúcar e a nata até formar um creme uniforme. Adicione o extrato de tangerina ou de baunilha e, se desejar, as raspas de limão;
 - Em um recipiente à parte, aqueça o leite no micro-ondas por 30 segundos. Adicione o sal amoníaco e misture até espumar;

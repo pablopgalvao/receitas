@@ -31,8 +31,8 @@ flags: []
 
 - 500 gramas de costela de tambaqui
 - Suco de 1 limão-taiti (45 ml)
-- 1/4 colher de chá de pimenta-do-reino moída (ou a gosto)
-- 1/2 colher de sopa de sal (ou a gosto)
+- ¼ colher de chá de pimenta-do-reino moída (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 1 fio de azeite
 - --
 

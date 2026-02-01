@@ -33,7 +33,7 @@ flags: []
 - 1 colher de sopa de sal
 - 1 colher de sopa de colorau
 - 5 colheres de sopa de óleo
-- 3/4 do pacote de farinha de trigo (750 gramas)
+- ¾ do pacote de farinha de trigo (750 gramas)
 - --
 
 ---

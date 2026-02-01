@@ -33,7 +33,7 @@ flags: []
 
 - 500 gramas de filé de peito de frango cortado em cubos
 - Sal a gosto
-- 1/2 colher de café de pimenta-do-reino
+- ½ colher de café de pimenta-do-reino
 - 2 dentes de alho picados
 - 3 colheres de sopa de manteiga
 - 1 colher de sopa de farinha de trigo

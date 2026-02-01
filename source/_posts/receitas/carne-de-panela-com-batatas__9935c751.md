@@ -35,9 +35,9 @@ flags: []
 - 3 dentes de alho amassado
 - 3 colheres de sopa de azeite ou óleo
 - 2 colheres de chá de páprica defumada
-- 1/2 colher de chá (rasa) de cominho
+- ½ colher de chá (rasa) de cominho
 - 3 colheres de chá (rasas) de sal
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de chá rasa de colorau (opcional e a gosto)
 - 1 xícara de chá de água (240 ml)
 - 1 xícara de chá de molho de tomate (240 ml)

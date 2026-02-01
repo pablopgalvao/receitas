@@ -33,7 +33,7 @@ flags: []
 - 1 pacote de bolacha de maisena (sem ovos e leite)
 - 1 colher de sopa de essência de baunilha
 - 1 litro de leite vegetal (amêndoas ou outro)
-- 1/2 xícara de chá de leite vegetal (para molhar as bolachas)
+- ½ xícara de chá de leite vegetal (para molhar as bolachas)
 - 2 xícaras de chá de paçoca esfarelada
 - 3 colheres de sopa de amido de milho
 - Paçoca a gosto para decorar

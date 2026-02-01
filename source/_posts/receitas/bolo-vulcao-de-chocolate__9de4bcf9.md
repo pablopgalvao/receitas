@@ -31,7 +31,7 @@ flags: []
 - 1 xícara de chá de leite
 - 1 xícara de chá leite condensado
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de chá de chocolate em pó
+- ½ xícara de chá de chocolate em pó
 - --
 
 ---

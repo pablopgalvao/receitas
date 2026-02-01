@@ -32,7 +32,7 @@ flags: []
 - 1 colher de sopa de sal
 - 1 colher de sopa de colorau
 - 5 colheres de sopa de óleo
-- 3/4 do pacote de farinha de trigo (750 gramas)
+- ¾ do pacote de farinha de trigo (750 gramas)
 - Adicione sal, colorau, o caldo de galinha e o óleo na panela. Misture e mantenha em fogo até ferver;
 - Quando ferver, misture novamente para que o caldo de galinha se dissolva por completo, e adicione a farinha de trigo. Incorpore até que a massa fique homogênea e solte da panela;
 

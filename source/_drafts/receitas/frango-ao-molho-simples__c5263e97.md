@@ -32,14 +32,14 @@ flags: []
 - 1 kg de frango em pedaços com pele e osso
 - 1 colher de sopa de suco de limão
 - 1 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino ou pimenta calabresa
+- ½ colher de chá de pimenta-do-reino ou pimenta calabresa
 - 1 colher de chá de páprica doce ou defumada
 - 1 colher de sopa de azeite
 - 6 dentes de alho
 - 1 cebola grande
 - 2 tomates
 - 1 colher de sopa de extrato de tomate
-- 1 e 1/2 xícara de chá de água (350 ml)
+- 1 e ½ xícara de chá de água (350 ml)
 - Cheiro-verde a gosto
 - --
 

@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 batatas médias (500 gramas)
-- 1 e 1/2 colher de sopa de manteiga (30 gramas)
+- 1 e ½ colher de sopa de manteiga (30 gramas)
 - 1 colher de sopa de óleo (15 ml)
 - 3 dentes de alho
 - 1 colher de chá de sal (para cozimento das batatas)
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de sopa de salsinha (ou a gosto)
 - --
 

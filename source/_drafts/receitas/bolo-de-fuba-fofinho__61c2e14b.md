@@ -28,8 +28,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de fubá (225 gramas)
-- 2 e 1/2 xícaras de chá de leite (600 ml) em temperatura ambiente
+- 1 e ½ xícara de chá de fubá (225 gramas)
+- 2 e ½ xícaras de chá de leite (600 ml) em temperatura ambiente
 - 2 xícaras de chá de farinha de trigo (280 gramas)
 - 1 xícara de chá de açúcar (200 gramas)
 - 3 ovos médios em temperatura ambiente

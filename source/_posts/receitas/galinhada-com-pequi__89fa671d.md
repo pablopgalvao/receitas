@@ -34,9 +34,9 @@ flags: []
 - 3 cebolas médias (180 gramas)
 - 4 tomates médios (360 gramas)
 - 1 pimentão vermelho pequeno (240 gramas)
-- 1/2 pimenta dedo-de-moça
+- ½ pimenta dedo-de-moça
 - 23 pequis (2,400 kg)
-- 1/2 de xícara de chá de pimenta-biquinho (60 gramas)
+- ½ de xícara de chá de pimenta-biquinho (60 gramas)
 - 1 colher de sopa de açafrão
 - 1 colher de sopa de páprica
 - 1 colher de sopa de colorau

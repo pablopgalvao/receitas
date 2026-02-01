@@ -37,7 +37,7 @@ flags: []
 - 1 colher de sopa rasa de lemon pepper
 - Salsinha picada a gosto
 - Pimenta-do reino a gosto
-- 1/2 pacote de parmesão ralado (30 gramas)
+- ½ pacote de parmesão ralado (30 gramas)
 - Em uma frigideira, no fogo médio, adicione o azeite e a manteiga. Assim que a manteiga derreter, acrescente a cebola, o alho e refogue bem, depois acrescente o creme de leite;
 - Tempere com a pimenta-do-reino, lemon pepper e salsinha. Misture bem com o auxílio de uma espátula, cuidando para o molho não queimar nas laterais;
 

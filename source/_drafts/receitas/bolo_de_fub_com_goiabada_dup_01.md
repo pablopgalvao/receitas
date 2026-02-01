@@ -31,7 +31,7 @@ flags: []
 
 - 1 xícara de chá de farinha de trigo sem fermento
 - 1 xícara de chá de fubá
-- 1/2 colher de sopa de erva-doce
+- ½ colher de sopa de erva-doce
 - 1 colher de sopa de fermento em pó (fermento para bolo)
 - 1 xícara de chá de óleo
 - 1 xícara de chá de leite

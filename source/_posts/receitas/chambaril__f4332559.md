@@ -34,8 +34,8 @@ flags: []
 - 2 cenouras pequenas ou 1 grande (140 gramas)
 - 2 talos de salsão (opcional)
 - 5 tomates-cereja
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - Farinha de trigo para polvilhar (opcional) (40 gramas)
 - 2 dentes de alho
 - 1 folha de louro

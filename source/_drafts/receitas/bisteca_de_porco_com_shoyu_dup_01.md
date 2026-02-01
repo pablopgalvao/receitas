@@ -35,7 +35,7 @@ flags: []
 - Azeite a gosto (óleo ou manteiga)
 - 95 ml de shoyu
 - 95 ml de água
-- 1/2 colher de sopa de amido de milho
+- ½ colher de sopa de amido de milho
 - 1 colher de café de açúcar
 - Cheiro-verde a gosto
 - Em um copo, coloque o shoyu, a água, o amido de milho, o açúcar e misture bem para dissolver;

@@ -41,7 +41,7 @@ flags: []
 - Pimenta-do-reino a gosto
 - Colorau a gosto
 - Sal a gosto
-- 1 e 1/2 xícara de arroz cru (aproximadamente 330 gramas)
+- 1 e ½ xícara de arroz cru (aproximadamente 330 gramas)
 - Água fervente (suficiente para cobrir os ingredientes)
 - 1 caixinha de creme de leite (200 gramas)
 - 1 xícara de chá de leite integral (240 ml)

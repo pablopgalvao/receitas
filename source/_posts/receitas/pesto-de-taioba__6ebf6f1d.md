@@ -33,9 +33,9 @@ flags: []
 - Água para branquear a folha de taioba
 - 1 dente de alho
 - 5 castanhas-do-pará
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de semente de pimenta-do-reino (ou a gosto)
-- 2/3 de xícara de chá de azeite (150 ml)
+- ½ colher de chá de sal (ou a gosto)
+- ½ colher de chá de semente de pimenta-do-reino (ou a gosto)
+- ⅔ de xícara de chá de azeite (150 ml)
 - --
 
 ---

@@ -34,11 +34,11 @@ flags: []
 - 400 gramas de camarão
 - 2 litros de caldo de camarão
 - 110 gramas de manteiga (20 gramas para fritar o camarão e 90 gramas para o risoto)
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 dente de alho picado
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/4 de pimenta-dedo-de-moça (opcional)
+- ¼ de pimenta-dedo-de-moça (opcional)
 - 150 gramas de tomate picado e sem semente
 - 200 gramas de arroz-arbório
 - 60 ml de vinho branco seco

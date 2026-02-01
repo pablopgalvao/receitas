@@ -38,7 +38,7 @@ flags: []
 - 2 copos americanos de fubá
 - 2 copos americanos de farinha de trigo
 - 5 ovos (ou 4 ovos grandes)
-- 1/2 colher de sopa fermento químico em pó (fermento para bolo)
+- ½ colher de sopa fermento químico em pó (fermento para bolo)
 - Manteiga para untar
 - --
 

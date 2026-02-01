@@ -39,9 +39,9 @@ flags: []
 - 4 dentes de alho
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 cebola-amarela
+- ½ cebola-amarela
 - 1 fio de azeite de oliva
-- 1/4 de xícara de chá de água
+- ¼ de xícara de chá de água
 - --
 
 ---

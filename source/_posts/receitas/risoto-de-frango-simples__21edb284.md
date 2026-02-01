@@ -29,14 +29,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de peito de frango cozido e desfiado
-- 2 e 1/2 xícaras de chá de arroz cozido (460 gramas)
+- 2 e ½ xícaras de chá de arroz cozido (460 gramas)
 - 1 fio de azeite
 - 1 cebola grande
 - 2 dentes de alho
 - 1 pimentão verde
 - 1 caixinha de molho de tomate (300 gramas)
 - 1 colher de sopa de colorau (ou a gosto)
-- 1 e 1/2 colher de sopa de sal (ou a gosto)
+- 1 e ½ colher de sopa de sal (ou a gosto)
 - 80 gramas de azeitona (ou a gosto)
 - 4 colheres de sopa de coentro (ou a gosto)
 - 2 colheres de sopa de cebolinha (ou a gosto)

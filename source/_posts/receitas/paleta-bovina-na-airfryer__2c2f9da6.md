@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 850 gramas a 1 kg de paleta bovina (em peça)
-- 2 e 1/2 colheres de sopa de manteiga ou margarina
+- 2 e ½ colheres de sopa de manteiga ou margarina
 - 1 cabeça de alho pequena
-- 1 e 1/2 colher de sopa de sal ou sal de parrilla
+- 1 e ½ colher de sopa de sal ou sal de parrilla
 - 1 colher de sobremesa de lemon pepper
 - --
 

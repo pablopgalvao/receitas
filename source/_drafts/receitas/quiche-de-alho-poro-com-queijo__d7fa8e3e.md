@@ -32,11 +32,11 @@ flags: []
 - 1 talo de alho-poró
 - 2 dentes de alho
 - 3 ovos
-- 1 e 1/2 caixa de creme de leite (300 gramas)
+- 1 e ½ caixa de creme de leite (300 gramas)
 - 150 gramas de queijo parmesão
-- 1/2 colher de chá de sal a gosto
-- 1/2 colher de chá de pimenta-do-reino a gosto
-- 1/2 colher de chá de noz-moscada a gosto
+- ½ colher de chá de sal a gosto
+- ½ colher de chá de pimenta-do-reino a gosto
+- ½ colher de chá de noz-moscada a gosto
 - Tomilho para enfeitar
 - --
 

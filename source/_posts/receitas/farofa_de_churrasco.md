@@ -38,12 +38,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/3 de xícara (chá) de azeite
+- ⅓ de xícara (chá) de azeite
 - 1 xícara (chá) de bacon picado
 - 1 cebola picada
 - 1 lata de milho verde escorrido
-- 1/2 lata de ervilha escorrida
-- 1/2 pimenta vermelha sem sementes picada
+- ½ lata de ervilha escorrida
+- ½ pimenta vermelha sem sementes picada
 - 3 xícaras (chá) de farinha de milho
 - sal a gosto
 

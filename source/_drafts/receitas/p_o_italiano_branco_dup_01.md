@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2/3 de xícara de chá de água (150ml)
-- 2/3 de xícara de chá de leite (150ml)
+- ⅔ de xícara de chá de água (150ml)
+- ⅔ de xícara de chá de leite (150ml)
 - 1 colher de sopa de açúcar (15 gramas)
 - 1 colher de chá de fermento biológico (5 gramas)
 - 1 colher de sopa de manteiga em ponto de pomada (20 gramas)
-- 3 e 1/2 de xícara de chá de farinha de trigo (550 gramas)
+- 3 e ½ de xícara de chá de farinha de trigo (550 gramas)
 - 2 colheres de chá de sal (10 gramas)
 - Em uma tigela, misture água, leite, açúcar e fermento. Tampe e reserve por 5 minutos;
 - Acrescente a manteiga à mistura, junto de farinha de trigo e sal;

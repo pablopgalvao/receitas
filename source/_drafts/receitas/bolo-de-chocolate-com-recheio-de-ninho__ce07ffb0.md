@@ -30,7 +30,7 @@ flags: []
 
 - 2 latas de leite condensado (790 gramas)
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de chá de leite Ninho
+- ½ xícara de chá de leite Ninho
 - 1 caixinha de creme de leite (200 gramas)
 - --
 

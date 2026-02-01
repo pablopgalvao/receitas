@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 caixinha de morangos
-- 1/2 xícara de chá de açúcar
-- 1/2 limão
+- ½ xícara de chá de açúcar
+- ½ limão
 - --
 
 ---

@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de manteiga
-- 1 e 1/2 colher de sopa de farinha de trigo
+- 1 e ½ colher de sopa de farinha de trigo
 - 500 ml de leite
 - 100 gramas de queijo parmesão ralado
 - 100 gramas de queijo provolone ralado

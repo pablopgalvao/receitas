@@ -35,7 +35,7 @@ flags: []
 - 1 lata de tomate pelado
 - 1 xícara de macarrão penne
 - 1 dente de alho picado
-- 1/2 cebola fatiada
+- ½ cebola fatiada
 - 10 tomates-cereja cortados ao meio
 - Folhas de manjericão a gosto
 - Azeite a gosto

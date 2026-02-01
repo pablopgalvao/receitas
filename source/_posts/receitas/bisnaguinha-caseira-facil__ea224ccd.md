@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de leite
+- 1 e ½ xícara de chá de leite
 - 2 ovos
 - 2 colheres de sopa de açúcar
 - 2 colheres de chá de sal

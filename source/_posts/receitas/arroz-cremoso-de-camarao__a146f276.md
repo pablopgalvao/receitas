@@ -32,9 +32,9 @@ flags: []
 
 - 3 xícaras de chá de arroz cozido
 - 500 gramas de camarão
-- 1/4 de pimentão verde picado
-- 1/4 de pimentão vermelho picado
-- 1/2 cebola picada
+- ¼ de pimentão verde picado
+- ¼ de pimentão vermelho picado
+- ½ cebola picada
 - 3 dentes de alho picado
 - 50 ml de azeite
 - 20 gramas de manteiga

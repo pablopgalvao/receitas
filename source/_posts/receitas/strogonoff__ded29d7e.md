@@ -33,9 +33,9 @@ flags: []
 - 1 cebola picada
 - 2 dentes de alho picado ou amassado
 - 3 xícaras de chá de creme de leite fresco (500 gramas)
-- 1/2 xícara de chá de extrato de tomate
+- ½ xícara de chá de extrato de tomate
 - 2 colheres de sopa de molho inglês
-- 1/4 xícara de chá de conhaque
+- ¼ xícara de chá de conhaque
 - 1 colher de café (bem cheia) de mostarda
 - 300 gramas de cogumelo paris fresco cortado em fatias
 - 3 colheres de sopa de azeite de oliva

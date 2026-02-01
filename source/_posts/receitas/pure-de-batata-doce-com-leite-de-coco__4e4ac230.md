@@ -32,8 +32,8 @@ flags: []
 - 2 colheres de sopa de azeite
 - 3 dentes de alho
 - 200 ml de leite de coco
-- 1/2 colher de chá de pimenta-do-reino
-- 1/2 colher de chá de açafrão
+- ½ colher de chá de pimenta-do-reino
+- ½ colher de chá de açafrão
 - 1 colher de chá de sal
 - --
 

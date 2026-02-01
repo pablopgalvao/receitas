@@ -36,13 +36,13 @@ flags: []
 
 - 1 fio de óleo
 - 2 dentes de alho
-- 1/2 cebola
+- ½ cebola
 - 500 gramas de carne moída
 - Sal e pimenta-do-reino a gosto
 - Páprica defumada a gosto
 - Orégano a gosto
 - 300 gramas de molho de tomate
-- 1/2 xícara de chá de água fervente
+- ½ xícara de chá de água fervente
 - 1 colher chá de açúcar
 - 2 colheres de sopa de azeitonas picadas
 - Cheiro-verde a gosto

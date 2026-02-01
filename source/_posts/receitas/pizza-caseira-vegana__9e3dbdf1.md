@@ -31,8 +31,8 @@ flags: []
 - 1 xícara de chá de água
 - 1 colher de chá de fermento biológico seco
 - 1 colher de chá de açúcar
-- 3 e 1/2 a 4 xícaras de chá de farinha trigo
-- 1/4 xícara de chá de azeite de oliva ou óleo
+- 3 e ½ a 4 xícaras de chá de farinha trigo
+- ¼ xícara de chá de azeite de oliva ou óleo
 - 1 colher de chá de sal
 - --
 

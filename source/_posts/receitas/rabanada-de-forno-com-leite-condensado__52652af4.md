@@ -36,7 +36,7 @@ flags: []
 - 4 ovos
 - 1 garrafa de leite de coco (200 ml)
 - 3 xícaras de chá de leite (720 ml)
-- 1/2 xícara de chá de açúcar refinado (90 gramas)
+- ½ xícara de chá de açúcar refinado (90 gramas)
 - 1 lata de leite condensado (395 gramas)
 - Raspas de 1 limão
 - 1 colher de chá de essência de laranja (5 ml)

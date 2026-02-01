@@ -37,11 +37,11 @@ flags: []
 - 100 gramas de pimentão
 - 1 cebola (140 gramas)
 - 1 tomate médio (125 gramas)
-- 1/3 de colher de chá de gengibre em pó
+- ⅓ de colher de chá de gengibre em pó
 - 2 colheres de chá de sal ou a gosto
 - 1 colher de chá de páprica ou colorau
-- 1/2 colher de chá de cominho
-- 1/3 de colher de chá de pimenta-do-reino
+- ½ colher de chá de cominho
+- ⅓ de colher de chá de pimenta-do-reino
 - Cheiro-verde a gosto
 - Em um liquidificador, coloque o amendoim e bata até obter uma farinha;
 - Junte a mistura de pães com leite, metade da cebola, 50 gramas de pimentão, 2 colheres de sopa de cheiro-verde, o tomate e o caldo de frango. Bata tudo até obter um creme liso, homogêneo e cremoso - se precisar, coloque mais caldo de galinha ou água para ajudar a bater;

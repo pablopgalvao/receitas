@@ -40,7 +40,7 @@ flags: []
 - 1 xícara de chá de calabresa picada
 - 1 dente de alho picado
 - Sal a gosto
-- 1/2 cebola picada
+- ½ cebola picada
 - Pimenta-do-reino a gosto
 - Páprica a gosto
 - Salsinha e cebolinha a gosto

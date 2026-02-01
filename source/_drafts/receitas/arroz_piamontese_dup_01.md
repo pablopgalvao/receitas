@@ -42,7 +42,7 @@ flags: []
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Corte o champignon em fatias médias (se você picar muito pequeno, ele vai sumir na receita). Cozinhe o arroz como de costume, ou aproveite as sobras do dia anterior. Pique o alho bem fininho. Se quiser, adicione 1/2 cebola picada em cubinhos;
+1. Corte o champignon em fatias médias (se você picar muito pequeno, ele vai sumir na receita). Cozinhe o arroz como de costume, ou aproveite as sobras do dia anterior. Pique o alho bem fininho. Se quiser, adicione ½ cebola picada em cubinhos;
 2. Em uma panela alta de fundo largo, derreta a manteiga e refogue o alho (e a cebola se for usar) em fogo baixo;
 3. Despeje o champignon e refogue por mais 1 minuto;
 4. Junte o arroz cozido e misture bem;

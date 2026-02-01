@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 envelope de gelatina sem sabor e incolor
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 1 gota de corante alimentício (da cor que você quer fazer o olho)
 - Bolinhas de chocolate (amendoim, confete marrom ou alguma fruta pequena e redonda)
-- 1/2 lata de leite condensado
-- 1/2 caixa de creme de leite
+- ½ lata de leite condensado
+- ½ caixa de creme de leite
 - 1 xícara de chá de leite
 - 3 colheres de sopa de água
 - 1 envelope de gelatina sem sabor e incolor

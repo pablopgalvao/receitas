@@ -31,13 +31,13 @@ flags: []
 
 - 500 gramas de salmão fresco
 - 1 cebola roxa média
-- 1/4 de pimentão amarelo (70 gramas)
+- ¼ de pimentão amarelo (70 gramas)
 - 1 manga rosa grande
 - Suco de 3 limões (150 ml)
-- 1/2 colher de chá de pimenta-do-reino
-- 1/2 colher de chá rasa de pimenta calabresa
+- ½ colher de chá de pimenta-do-reino
+- ½ colher de chá rasa de pimenta calabresa
 - 1 colher de chá de sal
-- 1/2 colher de sopa de azeite
+- ½ colher de sopa de azeite
 - 1 colher de sopa de coentro picado
 - --
 

@@ -31,7 +31,7 @@ flags: []
 - 3 laranjas
 - 1 cenoura grande
 - 1 beterraba
-- 2 e 1/3 xícara de chá de água (500 ml)
+- 2 e ⅓ xícara de chá de água (500 ml)
 - 2 colheres de sopa de açúcar
 - --
 

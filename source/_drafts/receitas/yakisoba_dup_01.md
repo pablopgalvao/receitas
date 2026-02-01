@@ -35,11 +35,11 @@ flags: []
 - 300 gramas de coxão mole em tirinhas
 - 1 cebola cortada em tiras (150 gramas)
 - 1 cenoura em rodelas finas (150 gramas)
-- 1/2 couve-flor (180 gramas)
-- 1/2 brócolis (180 gramas)
-- 1/2 repolho picado (180 gramas)
+- ½ couve-flor (180 gramas)
+- ½ brócolis (180 gramas)
+- ½ repolho picado (180 gramas)
 - 1 xícara de chá de água
-- 1/2 xícara de chá de shoyu
+- ½ xícara de chá de shoyu
 - 1 colher de sopa de amido de milho
 - Em uma wok, ou frigideira grande, em fogo médio, esquente o azeite e o óleo de gergelim. Adicione o frango e deixe refogar até começar a ficar douradinho, cerca de 1 minuto de cada lado;
 - Após 3 minutos, a couve-flor estará macia e a cenoura um pouco mais dura. Adicione os floretes de brócolis e misture (se precisar, coloque 3 colheres de sopa de água para ajudar no cozimento);

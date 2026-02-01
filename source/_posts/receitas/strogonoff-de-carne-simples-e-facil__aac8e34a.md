@@ -30,13 +30,13 @@ flags: []
 
 - 800 gramas de filé mignon (ou outra carne macia)
 - 3 dentes de alho amassados
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 1 colher de sopa de azeite (ou a gosto)
 - 1 cebola média
 - 1 colher de sopa de manteiga
 - 2 colheres de sopa de ketchup
 - 1 colher de sopa de mostarda
-- 1 e 1/2 colher de sopa de extrato de tomate
+- 1 e ½ colher de sopa de extrato de tomate
 - 2 latas de creme de leite (300 gramas cada)
 - 100 gramas de champignon fatiado em conserva (opcional)
 - --

@@ -32,7 +32,7 @@ flags: []
 - 50 gramas de bacon
 - 500 gramas de carne moída
 - 2 dentes de alho
-- 1/2 cebola grande
+- ½ cebola grande
 - 1 colher de chá de sal
 - 1 colher de chá de chimichurri
 - 2 colheres de sopa de azeitona sem caroço (fatiadas)

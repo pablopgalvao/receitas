@@ -38,7 +38,7 @@ flags: []
 - Óleo para fritar
 - 2 colheres de sopa de azeite
 - 6 dentes de alho picados mais 1 dente de alho inteiro
-- 2 e 1/2 cebolas médias picadas
+- 2 e ½ cebolas médias picadas
 - 3 tomates com semente picados
 - Cominho a gosto
 - Tempero baiano a gosto

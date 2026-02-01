@@ -33,7 +33,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 6 espigas de milho bem amarelas
-- 1/2 xícara de chá de leite (ou água)
+- ½ xícara de chá de leite (ou água)
 - 2 colheres de sopa de manteiga derretida (ou banha derretida)
 - Sal a gosto
 - Palha do milho para embalar

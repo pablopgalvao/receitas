@@ -31,8 +31,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 180 gramas de tomate cereja
-- 1/4 de xícara de chá de azeite
-- 1/2 colher de chá de sal
+- ¼ de xícara de chá de azeite
+- ½ colher de chá de sal
 - 2 dentes de alho
 - 200 gramas de mussarela de búfala ou burrata
 - 1 pão italiano ou baguete

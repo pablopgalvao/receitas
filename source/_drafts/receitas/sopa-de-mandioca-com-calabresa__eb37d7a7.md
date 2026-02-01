@@ -41,7 +41,7 @@ flags: []
 - 1 kg de mandioca
 - 1,2 litro de água (para o cozimento inicial)
 - 500 ml de água (aproximadamente, para ajustar o caldo)
-- 1 e 1/2 colher de sopa de extrato de tomate
+- 1 e ½ colher de sopa de extrato de tomate
 - 2 pitadas de sal (ajustar a gosto)
 - Salsinha e cebolinha a gosto
 - --

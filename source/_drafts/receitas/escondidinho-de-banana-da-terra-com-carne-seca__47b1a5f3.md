@@ -39,7 +39,7 @@ flags: []
 - 1 cebola grande
 - 4 dentes de alho
 - 1 tomate
-- 1/2 xícara de chá de coentro e salsinha picada
+- ½ xícara de chá de coentro e salsinha picada
 - 1 xícara de chá de queijo parmesão ralado
 - Sal a gosto
 - --

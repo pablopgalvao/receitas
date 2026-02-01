@@ -33,8 +33,8 @@ flags: []
 - 3 ovos médios (50 gramas)
 - 400 ml de leite
 - 1 xícara de chá de farinha de trigo (140 gramas)
-- 1/2 xícara de chá de açúcar (100 gramas)
-- 1/2 colher de sopa de manteiga
+- ½ xícara de chá de açúcar (100 gramas)
+- ½ colher de sopa de manteiga
 - Manteiga para untar
 - --
 

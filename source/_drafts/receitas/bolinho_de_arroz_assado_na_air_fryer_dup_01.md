@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de arroz branco cozido
-- 1/2 xícara de chá de farinha de trigo (70 gramas)
+- ½ xícara de chá de farinha de trigo (70 gramas)
 - 3 colheres de sopa de queijo parmesão ralado
 - Orégano a gosto
 - Pimenta-do-reino a gosto

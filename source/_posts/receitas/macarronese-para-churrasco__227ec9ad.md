@@ -37,7 +37,7 @@ flags: []
 - 160 gramas de azeitonas verdes fatiadas
 - 400 gramas de maionese
 - 200 gramas de creme de leite
-- 1/4 de xícara de salsinha picada (ou a gosto)
+- ¼ de xícara de salsinha picada (ou a gosto)
 - 1 colher de sopa de sal (ou a gosto)
 - --
 

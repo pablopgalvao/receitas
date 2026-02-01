@@ -31,7 +31,7 @@ flags: []
 
 - 1 caixa de mistura para chantilly (200 ml)
 - 1 xícara de chá de leite Ninho (110 gramas)
-- 1/2 caixa de leite condensado (198 gramas)
+- ½ caixa de leite condensado (198 gramas)
 - Raspas de chocolate branco para finalizar (opcional)
 - --
 

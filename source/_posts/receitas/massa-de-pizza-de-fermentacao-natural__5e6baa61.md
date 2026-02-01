@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de farinha de trigo - comum tipo 1 (400 gramas)
-- 1 e 1/4 de xícara de chá de água (280 ml)
+- 2 e ½ xícaras de chá de farinha de trigo - comum tipo 1 (400 gramas)
+- 1 e ¼ de xícara de chá de água (280 ml)
 - 4 colheres de sopa de fermento natural alimentado (100 gramas)
 - 2 colheres de sopa de azeite (25 ml)
-- 1/2 colher de sopa de açúcar (6 gramas)
+- ½ colher de sopa de açúcar (6 gramas)
 - 2 colheres de chá de sal (10 gramas)
 - Farinha de trigo e fubá para enfarinhar
 - --

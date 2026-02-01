@@ -35,9 +35,9 @@ flags: []
 - 3 dentes de alho
 - Suco de 1 limão (50 ml)
 - 1 colher de chá de ervas finas
-- 1/2 colher de chá de pimenta calabresa (ou a gosto)
+- ½ colher de chá de pimenta calabresa (ou a gosto)
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
 - 30 ml de vinagre
 - 2 colheres de sopa de manteiga
 - 1 cebola pequena

@@ -34,7 +34,7 @@ flags: []
 - Sal a gosto (opcional)
 - 2 colheres de sopa de vinagre branco
 - 3 colheres de sopa de coentro picado
-- 1/2 xícara de azeitonas pretas
+- ½ xícara de azeitonas pretas
 - Reúna os ingredientes necessários para essa receita! O bacalhau já deve estar desfiado e dessalgado;
 - Cozinhe os ovos por 10 min e fatie em rodelas, reserve;
 - Finalize com as azeitonas e os ovos. Ajuste o sal se necessário;

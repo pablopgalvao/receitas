@@ -36,7 +36,7 @@ flags: []
 - 50 gramas de azeitonas fatiadas sem caroço
 - 3 colheres de sopa de molho de soja
 - Suco de 1 limão
-- 1/2 cebola fatiada
+- ½ cebola fatiada
 - Sal a gosto
 - Azeite a gosto
 - Orégano a gosto

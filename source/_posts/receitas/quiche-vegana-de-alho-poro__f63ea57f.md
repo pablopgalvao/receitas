@@ -37,8 +37,8 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 xícara de chá de tofu drenado e amassado
-- 1/4 de xícara de chá de leite vegetal
-- Suco de 1/2 limão
+- ¼ de xícara de chá de leite vegetal
+- Suco de ½ limão
 - 1 colher de sopa de noz-moscada
 - --
 

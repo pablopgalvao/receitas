@@ -30,7 +30,7 @@ flags: []
 
 - 1 xícara de chá de arroz cru (200 gramas)
 - 4 ovos
-- 3/4 de xícara de chá de óleo (180 ml)
+- ¾ de xícara de chá de óleo (180 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 xícara de chá de queijo ralado (100 gramas)
 - 1 colher de sopa de fermento químico em pó (15 gramas)

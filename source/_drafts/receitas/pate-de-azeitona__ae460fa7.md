@@ -31,7 +31,7 @@ flags: []
 - 4 colheres de sopa de maionese
 - 2 colheres de sopa de requeijão cremoso
 - 150 gramas de azeitonas verdes sem caroço
-- 1/2 pacote de queijo parmesão ralado
+- ½ pacote de queijo parmesão ralado
 - 2 colheres de sopa de salsinha
 - --
 

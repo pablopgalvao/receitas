@@ -32,9 +32,9 @@ flags: []
 - 1 peça de pernil (aproximadamente 1,2 kg)
 - Cominho a gosto
 - 1 colher de café de semente de coentro
-- 1/2 colher de café de pimenta-do-reino
-- 1/2 colher de sobremesa de colorau
-- 2 e 1/2 xícara de chá de água (600 ml)
+- ½ colher de café de pimenta-do-reino
+- ½ colher de sobremesa de colorau
+- 2 e ½ xícara de chá de água (600 ml)
 - Salpique colorau e esprema o limão por cima, espalhando bem com as mãos dos dois lados da peça;
 - Junte o pernil à panela e, em seguida, os 600 ml de água. Tampe e deixe cozinhar por aproximadamente 20 minutos ou até ficar macio;
 

@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 colheres de sopa de óleo
-- 1/2 xícara de chá de açúcar (90 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
 - 1 xícara de chá de farinha de trigo (135 gramas)
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 2 colheres de chá de fermento em pó (10 gramas)
-- 1/2 colher de chá de essência de baunilha (opcional)
+- ½ colher de chá de essência de baunilha (opcional)
 - Em uma tigela, misture o ovo, o açúcar e o óleo até formar uma pastinha;
 - Acrescente a farinha de trigo e o fermento em pó, e incorpore até formar uma massa homogênea;
 - Unte uma forma pequena (16 cm de diâmetro) com óleo/manteiga e farinha de trigo;

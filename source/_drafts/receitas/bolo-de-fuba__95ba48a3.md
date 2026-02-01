@@ -31,9 +31,9 @@ flags: []
 
 - 4 ovos médios
 - 1 xícara de chá de óleo (240 ml)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 1 xícara de chá de leite (240 ml)
-- 1 e 1/2 xícara de chá de fubá mimoso (180 gramas)
+- 1 e ½ xícara de chá de fubá mimoso (180 gramas)
 - 1 xícara de chá de farinha de trigo (140 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 1 pitada de sal

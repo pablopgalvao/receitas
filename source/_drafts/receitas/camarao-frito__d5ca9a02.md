@@ -37,7 +37,7 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 1 colher de chá de tempero para carne
 - 1 xícara de chá de farinha de trigo sem fermento
-- 1/2 xícara de chá de farinha de rosca
+- ½ xícara de chá de farinha de rosca
 - Óleo para fritar
 - --
 

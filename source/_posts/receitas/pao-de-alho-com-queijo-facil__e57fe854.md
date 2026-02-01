@@ -33,7 +33,7 @@ flags: []
 - 1 pão italiano (comprido)
 - 180 gramas de queijo mussarela (ralado)
 - 200 gramas de requeijão
-- 1/2 xícara de chá de manteiga derretida
+- ½ xícara de chá de manteiga derretida
 - Cebolinha picada a gosto
 - 3 dentes de alho picados
 - 50 gramas de parmesão ralado

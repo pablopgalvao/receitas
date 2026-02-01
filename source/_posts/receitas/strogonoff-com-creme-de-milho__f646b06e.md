@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de óleo
 - 3 dentes de alho
 - 1 cebola
-- 1/2 colher de pimenta-do-reino a gosto
+- ½ colher de pimenta-do-reino a gosto
 - 1 colher de café de chimichurri a gosto
 - 1 colher de chá de sal
 - 1 colher de sopa de mostarda

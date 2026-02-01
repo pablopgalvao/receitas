@@ -31,14 +31,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de óleo
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 gomo de linguiça calabresa cortada em rodelas
 - 3 dentes de alho picados
 - 2 xícaras de chá de arroz
 - 1 cenoura ralada
 - 1 lata de milho escorrido
 - Cheiro-verde a gosto
-- 1/2 sachê de molho de tomate
+- ½ sachê de molho de tomate
 - Sal a gosto
 - 3 xícaras de chá de água quente
 - --

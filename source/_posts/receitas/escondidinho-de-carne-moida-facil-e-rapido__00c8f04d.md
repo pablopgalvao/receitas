@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 700 gramas de carne moída
-- 1/2 cebola
+- ½ cebola
 - 1 tomate
 - 1 xícara de chá de molho de tomate (240 gramas)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - 3 colheres de café rasas de sal (ou a gosto)
 - 400 gramas de queijo mussarela ralado
 - --

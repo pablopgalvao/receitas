@@ -30,11 +30,11 @@ flags: []
 
 - 6 batatas médias com casca (800 gramas)
 - 100 gramas de queijo tipo emmental (pode ser gouda, minas meia‑cura, canastra, parmesão ou outro)
-- 3/4 de tablete de manteiga (150 gramas)
-- 1/2 cebola grande
+- ¾ de tablete de manteiga (150 gramas)
+- ½ cebola grande
 - 1 colher de sopa de azeite (15 ml)
 - 1 colher de sal
-- 1/2 colher de chá de pimenta-do-reino branca
+- ½ colher de chá de pimenta-do-reino branca
 - --
 
 ---

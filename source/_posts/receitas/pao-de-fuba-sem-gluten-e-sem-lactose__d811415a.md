@@ -34,7 +34,7 @@ flags: []
 - 2 colheres de sopa de açúcar
 - 1 colher de chá de sal
 - 4 colheres de sopa de azeite
-- 1/3 de xícara de chá de água morna
+- ⅓ de xícara de chá de água morna
 - 1 ovo
 - --
 

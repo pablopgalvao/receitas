@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de milho de pipoca
 - 1 xícara de chá de açúcar cristal (200 gramas)
 - 1 xícara de chá de água em temperatura ambiente (240 ml)

@@ -36,7 +36,7 @@ flags: []
 - 1 pimentão amarelo grande cortado em rodelas finas
 - 1 cebola grande cortada em rodelas finas
 - 5 tomates picados sem pele e sem semente
-- 1/2 cebola média picada em cubos
+- ½ cebola média picada em cubos
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Azeite a gosto

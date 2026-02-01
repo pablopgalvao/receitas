@@ -37,8 +37,8 @@ flags: []
 - 1 tomate sem pele picado
 - 1 colher de sopa de azeite
 - Cheiro-verde a gosto picado
-- 1/2 lata de milho-verde (85 gramas)
-- 1/2 xícara de chá de molho de tomate
+- ½ lata de milho-verde (85 gramas)
+- ½ xícara de chá de molho de tomate
 - 1 colher de sopa de farinha de trigo
 - 3 cubos de caldo de galinha dissolvidos em água quente (conforme indicado na embalagem)
 - Azeitonas a gosto picadas

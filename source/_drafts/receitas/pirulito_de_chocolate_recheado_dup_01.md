@@ -31,10 +31,10 @@ flags: []
 
 - 1 xícara de chá de leite (240 ml)
 - 200 gramas de leite condensado (meia caixinha)
-- 1 e 1/2 colher de sopa de amido de milho (30 gramas)
+- 1 e ½ colher de sopa de amido de milho (30 gramas)
 - 1 colher de sopa de margarina (10 gramas)
 - 100 gramas de creme de leite (meia caixinha)
-- 1/2 xícara de chá de coco ralado em flocos (50 gramas)
+- ½ xícara de chá de coco ralado em flocos (50 gramas)
 - 300 gramas de cobertura fracionada meio amargo
 - 50 gramas de cobertura fracionada branca (para decorar)
 - Com uma colher, espalhe uma camada fina de chocolate nas cavidades da forma, garantindo que não fique muito grossa nem muito fina;

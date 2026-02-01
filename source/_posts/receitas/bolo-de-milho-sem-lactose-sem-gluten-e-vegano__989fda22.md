@@ -34,9 +34,9 @@ flags: []
 - 300 ml de água
 - 200 gramas de milho-verde cozido (drenado, se for do enlatado)
 - 2 xícaras de chá de fubá amarelo
-- 1/2 xícara de chá de farinha de linhaça
+- ½ xícara de chá de farinha de linhaça
 - 1 xícara de chá de açúcar demerara
-- 1/4 xícara de chá de óleo de coco derretido
+- ¼ xícara de chá de óleo de coco derretido
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Uma pitada de sal
 - Manteiga vegana (ou óleo) e fubá para untar

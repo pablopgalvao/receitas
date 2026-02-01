@@ -37,7 +37,7 @@ flags: []
 
 - 2 xícaras de chá de mix de farinhas sem glúten
 - 1 xícara de chá de água
-- 1/4 xícara de chá de amido de milho
+- ¼ xícara de chá de amido de milho
 - 1 colher de sopa de açúcar
 - 1 colher de chá de fermento biológico seco
 - 1 colher de sopa de psyllium

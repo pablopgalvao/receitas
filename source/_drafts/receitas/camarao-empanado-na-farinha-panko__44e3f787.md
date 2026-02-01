@@ -34,8 +34,8 @@ flags: []
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - 1 xícara de chá de farinha panko (65 gramas)
-- 1/2 xícara de chá de farinha de trigo (60 gramas)
-- 1/2 xícara de chá de fubá (55 gramas)
+- ½ xícara de chá de farinha de trigo (60 gramas)
+- ½ xícara de chá de fubá (55 gramas)
 - 1 colher de amido de milho
 - 2 ovos
 - 900 ml de óleo para fritar

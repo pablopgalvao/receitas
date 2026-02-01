@@ -37,7 +37,7 @@ flags: []
 - 1 cabeça de alho
 - Azeite a gosto
 - Sal e pimenta-do-reino a gosto
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Salsinha e cebolinha a gosto
 - 1 colher de sopa de mostarda
 - --

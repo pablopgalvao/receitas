@@ -35,7 +35,7 @@ flags: []
 - 1 pitada de noz-moscada
 - Sal e pimenta-do-reino a gosto
 - 500 gramas de massa seca para lasanha
-- 3/4 xícara de chá de queijo parmesão ralado
+- ¾ xícara de chá de queijo parmesão ralado
 - --
 
 ---

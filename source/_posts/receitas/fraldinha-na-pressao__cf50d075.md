@@ -33,10 +33,10 @@ flags: []
 - 2 cenouras médias (cerca de 300 gramas)
 - 6 dentes de alho
 - 5 tomates médios (cerca de 400 gramas)
-- 1/2 xícara de chá de de shoyu (120 ml)
+- ½ xícara de chá de de shoyu (120 ml)
 - 30 ml de azeite (ou a gosto)
-- 1/2 colher de sopa de pimenta-do-reino (ou a gosto)
-- 1 e 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de sopa de pimenta-do-reino (ou a gosto)
+- 1 e ½ colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de cheiro-verde
 - 500 gramas de batata bolinha
 - --

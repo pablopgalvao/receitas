@@ -31,8 +31,8 @@ flags: []
 
 - 1 kg de patinho moído
 - 1 pacote de creme de cebola (60 gramas)
-- 1/2 colher de sopa de cebolinha
-- 1/2 colher de sopa de salsinha
+- ½ colher de sopa de cebolinha
+- ½ colher de sopa de salsinha
 - 1 colher de café de páprica defumada
 - 1 colher de café de pimenta-do-reino
 - 1 colher de café de lemon pepper

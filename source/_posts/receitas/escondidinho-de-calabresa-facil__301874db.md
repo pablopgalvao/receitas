@@ -31,7 +31,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 batatas descascadas, cortadas em cubos e cozidas
-- 1/4 de xícara chá de leite
+- ¼ de xícara chá de leite
 - 1 colher de sopa de manteiga
 - Sal a gosto
 - Mussarela e parmesão ralados a gosto

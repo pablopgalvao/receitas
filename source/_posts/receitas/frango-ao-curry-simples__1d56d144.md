@@ -40,7 +40,7 @@ flags: []
 - 1 cebola picada em cubos médios
 - 2 colheres de sopa de curry
 - 200ml de leite de coco
-- 1/2 xícara de chá de creme de leite fresco
+- ½ xícara de chá de creme de leite fresco
 - Cheiro verde a gosto
 - --
 

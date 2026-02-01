@@ -32,7 +32,7 @@ flags: []
 - 1 canela em pau
 - 4 dentes de cravo
 - 1 xícara de sagu (180 gramas)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 750 ml de vinho tinto seco
 - --
 

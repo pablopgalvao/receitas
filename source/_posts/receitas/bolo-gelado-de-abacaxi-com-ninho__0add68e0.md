@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 colheres de sopa de amido de milho
-- 1/2 xícara de chá de leite
-- 1/2 caixinha de leite condensado
-- 1/2 xícara de chá de açúcar
+- ½ xícara de chá de leite
+- ½ caixinha de leite condensado
+- ½ xícara de chá de açúcar
 - 1 caixinha de creme de leite
 - 6 colheres de sopa de leite Ninho em pó
-- 1/2 colher de sopa de manteiga (ou margarina)
+- ½ colher de sopa de manteiga (ou margarina)
 - --
 
 ---

@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 800 gramas de abóbora cabotiá
-- 1/2 xícara de chá de coco em flocos (50 gramas)
-- 1 e 1/3 xícara de chá de açúcar refinado (250 gramas)
-- 3/4 xícara de chá de água (200 ml)
+- ½ xícara de chá de coco em flocos (50 gramas)
+- 1 e ⅓ xícara de chá de açúcar refinado (250 gramas)
+- ¾ xícara de chá de água (200 ml)
 - 1 canela em pau
 - --
 

@@ -33,8 +33,8 @@ flags: []
 - 150 gramas de ricota
 - 1 xícara de chá de frango cozido e desfiado
 - 2 colheres de sopa de cebolinha picada
-- Suco de 1/2 limão
-- 1/2 colher de chá de sal a gosto
+- Suco de ½ limão
+- ½ colher de chá de sal a gosto
 - Molho pesto ou passata de tomate a gosto
 - --
 

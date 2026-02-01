@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 200 gramas de batata-doce cozida e sem casca
-- 1 e 1/2 xícara de chá de polvilho azedo
-- 1/2 colher de sopa (rasa) de sal
-- 1/2 xícara de chá de água morna
+- 1 e ½ xícara de chá de polvilho azedo
+- ½ colher de sopa (rasa) de sal
+- ½ xícara de chá de água morna
 - 1 colher de sopa de chia
 - --
 

@@ -35,8 +35,8 @@ flags: []
 - Corante amarelo a gosto
 - 4 pacotinhos de bolacha de maisena
 - 400 ml de chantilly bem gelado
-- 1/4 de xícara de chá de leite em pó
-- 1/4 de xícara de chá de leite condensado
+- ¼ de xícara de chá de leite em pó
+- ¼ de xícara de chá de leite condensado
 - --
 
 ---

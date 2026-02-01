@@ -29,11 +29,11 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
-- 1/2 pacotinho de fermento biológico para pão (5 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (300 gramas)
+- ½ pacotinho de fermento biológico para pão (5 gramas)
 - 1 colher de café de sal
 - 3 colheres de sopa de açúcar
-- 1/4 de xícara de chá de leite integral (60 ml)
+- ¼ de xícara de chá de leite integral (60 ml)
 - 8 colheres de sopa de manteiga sem sal (120 gramas)
 - 2 colheres de sopa de gergelim (opcional)
 - 1 colher de leite integral

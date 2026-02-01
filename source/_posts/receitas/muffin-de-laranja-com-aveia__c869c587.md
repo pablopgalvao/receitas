@@ -30,7 +30,7 @@ flags: []
 
 - 1 laranja
 - 3 ovos
-- 1/2 xícara de chá de açúcar demerara ou adoçante
+- ½ xícara de chá de açúcar demerara ou adoçante
 - 1 colher de chá de essência de baunilha
 - 113 gramas de farinha de aveia ou amêndoas
 - 1 colher de chá de fermento químico em pó (fermento para bolo)

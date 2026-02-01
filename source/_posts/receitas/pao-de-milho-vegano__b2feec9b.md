@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água
+- ½ xícara de chá de água
 - 2 colheres de sopa de açúcar
 - 1 colher de chá de fermento biológico seco
 - 200 gramas de milho cozido ou em lata
-- 1/2 xícara de chá de água
-- 1 e 1/2 colher de chá sal
+- ½ xícara de chá de água
+- 1 e ½ colher de chá sal
 - 4 xícaras de chá farinha de trigo
 - 3 colheres de sopa azeite ou óleo
 - 1 colher de chá de cúrcuma

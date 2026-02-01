@@ -31,7 +31,7 @@ flags: []
 
 - 200 ml de água
 - 100 ml de leite de aveia
-- 1/2 colher de chá de canela em pó (ou 1 pau de canela)
+- ½ colher de chá de canela em pó (ou 1 pau de canela)
 - 1 colher de chá de mel ou pasta de tâmaras (opcional)
 - Sirva em uma caneca, finalize com raspas de maçã fresca ou uma pitada de canela por cima. Ideal para um momento de presença e aconchego!
 

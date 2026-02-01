@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de leite em pó (220 gramas)
-- 1/3 de xícara de chá de café solúvel (40 gramas)
-- 1/2 xícara de chá de açúcar (90 gramas)
-- 1/3 xícara de chá de chocolate em pó 50% cacau (40 gramas)
-- 1/2 colher de chá (cheia) de bicarbonato
+- ⅓ de xícara de chá de café solúvel (40 gramas)
+- ½ xícara de chá de açúcar (90 gramas)
+- ⅓ xícara de chá de chocolate em pó 50% cacau (40 gramas)
+- ½ colher de chá (cheia) de bicarbonato
 - Canela em pó a gosto
 - --
 

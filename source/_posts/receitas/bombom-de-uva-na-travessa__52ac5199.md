@@ -31,7 +31,7 @@ flags: []
 - 2 latas de leite condensado
 - 1 colher de sopa de manteiga
 - 200 gramas de chocolate meio amargo
-- 1 e 1/2 caixa de creme de leite
+- 1 e ½ caixa de creme de leite
 - 500 gramas de uva sem semente
 - --
 
@@ -41,7 +41,7 @@ flags: []
 
 1. Reúna todos os ingredientes do bombom de uva na travessa;
 2. Em uma panela, coloque o leite condensado, a manteiga e leve ao fogo médio, mexendo sempre até soltar do fundo da panela;
-3. Deixe esfriar, adicione 1/2 caixinha de creme de leite, misture e reserve;
+3. Deixe esfriar, adicione ½ caixinha de creme de leite, misture e reserve;
 4. Derreta o chocolate no micro-ondas ou em banho-maria;
 5. Adicione o creme de leite e misture bem até formar uma ganache;
 6. Em uma travessa, despeje todo creme branco e faça uma camada de uvas por cima do creme;

@@ -29,10 +29,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 abobrinhas pequenas (600 gramas)
-- 1/2 colher de café de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de páprica defumada (ou a gosto)
-- 1/2 colher de chá de tomilho desidratado (ou a gosto)
+- ½ colher de café de sal (ou a gosto)
+- ½ colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de páprica defumada (ou a gosto)
+- ½ colher de chá de tomilho desidratado (ou a gosto)
 - 1 colher de sopa de vinagre (qualquer tipo de vinagre)
 ---
 

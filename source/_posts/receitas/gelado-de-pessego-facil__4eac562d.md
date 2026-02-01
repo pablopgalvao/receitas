@@ -34,7 +34,7 @@ flags: []
 - 1 lata de leite condensado
 - 1 lata de creme de leite com soro
 - 1 colher de chá de extrato de baunilha
-- 1/2 xícara de chá de leite integral
+- ½ xícara de chá de leite integral
 - --
 
 ---

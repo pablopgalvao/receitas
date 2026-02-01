@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abacate
+- ½ abacate
 - Gotas de limão a gosto
 - Azeite, sal e pimenta-do-reino a gosto
 - --

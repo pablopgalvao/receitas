@@ -30,10 +30,10 @@ flags: []
 
 - 1 ovo médio
 - 1 colher de sopa de açúcar cristal
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 3 colheres de chá de fermento químico em pó (fermento para bolo)
-- 1 e 1/2 de xícara de chá de farinha de trigo (195 gramas)
-- 1 e 1/4 de xícara de chá de água (300 ml)
+- 1 e ½ de xícara de chá de farinha de trigo (195 gramas)
+- 1 e ¼ de xícara de chá de água (300 ml)
 - 2 colheres de sopa de azeite de oliva ou óleo
 - --
 

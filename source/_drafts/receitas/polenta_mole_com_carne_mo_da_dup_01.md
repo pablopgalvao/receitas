@@ -41,7 +41,7 @@ flags: []
 - 1 colher de sopa de azeite
 - 1 cebola grande picada
 - 200 gramas de carne moída
-- 1 tablete de caldo de carne dissolvido em 1/2 xícara de chá de água quente
+- 1 tablete de caldo de carne dissolvido em ½ xícara de chá de água quente
 - 3 tomates maduros sem sementes picados
 - 1 colher de sopa de manjericão
 - 5 xícaras de chá de água (1,2 litro)

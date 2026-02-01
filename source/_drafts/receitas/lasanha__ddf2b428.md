@@ -44,7 +44,7 @@ flags: []
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Utilizamos patinho, porém você pode usar outra carne moída. Escolha o molho de tomate de sua preferência (caseiro ou de sachê), ou coloque 1/4 de xícara de chá de extrato de tomate para 300 ml de água;
+1. Utilizamos patinho, porém você pode usar outra carne moída. Escolha o molho de tomate de sua preferência (caseiro ou de sachê), ou coloque ¼ de xícara de chá de extrato de tomate para 300 ml de água;
 2. Em uma panela antiaderente, esquente um fio de azeite em fogo médio. Adicione a carne moída e deixe refogar por 10 minutos, ou até ficar douradinha, mexendo de vez em quando;
 3. Quando a carne estiver douradinha, adicione o molho de tomate, o sal, o orégano e a pimenta. Se preferir, adicione outros temperos, como manjericão, tomilho e páprica picante;
 4. Em outra panela, coloque água e cozinhe a massa para lasanha seguindo as instruções da embalagem;

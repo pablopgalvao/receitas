@@ -28,12 +28,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 banana bem madura
+- 1 e ½ banana bem madura
 - 2 ovos grandes (ou 3 pequenos)
 - 2 colheres de sopa de óleo de coco (de girassol ou manteiga ghee)
-- 1/2 xícara de chá de amido de milho (ou fécula de batata)
-- 1/2 xícara de chá de farinha de amêndoas (ou de amendoim, ou de castanha de caju, ou do Pará)
-- 1/2 cenoura ralada fina
+- ½ xícara de chá de amido de milho (ou fécula de batata)
+- ½ xícara de chá de farinha de amêndoas (ou de amendoim, ou de castanha de caju, ou do Pará)
+- ½ cenoura ralada fina
 - 1 colher de chá de vinagre de maçã
 - 1 colher de chá de bicarbonato de sódio (ou fermento químico)
 - 1 colher de sopa de mel (ou melado, ou açúcar mascavo)

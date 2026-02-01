@@ -29,17 +29,17 @@ flags: []
 ## 🧄 Ingredientes
 
 - 153 gramas de esponja (ou fermento natural)
-- 2 e 1/4 de xícaras de chá de farinha de trigo (300 gramas)
-- 3/4 de xícara de chá de água (180 ml)
+- 2 e ¼ de xícaras de chá de farinha de trigo (300 gramas)
+- ¾ de xícara de chá de água (180 ml)
 - 1 colher de sopa de azeite de oliva (15 gramas)
-- 1/2 colher de sopa de sal (8 gramas)
+- ½ colher de sopa de sal (8 gramas)
 - --
 
 ---
 
 ## 👨‍🍳 Modo de Preparo
 
-1. Comece preparando o pré-fermento, também conhecido como esponja. Para dividir 1/3 do sachê de fermento, despeje-o em uma tábua seca e divida em 3 partes iguais. Guarde duas partes no saquinho novamente por até 15 dias na geladeira;
+1. Comece preparando o pré-fermento, também conhecido como esponja. Para dividir ⅓ do sachê de fermento, despeje-o em uma tábua seca e divida em 3 partes iguais. Guarde duas partes no saquinho novamente por até 15 dias na geladeira;
 2. Em uma tigela grande de vidro, junte a farinha de trigo e o fermento biológico. Misture com uma espátula ou colher. Acrescente a água em temperatura ambiente e mexa bastante até obter uma textura pastosa;
 3. Cubra com um pano limpo e reserve por 30 minutos. A massa crescerá e formará bolhas;
 4. Retire o pano e adicione o restante da farinha de trigo e o sal. Misture com uma colher. Acrescente a água e o azeite de oliva. Incorpore todos os ingredientes e misture bem - se a massa ficar muito firme, adicione mais um pouco de água;

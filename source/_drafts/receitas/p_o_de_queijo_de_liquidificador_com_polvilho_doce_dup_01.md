@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de polvilho doce
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 180 ml de leite
 - 2 ovos médios
 - Sal a gosto

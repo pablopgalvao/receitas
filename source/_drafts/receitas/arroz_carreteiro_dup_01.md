@@ -35,9 +35,9 @@ flags: []
 - 250 gramas de linguiça calabresa
 - 70 gramas de bacon em cubos
 - 2 colheres de sopa de óleo
-- 1/2 cebola (60 gramas)
+- ½ cebola (60 gramas)
 - 2 dentes de alho (10 gramas)
-- 1/2 xícara de chá de salsinha fresca (50 gramas)
+- ½ xícara de chá de salsinha fresca (50 gramas)
 - Pimenta-do-reino a gosto
 - Em uma chaleira, coloque 4 xícaras de chá de água para ferver em fogo baixo;
 - Leve uma panela ao fogo médio e aqueça o óleo. Adicione o bacon e a linguiça calabresa. Frite por aproximadamente 5 minutos, ou até dourar levemente. Mexa de vez em quando para não queimar;

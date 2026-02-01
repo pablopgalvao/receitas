@@ -34,7 +34,7 @@ flags: []
 - 1 ramo de alecrim fresco
 - 1 ramo de tomilho fresco
 - 2 ramos de manjericão fresco
-- 1/2 colher de chá de sal marinho
+- ½ colher de chá de sal marinho
 - --
 
 ---

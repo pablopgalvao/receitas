@@ -31,7 +31,7 @@ flags: []
 
 - 4 colheres de sopa de azeite
 - 1 colher de sopa de queijo parmesão ralado
-- 1/2 caixa de creme de leite (100 ml)
+- ½ caixa de creme de leite (100 ml)
 - Agora é só temperar sua salada ou armazenar em um pote hermético na geladeira. Bom apetite!
 
 ---

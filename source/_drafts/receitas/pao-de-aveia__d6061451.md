@@ -32,11 +32,11 @@ flags: []
 - 1 xícara de chá de polvilho doce
 - 1 colher de sopa de açúcar mascavo
 - 1 colher de sopa de fermento biológico seco instantâneo
-- 1/4 de colher de chá de goma xantana
+- ¼ de colher de chá de goma xantana
 - 1 ovo
 - 1 colher de chá de sal
 - 1 xícara de chá de água morna
-- 1/3 de xícara de chá de mix de castanhas (opcional)
+- ⅓ de xícara de chá de mix de castanhas (opcional)
 - --
 
 ---

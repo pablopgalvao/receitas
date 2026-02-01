@@ -41,7 +41,7 @@ flags: []
 - Requeijão cremoso a gosto
 - Mussarela a gosto
 - Queijo parmesão ralado a gosto
-- 1/2 cebola pequena picada
+- ½ cebola pequena picada
 - 2 dentes de alho triturado
 - 2 colheres de sopa de óleo
 - 1 sachê de tempero para frango

@@ -29,12 +29,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1/2 xícara de chá de leite de coco
+- ½ xícara de chá de leite de coco
 - 1 xícara de chá de água
 - 4 colheres de sopa de azeite de oliva
-- 1 e 1/2 xícara de chá de farinha de arroz
-- 1/2 xícara de chá de polvilho doce
-- 1/2 xícara de chá de fubá
+- 1 e ½ xícara de chá de farinha de arroz
+- ½ xícara de chá de polvilho doce
+- ½ xícara de chá de fubá
 - 1 colher de sopa de açúcar demerara
 - 1 colher de chá de sal marinho, ou mais, se preferir
 - 1 colher de sopa de fermento biológico seco
@@ -44,7 +44,7 @@ flags: []
 
 ## 👨‍🍳 Modo de Preparo
 
-1. O leite de coco culinário possui alto teor de gordura, que garante cremosidade às receitas, por isso, nessa receita, precisa ser complementado com água. Se preferir, utilize 1 e 1/2 xícara de leite de coco caseiro;
+1. O leite de coco culinário possui alto teor de gordura, que garante cremosidade às receitas, por isso, nessa receita, precisa ser complementado com água. Se preferir, utilize 1 e ½ xícara de leite de coco caseiro;
 2. Em um recipiente, misture o leite de coco na água para incorporar. No liquidificador, junte todos os ingredientes, exceto o fermento. Bata por 2 minutos até virar um creme homogêneo;
 3. A consistência da massa é molinha e cremosa. Não adicione mais farinha, pois o pão ficará muito duro. Com o liquidificador desligado, acrescente o fermento. Mexa com uma colher ou espátula;
 4. Unte e enfarinhe, com azeite e farinha de arroz, uma forma de bolo inglês (22 cm X 10 cm). Despeje a massa e, com as mãos, bata nas laterais da forma para tirar o ar. Faltando 15 minutos para assar, preaqueça o forno a 180 ºC;

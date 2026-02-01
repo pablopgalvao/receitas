@@ -33,18 +33,18 @@ flags: []
 - 200 gramas de alcatra
 - 1 cebola grande (80 gramas)
 - 1 cenoura média (80 gramas)
-- 1/2 brócolis (70 gramas)
-- 1/2 acelga (120 gramas)
+- ½ brócolis (70 gramas)
+- ½ acelga (120 gramas)
 - 300 gramas de macarrão para yakisoba
 - 100 ml de shoyu
-- 1/2 e 1/3 de xícara de chá de água (150 ml)
+- ½ e ⅓ de xícara de chá de água (150 ml)
 - 3 colheres chá de amido de milho (20 gramas)
 - 1 colher de sopa de açúcar
 - 3 colheres de sopa de molho de ostra (30 ml)
 - 5 ml de óleo de gergelim
 - 5 gramas de gengibre ralado (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - --
 
 ---

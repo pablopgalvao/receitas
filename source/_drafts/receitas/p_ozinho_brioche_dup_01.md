@@ -30,16 +30,16 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de farinha de trigo (140 gramas)
-- 1/4 de xícara de chá de açúcar (50 gramas)
+- ¼ de xícara de chá de açúcar (50 gramas)
 - 10 gramas de fermento biológico seco
-- 3/4 de xícara de chá + 2 colheres de chá de água morna (190 ml)
-- 4 e 1/2 xícaras de chá de farinha de trigo (630 gramas)
-- 3/4 xícaras de chá + 2 colheres de chá de leite (190 ml)
-- 3/4 xícara de chá de açúcar (150 gramas)
-- 1/3 de xícara de chá de margarina ou manteiga (60 gramas)
+- ¾ de xícara de chá + 2 colheres de chá de água morna (190 ml)
+- 4 e ½ xícaras de chá de farinha de trigo (630 gramas)
+- ¾ xícaras de chá + 2 colheres de chá de leite (190 ml)
+- ¾ xícara de chá de açúcar (150 gramas)
+- ⅓ de xícara de chá de margarina ou manteiga (60 gramas)
 - 2 colheres de chá de sal (10 gramas)
 - 1 colher de sopa de leite (15 ml)
-- 1/2 colher de sopa de açúcar refinado
+- ½ colher de sopa de açúcar refinado
 - Em uma tigela, coloque a farinha, o fermento, o açúcar e misture para incorporar. Adicione a água morna (se estiver quente, pode matar o fermento) e mexa até dissolver totalmente os ingredientes sólidos;
 - Após o crescimento da esponja, junte o leite e o açúcar. Quebre um ovo em um recipiente pequeno e transfira para a tigela. Quebre os outros ovos, separe as claras e adicione apenas as gemas. Mexa bem;
 - Misture o sal com a farinha e, aos poucos, despeje na tigela, mexendo a massa com as mãos até ela ficar homogênea. Acrescente a margarina ou manteiga e incorpore com as mãos à massa. Adicione mais um pouco de farinha até que a massa fique firme e consistente;

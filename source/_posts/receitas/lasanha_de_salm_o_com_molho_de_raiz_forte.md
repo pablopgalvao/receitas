@@ -51,7 +51,7 @@ flags: []
 - 1 colher (sopa) de cebolinha francesa picada
 - 1 colher (sopa) de queijo parmesão ralado
 - ½ colher (sopa) de pimenta rosa para enfeitar
-- No refratário, espalhe uma camada fina de molho. Arrume 3 folhas de lasanha paralelamente e espalhe metade do salmão por cima. Polvilhe com 1/3 da ricota. Regue com mais um pouco do molho. Cubra com mais 3 folhas de lasanha no mesmo sentido das anteriores. Espalhe o restante do salmão, polvilhe com mais 1/3 da ricota e regue com mais um pouco de molho. Coloque a última camada de lasanha e espalhe o restante do molho de maneira uniforme. Polvilhe com a ricota restante e com o queijo parmesão.
+- No refratário, espalhe uma camada fina de molho. Arrume 3 folhas de lasanha paralelamente e espalhe metade do salmão por cima. Polvilhe com ⅓ da ricota. Regue com mais um pouco do molho. Cubra com mais 3 folhas de lasanha no mesmo sentido das anteriores. Espalhe o restante do salmão, polvilhe com mais ⅓ da ricota e regue com mais um pouco de molho. Coloque a última camada de lasanha e espalhe o restante do molho de maneira uniforme. Polvilhe com a ricota restante e com o queijo parmesão.
 
 ---
 

@@ -30,7 +30,7 @@ flags: []
 
 - 1 lata de milho-verde (170 gramas - sem água)
 - 2 xícaras de chá de leite (480 ml)
-- 1/3 de xícara de chá de açúcar (70 gramas)
+- ⅓ de xícara de chá de açúcar (70 gramas)
 - 1 colher de sopa de amido de milho (10 gramas)
 - 1 colher de chá de canela em pó (ou a gosto)
 - --

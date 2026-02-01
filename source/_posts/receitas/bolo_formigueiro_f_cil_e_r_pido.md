@@ -30,9 +30,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de açúcar (200 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de leite (240 ml)
-- 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (300 gramas)
 - 1 colher de sopa de fermento em pó (fermento para bolo)
 - 1 colher de café de essência de baunilha ou a gosto (opcional)
 - 1 xícara de chá de granulado (150 gramas)

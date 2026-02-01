@@ -31,14 +31,14 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 xícara de chá de proteína de soja texturizada
-- 2 e 1/2 xícara de chá de água fervente para hidratar
+- 2 e ½ xícara de chá de água fervente para hidratar
 - 2 colheres de sopa de vinagre
 - 2 colheres de sopa de azeite
 - 1 colher de café de cominho em pó
 - 1 colher de café de páprica defumada
 - 1 colher de café de orégano
 - 3 folhas de louro
-- 1/2 cebola média
+- ½ cebola média
 - 4 dentes de alho
 - 1 colher de sopa de shoyu
 - 1 xícara de chá de molho de tomate

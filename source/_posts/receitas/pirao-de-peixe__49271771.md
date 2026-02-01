@@ -34,7 +34,7 @@ flags: []
 - 250 gramas de farinha de mandioca
 - 2 tomates maduros picados
 - 2 cebolas picadas
-- 1/2 pimentão picado
+- ½ pimentão picado
 - 3 tabletes de caldo de camarão
 - 2 colheres de sopa de colorau
 - 1 pimenta-de-cheiro picada

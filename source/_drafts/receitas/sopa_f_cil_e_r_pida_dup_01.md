@@ -31,7 +31,7 @@ flags: []
 
 - 250 gramas de carne moída
 - 1 colher de chá de sal (ou a gosto)
-- 1/2 colher de chá de páprica (ou a gosto)
+- ½ colher de chá de páprica (ou a gosto)
 - 150 gramas de macarrão ave-maria
 - Acrescente à panela todos os legumes e o macarrão. Despeje 1,5 litros de água fria até cobrir todos os ingredientes, misture mais uma vez e acerte o sal, se necessário;
 

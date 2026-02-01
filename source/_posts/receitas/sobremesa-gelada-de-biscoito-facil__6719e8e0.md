@@ -33,7 +33,7 @@ flags: []
 - 1 lata de leite condensado gelado (395 gramas)
 - 24 biscoitos de leite
 - Leite para molhar os biscoitos
-- 1 e 1/2 xícara de chá de chocolate meio amargo picado
+- 1 e ½ xícara de chá de chocolate meio amargo picado
 - 1 caixinha de creme de leite (200 gramas)
 - Paçoquinha esfarelada a gosto
 - --

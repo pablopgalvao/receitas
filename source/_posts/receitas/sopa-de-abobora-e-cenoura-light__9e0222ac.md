@@ -33,7 +33,7 @@ flags: []
 
 - 2 colheres de sopa de azeite de oliva (ou óleo de coco)
 - 3 dentes de alho picados
-- 1/2 cebola picada
+- ½ cebola picada
 - 1 colher de chá de sal
 - 2 xícaras de chá de abóbora cabotiá picada
 - 1 xícara de chá de cenoura picada

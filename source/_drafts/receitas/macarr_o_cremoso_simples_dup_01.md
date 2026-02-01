@@ -32,11 +32,11 @@ flags: []
 - 150 gramas de bacon
 - 1 colher de chá de pimenta-calabresa
 - 1 colher de chá de páprica
-- 1/2 xícara de chá de extrato de tomate (120 gramas)
+- ½ xícara de chá de extrato de tomate (120 gramas)
 - 1 xícara de chá de vinho branco (240 ml)
 - 1 caixinha de creme de leite (200 gramas)
 - 300 gramas de macarrão fidelinho
-- 1/2 colher de sopa de sal (ou a gosto)
+- ½ colher de sopa de sal (ou a gosto)
 - 4 colheres de sopa de queijo parmesão ralado (ou a gosto)
 - 3 colheres de sopa de salsinha (ou a gosto)
 - Descasque a cebola e corte ela e o bacon em cubinhos. Pique o tomate seco em pedaços menores e corte a salsinha finamente;

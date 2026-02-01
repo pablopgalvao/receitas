@@ -44,6 +44,6 @@ flags: []
 
 1. Organize sua bancada com os ingredientes necessários;
 2. Numa frigideira quente, adicione azeite a gosto. Agora, disponha sobre ela os filés de frango, mas sem sobreposição;
-3. Em seguida, tempere com sal, pimenta-do-reino e o suco de 1/2 laranja. Deixe grelhar por cerca de 3 a 4 minutos, virando, para que o outro lado fique douradinho também;
+3. Em seguida, tempere com sal, pimenta-do-reino e o suco de ½ laranja. Deixe grelhar por cerca de 3 a 4 minutos, virando, para que o outro lado fique douradinho também;
 4. Tempere com mais sal, pimenta-do-reino e o suco da outra metade da laranja. Deixe grelhando por cerca de mais 3 a 4 minutinhos;
 5. E está pronto! Uma carne branca suculenta por dentro e com um sabor sem igual.

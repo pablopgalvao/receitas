@@ -30,13 +30,13 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de água
-- 1/4 xícara de chá de leite
-- 1/4 xícara de chá de óleo
+- ½ xícara de chá de água
+- ¼ xícara de chá de leite
+- ¼ xícara de chá de óleo
 - 5 gramas de fermento biológico seco
-- 1/4 xícara de chá de açúcar
+- ¼ xícara de chá de açúcar
 - 1 ovo
-- 1/2 colher de chá de sal
+- ½ colher de chá de sal
 - 400 gramas de farinha de trigo
 - Nutella a gosto
 - Açúcar de confeiteiro para polvilhar

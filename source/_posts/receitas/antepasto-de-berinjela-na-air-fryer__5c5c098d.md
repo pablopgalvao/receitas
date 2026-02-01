@@ -35,9 +35,9 @@ flags: []
 - 1 pimentão amarelo
 - 1 cebola grande
 - 2 dentes de alho
-- 1/3 de xícara de chá de azeite (80ml)
-- 1/3 de xícara de chá de vinagre de vinho tinto (80ml)
-- 1/3 de xícara de chá de shoyu (80ml)
+- ⅓ de xícara de chá de azeite (80ml)
+- ⅓ de xícara de chá de vinagre de vinho tinto (80ml)
+- ⅓ de xícara de chá de shoyu (80ml)
 - 1 colher de café de sal (ou a gosto)
 - 1 colher de sopa de orégano
 - 1 xícara de chá de uva passa (opcional)

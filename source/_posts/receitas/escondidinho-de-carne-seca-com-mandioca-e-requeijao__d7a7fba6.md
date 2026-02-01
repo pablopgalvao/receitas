@@ -34,9 +34,9 @@ flags: []
 - 1 pacote de queijo parmesão ralado
 - 2 colheres de sopa de manteiga
 - 1 cebola média
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 1 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cheiro-verde picado (ou a gosto)
 - --
 

@@ -37,8 +37,8 @@ flags: []
 - 150 gramas de queijo mussarela
 - Cebolinha a gosto
 - 1 xícara de chá de ervilha (80 gramas)
-- 2/3 de xícara de chá de queijo parmesão ralado (60 gramas)
-- 1/4 de xícara de chá de cheiro-verde picado (15 gramas)
+- ⅔ de xícara de chá de queijo parmesão ralado (60 gramas)
+- ¼ de xícara de chá de cheiro-verde picado (15 gramas)
 - Adicione o arroz cru e refogue por 2 minutos, mexendo sempre. Acrescente a água e o sal, ajustando conforme a necessidade;
 
 ---

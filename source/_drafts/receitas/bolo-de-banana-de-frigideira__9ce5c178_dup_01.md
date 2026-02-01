@@ -30,7 +30,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 banana amassada grosseiramente
+- ½ banana amassada grosseiramente
 - 1 ovo
 - 1 colher de sopa de farelo de aveia
 - Canela a gosto

@@ -31,8 +31,8 @@ flags: []
 
 - 1 sachê de maionese (200 gramas)
 - 1 dente de alho pequeno
-- 1/2 xícara de chá de salsinha (ou a gosto)
-- 1/2 xícara de chá de cebolinha (ou a gosto)
+- ½ xícara de chá de salsinha (ou a gosto)
+- ½ xícara de chá de cebolinha (ou a gosto)
 - Sal a gosto
 - --
 

@@ -32,8 +32,8 @@ flags: []
 - 2 sachês de chá de alcarávia, funcho e camomila
 - 200 ml de água
 - 100 ml de leite de aveia
-- 1/2 maçã (tipo fuji ou gala) picada em cubos pequenos
-- 1/2 colher de chá de canela em pó (ou 1 pau de canela)
+- ½ maçã (tipo fuji ou gala) picada em cubos pequenos
+- ½ colher de chá de canela em pó (ou 1 pau de canela)
 - 1 colher de chá de mel ou pasta de tâmaras (opcional)
 - Raspas de maçã ou canela em pó para finalizar
 - --

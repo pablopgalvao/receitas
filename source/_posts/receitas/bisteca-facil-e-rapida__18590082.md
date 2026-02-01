@@ -29,8 +29,8 @@ flags: []
 ## 🧄 Ingredientes
 
 - 5 bistecas suínas
-- 1 e 1/2 colher de chá de sal
-- 1/2 colher de chá de pimenta-do-reino
+- 1 e ½ colher de chá de sal
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de chá de páprica doce
 - 2 cebolas médias
 - 2 colheres de sopa de vinagre de álcool

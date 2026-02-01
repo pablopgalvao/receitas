@@ -37,15 +37,15 @@ flags: []
 - 1 cebola média
 - 1 vidro de palmito (300 gramas)
 - 1 lata de milho (170 gramas escorrido)
-- 1/2 xícara de chá de ervilha congelada (60 gramas)
-- 1/3 de xícara de chá de azeitona verde picada (40 gramas)
+- ½ xícara de chá de ervilha congelada (60 gramas)
+- ⅓ de xícara de chá de azeitona verde picada (40 gramas)
 - Suco de 1 limão siciliano (ou a gosto)
 - 1 colher de sopa de mostarda
 - Pimenta-do-reino a gosto
 - 1 colher de chá de lemon pepper (opcional)
 - Sal a gosto
 - 1 vidro de maionese (500 gramas)
-- 1/2 xícara de chá de cheiro-verde picado (salsinha e cebolinha)
+- ½ xícara de chá de cheiro-verde picado (salsinha e cebolinha)
 - 1 colher de sopa de azeite de oliva
 - Batata palha (100 gramas)
 - --

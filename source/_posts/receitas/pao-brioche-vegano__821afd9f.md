@@ -34,8 +34,8 @@ flags: []
 - 2 colheres de sopa de azeite
 - 1 colher de sopa de açúcar
 - 1 colher de chá de sal
-- 1/2 colher de chá de melado de cana
-- 1/2 colher de chá de mostarda
+- ½ colher de chá de melado de cana
+- ½ colher de chá de mostarda
 - --
 
 ---

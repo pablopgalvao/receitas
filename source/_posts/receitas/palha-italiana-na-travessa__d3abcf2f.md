@@ -31,7 +31,7 @@ flags: []
 - 2 latas de leite condensado
 - 250 gramas de chocolate ao leite
 - 1 colher de sopa de manteiga
-- 1/2 caixa de creme de leite (100 gramas)
+- ½ caixa de creme de leite (100 gramas)
 - 80 ml de conhaque
 - 185 gramas de bolacha maisena
 - 100 gramas de granulado para decorar
@@ -45,6 +45,6 @@ flags: []
 2. Em uma panela grande, coloque o leite condensado, o chocolate ao leite e a manteiga. Leve ao fogo médio e mexa sem parar por cerca de 8 minutos, até obter um brigadeiro cremoso que desgrude do fundo da panela;
 3. Desligue o fogo, acrescente o creme de leite e mexa para incorporar. Reserve;
 4. Coloque o conhaque em um prato fundo ou tigela pequena e pegue uma travessa média (utilizamos uma de de 26 por 18 cm). Mergulhe as bolachas rapidamente no conhaque e forre todo o fundo da travessa;
-5. Espalhe 1/3 do brigadeiro por cima e cubra com uma camada de bolachas umedecidas no conhaque. Espalhe mais 1/3 do brigadeiro e cubra com outra camada de bolachas umedecidas;
+5. Espalhe ⅓ do brigadeiro por cima e cubra com uma camada de bolachas umedecidas no conhaque. Espalhe mais ⅓ do brigadeiro e cubra com outra camada de bolachas umedecidas;
 6. Finalize com o restante do brigadeiro e decore com granulados. Leve a travessa à geladeira por pelo menos 2 horas ou até firmar;
 7. Retire da geladeira e sirva. Corte em pedaços ou aprecie direto na travessa com colheradas generosas!

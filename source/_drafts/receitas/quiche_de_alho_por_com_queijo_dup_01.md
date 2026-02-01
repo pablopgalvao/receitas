@@ -29,15 +29,15 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 2 e 1/2 xícaras de chá de farinha de trigo (300 gramas)
-- 1/2 xícara de chá de manteiga com sal gelada (115 gramas)
+- 2 e ½ xícaras de chá de farinha de trigo (300 gramas)
+- ½ xícara de chá de manteiga com sal gelada (115 gramas)
 - 2 ovos médios
-- 1/2 colher de chá de sal
-- 1 e 1/2 caixa de creme de leite (300 gramas)
+- ½ colher de chá de sal
+- 1 e ½ caixa de creme de leite (300 gramas)
 - 150 gramas de queijo parmesão
-- 1/2 colher de chá de sal a gosto
-- 1/2 colher de chá de pimenta-do-reino a gosto
-- 1/2 colher de chá de noz-moscada a gosto
+- ½ colher de chá de sal a gosto
+- ½ colher de chá de pimenta-do-reino a gosto
+- ½ colher de chá de noz-moscada a gosto
 - Comece separando todos os ingredientes para facilitar o preparo! Corte a manteiga gelada em cubinhos. Higienize o talo de alho-poró e corte-o em rodelas finas. Descasque os dentes de alho e triture bem. Rale o queijo parmesão no ralador fino;
 - Em uma tigela, adicione a farinha de trigo e os cubos de manteiga. Misture com as mãos, de forma que os ingredientes se misturem, formando uma farofa;
 - Junte os dois ovos e o sal e volte a misturar com as mãos até virar uma massa homogênea;

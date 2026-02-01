@@ -32,8 +32,8 @@ flags: []
 - 2 ovos (claras e gemas separados)
 - 1 xícara de chá de leite
 - 3 colheres de sopa de manteiga
-- 1 e 1/2 xícara de chá de açúcar
-- 3 e 1/2 xícaras de chá de farinha de trigo
+- 1 e ½ xícara de chá de açúcar
+- 3 e ½ xícaras de chá de farinha de trigo
 - 2 colheres de sopa de fermento químico em pó (fermento para bolos)
 - Manteiga para untar
 - 1 lata de leite condensado (395 gramas)

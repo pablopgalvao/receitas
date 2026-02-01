@@ -38,7 +38,7 @@ flags: []
 - 100 ml de vinagre de vinho branco
 - 4 colheres de sopa de azeite de oliva (ou a gosto)
 - 1 colher de café de sal (ou a gosto)
-- 1/2 colher de café de pimenta-do-reino (ou a gosto)
+- ½ colher de café de pimenta-do-reino (ou a gosto)
 - --
 
 ---

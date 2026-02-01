@@ -33,7 +33,7 @@ flags: []
 
 - Azeite a gosto
 - 200 g de bacon cortado em cubos
-- 1/2 cebola cortada em cubos
+- ½ cebola cortada em cubos
 - 2 dentes de alho picados
 - 2 xícaras de chá de brócolis cozido em água e sal
 - Salsinha e cebolinha a gosto

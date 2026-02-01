@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de mandioca
 - 1 colher de sopa de margarina (20 gramas)
-- 1 e 1/2 colher de café de sal ou a gosto
+- 1 e ½ colher de café de sal ou a gosto
 - 500 gramas de carne moída
 - Sal a gosto
 - Pimenta-do-reino a gosto

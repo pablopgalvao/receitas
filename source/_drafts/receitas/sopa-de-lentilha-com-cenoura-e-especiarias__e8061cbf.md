@@ -32,7 +32,7 @@ flags: []
 
 - 150 gramas de lentilha (demolhada em água por 12 horas)
 - 1 colher de sopa de azeite
-- 1/2 cebola cortada em cubos
+- ½ cebola cortada em cubos
 - 2 dentes de alho picados
 - 1 colher de chá de açafrão
 - 2 dentes de alho inteiros

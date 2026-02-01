@@ -31,14 +31,14 @@ flags: []
 - 500 gramas de feijão carioca
 - 1 cebola pequena (50 gramas)
 - 2 linguiças paio (250 gramas)
-- 1/2 kg de costelinha de porco sem osso
+- ½ kg de costelinha de porco sem osso
 - 200 gramas de bacon
 - 2 colheres de sopa de salsinha
 - 1 colher de sopa de cebolinha
 - 1 colher de sopa coentro (opcional)
 - 2 folhas de louro
-- 1/2 colher de café de sal
-- 1/4 de colher de chá de pimenta-do-reino
+- ½ colher de café de sal
+- ¼ de colher de chá de pimenta-do-reino
 - 1 colher de sopa de azeite
 - 1,5 litro de água para cozimento
 - --

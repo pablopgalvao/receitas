@@ -34,14 +34,14 @@ flags: []
 - 500 gramas de carne bovina (coxão mole ou acém)
 - 2 colheres de sopa de óleo
 - 1 colher de chá de colorau
-- 1/2 colher de chá de pimenta-do-reino
+- ½ colher de chá de pimenta-do-reino
 - 1 colher de chá de sal
 - 1 pitada de curry
 - 4 dentes de alho
 - 1 cebola média
 - 2 tomates
-- 1/4 pimentão amarelo
-- 1/4 pimentão verde
+- ¼ pimentão amarelo
+- ¼ pimentão verde
 - 1 batata pequena
 - 2 cenouras médias
 - 3 batatas médias

@@ -42,8 +42,8 @@ flags: []
 - 3 colheres de sopa de ketchup
 - 3 colheres de sopa de mostarda
 - 1 caixinha de creme de leite
-- 1/2 garrafinha de leite de coco (100 ml)
-- Suco de 1/2 limão espremido
+- ½ garrafinha de leite de coco (100 ml)
+- Suco de ½ limão espremido
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Salsinha picada a gosto

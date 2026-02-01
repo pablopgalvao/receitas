@@ -32,7 +32,7 @@ flags: []
 - 3 colheres de sopa rasas de café solúvel granulado (12 gramas)
 - 1 xícara de chá de leite em pó integral e instantâneo (100 gramas)
 - 3 colheres de chá rasas de chocolate em pó 50% cacau (6 gramas)
-- 1/4 de xícara de chá de açúcar (50 gramas)
+- ¼ de xícara de chá de açúcar (50 gramas)
 - 1 colher de chá de canela em pó (2,5 gramas)
 - 1 colher de chá de bicarbonato de sódio (5 gramas)
 - Leite para servir o cappuccino (200ml)

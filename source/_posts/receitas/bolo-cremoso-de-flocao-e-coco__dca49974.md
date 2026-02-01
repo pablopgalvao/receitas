@@ -34,7 +34,7 @@ flags: []
 - 500 ml de leite integral
 - 2 ovos médios (50 gramas cada)
 - 50 gramas de manteiga (ou margarina)
-- 1 e 1/2 xícara de chá de açúcar (300 gramas)
+- 1 e ½ xícara de chá de açúcar (300 gramas)
 - 1 lata de milho escorrido (170 gramas)
 - 1 colher de sopa de farinha de trigo
 - 1 colher de chá fermento químico em pó (fermento para bolo)

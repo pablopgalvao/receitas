@@ -30,18 +30,18 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de soja em grãos (300 gramas)
+- 1 e ½ xícara de chá de soja em grãos (300 gramas)
 - Água (para demolhar a soja)
 - 1 colher de sopa de extrato de tomate
-- 1/2 cebola (90 gramas)
+- ½ cebola (90 gramas)
 - 1 dente de alho
 - 1 cenoura (150 gramas)
 - 1 rodela de gengibre (5 gramas) (opcional)
 - 2 colheres de sopa de amido de milho (para dar liga) (30 gramas)
-- 1/2 colher de sopa de azeite de oliva
-- Suco de 1/2 limão
+- ½ colher de sopa de azeite de oliva
+- Suco de ½ limão
 - 1 colher de sopa de sal (ou a gosto)
-- 1/2 colher de chá de pimenta-preta (ou a gosto)
+- ½ colher de chá de pimenta-preta (ou a gosto)
 - 1 colher de chá de páprica defumada (ou a gosto)
 - 1 colher de café de orégano (ou a gosto)
 - --

@@ -32,7 +32,7 @@ flags: []
 - 3 colheres de sopa de mel ou melado
 - 1 colher de chá de sal
 - 1 colher de sopa de canela
-- 1/3 de xícara de óleo de girassol ou azeite (80 ml)
+- ⅓ de xícara de óleo de girassol ou azeite (80 ml)
 - 1 xícara de farelo de aveia ou aveia flocos finos (100 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - Nozes ou castanhas picadas a gosto

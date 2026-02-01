@@ -29,12 +29,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de chá de leite (200 ml)
-- 1/2 xícara de chá de óleo (120 ml)
+- ¾ de xícara de chá de leite (200 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de café de sal
 - 4 xícaras de chá de tapioca (480 gramas)
 - 150 gramas de queijo parmesão ralado
-- 1/2 xícara de chá de queijo mussarela ralado (50 gramas)
+- ½ xícara de chá de queijo mussarela ralado (50 gramas)
 - 1 colher de sopa de fermento em pó
 - Óleo para untar a forma
 - Separe os ingredientes para preparar essa deliciosa opção para o lanche da tarde. Quebre os ovos em uma tigela separada e verifique se estão bons. Unte a forma com óleo e preaqueça o forno a 200 °C;

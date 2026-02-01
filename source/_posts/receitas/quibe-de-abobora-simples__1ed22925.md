@@ -32,7 +32,7 @@ flags: []
 
 - 1 xícara de chá de trigo para quibe
 - 135 gramas de abóbora (cabotiá ou moranga) cozida e amassada
-- 1/2 cebola pequena picada
+- ½ cebola pequena picada
 - Sal e pimenta-do-reino a gosto
 - Cebolinha a gosto
 - --

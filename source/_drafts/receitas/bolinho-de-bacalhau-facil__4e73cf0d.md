@@ -34,7 +34,7 @@ flags: []
 - 2 colheres de sopa de cheiro-verde picado
 - 400 gramas de batata asterix
 - 2 colheres de sopa de amido de milho
-- 1/3 de xícara de chá de azeite extravirgem
+- ⅓ de xícara de chá de azeite extravirgem
 - 4 xícaras de chá de óleo para fritar
 - --
 

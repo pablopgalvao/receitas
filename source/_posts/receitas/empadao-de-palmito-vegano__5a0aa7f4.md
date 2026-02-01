@@ -37,7 +37,7 @@ flags: []
 - 1 cebola em cubos
 - 2 dentes de alho picadinhos
 - 2 tomates picados em cubos
-- 1/2 xícara de chá de azeitonas picadas
+- ½ xícara de chá de azeitonas picadas
 - 1 vidro de palmito (300 gramas) cortado em rodelas
 - Cheiro-verde a gosto
 - Sal a gosto

@@ -31,7 +31,7 @@ flags: []
 
 - 1 sachê de chá de mel com gengibre e cúrcuma
 - 100 ml de água fervente
-- Suco de 1/2 limão-taiti ou siciliano
+- Suco de ½ limão-taiti ou siciliano
 - 1 colher de chá de mel
 - 1 colher de café de cúrcuma em pó
 - 1 pitada de pimenta-do-reino preta

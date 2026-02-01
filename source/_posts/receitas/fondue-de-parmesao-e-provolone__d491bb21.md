@@ -32,9 +32,9 @@ flags: []
 - 1 fio de azeite
 - 200 gramas de requeijão cremoso
 - 200 ml de creme de leite com soro
-- 1/3 xícara de chá de parmesão fresco ralado
+- ⅓ xícara de chá de parmesão fresco ralado
 - 1 xícara de chá de provolone em cubinhos
-- 1/2 xícara de chá de mussarela em cubinhos
+- ½ xícara de chá de mussarela em cubinhos
 - --
 
 ---

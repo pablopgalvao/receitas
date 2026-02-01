@@ -31,12 +31,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cebola
+- ½ cebola
 - 1 cenoura
-- 1/4 de repolho
-- 1/2 pimentão verde (ou outro de sua preferência)
+- ¼ de repolho
+- ½ pimentão verde (ou outro de sua preferência)
 - 1 ovo
-- 1/2 xícara de chá de leite (120 ml)
+- ½ xícara de chá de leite (120 ml)
 - 1 xícara de chá de farinha de trigo (135 gramas)
 - Páprica doce a gosto
 - Sal a gosto

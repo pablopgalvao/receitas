@@ -29,13 +29,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 ovos
-- 1/2 xícara de chá de óleo
+- ½ xícara de chá de óleo
 - 4 bananas em rodelas
-- 1 e 1/2 xícara de chá de açúcar mascavo
-- 2 e 3/4 xícara de chá mais 2 colheres de sopa de aveia em flocos finos
+- 1 e ½ xícara de chá de açúcar mascavo
+- 2 e ¾ xícara de chá mais 2 colheres de sopa de aveia em flocos finos
 - 2 colheres de chá de canela em pó
 - 1 xícara de chá de castanha de caju picada
-- 1/2 xícara de chá de uva-passa
+- ½ xícara de chá de uva-passa
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --
 
@@ -45,7 +45,7 @@ flags: []
 
 1. Reúna todos os ingredientes;
 2. Em um liquidificador, coloque os ovos, o óleo, as bananas e o açúcar. Bata bem e reserve;
-3. Em um recipiente, misture as xícaras de aveia com 1 colher de chá de canela, 1/2 xícara de chá de castanha de caju e a uva-passa;
+3. Em um recipiente, misture as xícaras de aveia com 1 colher de chá de canela, ½ xícara de chá de castanha de caju e a uva-passa;
 4. Incorpore a mistura do liquidificador nos secos e misture bem;
 5. Depois, acrescente o fermento e mexa ligeiramente, somente para misturar;
 6. Em outro recipiente, misture o restante da castanha de caju, as colheres de aveia e a outra colher de chá de canela. Reserve;

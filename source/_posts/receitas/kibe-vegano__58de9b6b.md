@@ -41,10 +41,10 @@ flags: []
 - 1 colher de sopa de raspas de limão
 - Suco de 1 limão (40 ml)
 - 1 raminho de hortelã
-- 1/2 colher de chá de cominho
-- 1/2 colher de chá de pimenta-síria
-- 1/2 colher de chá de zaatar
-- 1/2 colher de chá de sal
+- ½ colher de chá de cominho
+- ½ colher de chá de pimenta-síria
+- ½ colher de chá de zaatar
+- ½ colher de chá de sal
 - 2 colheres de sopa de tahine
 - 1 batata grande ou 2 médias (130 gramas)
 - --

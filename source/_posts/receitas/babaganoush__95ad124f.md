@@ -34,7 +34,7 @@ flags: []
 - Caldo de 1 limão
 - 3 colheres de sopa de tahine (pasta de gergelim)
 - 2 colheres de sopa de azeite a gosto
-- 1/2 colher de chá de sal (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - --
 
 ---

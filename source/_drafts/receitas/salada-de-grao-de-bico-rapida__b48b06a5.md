@@ -34,13 +34,13 @@ flags: []
 
 - 1 lata de grão de bico (170 gramas)
 - 1 tomate
-- 1/2 pimentão verde
-- 1/2 pimentão vermelho
-- 1/2 pimentão amarelo
-- 1/2 cebola roxa
+- ½ pimentão verde
+- ½ pimentão vermelho
+- ½ pimentão amarelo
+- ½ cebola roxa
 - Cebolinha a gosto
 - 40 ml de azeite
-- Suco de 1/2 limão
+- Suco de ½ limão
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - --

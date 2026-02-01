@@ -43,5 +43,5 @@ flags: []
 3. Coloque o inhame em uma panela com água e leve ao fogo alto;
 4. Cozinhe por cerca de 20 minutos ou até que os pedaços estejam bem macios. Escorra e reserve até esfriar;
 5. No liquidificador ou processador, adicione o inhame cozido, os morangos, a banana, a água e o suco de limão. Bata até obter um creme bem homogêneo e cremoso;
-6. Distribua o creme em potinhos esterilizados e com tampa, preenchendo até 3/4 da capacidade para facilitar o consumo por crianças pequenas;
+6. Distribua o creme em potinhos esterilizados e com tampa, preenchendo até ¾ da capacidade para facilitar o consumo por crianças pequenas;
 7. Feche bem os potinhos e leve à geladeira por no mínimo 1 hora antes de servir. Aproveite!

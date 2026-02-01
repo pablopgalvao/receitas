@@ -33,10 +33,10 @@ flags: []
 - 3 cebolas médias (480 gramas)
 - 3 pimentões verdes médios (500 gramas)
 - 3 colheres de sopa de coentro picado
-- 1/3 de xícara de chá de mostarda (80 ml)
+- ⅓ de xícara de chá de mostarda (80 ml)
 - 2 caixas de creme de leite (400 gramas totais)
-- 2 colheres e 1/2 de sopa de colorau
-- 2 colheres e 1/2 de sopa de cominho
+- 2 colheres e ½ de sopa de colorau
+- 2 colheres e ½ de sopa de cominho
 - 1 colher de sopa rasa de sal
 - 1 fio de óleo
 - Em uma tábua, pique os tomates, os pimentões, as cebolas e o alho em cubos médios (cerca de 0,5 cm). Leve uma panela grande e alta ao fogo alto, coloque 1 fio de óleo e refogue os tomates, pimentões e cebolas por cerca de 2 minutos;

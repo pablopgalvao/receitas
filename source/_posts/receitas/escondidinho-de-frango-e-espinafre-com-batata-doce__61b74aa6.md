@@ -31,7 +31,7 @@ flags: []
 
 - 1 colher de chá de azeite
 - 1 peito de frango cortado em cubos pequenos (ou desfiado)
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho amassados
 - 10 tomatinhos cereja picados
 - 100 gramas de espinafre congelado

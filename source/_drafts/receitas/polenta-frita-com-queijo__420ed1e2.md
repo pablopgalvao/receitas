@@ -35,7 +35,7 @@ flags: []
 - 1 litro de água
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 xícara de chá de manteiga (120 gramas)
+- ½ xícara de chá de manteiga (120 gramas)
 - 1 xícara de chá de queijo parmesão ralado (100 gramas)
 - Farinha de trigo para empanar
 - 4 xícaras de chá de óleo para fritar

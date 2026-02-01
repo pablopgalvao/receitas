@@ -31,9 +31,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de batatas
-- 1/2 copo de requeijão (100 gramas)
+- ½ copo de requeijão (100 gramas)
 - 100 gramas de creme de leite
-- 1/2 xícara de chá de cebolinha picada
+- ½ xícara de chá de cebolinha picada
 - 50 gramas de bacon frito picado
 - 60 gramas de queijo mussarela ralada grosseiramente
 - 1 colher de café de sal

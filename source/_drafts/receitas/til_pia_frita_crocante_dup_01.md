@@ -31,7 +31,7 @@ flags: []
 
 - Sal a gosto
 - Pimenta-do-reino a gosto
-- 1/2 copo de farinha de trigo
+- ½ copo de farinha de trigo
 - Óleo para fritar
 - Tempere os filés de tilápia com alho, sal, pimenta e deixe marinando no suco de limão por cerca de 15 minutos;
 - Enquanto o peixe fica marinando, misture a farinha de trigo e o fubá em uma vasilha;

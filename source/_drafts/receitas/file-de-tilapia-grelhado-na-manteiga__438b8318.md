@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 Filés de tilápia (500 gramas)
-- 1/2 colher de chá de sal de parrilla ou sal grosso (ou a gosto)
+- ½ colher de chá de sal de parrilla ou sal grosso (ou a gosto)
 - 1 colher de chá de lemon pepper (ou a gosto)
 - 1 colher de sopa de manteiga
 - 1 fio de azeite

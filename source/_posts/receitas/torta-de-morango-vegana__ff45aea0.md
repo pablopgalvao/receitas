@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 575 ml de leite de amêndoas
-- 1/2 xícara de chá de açúcar demerara
+- ½ xícara de chá de açúcar demerara
 - 4 colheres de sopa de amido de milho
 - 1 colher de chá de essência de baunilha
 - --

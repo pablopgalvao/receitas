@@ -29,9 +29,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de óleo
-- 1/2 xícara de chá de milho para pipoca
+- ½ xícara de chá de milho para pipoca
 - 1 xícara de chá de açúcar
-- 1/2 caixinha de leite condensado (198 gramas)
+- ½ caixinha de leite condensado (198 gramas)
 - 1 colher de sopa de manteiga com sal
 - --
 

@@ -32,7 +32,7 @@ flags: []
 - 1 lata de milho em conserva sem a água (200 gramas)
 - 1 latinha (de milho) de açúcar (250 gramas)
 - 1 latinha (de milho) de água (290 ml)
-- 1/2 latinha (de milho) de óleo (140 ml)
+- ½ latinha (de milho) de óleo (140 ml)
 - 1 latinha (de milho) de fubá (185 gramas)
 - 1 colher de sopa (rasa) de fermento químico em pó (fermento para bolo)
 - --

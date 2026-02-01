@@ -33,14 +33,14 @@ flags: []
 - 2 colheres de sopa de azeite
 - 80 gramas de camarão
 - 1 colher de sopa de manteiga
-- 1/4 de colher de chá de pimenta calabresa
-- 1/4 de colher de chá de pimenta-caiena
-- 1/4 de colher de chá de pimenta-do-reino
+- ¼ de colher de chá de pimenta calabresa
+- ¼ de colher de chá de pimenta-caiena
+- ¼ de colher de chá de pimenta-do-reino
 - 2 dentes de alho médio
-- Suco de 1/4 de limão-siciliano
+- Suco de ¼ de limão-siciliano
 - 1 colher de chá de raspas de limão
 - 2 colheres de sopa de folhas de manjericão (ou a gosto)
-- 1 e 1/2 colher de chá de sal (para cozimento do macarrão e preparo)
+- 1 e ½ colher de chá de sal (para cozimento do macarrão e preparo)
 - --
 
 ---

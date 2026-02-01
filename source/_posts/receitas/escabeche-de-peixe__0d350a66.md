@@ -33,11 +33,11 @@ flags: []
 
 - 2 kg de cação em postas
 - 1 limão (ou 2 colheres de sopa de vinagre)
-- 1/4 de colher de café de sal (ou a gosto)
+- ¼ de colher de café de sal (ou a gosto)
 - Farinha de trigo para empanar
 - Óleo para fritar o peixe
-- 1/2 cebola grande cortada em rodelas
-- 1/2 cebola média picada
+- ½ cebola grande cortada em rodelas
+- ½ cebola média picada
 - 1 tomate médio picado
 - 1 tomate grande cortado em rodelas
 - 1 pimentão cortado em rodelas

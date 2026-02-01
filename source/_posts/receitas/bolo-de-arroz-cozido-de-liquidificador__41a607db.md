@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 3 ovos médios (50 gramas cada)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - 1 xícara de chá de leite (240 ml)
 - 2 xícaras de chá de arroz cozido (500 gramas)
-- 1 e 1/2 xícara de chá de polvilho doce (225 gramas)
+- 1 e ½ xícara de chá de polvilho doce (225 gramas)
 - 1 colher de sopa de essência de baunilha
 - 1 xícara de chá de coco ralado (80 gramas)
 - 1 colher de sopa de fermento químico em pó (fermento para bolo) (14 gramas)

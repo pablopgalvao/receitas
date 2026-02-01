@@ -31,12 +31,12 @@ flags: []
 
 - 500 gramas de sambiquira (ponta do rabo)
 - 3 dentes de alho amassados
-- Suco de 1/2 limão (10 ml)
+- Suco de ½ limão (10 ml)
 - 1 colher de chá de sal
 - 1 colher de chá de páprica doce
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 1 colher de chá de azeite
-- 1/2 xícara de chá de farinha de trigo para empanar (60 gramas)
+- ½ xícara de chá de farinha de trigo para empanar (60 gramas)
 - 2 xícaras de chá de óleo para fritar (480 ml)
 - --
 

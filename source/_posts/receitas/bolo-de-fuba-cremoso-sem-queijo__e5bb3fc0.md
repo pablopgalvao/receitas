@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de fubá (180 gramas)
+- 1 e ½ xícara de chá de fubá (180 gramas)
 - 4 xícaras de chá de leite integral (960 ml)
 - 3 ovos médios
 - 3 colheres de sopa de farinha de trigo

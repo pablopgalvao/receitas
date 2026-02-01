@@ -35,7 +35,7 @@ flags: []
 - 600 ml de água gelada
 - 1 laranja
 - 5 morangos
-- 1/2 maçã-verde
+- ½ maçã-verde
 - 2 fatias médias de abacaxi
 - Hortelã fresca a gosto
 - Gelo a gosto

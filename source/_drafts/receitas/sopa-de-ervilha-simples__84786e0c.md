@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 cabeça de alho
+- ½ cabeça de alho
 - 1 kg de ervilha partida
 - Azeite a gosto
 - 1 colher de chá de sal

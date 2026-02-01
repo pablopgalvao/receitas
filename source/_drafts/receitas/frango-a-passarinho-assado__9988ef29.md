@@ -30,12 +30,12 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 kg de frango a passarinho
-- 1 e 1/2 colher de chá de páprica doce
-- 1/2 colher de chá de cominho
+- 1 e ½ colher de chá de páprica doce
+- ½ colher de chá de cominho
 - 1 colher de chá de sal
 - 2 dentes de alho
 - 3 colheres de sopa de azeite
-- 1/4 xícara de chá de farinha
+- ¼ xícara de chá de farinha
 - Azeite a gosto
 - --
 

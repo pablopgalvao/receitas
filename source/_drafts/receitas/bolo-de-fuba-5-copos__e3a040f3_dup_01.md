@@ -31,8 +31,8 @@ flags: []
 - 1 copo de fubá (120 gramas)
 - 1 copo de farinha de trigo (130 gramas)
 - 1 copo de açúcar (150 gramas)
-- 1/2 copo de óleo (95 ml)
-- 1 copo de suco de laranja natural (1 e 1/2 laranja de aproximadamente 190 gramas)
+- ½ copo de óleo (95 ml)
+- 1 copo de suco de laranja natural (1 e ½ laranja de aproximadamente 190 gramas)
 - 3 ovos médios
 - 50 gramas de coco ralado (opcional)
 - 1 pitada de sal

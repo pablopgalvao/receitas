@@ -36,7 +36,7 @@ flags: []
 - 1 lata de creme de leite
 - 2 colheres de sopa de requeijão
 - Noz-moscada a gosto
-- 1/2 colher de café de sal
+- ½ colher de café de sal
 - 150 gramas de queijo mussarela ralada
 - 100 gramas de bacon picado
 - 2 xícaras de chá de alho-poró em rodelas

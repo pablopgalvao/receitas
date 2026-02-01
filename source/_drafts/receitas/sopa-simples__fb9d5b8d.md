@@ -33,9 +33,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de azeite
-- 1/2 cebola
+- ½ cebola
 - 2 dentes de alho
-- 1/2 sachê de molho de tomate
+- ½ sachê de molho de tomate
 - Sal a gosto
 - Tempero baiano a gosto
 - Chimichurri a gosto

@@ -31,8 +31,8 @@ flags: []
 - 3 colheres de sopa de açúcar (45 gramas)
 - 2 colheres de sopa de molho de ostra
 - 2 colheres de chá de alho picadinho
-- 1/4 de xícara de chá de shoyu
-- 1/4 de xícara de chá de água
+- ¼ de xícara de chá de shoyu
+- ¼ de xícara de chá de água
 - --
 
 ---

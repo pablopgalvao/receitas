@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 500 ml de creme de leite fresco
-- 1/4 de colher de chá de sal fino ou flor de sal (opcional)
+- ¼ de colher de chá de sal fino ou flor de sal (opcional)
 - --
 
 ---

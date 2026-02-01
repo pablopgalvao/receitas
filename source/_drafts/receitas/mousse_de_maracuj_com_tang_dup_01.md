@@ -33,8 +33,8 @@ flags: []
 - 2 caixinhas de creme de leite (200 gramas cada)
 - 1 pacotinho de suco Tang de maracujá (25 gramas)
 - Polpa de 1 a 2 maracujás frescos (100 gramas)
-- 1/2 xícara de chá de água (120 ml)
-- 1/2 xícara de chá de açúcar (100 gramas)
+- ½ xícara de chá de água (120 ml)
+- ½ xícara de chá de açúcar (100 gramas)
 - 1 colher de sopa de amido de milho
 - Para a calda, em uma panela ainda fora do fogo, coloque a polpa de maracujá, a água, o açúcar e o amido de milho. Misture para incorporar. Leve ao fogo médio e cozinhe até engrossar, mexendo sempre. Deixe esfriar por uns 10 minutos;
 

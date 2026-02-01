@@ -44,7 +44,7 @@ flags: []
 - 75 g de manteiga gelada
 - sal e pimenta-do-reino moída na hora a gosto
 - Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione 1 colher (chá) de manteiga e deixe derreter. Coloque quantos nhoques couberem na frigideira, sem amontoar – eles precisam ficar em contato com o fundo da frigideira para dourar. Deixe dourar por cerca de 2 minutos de cada lado, transfira para uma travessa e repita com o restante, adicionando manteiga a cada leva.
-- Abaixe o fogo, acrescente 1 colher (chá) de manteiga e as folhas de sálvia. Deixe por alguns segundos para perfumar. Desligue o fogo, junte o caldo de limão e 1/2 xícara (chá) da água do cozimento do nhoque. Acrescente 50 g da manteiga gelada em cubos e deixe derreter, fazendo movimentos circulares com a frigideira (se preferir um molho mais fluido, acrescente o restante da água do cozimento aos poucos). Tempere com sal e pimenta.
+- Abaixe o fogo, acrescente 1 colher (chá) de manteiga e as folhas de sálvia. Deixe por alguns segundos para perfumar. Desligue o fogo, junte o caldo de limão e ½ xícara (chá) da água do cozimento do nhoque. Acrescente 50 g da manteiga gelada em cubos e deixe derreter, fazendo movimentos circulares com a frigideira (se preferir um molho mais fluido, acrescente o restante da água do cozimento aos poucos). Tempere com sal e pimenta.
 
 ---
 

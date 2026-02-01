@@ -33,7 +33,7 @@ flags: []
 - 1 copo de requeijão (200 gramas)
 - 150 gramas de queijo prato
 - 150 gramas de presunto
-- 1/2 colher de sopa de margarina (25 gramas)
+- ½ colher de sopa de margarina (25 gramas)
 - 3 colheres de sopa de queijo parmesão ralado (60 gramas)
 - Salsinha a gosto
 - --

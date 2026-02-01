@@ -34,8 +34,8 @@ flags: []
 - 2 a 3 kg de tomate italiano maduro
 - 1 cebola picada
 - 3 colheres de sopa de azeite
-- 1/4 de colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ¼ de colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Folhas de manjericão a gosto (opcional)
 - Água
 - Cubos de gelo

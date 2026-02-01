@@ -30,9 +30,9 @@ flags: []
 
 - 1 xícara de chá de leite integral (240 ml)
 - 3 ovos médios
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 100 gramas de queijo parmesão ralado (100 gramas)
-- 1 e 1/3 xícara de chá de polvilho doce (200 gramas)
+- 1 e ⅓ xícara de chá de polvilho doce (200 gramas)
 - 1 colher de sopa de fermento químico em pó
 - 1 colher de chá de sal a gosto
 - 3 galhos de manjericão fresco a gosto (somente as folhas)

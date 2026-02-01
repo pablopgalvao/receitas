@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 kg de carne moída (500 gramas)
+- ½ kg de carne moída (500 gramas)
 - 2 colheres de sopa de farinha de rosca
 - Sal a gosto
 - Cheiro-verde a gosto

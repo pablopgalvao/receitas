@@ -31,7 +31,7 @@ flags: []
 
 - 2 batatas-doces da casca rosa grandes (500 gramas)
 - 1 litro de água
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - Óleo suficiente para fritar
 - --
 

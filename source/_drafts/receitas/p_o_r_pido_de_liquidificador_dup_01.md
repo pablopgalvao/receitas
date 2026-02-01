@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 colheres de sopa de açúcar (24 gramas)
-- 1/2 xícara de chá de óleo (120 ml)
+- ½ xícara de chá de óleo (120 ml)
 - 1 colher de café de sal (3 gramas)
 - 1 copo (tipo requeijão) de leite morno (250 ml)
 - 1 envelope de fermento biológico seco (10 gramas)
-- 2 e 1/2 de xícara de chá de farinha de trigo (350 gramas)
+- 2 e ½ de xícara de chá de farinha de trigo (350 gramas)
 - Organize todos os ingredientes em sua bancada e unte uma forma retangular de 30x10x3 cm com manteiga e farinha de trigo;
 - No liquidificador, adicione o ovo, o óleo, o açúcar, o leite morno, o sal e o fermento biológico seco. Bata por cerca de 1 minuto, até obter uma mistura homogênea;
 - Transfira essa mistura para uma tigela grande e vá adicionando a farinha de trigo aos poucos, misturando com uma espátula ou fouet (batedor de arame) até obter uma massa cremosa, elástica e um pouco pegajosa – não precisa sovar;

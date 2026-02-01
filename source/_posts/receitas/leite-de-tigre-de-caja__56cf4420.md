@@ -30,12 +30,12 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 3/4 de xícara de polpa de cajá (200 gramas)
-- 1/2 cebola roxa (60 gramas)
+- ¾ de xícara de polpa de cajá (200 gramas)
+- ½ cebola roxa (60 gramas)
 - 1 talo de salsão (ou aipo)
-- 1/2 colher de sobremesa de pimenta-do-reino (5 gramas)
-- 4/5 de xícara de chá de água (200 ml)
-- 1/2 xícara de chá de leite de coco (120 ml)
+- ½ colher de sobremesa de pimenta-do-reino (5 gramas)
+- ⅘ de xícara de chá de água (200 ml)
+- ½ xícara de chá de leite de coco (120 ml)
 - Talos de coentro a gosto
 - 1 colher de chá de sal (ou a gosto)
 - Pedras de gelo

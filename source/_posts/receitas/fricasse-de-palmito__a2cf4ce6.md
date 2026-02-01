@@ -35,9 +35,9 @@ flags: []
 - 1 lata de milho (170 gramas)
 - 1 caixinha de creme de leite (200 gramas)
 - 1 pote de requeijão (200 gramas)
-- 1/2 xícara de chá de leite
+- ½ xícara de chá de leite
 - Sal a gosto
-- 1/2 cebola
+- ½ cebola
 - 1 vidro de palmito (550 gramas)
 - Cebolinha a gosto
 - Queijo mussarela a gosto

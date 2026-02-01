@@ -31,7 +31,7 @@ flags: []
 
 - 400 gramas de doce de leite cremoso
 - 4 bananas-nanicas maduras
-- 1 e 1/4 de xícaras de chá de creme de leite fresco bem gelado
+- 1 e ¼ de xícaras de chá de creme de leite fresco bem gelado
 - 2 colheres de sopa de açúcar
 - Canela em pó para finalizar
 - --

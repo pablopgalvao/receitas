@@ -32,8 +32,8 @@ flags: []
 - 1 pacote sopa de cebola (55 gramas)
 - 2 dentes de alho
 - 1 cebola pequena
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
-- 1/2 colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
 - 2 colheres de sopa de azeite (ou a gosto)
 - 2 xícaras de chá de polpa de tomate
 - 3 colheres de sopa de queijo parmesão ralado para finalizar

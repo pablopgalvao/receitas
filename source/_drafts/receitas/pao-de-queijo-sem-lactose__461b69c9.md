@@ -30,7 +30,7 @@ flags: []
 
 - 200 ml de água
 - 100 ml de óleo vegetal
-- 1/2 colher de sopa de sal
+- ½ colher de sopa de sal
 - 500 gramas de polvilho doce
 - 350 gramas de queijo zero lactose
 - 2 ovos

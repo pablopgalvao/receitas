@@ -30,11 +30,11 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 berinjela grande (620 gramas)
-- 1/2 pimentão amarelo (140 gramas)
-- 1/2 pimentão vermelho (110 gramas)
-- 1/2 xícara de chá de azeitona preta sem caroço (70 gramas)
-- 1/2 xícara de chá de azeite (120 ml)
-- 1/2 xícara de chá de nozes (50 ml)
+- ½ pimentão amarelo (140 gramas)
+- ½ pimentão vermelho (110 gramas)
+- ½ xícara de chá de azeitona preta sem caroço (70 gramas)
+- ½ xícara de chá de azeite (120 ml)
+- ½ xícara de chá de nozes (50 ml)
 - 1 colher de chá de orégano (ou a gosto)
 - 1 colher de sopa de sal (ou a gosto)
 - Transfira a berinjela e o tomate para a panela e misture tudo até incorporar todos os ingredientes. Adicione o sal e deixe refogar em fogo baixo por aproximadamente 12 minutos, ou até que a berinjela murche o suficiente;

@@ -34,7 +34,7 @@ flags: []
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - 2 ovos médios (em temperatura ambiente)
 - 3 colheres de sopa de manteiga (ou margarina)
-- 3/4 xícara de chá de leite (124 ml)
+- ¾ xícara de chá de leite (124 ml)
 - --
 
 ---

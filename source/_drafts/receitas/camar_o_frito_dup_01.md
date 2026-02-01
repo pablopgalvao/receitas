@@ -33,7 +33,7 @@ flags: []
 - Sal e pimenta-do-reino a gosto
 - 1 colher de chá de tempero para carne
 - 1 xícara de chá de farinha de trigo sem fermento
-- 1/2 xícara de chá de farinha de rosca
+- ½ xícara de chá de farinha de rosca
 - Óleo para fritar
 - Em uma tigela, coloque os camarões e tempere com o suco de limão, alho, sal e pimenta. Misture bem;
 - Em um prato raso, despeje a farinha de trigo, a farinha de rosca e o sal. Mexa;

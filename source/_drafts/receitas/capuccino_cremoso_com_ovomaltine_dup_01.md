@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 xícaras de chá de leite em pó (200 gramas)
-- 1 e 1/2 xícaras de chá de Ovomaltine (150 gramas)
+- 1 e ½ xícaras de chá de Ovomaltine (150 gramas)
 - 3 colheres de sopa de café solúvel (20 gramas)
 - 1 colher de sobremesa de bicarbonato de sódio
 - 1 colher de chá de canela em pó (opcional)

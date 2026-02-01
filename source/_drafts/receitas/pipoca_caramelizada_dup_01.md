@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 xícara de chá de milho de pipoca (100 gramas)
+- ½ xícara de chá de milho de pipoca (100 gramas)
 - 1 colher de sopa de óleo (cerca de 15 ml)
 - 1 xícara de chá de açúcar (200 gramas)
 - Em uma panela grande, no fogo médio para baixo, adicione o óleo e os milhos. Mexa com uma espátula até os grãos ficarem esbranquiçados ou o primeiro milho estourar. Mantenha a tampa perto, para tampar a panela rapidamente;

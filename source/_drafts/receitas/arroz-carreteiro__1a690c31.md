@@ -36,10 +36,10 @@ flags: []
 - 250 gramas de linguiça calabresa
 - 70 gramas de bacon em cubos
 - 2 colheres de sopa de óleo
-- 1/2 cebola (60 gramas)
+- ½ cebola (60 gramas)
 - 2 dentes de alho (10 gramas)
 - 2 folhas de louro
-- 1/2 xícara de chá de salsinha fresca (50 gramas)
+- ½ xícara de chá de salsinha fresca (50 gramas)
 - Pimenta-do-reino a gosto
 - Caldo 1 limão (opcional)
 - --

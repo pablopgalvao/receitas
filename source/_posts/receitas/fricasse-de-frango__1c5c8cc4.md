@@ -31,13 +31,13 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite
-- 1/2 cebola picada
+- ½ cebola picada
 - 2 dentes de alho picados
 - 2 xícaras de chá de peito de frango cozido e desfiado
 - 1 colher de sopa de mostarda
 - 1 colher de sopa de extrato de tomate
 - 1 xícara de chá de leite integral
-- 1/2 xícara de chá de champignon (opcional)
+- ½ xícara de chá de champignon (opcional)
 - 1 pote de requeijão cremoso
 - 2 colheres de sopa de parmesão ralado
 - Sal, pimenta-do-reino e salsinha a gosto

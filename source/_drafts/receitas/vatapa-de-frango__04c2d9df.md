@@ -40,11 +40,11 @@ flags: []
 - 1 cebola (140 gramas)
 - 1 tomate médio (125 gramas)
 - 3 dentes de alho
-- 1/3 de colher de chá de gengibre em pó
+- ⅓ de colher de chá de gengibre em pó
 - 2 colheres de chá de sal ou a gosto
 - 1 colher de chá de páprica ou colorau
-- 1/2 colher de chá de cominho
-- 1/3 de colher de chá de pimenta-do-reino
+- ½ colher de chá de cominho
+- ⅓ de colher de chá de pimenta-do-reino
 - Cheiro-verde a gosto
 - --
 

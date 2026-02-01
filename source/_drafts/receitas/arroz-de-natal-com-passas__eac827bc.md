@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 4 xícaras de chá de arroz branco cozido (600 gramas)
-- 1/3 de xícara de chá de uvas-passas brancas (65 gramas)
+- ⅓ de xícara de chá de uvas-passas brancas (65 gramas)
 - 1 colher de chá de manteiga (10 gramas)
 - Raspas e suco de 1 limão
 - --

@@ -30,9 +30,9 @@ flags: []
 
 - 3 ovos
 - 4 colheres de sopa de azeite de oliva
-- 1/2 xícara de chá de leite semidesnatado ou integral (120 ml)
+- ½ xícara de chá de leite semidesnatado ou integral (120 ml)
 - 1 xícara de chá de farelo de aveia sem glúten
-- 1/2 xícara de chá de amido de milho
+- ½ xícara de chá de amido de milho
 - 1 colher de chá de sal
 - 1 colher de sopa de fermento químico em pó (fermento para bolo)
 - --

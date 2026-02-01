@@ -34,7 +34,7 @@ flags: []
 - Azeite de oliva a gosto
 - 1 cebola média
 - 2 dentes de alho
-- 1/2 talo de alho-poró
+- ½ talo de alho-poró
 - 1 colher de sobremesa de sal (ou a gosto)
 - 1 colher de chá de pimenta-do-reino (ou a gosto)
 - 2 colheres de sopa de cheiro-verde picado (ou a gosto)

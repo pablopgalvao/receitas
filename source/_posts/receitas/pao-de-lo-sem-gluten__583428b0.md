@@ -32,9 +32,9 @@ flags: []
 - 3 ovos inteiros
 - 1 pitada de sal
 - Raspas de 1 limão-siciliano
-- 1/2 colher de chá de suco de limão-siciliano
-- 1/2 xícara de chá de açúcar refinado
-- 1/2 colher de chá de extrato de baunilha (opcional)
+- ½ colher de chá de suco de limão-siciliano
+- ½ xícara de chá de açúcar refinado
+- ½ colher de chá de extrato de baunilha (opcional)
 - 1 xícara de chá de amido de milho peneirado
 - --
 

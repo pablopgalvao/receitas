@@ -32,7 +32,7 @@ flags: []
 
 - 180 gramas de açúcar impalpável
 - 1 clara de ovo
-- Suco de 1/2 limão
+- Suco de ½ limão
 - 1 colher de chá de essência de baunilha
 - Corante em gel (na cor de sua preferência)
 - --

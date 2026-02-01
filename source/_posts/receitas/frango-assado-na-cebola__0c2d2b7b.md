@@ -32,7 +32,7 @@ flags: []
 - 500 gramas de meio da asinha
 - 1 pacote de creme de cebola (50 a 70 gramas)
 - 2 colheres de sopa de mix de alho, cebola e salsa desidratados
-- 1 e 1/2 xícara de chá de maionese (330 gramas)
+- 1 e ½ xícara de chá de maionese (330 gramas)
 - 1 tomate cortado em pétalas
 - 1 cebola cortada em pétalas
 - 1 batata cortada em formato canoa

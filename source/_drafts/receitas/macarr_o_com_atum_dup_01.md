@@ -33,7 +33,7 @@ flags: []
 - 2 colheres de sopa de azeite (60 ml)
 - Salsa a gosto
 - 2 latas de atum (340 gramas)
-- 1/2 xícara de chá de vinho branco (120 ml)
+- ½ xícara de chá de vinho branco (120 ml)
 - Sal a gosto
 - Pimenta-do-reino a gosto
 - Organize e separe todos os ingredientes necessários para essa receita. Aproveite para picar o alho em cubinhos, a salsa em pedaços pequenos e deixar o atum amassado em pedaços menores;

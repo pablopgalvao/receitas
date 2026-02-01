@@ -28,7 +28,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1/2 abóbora média (1 kg e 140 gramas)
+- ½ abóbora média (1 kg e 140 gramas)
 - 200 ml de água ou leite
 - 100 ml de leite
 - 50 gramas de requeijão light (3 colheres de sopa)

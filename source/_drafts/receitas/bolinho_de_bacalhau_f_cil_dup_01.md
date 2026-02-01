@@ -34,7 +34,7 @@ flags: []
 - 2 colheres de sopa de cheiro-verde picado
 - 400 gramas de batata asterix
 - 2 colheres de sopa de amido de milho
-- 1/3 de xícara de chá de azeite extravirgem
+- ⅓ de xícara de chá de azeite extravirgem
 - 4 xícaras de chá de óleo para fritar
 - Organize sua bancada! Se seu bacalhau não for dessalgado, se antecipe. Triture o alho em um processador de alimentos. Corte a azeitona em pedacinhos. Descasque e corte a batata em cubinhos. Pique bem o cheiro-verde;
 - É importante que os ingredientes não estejam quentes para a mistura. Modele os bolinhos boleando com duas colheres;

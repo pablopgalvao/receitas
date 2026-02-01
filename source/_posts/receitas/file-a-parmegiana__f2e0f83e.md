@@ -31,7 +31,7 @@ flags: []
 
 - 1 cebola média
 - 3 dentes de alho médios
-- 1/2 xícara de chá de azeite
+- ½ xícara de chá de azeite
 - 1 lata de tomate pelado
 - 1 colher de chá de mostarda
 - Sal a gosto

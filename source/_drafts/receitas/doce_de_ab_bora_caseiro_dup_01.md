@@ -31,7 +31,7 @@ flags: []
 
 - 1 kg de abóbora cabotiá
 - 1 colher de sopa de bicarbonato de sódio (10 gramas)
-- 3 e 1/2 xícara de chá de açúcar refinado (700 gramas)
+- 3 e ½ xícara de chá de açúcar refinado (700 gramas)
 - Em uma panela larga e de fundo grosso, adicione o açúcar e a água. Misture apenas até o açúcar dissolver completamente;
 - Durante o cozimento, não mexa com a colher. Apenas balance suavemente a panela de tempos em tempos para que a calda cubra bem os pedaços;
 

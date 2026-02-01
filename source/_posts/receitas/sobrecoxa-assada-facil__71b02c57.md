@@ -32,10 +32,10 @@ flags: []
 - 1 colher de sobremesa de sal
 - 4 dentes de alho
 - 1 colher de sopa de tempero Edu Guedes (ou outro tempero de sua preferência)
-- 1/2 colher de chá de cominho
-- 1/2 colher de chá de pimenta-do-reino moída
-- 1/2 colher de chá de mostarda em grãos
-- 1/2 colher de chá de semente de coentro
+- ½ colher de chá de cominho
+- ½ colher de chá de pimenta-do-reino moída
+- ½ colher de chá de mostarda em grãos
+- ½ colher de chá de semente de coentro
 - 1 xícara de chá de vinho branco seco
 - --
 

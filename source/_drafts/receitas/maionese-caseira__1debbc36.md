@@ -30,10 +30,10 @@ flags: []
 ## 🧄 Ingredientes
 
 - 2 gemas
-- 1/4 de suco de limão-siciliano (25 ml)
+- ¼ de suco de limão-siciliano (25 ml)
 - 1 colher de sopa de mostarda dijon ou comum
-- 1/2 colher de chá de sal (ou a gosto)
-- 1/4 de colher de chá de pimenta-do-reino (ou a gosto)
+- ½ colher de chá de sal (ou a gosto)
+- ¼ de colher de chá de pimenta-do-reino (ou a gosto)
 - Óleo até dar o ponto
 - --
 

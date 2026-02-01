@@ -42,5 +42,5 @@ flags: []
 4. Leve o chocolate para derreter no micro-ondas (em potência média) de 30 em 30 segundos - mexa nos intervalos para não queimar. Quando o chocolate estiver derretido, adicione as gemas e misture bem com um batedor de arame.
 5. Para retirar o soro do creme de leite: tire a lata do freezer, vire de ponta cabeça e faça dois furos com o abridor; desvire sobre uma tigela e deixe o soro escorrer até parar de pingar (descarte ou use em outra preparação). Junte o creme de leite na mistura de chocolate e bata bem com o batedor de arame até formar um creme liso.
 6. Bata as claras em neve: inicie em velocidade baixa; quando começar a espumar, aumente a velocidade; assim que as bolhas próximas à parede da tigela sumirem e o batedor formar marcas na clara, adicione o açúcar aos poucos. Bata por mais 3 minutos, até formar um merengue brilhante.
-7. Junte 1/3 das claras em neve ao creme de chocolate e misture bem com o batedor. Incorpore o restante delicadamente com uma espátula, fazendo movimentos circulares de baixo para cima.
+7. Junte ⅓ das claras em neve ao creme de chocolate e misture bem com o batedor. Incorpore o restante delicadamente com uma espátula, fazendo movimentos circulares de baixo para cima.
 8. Transfira para a tigela onde a musse será servida e leve à geladeira por, no mínimo, 4 horas.

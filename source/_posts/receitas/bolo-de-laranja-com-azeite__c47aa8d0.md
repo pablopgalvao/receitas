@@ -31,9 +31,9 @@ flags: []
 ## 🧄 Ingredientes
 
 - Suco de 1 laranja grande
-- 2 e 1/2 xícaras de chá de farinha de trigo
+- 2 e ½ xícaras de chá de farinha de trigo
 - 1 xícara de chá de azeite de oliva
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 3 ovos
 - 3 colheres de sopa de iogurte natural
 - 1 pitada de sal

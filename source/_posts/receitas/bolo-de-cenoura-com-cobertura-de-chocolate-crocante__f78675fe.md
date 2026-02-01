@@ -28,10 +28,10 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- 1 e 1/2 xícara de chá de açúcar
-- 1 e 1/2 xícara de chá de achocolatado em pó
+- 1 e ½ xícara de chá de açúcar
+- 1 e ½ xícara de chá de achocolatado em pó
 - 2 colheres de sopa de manteiga
-- 1/2 xícara de chá de leite
+- ½ xícara de chá de leite
 - --
 
 ---

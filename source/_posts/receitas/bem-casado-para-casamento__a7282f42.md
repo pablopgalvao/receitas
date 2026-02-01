@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 300 gramas do doce de leite
-- 1 e 1/2 xícara de açúcar refinado (200 gramas)
+- 1 e ½ xícara de açúcar refinado (200 gramas)
 - 70 ml de água
 - 1 colher de café de suco de limão (5 ml)
 - --

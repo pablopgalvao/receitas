@@ -33,7 +33,7 @@ flags: []
 - 1 cebola picada
 - 1 colher de chá de azeite
 - 1 colher de chá de manteiga
-- 1/4 xícara de chá de conhaque
+- ¼ xícara de chá de conhaque
 - 1 colher de sopa de molho inglês
 - 1 xícara de chá de molho de tomate
 - 200 gramas de creme de leite fresco ou de caixinha

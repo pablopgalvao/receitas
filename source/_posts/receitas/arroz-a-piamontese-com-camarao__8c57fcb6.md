@@ -32,16 +32,16 @@ flags: []
 - 200 gramas de camarões limpos e sem casca
 - 2 colheres de sopa de azeite de oliva
 - 1 colher de sopa de manteiga
-- 1/2 cebola média
+- ½ cebola média
 - 150 gramas de champignon fresco ou em conserva
 - 1 caixinha de creme de leite (200 gramas)
 - 100 ml de leite integral
-- 1/2 xícara de chá de queijo parmesão ralado (50 gramas)
-- 1/2 colher de chá de sal
+- ½ xícara de chá de queijo parmesão ralado (50 gramas)
+- ½ colher de chá de sal
 - 1 colher de café de pimenta-do-reino
-- 1/2 noz-moscada ralada na hora
+- ½ noz-moscada ralada na hora
 - 3 colheres de sopa de salsinha picada
-- 1/4 de xícara de chá de vinho branco seco (60 ml) (opcional)
+- ¼ de xícara de chá de vinho branco seco (60 ml) (opcional)
 - --
 
 ---

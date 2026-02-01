@@ -33,8 +33,8 @@ flags: []
 - 5 colheres de sopa de molho inglês (ou shoyu)
 - 1 colher de chá de sal
 - 1 colher de chá de chimichurri
-- 1/2 colher de chá de pimenta-do-reino
-- 1/2 colher de chá de colorau
+- ½ colher de chá de pimenta-do-reino
+- ½ colher de chá de colorau
 - 1 colher de sopa de azeite
 - Em seguida, em outra tigela, adicione o suco de limão, o molho inglês, o sal, o chimichurri, a pimenta-do-reino, o colorau, o alho e o azeite. Misture até que fique uma pasta cremosa;
 

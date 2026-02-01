@@ -32,9 +32,9 @@ flags: []
 - 3 ovos
 - 200ml de leite
 - 80ml de óleo
-- 1 e 1/2 xícara de chá de açúcar
+- 1 e ½ xícara de chá de açúcar
 - 1 colher de sobremesa de canela em pó
-- 2 e 1/2 xícara de chá de farinha de trigo
+- 2 e ½ xícara de chá de farinha de trigo
 - 1 colher de sopa de fermento
 - 2 caixinhas de leite condensado
 - Manteiga para untar

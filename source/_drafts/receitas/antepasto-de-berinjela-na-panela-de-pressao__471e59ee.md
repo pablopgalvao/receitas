@@ -35,15 +35,15 @@ flags: []
 - 1 cebola
 - 3 dentes de alho
 - 1 tomate
-- 1/2 xícara de chá de azeitonas pretas sem caroço (40 gramas)
-- 1/2 xícara de chá de uva-passa preta (60 gramas)
-- 1/2 xícara de chá de uva-passa branca (60 gramas)
-- 1/2 xícara de chá de azeite de oliva (120 ml)
-- 1/2 xícara de vinagre branco (120 ml)
+- ½ xícara de chá de azeitonas pretas sem caroço (40 gramas)
+- ½ xícara de chá de uva-passa preta (60 gramas)
+- ½ xícara de chá de uva-passa branca (60 gramas)
+- ½ xícara de chá de azeite de oliva (120 ml)
+- ½ xícara de vinagre branco (120 ml)
 - 1 colher de chá de orégano
-- 1/2 colher de chá de páprica doce
-- 1/2 colher de chá de páprica picante
-- 1/2 colher de chá de lemon pepper
+- ½ colher de chá de páprica doce
+- ½ colher de chá de páprica picante
+- ½ colher de chá de lemon pepper
 - 1 colher de chá de sopa de sal a gosto (para desidratar a berinjela e para o restante da receita)
 - --
 

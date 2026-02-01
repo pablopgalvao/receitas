@@ -33,11 +33,11 @@ flags: []
 - 1 xícara de chá de polvilho doce (ou araruta)
 - 1 colher de sopa de açúcar mascavo (ou outro açúcar, exceto adoçante)
 - 1 colher de sopa de fermento biológico seco instantâneo
-- 1/4 de colher de chá de goma xantana
+- ¼ de colher de chá de goma xantana
 - 1 ovo
 - 1 colher de chá de sal
 - 1 xícara de chá de água morna
-- 1/3 de xícara de chá de mix de sementes e castanhas (girassol, chia, linhaça, castanha-do-pará, etc.)
+- ⅓ de xícara de chá de mix de sementes e castanhas (girassol, chia, linhaça, castanha-do-pará, etc.)
 - Flocos de aveia e sementes extras para polvilhar
 - --
 

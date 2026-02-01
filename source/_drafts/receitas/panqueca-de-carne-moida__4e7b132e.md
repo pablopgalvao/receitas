@@ -29,7 +29,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - 1 colher de sopa de azeite
-- 1/2 colher de sopa de manteiga
+- ½ colher de sopa de manteiga
 - 1 kg de carne moída (optamos por patinho moído)
 - 1 cebola média (180 gramas)
 - 2 dentes de alho amassados

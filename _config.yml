@@ -34,8 +34,8 @@ keywords: Receitas
 author: Pablo Galvão
 language: pt
 timezone: America/Sao_Paulo
-url: https://pablopgalvao.github.io
-root: /receitas/
+url: https://receitas.pgalvao.com.br
+root: /
 permalink: ':day/:month/:year/:title/'
 permalink_defaults: null
 pretty_urls:

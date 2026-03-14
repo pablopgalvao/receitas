@@ -1,0 +1,12 @@
+{
+  "name": "hexo-theme-boil",
+  "version": "1.0.0",
+  "description": "Hexo Theme boil",
+  "repository": "hexojs/hexo-theme-boil",
+  "keywords": [
+    "hexo",
+    "theme",
+    "boil"
+  ],
+  "license": "MIT"
+}

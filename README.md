@@ -20,6 +20,10 @@ Você pode usar diretamente os scripts do projeto ou o `npx hexo`.
 - **Servidor de desenvolvimento**: inicia em http://localhost:4000
 	- `npm run server`
 	- ou `npx hexo server --watch`
+	- Para mudar a porta:
+	- `hexo server -p 5000`
+	- ou
+	- `hexo s -p 5000`
 
 - **Criar conteúdo**:
 	- Post padrão: `npx hexo new post "Título da Receita"`

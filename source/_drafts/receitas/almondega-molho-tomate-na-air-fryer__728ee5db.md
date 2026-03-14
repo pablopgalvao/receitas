@@ -1,5 +1,5 @@
 ---
-title: Almôndega com molho de tomate na Air Fryer da Rita Lobo
+title: Almôndega com molho de tomate na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
     - folhas
 difficulty: ''
@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Almôndega com molho de tomate na Air Fryer da Rita Lobo](/images/almondega-molho-tomate-na-air-fryer__728ee5db_01.webp)
+![Almôndega com molho de tomate na Air Fryer](/images/almondega-molho-tomate-na-air-fryer__728ee5db_01.webp)
 
 ## 📝 Informações da Receita
 

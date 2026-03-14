@@ -11,7 +11,7 @@ ingredients:
     - cebolinha
     - molho
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - queijo
     - pao
 difficulty: ''

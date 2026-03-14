@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 6 porções
 time: 22 min

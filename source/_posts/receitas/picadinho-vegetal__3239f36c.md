@@ -11,7 +11,7 @@ ingredients:
     - azeite
     - suco
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - salsinha
 difficulty: ''
 servings: 5 porções

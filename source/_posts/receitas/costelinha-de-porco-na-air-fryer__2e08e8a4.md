@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - suco
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 4 porções
 time: 35 min

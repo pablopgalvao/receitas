@@ -1,5 +1,5 @@
 ---
-title: Focaccia sem sova na Air Fryer com vapor da Rita Lobo
+title: Focaccia sem sova na Air Fryer com vapor
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Focaccia sem sova na Air Fryer com vapor da Rita Lobo](/images/focaccia_sem_sova_na_air_fryer_com_vapor_da_rita_lobo.jpg)
+![Focaccia sem sova na Air Fryer com vapor](/images/focaccia_sem_sova_na_air_fryer_com_vapor_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Pão com ovo e queijo na Air Fryer da Rita Lobo
+- Pão com ovo e queijo na Air Fryer
 - 3¼ de xícaras (chá) de farinha de trigo
 - ½ colher (chá) de fermento biológico seco
 - 2 colheres (chá) de sal

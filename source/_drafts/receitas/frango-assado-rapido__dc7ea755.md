@@ -9,7 +9,7 @@ ingredients:
   list:
     - agua
     - manjericao
-    - pimentadoreino
+    - Pimenta do reino
     - casca
 difficulty: ''
 servings: 12 porções

@@ -1,5 +1,5 @@
 ---
-title: Pão rápido na Air Fryer da Rita Lobo
+title: Pão rápido na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão rápido na Air Fryer da Rita Lobo](/images/p_o_r_pido_na_air_fryer_da_rita_lobo.jpg)
+![Pão rápido na Air Fryer](/images/p_o_r_pido_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

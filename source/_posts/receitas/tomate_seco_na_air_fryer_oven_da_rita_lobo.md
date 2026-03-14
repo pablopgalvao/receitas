@@ -1,5 +1,5 @@
 ---
-title: Tomate seco na Air Fryer Oven da Rita Lobo
+title: Tomate seco na Air Fryer Oven
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Tomate seco na Air Fryer Oven da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tomate_seco_na_air_fryer_oven_da_rita_lobo.jpg)
+![Tomate seco na Air Fryer Oven](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tomate_seco_na_air_fryer_oven_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

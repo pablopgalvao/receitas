@@ -1,5 +1,5 @@
 ---
-title: Banana assada na Air Fryer da Rita Lobo com merengue de mel
+title: Banana assada na Air Fryer com merengue de mel
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Banana assada na Air Fryer da Rita Lobo com merengue de mel](/images/banana_assada_na_air_fryer_da_rita_lobo_com_merengue_de_mel.jpg)
+![Banana assada na Air Fryer com merengue de mel](/images/banana_assada_na_air_fryer_da_rita_lobo_com_merengue_de_mel.jpg)
 
 ## 📝 Informações da Receita
 

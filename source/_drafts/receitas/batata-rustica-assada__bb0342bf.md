@@ -9,7 +9,7 @@ ingredients:
   list:
     - agua
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
 difficulty: ''
 servings: ''

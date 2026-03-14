@@ -1,5 +1,5 @@
 ---
-title: Batata-bolinha assada na Air Fryer da Rita Lobo
+title: Batata-bolinha assada na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata-bolinha assada na Air Fryer da Rita Lobo](/images/batata-bolinha-assada-na-air-fryer__bcfce48b_01.webp)
+![Batata-bolinha assada na Air Fryer](/images/batata-bolinha-assada-na-air-fryer__bcfce48b_01.webp)
 
 ## 📝 Informações da Receita
 

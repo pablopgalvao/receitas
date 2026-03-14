@@ -9,7 +9,7 @@ ingredients:
   list:
     - azeite
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 3 porções
 time: 70 min

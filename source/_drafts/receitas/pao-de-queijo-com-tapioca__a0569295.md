@@ -1,5 +1,5 @@
 ---
-title: Pão de queijo com tapioca na Air Fryer da Rita Lobo
+title: Pão de queijo com tapioca na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de queijo com tapioca na Air Fryer da Rita Lobo](/images/pao-de-queijo-com-tapioca__a0569295_01.webp)
+![Pão de queijo com tapioca na Air Fryer](/images/pao-de-queijo-com-tapioca__a0569295_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -9,7 +9,7 @@ ingredients:
   list:
     - shimeji
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - sumo
     - azeite
 difficulty: ''

@@ -9,7 +9,7 @@ ingredients:
   list:
     - obranco
     - raspas
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: ''

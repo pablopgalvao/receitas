@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - cheiro
 difficulty: ''
 servings: 4 porções

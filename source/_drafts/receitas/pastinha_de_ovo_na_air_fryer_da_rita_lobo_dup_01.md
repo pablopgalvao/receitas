@@ -1,5 +1,5 @@
 ---
-title: Pastinha de ovo na Air Fryer da Rita Lobo
+title: Pastinha de ovo na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastinha de ovo na Air Fryer da Rita Lobo](/images/pastinha_de_ovo_na_air_fryer_da_rita_lobo.jpg)
+![Pastinha de ovo na Air Fryer](/images/pastinha_de_ovo_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,8 +29,8 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Pão com ovo e queijo na Air Fryer da Rita Lobo
-- Ovo cozido na Air Fryer da Rita Lobo
+- Pão com ovo e queijo na Air Fryer
+- Ovo cozido na Air Fryer
 - 6 ovos (em temperatura ambiente)
 - ¼ de xícara (chá) de água
 - ⅓ de xícara (chá) de maionese caseira

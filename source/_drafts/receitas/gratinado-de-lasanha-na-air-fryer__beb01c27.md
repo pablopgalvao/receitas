@@ -1,5 +1,5 @@
 ---
-title: Gratinado de lasanha na Air Fryer da Rita Lobo (reaproveitamento)
+title: Gratinado de lasanha na Air Fryer (reaproveitamento)
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Gratinado de lasanha na Air Fryer da Rita Lobo (reaproveitamento)](/images/gratinado-de-lasanha-na-air-fryer__beb01c27_01.webp)
+![Gratinado de lasanha na Air Fryer (reaproveitamento)](/images/gratinado-de-lasanha-na-air-fryer__beb01c27_01.webp)
 
 ## 📝 Informações da Receita
 

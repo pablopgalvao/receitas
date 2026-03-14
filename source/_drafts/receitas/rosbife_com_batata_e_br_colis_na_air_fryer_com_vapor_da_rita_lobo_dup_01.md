@@ -1,5 +1,5 @@
 ---
-title: Rosbife com batata e brócolis na Air Fryer com Vapor da Rita Lobo
+title: Rosbife com batata e brócolis na Air Fryer com Vapor
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Rosbife com batata e brócolis na Air Fryer com Vapor da Rita Lobo](/images/rosbife_com_batata_e_br_colis_na_air_fryer_com_vapor_da_rita_lobo.jpg)
+![Rosbife com batata e brócolis na Air Fryer com Vapor](/images/rosbife_com_batata_e_br_colis_na_air_fryer_com_vapor_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

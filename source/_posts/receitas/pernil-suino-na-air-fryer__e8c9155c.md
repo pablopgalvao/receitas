@@ -9,7 +9,7 @@ ingredients:
   list:
     - alecrim
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 6 porções
 time: 180 min

@@ -1,5 +1,5 @@
 ---
-title: Focaccia sem sova na Air Fryer com vapor da Rita Lobo
+title: Focaccia sem sova na Air Fryer com vapor
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Focaccia sem sova na Air Fryer com vapor da Rita Lobo](/images/focaccia-sem-sova-na-air-fryer-com-vapor-da-rita-lobo__d9cfaf1c_01.webp)
+![Focaccia sem sova na Air Fryer com vapor](/images/focaccia-sem-sova-na-air-fryer-com-vapor-da-rita-lobo__d9cfaf1c_01.webp)
 
 ## 📝 Informações da Receita
 

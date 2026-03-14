@@ -10,7 +10,7 @@ ingredients:
     - sal
     - lemon
     - azeite
-    - pimentadoreino
+    - Pimenta do reino
     - suco
     - salsinha
     - raspas

@@ -1,5 +1,5 @@
 ---
-title: Chips de inhame na Air Fryer da Rita Lobo
+title: Chips de inhame na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chips de inhame na Air Fryer da Rita Lobo](/images/chips_de_inhame_na_air_fryer_da_rita_lobo.jpg)
+![Chips de inhame na Air Fryer](/images/chips_de_inhame_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

@@ -11,7 +11,7 @@ ingredients:
     - pimentadecheiro
     - acafrao
     - colorau
-    - pimentadoreino
+    - Pimenta do reino
     - folha
     - cheiroverde
 difficulty: ''

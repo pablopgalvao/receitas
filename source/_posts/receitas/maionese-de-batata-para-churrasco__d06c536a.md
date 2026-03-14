@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - suco
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - batata
 difficulty: ''

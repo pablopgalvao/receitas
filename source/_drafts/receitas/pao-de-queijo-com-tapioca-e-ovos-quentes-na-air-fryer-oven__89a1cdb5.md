@@ -1,5 +1,5 @@
 ---
-title: Pão de queijo com tapioca e ovos quentes na Air Fryer Oven da Rita Lobo
+title: Pão de queijo com tapioca e ovos quentes na Air Fryer Oven
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de queijo com tapioca e ovos quentes na Air Fryer Oven da Rita Lobo](/images/pao-de-queijo-com-tapioca-e-ovos-quentes-na-air-fryer-oven__89a1cdb5_01.webp)
+![Pão de queijo com tapioca e ovos quentes na Air Fryer Oven](/images/pao-de-queijo-com-tapioca-e-ovos-quentes-na-air-fryer-oven__89a1cdb5_01.webp)
 
 ## 📝 Informações da Receita
 

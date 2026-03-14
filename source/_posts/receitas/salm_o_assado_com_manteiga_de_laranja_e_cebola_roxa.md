@@ -30,7 +30,7 @@ flags: []
 ## 🧄 Ingredientes
 
 - Salmão agridoce com legumes picantes
-- Salmão com brócolis na Air Fryer da Rita Lobo
+- Salmão com brócolis na Air Fryer
 - Salmão com cuscuz marroquino e salada de laranja
 - Salmão assado com páprica, mel e cebola-roxa
 - Gravlax de salmão com beterraba

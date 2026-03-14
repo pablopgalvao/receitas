@@ -11,7 +11,7 @@ ingredients:
     - oregano
     - acafrao
     - colorau
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - cheiroverde
     - agua

@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
     - folhas
     - iogurte
     - sumac

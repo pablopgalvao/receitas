@@ -1,5 +1,5 @@
 ---
-title: Pãozinho de parmesão e cebolinha na Air Fryer da Rita Lobo
+title: Pãozinho de parmesão e cebolinha na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pãozinho de parmesão e cebolinha na Air Fryer da Rita Lobo](/images/p_ozinho_de_parmes_o_e_cebolinha_na_air_fryer_da_rita_lobo.jpg)
+![Pãozinho de parmesão e cebolinha na Air Fryer](/images/p_ozinho_de_parmes_o_e_cebolinha_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

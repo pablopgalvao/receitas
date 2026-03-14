@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
     - caldo
 difficulty: ''
 servings: 5 porções

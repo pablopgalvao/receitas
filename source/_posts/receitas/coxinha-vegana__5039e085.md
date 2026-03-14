@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - azeite
-    - pimentadoreino
+    - Pimenta do reino
     - cominho
     - curcuma
     - tofupiry

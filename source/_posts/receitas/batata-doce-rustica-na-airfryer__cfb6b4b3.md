@@ -11,7 +11,7 @@ ingredients:
     - temperos
     - mix
     - paprica
-    - pimentadoreino
+    - Pimenta do reino
     - oregano
     - ervas
 difficulty: ''

@@ -1,5 +1,5 @@
 ---
-title: Salpicão de frango na Air Fryer da Rita Lobo
+title: Salpicão de frango na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 1 hora
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salpicão de frango na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salpicao-de-frango-na-air-fryer__c081221b_01.webp)
+![Salpicão de frango na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salpicao-de-frango-na-air-fryer__c081221b_01.webp)
 
 ## 📝 Informações da Receita
 

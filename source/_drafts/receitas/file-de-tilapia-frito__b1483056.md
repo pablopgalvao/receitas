@@ -10,7 +10,7 @@ ingredients:
     - suco
     - cheiroverde
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 10 porções
 time: 40 min

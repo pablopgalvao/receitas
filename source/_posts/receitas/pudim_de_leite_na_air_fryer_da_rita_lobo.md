@@ -1,5 +1,5 @@
 ---
-title: Pudim de leite na Air Fryer da Rita Lobo
+title: Pudim de leite na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pudim de leite na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pudim_de_leite_na_air_fryer_da_rita_lobo.jpg)
+![Pudim de leite na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pudim_de_leite_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo
+- Salada de pimentão assado com feijão-branco na Air Fryer
 - 1¼ de xícara (chá) de leite
 - Numa tigela pequena, quebre um ovo de cada vez e transfira para outra tigela maior. Mexa com o batedor de arame para misturar as claras com as gemas. Junte o leite condensado e misture bem.
 - ¾ de xícara (chá) de açúcar

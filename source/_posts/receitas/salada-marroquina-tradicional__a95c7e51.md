@@ -9,7 +9,7 @@ ingredients:
   list:
     - maionese
     - hortela
-    - pimentadoreino
+    - Pimenta do reino
     - sal
 difficulty: ''
 servings: 15 porções

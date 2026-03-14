@@ -1,5 +1,5 @@
 ---
-title: Lasanha à bolonhesa na Air Fryer da Rita Lobo
+title: Lasanha à bolonhesa na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Lasanha à bolonhesa na Air Fryer da Rita Lobo](/images/lasanha-a-bolonhesa-na-air-fryer__d84ecea2_01.webp)
+![Lasanha à bolonhesa na Air Fryer](/images/lasanha-a-bolonhesa-na-air-fryer__d84ecea2_01.webp)
 
 ## 📝 Informações da Receita
 

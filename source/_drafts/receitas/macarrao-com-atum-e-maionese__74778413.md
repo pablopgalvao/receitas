@@ -9,7 +9,7 @@ ingredients:
   list:
     - salsinha
     - cebolinha
-    - pimentadoreino
+    - Pimenta do reino
     - sal
 difficulty: ''
 servings: 5 porções

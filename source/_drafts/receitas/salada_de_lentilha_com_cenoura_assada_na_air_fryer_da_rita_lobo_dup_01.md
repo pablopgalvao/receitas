@@ -1,5 +1,5 @@
 ---
-title: Salada de lentilha com cenoura assada na Air Fryer da Rita Lobo
+title: Salada de lentilha com cenoura assada na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de lentilha com cenoura assada na Air Fryer da Rita Lobo](/images/salada_de_lentilha_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)
+![Salada de lentilha com cenoura assada na Air Fryer](/images/salada_de_lentilha_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

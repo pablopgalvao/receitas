@@ -9,7 +9,7 @@ ingredients:
   list:
     - suco
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - gergelim
     - hortela
 difficulty: ''

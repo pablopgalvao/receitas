@@ -1,5 +1,5 @@
 ---
-title: Chips de inhame na Air Fryer da Rita Lobo
+title: Chips de inhame na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 15 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Chips de inhame na Air Fryer da Rita Lobo](/images/chips-de-inhame-na-air-fryer-da-rita-lobo__441d2242_01.webp)
+![Chips de inhame na Air Fryer](/images/chips-de-inhame-na-air-fryer-da-rita-lobo__441d2242_01.webp)
 
 ## 📝 Informações da Receita
 

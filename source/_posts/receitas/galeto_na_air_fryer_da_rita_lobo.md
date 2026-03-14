@@ -1,5 +1,5 @@
 ---
-title: Galeto na Air Fryer da Rita Lobo
+title: Galeto na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Galeto na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/galeto_na_air_fryer_da_rita_lobo.jpg)
+![Galeto na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/galeto_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo
+- Salada de pimentão assado com feijão-branco na Air Fryer
 - 1 colher (sopa) de manteiga em ponto pomada
 - ½ colher (chá) de páprica doce
 - 1 colher (chá) de flor do sal

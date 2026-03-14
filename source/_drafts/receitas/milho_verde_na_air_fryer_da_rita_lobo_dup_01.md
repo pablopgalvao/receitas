@@ -1,5 +1,5 @@
 ---
-title: Milho-verde na Air Fryer da Rita Lobo
+title: Milho-verde na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Milho-verde na Air Fryer da Rita Lobo](/images/milho_verde_na_air_fryer_da_rita_lobo.jpg)
+![Milho-verde na Air Fryer](/images/milho_verde_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Milho-verde com manteiga temperada na Air Fryer da Rita Lobo
+- Milho-verde com manteiga temperada na Air Fryer
 - Salada de milho grelhado
 - 1½ colher (chá) de azeite
 - ½ colher (chá) de sal

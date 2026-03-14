@@ -1,5 +1,5 @@
 ---
-title: Babaganuche de jiló na Air Fryer da Rita Lobo
+title: Babaganuche de jiló na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Babaganuche de jiló na Air Fryer da Rita Lobo](/images/babaganuche-de-jilo-na-air-fryer-da-rita-lobo__9e151764_01.webp)
+![Babaganuche de jiló na Air Fryer](/images/babaganuche-de-jilo-na-air-fryer-da-rita-lobo__9e151764_01.webp)
 
 ## 📝 Informações da Receita
 

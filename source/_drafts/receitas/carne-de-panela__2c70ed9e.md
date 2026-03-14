@@ -10,7 +10,7 @@ ingredients:
     - agua
     - azeite
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - cheiroverde
 difficulty: ''
 servings: 8 porções

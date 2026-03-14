@@ -1,5 +1,5 @@
 ---
-title: Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo
+title: Salada de pimentão assado com feijão-branco na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_assado_com_feij_o_branco_na_air_fryer_da_rita_lobo.jpg)
+![Salada de pimentão assado com feijão-branco na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_assado_com_feij_o_branco_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

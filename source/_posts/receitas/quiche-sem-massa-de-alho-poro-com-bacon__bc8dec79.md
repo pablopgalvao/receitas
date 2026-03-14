@@ -9,7 +9,7 @@ ingredients:
   list:
     - nozmoscada
     - dentes
-    - pimentadoreino
+    - Pimenta do reino
     - oleo
 difficulty: ''
 servings: 8 porções

@@ -10,7 +10,7 @@ ingredients:
     - sal
     - acafrao
     - paprica
-    - pimentadoreino
+    - Pimenta do reino
     - oregano
     - suco
 difficulty: ''

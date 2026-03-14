@@ -10,7 +10,7 @@ ingredients:
     - cominho
     - paprica
     - gengibre
-    - pimentadoreino
+    - Pimenta do reino
     - pimentadajamaica
     - folhas
     - sal

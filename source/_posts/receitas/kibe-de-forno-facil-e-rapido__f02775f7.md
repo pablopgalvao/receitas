@@ -10,7 +10,7 @@ ingredients:
     - cebolinha
     - hortela
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
 difficulty: ''
 servings: 10 porções

@@ -9,7 +9,7 @@ ingredients:
   list:
     - lemon
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
 difficulty: ''
 servings: 8 porções

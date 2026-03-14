@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
     - salsinha
 difficulty: ''
 servings: 8 porções

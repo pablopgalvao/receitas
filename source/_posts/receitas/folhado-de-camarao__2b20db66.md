@@ -9,7 +9,7 @@ ingredients:
   list:
     - fio
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - cheiroverde
 difficulty: ''
 servings: 12 porções

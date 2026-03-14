@@ -9,7 +9,7 @@ ingredients:
   list:
     - suco
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 5 min

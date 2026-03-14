@@ -9,7 +9,7 @@ ingredients:
   list:
     - azeite
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - tempero
 difficulty: ''
 servings: 2 porções

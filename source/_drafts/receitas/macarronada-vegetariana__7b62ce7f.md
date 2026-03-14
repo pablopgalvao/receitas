@@ -9,7 +9,7 @@ ingredients:
   list:
     - sal
     - nozmoscada
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 3 porções
 time: 40 min

@@ -10,7 +10,7 @@ ingredients:
     - queijo
     - sal
     - azeite
-    - pimentadoreino
+    - Pimenta do reino
     - manjericao
 difficulty: ''
 servings: 4 porções

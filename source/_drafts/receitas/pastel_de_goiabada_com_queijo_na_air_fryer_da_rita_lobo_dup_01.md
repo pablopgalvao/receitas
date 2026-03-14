@@ -1,5 +1,5 @@
 ---
-title: Pastel de goiabada com queijo na Air Fryer da Rita Lobo
+title: Pastel de goiabada com queijo na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastel de goiabada com queijo na Air Fryer da Rita Lobo](/images/pastel_de_goiabada_com_queijo_na_air_fryer_da_rita_lobo.jpg)
+![Pastel de goiabada com queijo na Air Fryer](/images/pastel_de_goiabada_com_queijo_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

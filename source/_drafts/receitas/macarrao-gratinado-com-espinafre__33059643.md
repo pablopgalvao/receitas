@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - nozmoscada
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 1 hora

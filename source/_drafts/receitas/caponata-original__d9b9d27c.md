@@ -9,7 +9,7 @@ ingredients:
   list:
     - azeite
     - pimenta
-    - pimentadoreino
+    - Pimenta do reino
     - vinagre
     - manjericao
 difficulty: ''

@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - agua
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - amido
     - cebolinha

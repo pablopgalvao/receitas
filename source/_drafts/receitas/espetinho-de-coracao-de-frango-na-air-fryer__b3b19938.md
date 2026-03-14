@@ -1,5 +1,5 @@
 ---
-title: Espetinho de coração de frango na Air Fryer da Rita Lobo
+title: Espetinho de coração de frango na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Espetinho de coração de frango na Air Fryer da Rita Lobo](/images/espetinho-de-coracao-de-frango-na-air-fryer__b3b19938_01.webp)
+![Espetinho de coração de frango na Air Fryer](/images/espetinho-de-coracao-de-frango-na-air-fryer__b3b19938_01.webp)
 
 ## 📝 Informações da Receita
 

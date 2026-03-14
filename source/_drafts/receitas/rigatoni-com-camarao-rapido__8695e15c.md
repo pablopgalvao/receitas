@@ -9,7 +9,7 @@ ingredients:
   list:
     - raspas
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 8 porções
 time: 30 min

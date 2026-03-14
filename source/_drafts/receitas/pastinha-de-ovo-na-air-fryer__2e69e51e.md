@@ -1,5 +1,5 @@
 ---
-title: Pastinha de ovo na Air Fryer da Rita Lobo
+title: Pastinha de ovo na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastinha de ovo na Air Fryer da Rita Lobo](/images/pastinha-de-ovo-na-air-fryer__2e69e51e_01.webp)
+![Pastinha de ovo na Air Fryer](/images/pastinha-de-ovo-na-air-fryer__2e69e51e_01.webp)
 
 ## 📝 Informações da Receita
 

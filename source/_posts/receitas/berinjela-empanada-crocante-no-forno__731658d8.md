@@ -10,7 +10,7 @@ ingredients:
     - agua
     - sal
     - chimichurri
-    - pimentadoreino
+    - Pimenta do reino
     - farinha
     - queijo
 difficulty: ''

@@ -9,7 +9,7 @@ ingredients:
   list:
     - agua
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 2 hora

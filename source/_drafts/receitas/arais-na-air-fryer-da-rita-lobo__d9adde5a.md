@@ -1,5 +1,5 @@
 ---
-title: Arais na Air Fryer da Rita Lobo
+title: Arais na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Arais na Air Fryer da Rita Lobo](/images/arais-na-air-fryer-da-rita-lobo__d9adde5a_01.webp)
+![Arais na Air Fryer](/images/arais-na-air-fryer-da-rita-lobo__d9adde5a_01.webp)
 
 ## 📝 Informações da Receita
 

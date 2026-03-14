@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - cominho
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - agua
 difficulty: ''

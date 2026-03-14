@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - barriga
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 140 min

@@ -1,5 +1,5 @@
 ---
-title: Babaganuche na Air Fryer da Rita Lobo
+title: Babaganuche na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Babaganuche na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganuche-na-air-fryer__b3cfdbc0_01.webp)
+![Babaganuche na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganuche-na-air-fryer__b3cfdbc0_01.webp)
 
 ## 📝 Informações da Receita
 

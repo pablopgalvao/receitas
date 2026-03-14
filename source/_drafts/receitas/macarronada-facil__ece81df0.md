@@ -9,7 +9,7 @@ ingredients:
   list:
     - sal
     - oregano
-    - pimentadoreino
+    - Pimenta do reino
     - cheiroverde
     - agua
 difficulty: ''

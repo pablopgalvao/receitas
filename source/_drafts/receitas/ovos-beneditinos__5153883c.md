@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 3 porções
 time: 30 min

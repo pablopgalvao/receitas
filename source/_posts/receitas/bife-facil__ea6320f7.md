@@ -10,7 +10,7 @@ ingredients:
     - sal
     - paprica
     - colorau
-    - pimentadoreino
+    - Pimenta do reino
     - shoyu
     - oleo
 difficulty: ''

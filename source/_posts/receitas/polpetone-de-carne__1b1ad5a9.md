@@ -9,7 +9,7 @@ ingredients:
   list:
     - molho
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - parmesao
     - mussarela
     - folhas

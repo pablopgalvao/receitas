@@ -1,5 +1,5 @@
 ---
-title: Bolinho de arroz com queijo na Air Fryer da Rita Lobo
+title: Bolinho de arroz com queijo na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de arroz com queijo na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg)
+![Bolinho de arroz com queijo na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salmão com brócolis na Air Fryer da Rita Lobo
+- Salmão com brócolis na Air Fryer
 - 3½ xícaras (chá) de arroz branco cozido
 - ¼ de xícara (chá) de leite
 - ½ colher (chá) de sal

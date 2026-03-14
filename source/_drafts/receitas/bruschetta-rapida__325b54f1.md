@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - manjericao
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 45 min

@@ -9,7 +9,7 @@ ingredients:
   list:
     - bora
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - o
 difficulty: ''
 servings: 4 porções

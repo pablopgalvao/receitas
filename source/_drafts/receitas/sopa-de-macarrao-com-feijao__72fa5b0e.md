@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - pimenta
-    - pimentadoreino
+    - Pimenta do reino
     - agua
     - salsinha
 difficulty: ''

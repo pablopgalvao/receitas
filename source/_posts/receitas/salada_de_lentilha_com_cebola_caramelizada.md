@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salada de lentilha com cenoura assada na Air Fryer da Rita Lobo
+- Salada de lentilha com cenoura assada na Air Fryer
 - Salada de lentilha com manga, espinafre e curry
 - Salada morna de lentilha com legumes assados e molho de iogurte com tahine
 - Salada de lentilha com queijo feta e cebola frita

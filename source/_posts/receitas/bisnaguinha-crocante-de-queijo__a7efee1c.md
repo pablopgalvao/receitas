@@ -9,7 +9,7 @@ ingredients:
   list:
     - requeijao
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
 difficulty: ''
 servings: 10 porções

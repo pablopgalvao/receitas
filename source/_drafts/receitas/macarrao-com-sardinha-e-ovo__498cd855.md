@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - macarrao
-    - pimentadoreino
+    - Pimenta do reino
     - pimenta
     - cheiroverde
 difficulty: ''

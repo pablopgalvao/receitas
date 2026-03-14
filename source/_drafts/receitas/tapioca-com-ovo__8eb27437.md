@@ -10,7 +10,7 @@ ingredients:
     - queijo
     - sal
     - oregano
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 1 porções
 time: 10 min

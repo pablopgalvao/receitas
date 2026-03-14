@@ -9,7 +9,7 @@ ingredients:
   list:
     - sal
     - paprica
-    - pimentadoreino
+    - Pimenta do reino
     - cebolinha
 difficulty: ''
 servings: 9 porções

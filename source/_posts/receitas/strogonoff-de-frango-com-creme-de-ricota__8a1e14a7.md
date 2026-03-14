@@ -9,7 +9,7 @@ ingredients:
   list:
     - azeite
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - curcuma
 difficulty: ''
 servings: 7 porções

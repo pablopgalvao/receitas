@@ -1,5 +1,5 @@
 ---
-title: Suflê de chocolate na Air Fryer da Rita Lobo
+title: Suflê de chocolate na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Suflê de chocolate na Air Fryer da Rita Lobo](/images/sufle-de-chocolate-na-air-fryer__aa4f1d18_01.webp)
+![Suflê de chocolate na Air Fryer](/images/sufle-de-chocolate-na-air-fryer__aa4f1d18_01.webp)
 
 ## 📝 Informações da Receita
 

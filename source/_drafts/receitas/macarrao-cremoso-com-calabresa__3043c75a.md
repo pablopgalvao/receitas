@@ -9,7 +9,7 @@ ingredients:
   list:
     - cheiroverde
     - chimichurri
-    - pimentadoreino
+    - Pimenta do reino
     - coentro
     - sal
 difficulty: ''

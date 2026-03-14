@@ -1,5 +1,5 @@
 ---
-title: Bolo de Fubá na Air Fryer da Rita Lobo
+title: Bolo de Fubá na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de Fubá na Air Fryer da Rita Lobo](/images/bolo_de_fub_na_air_fryer_da_rita_lobo.jpg)
+![Bolo de Fubá na Air Fryer](/images/bolo_de_fub_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

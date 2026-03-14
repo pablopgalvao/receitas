@@ -12,7 +12,7 @@ ingredients:
     - sal
     - colorau
     - acafrao
-    - pimentadoreino
+    - Pimenta do reino
     - queijo
     - batata
 difficulty: ''

@@ -1,7 +1,7 @@
 ---
 title: >-
   Enroladinho de frango com queijo e ensopado de tomate com grão-de-bico na Air
-  Fryer da Rita Lobo
+  Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Enroladinho de frango com queijo e ensopado de tomate com grão-de-bico na Air Fryer da Rita Lobo](/images/enroladinho_de_frango_com_queijo_e_ensopado_de_tomate_com_gr_o_de_bico_na_air_fryer_da_rita_lobo.jpg)
+![Enroladinho de frango com queijo e ensopado de tomate com grão-de-bico na Air Fryer](/images/enroladinho_de_frango_com_queijo_e_ensopado_de_tomate_com_gr_o_de_bico_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

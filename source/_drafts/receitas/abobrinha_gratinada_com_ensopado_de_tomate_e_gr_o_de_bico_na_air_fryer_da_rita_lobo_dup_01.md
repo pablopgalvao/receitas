@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Abobrinha gratinada com ensopado de tomate e grão-de-bico na Air Fryer da Rita Lobo](/images/abobrinha_gratinada_com_ensopado_de_tomate_e_gr_o_de_bico_na_air_fryer_da_rita_lobo.jpg)
+![Abobrinha gratinada com ensopado de tomate e grão-de-bico na Air Fryer](/images/abobrinha_gratinada_com_ensopado_de_tomate_e_gr_o_de_bico_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

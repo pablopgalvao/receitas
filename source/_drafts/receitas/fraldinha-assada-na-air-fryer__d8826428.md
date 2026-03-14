@@ -1,5 +1,5 @@
 ---
-title: Fraldinha assada na Air Fryer da Rita Lobo
+title: Fraldinha assada na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 20 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Fraldinha assada na Air Fryer da Rita Lobo](/images/fraldinha-assada-na-air-fryer__d8826428_01.webp)
+![Fraldinha assada na Air Fryer](/images/fraldinha-assada-na-air-fryer__d8826428_01.webp)
 
 ## 📝 Informações da Receita
 

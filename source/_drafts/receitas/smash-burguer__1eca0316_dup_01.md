@@ -12,7 +12,7 @@ ingredients:
     - picles
     - ketchup
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 15 min

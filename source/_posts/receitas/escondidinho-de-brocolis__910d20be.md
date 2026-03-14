@@ -10,7 +10,7 @@ ingredients:
     - fios
     - queijo
     - parmesao
-    - pimentadoreino
+    - Pimenta do reino
     - oregano
 difficulty: ''
 servings: 10 porções

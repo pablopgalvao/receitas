@@ -16,7 +16,7 @@ ingredients:
     - salsinha
     - louro
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 5 porções
 time: 70 min

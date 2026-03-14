@@ -9,7 +9,7 @@ ingredients:
   list:
     - paprica
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - alecrim
 difficulty: ''
 servings: ''

@@ -12,7 +12,7 @@ ingredients:
     - sal
     - cheiroverde
     - oregano
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 65 min

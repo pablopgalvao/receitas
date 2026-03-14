@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - colorau
-    - pimentadoreino
+    - Pimenta do reino
     - agua
     - cheiroverde
 difficulty: ''

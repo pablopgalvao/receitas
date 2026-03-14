@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Ovo cozido na Air Fryer da Rita Lobo
+- Ovo cozido na Air Fryer
 - Ovo mexido cremoso
 - 3 colheres (sopa) de creme de leite fresco
 - sal a gosto

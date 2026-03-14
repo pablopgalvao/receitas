@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - oregano
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - mix
 difficulty: ''

@@ -9,7 +9,7 @@ ingredients:
   list:
     - salsinha
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - parmesao
 difficulty: ''
 servings: 6 porções

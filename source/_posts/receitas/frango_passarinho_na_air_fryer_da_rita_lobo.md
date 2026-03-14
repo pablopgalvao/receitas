@@ -1,5 +1,5 @@
 ---
-title: Frango à passarinho na Air Fryer da Rita Lobo
+title: Frango à passarinho na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango à passarinho na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_passarinho_na_air_fryer_da_rita_lobo.jpg)
+![Frango à passarinho na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_passarinho_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salmão com brócolis na Air Fryer da Rita Lobo
+- Salmão com brócolis na Air Fryer
 - 1 kg de frango cortado à passarinho
 - 1½ colher (chá) de páprica doce
 - 1 colher (chá) de sal

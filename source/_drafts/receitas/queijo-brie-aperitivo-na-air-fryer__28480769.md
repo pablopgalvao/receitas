@@ -1,5 +1,5 @@
 ---
-title: Queijo brie aperitivo na Air Fryer da Rita Lobo
+title: Queijo brie aperitivo na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Queijo brie aperitivo na Air Fryer da Rita Lobo](/images/queijo-brie-aperitivo-na-air-fryer__28480769_01.webp)
+![Queijo brie aperitivo na Air Fryer](/images/queijo-brie-aperitivo-na-air-fryer__28480769_01.webp)
 
 ## 📝 Informações da Receita
 

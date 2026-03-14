@@ -1,5 +1,5 @@
 ---
-title: Filé de frango com molho de mel na Air Fryer da Rita Lobo
+title: Filé de frango com molho de mel na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Filé de frango com molho de mel na Air Fryer da Rita Lobo](/images/fil_de_frango_com_molho_de_mel_na_air_fryer_da_rita_lobo.jpg)
+![Filé de frango com molho de mel na Air Fryer](/images/fil_de_frango_com_molho_de_mel_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

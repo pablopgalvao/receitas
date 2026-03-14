@@ -10,7 +10,7 @@ ingredients:
     - creme
     - azeite
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 5 porções
 time: 30 min

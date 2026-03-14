@@ -31,7 +31,7 @@ flags: []
 
 - Salada de lentilha com queijo feta e cebola frita
 - Salada de lentilha com cebola caramelizada
-- Salada de lentilha com cenoura assada na Air Fryer da Rita Lobo
+- Salada de lentilha com cenoura assada na Air Fryer
 - Salada de lentilha com couve-flor
 - Salada de lentilha com manga, espinafre e curry
 - Salada de lentilha com pimentão e coentro

@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
 
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 10 min

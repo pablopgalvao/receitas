@@ -1,5 +1,5 @@
 ---
-title: Macarrão com molho de tomate rústico na Air Fryer da Rita Lobo
+title: Macarrão com molho de tomate rústico na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Macarrão com molho de tomate rústico na Air Fryer da Rita Lobo](/images/macarr_o_com_molho_de_tomate_r_stico_na_air_fryer_da_rita_lobo.jpg)
+![Macarrão com molho de tomate rústico na Air Fryer](/images/macarr_o_com_molho_de_tomate_r_stico_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

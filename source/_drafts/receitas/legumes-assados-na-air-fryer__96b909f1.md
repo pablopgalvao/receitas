@@ -1,5 +1,5 @@
 ---
-title: Legumes assados na Air Fryer da Rita Lobo
+title: Legumes assados na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 20 min
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Legumes assados na Air Fryer da Rita Lobo](/images/legumes-assados-na-air-fryer__96b909f1_01.webp)
+![Legumes assados na Air Fryer](/images/legumes-assados-na-air-fryer__96b909f1_01.webp)
 
 ## 📝 Informações da Receita
 

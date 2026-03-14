@@ -11,7 +11,7 @@ ingredients:
     - azeite
     - tomilho
     - salsinha
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 75 min

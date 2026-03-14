@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreinobranca
+    - Pimenta do reinobranca
 difficulty: ''
 servings: 1 porções
 time: 40 min

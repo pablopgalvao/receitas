@@ -1,5 +1,5 @@
 ---
-title: Bolinho de bacalhau na Air Fryer da Rita Lobo
+title: Bolinho de bacalhau na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
 difficulty: ''
 servings: ''
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de bacalhau na Air Fryer da Rita Lobo](/images/bolinho-de-bacalhau-na-air-fryer__e2f09847_01.webp)
+![Bolinho de bacalhau na Air Fryer](/images/bolinho-de-bacalhau-na-air-fryer__e2f09847_01.webp)
 
 ## 📝 Informações da Receita
 

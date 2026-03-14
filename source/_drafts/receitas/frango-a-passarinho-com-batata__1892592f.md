@@ -9,7 +9,7 @@ ingredients:
   list:
     - coentro
     - colorau
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 4 porções
 time: 75 min

@@ -1,5 +1,5 @@
 ---
-title: Pão doce de canela na Air Fryer da Rita Lobo
+title: Pão doce de canela na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão doce de canela na Air Fryer da Rita Lobo](/images/pao-doce-de-canela-na-air-fryer__719cde42_01.webp)
+![Pão doce de canela na Air Fryer](/images/pao-doce-de-canela-na-air-fryer__719cde42_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -10,7 +10,7 @@ ingredients:
     - sal
     - salsinha
     - cebolinha
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 50 min

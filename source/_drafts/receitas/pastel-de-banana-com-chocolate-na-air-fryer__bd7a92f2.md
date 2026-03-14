@@ -1,5 +1,5 @@
 ---
-title: Pastel de banana com chocolate na Air Fryer da Rita Lobo
+title: Pastel de banana com chocolate na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastel de banana com chocolate na Air Fryer da Rita Lobo](/images/pastel-de-banana-com-chocolate-na-air-fryer__bd7a92f2_01.webp)
+![Pastel de banana com chocolate na Air Fryer](/images/pastel-de-banana-com-chocolate-na-air-fryer__bd7a92f2_01.webp)
 
 ## 📝 Informações da Receita
 

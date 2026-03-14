@@ -9,7 +9,7 @@ ingredients:
   list:
     - suco
     - tempero
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - cheiroverde
 difficulty: ''

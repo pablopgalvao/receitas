@@ -1,5 +1,5 @@
 ---
-title: Bolo de mandioca com coco na Air Fryer da Rita Lobo
+title: Bolo de mandioca com coco na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolo de mandioca com coco na Air Fryer da Rita Lobo](/images/bolo_de_mandioca_com_coco_na_air_fryer_da_rita_lobo.jpg)
+![Bolo de mandioca com coco na Air Fryer](/images/bolo_de_mandioca_com_coco_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

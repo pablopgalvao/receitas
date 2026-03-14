@@ -1,5 +1,5 @@
 ---
-title: Pão de queijo de liquidificador na Air Fryer da Rita Lobo
+title: Pão de queijo de liquidificador na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pão de queijo de liquidificador na Air Fryer da Rita Lobo](/images/p_o_de_queijo_de_liquidificador_na_air_fryer_da_rita_lobo.jpg)
+![Pão de queijo de liquidificador na Air Fryer](/images/p_o_de_queijo_de_liquidificador_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

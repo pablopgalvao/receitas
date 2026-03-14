@@ -10,7 +10,7 @@ ingredients:
     - alhoporo
     - azeite
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 10 porções
 time: 70 min

@@ -1,5 +1,5 @@
 ---
-title: Frango com mel e especiarias na Air Fryer da Rita Lobo
+title: Frango com mel e especiarias na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango com mel e especiarias na Air Fryer da Rita Lobo](/images/frango_com_mel_e_especiarias_na_air_fryer_da_rita_lobo.jpg)
+![Frango com mel e especiarias na Air Fryer](/images/frango_com_mel_e_especiarias_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

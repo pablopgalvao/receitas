@@ -1,5 +1,5 @@
 ---
-title: Homus de cenoura assada na Air Fryer da Rita Lobo
+title: Homus de cenoura assada na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -18,7 +18,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Homus de cenoura assada na Air Fryer da Rita Lobo](/images/homus-de-cenoura-assada-na-air-fryer__e17cf427_01.webp)
+![Homus de cenoura assada na Air Fryer](/images/homus-de-cenoura-assada-na-air-fryer__e17cf427_01.webp)
 
 ## 📝 Informações da Receita
 

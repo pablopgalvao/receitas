@@ -1,5 +1,5 @@
 ---
-title: Polvo assado na Air Fryer da Rita Lobo
+title: Polvo assado na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -17,7 +17,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Polvo assado na Air Fryer da Rita Lobo](/images/polvo-assado-na-air-fryer-da-rita-lobo__f606744c_01.webp)
+![Polvo assado na Air Fryer](/images/polvo-assado-na-air-fryer-da-rita-lobo__f606744c_01.webp)
 
 ## 📝 Informações da Receita
 

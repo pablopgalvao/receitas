@@ -10,7 +10,7 @@ ingredients:
     - salsa
     - agua
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 4 porções
 time: 40 min

@@ -1,5 +1,5 @@
 ---
-title: Bolinho de tapioca com coco e gengibre na Air Fryer da Rita Lobo
+title: Bolinho de tapioca com coco e gengibre na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Bolinho de tapioca com coco e gengibre na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-tapioca-com-coco-e-gengibre-na-air-fryer__e8104d16_01.webp)
+![Bolinho de tapioca com coco e gengibre na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-tapioca-com-coco-e-gengibre-na-air-fryer__e8104d16_01.webp)
 
 ## 📝 Informações da Receita
 

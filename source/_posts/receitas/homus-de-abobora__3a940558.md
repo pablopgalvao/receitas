@@ -9,7 +9,7 @@ ingredients:
   list:
     - sal
     - cominho
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 25 min

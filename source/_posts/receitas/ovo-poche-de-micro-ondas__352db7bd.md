@@ -9,7 +9,7 @@ ingredients:
   list:
     - abacate
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - chimichurri
 difficulty: ''
 servings: 1 porções

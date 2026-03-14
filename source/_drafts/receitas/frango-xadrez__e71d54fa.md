@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - a
-    - pimentadoreino
+    - Pimenta do reino
     - amendoim
 difficulty: ''
 servings: ''

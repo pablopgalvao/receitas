@@ -9,7 +9,7 @@ ingredients:
   list:
     - caldo
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - cebolinha
     - iogurte
 difficulty: ''

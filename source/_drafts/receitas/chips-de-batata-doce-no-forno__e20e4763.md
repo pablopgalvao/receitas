@@ -9,7 +9,7 @@ ingredients:
   list:
     - oregano
     - tomilho
-    - pimentadoreino
+    - Pimenta do reino
     - sal
 difficulty: ''
 servings: ''

@@ -9,7 +9,7 @@ ingredients:
   list:
     - a
     - azeite
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 1 hora

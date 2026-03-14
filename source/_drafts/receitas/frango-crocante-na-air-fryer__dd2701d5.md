@@ -1,5 +1,5 @@
 ---
-title: Frango crocante na Air Fryer da Rita Lobo
+title: Frango crocante na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - raspas
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 8 min
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Frango crocante na Air Fryer da Rita Lobo](/images/frango-crocante-na-air-fryer__dd2701d5_01.webp)
+![Frango crocante na Air Fryer](/images/frango-crocante-na-air-fryer__dd2701d5_01.webp)
 
 ## 📝 Informações da Receita
 

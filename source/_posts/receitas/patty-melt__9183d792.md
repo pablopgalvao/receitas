@@ -9,7 +9,7 @@ ingredients:
   list:
     - manteiga
     - sal
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 35 min

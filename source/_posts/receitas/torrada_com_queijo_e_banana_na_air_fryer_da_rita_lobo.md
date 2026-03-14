@@ -1,5 +1,5 @@
 ---
-title: Torrada com queijo e banana na Air Fryer da Rita Lobo
+title: Torrada com queijo e banana na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torrada com queijo e banana na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torrada_com_queijo_e_banana_na_air_fryer_da_rita_lobo.jpg)
+![Torrada com queijo e banana na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torrada_com_queijo_e_banana_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Pão com ovo e queijo na Air Fryer da Rita Lobo
+- Pão com ovo e queijo na Air Fryer
 - ⅔ de xícara (chá) de queijo minas padrão ralado
 - mel a gosto para servir
 - canela em pó a gosto para servir

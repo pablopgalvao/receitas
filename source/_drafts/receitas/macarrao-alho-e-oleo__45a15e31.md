@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - azeite
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 2 porções
 time: 10 min

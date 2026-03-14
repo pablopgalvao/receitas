@@ -10,7 +10,7 @@ ingredients:
     - camaroes
     - azeite
     - agua
-    - pimentadoreino
+    - Pimenta do reino
     - curcuma
     - sal
 difficulty: ''

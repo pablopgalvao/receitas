@@ -9,7 +9,7 @@ ingredients:
   list:
     - queijo
     - nozmoscada
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 6 porções
 time: 45 min

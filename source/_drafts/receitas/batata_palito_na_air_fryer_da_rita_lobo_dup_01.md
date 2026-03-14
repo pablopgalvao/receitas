@@ -1,5 +1,5 @@
 ---
-title: Batata palito na Air Fryer da Rita Lobo
+title: Batata palito na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Batata palito na Air Fryer da Rita Lobo](/images/batata_palito_na_air_fryer_da_rita_lobo.jpg)
+![Batata palito na Air Fryer](/images/batata_palito_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 

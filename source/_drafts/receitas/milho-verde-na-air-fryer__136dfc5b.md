@@ -1,5 +1,5 @@
 ---
-title: Milho-verde na Air Fryer da Rita Lobo
+title: Milho-verde na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Milho-verde na Air Fryer da Rita Lobo](/images/milho-verde-na-air-fryer__136dfc5b_01.webp)
+![Milho-verde na Air Fryer](/images/milho-verde-na-air-fryer__136dfc5b_01.webp)
 
 ## 📝 Informações da Receita
 

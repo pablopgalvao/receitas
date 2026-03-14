@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - raspas
-    - pimentadoreino
+    - Pimenta do reino
     - sal
     - queijo
     - nozes

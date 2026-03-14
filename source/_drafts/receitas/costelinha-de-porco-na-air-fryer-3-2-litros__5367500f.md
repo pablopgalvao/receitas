@@ -1,5 +1,5 @@
 ---
-title: 'Costelinha de porco na Air Fryer da Rita Lobo (3,2 litros)'
+title: 'Costelinha de porco na Air Fryer (3,2 litros)'
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: 1 hora
@@ -15,7 +15,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Costelinha de porco na Air Fryer da Rita Lobo (3,2 litros)](/images/costelinha-de-porco-na-air-fryer-3-2-litros__5367500f_01.webp)
+![Costelinha de porco na Air Fryer (3,2 litros)](/images/costelinha-de-porco-na-air-fryer-3-2-litros__5367500f_01.webp)
 
 ## 📝 Informações da Receita
 

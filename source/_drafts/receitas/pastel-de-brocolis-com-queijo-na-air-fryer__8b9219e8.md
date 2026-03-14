@@ -1,5 +1,5 @@
 ---
-title: Pastel de brócolis com queijo na Air Fryer da Rita Lobo
+title: Pastel de brócolis com queijo na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -7,7 +7,7 @@ tags:
   - Novo
 ingredients:
   list:
-    - pimentadoreino
+    - Pimenta do reino
     - oleo
 difficulty: ''
 servings: ''
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Pastel de brócolis com queijo na Air Fryer da Rita Lobo](/images/pastel-de-brocolis-com-queijo-na-air-fryer__8b9219e8_01.webp)
+![Pastel de brócolis com queijo na Air Fryer](/images/pastel-de-brocolis-com-queijo-na-air-fryer__8b9219e8_01.webp)
 
 ## 📝 Informações da Receita
 

@@ -1,5 +1,5 @@
 ---
-title: Sopa de cenoura assada na Air Fryer da Rita Lobo com leite de coco
+title: Sopa de cenoura assada na Air Fryer com leite de coco
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Sopa de cenoura assada na Air Fryer da Rita Lobo com leite de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_cenoura_assada_na_air_fryer_da_rita_lobo_com_leite_de_coco.jpg)
+![Sopa de cenoura assada na Air Fryer com leite de coco](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_cenoura_assada_na_air_fryer_da_rita_lobo_com_leite_de_coco.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salada de pimentão assado com feijão-branco na Air Fryer da Rita Lobo
+- Salada de pimentão assado com feijão-branco na Air Fryer
 - 1 talo de salsão (sem as folhas)
 - 200 ml de leite de coco
 - 1 colher (chá) de curry

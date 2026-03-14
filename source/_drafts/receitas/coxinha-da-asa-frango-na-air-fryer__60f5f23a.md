@@ -1,5 +1,5 @@
 ---
-title: Coxinha da asa de frango na Air Fryer da Rita Lobo
+title: Coxinha da asa de frango na Air Fryer
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades
@@ -14,7 +14,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Coxinha da asa de frango na Air Fryer da Rita Lobo](/images/coxinha-da-asa-frango-na-air-fryer__60f5f23a_01.webp)
+![Coxinha da asa de frango na Air Fryer](/images/coxinha-da-asa-frango-na-air-fryer__60f5f23a_01.webp)
 
 ## 📝 Informações da Receita
 

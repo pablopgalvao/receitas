@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - nozmoscada
-    - pimentadoreino
+    - Pimenta do reino
     - sal
 difficulty: ''
 servings: 8 porções

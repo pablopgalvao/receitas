@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - casca
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: ''
 time: ''

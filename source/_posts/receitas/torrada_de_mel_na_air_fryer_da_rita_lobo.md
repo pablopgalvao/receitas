@@ -1,5 +1,5 @@
 ---
-title: Torrada de mel na Air Fryer da Rita Lobo
+title: Torrada de mel na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Torrada de mel na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torrada_de_mel_na_air_fryer_da_rita_lobo.jpg)
+![Torrada de mel na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/torrada_de_mel_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Ovo cozido na Air Fryer da Rita Lobo
+- Ovo cozido na Air Fryer
 - 2 colheres (sopa) de manteiga em temperatura ambiente
 - 1 colher (sopa) de açúcar demerara
 - 2 colheres (chá) de mel

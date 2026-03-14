@@ -11,7 +11,7 @@ ingredients:
     - azeite
     - sal
     - paprica
-    - pimentadoreino
+    - Pimenta do reino
     - alho
 difficulty: ''
 servings: ''

@@ -10,7 +10,7 @@ ingredients:
     - salsinha
     - pimentao
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - azeite
 difficulty: ''
 servings: 4 porções

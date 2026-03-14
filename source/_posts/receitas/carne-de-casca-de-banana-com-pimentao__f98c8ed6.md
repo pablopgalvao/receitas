@@ -9,7 +9,7 @@ ingredients:
   list:
     - cascas
     - sal
-    - pimentadoreino
+    - Pimenta do reino
     - paprica
 difficulty: ''
 servings: 3 porções

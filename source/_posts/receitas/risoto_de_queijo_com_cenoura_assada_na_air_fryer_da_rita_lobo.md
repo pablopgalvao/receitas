@@ -1,5 +1,5 @@
 ---
-title: Risoto de queijo com cenoura assada na Air Fryer da Rita Lobo
+title: Risoto de queijo com cenoura assada na Air Fryer
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades
@@ -16,7 +16,7 @@ calories: ''
 author: Lar do chef
 flags: []
 ---
-![Risoto de queijo com cenoura assada na Air Fryer da Rita Lobo](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_queijo_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)
+![Risoto de queijo com cenoura assada na Air Fryer](https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoto_de_queijo_com_cenoura_assada_na_air_fryer_da_rita_lobo.jpg)
 
 ## 📝 Informações da Receita
 
@@ -29,7 +29,7 @@ flags: []
 
 ## 🧄 Ingredientes
 
-- Salada de lentilha com cenoura assada na Air Fryer da Rita Lobo
+- Salada de lentilha com cenoura assada na Air Fryer
 - ½ colher (chá) de sal
 - 1 colher (chá) de azeite
 - Preaqueça a Air Fryer da linha Electrolux por Rita Lobo a 180 ºC e programe para assar por 15 minutos. Numa tigela grande, coloque as cenouras, tempere com o sal e o azeite e misture bem para envolver todos os pedaços com o tempero.

@@ -8,7 +8,7 @@ tags:
 ingredients:
   list:
     - folhas
-    - pimentadoreino
+    - Pimenta do reino
 difficulty: ''
 servings: 10 porções
 time: 40 min

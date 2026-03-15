@@ -135,4 +135,41 @@
 
     $container.removeClass('mobile-nav-on');
   });
+
+  // Popup fixo para download do app Lar do Chef
+  var $appPopup = $('#app-download-popup');
+  if ($appPopup.length) {
+    var storageKey = 'appDownloadPopupDismissed';
+
+    var hidePopup = function() {
+      $appPopup.removeClass('is-visible');
+      try {
+        if (window.localStorage) {
+          window.localStorage.setItem(storageKey, '1');
+        }
+      } catch (e) {}
+    };
+
+    var showPopup = function() {
+      try {
+        if (window.localStorage && window.localStorage.getItem(storageKey) === '1') {
+          return;
+        }
+      } catch (e) {}
+
+      $appPopup.attr('aria-hidden', 'false').addClass('is-visible');
+    };
+
+    // Exibe o popup alguns segundos após o carregamento da página
+    setTimeout(showPopup, 2000);
+
+    $appPopup.on('click', '.app-download-popup-close', function() {
+      hidePopup();
+    });
+
+    // Se o usuário clicar no botão de download, também não mostramos mais o popup
+    $appPopup.on('click', '.app-download-popup-button', function() {
+      // hidePopup();
+    });
+  }
 })(jQuery);

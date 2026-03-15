@@ -11,7 +11,7 @@ Siga os passos abaixo para instalar e testar o app:
 ## 📝 Passo 1 – Aceitar o convite
 Se você ainda não entrou no grupo de testadores, clique no [link do convite](https://play.google.com/store/apps/details?id=com.pablo614.Boil) que recebeu e aceite a participação.  
 
-> Se não recebeu o convite você pode solicitar a entrada nos enviando a [solicitação](mailto:pablogalvao614.boiltestador@gmail.com).
+> Se não recebeu o convite você pode solicitar a entrada nos enviando a [solicitação](mailto:suporte@pgalvao.com.br).
 > Assunto: Testar App Lar do chef
 
 ![Exemplo convite testadores](/images/convite_boil.jpg)
@@ -54,7 +54,7 @@ Se encontrar erros, travamentos ou dificuldades, anote e envie seu feedback.
 
 ## 📢 Como enviar feedback
 Envie os problemas encontrados e sugestões pelo grupo de testadores ou e-mail:  
-📧 **[pablogalvao614.boiltestador@gmail.com](mailto:pablogalvao614.boiltestador@gmail.com)**
+📧 **[suporte@pgalvao.com.br](mailto:suporte@pgalvao.com.br)**
 
 ---
 

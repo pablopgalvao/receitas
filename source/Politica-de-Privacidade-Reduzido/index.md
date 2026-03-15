@@ -37,4 +37,4 @@ Nós respeitamos sua privacidade. Veja como tratamos seus dados no app:
 
 ---
 
-📧 Suporte: **[pablogalvao614.boilprivacidade@gmail.com](mailto:pablogalvao614.boilprivacidade@gmail.com)**
+📧 Suporte: **[suporte@pgalvao.com.br](mailto:suporte@pgalvao.com.br)**

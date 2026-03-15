@@ -1,7 +1,7 @@
 title: Política de Privacidade
 date: 2025-09-18 12:18:50
 ---
-**Última atualização:** 18 de setembro de 2025  
+**Última atualização:** 15 de abril de 2026
 
 A sua privacidade é importante para nós. Esta Política de Privacidade descreve como coletamos, utilizamos e protegemos os dados fornecidos pelos usuários ao utilizar nosso aplicativo.
 
@@ -12,7 +12,7 @@ A sua privacidade é importante para nós. Esta Política de Privacidade descrev
 Nosso aplicativo **não solicita dados pessoais sensíveis** (como nome, e-mail, CPF, etc.) para uso básico.  
 
 - **Receitas (Home):**  
-  - Ao criar uma receita, os dados (título, ingredientes, preparo) são transformados em **arquivos Markdown** e enviados para nosso [site](https://pablopgalvao.github.io/receitas/).  
+  - Ao criar uma receita, os dados (título, ingredientes, preparo) são transformados em **arquivos Markdown** e enviados para nosso [site](https://receitas.pgalvao.com.br/redirect).  
   - O usuário pode **curtir/descurtir** receitas e **compartilhá-las**.  
   - Essas interações podem ser registradas localmente no dispositivo.
 
@@ -79,4 +79,4 @@ A data da última atualização será sempre exibida no início deste documento.
 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o uso de seus dados, entre em contato:  
 
-📧 **[pablogalvao614.boilprivacidade@gmail.com](mailto:pablogalvao614.boilprivacidade@gmail.com)**
+📧 **[suporte@pgalvao.com.br](mailto:suporte@pgalvao.com.br)**

@@ -41,4 +41,4 @@ O **Lar do Chef** foi feito para unir **praticidade** e **diversão**:
 
 ---
 
-📧 **Contato:** [pablogalvao614.boilsobre@gmail.com](mailto:pablogalvao614.boilsobre@gmail.com)
+📧 **Contato:** [lardochef@pgalvao.com.br](mailto:lardochef@pgalvao.com.br)

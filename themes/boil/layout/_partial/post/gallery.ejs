@@ -1,11 +1,29 @@
-<% if (post.photos && post.photos.length){ %>
+<%
+  var photos = post.photos || [];
+  var firstImage = null;
+
+  if ((!photos || !photos.length) && post.content) {
+    var imgMatch = post.content.match(/<img[^>]+src=["']([^"']+)["'][^>]*>/i);
+    if (imgMatch) {
+      firstImage = imgMatch[1];
+    }
+  }
+%>
+
+<% if ((photos && photos.length) || firstImage){ %>
 <div class="article-gallery">
   <div class="article-gallery-photos">
-    <% post.photos.forEach(function(photo, i){ %>
-      <a class="article-gallery-img fancybox" href="<%- url_for(photo) %>" rel="gallery_<%= post._id %>">
-        <img src="<%- url_for(photo) %>" itemprop="image">
+    <% if (photos && photos.length){ %>
+      <% photos.forEach(function(photo, i){ %>
+        <a class="article-gallery-img fancybox" href="<%- url_for(photo) %>" rel="gallery_<%= post._id %>">
+          <img src="<%- url_for(photo) %>" itemprop="image">
+        </a>
+      <% }) %>
+    <% } else { %>
+      <a class="article-gallery-img" href="<%- url_for(post.permalink || post.path) %>">
+        <img src="<%- url_for(firstImage) %>" itemprop="image">
       </a>
-    <% }) %>
+    <% } %>
   </div>
 </div>
 <% } %>

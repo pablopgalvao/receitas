@@ -13,6 +13,33 @@
 </script>
 <% } %>
 
+<div id="app-download-popup" class="app-download-popup" aria-hidden="true">
+  <div class="app-download-popup-inner">
+    <button class="app-download-popup-close" type="button" aria-label="Fechar aviso de download do app">
+      &times;
+    </button>
+    <div class="app-download-popup-main">
+      <div class="app-download-popup-image">
+        <!-- Substitua a URL abaixo pelo ícone oficial do app Lar do Chef -->
+        <img src="/favicon.ico" alt="App Lar do Chef">
+      </div>
+      <div class="app-download-popup-actions">
+        <a
+          href="https://play.google.com/store/apps/details?id=com.pablo614.Boil"
+          class="app-download-popup-button"
+          target="_blank"
+          rel="noopener"
+        >
+          Baixe o app Lar do Chef
+        </a>
+      </div>
+    </div>
+    <p class="app-download-popup-text">
+      Tenha todas as receitas do Lar do Chef sempre à mão. Baixe o aplicativo grátis e descubra novas inspirações para a sua cozinha!
+    </p>
+  </div>
+</div>
+
 <%- js('js/jquery-3.6.4.min.js') %>
 
 <% if (theme.fancybox){ %>

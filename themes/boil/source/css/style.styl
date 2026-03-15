@@ -77,3 +77,99 @@ if sidebar is left
 
 if sidebar
   @import "_partial/sidebar"
+
+// Popup fixo para download do app Lar do Chef
+.app-download-popup
+  position: fixed
+  left: 0
+  right: 0
+  bottom: 0
+  z-index: 9999
+  background: color-footer-background
+  color: #fff
+  font-size: 14px
+  transform: translateY(100%)
+  opacity: 0
+  pointer-events: none
+  transition: transform 0.25s ease-out, opacity 0.25s ease-out
+
+  &.is-visible
+    transform: translateY(0)
+    opacity: 1
+    pointer-events: auto
+
+  &-inner
+    max-width: (column-width + gutter-width) * columns + gutter-width
+    margin: 0 auto
+    padding: 24px gutter-width
+    position: relative
+
+  &-main
+    display: flex
+    align-items: center
+    gap: 24px
+
+    @media mq-mobile
+      flex-direction: row
+
+  &-image img
+    width: 64px
+    height: 64px
+    border-radius: 12px
+    object-fit: cover
+    display: block
+
+  &-actions
+    flex: 1
+
+  &-button
+    display: inline-block
+    padding: 12px 16px
+    font-size: 14px
+    border-radius: 999px
+    background: #fff
+    color: color-footer-background
+    font-weight: 600
+    text-decoration: none
+    white-space: nowrap
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3)
+
+    &:hover
+      background: #f2f2f2
+
+  &-text
+    margin: 12px 0
+    font-size: 13px
+    line-height: 1.5
+    font-family: font-sans
+
+  &-close
+    position: absolute
+    top: 16px
+    right: 10px
+    width: 24px
+    height: 24px
+    border: 0
+    border-radius: 50%
+    background: #4d4d4d
+    color: #ababab
+    font-size: 24px
+    line-height: 1
+    cursor: pointer
+
+    &:hover
+      background: rgba(255,255,255,0.12)
+
+  @media mq-mobile
+    font-size: 13px
+
+    &-inner
+      padding: 10px 14px
+
+    // &-image img
+    //   width: 56px
+    //   height: 56px
+
+    // &-button
+    //   padding: 8px 14px
+    //   font-size: 13px

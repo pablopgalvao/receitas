@@ -56,7 +56,7 @@ hexo.extend.generator.register('api-receitas', function(locals) {
     return {
       id: post._id,
       title: post.title,
-      url: baseUrl + rootPath + post.path, // 🔗 link absoluto do post
+      url: toAbsoluteUrl(rootPath + post.path), // 🔗 link absoluto do post
       image: postImage,
       images: images,
       videos: videos,

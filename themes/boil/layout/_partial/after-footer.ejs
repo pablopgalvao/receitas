@@ -44,3 +44,31 @@
     });
 </script>
 <% } %>
+
+<% if (is_post()) { %>
+<script>
+  (function() {
+    try {
+      var currentUrl = encodeURIComponent(window.location.href);
+      var appUrl = 'boil://receita?url=' + currentUrl;
+      var fallbackUrl = 'https://play.google.com/store/apps/details?id=com.pablo614.Boil';
+
+      var start = Date.now();
+
+      // Se o app não estiver instalado, após ~1s tenta abrir o fallback
+      var timer = setTimeout(function() {
+        // Se o usuário não saiu da página (app abriu) em ~2s, faz fallback
+        if (Date.now() - start < 2000) {
+          window.location.href = fallbackUrl;
+        }
+      }, 1200);
+
+      // Tenta abrir o aplicativo
+      window.location.href = appUrl;
+    } catch (e) {
+      // Em caso de erro inesperado, apenas não faz nada
+      console.error('Erro ao tentar abrir o app Boil:', e);
+    }
+  })();
+</script>
+<% } %>

@@ -2,25 +2,54 @@
   <!-- <div class="article-meta">
     <%- partial('post/category') %>
   </div> -->
-  <div class="article-inner card-home">
+  <div class="article-inner <%= index ? 'card-home' : 'card-geral' %>">
      <% if (post.link || post.title){ %>
       <header class="article-header">
         <%- partial('post/title', {class_name: 'p-name article-title'}) %>
       </header>
       <% } %>
-    <%- partial('post/gallery') %>
+      <% if (index){ %>
+        <%- partial('post/gallery') %>
+        <div class="card-meta">
+          <% var recipeTime = post.time; %>
+          <% var recipeDifficulty = post.difficulty || post.dificuldade; %>
+          <% var recipeServings = post.servings || post.serves || post.rendimento; %>
+          <% if (recipeTime){ %>
+            <div class="card-meta-item">
+              <span class="card-meta-label">Tempo:</span>
+              <span class="card-meta-value"><%= recipeTime %></span>
+            </div>
+          <% } %>
+          <% if (recipeDifficulty){ %>
+            <div class="card-meta-item">
+              <span class="card-meta-label">Dificuldade:</span>
+              <span class="card-meta-value"><%= recipeDifficulty %></span>
+            </div>
+          <% } %>
+          <% if (recipeServings){ %>
+            <div class="card-meta-item">
+              <span class="card-meta-label">Serve:</span>
+              <span class="card-meta-value"><%= recipeServings %></span>
+            </div>
+          <% } %>
+          <% if (post.categories && post.categories.length){ %>
+            <div class="card-meta-item card-meta-category">
+              <!-- <span class="card-meta-label">Categoria:</span> -->
+              <span class="card-meta-value">
+                <%- list_categories(post.categories, {
+                  show_count: false,
+                  class: 'card-meta-category-list',
+                  style: 'none',
+                  separator: ', '
+                }) %>
+              </span>
+            </div>
+          <% } %>
+        </div>
+      <% } %>
     <% if (!index){ %>
       <div class="e-content article-entry" itemprop="articleBody">
-        <% if (post.excerpt && index){ %>
-          <%- post.excerpt %>
-          <% if (theme.excerpt_link){ %>
-            <p class="article-more-link">
-              <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
-            </p>
-          <% } %>
-        <% } else { %>
-          <%- post.content %>
-        <% } %>
+        <%- post.content %>
       </div>
       <footer class="article-footer">
         <% if (post.comments && theme.disqus_shortname){ %>

@@ -1,8 +1,47 @@
 <article class="archive-article archive-type-<%= post.layout %>">
   <div class="archive-article-inner">
     <header class="archive-article-header">
-      <%- partial('post/date', {class_name: 'archive-article-date', date_format: 'MMM D'}) %>
+      <!-- <%- partial('post/date', {class_name: 'archive-article-date', date_format: 'MMM D'}) %> -->
       <%- partial('post/title', {class_name: 'archive-article-title'}) %>
+            <% if (index){ %>
+        <%- partial('post/gallery') %>
+        <div class="card-meta">
+          <% var recipeTime = post.time; %>
+          <% var recipeDifficulty = post.difficulty || post.dificuldade; %>
+          <% var recipeServings = post.servings || post.serves || post.rendimento; %>
+          <% if (recipeTime){ %>
+            <div class="card-meta-item">
+              <span class="card-meta-label">Tempo:</span>
+              <span class="card-meta-value"><%= recipeTime %></span>
+            </div>
+          <% } %>
+          <% if (recipeDifficulty){ %>
+            <div class="card-meta-item">
+              <span class="card-meta-label">Dificuldade:</span>
+              <span class="card-meta-value"><%= recipeDifficulty %></span>
+            </div>
+          <% } %>
+          <% if (recipeServings){ %>
+            <div class="card-meta-item">
+              <span class="card-meta-label">Serve:</span>
+              <span class="card-meta-value"><%= recipeServings %></span>
+            </div>
+          <% } %>
+          <% if (post.categories && post.categories.length){ %>
+            <div class="card-meta-item card-meta-category">
+              <!-- <span class="card-meta-label">#</span> -->
+              <span class="card-meta-value">
+                <%- list_categories(post.categories, {
+                  show_count: false,
+                  class: 'card-meta-category-list',
+                  style: 'none',
+                  separator: ', '
+                }) %>
+              </span>
+            </div>
+          <% } %>
+        </div>
+      <% } %>
     </header>
   </div>
 </article>

@@ -65,9 +65,12 @@
 
 
 
+
 #header-inner
   position: relative
   overflow: hidden
+  @media mq-normal
+    top: 30px;
 
 #banner
   position: absolute
@@ -85,7 +88,10 @@
   position: absolute
   top: 50%
   left: 0
-  margin-top: -70px
+  margin-top: 0
+
+  @media mq-mobile
+    margin-top: -70px 
 
 $logo-text
   text-decoration: none
@@ -105,9 +111,9 @@ $logo-text
 #logo
   @extend $logo-text
   font-family: Roboto
-  font-size: 62px
+  font-size: 5vw
   font-weight: bold
-  line-height: logo-size
+  line-height: 45px
   letter-spacing: 2px
   @media mq-mobile
     font-size: 42px

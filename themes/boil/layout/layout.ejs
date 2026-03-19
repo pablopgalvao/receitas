@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <%- partial('_partial/head') %>
-<body>
+<body<% if (is_post()) { %> data-post-url="<%- page.permalink || url_for(page.path) %>"<% } %>>
   <div id="container">
     <div id="wrap">
       <%- partial('_partial/header', null, {cache: !config.relative_link}) %>

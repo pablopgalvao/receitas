@@ -15,14 +15,14 @@
   <div class="article-gallery-photos">
     <% if (photos && photos.length){ %>
       <% photos.forEach(function(photo, i){ %>
-        <a class="article-gallery-img fancybox" href="<%- url_for(photo) %>" rel="gallery_<%= post._id %>">
+        <!-- <a class="article-gallery-img fancybox" href="<%- url_for(photo) %>" rel="gallery_<%= post._id %>"> -->
           <img src="<%- url_for(photo) %>" itemprop="image">
-        </a>
+        <!-- </a> -->
       <% }) %>
     <% } else { %>
-      <a class="article-gallery-img" href="<%- url_for(post.permalink || post.path) %>">
+      <!-- <a class="article-gallery-img" href="<%- url_for(post.permalink || post.path) %>"> -->
         <img src="<%- url_for(firstImage) %>" itemprop="image">
-      </a>
+      <!-- </a> -->
     <% } %>
   </div>
 </div>

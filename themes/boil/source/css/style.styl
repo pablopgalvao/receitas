@@ -24,7 +24,10 @@ body
   clearfix()
   max-width: (column-width + gutter-width) * columns + gutter-width
   margin: 0 auto
-  padding: 0 gutter-width
+  padding: 10px gutter-width
+
+  @media mq-normal
+    max-width: 100%
 
 .inner
   column(columns)

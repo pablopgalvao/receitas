@@ -1,7 +1,9 @@
 <% if (expand){ %>
+  <section class="home-grid">
   <% page.posts.each(function(post){ %>
     <%- partial('article', {post: post, index: true}) %>
   <% }) %>
+  </section>
 <% } else { %>
   <% var last; %>
   <% page.posts.each(function(post, i){ %>
@@ -12,10 +14,10 @@
       <% } %>
       <% last = year; %>
       <section class="archives-wrap">
-        <div class="archive-year-wrap">
+        <!-- <div class="archive-year-wrap">
           <a href="<%- url_for(config.archive_dir + '/' + year) %>" class="archive-year"><%= year %></a>
-        </div>
-        <div class="archives">
+        </div> -->        
+        <!-- <div class="archives"> -->
     <% } %>
     <%- partial('archive-post', {post: post, even: i % 2 == 0}) %>
   <% }) %>

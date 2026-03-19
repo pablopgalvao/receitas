@@ -36,7 +36,7 @@ language: pt
 timezone: America/Sao_Paulo
 url: https://receitas.pgalvao.com.br
 root: /
-permalink: ':day/:month/:year/:title/'
+permalink: ':slug/:id/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true

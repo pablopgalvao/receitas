@@ -139,10 +139,17 @@
   // Popup fixo para download do app Lar do Chef
   var $appPopup = $('#app-download-popup');
   if ($appPopup.length) {
+    var isAndroid = /Android/i.test((navigator.userAgent || ''));
     var storageKey = 'appDownloadPopupDismissed';
 
     var hidePopup = function() {
       $appPopup.removeClass('is-visible');
+      // Em dispositivos Android, não persistir o fechamento para que o popup
+      // volte a aparecer sempre que a página for carregada.
+      if (isAndroid) {
+        return;
+      }
+
       try {
         if (window.localStorage) {
           window.localStorage.setItem(storageKey, '1');
@@ -151,11 +158,15 @@
     };
 
     var showPopup = function() {
-      try {
-        if (window.localStorage && window.localStorage.getItem(storageKey) === '1') {
-          return;
-        }
-      } catch (e) {}
+      // Em dispositivos Android, ignorar a verificação de localStorage para
+      // garantir que o popup apareça em todo carregamento de página.
+      if (!isAndroid) {
+        try {
+          if (window.localStorage && window.localStorage.getItem(storageKey) === '1') {
+            return;
+          }
+        } catch (e) {}
+      }
 
       $appPopup.attr('aria-hidden', 'false').addClass('is-visible');
     };
@@ -167,9 +178,35 @@
       hidePopup();
     });
 
-    // Se o usuário clicar no botão de download, também não mostramos mais o popup
-    $appPopup.on('click', '.app-download-popup-button', function() {
-      // hidePopup();
+    // Se o usuário clicar no botão de download em página de post,
+    // tenta abrir o app com deep link para o post específico.
+    $appPopup.on('click', '.app-download-popup-button', function(e) {
+      var postUrl = $('body').attr('data-post-url');
+
+      // Se não for página de post, deixa seguir o href padrão (Play Store)
+      if (!postUrl) {
+        return;
+      }
+
+      e.preventDefault();
+
+      try {
+        var encodedPostUrl = encodeURIComponent(postUrl);
+        var appUrl = 'boil://receita?url=' + encodedPostUrl;
+        var fallbackUrl = 'https://play.google.com/store/apps/details?id=com.pablo614.Boil';
+        var start = Date.now();
+
+        var timer = setTimeout(function() {
+          if (Date.now() - start < 2000) {
+            window.location.href = fallbackUrl;
+          }
+        }, 1200);
+
+        window.location.href = appUrl;
+      } catch (err) {
+        console.error('Erro ao tentar abrir o app Boil a partir do popup:', err);
+        window.location.href = 'https://play.google.com/store/apps/details?id=com.pablo614.Boil';
+      }
     });
   }
 })(jQuery);

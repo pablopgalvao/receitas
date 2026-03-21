@@ -1,1 +1,140 @@
+<div class="home-filters" aria-label="Filtros de receitas">
+	<div class="home-filters-group">
+		<label for="filter-title">Título</label>
+		<input type="search" id="filter-title" placeholder="Digite parte do título da receita">
+	</div>
+	<div class="home-filters-group">
+		<label for="filter-category">Categoria</label>
+		<select id="filter-category">
+			<option value="">Todas as categorias</option>
+		</select>
+	</div>
+	<div class="home-filters-group">
+		<label for="filter-tag">Tag</label>
+		<select id="filter-tag">
+			<option value="">Todas as tags</option>
+		</select>
+	</div>
+</div>
+
 <%- partial('_partial/archive', {expand: true, index: true}) %>
+
+<script>
+(function () {
+	var titleInput = document.getElementById('filter-title');
+	var categorySelect = document.getElementById('filter-category');
+	var tagSelect = document.getElementById('filter-tag');
+
+	if (!titleInput || !categorySelect || !tagSelect) return;
+
+	var articleNodes = Array.prototype.slice.call(document.querySelectorAll('.home-grid article'));
+
+	function applyFilters() {
+		var titleValue = (titleInput.value || '').trim().toLowerCase();
+		var categoryValue = categorySelect.value || '';
+		var tagValue = tagSelect.value || '';
+
+		articleNodes.forEach(function (article) {
+			var matches = true;
+
+			if (titleValue) {
+				var titleEl = article.querySelector('.article-title');
+				var text = titleEl ? (titleEl.textContent || '').toLowerCase() : '';
+				if (text.indexOf(titleValue) === -1) matches = false;
+			}
+
+			if (matches && categoryValue) {
+				var cats = (article.getAttribute('data-categories') || '').split('|').filter(Boolean);
+				if (cats.indexOf(categoryValue) === -1) matches = false;
+			}
+
+			if (matches && tagValue) {
+				var tags = (article.getAttribute('data-tags') || '').split('|').filter(Boolean);
+				if (tags.indexOf(tagValue) === -1) matches = false;
+			}
+
+			article.style.display = matches ? '' : 'none';
+		});
+	}
+
+	titleInput.addEventListener('input', applyFilters);
+	categorySelect.addEventListener('change', applyFilters);
+	tagSelect.addEventListener('change', applyFilters);
+
+	// Carrega categorias e tags a partir da API de receitas
+	if (window.fetch) {
+		fetch('/api/receitas.json')
+			.then(function (response) { return response.json(); })
+			.then(function (data) {
+				if (!data || !data.receitas) return;
+
+				var catSet = {};
+				var tagSet = {};
+				var metaByPath = {};
+
+				data.receitas.forEach(function (rec) {
+					var path;
+					try {
+						var url = new URL(rec.url);
+						path = url.pathname.replace(/\/$/, '');
+					} catch (e) {
+						path = (rec.url || '').replace(/^https?:\/\/[^/]+/, '').replace(/\/$/, '');
+					}
+
+					metaByPath[path] = {
+						categories: rec.categories || [],
+						tags: rec.tags || []
+					};
+
+					(rec.categories || []).forEach(function (c) {
+						if (c) catSet[c] = true;
+					});
+					(rec.tags || []).forEach(function (t) {
+						if (t) tagSet[t] = true;
+					});
+				});
+
+				// Anexa categorias e tags de cada receita aos cards já renderizados
+				articleNodes.forEach(function (article) {
+					var link = article.querySelector('.article-title');
+					if (!link) return;
+					var href = (link.getAttribute('href') || '').replace(/\/$/, '');
+					var meta = metaByPath[href];
+					if (!meta) return;
+
+					if (meta.categories && meta.categories.length) {
+						article.setAttribute('data-categories', meta.categories.join('|'));
+					}
+					if (meta.tags && meta.tags.length) {
+						article.setAttribute('data-tags', meta.tags.join('|'));
+					}
+				});
+
+				// Preenche o select de categorias (apenas as das receitas)
+				Object.keys(catSet)
+					.sort(function (a, b) { return a.localeCompare(b, 'pt-BR'); })
+					.forEach(function (c) {
+						var opt = document.createElement('option');
+						opt.value = c;
+						opt.textContent = c;
+						categorySelect.appendChild(opt);
+					});
+
+				// Preenche o select de tags (apenas as existentes nas receitas)
+				Object.keys(tagSet)
+					.sort(function (a, b) { return a.localeCompare(b, 'pt-BR'); })
+					.forEach(function (t) {
+						var opt = document.createElement('option');
+						opt.value = t;
+						opt.textContent = t;
+						tagSelect.appendChild(opt);
+					});
+			})
+			.catch(function (err) {
+				if (window.console && console.error) {
+					console.error('Erro ao carregar /api/receitas.json', err);
+				}
+			});
+	}
+})();
+</script>

@@ -1,0 +1,73 @@
+{
+  "id": "cmn2blzuq061nholye0iph6ea",
+  "title": "Paçoca de carne-seca",
+  "slug": "receitas/pa_oca_de_carne_seca",
+  "url": "https://receitas.pgalvao.com.br/receitas/pa_oca_de_carne_seca/cmn2blzuq061nholye0iph6ea/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blzuq061nholye0iph6ea.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blzuq061nholye0iph6ea.json",
+  "deeplink": "boil://receita?rid=cmn2blzuq061nholye0iph6ea",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:51.121Z",
+  "time": "12 hora",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "prático",
+    "tradicional",
+    "rápido"
+  ],
+  "ingredients": [
+    "Carne-seca acebolada com manteiga de garrafa",
+    "⅓ de xícara (chá) de farinha de mandioca torrada",
+    "¼ de xícara (chá) de manteiga de garrafa",
+    "sal a gosto",
+    "Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.",
+    "Cubra os cubos de carne com 5 xícaras (chá) de água fria e deixe na geladeira durante 12 horas – troque a água da carne-seca pelo menos 2 vezes durante a dessalga.",
+    "Leve uma frigideira, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga de garrafa, junte a cebola, tempere com uma pitada de sal refogue por 2 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar.",
+    "Acrescente a carne-seca e refogue por cerca de 10 minutos, até ficar bem dourada. Junte a farinha de mandioca torrada, aos poucos, mexendo por 2 minutos apenas para aquecer. Prove e, se necessário tempere com sal. Sirva a seguir, fica uma delícia com salada de pimentão."
+  ],
+  "steps": [
+    "Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.",
+    "Cubra os cubos de carne com 5 xícaras (chá) de água fria e deixe na geladeira durante 12 horas – troque a água da carne-seca pelo menos 2 vezes durante a dessalga.",
+    "Escorra a água e transfira a carne para a panela de pressão, cubra com água até completar metade do volume da panela, tampe e leve ao fogo alto. Assim que a panela começar a apitar, abaixe o fogo e deixe cozinhar por 30 minutos.",
+    "Enquanto a carne cozinha, descasque e pique fino a cebola e o alho.",
+    "Passado o tempo de cozimento, desligue o fogo, Espere toda a pressão sair antes de abrir a panela (se preferir, levante a válvula com um garfo para acelerar o processo). Escorra a água e descarte o excesso de gordura da carne. Transfira os cubos para o processador e bata no modo pulsar até ficar bem desfiada.",
+    "Leve uma frigideira, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga de garrafa, junte a cebola, tempere com uma pitada de sal refogue por 2 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar.",
+    "Acrescente a carne-seca e refogue por cerca de 10 minutos, até ficar bem dourada. Junte a farinha de mandioca torrada, aos poucos, mexendo por 2 minutos apenas para aquecer. Prove e, se necessário tempere com sal. Sirva a seguir, fica uma delícia com salada de pimentão."
+  ],
+  "excerpt": "Paçoca de carne-seca. Tempo de preparo: 12 hora. Ingrediente em destaque: Carne-seca acebolada com manteiga de garrafa. Comece assim: Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.",
+  "social": {
+    "caption_short": "Paçoca de carne-seca",
+    "caption_medium": "Paçoca de carne-seca Ingredientes: Carne-seca acebolada com manteiga de garrafa, ⅓ de xícara (chá) de farinha de mandioca torrada, ¼ de xícara (chá) de manteiga de garrafa, sal a gosto, Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.. Modo de preparo: Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#tradicional",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pa_oca_de_carne_seca.jpg\" alt=\"Paçoca de carne-seca\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 12 hora</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Carne-seca acebolada com manteiga de garrafa</li>\n<li>⅓ de xícara (chá) de farinha de mandioca torrada</li>\n<li>¼ de xícara (chá) de manteiga de garrafa</li>\n<li>sal a gosto</li>\n<li>Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.</li>\n<li>Cubra os cubos de carne com 5 xícaras (chá) de água fria e deixe na geladeira durante 12 horas – troque a água da carne-seca pelo menos 2 vezes durante a dessalga.</li>\n<li>Leve uma frigideira, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga de garrafa, junte a cebola, tempere com uma pitada de sal refogue por 2 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar.</li>\n<li>Acrescente a carne-seca e refogue por cerca de 10 minutos, até ficar bem dourada. Junte a farinha de mandioca torrada, aos poucos, mexendo por 2 minutos apenas para aquecer. Prove e, se necessário tempere com sal. Sirva a seguir, fica uma delícia com salada de pimentão.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Corte a carne-seca em cubos de 7 cm – é o tamanho é ideal para dessalgar a carne. Coloque numa tigela e lave bem sob água corrente.</li>\n<li>Cubra os cubos de carne com 5 xícaras (chá) de água fria e deixe na geladeira durante 12 horas – troque a água da carne-seca pelo menos 2 vezes durante a dessalga.</li>\n<li>Escorra a água e transfira a carne para a panela de pressão, cubra com água até completar metade do volume da panela, tampe e leve ao fogo alto. Assim que a panela começar a apitar, abaixe o fogo e deixe cozinhar por 30 minutos.</li>\n<li>Enquanto a carne cozinha, descasque e pique fino a cebola e o alho.</li>\n<li>Passado o tempo de cozimento, desligue o fogo, Espere toda a pressão sair antes de abrir a panela (se preferir, levante a válvula com um garfo para acelerar o processo). Escorra a água e descarte o excesso de gordura da carne. Transfira os cubos para o processador e bata no modo pulsar até ficar bem desfiada.</li>\n<li>Leve uma frigideira, de preferência antiaderente, ao fogo médio. Quando aquecer, adicione a manteiga de garrafa, junte a cebola, tempere com uma pitada de sal refogue por 2 minutos até murchar. Junte o alho e mexa por 1 minuto para perfumar.</li>\n<li>Acrescente a carne-seca e refogue por cerca de 10 minutos, até ficar bem dourada. Junte a farinha de mandioca torrada, aos poucos, mexendo por 2 minutos apenas para aquecer. Prove e, se necessário tempere com sal. Sirva a seguir, fica uma delícia com salada de pimentão.</li>\n</ol>\n"
+}

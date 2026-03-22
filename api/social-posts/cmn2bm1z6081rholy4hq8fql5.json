@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bm1z6081rholy4hq8fql5",
+  "title": "Torrada de abacate com ovo mexido",
+  "slug": "receitas/torrada-de-abacate-com-ovo-mexido__5d82ae52",
+  "url": "https://receitas.pgalvao.com.br/receitas/torrada-de-abacate-com-ovo-mexido__5d82ae52/cmn2bm1z6081rholy4hq8fql5/",
+  "deeplink": "boil://receita?rid=cmn2bm1z6081rholy4hq8fql5",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-de-abacate-com-ovo-mexido__5d82ae52_01.webp"
+  },
+  "ingredients": [
+    "2 fatias de pão",
+    "1 colher de sopa de manteiga (ou margarina)",
+    "2 ovos",
+    "Sal e pimenta-do-reino a gosto",
+    "1 avocado (ou ½ abacate)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Separe as fatias de pão e esquente elas (pode ser na frigideira, no forno ou em uma sanduicheira);",
+    "Em uma frigideira, em fogo baixo, derreta a manteiga, adicione os ovos e deixe cozinhar (não mexa);",
+    "Acrescente o sal, a pimenta, misture bem e deixe cozinhar por mais 1 a 2 minutos (os ovos ainda devem ficar úmidos). Desligue o fogo e reserve;",
+    "Passe o abacate sobre as fatias de pão e depois coloque os ovos mexidos por cima;",
+    "Agora é só servir!"
+  ],
+  "social": {
+    "caption_short": "Torrada de abacate com ovo mexido",
+    "caption_medium": "Torrada de abacate com ovo mexido Ingredientes: 2 fatias de pão, 1 colher de sopa de manteiga (ou margarina), 2 ovos, Sal e pimenta-do-reino a gosto, 1 avocado (ou ½ abacate). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

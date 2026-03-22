@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bm0um075hholy3tjj8rw7",
+  "title": "Risoni na manteiga",
+  "slug": "receitas/risoni_na_manteiga",
+  "url": "https://receitas.pgalvao.com.br/receitas/risoni_na_manteiga/cmn2bm0um075hholy3tjj8rw7/",
+  "deeplink": "boil://receita?rid=cmn2bm0um075hholy3tjj8rw7",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoni_na_manteiga.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoni_na_manteiga.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoni_na_manteiga.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoni_na_manteiga.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/risoni_na_manteiga.jpg"
+  },
+  "ingredients": [
+    "Espaguete ao alho e óleo",
+    "¾ de xícara (chá) de macarrão do tipo risoni",
+    "2 colheres (sopa) de manteiga",
+    "¼ de xícara (chá) de queijo parmesão ralado",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "raspas de limão a gosto (opcional)",
+    "Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão numa peneira. Volte o risoni para a mesma panela (nem precisa lavar), junte a manteiga e misture bem para derreter. Regue aos poucos com ½ xícara (chá) da água do cozimento reservada, até o macarrão ficar cremoso."
+  ],
+  "steps": [
+    "Leve uma panela média com água ao fogo alto. Quando ferver, abaixe o fogo, adicione ½ colher (sopa) de sal e junte o macarrão. Misture e deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente. Cuidado: se o risoni cozinhar demais, pode ficar empapado.",
+    "Assim que estiver cozido, reserve ½ xícara (chá) da água do cozimento e escorra o macarrão numa peneira. Volte o risoni para a mesma panela (nem precisa lavar), junte a manteiga e misture bem para derreter. Regue aos poucos com ½ xícara (chá) da água do cozimento reservada, até o macarrão ficar cremoso.",
+    "Misture o queijo parmesão ralado e as raspas de limão (opcional). Sirva a seguir com lascas de parmesão."
+  ],
+  "social": {
+    "caption_short": "Risoni na manteiga",
+    "caption_medium": "Risoni na manteiga Ingredientes: Espaguete ao alho e óleo, ¾ de xícara (chá) de macarrão do tipo risoni, 2 colheres (sopa) de manteiga, ¼ de xícara (chá) de queijo parmesão ralado, sal e pimenta-do-reino moída na hora a gosto. Modo de preparo: Leve uma panela média com água ao fogo alto. Quando ferver, abaixe o fogo, adicione ½ colher (sopa) de sal e junte o macarrão. Misture e deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente. Cuidado: se o risoni cozinhar demais, pode ficar empapado.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#tradicional",
+      "#rápido"
+    ]
+  }
+}

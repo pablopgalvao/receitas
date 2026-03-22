@@ -1,0 +1,80 @@
+{
+  "id": "cmn2blycq03k1holy75kn88zb",
+  "title": "Caponata de forno",
+  "slug": "receitas/caponata_de_forno",
+  "url": "https://receitas.pgalvao.com.br/receitas/caponata_de_forno/cmn2blycq03k1holy75kn88zb/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blycq03k1holy75kn88zb.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blycq03k1holy75kn88zb.json",
+  "deeplink": "boil://receita?rid=cmn2blycq03k1holy75kn88zb",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caponata_de_forno.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caponata_de_forno.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caponata_de_forno.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caponata_de_forno.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caponata_de_forno.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:39.788Z",
+  "time": "30 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "prático",
+    "popular",
+    "fácil"
+  ],
+  "ingredients": [
+    "Salada de verdes com chips de berinjela",
+    "⅓ de xícara (chá) de azeitona preta sem caroço",
+    "2 colheres (sopa) de alcaparra",
+    "⅓ de xícara (chá) de uvas-passas pretas",
+    "½ xícara (chá) de azeite Andorinha",
+    "1 colher (sopa) de vinagre de vinho tinto",
+    "2 colheres (chá) de sal",
+    "1 colher (chá) de sementes de erva-doce",
+    "6 ramos de salsinha",
+    "⅓ de xícara (chá) de nozes tostadas e picadas grosseiramente",
+    "Transfira as berinjelas cortadas para um escorredor de macarrão, salpique 2 colheres (chá) de sal e misture bem com as mãos para envolver todos os pedaços. Deixe descansar por 30 minutos enquanto separa o restante dos ingredientes — isso diminui o amargo característico da berinjela.",
+    "Passado o tempo da berinjela, transfira os pedaços para uma assadeira grande de borda alta. Junte o restante dos legumes cortados, as azeitonas, as uva-passas e alcaparras. Regue com o azeite, o vinagre, a erva-doce e misture bem — não é necessário adicionar sal; o sal da berinjela já é suficiente para temperar a receita.",
+    "Retire do forno e deixe amornar. Transfira para uma tigela e leve à geladeira para esfriar por pelo menos 2 horas antes de misturar a salsinha e as nozes (se preferir, prepare no dia anterior; a caponata fica ainda mais gostosa quando permanece mais tempo na geladeira).",
+    "Na hora de servir, misture a salsinha e as nozes. A caponata pode ser mantida na geladeira por até 1 semana."
+  ],
+  "steps": [
+    "Preaqueça o forno a 200 °C (temperatura média).",
+    "Lave e seque a berinjela. Descarte o cabinho e corte a berinjela ao meio, no sentido da largura, separando a parte grossa da parte fina. Corte cada parte ao meio no sentido do comprimento; faça 4 tiras em cada metade da parte fina e 6 tiras nas metades da parte grossa, no sentido do comprimento. Corte as tiras em fatias de 1,5 cm — assim, todos os pedaços ficam com parte do miolo e parte da casca, para ter mais sabor. É importante que os pedaços tenham tamanho uniforme para que assem por igual.",
+    "Transfira as berinjelas cortadas para um escorredor de macarrão, salpique 2 colheres (chá) de sal e misture bem com as mãos para envolver todos os pedaços. Deixe descansar por 30 minutos enquanto separa o restante dos ingredientes — isso diminui o amargo característico da berinjela.",
+    "Lave, seque e corte os pimentões ao meio; descarte as sementes e corte as metades em quadrados de 1,5 cm. Descasque e corte a cebola em cubos de 1 cm. Com a lateral da lâmina da faca, amasse os dentes de alho e descasque. Corte azeitonas em fatias no sentido do comprimento.",
+    "Passado o tempo da berinjela, transfira os pedaços para uma assadeira grande de borda alta. Junte o restante dos legumes cortados, as azeitonas, as uva-passas e alcaparras. Regue com o azeite, o vinagre, a erva-doce e misture bem — não é necessário adicionar sal; o sal da berinjela já é suficiente para temperar a receita.",
+    "Leve ao forno para assar por cerca de 40 minutos, ou até que os legumes fiquem bem macios e levemente dourados — mexa na metade do tempo para que cozinhem por igual.",
+    "Retire do forno e deixe amornar. Transfira para uma tigela e leve à geladeira para esfriar por pelo menos 2 horas antes de misturar a salsinha e as nozes (se preferir, prepare no dia anterior; a caponata fica ainda mais gostosa quando permanece mais tempo na geladeira).",
+    "Na hora de servir, misture a salsinha e as nozes. A caponata pode ser mantida na geladeira por até 1 semana."
+  ],
+  "excerpt": "Caponata de forno. Tempo de preparo: 30 min. Ingrediente em destaque: Salada de verdes com chips de berinjela. Comece assim: Preaqueça o forno a 200 °C (temperatura média).",
+  "social": {
+    "caption_short": "Caponata de forno",
+    "caption_medium": "Caponata de forno Ingredientes: Salada de verdes com chips de berinjela, ⅓ de xícara (chá) de azeitona preta sem caroço, 2 colheres (sopa) de alcaparra, ⅓ de xícara (chá) de uvas-passas pretas, ½ xícara (chá) de azeite Andorinha. Modo de preparo: Preaqueça o forno a 200 °C (temperatura média).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#popular",
+      "#fácil"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/caponata_de_forno.jpg\" alt=\"Caponata de forno\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 30 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Salada de verdes com chips de berinjela</li>\n<li>⅓ de xícara (chá) de azeitona preta sem caroço</li>\n<li>2 colheres (sopa) de alcaparra</li>\n<li>⅓ de xícara (chá) de uvas-passas pretas</li>\n<li>½ xícara (chá) de azeite Andorinha</li>\n<li>1 colher (sopa) de vinagre de vinho tinto</li>\n<li>2 colheres (chá) de sal</li>\n<li>1 colher (chá) de sementes de erva-doce</li>\n<li>6 ramos de salsinha</li>\n<li>⅓ de xícara (chá) de nozes tostadas e picadas grosseiramente</li>\n<li>Transfira as berinjelas cortadas para um escorredor de macarrão, salpique 2 colheres (chá) de sal e misture bem com as mãos para envolver todos os pedaços. Deixe descansar por 30 minutos enquanto separa o restante dos ingredientes — isso diminui o amargo característico da berinjela.</li>\n<li>Passado o tempo da berinjela, transfira os pedaços para uma assadeira grande de borda alta. Junte o restante dos legumes cortados, as azeitonas, as uva-passas e alcaparras. Regue com o azeite, o vinagre, a erva-doce e misture bem — não é necessário adicionar sal; o sal da berinjela já é suficiente para temperar a receita.</li>\n<li>Retire do forno e deixe amornar. Transfira para uma tigela e leve à geladeira para esfriar por pelo menos 2 horas antes de misturar a salsinha e as nozes (se preferir, prepare no dia anterior; a caponata fica ainda mais gostosa quando permanece mais tempo na geladeira).</li>\n<li>Na hora de servir, misture a salsinha e as nozes. A caponata pode ser mantida na geladeira por até 1 semana.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Preaqueça o forno a 200 °C (temperatura média).</li>\n<li>Lave e seque a berinjela. Descarte o cabinho e corte a berinjela ao meio, no sentido da largura, separando a parte grossa da parte fina. Corte cada parte ao meio no sentido do comprimento; faça 4 tiras em cada metade da parte fina e 6 tiras nas metades da parte grossa, no sentido do comprimento. Corte as tiras em fatias de 1,5 cm — assim, todos os pedaços ficam com parte do miolo e parte da casca, para ter mais sabor. É importante que os pedaços tenham tamanho uniforme para que assem por igual.</li>\n<li>Transfira as berinjelas cortadas para um escorredor de macarrão, salpique 2 colheres (chá) de sal e misture bem com as mãos para envolver todos os pedaços. Deixe descansar por 30 minutos enquanto separa o restante dos ingredientes — isso diminui o amargo característico da berinjela.</li>\n<li>Lave, seque e corte os pimentões ao meio; descarte as sementes e corte as metades em quadrados de 1,5 cm. Descasque e corte a cebola em cubos de 1 cm. Com a lateral da lâmina da faca, amasse os dentes de alho e descasque. Corte azeitonas em fatias no sentido do comprimento.</li>\n<li>Passado o tempo da berinjela, transfira os pedaços para uma assadeira grande de borda alta. Junte o restante dos legumes cortados, as azeitonas, as uva-passas e alcaparras. Regue com o azeite, o vinagre, a erva-doce e misture bem — não é necessário adicionar sal; o sal da berinjela já é suficiente para temperar a receita.</li>\n<li>Leve ao forno para assar por cerca de 40 minutos, ou até que os legumes fiquem bem macios e levemente dourados — mexa na metade do tempo para que cozinhem por igual.</li>\n<li>Retire do forno e deixe amornar. Transfira para uma tigela e leve à geladeira para esfriar por pelo menos 2 horas antes de misturar a salsinha e as nozes (se preferir, prepare no dia anterior; a caponata fica ainda mais gostosa quando permanece mais tempo na geladeira).</li>\n<li>Na hora de servir, misture a salsinha e as nozes. A caponata pode ser mantida na geladeira por até 1 semana.</li>\n</ol>\n"
+}

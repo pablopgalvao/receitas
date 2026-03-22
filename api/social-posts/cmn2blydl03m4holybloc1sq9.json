@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blydl03m4holybloc1sq9",
+  "title": "Carne de panela com molho de mostarda",
+  "slug": "receitas/carne-de-panela-com-molho-de-mostarda__db5ee54c",
+  "url": "https://receitas.pgalvao.com.br/receitas/carne-de-panela-com-molho-de-mostarda__db5ee54c/cmn2blydl03m4holybloc1sq9/",
+  "deeplink": "boil://receita?rid=cmn2blydl03m4holybloc1sq9",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-com-molho-de-mostarda__db5ee54c_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-com-molho-de-mostarda__db5ee54c_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-com-molho-de-mostarda__db5ee54c_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-com-molho-de-mostarda__db5ee54c_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/carne-de-panela-com-molho-de-mostarda__db5ee54c_01.webp"
+  },
+  "ingredients": [
+    "500 g de carne (músculo ou miolo de paleta)",
+    "Azeite a gosto",
+    "2 cebolas picadas em cubos",
+    "2 dentes de alho picados",
+    "400 ml de água",
+    "5 colheres de sopa de mostarda",
+    "Tomilho a gosto (opcional)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Corte a carne em pedaços médios, tempere e reserve;",
+    "Leve uma panela de pressão ao fogo médio, e refogue a cebola;",
+    "Quando ela começar a dourar, adicione os pedaços de carne, o alho e refogue por mais 15 minutos;",
+    "Depois, cubra a carne com água, acrescente o tomilho, 2 colheres de sopa da mostarda, misture, aumente o fogo, tampe a panela, e deixe pegar pressão. Quando a panela começar a chiar, diminua o fogo e deixe a carne cozinhar por mais 20 minutos;",
+    "Certifique-se de que a carne está macia, coloque-a em um refratário (deixe o molho na panela); acrescente 3 colheres de mostarda, e deixe-o cozinhar em fogo médio até começar a ferver e engrossar;",
+    "Despeje o molho sobre a carne e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Carne de panela com molho de mostarda",
+    "caption_medium": "Carne de panela com molho de mostarda Ingredientes: 500 g de carne (músculo ou miolo de paleta), Azeite a gosto, 2 cebolas picadas em cubos, 2 dentes de alho picados, 400 ml de água. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

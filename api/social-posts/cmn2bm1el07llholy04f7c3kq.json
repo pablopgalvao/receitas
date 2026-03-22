@@ -1,0 +1,52 @@
+{
+  "id": "cmn2bm1el07llholy04f7c3kq",
+  "title": "Salpicão fit",
+  "slug": "receitas/salpic_o_fit",
+  "url": "https://receitas.pgalvao.com.br/receitas/salpic_o_fit/cmn2bm1el07llholy04f7c3kq/",
+  "deeplink": "boil://receita?rid=cmn2bm1el07llholy04f7c3kq",
+  "date": "2025-09-22T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salpic_o_fit.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salpic_o_fit.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salpic_o_fit.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salpic_o_fit.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salpic_o_fit.jpg"
+  },
+  "ingredients": [
+    "200 gramas de peito de frango cozido e desfiado",
+    "1 cenoura ralada",
+    "1 maçã picada em cubos",
+    "½ xícara de chá de milho-verde cozido",
+    "½ xícara de chá de ervilha cozida",
+    "½ xícara de chá de uva-passa",
+    "1 pote de iogurte natural desnatado",
+    "1 colher de sopa de mostarda",
+    "Sal e pimenta-do-reino a gosto",
+    "Cheiro-verde a gosto"
+  ],
+  "steps": [
+    "Em uma tigela, misture o frango desfiado com a cenoura, a maçã, o milho, a ervilha e as uvas-passas;",
+    "Acrescente o iogurte e a mostarda, misturando bem;",
+    "Tempere com sal, pimenta e cheiro-verde a gosto;",
+    "Leve à geladeira por 30 minutos antes de servir."
+  ],
+  "social": {
+    "caption_short": "Salpicão fit",
+    "caption_medium": "Salpicão fit Ingredientes: 200 gramas de peito de frango cozido e desfiado, 1 cenoura ralada, 1 maçã picada em cubos, ½ xícara de chá de milho-verde cozido, ½ xícara de chá de ervilha cozida. Modo de preparo: Em uma tigela, misture o frango desfiado com a cenoura, a maçã, o milho, a ervilha e as uvas-passas;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novidadespopulares"
+    ]
+  }
+}

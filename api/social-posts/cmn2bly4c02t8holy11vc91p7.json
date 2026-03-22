@@ -1,0 +1,53 @@
+{
+  "id": "cmn2bly4c02t8holy11vc91p7",
+  "title": "Bolo de batata-doce cremoso",
+  "slug": "receitas/bolo-de-batata-doce-cremoso__5179a953",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-batata-doce-cremoso__5179a953/cmn2bly4c02t8holy11vc91p7/",
+  "deeplink": "boil://receita?rid=cmn2bly4c02t8holy11vc91p7",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-batata-doce-cremoso__5179a953_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-batata-doce-cremoso__5179a953_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-batata-doce-cremoso__5179a953_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-batata-doce-cremoso__5179a953_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-batata-doce-cremoso__5179a953_01.webp"
+  },
+  "ingredients": [
+    "350 gramas de batata-doce cozida",
+    "2 ovos",
+    "1 xícara de chá de açúcar",
+    "100 gramas de manteiga sem sal",
+    "100 ml de leite de coco",
+    "1 xícara de chá de farinha de trigo",
+    "1 xícara de chá de leite",
+    "Coco ralado a gosto"
+  ],
+  "steps": [
+    "Em uma vasilha, coloque a batata-doce cozida e descascada e amasse bem.",
+    "Em um liquidificador, coloque os ovos, o açúcar, a manteiga em temperatura ambiente, o leite de coco e bata por 2 minutos.",
+    "Adicione a batata-doce e bata até a massa ficar homogênea.",
+    "Transfira para uma vasilha, adicione o leite, a farinha e misture até incorporar tudo muito bem.",
+    "Despeje em uma assadeira untada e enfarinhada e polvilhe coco ralado por cima.",
+    "Leve para assar em forno preaquecido a 200 °C por 1 hora.",
+    "Sirva e aproveite."
+  ],
+  "social": {
+    "caption_short": "Bolo de batata-doce cremoso",
+    "caption_medium": "Bolo de batata-doce cremoso Ingredientes: 350 gramas de batata-doce cozida, 2 ovos, 1 xícara de chá de açúcar, 100 gramas de manteiga sem sal, 100 ml de leite de coco. Modo de preparo: Em uma vasilha, coloque a batata-doce cozida e descascada e amasse bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cmn2bly93039zholy622t04y9",
+  "title": "Brócolis com pimenta e castanha-de-caju",
+  "slug": "receitas/br_colis_com_pimenta_e_castanha_de_caju",
+  "url": "https://receitas.pgalvao.com.br/receitas/br_colis_com_pimenta_e_castanha_de_caju/cmn2bly93039zholy622t04y9/",
+  "deeplink": "boil://receita?rid=cmn2bly93039zholy622t04y9",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_com_pimenta_e_castanha_de_caju.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_com_pimenta_e_castanha_de_caju.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_com_pimenta_e_castanha_de_caju.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_com_pimenta_e_castanha_de_caju.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_com_pimenta_e_castanha_de_caju.jpg"
+  },
+  "ingredients": [
+    "Salada de brócolis branqueado com molho ponzu",
+    "Brócolis ao alho e óleo",
+    "1 colher (sopa) de azeite",
+    "⅓ de xícara (chá) de castanha-de-caju torrada, sem sal",
+    "sal a gosto",
+    "Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com o azeite e adicione os ramos de brócolis. Tempere com sal e refogue por cerca de 5 minutos, virando com uma pinça, até ficarem macios (se sua frigideira for pequena, refogue o brócolis em duas etapas)."
+  ],
+  "steps": [
+    "Corte e descarte as folhas do brócolis. Com o descascador de legumes, retire as fibras externas dos talos, tomando cuidado para não desmanchar os floretes - nesta receita vamos usar os ramos inteiros do brócolis. Se preferir, utilize uma faquinha para legumes.",
+    "Com uma faca, divida os ramos maiores ao meio, no sentido do comprimento - da base do talo até o florete - para que todos fiquem do mesmo tamanho e cozinhem por igual. Lave sob água corrente e deixe numa peneira para escorrer bem a água - se estiver muito molhado pode espirrar azeite na hora de ir para a frigideira.",
+    "Enquanto isso, lave e seque o limão e a pimenta dedo-de-moça. Corte o limão em quartos. Com a lateral da lâmina da faca, amasse e descasque os dentes de alho. Pique grosseiramente as castanhas.",
+    "Fatie a pimenta em rodelas finas (se preferir, descarte as sementes para deixar o preparo menos picante). Dica: para evitar acidentes com dedos apimentados nos olhos, passe óleo ou azeite nas mãos depois de cortar as pimentas — a capsaicina, substância responsável pelo ardor, é lipossolúvel. Depois, lave as mãos com sabonete para tirar o óleo.",
+    "Leve uma frigideira grande, de preferência antiaderente, ao fogo médio. Quando aquecer, regue com o azeite e adicione os ramos de brócolis. Tempere com sal e refogue por cerca de 5 minutos, virando com uma pinça, até ficarem macios (se sua frigideira for pequena, refogue o brócolis em duas etapas).",
+    "Junte os dentes de alho, a pimenta dedo-de-moça e mexa mais 2 minutos para perfumar. Transfira os ramos para uma travessa e regue com o azeite e as rodelas de pimenta da frigideira - descarte os dentes de alho.",
+    "Mantenha a frigideira em fogo baixo e doure os quartos de limão. Sirva o brócolis quente, polvilhado com as castanhas e acompanhado dos limões dourados para espremer na hora."
+  ],
+  "social": {
+    "caption_short": "Brócolis com pimenta e castanha-de-caju",
+    "caption_medium": "Brócolis com pimenta e castanha-de-caju Ingredientes: Salada de brócolis branqueado com molho ponzu, Brócolis ao alho e óleo, 1 colher (sopa) de azeite, ⅓ de xícara (chá) de castanha-de-caju torrada, sem sal, sal a gosto. Modo de preparo: Corte e descarte as folhas do brócolis. Com o descascador de legumes, retire as fibras externas dos talos, tomando cuidado para não desmanchar os floretes - nesta receita vamos usar os ramos inteiros do brócolis. Se preferir, utilize uma faquinha para legumes.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#brasil",
+      "#tradicional"
+    ]
+  }
+}

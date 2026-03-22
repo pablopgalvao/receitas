@@ -1,0 +1,57 @@
+{
+  "id": "cmn2blzy7065wholya9mbhc12",
+  "title": "Panqueca de banana",
+  "slug": "receitas/panqueca_de_banana",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca_de_banana/cmn2blzy7065wholya9mbhc12/",
+  "deeplink": "boil://receita?rid=cmn2blzy7065wholya9mbhc12",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_banana.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_banana.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_banana.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_banana.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_banana.jpg"
+  },
+  "ingredients": [
+    "½ xícara (chá) de farinha de trigo",
+    "1 colher (sopa) de açúcar",
+    "⅓ de xícara (chá) de leite",
+    "1 colher (sopa) de óleo (ou manteiga derretida)",
+    "½ colher (chá) de fermento em pó",
+    "1 pitada de canela em pó",
+    "1 pitada de sal",
+    "óleo (ou manteiga) para untar",
+    "Quebre o ovo numa tigela média. Junte o açúcar, a canela, o sal e mexa bem com o batedor de arame até começar a espumar. Adicione o leite e o óleo e misture bem.",
+    "Acrescente a farinha e misture novamente para incorporar e desmanchar os gruminhos. Deixe a massa descansar por 10 minutos – isso deixa a panqueca mais levinha.",
+    "Leve uma frigideira antiaderente pequena ao fogo médio (nós usamos uma de 15 cm de diâmetro). Quando aquecer, com um pedaço de papel-toalha, unte o fundo da frigideira com óleo (ou manteiga). Coloque 1 concha da massa no centro da frigideira – a massa da panqueca fica no formato redondo sozinha, não tente espalhar com uma espátula pois a panqueca pode ficar solada."
+  ],
+  "steps": [
+    "Quebre o ovo numa tigela média. Junte o açúcar, a canela, o sal e mexa bem com o batedor de arame até começar a espumar. Adicione o leite e o óleo e misture bem.",
+    "Acrescente a farinha e misture novamente para incorporar e desmanchar os gruminhos. Deixe a massa descansar por 10 minutos – isso deixa a panqueca mais levinha.",
+    "Passado o tempo de descanso, misture o fermento em pó na massa. Descasque e corte a banana em fatias de 0,5 cm.",
+    "Leve uma frigideira antiaderente pequena ao fogo médio (nós usamos uma de 15 cm de diâmetro). Quando aquecer, com um pedaço de papel-toalha, unte o fundo da frigideira com óleo (ou manteiga). Coloque 1 concha da massa no centro da frigideira – a massa da panqueca fica no formato redondo sozinha, não tente espalhar com uma espátula pois a panqueca pode ficar solada.",
+    "Disponha metade das rodelas de banana sobre a massa, uma ao lado da outra e deixe dourar por 2 minutos, até a as bordas começarem a firmar e o centro da massa inflar ao redor das bananas.",
+    "Com uma espátula, vire a panqueca e mantenha em fogo baixo por 2 minutos para dourar o outro lado por igual. Transfira para um prato e repita com o restante da massa, untando a frigideira novamente. Sirva as panquecas ainda mornas com mel e iogurte cremoso."
+  ],
+  "social": {
+    "caption_short": "Panqueca de banana",
+    "caption_medium": "Panqueca de banana Ingredientes: ½ xícara (chá) de farinha de trigo, 1 colher (sopa) de açúcar, ⅓ de xícara (chá) de leite, 1 colher (sopa) de óleo (ou manteiga derretida), ½ colher (chá) de fermento em pó. Modo de preparo: Quebre o ovo numa tigela média. Junte o açúcar, a canela, o sal e mexa bem com o batedor de arame até começar a espumar. Adicione o leite e o óleo e misture bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#fácil",
+      "#rápido"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blyss04hoholyfcrk62f5",
+  "title": "Espeto 3 sabores para um churrasco completo",
+  "slug": "receitas/espeto_3_sabores_para_um_churrasco_completo",
+  "url": "https://receitas.pgalvao.com.br/receitas/espeto_3_sabores_para_um_churrasco_completo/cmn2blyss04hoholyfcrk62f5/",
+  "deeplink": "boil://receita?rid=cmn2blyss04hoholyfcrk62f5",
+  "date": "2025-09-20T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espeto_3_sabores_para_um_churrasco_completo.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espeto_3_sabores_para_um_churrasco_completo.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espeto_3_sabores_para_um_churrasco_completo.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espeto_3_sabores_para_um_churrasco_completo.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/espeto_3_sabores_para_um_churrasco_completo.webp"
+  },
+  "ingredients": [
+    "1kg de alcatra em cubos",
+    "1kg de peito de frango sem osso e sem pele, cortado em cubos",
+    "500g de linguiça toscana fresca em cubos",
+    "4 dentes de alho picados",
+    "1 cebola picada",
+    "Sal e pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Em uma tigela, tempere a carne, o frango e a linguiça com o alho, a cebola, o sal e a pimenta.",
+    "Deixe reservado para pegar o tempero por 15 minutos.",
+    "No palito de churrasco, intercale 1 cubo de carne, 1 de frango e 1 de linguiça.",
+    "Asse em uma grelha de churrasqueira por 15 minutos, virando de vez em quando, ou até ficar dourado.",
+    "Se desejar sirva acompanhado de salada de macarrão."
+  ],
+  "social": {
+    "caption_short": "Espeto 3 sabores para um churrasco completo",
+    "caption_medium": "Espeto 3 sabores para um churrasco completo Ingredientes: 1kg de alcatra em cubos, 1kg de peito de frango sem osso e sem pele, cortado em cubos, 500g de linguiça toscana fresca em cubos, 4 dentes de alho picados, 1 cebola picada. Modo de preparo: Em uma tigela, tempere a carne, o frango e a linguiça com o alho, a cebola, o sal e a pimenta.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#churrasco",
+      "#fimdesemana"
+    ]
+  }
+}

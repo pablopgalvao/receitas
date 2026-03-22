@@ -1,0 +1,55 @@
+{
+  "id": "cmn2blzbr05d2holy837s2z7t",
+  "title": "Macarrão com calabresa e espinafre",
+  "slug": "receitas/macarrao-com-calabresa-e-espinafre__96cbcdf4",
+  "url": "https://receitas.pgalvao.com.br/receitas/macarrao-com-calabresa-e-espinafre__96cbcdf4/cmn2blzbr05d2holy837s2z7t/",
+  "deeplink": "boil://receita?rid=cmn2blzbr05d2holy837s2z7t",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-calabresa-e-espinafre__96cbcdf4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-calabresa-e-espinafre__96cbcdf4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-calabresa-e-espinafre__96cbcdf4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-calabresa-e-espinafre__96cbcdf4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-calabresa-e-espinafre__96cbcdf4_01.webp"
+  },
+  "ingredients": [
+    "250 gramas de talharim",
+    "2 colheres de sopa de azeite",
+    "½ xícara de chá de calabresa defumada picada",
+    "1 dente de alho picado",
+    "½ cebola picada",
+    "1 maço de espinafre (folhas e talos picados)",
+    "Sal e pimenta-do-reino a gosto",
+    "250 ml de creme de leite fresco",
+    "50 g de queijo parmesão ralado"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma panela com água, cozinhe o macarrão conforme as instruções do fabricante;",
+    "Em uma frigideira alta, esquente o azeite e refogue a calabresa até dourar;",
+    "Adicione o alho, a cebola e refogue também;",
+    "Acrescente o espinafre, tempere com sal, pimenta e deixe cozinhar por cerca de 5 minutos;",
+    "Despeje o creme de leite e deixe levantar fervura;",
+    "Coloque o macarrão cozido, misture bem e deixe cozinhar por 5 minutos;",
+    "Salpique parmesão ralado e sirva."
+  ],
+  "social": {
+    "caption_short": "Macarrão com calabresa e espinafre",
+    "caption_medium": "Macarrão com calabresa e espinafre Ingredientes: 250 gramas de talharim, 2 colheres de sopa de azeite, ½ xícara de chá de calabresa defumada picada, 1 dente de alho picado, ½ cebola picada. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

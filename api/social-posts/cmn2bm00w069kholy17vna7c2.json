@@ -1,0 +1,58 @@
+{
+  "id": "cmn2bm00w069kholy17vna7c2",
+  "title": "Pão de cenoura",
+  "slug": "receitas/pao-de-cenoura__4fea3bc2",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-de-cenoura__4fea3bc2/cmn2bm00w069kholy17vna7c2/",
+  "deeplink": "boil://receita?rid=cmn2bm00w069kholy17vna7c2",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-cenoura__4fea3bc2_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-cenoura__4fea3bc2_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-cenoura__4fea3bc2_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-cenoura__4fea3bc2_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-cenoura__4fea3bc2_01.webp"
+  },
+  "ingredients": [
+    "1 xícara de chá de leite morno (240 ml)",
+    "1 cenoura",
+    "3 colheres de sopa de açúcar",
+    "2 colheres de chá de sal",
+    "10 gramas de fermento biológico seco (1 envelope)",
+    "2 ovos",
+    "3 colheres de sopa de manteiga em temperatura ambiente (45 gramas)",
+    "600 gramas de farinha de trigo (5 xícaras)",
+    "1 ovo com leite (para pincelar)"
+  ],
+  "steps": [
+    "Organize todos os ingredientes em sua bancada! Pique a cenoura em pedaços pequenos;",
+    "No liquidificador, bata o leite morno, a cenoura picada e os ovos até obter uma mistura homogênea;",
+    "Em uma tigela grande (27 cm de diâmetro), coloque 500 gramas de farinha de trigo, o fermento e o açúcar;",
+    "Acrescente a mistura do liquidificador, o sal e a manteiga em temperatura ambiente aos ingredientes secos que estão na tigela. Misture até começar a formar a massa;",
+    "Transfira para uma superfície enfarinhada e sove por cerca de 10 minutos, adicionando o restante da farinha aos poucos;",
+    "Modele a massa em forma de bola, cubra com um pano e deixe descansar até dobrar de volume;",
+    "Quando a massa crescer, abra com as mãos e a enrole como um rocambole;",
+    "Corte a massa ao meio, de modo a formar duas partes iguais, e coloque cada um em uma forma untada (20 cm de comprimento);",
+    "Cubra novamente com um pano e deixe descansar por mais 1 hora;",
+    "Depois que crescerem, misture o ovo com um pouco de leite e pincele a superfície dos pães;",
+    "Asse em forno preaquecido a 180 °C por cerca de 40 minutos, ou até dourar. Retire, deixe esfriar um pouco e já pode servir!"
+  ],
+  "social": {
+    "caption_short": "Pão de cenoura",
+    "caption_medium": "Pão de cenoura Ingredientes: 1 xícara de chá de leite morno (240 ml), 1 cenoura, 3 colheres de sopa de açúcar, 2 colheres de chá de sal, 10 gramas de fermento biológico seco (1 envelope). Modo de preparo: Organize todos os ingredientes em sua bancada! Pique a cenoura em pedaços pequenos;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

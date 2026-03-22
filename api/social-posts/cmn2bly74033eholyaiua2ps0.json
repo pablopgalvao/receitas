@@ -1,0 +1,45 @@
+{
+  "id": "cmn2bly74033eholyaiua2ps0",
+  "title": "Bolo de pão de mel",
+  "slug": "receitas/bolo-de-pao-de-mel__0b55d8da",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-pao-de-mel__0b55d8da/cmn2bly74033eholyaiua2ps0/",
+  "deeplink": "boil://receita?rid=cmn2bly74033eholyaiua2ps0",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-de-mel__0b55d8da_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-de-mel__0b55d8da_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-de-mel__0b55d8da_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-de-mel__0b55d8da_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-de-mel__0b55d8da_01.webp"
+  },
+  "ingredients": [
+    "300 gramas de chocolate meio amargo",
+    "½ xícara de chá de creme de leite"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma tigela, coloque a farinha, o açúcar, o mel, o leite, a manteiga, o cacau, a canela, o cravo, o bicarbonato, o suco de limão e misture;",
+    "Leve essa mistura para uma batedeira e bata até que tudo se incorpore e fique uma massa homogênea;",
+    "Despeje a massa numa assadeira untada com margarina e forrada com papel manteiga e leve-a para assar em forno pré-aquecido a 180º graus por cerca de 30 a 45 minutos;",
+    "Retire o bolo do forno e reserve;"
+  ],
+  "social": {
+    "caption_short": "Bolo de pão de mel",
+    "caption_medium": "Bolo de pão de mel Ingredientes: 300 gramas de chocolate meio amargo, ½ xícara de chá de creme de leite. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "cmn2bly8c037kholy8falezrh",
+  "title": "Bolo de limão com glacê",
+  "slug": "receitas/bolo_de_lim_o_com_glac",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo_de_lim_o_com_glac/cmn2bly8c037kholy8falezrh/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bly8c037kholy8falezrh.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bly8c037kholy8falezrh.json",
+  "deeplink": "boil://receita?rid=cmn2bly8c037kholy8falezrh",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:37.295Z",
+  "time": "45 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "caseiro",
+    "fácil",
+    "rápido"
+  ],
+  "ingredients": [
+    "3 xícaras (chá) de farinha de trigo",
+    "2 colheres (chá) de fermento em pó",
+    "½ colher (chá) de sal",
+    "200 g de manteiga em temperatura ambiente",
+    "2 xícaras (chá) de açúcar",
+    "1 xícara (chá) de leite",
+    "manteiga e farinha de trigo para untar e polvilhar",
+    "Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.",
+    "Numa tigela, coloque a farinha, o fermento e o sal passando pela peneira. Misture e reserve.",
+    "1 xícara (chá) de açúcar de confeiteiro",
+    "2 colheres (sopa) de caldo de limão",
+    "Numa tigela pequena, misture bem o açúcar com o caldo de limão até ficar liso. Espalhe sobre o bolo e deixe endurecer.",
+    "500 ml de creme de leite fresco",
+    "2 colheres (sopa) de açúcar",
+    "O creme de leite fresco bate mais fácil quando está bem gelado - você pode deixar o creme de leite alguns minutos no congelado antes de bater. Na batedeira, coloque o creme de leite, o açúcar e bata até encorporar. Transfira para uma tigela e deixe na geladeira até servir."
+  ],
+  "steps": [
+    "Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.",
+    "Numa tigela, coloque a farinha, o fermento e o sal passando pela peneira. Misture e reserve.",
+    "Na batedeira, coloque a manteiga e bata até ficar fofa. Adicione o açúcar e bata apenas para misturar. Junte os ovos, um a um, batendo bem entre cada adição. Se a massa ficar com uma aparência talhada, não se assuste: é assim mesmo.",
+    "Diminua a velocidade da batedeira e adicione os ingredientes peneirados aos poucos, alternando com o leite. A cada adição, bata apenas para misturar.",
+    "Assim que a massa estiver bem lisa, desligue a batedeira. Adicione as raspas de limão, misture com uma espátula. Transfira a massa para a fôrma preparada. Para nivelar, o truque é girar a fôrma rapidamente sobre a mesa.",
+    "Leve ao forno preaquecido para assar por cerca de 45 minutos. Espete um palito no bolo para verificar o ponto: se sair sujo de massa, deixe assar mais um pouco. Retire o bolo do forno e deixe esfriar por 10 minutos - bolo muito quente costuma rachar ao desenformar.",
+    "Para desenformar: coloque um prato grande sobre o bolo, segure com um pano de prato e vire e uma só vez."
+  ],
+  "excerpt": "Bolo de limão com glacê. Tempo de preparo: 45 min. Ingrediente em destaque: 3 xícaras (chá) de farinha de trigo. Comece assim: Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.",
+  "social": {
+    "caption_short": "Bolo de limão com glacê",
+    "caption_medium": "Bolo de limão com glacê Ingredientes: 3 xícaras (chá) de farinha de trigo, 2 colheres (chá) de fermento em pó, ½ colher (chá) de sal, 200 g de manteiga em temperatura ambiente, 2 xícaras (chá) de açúcar. Modo de preparo: Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#fácil",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_lim_o_com_glac.jpg\" alt=\"Bolo de limão com glacê\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 45 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>3 xícaras (chá) de farinha de trigo</li>\n<li>2 colheres (chá) de fermento em pó</li>\n<li>½ colher (chá) de sal</li>\n<li>200 g de manteiga em temperatura ambiente</li>\n<li>2 xícaras (chá) de açúcar</li>\n<li>1 xícara (chá) de leite</li>\n<li>manteiga e farinha de trigo para untar e polvilhar</li>\n<li>Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.</li>\n<li>Numa tigela, coloque a farinha, o fermento e o sal passando pela peneira. Misture e reserve.</li>\n<li>1 xícara (chá) de açúcar de confeiteiro</li>\n<li>2 colheres (sopa) de caldo de limão</li>\n<li>Numa tigela pequena, misture bem o açúcar com o caldo de limão até ficar liso. Espalhe sobre o bolo e deixe endurecer.</li>\n<li>500 ml de creme de leite fresco</li>\n<li>2 colheres (sopa) de açúcar</li>\n<li>O creme de leite fresco bate mais fácil quando está bem gelado - você pode deixar o creme de leite alguns minutos no congelado antes de bater. Na batedeira, coloque o creme de leite, o açúcar e bata até encorporar. Transfira para uma tigela e deixe na geladeira até servir.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma de bolo, com furo no meio de 24 cm de diâmetro. Polvilhe com farinha e bata bem para retirar o excesso.</li>\n<li>Numa tigela, coloque a farinha, o fermento e o sal passando pela peneira. Misture e reserve.</li>\n<li>Na batedeira, coloque a manteiga e bata até ficar fofa. Adicione o açúcar e bata apenas para misturar. Junte os ovos, um a um, batendo bem entre cada adição. Se a massa ficar com uma aparência talhada, não se assuste: é assim mesmo.</li>\n<li>Diminua a velocidade da batedeira e adicione os ingredientes peneirados aos poucos, alternando com o leite. A cada adição, bata apenas para misturar.</li>\n<li>Assim que a massa estiver bem lisa, desligue a batedeira. Adicione as raspas de limão, misture com uma espátula. Transfira a massa para a fôrma preparada. Para nivelar, o truque é girar a fôrma rapidamente sobre a mesa.</li>\n<li>Leve ao forno preaquecido para assar por cerca de 45 minutos. Espete um palito no bolo para verificar o ponto: se sair sujo de massa, deixe assar mais um pouco. Retire o bolo do forno e deixe esfriar por 10 minutos - bolo muito quente costuma rachar ao desenformar.</li>\n<li>Para desenformar: coloque um prato grande sobre o bolo, segure com um pano de prato e vire e uma só vez.</li>\n</ol>\n"
+}

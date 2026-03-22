@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bly3m02q2holy2pt98bf1",
+  "title": "Bolo com tâmaras sem açúcar",
+  "slug": "receitas/bolo-com-tamaras-sem-acucar__a561aab4",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-com-tamaras-sem-acucar__a561aab4/cmn2bly3m02q2holy2pt98bf1/",
+  "deeplink": "boil://receita?rid=cmn2bly3m02q2holy2pt98bf1",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-com-tamaras-sem-acucar__a561aab4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-com-tamaras-sem-acucar__a561aab4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-com-tamaras-sem-acucar__a561aab4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-com-tamaras-sem-acucar__a561aab4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-com-tamaras-sem-acucar__a561aab4_01.webp"
+  },
+  "ingredients": [
+    "12 tâmaras",
+    "3 ovos inteiros",
+    "1 xícara de chá de leite integral",
+    "2 colheres de sopa de manteiga em temperatura ambiente",
+    "2 colheres de sopa de cacau em pó 100% cacau",
+    "1 xícara de chá de farinha de aveia",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Quebre os ovos um a um para verificar se estão bons. Peneire a farinha de aveia e o cacau em pó com a ajuda de uma peneira. Unte uma forma redonda de 22 centímetros de diâmetro com manteiga e farinha de aveia. Preaqueça o forno a 180ºC. Junte todos os ingredientes para agilizar o preparo;",
+    "Em um liquidificador, coloque os ovos, as tâmaras, o leite e o cacau em pó. Bata os ingredientes até obter uma mistura homogênea;",
+    "Transfira para uma tigela e adicione a farinha de aveia aos poucos, mexendo até incorporar. Por último, acrescente o fermento químico e misture delicadamente apenas até se envolver na massa;",
+    "Despeje a massa na forma untada e enfarinhada, leve ao forno preaquecido por aproximadamente 30 minutos ou até passar no teste do palito;",
+    "Retire o bolo do forno e deixe amornar. Desenforme com cuidado e sirva em seguida. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo com tâmaras sem açúcar",
+    "caption_medium": "Bolo com tâmaras sem açúcar Ingredientes: 12 tâmaras, 3 ovos inteiros, 1 xícara de chá de leite integral, 2 colheres de sopa de manteiga em temperatura ambiente, 2 colheres de sopa de cacau em pó 100% cacau. Modo de preparo: Quebre os ovos um a um para verificar se estão bons. Peneire a farinha de aveia e o cacau em pó com a ajuda de uma peneira. Unte uma forma redonda de 22 centímetros de diâmetro com manteiga e farinha de aveia. Preaqueça o forno a 180ºC. Junte todos os ingredientes para agilizar o preparo;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

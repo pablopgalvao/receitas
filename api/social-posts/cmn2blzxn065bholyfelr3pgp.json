@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blzxn065bholyfelr3pgp",
+  "title": "Panqueca salgada com recheio de abacate",
+  "slug": "receitas/panqueca-salgada-com-recheio-de-abacate__036a9010",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca-salgada-com-recheio-de-abacate__036a9010/cmn2blzxn065bholyfelr3pgp/",
+  "deeplink": "boil://receita?rid=cmn2blzxn065bholyfelr3pgp",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-salgada-com-recheio-de-abacate__036a9010_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-salgada-com-recheio-de-abacate__036a9010_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-salgada-com-recheio-de-abacate__036a9010_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-salgada-com-recheio-de-abacate__036a9010_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-salgada-com-recheio-de-abacate__036a9010_01.webp"
+  },
+  "ingredients": [
+    "2 fatias de abacate",
+    "Páprica defumada",
+    "Suco de um limão",
+    "Sal e pimenta a gosto",
+    "1 ovo",
+    "1 clara",
+    "1 colher de sopa de aveia em flocos finos",
+    "½ sachê de soup lift (mistura de proteína vegetal de tomate seco, salsinha desidratada e batata-doce em pó)",
+    "Um fio de azeite"
+  ],
+  "steps": [
+    "Em um recipiente, amasse bem o abacate até ficar parecendo um purê.",
+    "Tempere com páprica, o suco de limão, o sal, a pimenta e misture bem. Reserve.",
+    "Em outra vasilha, coloque o ovo, a clara, a veia, o soup lift e misture bem até formar uma massa de panqueca.",
+    "Em uma frigideira, esquente o azeite e coloque uma concha da massa e deixe dourar os dois lados.",
+    "Recheie a panqueca com o abacate temperado, feche e sirva. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Panqueca salgada com recheio de abacate",
+    "caption_medium": "Panqueca salgada com recheio de abacate Ingredientes: 2 fatias de abacate, Páprica defumada, Suco de um limão, Sal e pimenta a gosto, 1 ovo. Modo de preparo: Em um recipiente, amasse bem o abacate até ficar parecendo um purê.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

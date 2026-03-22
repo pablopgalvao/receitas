@@ -1,0 +1,54 @@
+{
+  "id": "cmn2blybt03i4holy7kh8a4ve",
+  "title": "Camarão à Provençal",
+  "slug": "receitas/camarao-a-provencal__11a3c7d1",
+  "url": "https://receitas.pgalvao.com.br/receitas/camarao-a-provencal__11a3c7d1/cmn2blybt03i4holy7kh8a4ve/",
+  "deeplink": "boil://receita?rid=cmn2blybt03i4holy7kh8a4ve",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camarao-a-provencal__11a3c7d1_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camarao-a-provencal__11a3c7d1_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camarao-a-provencal__11a3c7d1_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camarao-a-provencal__11a3c7d1_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/camarao-a-provencal__11a3c7d1_01.webp"
+  },
+  "ingredients": [
+    "1 kg de camarões limpos",
+    "Sal e pimenta-do-reino a gosto",
+    "100 gramas de manteiga",
+    "50 ml de azeite extra virgem",
+    "1 cabeça de alho com as pontas cortadas",
+    "1 limão-siciliano cortado ao meio",
+    "3 colheres de sopa de ervas de provence picadas",
+    "1 colher de sopa de cebolinha picada",
+    "1 colher de sopa de salsinha picada"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, tempere os camarões com sal e pimenta. Reserve;",
+    "Depois, leve uma frigideira ao fogo baixo e derreta a manteiga com o azeite;",
+    "Coloque o alho e as fatias de limão na frigideira. Deixe dourar;",
+    "Quando estiverem bem dourados, vire os limões e o alho, aumente o fogo e coloque os camarões e as ervas de provence;",
+    "Passados 5 minutos, salteie os camarões, levantando em movimentos rápidos e contínuos a frigideira;",
+    "Desligue o fogo e finalize com cebolinha e salsinha. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Camarão à Provençal",
+    "caption_medium": "Camarão à Provençal Ingredientes: 1 kg de camarões limpos, Sal e pimenta-do-reino a gosto, 100 gramas de manteiga, 50 ml de azeite extra virgem, 1 cabeça de alho com as pontas cortadas. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

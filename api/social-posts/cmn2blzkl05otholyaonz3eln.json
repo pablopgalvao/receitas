@@ -1,0 +1,51 @@
+{
+  "id": "cmn2blzkl05otholyaonz3eln",
+  "title": "Molho de castanha-de-caju com alho",
+  "slug": "receitas/molho_de_castanha_de_caju_com_alho",
+  "url": "https://receitas.pgalvao.com.br/receitas/molho_de_castanha_de_caju_com_alho/cmn2blzkl05otholyaonz3eln/",
+  "deeplink": "boil://receita?rid=cmn2blzkl05otholyaonz3eln",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_castanha_de_caju_com_alho.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_castanha_de_caju_com_alho.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_castanha_de_caju_com_alho.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_castanha_de_caju_com_alho.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_de_castanha_de_caju_com_alho.jpg"
+  },
+  "ingredients": [
+    "1 xícara (chá) de castanha-de-caju torrada sem sal (cerca de 130 g)",
+    "500 ml de água (para cozinhar a castanha)",
+    "½ colher (chá) de sal",
+    "1 colher (sopa) de azeite",
+    "¾ de xícara (chá) de água filtrada (para bater o molho)",
+    "Numa panela pequena, coloque as castanhas, cubra com 500 ml de água e leve ao fogo alto. Quando ferver, abaixe o fogo e deixe cozinhar por cerca de 20 minutos, até que as castanhas fiquem macias.",
+    "Escorra a água e transfira as castanhas cozidas ainda quentes para o liquidificador. Descasque o dente de alho e junte às castanhas. Adicione o sal, o azeite e ½ xícara (chá) da água filtrada. Bata por cerca de 2 minutos, até formar um creme liso. Nessa etapa, o molho vai estar bem cremoso; vá adicionando o restante da água filtrada aos poucos, pela abertura do copo do liquidificador, e continue batendo até obter a consistência desejada (mais cremoso ou mais fluido).",
+    "Transfira o molho para uma tigela pequena, prove e ajuste o sal. Leve à geladeira para esfriar antes de servir."
+  ],
+  "steps": [
+    "Numa panela pequena, coloque as castanhas, cubra com 500 ml de água e leve ao fogo alto. Quando ferver, abaixe o fogo e deixe cozinhar por cerca de 20 minutos, até que as castanhas fiquem macias.",
+    "Escorra a água e transfira as castanhas cozidas ainda quentes para o liquidificador. Descasque o dente de alho e junte às castanhas. Adicione o sal, o azeite e ½ xícara (chá) da água filtrada. Bata por cerca de 2 minutos, até formar um creme liso. Nessa etapa, o molho vai estar bem cremoso; vá adicionando o restante da água filtrada aos poucos, pela abertura do copo do liquidificador, e continue batendo até obter a consistência desejada (mais cremoso ou mais fluido).",
+    "Transfira o molho para uma tigela pequena, prove e ajuste o sal. Leve à geladeira para esfriar antes de servir."
+  ],
+  "social": {
+    "caption_short": "Molho de castanha-de-caju com alho",
+    "caption_medium": "Molho de castanha-de-caju com alho Ingredientes: 1 xícara (chá) de castanha-de-caju torrada sem sal (cerca de 130 g), 500 ml de água (para cozinhar a castanha), ½ colher (chá) de sal, 1 colher (sopa) de azeite, ¾ de xícara (chá) de água filtrada (para bater o molho). Modo de preparo: Numa panela pequena, coloque as castanhas, cubra com 500 ml de água e leve ao fogo alto. Quando ferver, abaixe o fogo e deixe cozinhar por cerca de 20 minutos, até que as castanhas fiquem macias.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#fácil",
+      "#rápido"
+    ]
+  }
+}

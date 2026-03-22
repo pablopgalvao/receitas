@@ -1,0 +1,70 @@
+{
+  "id": "cmn2bm12107ccholy44v35z10",
+  "title": "Salada de frango e abacate",
+  "slug": "receitas/salada-de-frango-e-abacate__04267a6a",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-de-frango-e-abacate__04267a6a/cmn2bm12107ccholy44v35z10/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm12107ccholy44v35z10.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm12107ccholy44v35z10.json",
+  "deeplink": "boil://receita?rid=cmn2bm12107ccholy44v35z10",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:54.016Z",
+  "time": "5 min",
+  "difficulty": "",
+  "servings": "1 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Saladas"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "½ abacate",
+    "Frango desfiado e refogado a gosto",
+    "½ cenoura ralada",
+    "½ tomate",
+    "½ pimentão-verde",
+    "Azeitona preta a gosto",
+    "Alcaparras a gosto",
+    "Manjericão baby a gosto",
+    "Nozes e sementes a gosto",
+    "Sal a gosto",
+    "Azeite a gosto"
+  ],
+  "steps": [
+    "Misture o frango desfiado com cenoura ralada, tomate e pimentão-verde.",
+    "Coloque essa mistura em cima da metade do abacate.",
+    "Finalize colocando as azeitonas, alcaparras, manjericão e nozes.",
+    "Tempere com sal e azeite.",
+    "Prontinho."
+  ],
+  "excerpt": "Salada de frango e abacate. Tempo de preparo: 5 min. Ingrediente em destaque: ½ abacate. Comece assim: Misture o frango desfiado com cenoura ralada, tomate e pimentão-verde.",
+  "social": {
+    "caption_short": "Salada de frango e abacate",
+    "caption_medium": "Salada de frango e abacate Ingredientes: ½ abacate, Frango desfiado e refogado a gosto, ½ cenoura ralada, ½ tomate, ½ pimentão-verde. Modo de preparo: Misture o frango desfiado com cenoura ralada, tomate e pimentão-verde.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp\" alt=\"Salada de frango e abacate\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Saladas</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 1 porções</li>\n<li><strong>Tempo de preparo:</strong> 5 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>½ abacate</li>\n<li>Frango desfiado e refogado a gosto</li>\n<li>½ cenoura ralada</li>\n<li>½ tomate</li>\n<li>½ pimentão-verde</li>\n<li>Azeitona preta a gosto</li>\n<li>Alcaparras a gosto</li>\n<li>Manjericão baby a gosto</li>\n<li>Nozes e sementes a gosto</li>\n<li>Sal a gosto</li>\n<li>Azeite a gosto</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Misture o frango desfiado com cenoura ralada, tomate e pimentão-verde.</li>\n<li>Coloque essa mistura em cima da metade do abacate.</li>\n<li>Finalize colocando as azeitonas, alcaparras, manjericão e nozes.</li>\n<li>Tempere com sal e azeite.</li>\n<li>Prontinho.</li>\n</ol>\n"
+}

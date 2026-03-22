@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bly9i03ahholyfc6a05s5",
+  "title": "Brigadeiro de amendoim",
+  "slug": "receitas/brigadeiro-de-amendoim__618da00a",
+  "url": "https://receitas.pgalvao.com.br/receitas/brigadeiro-de-amendoim__618da00a/cmn2bly9i03ahholyfc6a05s5/",
+  "deeplink": "boil://receita?rid=cmn2bly9i03ahholyfc6a05s5",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-amendoim__618da00a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-amendoim__618da00a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-amendoim__618da00a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-amendoim__618da00a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/brigadeiro-de-amendoim__618da00a_01.webp"
+  },
+  "ingredients": [
+    "1 colher de sopa de manteiga sem sal",
+    "1 lata de leite condensado (395 gramas)",
+    "4 colheres de sopa de pasta de amendoim",
+    "Castanhas ou amendoim triturado para decorar"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma panela de fundo grosso, coloque a manteiga, o leite condensado, a pasta de amendoim e misture;",
+    "Em fogo médio, cozinhe, sempre mexendo, até quando a massa começar a desgrudar do fundo da panela;",
+    "Transfira para um prato e deixe esfriar;",
+    "Pegue uma porção da massa e enrole os brigadeiros com a mão;",
+    "Decore com amendoim ou castanhas trituradas;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Brigadeiro de amendoim",
+    "caption_medium": "Brigadeiro de amendoim Ingredientes: 1 colher de sopa de manteiga sem sal, 1 lata de leite condensado (395 gramas), 4 colheres de sopa de pasta de amendoim, Castanhas ou amendoim triturado para decorar. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

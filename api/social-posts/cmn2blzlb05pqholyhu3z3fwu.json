@@ -1,0 +1,49 @@
+{
+  "id": "cmn2blzlb05pqholyhu3z3fwu",
+  "title": "Molho pesto genovês",
+  "slug": "receitas/molho_pesto_genov_s",
+  "url": "https://receitas.pgalvao.com.br/receitas/molho_pesto_genov_s/cmn2blzlb05pqholyhu3z3fwu/",
+  "deeplink": "boil://receita?rid=cmn2blzlb05pqholyhu3z3fwu",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_pesto_genov_s.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_pesto_genov_s.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_pesto_genov_s.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_pesto_genov_s.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/molho_pesto_genov_s.jpg"
+  },
+  "ingredients": [
+    "2 xícaras (chá) de manjericão fresco",
+    "½ xícara (chá) de nozes (ou pinoli)",
+    "1 xícara (chá) de queijo parmesão ralado (100 g)",
+    "1½ xícara (chá) de azeite",
+    "sal a gosto",
+    "Tempere com o sal a gosto e utilize a seguir. Este molho é perfeito para comer com polenta, macarrão caseiro ou dar um toque no frango grelhado do dia-a-dia."
+  ],
+  "steps": [
+    "Lave e seque bem as folhas de manjericão. Descasque os dentes de alho.",
+    "No processador de alimentos bata primeiro o azeite com as nozes, os dentes de alho e o queijo parmesão até triturar. Junte as folhas de manjericão e termine de bater para fazer o molho - quanto menos você bater as folhas de manjericão, mais verdinho fica o molho. Se preferir, bata o molho no mixer ou liquidificador.",
+    "Tempere com o sal a gosto e utilize a seguir. Este molho é perfeito para comer com polenta, macarrão caseiro ou dar um toque no frango grelhado do dia-a-dia."
+  ],
+  "social": {
+    "caption_short": "Molho pesto genovês",
+    "caption_medium": "Molho pesto genovês Ingredientes: 2 xícaras (chá) de manjericão fresco, ½ xícara (chá) de nozes (ou pinoli), 1 xícara (chá) de queijo parmesão ralado (100 g), 1½ xícara (chá) de azeite, sal a gosto. Modo de preparo: Lave e seque bem as folhas de manjericão. Descasque os dentes de alho.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#rápido",
+      "#italia"
+    ]
+  }
+}

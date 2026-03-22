@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blzsh05zeholy7p3bhfby",
+  "title": "Ovo mexido com aspargos grelhados",
+  "slug": "receitas/ovo_mexido_com_aspargos_grelhados",
+  "url": "https://receitas.pgalvao.com.br/receitas/ovo_mexido_com_aspargos_grelhados/cmn2blzsh05zeholy7p3bhfby/",
+  "deeplink": "boil://receita?rid=cmn2blzsh05zeholy7p3bhfby",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovo_mexido_com_aspargos_grelhados.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovo_mexido_com_aspargos_grelhados.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovo_mexido_com_aspargos_grelhados.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovo_mexido_com_aspargos_grelhados.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovo_mexido_com_aspargos_grelhados.jpg"
+  },
+  "ingredients": [
+    "Ovos mexidos com presunto cru",
+    "Shakshuka a la norma (ovos cozidos no molho de berinjela, tomate e ricota)",
+    "Ovo mexido com talos de espinafre",
+    "Ovos à fiorentina (com espinafre)",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Leve uma bistequeira (ou frigideira), de preferência antiaderente, ao fogo médio. Quando estiver bem quente, regue com um fio de azeite e adicione os aspargos, um ao lado do outro. Tempere com sal e pimenta a gosto e deixe dourar por 5 minutos, mexendo de vez em quando, até ficarem bem marcadinhos. Com uma pinça, transfira para um prato, cubra com papel alumínio para não esfriar e reserve enquanto prepara os ovos.",
+    "3 colheres (sopa) de leite",
+    "1 colher (chá) de manteiga",
+    "sal a gosto",
+    "Numa tigela, quebre um ovo por vez e transfira para uma tigela média de vidro (ou inox) – se um não estiver bom, você não perde a receita."
+  ],
+  "steps": [
+    "Lave e seque bem os aspargos. Corte e descarte a base do talo, que é mais dura e fibrosa.",
+    "Leve uma bistequeira (ou frigideira), de preferência antiaderente, ao fogo médio. Quando estiver bem quente, regue com um fio de azeite e adicione os aspargos, um ao lado do outro. Tempere com sal e pimenta a gosto e deixe dourar por 5 minutos, mexendo de vez em quando, até ficarem bem marcadinhos. Com uma pinça, transfira para um prato, cubra com papel alumínio para não esfriar e reserve enquanto prepara os ovos."
+  ],
+  "social": {
+    "caption_short": "Ovo mexido com aspargos grelhados",
+    "caption_medium": "Ovo mexido com aspargos grelhados Ingredientes: Ovos mexidos com presunto cru, Shakshuka a la norma (ovos cozidos no molho de berinjela, tomate e ricota), Ovo mexido com talos de espinafre, Ovos à fiorentina (com espinafre), azeite a gosto. Modo de preparo: Lave e seque bem os aspargos. Corte e descarte a base do talo, que é mais dura e fibrosa.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#sudeste",
+      "#tradicional"
+    ]
+  }
+}

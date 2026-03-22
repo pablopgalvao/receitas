@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bly3z02rqholyfs6x5l0t",
+  "title": "Bolo de banana com aveia sem açúcar",
+  "slug": "receitas/bolo-de-banana-com-aveia-sem-acucar__8ebec89b",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-banana-com-aveia-sem-acucar__8ebec89b/cmn2bly3z02rqholyfs6x5l0t/",
+  "deeplink": "boil://receita?rid=cmn2bly3z02rqholyfs6x5l0t",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-sem-acucar__8ebec89b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-sem-acucar__8ebec89b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-sem-acucar__8ebec89b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-sem-acucar__8ebec89b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-sem-acucar__8ebec89b_01.webp"
+  },
+  "ingredients": [
+    "4 bananas médias bem maduras",
+    "2 ovos",
+    "Canela em pó a gosto",
+    "1 xícara de chá de aveia em flocos finos",
+    "1 colher de chá de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Descasque as bananas e amasse-as em um prato até formarem um purê. Reserve;",
+    "Em um recipiente, adicione os ovos e bata levemente;",
+    "Acrescente as bananas amassadas, a canela, aveia em flocos e misture bem até ficar homogêneo;",
+    "Coloque o fermento e misture para incorporar;",
+    "Transfira para uma forma untada e leve ao forno preaquecido a 180ºC por cerca de 25 a 30 minutos;",
+    "Está pronto para servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de banana com aveia sem açúcar",
+    "caption_medium": "Bolo de banana com aveia sem açúcar Ingredientes: 4 bananas médias bem maduras, 2 ovos, Canela em pó a gosto, 1 xícara de chá de aveia em flocos finos, 1 colher de chá de fermento químico em pó (fermento para bolo). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

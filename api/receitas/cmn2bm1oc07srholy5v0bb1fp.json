@@ -1,0 +1,81 @@
+{
+  "id": "cmn2bm1oc07srholy5v0bb1fp",
+  "title": "Sopa de abóbora com gengibre",
+  "slug": "receitas/sopa_de_ab_bora_com_gengibre",
+  "url": "https://receitas.pgalvao.com.br/receitas/sopa_de_ab_bora_com_gengibre/cmn2bm1oc07srholy5v0bb1fp/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm1oc07srholy5v0bb1fp.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm1oc07srholy5v0bb1fp.json",
+  "deeplink": "boil://receita?rid=cmn2bm1oc07srholy5v0bb1fp",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_ab_bora_com_gengibre.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_ab_bora_com_gengibre.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_ab_bora_com_gengibre.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_ab_bora_com_gengibre.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_ab_bora_com_gengibre.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:54.898Z",
+  "time": "10 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Sopas e caldos"
+  ],
+  "tags": [
+    "prático",
+    "saudável",
+    "oriental"
+  ],
+  "ingredients": [
+    "azeite a gosto",
+    "Numa panela, coloque 2 xícaras de água, a abóbora e leve para o fogo médio. Deixe cozinhar por 10 minutos - isso fará com que a casca saia facilmente.",
+    "Volte a sopa para a panela e verifique o sabor. Se quiser, tempere com mais sal e pimenta-do-reino. Regue com o merecido fio de azeite!",
+    "½ colher (sopa) de óleo",
+    "3 colheres (sopa) de milho para pipoca",
+    "sal a gosto",
+    "Coloque o óleo numa e leve ao fogo médio. Quando começar a aquecer, junte o milho, misture, e tampe a panela. Depois que parar de estourar, transfira para uma tigela e tempere com sal.",
+    "cebolinha a gosto",
+    "azeite a gosto",
+    "Em uma xícara de café, coloque a sopa, umas fatias de cebolinha e regue com um fio de azeite.",
+    "Em cada pires, coloque uma canela em rama, como se fosse uma colher de café.",
+    "4 colheres (sopa) de iogurte natural",
+    "salsinha e cebolinha a gosto",
+    "azeite a gosto",
+    "Lave e seque a cebolinha e a salsinha. Fatie fino a cebolinha.",
+    "Num prato fundo, coloque a sopa, uma colherada de iogurte no centro, as ervas frescas por cima, e um fio de azeite. Sirva imediatamente."
+  ],
+  "steps": [
+    "Lave bem a metade da abóbora sob água corrente.",
+    "Numa panela, coloque 2 xícaras de água, a abóbora e leve para o fogo médio. Deixe cozinhar por 10 minutos - isso fará com que a casca saia facilmente.",
+    "Enquanto isso, lave e fatie o gengibre - não é preciso descascar. Descasque o alho e a cebola. Corte a cebola em 4 partes.",
+    "Transfira abóbora pré-cozida para uma tábua e, com o descascador de legumes, retire a casca. (Deixe reservada a panela e a água que cozinhou a abóbora, pois você irá reutilizar).",
+    "Corte a abóbora em cubos e volte à panela com a água. Junte o gengibre, o alho, a cebola, o capim-santo e o restante da água. Leve ao fogo médio e, assim que começar a ferver, tampe a panela e deixe cozinhar por 40 minutos.",
+    "Retire os talos de capim-santo. Transfira o cozido para um liquidificador - se não couber tudo, bata em etapas. Tempere com sal e pimenta-do-reino a gosto. Atenção: segure firme a tampa do liquidificador com um pano de prato para evitar que o vapor do caldo abra a tampa. Se preferir, deixe a sopa esfriar completamente.",
+    "Volte a sopa para a panela e verifique o sabor. Se quiser, tempere com mais sal e pimenta-do-reino. Regue com o merecido fio de azeite!"
+  ],
+  "excerpt": "Sopa de abóbora com gengibre. Tempo de preparo: 10 min. Ingrediente em destaque: azeite a gosto. Comece assim: Lave bem a metade da abóbora sob água corrente.",
+  "social": {
+    "caption_short": "Sopa de abóbora com gengibre",
+    "caption_medium": "Sopa de abóbora com gengibre Ingredientes: azeite a gosto, Numa panela, coloque 2 xícaras de água, a abóbora e leve para o fogo médio. Deixe cozinhar por 10 minutos - isso fará com que a casca saia facilmente., Volte a sopa para a panela e verifique o sabor. Se quiser, tempere com mais sal e pimenta-do-reino. Regue com o merecido fio de azeite!, ½ colher (sopa) de óleo, 3 colheres (sopa) de milho para pipoca. Modo de preparo: Lave bem a metade da abóbora sob água corrente.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#saudável",
+      "#oriental"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_ab_bora_com_gengibre.jpg\" alt=\"Sopa de abóbora com gengibre\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Sopas e caldos</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 10 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>azeite a gosto</li>\n<li>Numa panela, coloque 2 xícaras de água, a abóbora e leve para o fogo médio. Deixe cozinhar por 10 minutos - isso fará com que a casca saia facilmente.</li>\n<li>Volte a sopa para a panela e verifique o sabor. Se quiser, tempere com mais sal e pimenta-do-reino. Regue com o merecido fio de azeite!</li>\n<li>½ colher (sopa) de óleo</li>\n<li>3 colheres (sopa) de milho para pipoca</li>\n<li>sal a gosto</li>\n<li>Coloque o óleo numa e leve ao fogo médio. Quando começar a aquecer, junte o milho, misture, e tampe a panela. Depois que parar de estourar, transfira para uma tigela e tempere com sal.</li>\n<li>cebolinha a gosto</li>\n<li>azeite a gosto</li>\n<li>Em uma xícara de café, coloque a sopa, umas fatias de cebolinha e regue com um fio de azeite.</li>\n<li>Em cada pires, coloque uma canela em rama, como se fosse uma colher de café.</li>\n<li>4 colheres (sopa) de iogurte natural</li>\n<li>salsinha e cebolinha a gosto</li>\n<li>azeite a gosto</li>\n<li>Lave e seque a cebolinha e a salsinha. Fatie fino a cebolinha.</li>\n<li>Num prato fundo, coloque a sopa, uma colherada de iogurte no centro, as ervas frescas por cima, e um fio de azeite. Sirva imediatamente.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Lave bem a metade da abóbora sob água corrente.</li>\n<li>Numa panela, coloque 2 xícaras de água, a abóbora e leve para o fogo médio. Deixe cozinhar por 10 minutos - isso fará com que a casca saia facilmente.</li>\n<li>Enquanto isso, lave e fatie o gengibre - não é preciso descascar. Descasque o alho e a cebola. Corte a cebola em 4 partes.</li>\n<li>Transfira abóbora pré-cozida para uma tábua e, com o descascador de legumes, retire a casca. (Deixe reservada a panela e a água que cozinhou a abóbora, pois você irá reutilizar).</li>\n<li>Corte a abóbora em cubos e volte à panela com a água. Junte o gengibre, o alho, a cebola, o capim-santo e o restante da água. Leve ao fogo médio e, assim que começar a ferver, tampe a panela e deixe cozinhar por 40 minutos.</li>\n<li>Retire os talos de capim-santo. Transfira o cozido para um liquidificador - se não couber tudo, bata em etapas. Tempere com sal e pimenta-do-reino a gosto. Atenção: segure firme a tampa do liquidificador com um pano de prato para evitar que o vapor do caldo abra a tampa. Se preferir, deixe a sopa esfriar completamente.</li>\n<li>Volte a sopa para a panela e verifique o sabor. Se quiser, tempere com mais sal e pimenta-do-reino. Regue com o merecido fio de azeite!</li>\n</ol>\n"
+}

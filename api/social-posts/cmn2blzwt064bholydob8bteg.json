@@ -1,0 +1,48 @@
+{
+  "id": "cmn2blzwt064bholydob8bteg",
+  "title": "Panna cotta",
+  "slug": "receitas/panna-cotta__78eeef97",
+  "url": "https://receitas.pgalvao.com.br/receitas/panna-cotta__78eeef97/cmn2blzwt064bholydob8bteg/",
+  "deeplink": "boil://receita?rid=cmn2blzwt064bholydob8bteg",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panna-cotta__78eeef97_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panna-cotta__78eeef97_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panna-cotta__78eeef97_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panna-cotta__78eeef97_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panna-cotta__78eeef97_01.webp"
+  },
+  "ingredients": [
+    "450 gramas de frutas vermelhas",
+    "150 gramas de açúcar",
+    "½ limão"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, hidrate a gelatina com a água, misture bem e reserve;",
+    "Em uma panela, misture o leite, o creme de leite, o açúcar, a baunilha e misture bem;",
+    "Leve para o fogo baixo e fique mexendo levemente por cerca de 6 minutos ou até o açúcar derreter completamente e o líquido aquecer. ATENÇÃO: não deixe ferver. Para verificar se a mistura está aquecida, você deve colocar o dedo no líquido e conseguir manter por 10 segundos;",
+    "Gradualmente, despeje o líquido no recipiente com a gelatina hidratada e misture bem até ela derreter completamente;",
+    "Deixe descansar por 30 minutos para esfriar, mexendo por vezes;",
+    "Antes de despejar a panna cotta na forma, dê uma mexida para misturar bem. Distribua em tacinhas ou em forminhas pequenas e leve para a geladeira por 4 horas."
+  ],
+  "social": {
+    "caption_short": "Panna cotta",
+    "caption_medium": "Panna cotta Ingredientes: 450 gramas de frutas vermelhas, 150 gramas de açúcar, ½ limão. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

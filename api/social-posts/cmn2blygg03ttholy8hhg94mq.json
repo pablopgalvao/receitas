@@ -1,0 +1,54 @@
+{
+  "id": "cmn2blygg03ttholy8hhg94mq",
+  "title": "Cinnamon roll vegano",
+  "slug": "receitas/cinnamon-roll-vegano__256ad092",
+  "url": "https://receitas.pgalvao.com.br/receitas/cinnamon-roll-vegano__256ad092/cmn2blygg03ttholy8hhg94mq/",
+  "deeplink": "boil://receita?rid=cmn2blygg03ttholy8hhg94mq",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cinnamon-roll-vegano__256ad092_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cinnamon-roll-vegano__256ad092_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cinnamon-roll-vegano__256ad092_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cinnamon-roll-vegano__256ad092_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cinnamon-roll-vegano__256ad092_01.webp"
+  },
+  "ingredients": [
+    "80 gramas de açúcar",
+    "1 e ½ colher de sopa de canela",
+    "1 colher de sopa de manteiga vegetal derretida"
+  ],
+  "steps": [
+    "Para a massa, aqueça o leite com a manteiga.",
+    "Transfira para uma tigela, adicione o fermento, o açúcar e o sal.",
+    "Aos poucos, adicione a farinha e amasse com as mãos.",
+    "Molde uma bola, cubra a tigela e deixe descansar de 30 a 60 minutos.",
+    "Para o recheio, em uma tigela, misture o açúcar e a canela.",
+    "Em uma outra tigela, prepare a cobertura misturando o açúcar e o leite.",
+    "Abra a massa em uma superfície lisa e enfarinhada.",
+    "Pincele manteiga derretida e espalhe o recheio por cima.",
+    "Enrole a massa e corte no formato do cinnamon.",
+    "Coloque os rolinhos em uma forma, cubra e deixe descansar por 30 minutos.",
+    "Pincele manteiga vegetal nos rolinhos e asse em forno preaquecido a 180 °C por cerca de 20 a 25 minutos.",
+    "Espere esfriar e espalhe a cobertura por cima.",
+    "Agora é só servir! Aproveite."
+  ],
+  "social": {
+    "caption_short": "Cinnamon roll vegano",
+    "caption_medium": "Cinnamon roll vegano Ingredientes: 80 gramas de açúcar, 1 e ½ colher de sopa de canela, 1 colher de sopa de manteiga vegetal derretida. Modo de preparo: Para a massa, aqueça o leite com a manteiga.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

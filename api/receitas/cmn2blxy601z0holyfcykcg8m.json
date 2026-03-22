@@ -1,0 +1,63 @@
+{
+  "id": "cmn2blxy601z0holyfcykcg8m",
+  "title": "Abobrinha empanada",
+  "slug": "receitas/abobrinha-empanada__89af61d3",
+  "url": "https://receitas.pgalvao.com.br/receitas/abobrinha-empanada__89af61d3/cmn2blxy601z0holyfcykcg8m/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blxy601z0holyfcykcg8m.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blxy601z0holyfcykcg8m.json",
+  "deeplink": "boil://receita?rid=cmn2blxy601z0holyfcykcg8m",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada__89af61d3_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada__89af61d3_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada__89af61d3_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada__89af61d3_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada__89af61d3_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:31.309Z",
+  "time": "30 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 abobrinha grande",
+    "1 ovo",
+    "50 gramas de queijo parmesão ralado para empanar"
+  ],
+  "steps": [
+    "Junte todos os ingredientes em sua bancada. Despreze as extremidades da abobrinha, depois corte-a em rodelas não muito finas;",
+    "Separe o ovo e o queijo parmesão ralado em tigelas diferentes. Bata o ovo com o auxílio de um garfo;",
+    "Passe cada uma das rodelas no ovo e, em seguida, no parmesão ralado;",
+    "Transfira para uma forma forrada com papel manteiga;",
+    "Leve ao forno preaquecido a 180°C, por aproximadamente 25 minutos, ou até dourar;",
+    "Retire do forno e sirva ainda quente com algum molho de sua preferência!"
+  ],
+  "excerpt": "Abobrinha empanada. Tempo de preparo: 30 min. Ingrediente em destaque: 1 abobrinha grande. Comece assim: Junte todos os ingredientes em sua bancada. Despreze as extremidades da abobrinha, depois corte-a em rodelas não muito finas;",
+  "social": {
+    "caption_short": "Abobrinha empanada",
+    "caption_medium": "Abobrinha empanada Ingredientes: 1 abobrinha grande, 1 ovo, 50 gramas de queijo parmesão ralado para empanar. Modo de preparo: Junte todos os ingredientes em sua bancada. Despreze as extremidades da abobrinha, depois corte-a em rodelas não muito finas;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-empanada__89af61d3_01.webp\" alt=\"Abobrinha empanada\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 30 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 abobrinha grande</li>\n<li>1 ovo</li>\n<li>50 gramas de queijo parmesão ralado para empanar</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Junte todos os ingredientes em sua bancada. Despreze as extremidades da abobrinha, depois corte-a em rodelas não muito finas;</li>\n<li>Separe o ovo e o queijo parmesão ralado em tigelas diferentes. Bata o ovo com o auxílio de um garfo;</li>\n<li>Passe cada uma das rodelas no ovo e, em seguida, no parmesão ralado;</li>\n<li>Transfira para uma forma forrada com papel manteiga;</li>\n<li>Leve ao forno preaquecido a 180°C, por aproximadamente 25 minutos, ou até dourar;</li>\n<li>Retire do forno e sirva ainda quente com algum molho de sua preferência!</li>\n</ol>\n"
+}

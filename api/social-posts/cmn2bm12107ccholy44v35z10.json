@@ -1,0 +1,54 @@
+{
+  "id": "cmn2bm12107ccholy44v35z10",
+  "title": "Salada de frango e abacate",
+  "slug": "receitas/salada-de-frango-e-abacate__04267a6a",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-de-frango-e-abacate__04267a6a/cmn2bm12107ccholy44v35z10/",
+  "deeplink": "boil://receita?rid=cmn2bm12107ccholy44v35z10",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-frango-e-abacate__04267a6a_01.webp"
+  },
+  "ingredients": [
+    "½ abacate",
+    "Frango desfiado e refogado a gosto",
+    "½ cenoura ralada",
+    "½ tomate",
+    "½ pimentão-verde",
+    "Azeitona preta a gosto",
+    "Alcaparras a gosto",
+    "Manjericão baby a gosto",
+    "Nozes e sementes a gosto",
+    "Sal a gosto",
+    "Azeite a gosto"
+  ],
+  "steps": [
+    "Misture o frango desfiado com cenoura ralada, tomate e pimentão-verde.",
+    "Coloque essa mistura em cima da metade do abacate.",
+    "Finalize colocando as azeitonas, alcaparras, manjericão e nozes.",
+    "Tempere com sal e azeite.",
+    "Prontinho."
+  ],
+  "social": {
+    "caption_short": "Salada de frango e abacate",
+    "caption_medium": "Salada de frango e abacate Ingredientes: ½ abacate, Frango desfiado e refogado a gosto, ½ cenoura ralada, ½ tomate, ½ pimentão-verde. Modo de preparo: Misture o frango desfiado com cenoura ralada, tomate e pimentão-verde.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

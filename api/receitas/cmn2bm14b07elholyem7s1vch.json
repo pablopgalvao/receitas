@@ -1,0 +1,66 @@
+{
+  "id": "cmn2bm14b07elholyem7s1vch",
+  "title": "Salada fresh com manga",
+  "slug": "receitas/salada-fresh-com-manga__eac400b3",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-fresh-com-manga__eac400b3/cmn2bm14b07elholyem7s1vch/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm14b07elholyem7s1vch.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm14b07elholyem7s1vch.json",
+  "deeplink": "boil://receita?rid=cmn2bm14b07elholyem7s1vch",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:54.169Z",
+  "time": "20 min",
+  "difficulty": "",
+  "servings": "6 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Saladas"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 manga palmer",
+    "1 abacate",
+    "2 pepinos japonês",
+    "2 tomates italianos",
+    "Salsinha a gosto",
+    "Sal a gosto",
+    "2 colheres de sopa de vinagre de maçã"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Corte a manga, o abacate, o pepino e os tomates em cubinhos;",
+    "Em uma vasilha, coloque todos os ingredientes e misture tudo muito bem;",
+    "Leve para gelar antes de comer;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "excerpt": "Salada fresh com manga. Tempo de preparo: 20 min. Ingrediente em destaque: 1 manga palmer. Comece assim: Reúna todos os ingredientes;",
+  "social": {
+    "caption_short": "Salada fresh com manga",
+    "caption_medium": "Salada fresh com manga Ingredientes: 1 manga palmer, 1 abacate, 2 pepinos japonês, 2 tomates italianos, Salsinha a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-fresh-com-manga__eac400b3_01.webp\" alt=\"Salada fresh com manga\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Saladas</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 6 porções</li>\n<li><strong>Tempo de preparo:</strong> 20 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 manga palmer</li>\n<li>1 abacate</li>\n<li>2 pepinos japonês</li>\n<li>2 tomates italianos</li>\n<li>Salsinha a gosto</li>\n<li>Sal a gosto</li>\n<li>2 colheres de sopa de vinagre de maçã</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Corte a manga, o abacate, o pepino e os tomates em cubinhos;</li>\n<li>Em uma vasilha, coloque todos os ingredientes e misture tudo muito bem;</li>\n<li>Leve para gelar antes de comer;</li>\n<li>Agora é só servir. Bom apetite!</li>\n</ol>\n"
+}

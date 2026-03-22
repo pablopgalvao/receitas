@@ -1,0 +1,61 @@
+{
+  "id": "cmn2blz8j058nholyfuqza8ud",
+  "title": "Limoncello spritz",
+  "slug": "receitas/limoncello_spritz",
+  "url": "https://receitas.pgalvao.com.br/receitas/limoncello_spritz/cmn2blz8j058nholyfuqza8ud/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blz8j058nholyfuqza8ud.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blz8j058nholyfuqza8ud.json",
+  "deeplink": "boil://receita?rid=cmn2blz8j058nholyfuqza8ud",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:48.739Z",
+  "time": "",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "saudável",
+    "sudeste",
+    "tradicional"
+  ],
+  "ingredients": [
+    "club soda a gosto",
+    "cubos de gelo a gosto"
+  ],
+  "steps": [
+    "Numa taça grande (ou copo alto) coloque o limoncello e o vinho. Preencha com cubos de gelo e complete com club soda. Decore com a casca de limão e sirva a seguir."
+  ],
+  "excerpt": "Limoncello spritz. Ingrediente em destaque: club soda a gosto. Comece assim: Numa taça grande (ou copo alto) coloque o limoncello e o vinho. Preencha com cubos de gelo e complete com club soda. Decore com a casca de limão e sirva a seguir.",
+  "social": {
+    "caption_short": "Limoncello spritz",
+    "caption_medium": "Limoncello spritz Ingredientes: club soda a gosto, cubos de gelo a gosto. Modo de preparo: Numa taça grande (ou copo alto) coloque o limoncello e o vinho. Preencha com cubos de gelo e complete com club soda. Decore com a casca de limão e sirva a seguir.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#sudeste",
+      "#tradicional"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/limoncello_spritz.jpg\" alt=\"Limoncello spritz\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> </li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>club soda a gosto</li>\n<li>cubos de gelo a gosto</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Numa taça grande (ou copo alto) coloque o limoncello e o vinho. Preencha com cubos de gelo e complete com club soda. Decore com a casca de limão e sirva a seguir.</li>\n</ol>\n"
+}

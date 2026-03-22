@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blyl7043cholyao1vde80",
+  "title": "Croquete de atum",
+  "slug": "receitas/croquete-de-atum__8b925d64",
+  "url": "https://receitas.pgalvao.com.br/receitas/croquete-de-atum__8b925d64/cmn2blyl7043cholyao1vde80/",
+  "deeplink": "boil://receita?rid=cmn2blyl7043cholyao1vde80",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croquete-de-atum__8b925d64_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croquete-de-atum__8b925d64_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croquete-de-atum__8b925d64_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croquete-de-atum__8b925d64_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/croquete-de-atum__8b925d64_01.webp"
+  },
+  "ingredients": [
+    "6 latas de atum",
+    "1 cebola",
+    "2 dentes de alho",
+    "1 colher de sopa de azeite",
+    "1 ramo de salsinha",
+    "400 gramas de pão ralado",
+    "2 xícaras de chá de farinha de trigo (250 gramas)",
+    "Pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Junte os ingredientes para preparar essa receita. Deixe a cebola, a salsinha e o alho picados para facilitar o processo;",
+    "Numa panela no fogo médio, adicione a cebola, o alho e coloque um pouco de azeite para refogar. Mexa um pouco, acrescente a salsinha e tempere com pimenta-do-reino;",
+    "Coloque o atum e a farinha de trigo para engrossar e fazer a massa. Não pare de mexer e adicionar os ingredientes, se necessário, até dar o ponto;",
+    "Desligue o fogo e espere a massa esfriar um pouco antes de manipular. Transfira a massa para uma bancada, aperte delicadamente com as mãos e porcione para modelar os croquetes;",
+    "Quando modelados, passe-os no pão ralado, no ovo batido e no pão novamente para ficar bem crocante e uniforme;",
+    "Frite os croquetes em óleo quente;",
+    "E estão prontos. Agora é só aproveitar com os molhos que você mais gosta!"
+  ],
+  "social": {
+    "caption_short": "Croquete de atum",
+    "caption_medium": "Croquete de atum Ingredientes: 6 latas de atum, 1 cebola, 2 dentes de alho, 1 colher de sopa de azeite, 1 ramo de salsinha. Modo de preparo: Junte os ingredientes para preparar essa receita. Deixe a cebola, a salsinha e o alho picados para facilitar o processo;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

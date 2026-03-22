@@ -1,0 +1,59 @@
+{
+  "id": "cmn2blzze067bholye73tfpoy",
+  "title": "Pão caseiro sem glúten",
+  "slug": "receitas/pao-caseiro-sem-gluten__bfb191fd",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-caseiro-sem-gluten__bfb191fd/cmn2blzze067bholye73tfpoy/",
+  "deeplink": "boil://receita?rid=cmn2blzze067bholye73tfpoy",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-sem-gluten__bfb191fd_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-sem-gluten__bfb191fd_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-sem-gluten__bfb191fd_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-sem-gluten__bfb191fd_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-sem-gluten__bfb191fd_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "½ xícara de chá de azeite",
+    "1 xícara de chá de leite",
+    "1 colher de chá de açúcar demerara",
+    "½ colher de chá de sal",
+    "1 xícara de chá de farinha de arroz",
+    "½ xícara de chá de polvilho doce",
+    "½ xícara de chá de amido de milho",
+    "½ colher de chá de fermento biológico para pão",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+    "½ colher de chá de goma xantana",
+    "½ colher de chá de vinagre de maçã"
+  ],
+  "steps": [
+    "Em uma tigela, bata os ovos.",
+    "Adicione o azeite ou óleo de girassol e misture bem.",
+    "Acrescente o leite, açúcar demerara, e sal. Misture novamente.",
+    "Em outra tigela, misture a farinha de arroz, polvilho doce, amido de milho, fermento biológico para pão, fermento para bolo e goma xantana.",
+    "Gradualmente, adicione a mistura de ingredientes secos à mistura de ingredientes líquidos, mexendo bem até obter uma massa homogênea.",
+    "Adicione o vinagre de maçã e misture.",
+    "Despeje a massa em uma forma para pão untada.",
+    "Leve ao forno preaquecido a 200°C por cerca de 20 minutos, depois abaixe a temperatura para 180°C e asse por mais 20 minutos.",
+    "Retire do forno, deixe esfriar e sirva. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Pão caseiro sem glúten",
+    "caption_medium": "Pão caseiro sem glúten Ingredientes: 3 ovos, ½ xícara de chá de azeite, 1 xícara de chá de leite, 1 colher de chá de açúcar demerara, ½ colher de chá de sal. Modo de preparo: Em uma tigela, bata os ovos.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

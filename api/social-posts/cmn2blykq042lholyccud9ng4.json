@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blykq042lholyccud9ng4",
+  "title": "Crepe",
+  "slug": "receitas/crepe__52f42145",
+  "url": "https://receitas.pgalvao.com.br/receitas/crepe__52f42145/cmn2blykq042lholyccud9ng4/",
+  "deeplink": "boil://receita?rid=cmn2blykq042lholyccud9ng4",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/crepe__52f42145_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/crepe__52f42145_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/crepe__52f42145_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/crepe__52f42145_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/crepe__52f42145_01.webp"
+  },
+  "ingredients": [
+    "½ xícara de chá de leite",
+    "1 xícara de chá de farinha de trigo",
+    "2 ovos",
+    "1 pitada de sal",
+    "Manteiga para untar"
+  ],
+  "steps": [
+    "Separe os ingredientes do crepe;",
+    "Em um potinho, quebre cada ovo antes e transfira para uma tigela maior. Depois misture os ovos com o auxílio de um fouet;",
+    "Coloque o leite e mexa até ficar uma mistura homogênea;",
+    "Adicione a farinha gradualmente, sem deixar de mexer com o fouet. Tempere com sal e reserve por 15-20 minutos em temperatura ambiente. Caso prefira, também pode deixá-la preparada na geladeira;",
+    "Em fogo médio, esquente uma frigideira antiaderente. Quando ela estiver aquecida, coloque ½ colher de chá de manteiga ou óleo;",
+    "Agora você precisará de habilidade com as duas mãos. Com uma delas, levante a frigideira e com a outra, despeje uma concha de massa no centro dela;",
+    "Faça movimentos circulares segurando o cabo para cobrir o fundo da panela inteira;",
+    "Quando a massa se soltar e bolhas começarem a surgir, vire o crepe para o outro lado com o auxílio de uma espátula;",
+    "Coloque sobre um prato e deixe esfriar. A cada crepe, unte a frigideira novamente com manteiga ou óleo. Repita o processo até finalizar a massa (caso queira guardar, espere todas as panquecas esfriarem, cubra com papel filme e mantenha na geladeira);",
+    "Pronto! Agora você poderá comer essas panquecas fininhas e deliciosas. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Crepe",
+    "caption_medium": "Crepe Ingredientes: ½ xícara de chá de leite, 1 xícara de chá de farinha de trigo, 2 ovos, 1 pitada de sal, Manteiga para untar. Modo de preparo: Separe os ingredientes do crepe;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

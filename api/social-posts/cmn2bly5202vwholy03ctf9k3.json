@@ -1,0 +1,58 @@
+{
+  "id": "cmn2bly5202vwholy03ctf9k3",
+  "title": "Bolo de churros",
+  "slug": "receitas/bolo-de-churros__e6b080b4",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-churros__e6b080b4/cmn2bly5202vwholy03ctf9k3/",
+  "deeplink": "boil://receita?rid=cmn2bly5202vwholy03ctf9k3",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros__e6b080b4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros__e6b080b4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros__e6b080b4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros__e6b080b4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros__e6b080b4_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "2 colheres de chá de canela em pó",
+    "2 colheres de chá de essência baunilha",
+    "½ xícara de chá de óleo (ou manteiga em temperatura ambiente)",
+    "1 e ½ xícara de chá de açúcar (ou demerara)",
+    "1 e ½ xícara de chá de farinha de trigo",
+    "¾ de xícara de chá de água ou leite",
+    "1 colher de sopa de fermento em pó",
+    "1 colher de sopa de açúcar refinado (para finalizar)",
+    "½ colher de chá de canela em pó (para finalizar)",
+    "Doce de leite pastoso ou bem cremoso (para finalizar)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, coloque os ovos, a canela em pó, a baunilha e bata, com um fouet, até misturar;",
+    "Adicione o óleo e bata por mais um minuto;",
+    "Acrescente o açúcar e bata mais um minuto;",
+    "Junte a farinha de trigo e misture bem. Coloque a água, o fermento, misture e bata por 1 minuto;",
+    "Transfira para uma forma de buraco no meio (20x8cm) untada, enfarinhada e leve ao forno preaquecido a 180 ºC por cerca de 45 minutos, ou até você espetar a massa com um palito e ele sair seco;",
+    "Misture o açúcar refinado e a canela em pó em uma vasilha pequena;",
+    "Assim que o bolo mornar, desenforme e polvilhe a mistura de açúcar e canela por toda a massa;",
+    "Despeje o doce de leite cremoso por cima do bolo e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de churros",
+    "caption_medium": "Bolo de churros Ingredientes: 3 ovos, 2 colheres de chá de canela em pó, 2 colheres de chá de essência baunilha, ½ xícara de chá de óleo (ou manteiga em temperatura ambiente), 1 e ½ xícara de chá de açúcar (ou demerara). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blzbc05ceholy1i3217al",
+  "title": "Macarrão ao alho e óleo com bacon",
+  "slug": "receitas/macarrao-ao-alho-e-oleo-com-bacon__4c351f21",
+  "url": "https://receitas.pgalvao.com.br/receitas/macarrao-ao-alho-e-oleo-com-bacon__4c351f21/cmn2blzbc05ceholy1i3217al/",
+  "deeplink": "boil://receita?rid=cmn2blzbc05ceholy1i3217al",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-ao-alho-e-oleo-com-bacon__4c351f21_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-ao-alho-e-oleo-com-bacon__4c351f21_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-ao-alho-e-oleo-com-bacon__4c351f21_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-ao-alho-e-oleo-com-bacon__4c351f21_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-ao-alho-e-oleo-com-bacon__4c351f21_01.webp"
+  },
+  "ingredients": [
+    "1 pacote de macarrão espaguete (500 gramas)",
+    "300 gramas de bacon",
+    "5 dentes de alho grandes",
+    "1 colher de chá de páprica&#x2F;colorau",
+    "Sal a gosto",
+    "Cheiro-verde a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Cozinhe o macarrão em água fervente com sal, conforme as instruções da embalagem ou até o ponto de sua preferência. Reserve;",
+    "Em uma panela, coloque o bacon picado e frite até ficar douradinho;",
+    "Adicione o alho, a páprica, o sal e refogue bem;",
+    "Acrescente o macarrão escorrido, misture e coloque o cheiro-verde por cima;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Macarrão ao alho e óleo com bacon",
+    "caption_medium": "Macarrão ao alho e óleo com bacon Ingredientes: 1 pacote de macarrão espaguete (500 gramas), 300 gramas de bacon, 5 dentes de alho grandes, 1 colher de chá de páprica&#x2F;colorau, Sal a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

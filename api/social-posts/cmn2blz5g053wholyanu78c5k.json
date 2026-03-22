@@ -1,0 +1,51 @@
+{
+  "id": "cmn2blz5g053wholyanu78c5k",
+  "title": "Kibe na air fryer",
+  "slug": "receitas/kibe-na-airfryer__52da09aa",
+  "url": "https://receitas.pgalvao.com.br/receitas/kibe-na-airfryer__52da09aa/cmn2blz5g053wholyanu78c5k/",
+  "deeplink": "boil://receita?rid=cmn2blz5g053wholyanu78c5k",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/kibe-na-airfryer__52da09aa_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/kibe-na-airfryer__52da09aa_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/kibe-na-airfryer__52da09aa_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/kibe-na-airfryer__52da09aa_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/kibe-na-airfryer__52da09aa_01.webp"
+  },
+  "ingredients": [
+    "250 gramas de carne moída",
+    "1 xícara de chá de trigo para kibe",
+    "½ cebola picada",
+    "Hortelã a gosto",
+    "Sal e pimenta-do-reino a gosto",
+    "5 colheres de sopa de azeite de oliva",
+    "1 xícara de chá de água fervente"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, coloque o trigo e a água fervente. Deixe hidratar por 1 hora;",
+    "Após esse tempo, acrescente a carne, a cebola, a hortelã, metade do azeite e tempere com sal e pimenta. Misture bem;",
+    "Em seguida, pegue um pouco de massa com as mãos e modele em formato de kibe;",
+    "Unte os kibes com o azeite de oliva restante e leve a air fryer preaquecida a 200 ºC por cerca de 15 minutos;",
+    "Está pronto! Sirva e aproveite essa delícia."
+  ],
+  "social": {
+    "caption_short": "Kibe na air fryer",
+    "caption_medium": "Kibe na air fryer Ingredientes: 250 gramas de carne moída, 1 xícara de chá de trigo para kibe, ½ cebola picada, Hortelã a gosto, Sal e pimenta-do-reino a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

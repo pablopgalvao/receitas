@@ -1,0 +1,54 @@
+{
+  "id": "cmn2bly7f034kholy3vo0gbjn",
+  "title": "Bolo formigueiro",
+  "slug": "receitas/bolo-formigueiro__8d26f52b",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-formigueiro__8d26f52b/cmn2bly7f034kholy3vo0gbjn/",
+  "deeplink": "boil://receita?rid=cmn2bly7f034kholy3vo0gbjn",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-formigueiro__8d26f52b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-formigueiro__8d26f52b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-formigueiro__8d26f52b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-formigueiro__8d26f52b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-formigueiro__8d26f52b_01.webp"
+  },
+  "ingredients": [
+    "2 copos americanos de farinha de trigo",
+    "1 copo americano de leite",
+    "100 gramas de chocolate granulado",
+    "100 gramas de coco ralado",
+    "4 colheres de sopa de margarina",
+    "1 copo americano e ½ de açúcar",
+    "4 ovos (gemas + claras em neve)",
+    "1 colher de sopa de fermento em pó"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Na batedeira, bata a margarina com o açúcar até ficar uma mistura cremosa;",
+    "Junte as gemas e continue batendo;",
+    "Adicione o leite e os demais ingredientes. Misture;",
+    "Por último, acrescente as claras em neve, mexendo delicadamente;",
+    "Despeje a massa em uma forma untada e enfarinhada e leve ao forno preaquecido a 180 ºC por cerca de 30 minutos;",
+    "Espere amornar e desenforme;",
+    "Agora é só servir! Bom apetite"
+  ],
+  "social": {
+    "caption_short": "Bolo formigueiro",
+    "caption_medium": "Bolo formigueiro Ingredientes: 2 copos americanos de farinha de trigo, 1 copo americano de leite, 100 gramas de chocolate granulado, 100 gramas de coco ralado, 4 colheres de sopa de margarina. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

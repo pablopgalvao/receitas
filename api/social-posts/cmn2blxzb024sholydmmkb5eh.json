@@ -1,0 +1,48 @@
+{
+  "id": "cmn2blxzb024sholydmmkb5eh",
+  "title": "Arroz com pinhão",
+  "slug": "receitas/arroz-com-pinhao__5c26e68e",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz-com-pinhao__5c26e68e/cmn2blxzb024sholydmmkb5eh/",
+  "deeplink": "boil://receita?rid=cmn2blxzb024sholydmmkb5eh",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-pinhao__5c26e68e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-pinhao__5c26e68e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-pinhao__5c26e68e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-pinhao__5c26e68e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-com-pinhao__5c26e68e_01.webp"
+  },
+  "ingredients": [
+    "1 xícara (chá) de arroz",
+    "½ xícara (chá) de pinhão cozido descascado",
+    "½ cebola",
+    "1 dente de alho",
+    "2½ xícaras (chá) de água fervente",
+    "1 colher (sopa) de manteiga",
+    "1 colher (chá) de sal",
+    "1 folha de louro",
+    "5 ramos de salsinha"
+  ],
+  "steps": [
+    "Numa chaleira, leve um pouco mais de 2½ xícaras (chá) de água ao fogo baixo para ferver. Descasque e pique fino a cebola e o alho. Corte o pinhão ao meio, no sentido do comprimento, e fatie cada metade em 4 pedaços. Lave, seque e pique fino a salsinha."
+  ],
+  "social": {
+    "caption_short": "Arroz com pinhão",
+    "caption_medium": "Arroz com pinhão Ingredientes: 1 xícara (chá) de arroz, ½ xícara (chá) de pinhão cozido descascado, ½ cebola, 1 dente de alho, 2½ xícaras (chá) de água fervente. Modo de preparo: Numa chaleira, leve um pouco mais de 2½ xícaras (chá) de água ao fogo baixo para ferver. Descasque e pique fino a cebola e o alho. Corte o pinhão ao meio, no sentido do comprimento, e fatie cada metade em 4 pedaços. Lave, seque e pique fino a salsinha.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cmn2blyyu04t1holy4ajr5l9w",
+  "title": "Frango empanado simples",
+  "slug": "receitas/frango-empanado-simples__85595d47",
+  "url": "https://receitas.pgalvao.com.br/receitas/frango-empanado-simples__85595d47/cmn2blyyu04t1holy4ajr5l9w/",
+  "deeplink": "boil://receita?rid=cmn2blyyu04t1holy4ajr5l9w",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-simples__85595d47_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-simples__85595d47_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-simples__85595d47_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-simples__85595d47_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-simples__85595d47_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de peito de frango",
+    "1 colher de sopa de alho em pó",
+    "1 colher de chá de páprica defumada",
+    "1 colher de sopa de maionese",
+    "Sal a gosto",
+    "Pimenta-do-reino a gosto",
+    "1 ovo",
+    "1 colher de sopa de azeite",
+    "1 xícara de chá de farinha panko para empanar"
+  ],
+  "steps": [
+    "Junte todos os ingredientes e comece cortando os peitos de frango em 4 filés;",
+    "Tempere-os filés com o alho em pó, sal, pimenta-do-reino e a páprica defumada. Misture bem para que os temperos se distribuam de maneira uniforme;",
+    "Agora, adicione a maionese aos filés de frango e misture. Ela ajuda a dar mais sabor ao frango, mas também ajuda a criar uma camada mais aderente para a farinha panko;",
+    "Em uma tigela separada, bata o ovo com um garfo. Misture aos seus filés novamente, sendo esse outro passo importante para o empanamento;",
+    "Coloque a farinha panko em uma travessa e adicione um pouco de sal, páprica defumada e azeite, que garante que ela fique levemente umedecida;",
+    "Passe cada filé de frango na mistura de farinha, pressionando bem para que grude em toda a sua superfície. Dê leves batidinhas para remover o excesso de farinha, garantindo que o empanado fique mais crocante;",
+    "Coloque os filés empanados em uma assadeira, sem sobrepor, até que você finalize esse processo com todos eles;",
+    "Leve à air fryer preaquecida a 205ºC. Asse por 8 minutos de um lado e depois por mais 8 minutos do outro lado. O tempo exato pode variar dependendo da espessura do frango e da sua Air Fryer;",
+    "O frango estará pronto quando estiver bem dourado, crocante por fora e macio por dentro!"
+  ],
+  "social": {
+    "caption_short": "Frango empanado simples",
+    "caption_medium": "Frango empanado simples Ingredientes: 500 gramas de peito de frango, 1 colher de sopa de alho em pó, 1 colher de chá de páprica defumada, 1 colher de sopa de maionese, Sal a gosto. Modo de preparo: Junte todos os ingredientes e comece cortando os peitos de frango em 4 filés;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

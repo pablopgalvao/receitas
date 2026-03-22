@@ -1,0 +1,62 @@
+{
+  "id": "cmn2bm1su07wxholyh3qkc30d",
+  "title": "Suco de limão com coco",
+  "slug": "receitas/suco-de-limao-com-coco__cc497cce",
+  "url": "https://receitas.pgalvao.com.br/receitas/suco-de-limao-com-coco__cc497cce/cmn2bm1su07wxholyh3qkc30d/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm1su07wxholyh3qkc30d.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm1su07wxholyh3qkc30d.json",
+  "deeplink": "boil://receita?rid=cmn2bm1su07wxholyh3qkc30d",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-de-limao-com-coco__cc497cce_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-de-limao-com-coco__cc497cce_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-de-limao-com-coco__cc497cce_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-de-limao-com-coco__cc497cce_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-de-limao-com-coco__cc497cce_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:55.134Z",
+  "time": "15 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 polpa de coco (coco seco)",
+    "2 copos de água de coco",
+    "Suco de 2 limões"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um liquidificador, adicione a polpa do coco, a água de coco e bata até misturar bem;",
+    "Coe o leite que formou e transfira novamente para o liquidificador;",
+    "Acrescente o suco dos limões e bata novamente;",
+    "Agora é só servir."
+  ],
+  "excerpt": "Suco de limão com coco. Tempo de preparo: 15 min. Ingrediente em destaque: 1 polpa de coco (coco seco). Comece assim: Reúna todos os ingredientes;",
+  "social": {
+    "caption_short": "Suco de limão com coco",
+    "caption_medium": "Suco de limão com coco Ingredientes: 1 polpa de coco (coco seco), 2 copos de água de coco, Suco de 2 limões. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/suco-de-limao-com-coco__cc497cce_01.webp\" alt=\"Suco de limão com coco\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 15 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 polpa de coco (coco seco)</li>\n<li>2 copos de água de coco</li>\n<li>Suco de 2 limões</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Em um liquidificador, adicione a polpa do coco, a água de coco e bata até misturar bem;</li>\n<li>Coe o leite que formou e transfira novamente para o liquidificador;</li>\n<li>Acrescente o suco dos limões e bata novamente;</li>\n<li>Agora é só servir.</li>\n</ol>\n"
+}

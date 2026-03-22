@@ -1,0 +1,56 @@
+{
+  "id": "cmn2blz2l04ywholygadxdx56",
+  "title": "Gelinho de uva",
+  "slug": "receitas/gelinho-de-uva__ba53550a",
+  "url": "https://receitas.pgalvao.com.br/receitas/gelinho-de-uva__ba53550a/cmn2blz2l04ywholygadxdx56/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blz2l04ywholygadxdx56.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blz2l04ywholygadxdx56.json",
+  "deeplink": "boil://receita?rid=cmn2blz2l04ywholygadxdx56",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelinho-de-uva__ba53550a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelinho-de-uva__ba53550a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelinho-de-uva__ba53550a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelinho-de-uva__ba53550a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelinho-de-uva__ba53550a_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:48.136Z",
+  "time": "2 hora",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 cacho de uva vitória sem caroço"
+  ],
+  "steps": [
+    "Retire as uvas do cacho, lave e deixe escorrer bem a água numa peneira."
+  ],
+  "excerpt": "Gelinho de uva. Tempo de preparo: 2 hora. Ingrediente em destaque: 1 cacho de uva vitória sem caroço. Comece assim: Retire as uvas do cacho, lave e deixe escorrer bem a água numa peneira.",
+  "social": {
+    "caption_short": "Gelinho de uva",
+    "caption_medium": "Gelinho de uva Ingredientes: 1 cacho de uva vitória sem caroço. Modo de preparo: Retire as uvas do cacho, lave e deixe escorrer bem a água numa peneira.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/gelinho-de-uva__ba53550a_01.webp\" alt=\"Gelinho de uva\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 2 hora</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 cacho de uva vitória sem caroço</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Retire as uvas do cacho, lave e deixe escorrer bem a água numa peneira.</li>\n</ol>\n"
+}

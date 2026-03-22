@@ -1,0 +1,42 @@
+{
+  "id": "cmn2bm2bc08blholydai24uol",
+  "title": "Vinho verde gim spin",
+  "slug": "receitas/vinho_verde_gim_spin",
+  "url": "https://receitas.pgalvao.com.br/receitas/vinho_verde_gim_spin/cmn2bm2bc08blholydai24uol/",
+  "deeplink": "boil://receita?rid=cmn2bm2bc08blholydai24uol",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinho_verde_gim_spin.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinho_verde_gim_spin.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinho_verde_gim_spin.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinho_verde_gim_spin.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/vinho_verde_gim_spin.jpg"
+  },
+  "ingredients": [
+    "1 dose de gim (50 ml)"
+  ],
+  "steps": [
+    "Numa coqueteleira coloque bastante gelo, junte 1 dose de gin e 3 doses de vinho verde. Chacoalhe bem para misturar. Separe duas taças, coloque duas azeitonas verdes em cada uma e sirva o drinque coado (sem o gelo)."
+  ],
+  "social": {
+    "caption_short": "Vinho verde gim spin",
+    "caption_medium": "Vinho verde gim spin Ingredientes: 1 dose de gim (50 ml). Modo de preparo: Numa coqueteleira coloque bastante gelo, junte 1 dose de gin e 3 doses de vinho verde. Chacoalhe bem para misturar. Separe duas taças, coloque duas azeitonas verdes em cada uma e sirva o drinque coado (sem o gelo).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#brasil",
+      "#sudeste",
+      "#caseiro"
+    ]
+  }
+}

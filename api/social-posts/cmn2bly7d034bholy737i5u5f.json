@@ -1,0 +1,55 @@
+{
+  "id": "cmn2bly7d034bholy737i5u5f",
+  "title": "Bolo fit de banana com chocolate",
+  "slug": "receitas/bolo-fit-de-banana-com-chocolate__db59787c",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-fit-de-banana-com-chocolate__db59787c/cmn2bly7d034bholy737i5u5f/",
+  "deeplink": "boil://receita?rid=cmn2bly7d034bholy737i5u5f",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-com-chocolate__db59787c_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-com-chocolate__db59787c_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-com-chocolate__db59787c_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-com-chocolate__db59787c_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-com-chocolate__db59787c_01.webp"
+  },
+  "ingredients": [
+    "3 bananas maduras",
+    "4 ovos",
+    "½ xícara de chá de açúcar demerara",
+    "2 colheres de sopa de manteiga Ghee",
+    "1 xícara de chá de farinha de aveia",
+    "3 colheres de sopa de cacau em pó",
+    "1 colheres de sopa de fermento químico em pó (fermento para bolo)",
+    "1 barra de chocolate meio amargo picada",
+    "Bananas cortadas em rodelas para decorar",
+    "Cacau em pó para decorar"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, amasse bem as bananas;",
+    "Acrescente os ovos, o açúcar, a manteiga, a farinha de aveia, o cacau, o fermento e misture tudo até ficar uma massa homogênea;",
+    "Em seguida, adicione o chocolate picado na massa e misture delicadamente;",
+    "Em uma forma untada e polvilhada com cacau em pó, despeje a massa;",
+    "Cubra o bolo com rodelas de banana e leve ao forno preaquecido a 180 ºC, por cerca de 30 minutos;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo fit de banana com chocolate",
+    "caption_medium": "Bolo fit de banana com chocolate Ingredientes: 3 bananas maduras, 4 ovos, ½ xícara de chá de açúcar demerara, 2 colheres de sopa de manteiga Ghee, 1 xícara de chá de farinha de aveia. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

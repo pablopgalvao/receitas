@@ -1,0 +1,53 @@
+{
+  "id": "cmn2bm1p707tfholy7g5k1ms7",
+  "title": "Sopa de salsão",
+  "slug": "receitas/sopa_de_sals_o",
+  "url": "https://receitas.pgalvao.com.br/receitas/sopa_de_sals_o/cmn2bm1p707tfholy7g5k1ms7/",
+  "deeplink": "boil://receita?rid=cmn2bm1p707tfholy7g5k1ms7",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_sals_o.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_sals_o.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_sals_o.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_sals_o.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sopa_de_sals_o.jpg"
+  },
+  "ingredients": [
+    "6 talos de salsão",
+    "2 colheres (sopa) de azeite",
+    "sal a gosto",
+    "creme de leite fresco gelado a gosto",
+    "cebolinha fatiada a gosto",
+    "Descasque e corte as batatas em cubos médios. Lave, descarte as folhas e corte o salsão em fatias de cerca de 2 cm. Descasque e corte a cebola em cubos grandes. Descasque o dente de alho.",
+    "Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite e junte a cebola, o alho (inteiro) e o salsão. Tempere com sal e refogue por 5 minutos, até a cebola murchar. Junte os cubos de batata, o filé de frango e a folha de louro.",
+    "Sirva a seguir com creme de leite fresco gelado e cebolinha fatiada a gosto. Esta sopa também fica ótima servida fria."
+  ],
+  "steps": [
+    "Descasque e corte as batatas em cubos médios. Lave, descarte as folhas e corte o salsão em fatias de cerca de 2 cm. Descasque e corte a cebola em cubos grandes. Descasque o dente de alho.",
+    "Leve uma panela média ao fogo médio. Quando aquecer, regue com o azeite e junte a cebola, o alho (inteiro) e o salsão. Tempere com sal e refogue por 5 minutos, até a cebola murchar. Junte os cubos de batata, o filé de frango e a folha de louro.",
+    "Regue com a água e, assim que ferver, diminua o fogo e deixe cozinhar, com a tampa entreaberta, por 40 minutos.",
+    "Desligue o fogo e, com uma pinça, retire o filé de frango e a folha de louro - reserve o filé de frango na geladeira para outra receita. Transfira o caldo com os legumes para o liquidificador, tempere com sal e bata até ficar cremosa. Atenção: segure firme a tampa do liquidificador com um pano de prato para evitar que o vapor do caldo abra a tampa.",
+    "Sirva a seguir com creme de leite fresco gelado e cebolinha fatiada a gosto. Esta sopa também fica ótima servida fria."
+  ],
+  "social": {
+    "caption_short": "Sopa de salsão",
+    "caption_medium": "Sopa de salsão Ingredientes: 6 talos de salsão, 2 colheres (sopa) de azeite, sal a gosto, creme de leite fresco gelado a gosto, cebolinha fatiada a gosto. Modo de preparo: Descasque e corte as batatas em cubos médios. Lave, descarte as folhas e corte o salsão em fatias de cerca de 2 cm. Descasque e corte a cebola em cubos grandes. Descasque o dente de alho.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#tradicional",
+      "#fácil"
+    ]
+  }
+}

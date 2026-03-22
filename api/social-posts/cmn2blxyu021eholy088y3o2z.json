@@ -1,0 +1,55 @@
+{
+  "id": "cmn2blxyu021eholy088y3o2z",
+  "title": "Almôndegas com ervilha e hortelã",
+  "slug": "receitas/alm_ndegas_com_ervilha_e_hortel",
+  "url": "https://receitas.pgalvao.com.br/receitas/alm_ndegas_com_ervilha_e_hortel/cmn2blxyu021eholy088y3o2z/",
+  "deeplink": "boil://receita?rid=cmn2blxyu021eholy088y3o2z",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/alm_ndegas_com_ervilha_e_hortel.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/alm_ndegas_com_ervilha_e_hortel.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/alm_ndegas_com_ervilha_e_hortel.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/alm_ndegas_com_ervilha_e_hortel.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/alm_ndegas_com_ervilha_e_hortel.jpg"
+  },
+  "ingredients": [
+    "2 colheres (sopa) de farinha de rosca",
+    "2 ramos de salsinha fresca",
+    "½ colher (chá) de cominho",
+    "½ colher (chá) de sal",
+    "azeite a gosto",
+    "⅓ de xícara (chá) de ervilha congelada",
+    "½ xícara (chá) de água",
+    "1 colher (sopa) de manteiga gelada",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "folhas de hortelã a gosto",
+    "salsinha fresca a gosto"
+  ],
+  "steps": [
+    "Faça o pré-preparo: descasque e corte ½ cebola em pedaços grandes; lave, seque e debulhe as folhas de salsinha e de hortelã; lave e seque o limão.",
+    "No processador de alimentos, junte a carne, a cebola e bata até triturar bem. Acrescente a farinha de rosca, as ervas, o cominho, o sal, as raspas do limão, 1 colher (sopa) de azeite e bata novamente para formar uma massa lisa.",
+    "Para modelar as almôndegas: unte as mãos com azeite e modele bolinhas do tamanho das de pingue-pongue. Transfira para uma travessa e reserve."
+  ],
+  "social": {
+    "caption_short": "Almôndegas com ervilha e hortelã",
+    "caption_medium": "Almôndegas com ervilha e hortelã Ingredientes: 2 colheres (sopa) de farinha de rosca, 2 ramos de salsinha fresca, ½ colher (chá) de cominho, ½ colher (chá) de sal, azeite a gosto. Modo de preparo: Faça o pré-preparo: descasque e corte ½ cebola em pedaços grandes; lave, seque e debulhe as folhas de salsinha e de hortelã; lave e seque o limão.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#caseiro",
+      "#tradicional"
+    ]
+  }
+}

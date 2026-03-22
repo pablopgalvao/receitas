@@ -1,0 +1,54 @@
+{
+  "id": "cmn2blzuh061eholyed0w4zzf",
+  "title": "Pão rápido integral",
+  "slug": "receitas/p_o_r_pido_integral",
+  "url": "https://receitas.pgalvao.com.br/receitas/p_o_r_pido_integral/cmn2blzuh061eholyed0w4zzf/",
+  "deeplink": "boil://receita?rid=cmn2blzuh061eholyed0w4zzf",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_r_pido_integral.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_r_pido_integral.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_r_pido_integral.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_r_pido_integral.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/p_o_r_pido_integral.jpg"
+  },
+  "ingredients": [
+    "2 xícaras (chá) de farinha de trigo integral",
+    "2 xícaras (chá) de farinha de trigo",
+    "2 xícaras (chá) de leite em temperatura ambiente",
+    "3 colheres (chá) de fermento em pó (fermento para bolo)",
+    "1 colher (chá) de sal",
+    "óleo para untar a fôrma",
+    "Separe uma fôrma de bolo inglês de 22 cm x 10 cm. Com uma folha de papel-toalha, espalhe uma camada fina de óleo na parte interna para untar.",
+    "Numa tigela grande coloque as farinhas de trigo branca e integral. Adicione o sal, o fermento e misture bem. Junte o leite, aos poucos, e vá misturando com uma espátula para incorporar. Mexa até formar uma massa lisa e um pouco grudenta. Não precisa sovar!"
+  ],
+  "steps": [
+    "Preaqueça o forno a 200 °C (temperatura média). Atenção: espere 20 minutos, após ligar o forno, para começar a separar os ingredientes - o preparo é bem rápido e o forno deve estar quente para o fermento agir e o pão crescer.",
+    "Separe uma fôrma de bolo inglês de 22 cm x 10 cm. Com uma folha de papel-toalha, espalhe uma camada fina de óleo na parte interna para untar.",
+    "Numa tigela grande coloque as farinhas de trigo branca e integral. Adicione o sal, o fermento e misture bem. Junte o leite, aos poucos, e vá misturando com uma espátula para incorporar. Mexa até formar uma massa lisa e um pouco grudenta. Não precisa sovar!",
+    "Transfira a massa para a fôrma untada e nivele a superfície com a espátula. Com uma faquinha bem afiada, faça um corte na superfície da massa, ao longo de todo o comprimento do pão - isso ajuda o pão a crescer de maneira uniforme.",
+    "Leve ao forno preaquecido e deixe assar por cerca de 50 minutos, até ficar dourado e formar uma casquinha crocante.",
+    "Retire do forno e desenforme sobre uma grelha - se o pão ficar na fôrma ou sobre uma superfície lisa pode acumular vapor e amolecer a casca. Deixe esfriar antes de servir, as fatias também ficam uma delícia tostadas na frigideira ou torradeira."
+  ],
+  "social": {
+    "caption_short": "Pão rápido integral",
+    "caption_medium": "Pão rápido integral Ingredientes: 2 xícaras (chá) de farinha de trigo integral, 2 xícaras (chá) de farinha de trigo, 2 xícaras (chá) de leite em temperatura ambiente, 3 colheres (chá) de fermento em pó (fermento para bolo), 1 colher (chá) de sal. Modo de preparo: Preaqueça o forno a 200 °C (temperatura média). Atenção: espere 20 minutos, após ligar o forno, para começar a separar os ingredientes - o preparo é bem rápido e o forno deve estar quente para o fermento agir e o pão crescer.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#brasil",
+      "#tradicional"
+    ]
+  }
+}

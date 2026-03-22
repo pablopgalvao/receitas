@@ -1,0 +1,53 @@
+{
+  "id": "cmn2bm20p0833holy9vvz89zr",
+  "title": "Torta de brigadeiro simples",
+  "slug": "receitas/torta-de-brigadeiro-simples__5bf0b2be",
+  "url": "https://receitas.pgalvao.com.br/receitas/torta-de-brigadeiro-simples__5bf0b2be/cmn2bm20p0833holy9vvz89zr/",
+  "deeplink": "boil://receita?rid=cmn2bm20p0833holy9vvz89zr",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-brigadeiro-simples__5bf0b2be_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-brigadeiro-simples__5bf0b2be_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-brigadeiro-simples__5bf0b2be_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-brigadeiro-simples__5bf0b2be_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-brigadeiro-simples__5bf0b2be_01.webp"
+  },
+  "ingredients": [
+    "1 pacote de bolachas de leite",
+    "100 gramas de manteiga (para a massa)",
+    "1 lata de leite condensado",
+    "3 colheres de sopa de chocolate em pó",
+    "1 colher de sopa de manteiga (para o recheio)",
+    "1 lata de creme de leite",
+    "½ xícara de chá de granulado",
+    "100 gramas de cobertura de chocolate ao leite em barra (opcional)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma vasilha, triture todas as bolachas, acrescente as 100 gramas de manteiga e misture até formar uma massa homogênea;",
+    "Com a massa, forre o fundo e as laterais de uma forma de 24 cm de diâmetro, com aro removível e reserve;",
+    "Em uma panela, coloque o leite condensado, o chocolate, a manteiga, misture e cozinhe em fogo baixo até que o brigadeiro comece a desgrudar do fundo da panela, cerca de 10 minutos. Se usar a cobertura, derreta no micro-ondas em intervalos de 30 segundos e incorpore também;",
+    "Retire a panela com o recheio do fogo, acrescente o creme de leite e mexa a fim de que ele se incorpore ao brigadeiro;",
+    "Espalhe o recheio sobre a massa; depois, leve a torta para a geladeira e deixe lá por cerca de 4 horas;",
+    "Salpique granulado e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Torta de brigadeiro simples",
+    "caption_medium": "Torta de brigadeiro simples Ingredientes: 1 pacote de bolachas de leite, 100 gramas de manteiga (para a massa), 1 lata de leite condensado, 3 colheres de sopa de chocolate em pó, 1 colher de sopa de manteiga (para o recheio). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

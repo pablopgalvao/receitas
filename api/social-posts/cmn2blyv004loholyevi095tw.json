@@ -1,0 +1,54 @@
+{
+  "id": "cmn2blyv004loholyevi095tw",
+  "title": "Feijão preto fácil",
+  "slug": "receitas/feijao-preto-facil__fc03bca2",
+  "url": "https://receitas.pgalvao.com.br/receitas/feijao-preto-facil__fc03bca2/cmn2blyv004loholyevi095tw/",
+  "deeplink": "boil://receita?rid=cmn2blyv004loholyevi095tw",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-preto-facil__fc03bca2_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-preto-facil__fc03bca2_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-preto-facil__fc03bca2_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-preto-facil__fc03bca2_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/feijao-preto-facil__fc03bca2_01.webp"
+  },
+  "ingredients": [
+    "½ kg de feijão preto",
+    "3 litros de água",
+    "2 folhas de louro",
+    "2 colheres de sopa de óleo",
+    "6 a 8 dentes de alho amassados",
+    "1 cebola picada",
+    "1 linguiça calabresa ou paio picada em rodelas",
+    "1 tablete de caldo de carne ou costela",
+    "Sal a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Lave o feijão e reserve;",
+    "Ferva 1 litro de água, despeje no feijão, tampe e deixe de molho por 30 minutos;",
+    "Transfira o feijão e a água para uma panela de pressão e acrescente os outros dois litros de água e as folhas de louro;",
+    "Tampe a panela, leve-a ao fogo médio, espere pegar pressão e deixe o feijão cozinhar por 30 minutos;",
+    "Em outra panela, aqueça o óleo e refogue a cebola e o alho; na sequência, acrescente a linguiça e frite-a;",
+    "Junte o feijão cozido, o caldo de costela e o sal à panela com linguiça; mexa para dissolver o caldo, abaixe o fogo e deixe ferver por uns 10 minutos; depois, é só servir."
+  ],
+  "social": {
+    "caption_short": "Feijão preto fácil",
+    "caption_medium": "Feijão preto fácil Ingredientes: ½ kg de feijão preto, 3 litros de água, 2 folhas de louro, 2 colheres de sopa de óleo, 6 a 8 dentes de alho amassados. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

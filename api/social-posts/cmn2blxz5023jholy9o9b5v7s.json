@@ -1,0 +1,43 @@
+{
+  "id": "cmn2blxz5023jholy9o9b5v7s",
+  "title": "Apple cart",
+  "slug": "receitas/apple-cart__d47288f2",
+  "url": "https://receitas.pgalvao.com.br/receitas/apple-cart__d47288f2/cmn2blxz5023jholy9o9b5v7s/",
+  "deeplink": "boil://receita?rid=cmn2blxz5023jholy9o9b5v7s",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/apple-cart__d47288f2_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/apple-cart__d47288f2_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/apple-cart__d47288f2_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/apple-cart__d47288f2_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/apple-cart__d47288f2_01.webp"
+  },
+  "ingredients": [
+    "1 dose de Calvados (50 ml) (destilado de maçã)",
+    "2 colheres (sopa) de Cointreau (licor de laranja)",
+    "2 colheres (sopa) de caldo de limão",
+    "cubos de gelo a gosto"
+  ],
+  "steps": [
+    "Num copo baixo com gelo junte o Calvados, o Cointreau e o caldo de limão. Misture delicadamente com uma colher bailarina e sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Apple cart",
+    "caption_medium": "Apple cart Ingredientes: 1 dose de Calvados (50 ml) (destilado de maçã), 2 colheres (sopa) de Cointreau (licor de laranja), 2 colheres (sopa) de caldo de limão, cubos de gelo a gosto. Modo de preparo: Num copo baixo com gelo junte o Calvados, o Cointreau e o caldo de limão. Misture delicadamente com uma colher bailarina e sirva a seguir.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "cmn2blyhl03vxholyc9zq8bne",
+  "title": "Consomê de frango",
+  "slug": "receitas/consome-de-frango__9ee22d58",
+  "url": "https://receitas.pgalvao.com.br/receitas/consome-de-frango__9ee22d58/cmn2blyhl03vxholyc9zq8bne/",
+  "deeplink": "boil://receita?rid=cmn2blyhl03vxholyc9zq8bne",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/consome-de-frango__9ee22d58_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/consome-de-frango__9ee22d58_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/consome-de-frango__9ee22d58_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/consome-de-frango__9ee22d58_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/consome-de-frango__9ee22d58_01.webp"
+  },
+  "ingredients": [
+    "1 peito de frango (350 gramas)",
+    "1,5 litro de água para o preparo do caldo",
+    "5 xícaras de chá de caldo de frango",
+    "1 colher de chá de sal (ou a gosto)",
+    "3 ramos de salsinha (ou a gosto)",
+    "1 cebola média (100 gramas)",
+    "1 cenoura média (100 gramas)",
+    "1 alho-poró",
+    "1 clara de ovo",
+    "2 colheres de cebolinha picada (ou a gosto)"
+  ],
+  "steps": [
+    "Lave e pique o alho-poró inteiro em pedaços médios. Descasque e corte a cebola em 4 partes. Lave e pique a cenoura em rodelas médias. Lave e separe alguns ramos de salsinha;",
+    "Em uma panela de pressão, coloque o peito de frango, a cebola, o alho-poró, a cenoura e as folhas de salsinha. Tempere com sal;",
+    "Adicione água até cobrir completamente os ingredientes (utilizamos 1,5 litro de água). Tampe a panela e leve ao fogo alto. Assim que pegar pressão, reduza o fogo para baixo e deixe cozinhar por 15 minutos. Desligue e espere a pressão sair naturalmente;",
+    "Retire os legumes e o peito de frango da panela. Em um prato, desfie o peito de frango e reserve. Separe também 5 xícaras do caldo do cozimento do frango para o restante da receita;",
+    "Em outra panela, adicione 4 xícaras de caldo de frango. Leve ao fogo médio para aquecer;",
+    "Coloque a clara de ovo em uma tigela e acrescente 1 xícara do caldo. Mexa até começar a espumar e transfira para a panela;",
+    "Baixe o fogo e mexa o consomê com o auxílio de um fouet (batedor de arame). A clara de ovo vai coagular e subir à superfície, capturando impurezas e partículas - esse processo chama-se clarificação;",
+    "Cozinhe por cerca de 20 minutos, sempre no fogo baixo, sem deixar ferver. Passado esse tempo, haverá uma grande quantidade de espuma branca na superfície do caldo;",
+    "Coe com o auxílio de uma peneira e um pano de voal (ou pano de prato limpo) para retirar toda a espuma branca. O resultado é um caldo transparente e com sabor acentuado;",
+    "Passe o caldo para uma tigela. Incremente com pedaços de frango desfiado e salpique cebolinha picada antes de servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Consomê de frango",
+    "caption_medium": "Consomê de frango Ingredientes: 1 peito de frango (350 gramas), 1,5 litro de água para o preparo do caldo, 5 xícaras de chá de caldo de frango, 1 colher de chá de sal (ou a gosto), 3 ramos de salsinha (ou a gosto). Modo de preparo: Lave e pique o alho-poró inteiro em pedaços médios. Descasque e corte a cebola em 4 partes. Lave e pique a cenoura em rodelas médias. Lave e separe alguns ramos de salsinha;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

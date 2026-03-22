@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bm1z3081oholyfutcg0j3",
+  "title": "Torrada com alho",
+  "slug": "receitas/torrada-com-alho__8486c453",
+  "url": "https://receitas.pgalvao.com.br/receitas/torrada-com-alho__8486c453/cmn2bm1z3081oholyfutcg0j3/",
+  "deeplink": "boil://receita?rid=cmn2bm1z3081oholyfutcg0j3",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-com-alho__8486c453_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-com-alho__8486c453_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-com-alho__8486c453_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-com-alho__8486c453_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torrada-com-alho__8486c453_01.webp"
+  },
+  "ingredients": [
+    "5 a 8 dentes de alho",
+    "1 colher de sopa de azeite",
+    "2 colheres de sobremesa de manteiga com sal (em ponto de pomada)",
+    "Orégano e sal a gosto",
+    "4 pães amanhecidos fatiados (ou uma baguete fatiada)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes da sua torrada com alho;",
+    "Separe os dentes de alho, descasque e triture eles;",
+    "Transfira para um recipiente, adicione o azeite, a manteiga, o orégano e o sal. Misture bem até formar um creme;",
+    "Passe o creme nas fatias de pão e disponha elas em uma forma forrada com papel-alumínio;",
+    "Leve ao forno preaquecido a 180ºC até que doure (cerca de 10 a 15 minutos);",
+    "Agora é só servir essa delícia da maneira que preferir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Torrada com alho",
+    "caption_medium": "Torrada com alho Ingredientes: 5 a 8 dentes de alho, 1 colher de sopa de azeite, 2 colheres de sobremesa de manteiga com sal (em ponto de pomada), Orégano e sal a gosto, 4 pães amanhecidos fatiados (ou uma baguete fatiada). Modo de preparo: Reúna todos os ingredientes da sua torrada com alho;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

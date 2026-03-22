@@ -1,0 +1,57 @@
+{
+  "id": "cmn2blzzd0678holy9707deln",
+  "title": "Pão caseiro saudável",
+  "slug": "receitas/pao-caseiro-saudavel__a8d85642",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-caseiro-saudavel__a8d85642/cmn2blzzd0678holy9707deln/",
+  "deeplink": "boil://receita?rid=cmn2blzzd0678holy9707deln",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-saudavel__a8d85642_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-saudavel__a8d85642_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-saudavel__a8d85642_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-saudavel__a8d85642_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-saudavel__a8d85642_01.webp"
+  },
+  "ingredients": [
+    "1 colher de sopa de açúcar mascavo",
+    "1 colher de chá de sal",
+    "1 colher de sopa de fermento biológico seco",
+    "1 xícara de água morna",
+    "2 colheres de sopa de chia hidratada com 4 colheres de sopa de água",
+    "1 colher de sopa de azeite de oliva",
+    "1 colher de sopa de linhaça",
+    "½ xícara de farinha de trigo integral",
+    "1 xícara de farelo de aveia",
+    "½ xícara de farinha de arroz",
+    "1 colher de sopa de semente de girassol",
+    "1 colher de sopa de semente de abóbora"
+  ],
+  "steps": [
+    "Em uma vasilha, misture o açúcar com sal e fermento.",
+    "Adicione água morna, chia hidratada e azeite e misture bem.",
+    "Inclua a linhaça, farinha, farelo de aveia, farinha de arroz, sementes de girassol e de abóbora e amasse até que a massa desgrude das mãos.",
+    "Cubra com um pano limpo e deixe descansar por 1 hora.",
+    "Transfira a massa para uma assadeira de pão untada e deixe crescer por mais 30 minutos.",
+    "Asse em forno preaquecido a 180 ºC por cerca de 30 minutos ou até dourar.",
+    "Desenforme e sirva. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Pão caseiro saudável",
+    "caption_medium": "Pão caseiro saudável Ingredientes: 1 colher de sopa de açúcar mascavo, 1 colher de chá de sal, 1 colher de sopa de fermento biológico seco, 1 xícara de água morna, 2 colheres de sopa de chia hidratada com 4 colheres de sopa de água. Modo de preparo: Em uma vasilha, misture o açúcar com sal e fermento.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

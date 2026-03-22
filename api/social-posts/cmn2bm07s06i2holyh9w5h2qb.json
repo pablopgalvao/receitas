@@ -1,0 +1,69 @@
+{
+  "id": "cmn2bm07s06i2holyh9w5h2qb",
+  "title": "Pato no tucupi",
+  "slug": "receitas/pato_no_tucupi",
+  "url": "https://receitas.pgalvao.com.br/receitas/pato_no_tucupi/cmn2bm07s06i2holyh9w5h2qb/",
+  "deeplink": "boil://receita?rid=cmn2bm07s06i2holyh9w5h2qb",
+  "date": "2025-09-22T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pato_no_tucupi.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pato_no_tucupi.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pato_no_tucupi.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pato_no_tucupi.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pato_no_tucupi.jpg"
+  },
+  "ingredients": [
+    "1 pato grande",
+    "4 dentes de alho",
+    "5 tomates maduros (opcional)",
+    "1 folha de louro picado",
+    "1 xícara de chá de óleo",
+    "1 litro de tucupi",
+    "sal a gosto",
+    "3 cebolas pequenas, cortadas em rodelas",
+    "100 g de bacon em fatias",
+    "⅓ de xícara de chá de vinagre",
+    "½ colher de café de cominho e pimenta do reino",
+    "1 maço de jambu (ou agrião)",
+    "12 colheres de sopa de farinha de mandioca torrada"
+  ],
+  "steps": [
+    "Limpe muito bem o pato.",
+    "A seguir, fure-o ligeiramente com um garfo e tempere com alho socado, sal, louro, pimenta do reino, cominho e vinagre.",
+    "Deixe tomar gosto de um dia para o outro.",
+    "Após este tempo, cubra o pato com fatias de bacon, coloque-o numa assadeira, arrume por cima as fatias de cebola e tomate.",
+    "Regue com óleo e leve ao forno moderado, deixando assar até que o pato fique corado e macio.",
+    "Retire, corte-o em pedaços e deixe no próprio molho.",
+    "Limpe o jambu, lave e pique (conserve os talos para dar mais gosto), ferva o tucupi com 2 dentes de alho previamente socados, por mais ou menos 15 minutos.",
+    "Se usar agrião, não se deve ferver.",
+    "Adicione os pedaços do pato no molho e deixe ferver por 20 minutos.",
+    "Na hora de servir, coloque em cada prato 2 colheres de sopa de farinha de mandioca, arrume por cima 1 ou 2 pedaços de pato e despeje bastante molho (bem quente).",
+    "O molho misturado com a farinha formará uma espécie de pirão.",
+    "Molho do tucupi:",
+    "Rale a mandioca, esprema o caldo e coloque para cozinhar com bastante alho.",
+    "Depois de frio engarrafe.",
+    "Uma boa opção para se fazer com tucupi é o famoso tacacá:",
+    "Ferva um litro de tucupi com um galho de jambu e três pimentas malaguetas.",
+    "Faça uma massa bem espessa com meio quilo de polvilho e água.",
+    "Misture meio quilo de camarões secos e sirva com molho de tucupi por cima, quente."
+  ],
+  "social": {
+    "caption_short": "Pato no tucupi",
+    "caption_medium": "Pato no tucupi Ingredientes: 1 pato grande, 4 dentes de alho, 5 tomates maduros (opcional), 1 folha de louro picado, 1 xícara de chá de óleo. Modo de preparo: Limpe muito bem o pato.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#PopularBrasil"
+    ]
+  }
+}

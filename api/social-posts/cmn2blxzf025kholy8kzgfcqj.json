@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blxzf025kholy8kzgfcqj",
+  "title": "Arroz doce com chocolate fácil",
+  "slug": "receitas/arroz-doce-com-chocolate-facil__09adf900",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz-doce-com-chocolate-facil__09adf900/cmn2blxzf025kholy8kzgfcqj/",
+  "deeplink": "boil://receita?rid=cmn2blxzf025kholy8kzgfcqj",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-com-chocolate-facil__09adf900_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-com-chocolate-facil__09adf900_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-com-chocolate-facil__09adf900_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-com-chocolate-facil__09adf900_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-doce-com-chocolate-facil__09adf900_01.webp"
+  },
+  "ingredients": [
+    "800 ml de leite",
+    "50 g de açúcar (demerara ou cristal)",
+    "150 g de arroz de risoto",
+    "200 ml de leite de coco",
+    "50 g de chocolate amargo picado"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Ferva o leite e reserve;",
+    "Leve uma panela ao fogo médio, adicione o açúcar e espere caramelizar;",
+    "Quando caramelizar, acrescente o arroz e misture;",
+    "Junte o leite quente, e deixe o arroz cozinhar até ficar bem mole;",
+    "Desligue o fogo, adicione o leite de coco, o chocolate e misture;",
+    "Transfira o arroz doce para um refratário (ou divida-o em porções individuais), leve-o à geladeira, e sirva quando estiver gelado."
+  ],
+  "social": {
+    "caption_short": "Arroz doce com chocolate fácil",
+    "caption_medium": "Arroz doce com chocolate fácil Ingredientes: 800 ml de leite, 50 g de açúcar (demerara ou cristal), 150 g de arroz de risoto, 200 ml de leite de coco, 50 g de chocolate amargo picado. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

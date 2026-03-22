@@ -1,0 +1,48 @@
+{
+  "id": "cmn2blznn05stholye3o57bcc",
+  "title": "Mousse de limão saudável",
+  "slug": "receitas/mousse-de-limao-saudavel__15bfae06",
+  "url": "https://receitas.pgalvao.com.br/receitas/mousse-de-limao-saudavel__15bfae06/cmn2blznn05stholye3o57bcc/",
+  "deeplink": "boil://receita?rid=cmn2blznn05stholye3o57bcc",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-saudavel__15bfae06_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-saudavel__15bfae06_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-saudavel__15bfae06_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-saudavel__15bfae06_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mousse-de-limao-saudavel__15bfae06_01.webp"
+  },
+  "ingredients": [
+    "Suco de 1 limão-taiti",
+    "Raspas de 1 limão",
+    "1 inhame pequeno cozido",
+    "½ xícara de chá de leite em pó",
+    "⅓ de xícara de chá de água quente",
+    "2 colheres de sopa de açúcar demerara"
+  ],
+  "steps": [
+    "Coloque todos os ingredientes no liquidificador.",
+    "Bata tudo até obter um creme homogêneo.",
+    "Despeje em um refratário e deixe na geladeira por 4h antes de servir.",
+    "Pronto, sirva-o geladinho. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Mousse de limão saudável",
+    "caption_medium": "Mousse de limão saudável Ingredientes: Suco de 1 limão-taiti, Raspas de 1 limão, 1 inhame pequeno cozido, ½ xícara de chá de leite em pó, ⅓ de xícara de chá de água quente. Modo de preparo: Coloque todos os ingredientes no liquidificador.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "cmn2bm1iu07o9holy0q3bf849",
+  "title": "Shake de abacate",
+  "slug": "receitas/shake-de-abacate__2e39e6ea",
+  "url": "https://receitas.pgalvao.com.br/receitas/shake-de-abacate__2e39e6ea/cmn2bm1iu07o9holy0q3bf849/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm1iu07o9holy0q3bf849.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm1iu07o9holy0q3bf849.json",
+  "deeplink": "boil://receita?rid=cmn2bm1iu07o9holy0q3bf849",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:54.614Z",
+  "time": "6 min",
+  "difficulty": "",
+  "servings": "1 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "3 colheres de sopa de abacate",
+    "150 ml de leite de coco ou leite de amêndoas",
+    "1 scoop de Whey Protein de baunilha",
+    "Cubos de gelo"
+  ],
+  "steps": [
+    "Bata todos os ingredientes no liquidificador e mixer.",
+    "Sirva em um copo e prontinho! Bom apetite."
+  ],
+  "excerpt": "Shake de abacate. Tempo de preparo: 6 min. Ingrediente em destaque: 3 colheres de sopa de abacate. Comece assim: Bata todos os ingredientes no liquidificador e mixer.",
+  "social": {
+    "caption_short": "Shake de abacate",
+    "caption_medium": "Shake de abacate Ingredientes: 3 colheres de sopa de abacate, 150 ml de leite de coco ou leite de amêndoas, 1 scoop de Whey Protein de baunilha, Cubos de gelo. Modo de preparo: Bata todos os ingredientes no liquidificador e mixer.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/shake-de-abacate__2e39e6ea_01.webp\" alt=\"Shake de abacate\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 1 porções</li>\n<li><strong>Tempo de preparo:</strong> 6 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>3 colheres de sopa de abacate</li>\n<li>150 ml de leite de coco ou leite de amêndoas</li>\n<li>1 scoop de Whey Protein de baunilha</li>\n<li>Cubos de gelo</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Bata todos os ingredientes no liquidificador e mixer.</li>\n<li>Sirva em um copo e prontinho! Bom apetite.</li>\n</ol>\n"
+}

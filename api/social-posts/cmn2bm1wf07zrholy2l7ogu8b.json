@@ -1,0 +1,51 @@
+{
+  "id": "cmn2bm1wf07zrholy2l7ogu8b",
+  "title": "Tarte tatin de frigideira",
+  "slug": "receitas/tarte_tatin_de_frigideira",
+  "url": "https://receitas.pgalvao.com.br/receitas/tarte_tatin_de_frigideira/cmn2bm1wf07zrholy2l7ogu8b/",
+  "deeplink": "boil://receita?rid=cmn2bm1wf07zrholy2l7ogu8b",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tarte_tatin_de_frigideira.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tarte_tatin_de_frigideira.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tarte_tatin_de_frigideira.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tarte_tatin_de_frigideira.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tarte_tatin_de_frigideira.jpg"
+  },
+  "ingredients": [
+    "1 xícara (chá) de açúcar",
+    "4 colheres (sopa) de manteiga (60 g)"
+  ],
+  "steps": [
+    "Retire a massa folhada do congelador 2 horas antes de começar o preparo.",
+    "Preaqueça o forno a 180 ºC (temperatura média).",
+    "Numa tábua, descasque e corte as maçãs, na vertical, em 4 partes. Retire as sementes, transfira para uma tigela e regue com o caldo de limão - além de não escurecer a fruta, vai dar uma camada extra de sabor.",
+    "Sobre uma superfície bem limpa, abra a massa folhada com um rolo até chegar a 0,5 cm de espessura. Para medir o disco, coloque uma frigideira de 26 cm de diâmetro com a boca para baixo sobre a massa e corte com a faca.",
+    "Na frigideira de inox (que possa ser levada ao forno), coloque o açúcar e a manteiga e leve ao fogo médio para derreter, mexendo de vez em quando. Quando começar a escurecer, junte a maçã: utilize uma pinça ou garfo para não se queimar e distribua as fatias uma ao lado da outra, sem deixar folgas, formando uma escama, até preencher toda a frigideira. Deixe cozinhar por apenas 5 minutos.",
+    "Desligue o fogo, transfira a massa para a frigideira, cobrindo toda a superfície. Com um garfo, dobre as bordas da massa para baixo, por dentro da frigideira - lembre-se de que a torta será virada depois de assada.",
+    "Leve a frigideira ao forno preaquecido e deixe assar por 40 minutos, ou até que a massa fique dourada.",
+    "Retire a torta do forno e deixe esfriar por 5 minutos. Antes de desenformar, incline um pouco a frigideira e, se estiver com muita calda, deixe escorrer numa tigela.",
+    "Para desenformar a torta: coloque um prato sobre a frigideira, segure bem firme com um pano de prato e vire de uma só vez. Não deixe a torta esfriar muito, pois ela pode grudar na frigideira - neste caso, aqueça o fundo por alguns segundos em fogo baixo para desenformar. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Tarte tatin de frigideira",
+    "caption_medium": "Tarte tatin de frigideira Ingredientes: 1 xícara (chá) de açúcar, 4 colheres (sopa) de manteiga (60 g). Modo de preparo: Retire a massa folhada do congelador 2 horas antes de começar o preparo.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#tradicional",
+      "#rápido"
+    ]
+  }
+}

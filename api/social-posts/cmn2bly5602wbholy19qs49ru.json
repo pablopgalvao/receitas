@@ -1,0 +1,48 @@
+{
+  "id": "cmn2bly5602wbholy19qs49ru",
+  "title": "Bolo de coco vegano",
+  "slug": "receitas/bolo-de-coco-vegano__bf5307da",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-coco-vegano__bf5307da/cmn2bly5602wbholy19qs49ru/",
+  "deeplink": "boil://receita?rid=cmn2bly5602wbholy19qs49ru",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-coco-vegano__bf5307da_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-coco-vegano__bf5307da_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-coco-vegano__bf5307da_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-coco-vegano__bf5307da_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-coco-vegano__bf5307da_01.webp"
+  },
+  "ingredients": [
+    "1 xícara de leite de coco em pó",
+    "¼ de xícara de açúcar demerara",
+    "½ xícara de água quente",
+    "Coco ralado a gosto"
+  ],
+  "steps": [
+    "Em uma tigela, misture todos os ingredientes secos, exceto o fermento.",
+    "Incorpore os ingredientes líquidos.",
+    "Finalize com o fermento e o vinagre.",
+    "Despeje a massa em uma forma untada.",
+    "Asse em forno preaquecido a 200 ºC por 30 minutos.",
+    "Quando tirar do forno, faça furinhos com um garfo e reserve."
+  ],
+  "social": {
+    "caption_short": "Bolo de coco vegano",
+    "caption_medium": "Bolo de coco vegano Ingredientes: 1 xícara de leite de coco em pó, ¼ de xícara de açúcar demerara, ½ xícara de água quente, Coco ralado a gosto. Modo de preparo: Em uma tigela, misture todos os ingredientes secos, exceto o fermento.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

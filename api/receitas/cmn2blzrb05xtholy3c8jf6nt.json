@@ -1,0 +1,75 @@
+{
+  "id": "cmn2blzrb05xtholy3c8jf6nt",
+  "title": "Nhoque de ricota",
+  "slug": "receitas/nhoque_de_ricota",
+  "url": "https://receitas.pgalvao.com.br/receitas/nhoque_de_ricota/cmn2blzrb05xtholy3c8jf6nt/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blzrb05xtholy3c8jf6nt.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blzrb05xtholy3c8jf6nt.json",
+  "deeplink": "boil://receita?rid=cmn2blzrb05xtholy3c8jf6nt",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_ricota.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_ricota.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_ricota.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_ricota.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_ricota.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:50.960Z",
+  "time": "15 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "caseiro",
+    "fácil",
+    "rápido"
+  ],
+  "ingredients": [
+    "½ xícara (chá) de queijo parmesão ralado fino (cerca de 50g)",
+    "½ xícara (chá) de farinha de trigo",
+    "1 colher (chá) de sal",
+    "4 colheres (sopa) de manteiga",
+    "queijo parmesão em lascas e folhas de manjericão a gosto para servir",
+    "Numa tigela separada, quebre os ovos, um de cada vez, e junte à ricota - se um estiver estragado você não perde a receita. Adicione o queijo ralado e o sal e amasse bem com as mãos para misturar. Junte a farinha e amasse novamente, até formar uma massa lisa. Cubra com filme e deixe na geladeira por 15 minutos para firmar.",
+    "Leve ao fogo alto uma caçarola média com água. Assim que ferver, adicione 1 colher (sopa) de sal. Com uma escumadeira, mergulhe cerca de 15 nhoques por vez. Deixe cozinhar por mais 2 minutos depois que subirem à superfície. Pesque os nhoques cozidos com a escumadeira, escorrendo bem a água, e transfira para uma travessa. Cozinhe o restante e reserve 1 xícara (chá) da água do cozimento - ela será utilizada para fazer o molho.",
+    "Leve uma frigideira grande ao fogo médio. Quando aquecer, adicione 1 colher (sopa) de manteiga e disponha metade dos nhoques na frigideira. Deixe por cerca de 2 minutos. Vire com uma espátula e deixe por mais 1 minuto para dourar por igual. Transfira para um prato e repita com a outra metade, adicionando 1 colher de sopa de manteiga a cada leva.",
+    "Mantenha a frigideira em fogo médio e adicione o restante da manteiga. Assim que derreter, regue com ½ xícara (chá) da água do cozimento. Desligue o fogo e mexa a frigideira, delicadamente, fazendo movimentos circulares até formar um molho liso - ao misturar com a espátula a gordura pode se separar do molho. Se desejar um molho mais ralo, adicione, aos poucos, o restante da água do cozimento e ligue o fogo novamente apenas para aquecer. Transfira para uma molheira.",
+    "Sirva os nhoques de ricota com o molho de manteiga, queijo parmesão em lascas e folhas de manjericão fresca a gosto."
+  ],
+  "steps": [
+    "Coloque a ricota numa tigela grande e, com as mãos, quebre e esfarele em pequenos pedaços.",
+    "Numa tigela separada, quebre os ovos, um de cada vez, e junte à ricota - se um estiver estragado você não perde a receita. Adicione o queijo ralado e o sal e amasse bem com as mãos para misturar. Junte a farinha e amasse novamente, até formar uma massa lisa. Cubra com filme e deixe na geladeira por 15 minutos para firmar.",
+    "Para modelar os nhoques: com as mãos, separe uma porção da massa, enrole do tamanho de uma bola de gude e achate levemente. Transfira para uma assadeira e repita o mesmo processo com o restante da massa. Se preferir, faça rolinhos e, com uma faca, corte a cada 2 cm para formar os nhoques.",
+    "Leve ao fogo alto uma caçarola média com água. Assim que ferver, adicione 1 colher (sopa) de sal. Com uma escumadeira, mergulhe cerca de 15 nhoques por vez. Deixe cozinhar por mais 2 minutos depois que subirem à superfície. Pesque os nhoques cozidos com a escumadeira, escorrendo bem a água, e transfira para uma travessa. Cozinhe o restante e reserve 1 xícara (chá) da água do cozimento - ela será utilizada para fazer o molho.",
+    "Leve uma frigideira grande ao fogo médio. Quando aquecer, adicione 1 colher (sopa) de manteiga e disponha metade dos nhoques na frigideira. Deixe por cerca de 2 minutos. Vire com uma espátula e deixe por mais 1 minuto para dourar por igual. Transfira para um prato e repita com a outra metade, adicionando 1 colher de sopa de manteiga a cada leva.",
+    "Mantenha a frigideira em fogo médio e adicione o restante da manteiga. Assim que derreter, regue com ½ xícara (chá) da água do cozimento. Desligue o fogo e mexa a frigideira, delicadamente, fazendo movimentos circulares até formar um molho liso - ao misturar com a espátula a gordura pode se separar do molho. Se desejar um molho mais ralo, adicione, aos poucos, o restante da água do cozimento e ligue o fogo novamente apenas para aquecer. Transfira para uma molheira.",
+    "Sirva os nhoques de ricota com o molho de manteiga, queijo parmesão em lascas e folhas de manjericão fresca a gosto."
+  ],
+  "excerpt": "Nhoque de ricota. Tempo de preparo: 15 min. Ingrediente em destaque: ½ xícara (chá) de queijo parmesão ralado fino (cerca de 50g). Comece assim: Coloque a ricota numa tigela grande e, com as mãos, quebre e esfarele em pequenos pedaços.",
+  "social": {
+    "caption_short": "Nhoque de ricota",
+    "caption_medium": "Nhoque de ricota Ingredientes: ½ xícara (chá) de queijo parmesão ralado fino (cerca de 50g), ½ xícara (chá) de farinha de trigo, 1 colher (chá) de sal, 4 colheres (sopa) de manteiga, queijo parmesão em lascas e folhas de manjericão a gosto para servir. Modo de preparo: Coloque a ricota numa tigela grande e, com as mãos, quebre e esfarele em pequenos pedaços.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#fácil",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/nhoque_de_ricota.jpg\" alt=\"Nhoque de ricota\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 15 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>½ xícara (chá) de queijo parmesão ralado fino (cerca de 50g)</li>\n<li>½ xícara (chá) de farinha de trigo</li>\n<li>1 colher (chá) de sal</li>\n<li>4 colheres (sopa) de manteiga</li>\n<li>queijo parmesão em lascas e folhas de manjericão a gosto para servir</li>\n<li>Numa tigela separada, quebre os ovos, um de cada vez, e junte à ricota - se um estiver estragado você não perde a receita. Adicione o queijo ralado e o sal e amasse bem com as mãos para misturar. Junte a farinha e amasse novamente, até formar uma massa lisa. Cubra com filme e deixe na geladeira por 15 minutos para firmar.</li>\n<li>Leve ao fogo alto uma caçarola média com água. Assim que ferver, adicione 1 colher (sopa) de sal. Com uma escumadeira, mergulhe cerca de 15 nhoques por vez. Deixe cozinhar por mais 2 minutos depois que subirem à superfície. Pesque os nhoques cozidos com a escumadeira, escorrendo bem a água, e transfira para uma travessa. Cozinhe o restante e reserve 1 xícara (chá) da água do cozimento - ela será utilizada para fazer o molho.</li>\n<li>Leve uma frigideira grande ao fogo médio. Quando aquecer, adicione 1 colher (sopa) de manteiga e disponha metade dos nhoques na frigideira. Deixe por cerca de 2 minutos. Vire com uma espátula e deixe por mais 1 minuto para dourar por igual. Transfira para um prato e repita com a outra metade, adicionando 1 colher de sopa de manteiga a cada leva.</li>\n<li>Mantenha a frigideira em fogo médio e adicione o restante da manteiga. Assim que derreter, regue com ½ xícara (chá) da água do cozimento. Desligue o fogo e mexa a frigideira, delicadamente, fazendo movimentos circulares até formar um molho liso - ao misturar com a espátula a gordura pode se separar do molho. Se desejar um molho mais ralo, adicione, aos poucos, o restante da água do cozimento e ligue o fogo novamente apenas para aquecer. Transfira para uma molheira.</li>\n<li>Sirva os nhoques de ricota com o molho de manteiga, queijo parmesão em lascas e folhas de manjericão fresca a gosto.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Coloque a ricota numa tigela grande e, com as mãos, quebre e esfarele em pequenos pedaços.</li>\n<li>Numa tigela separada, quebre os ovos, um de cada vez, e junte à ricota - se um estiver estragado você não perde a receita. Adicione o queijo ralado e o sal e amasse bem com as mãos para misturar. Junte a farinha e amasse novamente, até formar uma massa lisa. Cubra com filme e deixe na geladeira por 15 minutos para firmar.</li>\n<li>Para modelar os nhoques: com as mãos, separe uma porção da massa, enrole do tamanho de uma bola de gude e achate levemente. Transfira para uma assadeira e repita o mesmo processo com o restante da massa. Se preferir, faça rolinhos e, com uma faca, corte a cada 2 cm para formar os nhoques.</li>\n<li>Leve ao fogo alto uma caçarola média com água. Assim que ferver, adicione 1 colher (sopa) de sal. Com uma escumadeira, mergulhe cerca de 15 nhoques por vez. Deixe cozinhar por mais 2 minutos depois que subirem à superfície. Pesque os nhoques cozidos com a escumadeira, escorrendo bem a água, e transfira para uma travessa. Cozinhe o restante e reserve 1 xícara (chá) da água do cozimento - ela será utilizada para fazer o molho.</li>\n<li>Leve uma frigideira grande ao fogo médio. Quando aquecer, adicione 1 colher (sopa) de manteiga e disponha metade dos nhoques na frigideira. Deixe por cerca de 2 minutos. Vire com uma espátula e deixe por mais 1 minuto para dourar por igual. Transfira para um prato e repita com a outra metade, adicionando 1 colher de sopa de manteiga a cada leva.</li>\n<li>Mantenha a frigideira em fogo médio e adicione o restante da manteiga. Assim que derreter, regue com ½ xícara (chá) da água do cozimento. Desligue o fogo e mexa a frigideira, delicadamente, fazendo movimentos circulares até formar um molho liso - ao misturar com a espátula a gordura pode se separar do molho. Se desejar um molho mais ralo, adicione, aos poucos, o restante da água do cozimento e ligue o fogo novamente apenas para aquecer. Transfira para uma molheira.</li>\n<li>Sirva os nhoques de ricota com o molho de manteiga, queijo parmesão em lascas e folhas de manjericão fresca a gosto.</li>\n</ol>\n"
+}

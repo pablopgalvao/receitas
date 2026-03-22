@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bm15a07ffholy2cth14mz",
+  "title": "Salada de abobrinha com hortelã",
+  "slug": "receitas/salada_de_abobrinha_com_hortel",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada_de_abobrinha_com_hortel/cmn2bm15a07ffholy2cth14mz/",
+  "deeplink": "boil://receita?rid=cmn2bm15a07ffholy2cth14mz",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_abobrinha_com_hortel.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_abobrinha_com_hortel.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_abobrinha_com_hortel.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_abobrinha_com_hortel.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_abobrinha_com_hortel.jpg"
+  },
+  "ingredients": [
+    "Salada de abobrinha com salsinha e lascas de parmesão",
+    "Abobrinha marinada com limão e salsinha",
+    "pimenta-do-reino em grãos moída na hora a gosto",
+    "3 colheres (sopa) de caldo de limão",
+    "6 colheres (sopa) de azeite",
+    "sal a gosto"
+  ],
+  "steps": [
+    "Lave abobrinha e as folhas de hortelã sob água corrente e seque bem.",
+    "Com a ajuda de um fatiador de legumes (com cuidado para não cortar a mão), faça fatias finas de abobrinha no sentido do comprimento.",
+    "Transfira para uma travessa e junte as folhas de hortelã. Tempere com pimenta-do-reino moída na hora e regue com o molho de limão.",
+    "Regue a salada com o molho. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Salada de abobrinha com hortelã",
+    "caption_medium": "Salada de abobrinha com hortelã Ingredientes: Salada de abobrinha com salsinha e lascas de parmesão, Abobrinha marinada com limão e salsinha, pimenta-do-reino em grãos moída na hora a gosto, 3 colheres (sopa) de caldo de limão, 6 colheres (sopa) de azeite. Modo de preparo: Lave abobrinha e as folhas de hortelã sob água corrente e seque bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#fácil",
+      "#rápido"
+    ]
+  }
+}

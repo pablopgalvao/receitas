@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bly0x02ehholyd4p32p4i",
+  "title": "Batata rústica assada com ervas",
+  "slug": "receitas/batata_r_stica_assada_com_ervas",
+  "url": "https://receitas.pgalvao.com.br/receitas/batata_r_stica_assada_com_ervas/cmn2bly0x02ehholyd4p32p4i/",
+  "deeplink": "boil://receita?rid=cmn2bly0x02ehholyd4p32p4i",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_r_stica_assada_com_ervas.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_r_stica_assada_com_ervas.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_r_stica_assada_com_ervas.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_r_stica_assada_com_ervas.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batata_r_stica_assada_com_ervas.jpg"
+  },
+  "ingredients": [
+    "3 colheres (sopa) de azeite",
+    "sal e pimenta-do-reino moída na hora a gosto"
+  ],
+  "steps": [
+    "Preaqueça o forno a 200 °C (temperatura média). Lave e seque bem as batatas e as ervas.",
+    "Numa tábua, corte as batatas em gomos: sempre no sentido do comprimento, vá cortando em metades até formar gomos na espessura que desejar. No , gostamos deles mais gordinhos.",
+    "Transfira os gomos para uma panela, cubra com água e tempere com uma colher (chá) de sal (comum ou grosso). Leve ao fogo alto e, quando água começar a ferver, deixe cozinhar por 6 minutos.",
+    "Retire do fogo, passe as batatas para uma peneira e deixe por alguns minutos para escorrer bem a água - esse é um dos segredos para deixar crocante os legumes assados.",
+    "Transfira para uma assadeira (de preferência antiaderente), junte as ervas, os dentes de alho com casca e regue com o azeite. Misture bem para envolver as batatas e ervas com o azeite. Espalhe os gomos na assadeira, sem encostar ou sobrepor - quanto mais espaço entre eles mais crocantes e dourados ficam.",
+    "Tempere com sal grosso e pimenta-do-reino moída na hora. Leve ao forno preaquecido para assar por cerca de 40 minutos. Chacoalhe a assadeira de tempos em tempos ou, na metade do tempo, vire os pedaços com uma pinça.",
+    "Retire do forno e, com ajuda de uma espátula, solte as batatas da assadeira. Sirva imediatamente."
+  ],
+  "social": {
+    "caption_short": "Batata rústica assada com ervas",
+    "caption_medium": "Batata rústica assada com ervas Ingredientes: 3 colheres (sopa) de azeite, sal e pimenta-do-reino moída na hora a gosto. Modo de preparo: Preaqueça o forno a 200 °C (temperatura média). Lave e seque bem as batatas e as ervas.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#popular",
+      "#saudável"
+    ]
+  }
+}

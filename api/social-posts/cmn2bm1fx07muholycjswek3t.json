@@ -1,0 +1,45 @@
+{
+  "id": "cmn2bm1fx07muholycjswek3t",
+  "title": "Sanduíche de croissant",
+  "slug": "receitas/sanduiche-de-croissant__d11797a2",
+  "url": "https://receitas.pgalvao.com.br/receitas/sanduiche-de-croissant__d11797a2/cmn2bm1fx07muholycjswek3t/",
+  "deeplink": "boil://receita?rid=cmn2bm1fx07muholycjswek3t",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sanduiche-de-croissant__d11797a2_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sanduiche-de-croissant__d11797a2_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sanduiche-de-croissant__d11797a2_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sanduiche-de-croissant__d11797a2_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sanduiche-de-croissant__d11797a2_01.webp"
+  },
+  "ingredients": [
+    "Croissant",
+    "Queijo",
+    "Peito de peru defumado",
+    "Rúcula",
+    "Tomate-cereja"
+  ],
+  "steps": [
+    "Prepare o croissant cortando-o no meio e recheando com os ingredientes.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Sanduíche de croissant",
+    "caption_medium": "Sanduíche de croissant Ingredientes: Croissant, Queijo, Peito de peru defumado, Rúcula, Tomate-cereja. Modo de preparo: Prepare o croissant cortando-o no meio e recheando com os ingredientes.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

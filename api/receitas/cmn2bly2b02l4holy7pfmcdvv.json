@@ -1,0 +1,77 @@
+{
+  "id": "cmn2bly2b02l4holy7pfmcdvv",
+  "title": "Bobó de Frango",
+  "slug": "receitas/bob_de_frango",
+  "url": "https://receitas.pgalvao.com.br/receitas/bob_de_frango/cmn2bly2b02l4holy7pfmcdvv/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bly2b02l4holy7pfmcdvv.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bly2b02l4holy7pfmcdvv.json",
+  "deeplink": "boil://receita?rid=cmn2bly2b02l4holy7pfmcdvv",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:35.355Z",
+  "time": "25 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "brasil",
+    "saudável",
+    "tradicional"
+  ],
+  "ingredients": [
+    "Saltimboca de frango (bifinho de frango com bacon e sálvia)",
+    "½ xícara (chá) de leite de coco (cerca de 120 ml) de preferência caseiro",
+    "4 colheres (sopa) de azeite",
+    "1 colher (sopa) de azeite de dendê",
+    "¼ de xícara (chá) de folhas de coentro",
+    "sal a gosto",
+    "Corte a mandioca em pedaços médios e transfira para uma panela de pressão. Cubra com água, regue com 1 colher (sopa) de azeite de oliva, tampe e leve ao fogo médio. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.",
+    "Após os 25 minutos, desligue o fogo e deixe toda a pressão sair antes de abrir a panela. Reserve a água do cozimento e transfira a mandioca para o copo do liquidificador. Junte 1 xícara (chá) da água do cozimento e bata até formar um creme liso. Reserve.",
+    "Leve ao fogo médio uma panela grande. Quando estiver quente, regue com 2 colheres (sopa) de azeite e doure os cubos de frango aos poucos, sem cobrir todo o fundo da panela - se colocar todos numa tacada só, em vez de selar e dourar, vão cozinhar no próprio líquido. Vire os cubos com uma pinça para dourar por igual. Transfira para outra tigela e repita com o restante do frango (não descarte o caldo de limão).",
+    "Acrescente o creme de mandioca ao refogado e misture bem. Quando ferver, volte o frango (com o caldo) para a panela, misture e deixe cozinhar por cerca de 2 minutos. Junte o leite de coco, o azeite de dendê e misture bem. Prove e tempere com sal a gosto.",
+    "Desligue o fogo, salpique com as folhas de coentro e sirva a seguir acompanhado de arroz branco."
+  ],
+  "steps": [
+    "Corte a mandioca em pedaços médios e transfira para uma panela de pressão. Cubra com água, regue com 1 colher (sopa) de azeite de oliva, tampe e leve ao fogo médio. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.",
+    "Enquanto a mandioca cozinha, prepare os outros ingredientes: corte o frango em cubos médios de cerca de 2,5 cm, transfira para uma tigela e tempere com o caldo de limão; descasque e pique fino a cebola e o alho; lave, seque, retire as sementes e corte o pimentão e o tomate em cubinhos; lave e seque as folhas de coentro; retire as sementes e fatie fino a pimenta dedo-de-moça (para deixar o bobó mais apimentado, fatie com as sementes).",
+    "Após os 25 minutos, desligue o fogo e deixe toda a pressão sair antes de abrir a panela. Reserve a água do cozimento e transfira a mandioca para o copo do liquidificador. Junte 1 xícara (chá) da água do cozimento e bata até formar um creme liso. Reserve.",
+    "Leve ao fogo médio uma panela grande. Quando estiver quente, regue com 2 colheres (sopa) de azeite e doure os cubos de frango aos poucos, sem cobrir todo o fundo da panela - se colocar todos numa tacada só, em vez de selar e dourar, vão cozinhar no próprio líquido. Vire os cubos com uma pinça para dourar por igual. Transfira para outra tigela e repita com o restante do frango (não descarte o caldo de limão).",
+    "Mantenha a panela em fogo médio e faça a deglaçagem: regue com 1 xícara (chá) da água do cozimento da mandioca e o caldo de limão em que o frango foi temperado; misture bem, raspando os queimadinhos formados no fundo. Transfira esse caldo para a tigela com o frango, passando por uma peneira.",
+    "Diminua o fogo para baixo e, na mesma panela, adicione o azeite restante, a cebola e o pimentão. Refogue por 2 minutos, mexendo de vez em quando, até murchar. Junte o tomate e misture até desmanchar os cubinhos. Por último, adicione o alho e a pimenta dedo-de-moça. Refogue por mais 1 minuto.",
+    "Acrescente o creme de mandioca ao refogado e misture bem. Quando ferver, volte o frango (com o caldo) para a panela, misture e deixe cozinhar por cerca de 2 minutos. Junte o leite de coco, o azeite de dendê e misture bem. Prove e tempere com sal a gosto.",
+    "Desligue o fogo, salpique com as folhas de coentro e sirva a seguir acompanhado de arroz branco."
+  ],
+  "excerpt": "Bobó de Frango. Tempo de preparo: 25 min. Ingrediente em destaque: Saltimboca de frango (bifinho de frango com bacon e sálvia). Comece assim: Corte a mandioca em pedaços médios e transfira para uma panela de pressão. Cubra com água, regue com 1 colher (sopa) de azeite de oliva, tampe e leve ao fogo médio. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.",
+  "social": {
+    "caption_short": "Bobó de Frango",
+    "caption_medium": "Bobó de Frango Ingredientes: Saltimboca de frango (bifinho de frango com bacon e sálvia), ½ xícara (chá) de leite de coco (cerca de 120 ml) de preferência caseiro, 4 colheres (sopa) de azeite, 1 colher (sopa) de azeite de dendê, ¼ de xícara (chá) de folhas de coentro. Modo de preparo: Corte a mandioca em pedaços médios e transfira para uma panela de pressão. Cubra com água, regue com 1 colher (sopa) de azeite de oliva, tampe e leve ao fogo médio. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#brasil",
+      "#saudável",
+      "#tradicional"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bob_de_frango.jpg\" alt=\"Bobó de Frango\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 25 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Saltimboca de frango (bifinho de frango com bacon e sálvia)</li>\n<li>½ xícara (chá) de leite de coco (cerca de 120 ml) de preferência caseiro</li>\n<li>4 colheres (sopa) de azeite</li>\n<li>1 colher (sopa) de azeite de dendê</li>\n<li>¼ de xícara (chá) de folhas de coentro</li>\n<li>sal a gosto</li>\n<li>Corte a mandioca em pedaços médios e transfira para uma panela de pressão. Cubra com água, regue com 1 colher (sopa) de azeite de oliva, tampe e leve ao fogo médio. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.</li>\n<li>Após os 25 minutos, desligue o fogo e deixe toda a pressão sair antes de abrir a panela. Reserve a água do cozimento e transfira a mandioca para o copo do liquidificador. Junte 1 xícara (chá) da água do cozimento e bata até formar um creme liso. Reserve.</li>\n<li>Leve ao fogo médio uma panela grande. Quando estiver quente, regue com 2 colheres (sopa) de azeite e doure os cubos de frango aos poucos, sem cobrir todo o fundo da panela - se colocar todos numa tacada só, em vez de selar e dourar, vão cozinhar no próprio líquido. Vire os cubos com uma pinça para dourar por igual. Transfira para outra tigela e repita com o restante do frango (não descarte o caldo de limão).</li>\n<li>Acrescente o creme de mandioca ao refogado e misture bem. Quando ferver, volte o frango (com o caldo) para a panela, misture e deixe cozinhar por cerca de 2 minutos. Junte o leite de coco, o azeite de dendê e misture bem. Prove e tempere com sal a gosto.</li>\n<li>Desligue o fogo, salpique com as folhas de coentro e sirva a seguir acompanhado de arroz branco.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Corte a mandioca em pedaços médios e transfira para uma panela de pressão. Cubra com água, regue com 1 colher (sopa) de azeite de oliva, tampe e leve ao fogo médio. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 25 minutos.</li>\n<li>Enquanto a mandioca cozinha, prepare os outros ingredientes: corte o frango em cubos médios de cerca de 2,5 cm, transfira para uma tigela e tempere com o caldo de limão; descasque e pique fino a cebola e o alho; lave, seque, retire as sementes e corte o pimentão e o tomate em cubinhos; lave e seque as folhas de coentro; retire as sementes e fatie fino a pimenta dedo-de-moça (para deixar o bobó mais apimentado, fatie com as sementes).</li>\n<li>Após os 25 minutos, desligue o fogo e deixe toda a pressão sair antes de abrir a panela. Reserve a água do cozimento e transfira a mandioca para o copo do liquidificador. Junte 1 xícara (chá) da água do cozimento e bata até formar um creme liso. Reserve.</li>\n<li>Leve ao fogo médio uma panela grande. Quando estiver quente, regue com 2 colheres (sopa) de azeite e doure os cubos de frango aos poucos, sem cobrir todo o fundo da panela - se colocar todos numa tacada só, em vez de selar e dourar, vão cozinhar no próprio líquido. Vire os cubos com uma pinça para dourar por igual. Transfira para outra tigela e repita com o restante do frango (não descarte o caldo de limão).</li>\n<li>Mantenha a panela em fogo médio e faça a deglaçagem: regue com 1 xícara (chá) da água do cozimento da mandioca e o caldo de limão em que o frango foi temperado; misture bem, raspando os queimadinhos formados no fundo. Transfira esse caldo para a tigela com o frango, passando por uma peneira.</li>\n<li>Diminua o fogo para baixo e, na mesma panela, adicione o azeite restante, a cebola e o pimentão. Refogue por 2 minutos, mexendo de vez em quando, até murchar. Junte o tomate e misture até desmanchar os cubinhos. Por último, adicione o alho e a pimenta dedo-de-moça. Refogue por mais 1 minuto.</li>\n<li>Acrescente o creme de mandioca ao refogado e misture bem. Quando ferver, volte o frango (com o caldo) para a panela, misture e deixe cozinhar por cerca de 2 minutos. Junte o leite de coco, o azeite de dendê e misture bem. Prove e tempere com sal a gosto.</li>\n<li>Desligue o fogo, salpique com as folhas de coentro e sirva a seguir acompanhado de arroz branco.</li>\n</ol>\n"
+}

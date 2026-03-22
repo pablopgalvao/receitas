@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bm12i07cuholyb7639wbp",
+  "title": "Salada de macarrão com atum light",
+  "slug": "receitas/salada-de-macarrao-com-atum-light__5d046292",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-de-macarrao-com-atum-light__5d046292/cmn2bm12i07cuholyb7639wbp/",
+  "deeplink": "boil://receita?rid=cmn2bm12i07cuholyb7639wbp",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-atum-light__5d046292_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-atum-light__5d046292_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-atum-light__5d046292_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-atum-light__5d046292_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-atum-light__5d046292_01.webp"
+  },
+  "ingredients": [
+    "2 colheres de sopa de azeite",
+    "3 colheres de sopa de creme de ricota (ou maionese light)",
+    "1 colher de sobremesa de mostarda dijon",
+    "3 colheres de sopa de leite"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um refratário, adicione o macarrão cozido, as ervilhas, o milho-verde, o atum, o tomate, a cebola, a salsinha, as nozes e misture. Reserve;",
+    "Reúna os ingredientes do molho;",
+    "Em uma recipiente pequena, coloque o azeite, o creme de ricota, a mostarda e misture bem;",
+    "Gradualmente vá acrescentando o leite e misturando bem até chegar na consistência que você desejar;",
+    "Despeje o molho sobre a salada, tempere com sal, pimenta e misture bem;",
+    "Agora é só servir."
+  ],
+  "social": {
+    "caption_short": "Salada de macarrão com atum light",
+    "caption_medium": "Salada de macarrão com atum light Ingredientes: 2 colheres de sopa de azeite, 3 colheres de sopa de creme de ricota (ou maionese light), 1 colher de sobremesa de mostarda dijon, 3 colheres de sopa de leite. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cmn2blyzl04u7holy8u166ugq",
+  "title": "Frango com crosta de parmesão e panzanella de frigideira (salada morna)",
+  "slug": "receitas/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna",
+  "url": "https://receitas.pgalvao.com.br/receitas/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna/cmn2blyzl04u7holy8u166ugq/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blyzl04u7holy8u166ugq.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blyzl04u7holy8u166ugq.json",
+  "deeplink": "boil://receita?rid=cmn2blyzl04u7holy8u166ugq",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:47.537Z",
+  "time": "2 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "saudável",
+    "rápido"
+  ],
+  "ingredients": [
+    "2 xícaras (chá) de pão ciabatta cortado em cubos (ou outro pão amanhecido)",
+    "1 colher (chá) de vinagre balsâmico",
+    "10 ramos de salsinha",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Descasque e pique fino o dente de alho. Lave, seque e pique grosseiramente a salsinha.",
+    "Leve uma frigideira grande antiaderente ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione a abobrinha e tempere com uma pitada de sal. Deixe dourar, mexendo de vez em quando, por 2 minutos. Junte os cubos de pão e mexa por mais 2 minutos.",
+    "Mantenha a frigideira em fogo médio e regue com 2 colheres (sopa) de azeite. Acrescente a vagem, tempere com sal e pimenta e refogue por 2 minutos até dourar levemente e começarem a ficar macias – elas ainda devem estar resistentes a mordida. Junte o alho e mexa por 1 min para perfumar.",
+    "Transfira para uma tigela e misture a salsinha picada e o vinagre o balsâmico. Regue com mais um fio de azeite.",
+    "½ xícara (chá) de queijo parmesão ralado fino (cerca de 40 g)",
+    "½ colher (chá) de páprica doce",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Num prato fundo quebre o ovo e bata com o garfo apenas para misturar a clara com a gema. Tempere com a páprica, as raspas de limão, uma pitada de sal e de pimenta. Coloque o queijo ralado num prato raso.",
+    "Volte a frigideira ao fogo médio. Quando estiver bem quente, regue com ½ colher (sopa) de azeite e coloque 2 bifes um ao lado do outro, com a parte do queijo para baixo. Deixe dourar por cerca de 3 minutos, até formar uma crosta dourada – pressione delicadamente com uma espátula para manter o formato achatado do bife e a crosta de parmesão grudar bem."
+  ],
+  "steps": [
+    "Prepare os ingredientes. Corte o pão em cubos de 1 cm. Lave e seque a abobrinha e as vagens. Corte e descarte as pontinhas das vagens. Fatie, na diagonal, em pedaços de 3 cm. Corte as abobrinhas em cubos. (Descarte as pontas e corte a abobrinha ao meio, no sentido da largura. Corte as metades ao meio novamente, no sentido do comprimento. Fatie a parte mais fina em 2 tiras e a mais grossa em 3 tiras. E então corte as tiras em pedaços de 1,5 cm.)",
+    "Descasque e pique fino o dente de alho. Lave, seque e pique grosseiramente a salsinha.",
+    "Leve uma frigideira grande antiaderente ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione a abobrinha e tempere com uma pitada de sal. Deixe dourar, mexendo de vez em quando, por 2 minutos. Junte os cubos de pão e mexa por mais 2 minutos.",
+    "Mantenha a frigideira em fogo médio e regue com 2 colheres (sopa) de azeite. Acrescente a vagem, tempere com sal e pimenta e refogue por 2 minutos até dourar levemente e começarem a ficar macias – elas ainda devem estar resistentes a mordida. Junte o alho e mexa por 1 min para perfumar.",
+    "Transfira para uma tigela e misture a salsinha picada e o vinagre o balsâmico. Regue com mais um fio de azeite."
+  ],
+  "excerpt": "Frango com crosta de parmesão e panzanella de frigideira (salada morna). Tempo de preparo: 2 min. Ingrediente em destaque: 2 xícaras (chá) de pão ciabatta cortado em cubos (ou outro pão amanhecido). Comece assim: Prepare os ingredientes. Corte o pão em cubos de 1 cm. Lave e seque a abobrinha e as vagens. Corte e descarte as pontinhas das vagens. Fatie, na diagonal, em pedaços de 3 cm. Corte as abobrinhas em cubos. (Descarte as pontas e corte a abobrinha ao meio, no sentido da largura. Corte as metades ao meio novamente, no sentido do comprimento. Fatie a parte mais fina em 2 tiras e a mais grossa em 3 tiras. E então corte as tiras em pedaços de 1,5 cm.)",
+  "social": {
+    "caption_short": "Frango com crosta de parmesão e panzanella de frigideira (salada morna)",
+    "caption_medium": "Frango com crosta de parmesão e panzanella de frigideira (salada morna) Ingredientes: 2 xícaras (chá) de pão ciabatta cortado em cubos (ou outro pão amanhecido), 1 colher (chá) de vinagre balsâmico, 10 ramos de salsinha, sal e pimenta-do-reino moída na hora a gosto, Descasque e pique fino o dente de alho. Lave, seque e pique grosseiramente a salsinha.. Modo de preparo: Prepare os ingredientes. Corte o pão em cubos de 1 cm. Lave e seque a abobrinha e as vagens. Corte e descarte as pontinhas das vagens. Fatie, na diagonal, em pedaços de 3 cm. Corte as abobrinhas em cubos. (Descarte as pontas e corte a abobrinha ao meio, no sentido da largura. Corte as metades ao meio novamente, no sentido do comprimento. Fatie a parte mais fina em 2 tiras e a mais grossa em 3 tiras. E então corte as tiras em pedaços de 1,5 cm.)",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#saudável",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/frango_com_crosta_de_parmes_o_e_panzanella_de_frigideira_salada_morna.jpg\" alt=\"Frango com crosta de parmesão e panzanella de frigideira (salada morna)\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 2 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>2 xícaras (chá) de pão ciabatta cortado em cubos (ou outro pão amanhecido)</li>\n<li>1 colher (chá) de vinagre balsâmico</li>\n<li>10 ramos de salsinha</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>Descasque e pique fino o dente de alho. Lave, seque e pique grosseiramente a salsinha.</li>\n<li>Leve uma frigideira grande antiaderente ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione a abobrinha e tempere com uma pitada de sal. Deixe dourar, mexendo de vez em quando, por 2 minutos. Junte os cubos de pão e mexa por mais 2 minutos.</li>\n<li>Mantenha a frigideira em fogo médio e regue com 2 colheres (sopa) de azeite. Acrescente a vagem, tempere com sal e pimenta e refogue por 2 minutos até dourar levemente e começarem a ficar macias – elas ainda devem estar resistentes a mordida. Junte o alho e mexa por 1 min para perfumar.</li>\n<li>Transfira para uma tigela e misture a salsinha picada e o vinagre o balsâmico. Regue com mais um fio de azeite.</li>\n<li>½ xícara (chá) de queijo parmesão ralado fino (cerca de 40 g)</li>\n<li>½ colher (chá) de páprica doce</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>Num prato fundo quebre o ovo e bata com o garfo apenas para misturar a clara com a gema. Tempere com a páprica, as raspas de limão, uma pitada de sal e de pimenta. Coloque o queijo ralado num prato raso.</li>\n<li>Volte a frigideira ao fogo médio. Quando estiver bem quente, regue com ½ colher (sopa) de azeite e coloque 2 bifes um ao lado do outro, com a parte do queijo para baixo. Deixe dourar por cerca de 3 minutos, até formar uma crosta dourada – pressione delicadamente com uma espátula para manter o formato achatado do bife e a crosta de parmesão grudar bem.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Prepare os ingredientes. Corte o pão em cubos de 1 cm. Lave e seque a abobrinha e as vagens. Corte e descarte as pontinhas das vagens. Fatie, na diagonal, em pedaços de 3 cm. Corte as abobrinhas em cubos. (Descarte as pontas e corte a abobrinha ao meio, no sentido da largura. Corte as metades ao meio novamente, no sentido do comprimento. Fatie a parte mais fina em 2 tiras e a mais grossa em 3 tiras. E então corte as tiras em pedaços de 1,5 cm.)</li>\n<li>Descasque e pique fino o dente de alho. Lave, seque e pique grosseiramente a salsinha.</li>\n<li>Leve uma frigideira grande antiaderente ao fogo médio. Quando aquecer, regue com 2 colheres (sopa) de azeite, adicione a abobrinha e tempere com uma pitada de sal. Deixe dourar, mexendo de vez em quando, por 2 minutos. Junte os cubos de pão e mexa por mais 2 minutos.</li>\n<li>Mantenha a frigideira em fogo médio e regue com 2 colheres (sopa) de azeite. Acrescente a vagem, tempere com sal e pimenta e refogue por 2 minutos até dourar levemente e começarem a ficar macias – elas ainda devem estar resistentes a mordida. Junte o alho e mexa por 1 min para perfumar.</li>\n<li>Transfira para uma tigela e misture a salsinha picada e o vinagre o balsâmico. Regue com mais um fio de azeite.</li>\n</ol>\n"
+}

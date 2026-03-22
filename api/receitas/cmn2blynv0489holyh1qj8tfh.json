@@ -1,0 +1,75 @@
+{
+  "id": "cmn2blynv0489holyh1qj8tfh",
+  "title": "Devilled eggs",
+  "slug": "receitas/devilled_eggs",
+  "url": "https://receitas.pgalvao.com.br/receitas/devilled_eggs/cmn2blynv0489holyh1qj8tfh/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blynv0489holyh1qj8tfh.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blynv0489holyh1qj8tfh.json",
+  "deeplink": "boil://receita?rid=cmn2blynv0489holyh1qj8tfh",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/devilled_eggs.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/devilled_eggs.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/devilled_eggs.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/devilled_eggs.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/devilled_eggs.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:41.953Z",
+  "time": "12 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "prático",
+    "saudável",
+    "fácil"
+  ],
+  "ingredients": [
+    "Ovos cozidos com temperos mediterrâneos",
+    "Ovo mexido com cogumelos grelhados e farofinha de pão",
+    "⅓ de xícara (chá) de maionese caseira",
+    "1 colher (sopa) de mostarda amarela",
+    "1 colher (chá) de vinagre de vinho branco",
+    "½ colher (chá) de páprica picante",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Leve uma panela com água ao fogo alto. Assim que ferver, mergulhe os ovos com uma escumadeira, diminua o fogo para médio e deixe cozinhar por 12 minutos. Se você colocar o ovo com cuidado, a casca não trinca, mas se preferir, com uma agulha faça um furinho na base do ovo e adicione caldo de limão à água (ele ajuda a manter a casca do ovo sem rachaduras).",
+    "Desligue o fogo, e com a escumadeira, transfira os ovos cozidos para uma tigela com água e gelo. Deixe esfriar completamente antes de descascar.",
+    "Corte os ovos descascados ao meio, no sentido do comprimento, com cuidado para não rachar as claras. Com uma colher pequena, transfira as gemas cozidas para uma tigela e disponha as metades de claras num prato, com a parte oca virada para cima.",
+    "Com duas colheres de chá (ou saco de confeiteiro), preencha as cavidades das claras com a pastinha de gemas e leve à geladeira até a hora de servir. Polvilhe com páprica a gosto na hora de servir."
+  ],
+  "steps": [
+    "Leve uma panela com água ao fogo alto. Assim que ferver, mergulhe os ovos com uma escumadeira, diminua o fogo para médio e deixe cozinhar por 12 minutos. Se você colocar o ovo com cuidado, a casca não trinca, mas se preferir, com uma agulha faça um furinho na base do ovo e adicione caldo de limão à água (ele ajuda a manter a casca do ovo sem rachaduras).",
+    "Desligue o fogo, e com a escumadeira, transfira os ovos cozidos para uma tigela com água e gelo. Deixe esfriar completamente antes de descascar.",
+    "Para descascar os ovos: delicadamente, bata as pontas dos ovos na bancada. Role cada um na bancada, pressionando levemente com a palma da mão até a casca ficar toda rachada. Retire as casquinhas quebradas com cuidado para não machucar o ovo, mergulhando os ovos na tigela com água ou sob água corrente.",
+    "Corte os ovos descascados ao meio, no sentido do comprimento, com cuidado para não rachar as claras. Com uma colher pequena, transfira as gemas cozidas para uma tigela e disponha as metades de claras num prato, com a parte oca virada para cima.",
+    "Para fazer o recheio: no mini-processador, junte as gemas cozidas, a maionese, a mostarda, o vinagre e a páprica. Bata bem até formar uma pastinha (se preferir, amasse os ingredientes com um garfo). Prove e tempere com sal e pimenta a gosto – cuidado, algumas mostardas são mais salgadas que outras.",
+    "Com duas colheres de chá (ou saco de confeiteiro), preencha as cavidades das claras com a pastinha de gemas e leve à geladeira até a hora de servir. Polvilhe com páprica a gosto na hora de servir."
+  ],
+  "excerpt": "Devilled eggs. Tempo de preparo: 12 min. Ingrediente em destaque: Ovos cozidos com temperos mediterrâneos. Comece assim: Leve uma panela com água ao fogo alto. Assim que ferver, mergulhe os ovos com uma escumadeira, diminua o fogo para médio e deixe cozinhar por 12 minutos. Se você colocar o ovo com cuidado, a casca não trinca, mas se preferir, com uma agulha faça um furinho na base do ovo e adicione caldo de limão à água (ele ajuda a manter a casca do ovo sem rachaduras).",
+  "social": {
+    "caption_short": "Devilled eggs",
+    "caption_medium": "Devilled eggs Ingredientes: Ovos cozidos com temperos mediterrâneos, Ovo mexido com cogumelos grelhados e farofinha de pão, ⅓ de xícara (chá) de maionese caseira, 1 colher (sopa) de mostarda amarela, 1 colher (chá) de vinagre de vinho branco. Modo de preparo: Leve uma panela com água ao fogo alto. Assim que ferver, mergulhe os ovos com uma escumadeira, diminua o fogo para médio e deixe cozinhar por 12 minutos. Se você colocar o ovo com cuidado, a casca não trinca, mas se preferir, com uma agulha faça um furinho na base do ovo e adicione caldo de limão à água (ele ajuda a manter a casca do ovo sem rachaduras).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#saudável",
+      "#fácil"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/devilled_eggs.jpg\" alt=\"Devilled eggs\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 12 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Ovos cozidos com temperos mediterrâneos</li>\n<li>Ovo mexido com cogumelos grelhados e farofinha de pão</li>\n<li>⅓ de xícara (chá) de maionese caseira</li>\n<li>1 colher (sopa) de mostarda amarela</li>\n<li>1 colher (chá) de vinagre de vinho branco</li>\n<li>½ colher (chá) de páprica picante</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>Leve uma panela com água ao fogo alto. Assim que ferver, mergulhe os ovos com uma escumadeira, diminua o fogo para médio e deixe cozinhar por 12 minutos. Se você colocar o ovo com cuidado, a casca não trinca, mas se preferir, com uma agulha faça um furinho na base do ovo e adicione caldo de limão à água (ele ajuda a manter a casca do ovo sem rachaduras).</li>\n<li>Desligue o fogo, e com a escumadeira, transfira os ovos cozidos para uma tigela com água e gelo. Deixe esfriar completamente antes de descascar.</li>\n<li>Corte os ovos descascados ao meio, no sentido do comprimento, com cuidado para não rachar as claras. Com uma colher pequena, transfira as gemas cozidas para uma tigela e disponha as metades de claras num prato, com a parte oca virada para cima.</li>\n<li>Com duas colheres de chá (ou saco de confeiteiro), preencha as cavidades das claras com a pastinha de gemas e leve à geladeira até a hora de servir. Polvilhe com páprica a gosto na hora de servir.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Leve uma panela com água ao fogo alto. Assim que ferver, mergulhe os ovos com uma escumadeira, diminua o fogo para médio e deixe cozinhar por 12 minutos. Se você colocar o ovo com cuidado, a casca não trinca, mas se preferir, com uma agulha faça um furinho na base do ovo e adicione caldo de limão à água (ele ajuda a manter a casca do ovo sem rachaduras).</li>\n<li>Desligue o fogo, e com a escumadeira, transfira os ovos cozidos para uma tigela com água e gelo. Deixe esfriar completamente antes de descascar.</li>\n<li>Para descascar os ovos: delicadamente, bata as pontas dos ovos na bancada. Role cada um na bancada, pressionando levemente com a palma da mão até a casca ficar toda rachada. Retire as casquinhas quebradas com cuidado para não machucar o ovo, mergulhando os ovos na tigela com água ou sob água corrente.</li>\n<li>Corte os ovos descascados ao meio, no sentido do comprimento, com cuidado para não rachar as claras. Com uma colher pequena, transfira as gemas cozidas para uma tigela e disponha as metades de claras num prato, com a parte oca virada para cima.</li>\n<li>Para fazer o recheio: no mini-processador, junte as gemas cozidas, a maionese, a mostarda, o vinagre e a páprica. Bata bem até formar uma pastinha (se preferir, amasse os ingredientes com um garfo). Prove e tempere com sal e pimenta a gosto – cuidado, algumas mostardas são mais salgadas que outras.</li>\n<li>Com duas colheres de chá (ou saco de confeiteiro), preencha as cavidades das claras com a pastinha de gemas e leve à geladeira até a hora de servir. Polvilhe com páprica a gosto na hora de servir.</li>\n</ol>\n"
+}

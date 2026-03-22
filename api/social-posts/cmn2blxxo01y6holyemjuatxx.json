@@ -1,0 +1,47 @@
+{
+  "id": "cmn2blxxo01y6holyemjuatxx",
+  "title": "Abacate assado com ovo",
+  "slug": "receitas/abacate-assado-com-ovo__2e6f955d",
+  "url": "https://receitas.pgalvao.com.br/receitas/abacate-assado-com-ovo__2e6f955d/cmn2blxxo01y6holyemjuatxx/",
+  "deeplink": "boil://receita?rid=cmn2blxxo01y6holyemjuatxx",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abacate-assado-com-ovo__2e6f955d_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abacate-assado-com-ovo__2e6f955d_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abacate-assado-com-ovo__2e6f955d_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abacate-assado-com-ovo__2e6f955d_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abacate-assado-com-ovo__2e6f955d_01.webp"
+  },
+  "ingredients": [
+    "1 abacate",
+    "Queijo ralado a gosto (opcional)",
+    "2 ovos",
+    "Sal e pimenta-do-reino a gosto (ou outros temperos que preferir)",
+    "Cheiro-verde a gosto para finalizar"
+  ],
+  "steps": [
+    "Higienize o abacate, corte-o ao meio e retire o caroço.",
+    "Na cavidade do caroço, nas duas metades, adicione um punhado de queijo ralado, 1 ovo (em cada parte), sal e pimenta.",
+    "Transfira para uma assadeira e leve ao forno preaquecido a 180 °C entre 10 e 15 minutos.",
+    "Finalize com o cheiro-verde e sirva. Bom apetite!."
+  ],
+  "social": {
+    "caption_short": "Abacate assado com ovo",
+    "caption_medium": "Abacate assado com ovo Ingredientes: 1 abacate, Queijo ralado a gosto (opcional), 2 ovos, Sal e pimenta-do-reino a gosto (ou outros temperos que preferir), Cheiro-verde a gosto para finalizar. Modo de preparo: Higienize o abacate, corte-o ao meio e retire o caroço.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

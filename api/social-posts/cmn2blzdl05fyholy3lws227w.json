@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blzdl05fyholy3lws227w",
+  "title": "Mandioca ao alho",
+  "slug": "receitas/mandioca_ao_alho",
+  "url": "https://receitas.pgalvao.com.br/receitas/mandioca_ao_alho/cmn2blzdl05fyholy3lws227w/",
+  "deeplink": "boil://receita?rid=cmn2blzdl05fyholy3lws227w",
+  "date": "2025-09-20T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mandioca_ao_alho.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mandioca_ao_alho.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mandioca_ao_alho.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mandioca_ao_alho.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/mandioca_ao_alho.webp"
+  },
+  "ingredients": [
+    "1kg de mandioca sem casca em pedaços",
+    "sal a gosto",
+    "4 colheres (sopa) de azeite",
+    "4 dentes de alho fatiados"
+  ],
+  "steps": [
+    "Coloque a mandioca em uma panela de pressão, cubra com água e sal e cozinhe por 25 minutos, em fogo baixo depois de iniciada a pressão.",
+    "Desligue, deixe sair a pressão e abra a panela.",
+    "Retire a mandioca com uma escumadeira e transfira para uma travessa.",
+    "Aqueça uma frigideira com metade do azeite, em fogo médio e frite o alho até dourar.",
+    "Polvilhe sobre a mandioca, tempere com sal a gosto, regue com o azeite restante e sirva em seguida."
+  ],
+  "social": {
+    "caption_short": "Mandioca ao alho",
+    "caption_medium": "Mandioca ao alho Ingredientes: 1kg de mandioca sem casca em pedaços, sal a gosto, 4 colheres (sopa) de azeite, 4 dentes de alho fatiados. Modo de preparo: Coloque a mandioca em uma panela de pressão, cubra com água e sal e cozinhe por 25 minutos, em fogo baixo depois de iniciada a pressão.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#nordeste",
+      "#fácil",
+      "#gostoso"
+    ]
+  }
+}

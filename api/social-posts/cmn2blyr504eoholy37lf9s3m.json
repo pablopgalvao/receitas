@@ -1,0 +1,47 @@
+{
+  "id": "cmn2blyr504eoholy37lf9s3m",
+  "title": "Escarola refogada",
+  "slug": "receitas/escarola_refogada",
+  "url": "https://receitas.pgalvao.com.br/receitas/escarola_refogada/cmn2blyr504eoholy37lf9s3m/",
+  "deeplink": "boil://receita?rid=cmn2blyr504eoholy37lf9s3m",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_refogada.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_refogada.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_refogada.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_refogada.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escarola_refogada.jpg"
+  },
+  "ingredients": [
+    "2 colheres (sopa) de azeite",
+    "sal a gosto",
+    "Destaque as folhas do maço de escarola e lave sob água corrente. Transfira as folhas para uma centrífuga de saladas e seque bem."
+  ],
+  "steps": [
+    "Destaque as folhas do maço de escarola e lave sob água corrente. Transfira as folhas para uma centrífuga de saladas e seque bem.",
+    "Para fatiar as folhas: na tábua, empilhe 5 folhas de cada vez, uma sobre a outra. Enrole formando um charutinho e corte em fatias de 1 cm. Com a lateral da faca, amasse os dentes de alho e descasque – não precisa picar, eles vão apenas perfumar o azeite.",
+    "Leve uma frigideira grande (ou panela) ao fogo médio. Quando aquecer, regue com o azeite, adicione o alho e mexa por 2 minutos apenas para perfumar o azeite.",
+    "Acrescente a escarola e atenção: vá temperando com sal aos poucos pois o volume da verdura refogada diminui bastante e pode ficar salgada no final. Refogue por cerca de 2 minutos, mexendo a escarola de cima para baixo – assim você refoga a verdura por igual, sem ficar com partes cozidas demais e outras cruas. É bem rapidinho mesmo, se a escarola cozinhar demais pode amargar. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Escarola refogada",
+    "caption_medium": "Escarola refogada Ingredientes: 2 colheres (sopa) de azeite, sal a gosto, Destaque as folhas do maço de escarola e lave sob água corrente. Transfira as folhas para uma centrífuga de saladas e seque bem.. Modo de preparo: Destaque as folhas do maço de escarola e lave sob água corrente. Transfira as folhas para uma centrífuga de saladas e seque bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#brasil",
+      "#tradicional"
+    ]
+  }
+}

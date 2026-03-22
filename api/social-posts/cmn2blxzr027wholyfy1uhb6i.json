@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blxzr027wholyfy1uhb6i",
+  "title": "Arroz-doce cremoso",
+  "slug": "receitas/arroz_doce_cremoso",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz_doce_cremoso/cmn2blxzr027wholyfy1uhb6i/",
+  "deeplink": "boil://receita?rid=cmn2blxzr027wholyfy1uhb6i",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_doce_cremoso.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_doce_cremoso.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_doce_cremoso.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_doce_cremoso.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_doce_cremoso.jpg"
+  },
+  "ingredients": [
+    "Arroz-doce com calda de caramelo e flor de sal",
+    "¾ de xícara (chá) de arroz para sushi",
+    "1 xícara (chá) de água",
+    "¾ de xícara (chá) de açúcar",
+    "canela em pó a gosto para servir"
+  ],
+  "steps": [
+    "Numa panela média (com borda alta), junte o leite, a água, o açúcar e o arroz. Misture bem para dissolver o açúcar.",
+    "Com uma faca afiada, retire duas tiras finas da casca do limão sem a parte branca - ela pode amargar a receita - e transfira para a panela. Junte a canela e leve para cozinhar em fogo médio, mexendo de vez em quando para não grudar no fundo.",
+    "Quando começar a ferver, abaixe o fogo, tampe parcialmente a panela e deixe cozinhar por 30 minutos. Mexa de vez em quando para soltar o amido do arroz e, assim, formar um doce cremoso. Lembre-se de tampar (parcialmente) a panela todas as vezes que mexer.",
+    "Passados os 30 minutos, desligue o fogo e transfira o arroz-doce para uma tigela. Deixe esfriar em temperatura ambiente por 10 minutos antes de levar para gelar. A sobremesa fica cremosa após 2 horas de geladeira, no mínimo.",
+    "Sirva frio, polvilhado de canela em pó."
+  ],
+  "social": {
+    "caption_short": "Arroz-doce cremoso",
+    "caption_medium": "Arroz-doce cremoso Ingredientes: Arroz-doce com calda de caramelo e flor de sal, ¾ de xícara (chá) de arroz para sushi, 1 xícara (chá) de água, ¾ de xícara (chá) de açúcar, canela em pó a gosto para servir. Modo de preparo: Numa panela média (com borda alta), junte o leite, a água, o açúcar e o arroz. Misture bem para dissolver o açúcar.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#tradicional",
+      "#fácil",
+      "#rápido"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cmn2blz71056eholy6geiacef",
+  "title": "Lassi de goiaba",
+  "slug": "receitas/lassi_de_goiaba",
+  "url": "https://receitas.pgalvao.com.br/receitas/lassi_de_goiaba/cmn2blz71056eholy6geiacef/",
+  "deeplink": "boil://receita?rid=cmn2blz71056eholy6geiacef",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lassi_de_goiaba.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lassi_de_goiaba.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lassi_de_goiaba.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lassi_de_goiaba.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/lassi_de_goiaba.jpg"
+  },
+  "ingredients": [
+    "1 pote de iogurte natural sem açúcar (170 g ou ⅔ de xícara (chá) de iogurte caseiro)",
+    "1 xícara (chá) de água",
+    "1½ colher (sopa) de mel",
+    "Sobre uma tigela, passe o suco de goiaba por uma peneira, raspando com uma colher para separar as sementes e aproveitar todo o líquido."
+  ],
+  "steps": [
+    "Lave, descasque e corte a goiaba em pedaços grandes – não precisa descartar as sementes. Transfira para o liquidificador, junte a água e bata até ficar liso.",
+    "Sobre uma tigela, passe o suco de goiaba por uma peneira, raspando com uma colher para separar as sementes e aproveitar todo o líquido.",
+    "Volte o suco de goiaba peneirado para o copo do liquidificador, adicione o iogurte, o mel, e os cubos de gelo. Bata bem até triturar os cubos de gelo e formar uma bebida cremosa e refrescante. Divida em dois copos e sirva a seguir (se quiser acrescente mais cubos de gelo na hora de servir)."
+  ],
+  "social": {
+    "caption_short": "Lassi de goiaba",
+    "caption_medium": "Lassi de goiaba Ingredientes: 1 pote de iogurte natural sem açúcar (170 g ou ⅔ de xícara (chá) de iogurte caseiro), 1 xícara (chá) de água, 1½ colher (sopa) de mel, Sobre uma tigela, passe o suco de goiaba por uma peneira, raspando com uma colher para separar as sementes e aproveitar todo o líquido.. Modo de preparo: Lave, descasque e corte a goiaba em pedaços grandes – não precisa descartar as sementes. Transfira para o liquidificador, junte a água e bata até ficar liso.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#popular",
+      "#brasil"
+    ]
+  }
+}

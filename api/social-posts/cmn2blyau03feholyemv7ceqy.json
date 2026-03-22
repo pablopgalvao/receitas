@@ -1,0 +1,46 @@
+{
+  "id": "cmn2blyau03feholyemv7ceqy",
+  "title": "Café gelado com cacau e especiarias",
+  "slug": "receitas/cafe-gelado-com-cacau-e-especiarias__93aa792c",
+  "url": "https://receitas.pgalvao.com.br/receitas/cafe-gelado-com-cacau-e-especiarias__93aa792c/cmn2blyau03feholyemv7ceqy/",
+  "deeplink": "boil://receita?rid=cmn2blyau03feholyemv7ceqy",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cafe-gelado-com-cacau-e-especiarias__93aa792c_01.webp"
+  },
+  "ingredients": [
+    "½ xícara (chá) de café (coado, de prensa ou italiano)",
+    "3 colheres (sopa) de leite",
+    "1 colher (sopa) de cacau em pó",
+    "1 colher (sopa) de açúcar",
+    "¼ de colher (chá) de canela em pó",
+    "1 pitada de pimenta-de-caiena",
+    "½ xícara (chá) de cubos de gelo"
+  ],
+  "steps": [
+    "Coloque todos os ingredientes num pote de vidro (com tampa), feche e chacoalhe bem para misturar, até formar uma espuminha. Sirva a seguir com mais cubos de gelo a gosto."
+  ],
+  "social": {
+    "caption_short": "Café gelado com cacau e especiarias",
+    "caption_medium": "Café gelado com cacau e especiarias Ingredientes: ½ xícara (chá) de café (coado, de prensa ou italiano), 3 colheres (sopa) de leite, 1 colher (sopa) de cacau em pó, 1 colher (sopa) de açúcar, ¼ de colher (chá) de canela em pó. Modo de preparo: Coloque todos os ingredientes num pote de vidro (com tampa), feche e chacoalhe bem para misturar, até formar uma espuminha. Sirva a seguir com mais cubos de gelo a gosto.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

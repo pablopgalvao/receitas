@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blyxc04q1holy6wap7mdt",
+  "title": "Fondue de queijo e abóbora",
+  "slug": "receitas/fondue-de-queijo-e-abobora__4b83586c",
+  "url": "https://receitas.pgalvao.com.br/receitas/fondue-de-queijo-e-abobora__4b83586c/cmn2blyxc04q1holy6wap7mdt/",
+  "deeplink": "boil://receita?rid=cmn2blyxc04q1holy6wap7mdt",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-e-abobora__4b83586c_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-e-abobora__4b83586c_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-e-abobora__4b83586c_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-e-abobora__4b83586c_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fondue-de-queijo-e-abobora__4b83586c_01.webp"
+  },
+  "ingredients": [
+    "1 abóbora cabotiá",
+    "1 fio de azeite",
+    "Sal a gosto",
+    "Pimenta-do-reino a gosto",
+    "⅓ xícara de chá de água",
+    "200 gramas de queijo parmesão ralado",
+    "200 gramas de queijo mussarela ralado"
+  ],
+  "steps": [
+    "Com uma faca, retire uma tampa do topo da abóbora e remova o miolo, formando um buraco.",
+    "Regue com azeite e adicione o sal, a pimenta e a água.",
+    "Corte o miolo da abóbora em cubos e junte no interior da cabotiá também.",
+    "Coloque em uma forma e asse em forno a 180°C por cerca de 1 hora e 30 minutos.",
+    "Passado o tempo, raspe as paredes internas da cabotiá com uma colher, misturando o miolo cremoso.",
+    "Acrescente o parmesão e a mussarela, mexa para incorporar bem e está pronto.",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Fondue de queijo e abóbora",
+    "caption_medium": "Fondue de queijo e abóbora Ingredientes: 1 abóbora cabotiá, 1 fio de azeite, Sal a gosto, Pimenta-do-reino a gosto, ⅓ xícara de chá de água. Modo de preparo: Com uma faca, retire uma tampa do topo da abóbora e remova o miolo, formando um buraco.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

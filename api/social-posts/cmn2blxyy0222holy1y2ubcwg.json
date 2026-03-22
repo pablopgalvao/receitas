@@ -1,0 +1,55 @@
+{
+  "id": "cmn2blxyy0222holy1y2ubcwg",
+  "title": "Almôndegas recheadas",
+  "slug": "receitas/almondegas-recheadas__dadf379a",
+  "url": "https://receitas.pgalvao.com.br/receitas/almondegas-recheadas__dadf379a/cmn2blxyy0222holy1y2ubcwg/",
+  "deeplink": "boil://receita?rid=cmn2blxyy0222holy1y2ubcwg",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-recheadas__dadf379a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-recheadas__dadf379a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-recheadas__dadf379a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-recheadas__dadf379a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/almondegas-recheadas__dadf379a_01.webp"
+  },
+  "ingredients": [
+    "400 gramas de carne moída",
+    "2 sachês de molho de tomate",
+    "1 ovo",
+    "150 gramas de farinha de rosca",
+    "150 gramas de mussarela picada",
+    "Alho espremido",
+    "Cebola picada a gosto",
+    "Sal, pimenta-do-reino, orégano, coentro e creme de cebola a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma vasilha, misture bem a carne moída, ovo, alho espremido, cebola e temperos;",
+    "Em seguida, coloque a farinha de rosca aos poucos até que consiga formar as bolinhas sem que elas fiquem despedaçando;",
+    "Pegue pequenas porções, abra em formato de um disco e coloque um pedacinho de queijo no meio;",
+    "Feche e modelando em formato de bolinha. Repita o processo com o restante da massa;",
+    "Depois, frite todas no óleo bem quente;",
+    "Escorra bem e distribua em uma travessa;",
+    "Coloque o molho por cima com um pouco de mussarela picadinha e leve ao forno preaquecido a 200°C por cerca de 25 minutos;",
+    "Por último, salpique coentro por cima e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Almôndegas recheadas",
+    "caption_medium": "Almôndegas recheadas Ingredientes: 400 gramas de carne moída, 2 sachês de molho de tomate, 1 ovo, 150 gramas de farinha de rosca, 150 gramas de mussarela picada. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

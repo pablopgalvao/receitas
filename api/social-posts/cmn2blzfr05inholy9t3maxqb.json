@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blzfr05inholy9t3maxqb",
+  "title": "Massa de torta de liquidificador sem leite",
+  "slug": "receitas/massa_de_torta_de_liquidificador_sem_leite",
+  "url": "https://receitas.pgalvao.com.br/receitas/massa_de_torta_de_liquidificador_sem_leite/cmn2blzfr05inholy9t3maxqb/",
+  "deeplink": "boil://receita?rid=cmn2blzfr05inholy9t3maxqb",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_de_torta_de_liquidificador_sem_leite.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_de_torta_de_liquidificador_sem_leite.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_de_torta_de_liquidificador_sem_leite.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_de_torta_de_liquidificador_sem_leite.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/massa_de_torta_de_liquidificador_sem_leite.jpg"
+  },
+  "ingredients": [
+    "2 xícaras de chá de farinha de trigo",
+    "250 ml de água",
+    "150 ml de óleo vegetal",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+    "1 colher de chá de sal",
+    "Quebre os ovos um a um em um recipiente pequeno, comprovando se estão bons e transfira para o copo do liquidificador. Adicione o óleo e a água, e bata os ingredientes por cerca de 2 minutos;",
+    "Transfira o conteúdo do liquidificador para uma tigela, acrescente a farinha de trigo peneirada e o sal. Mexa com um batedor de arame ou fouet até obter uma mistura homogênea;"
+  ],
+  "steps": [
+    "Meça e separe todos os ingredientes na bancada para agilizar o preparo. Pré-aqueça o forno a 180ºC;",
+    "Quebre os ovos um a um em um recipiente pequeno, comprovando se estão bons e transfira para o copo do liquidificador. Adicione o óleo e a água, e bata os ingredientes por cerca de 2 minutos;",
+    "Transfira o conteúdo do liquidificador para uma tigela, acrescente a farinha de trigo peneirada e o sal. Mexa com um batedor de arame ou fouet até obter uma mistura homogênea;",
+    "Por último, acrescente o fermento em pó e bata por 20 segundos, apenas até incorporar;",
+    "E a massa está pronta! Agora é só colocar metade dela em uma forma, colocar o recheio de sua preferência e finalizar com o restante da massa;",
+    "Leve ao forno pré-aquecido por aproximadamente 40 minutos. Depois é só aproveitar!"
+  ],
+  "social": {
+    "caption_short": "Massa de torta de liquidificador sem leite",
+    "caption_medium": "Massa de torta de liquidificador sem leite Ingredientes: 2 xícaras de chá de farinha de trigo, 250 ml de água, 150 ml de óleo vegetal, 1 colher de sopa de fermento químico em pó (fermento para bolo), 1 colher de chá de sal. Modo de preparo: Meça e separe todos os ingredientes na bancada para agilizar o preparo. Pré-aqueça o forno a 180ºC;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#tradicional",
+      "#italia"
+    ]
+  }
+}

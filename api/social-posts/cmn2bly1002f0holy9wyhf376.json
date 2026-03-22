@@ -1,0 +1,62 @@
+{
+  "id": "cmn2bly1002f0holy9wyhf376",
+  "title": "Bazargan",
+  "slug": "receitas/bazargan",
+  "url": "https://receitas.pgalvao.com.br/receitas/bazargan/cmn2bly1002f0holy9wyhf376/",
+  "deeplink": "boil://receita?rid=cmn2bly1002f0holy9wyhf376",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bazargan.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bazargan.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bazargan.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bazargan.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bazargan.jpg"
+  },
+  "ingredients": [
+    "Saladas e outros acompanhamentos",
+    "Salada de batata com tomate e ovo",
+    "Salada oriental de arroz com frango para um",
+    "Salada de agrião com mandioquinha e figo",
+    "Salada refrescante de trigo, nozes, uvas-passas e ervas frescas",
+    "Salada mediterrânea de grão-de-bico",
+    "2 xícaras (chá) de trigo para quibe",
+    "⅔ de xícara (chá) de azeite",
+    "¼ de xícara (chá) de molho de romã",
+    "¼ de xícara (chá) de caldo de limão",
+    "⅓ de xícara (chá) de extrato de tomate",
+    "1 colher (chá) de semente de coentro em pó",
+    "1 colher (chá) de cominho em pó",
+    "½ colher (chá) de pimenta-da-jamaica em pó",
+    "1¾ de xícara (chá) de nozes tostadas e picadas (cerca de 200 g)",
+    "⅓ de xícara (chá) de salsinha fresca picada (1 maço)",
+    "1½ colher (chá) de sal"
+  ],
+  "steps": [
+    "Numa tigela, coloque o trigo e cubra com o dobro de água. Deixe hidratar por 1 hora.",
+    "Abra um pano de prato num escorredor de macarrão, escorra o trigo sobre o pano, faça uma trouxinha e torça bem para eliminar o excesso de água.",
+    "Numa tigela grande, junte o azeite, o molho de romã, o caldo de limão, o extrato de tomate, o coentro, o cominho, a pimenta-da-jamaica e o sal. Misture bem com um garfo.",
+    "Junte o trigo à tigela com o molho e misture bem. Prove e, se necessário, ajuste o sal. Leve à geladeira para que o trigo absorva melhor o sabor do molho e deixe resfriar por pelo menos 3 horas antes de servir (se preferir, prepare no dia anterior).",
+    "Na hora de ir à mesa, misture as nozes e a salsinha picada."
+  ],
+  "social": {
+    "caption_short": "Bazargan",
+    "caption_medium": "Bazargan Ingredientes: Saladas e outros acompanhamentos, Salada de batata com tomate e ovo, Salada oriental de arroz com frango para um, Salada de agrião com mandioquinha e figo, Salada refrescante de trigo, nozes, uvas-passas e ervas frescas. Modo de preparo: Numa tigela, coloque o trigo e cubra com o dobro de água. Deixe hidratar por 1 hora.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#tradicional",
+      "#fácil"
+    ]
+  }
+}

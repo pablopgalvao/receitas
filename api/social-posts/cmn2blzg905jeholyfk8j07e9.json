@@ -1,0 +1,49 @@
+{
+  "id": "cmn2blzg905jeholyfk8j07e9",
+  "title": "Michelada",
+  "slug": "receitas/michelada",
+  "url": "https://receitas.pgalvao.com.br/receitas/michelada/cmn2blzg905jeholyfk8j07e9/",
+  "deeplink": "boil://receita?rid=cmn2blzg905jeholyfk8j07e9",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/michelada.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/michelada.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/michelada.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/michelada.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/michelada.jpg"
+  },
+  "ingredients": [
+    "8 gotas de molho inglês (½ colher de chá) (por copo)",
+    "cubos de gelo a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Separe 2 copos altos. Num pires, coloque sal e pimenta a gosto, e misture. Corte os limões ao meio, e passe metade de um limão na borda dos copos; passe os copos no pires com sal e pimenta - para fazer uma bordinha nos copos.",
+    "Coloque em cada copo o molho de pimenta e o molho inglês. Complete com gelo a gosto."
+  ],
+  "steps": [
+    "Separe 2 copos altos. Num pires, coloque sal e pimenta a gosto, e misture. Corte os limões ao meio, e passe metade de um limão na borda dos copos; passe os copos no pires com sal e pimenta - para fazer uma bordinha nos copos.",
+    "Esprema os limões, e divida o caldo dos limões nos dois copos.",
+    "Coloque em cada copo o molho de pimenta e o molho inglês. Complete com gelo a gosto.",
+    "Abra a lata de cerveja e divida nos 2 copos, inclinando o copo para a cerveja não espumar. Misture e sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Michelada",
+    "caption_medium": "Michelada Ingredientes: 8 gotas de molho inglês (½ colher de chá) (por copo), cubos de gelo a gosto, sal e pimenta-do-reino moída na hora a gosto, Separe 2 copos altos. Num pires, coloque sal e pimenta a gosto, e misture. Corte os limões ao meio, e passe metade de um limão na borda dos copos; passe os copos no pires com sal e pimenta - para fazer uma bordinha nos copos., Coloque em cada copo o molho de pimenta e o molho inglês. Complete com gelo a gosto.. Modo de preparo: Separe 2 copos altos. Num pires, coloque sal e pimenta a gosto, e misture. Corte os limões ao meio, e passe metade de um limão na borda dos copos; passe os copos no pires com sal e pimenta - para fazer uma bordinha nos copos.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#brasil",
+      "#caseiro",
+      "#tradicional"
+    ]
+  }
+}

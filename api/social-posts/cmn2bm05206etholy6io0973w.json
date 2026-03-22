@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bm05206etholy6io0973w",
+  "title": "Pasta de alho assado",
+  "slug": "receitas/pasta_de_alho_assado",
+  "url": "https://receitas.pgalvao.com.br/receitas/pasta_de_alho_assado/cmn2bm05206etholy6io0973w/",
+  "deeplink": "boil://receita?rid=cmn2bm05206etholy6io0973w",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_alho_assado.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_alho_assado.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_alho_assado.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_alho_assado.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_alho_assado.jpg"
+  },
+  "ingredients": [
+    "1 colher de sopa de azeite",
+    "½ colher de chá de sal (ou a gosto)",
+    "Orégano a gosto",
+    "Tempere com sal, orégano e azeite. Misture até formar uma pasta homogênea. Pronto! Sirva acompanhado de torradinhas, pães ou carne assada."
+  ],
+  "steps": [
+    "Organize sua bancada e separe todos os ingredientes. Corte a ponta das cabeças de alho;",
+    "Disponha cada cabeça de alho sobre um pedaço de papel-alumínio, com o lado brilhante voltado para dentro;",
+    "Regue com um fio de azeite e embrulhe bem, apertando as extremidades do papel;",
+    "Transfira para uma travessa e leve ao forno preaquecido a 180°C, por cerca de 45 minutos;",
+    "Retire do forno e, com cuidado, esprema os dentes de alho assados em um potinho de vidro;",
+    "Tempere com sal, orégano e azeite. Misture até formar uma pasta homogênea. Pronto! Sirva acompanhado de torradinhas, pães ou carne assada."
+  ],
+  "social": {
+    "caption_short": "Pasta de alho assado",
+    "caption_medium": "Pasta de alho assado Ingredientes: 1 colher de sopa de azeite, ½ colher de chá de sal (ou a gosto), Orégano a gosto, Tempere com sal, orégano e azeite. Misture até formar uma pasta homogênea. Pronto! Sirva acompanhado de torradinhas, pães ou carne assada.. Modo de preparo: Organize sua bancada e separe todos os ingredientes. Corte a ponta das cabeças de alho;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#tradicional",
+      "#rápido"
+    ]
+  }
+}

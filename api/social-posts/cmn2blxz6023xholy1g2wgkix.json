@@ -1,0 +1,58 @@
+{
+  "id": "cmn2blxz6023xholy1g2wgkix",
+  "title": "Arroz à grega",
+  "slug": "receitas/arroz-a-grega__3ae0cf31",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz-a-grega__3ae0cf31/cmn2blxz6023xholy1g2wgkix/",
+  "deeplink": "boil://receita?rid=cmn2blxz6023xholy1g2wgkix",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-a-grega__3ae0cf31_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-a-grega__3ae0cf31_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-a-grega__3ae0cf31_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-a-grega__3ae0cf31_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-a-grega__3ae0cf31_01.webp"
+  },
+  "ingredients": [
+    "3 xícaras de chá de arroz lavado",
+    "6 xícaras de chá de água fervendo",
+    "3 colheres de sopa de uvas-passa",
+    "Queijo parmesão ralado a gosto",
+    "5 colheres de sopa de ervilha congelada",
+    "1 colher de sopa de manteiga",
+    "1 fio de óleo",
+    "4 colheres de sopa de pimentão vermelho",
+    "¼ de xícara de cebola picada",
+    "2 colheres de sopa de salsa picada",
+    "2 colheres de sopa de cebolinha picada",
+    "5 colheres de sopa de cenoura picada",
+    "Sal a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma panela, coloque a água, uma pitada de sal, o óleo e o arroz;",
+    "Misture bem, tampe e deixe cozinhar até toda a água secar. Reserve;",
+    "Em uma frigideira, derreta a manteiga e refogue a cebola;",
+    "Adicione as uvas-passa e as ervilhas. Misture e deixe refogar um pouco;",
+    "Transfira o refogado para um recipiente, acrescente a cebolinha, as cenouras, o pimentão, a salsa, o queijo e o arroz pronto. Misture bem até tudo incorporar;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Arroz à grega",
+    "caption_medium": "Arroz à grega Ingredientes: 3 xícaras de chá de arroz lavado, 6 xícaras de chá de água fervendo, 3 colheres de sopa de uvas-passa, Queijo parmesão ralado a gosto, 5 colheres de sopa de ervilha congelada. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

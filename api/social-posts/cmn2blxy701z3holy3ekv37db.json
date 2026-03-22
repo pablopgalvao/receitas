@@ -1,0 +1,55 @@
+{
+  "id": "cmn2blxy701z3holy3ekv37db",
+  "title": "Abobrinha recheada com atum",
+  "slug": "receitas/abobrinha-recheada-com-atum__04f8d332",
+  "url": "https://receitas.pgalvao.com.br/receitas/abobrinha-recheada-com-atum__04f8d332/cmn2blxy701z3holy3ekv37db/",
+  "deeplink": "boil://receita?rid=cmn2blxy701z3holy3ekv37db",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-com-atum__04f8d332_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-com-atum__04f8d332_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-com-atum__04f8d332_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-com-atum__04f8d332_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/abobrinha-recheada-com-atum__04f8d332_01.webp"
+  },
+  "ingredients": [
+    "1 batata média cozida e amassada (deixe esfriar antes de usar)",
+    "1 lata de atum",
+    "½ cebola picada",
+    "1 tomate sem semente picado",
+    "1 colher de sopa de alcaparras (opcional)",
+    "2 colheres de sopa de maionese",
+    "Sal e pimenta-do-reino a gosto",
+    "3 abobrinhas",
+    "Queijo parmesão ralado a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, adicione as batatas amassadas, o atum, a cebola, o tomate, as alcaparras, a maionese, o sal, a pimenta e misture bem. Reserve;",
+    "Higienize as abobrinhas e corte elas em rodelas altas (o suficiente para conseguir rechear). Retire os miolos das rodelas e leve elas para cozinhar em água fervente por cerca de 2 minutos;",
+    "Escorra a água, seque bem e passe sal na parte interna das abobrinhas;",
+    "Disponhas as abobrinhas em uma forma forrada com papel alumínio e untada com óleo;",
+    "Preencha o interior de cada com o recheio e polvilhe parmesão ralado por cima;",
+    "Leve ao forno preaquecido a 200 ºC até derreter o queijo;",
+    "Agora é só servir!"
+  ],
+  "social": {
+    "caption_short": "Abobrinha recheada com atum",
+    "caption_medium": "Abobrinha recheada com atum Ingredientes: 1 batata média cozida e amassada (deixe esfriar antes de usar), 1 lata de atum, ½ cebola picada, 1 tomate sem semente picado, 1 colher de sopa de alcaparras (opcional). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

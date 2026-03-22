@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bm02l06bzholyab0xbyi0",
+  "title": "Pão integral de microondas",
+  "slug": "receitas/pao-integral-de-microondas__152ca08f",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-integral-de-microondas__152ca08f/cmn2bm02l06bzholyab0xbyi0/",
+  "deeplink": "boil://receita?rid=cmn2bm02l06bzholyab0xbyi0",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-microondas__152ca08f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-microondas__152ca08f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-microondas__152ca08f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-microondas__152ca08f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-de-microondas__152ca08f_01.webp"
+  },
+  "ingredients": [
+    "1 ovo",
+    "1 colher de sopa de farelo de aveia",
+    "1 colher de sopa de iogurte desnatado (ou 1 colher de sopa de água)",
+    "1 colher de sobremesa de fermento químico em pó (fermento para bolo)",
+    "Ervas secas e sementes a gosto (opcional)",
+    "Recheio de sua preferência (queijos, folhas, tomate, manteiga, patês…)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma tigela, junte o ovo, o farelo de aveia, o iogurte desnatado, o fermento, as ervas e as sementes. Misture tudo muito bem;",
+    "Em seguida, coloque a massa em um pequeno recipiente (que possa ir ao micro-ondas) e leve ao micro-ondas, em potência alta, por cerca de 2 minutos e 20 segundos;",
+    "Depois de pronto, desenforme com cuidado, corte ao meio, doure na frigideira ou grill e recheie da maneira que preferir;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Pão integral de microondas",
+    "caption_medium": "Pão integral de microondas Ingredientes: 1 ovo, 1 colher de sopa de farelo de aveia, 1 colher de sopa de iogurte desnatado (ou 1 colher de sopa de água), 1 colher de sobremesa de fermento químico em pó (fermento para bolo), Ervas secas e sementes a gosto (opcional). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

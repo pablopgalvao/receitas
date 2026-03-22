@@ -1,0 +1,49 @@
+{
+  "id": "cmn2blzg305j5holyhhuacpzs",
+  "title": "Merengue de morango",
+  "slug": "receitas/merengue-de-morango__2609f2d8",
+  "url": "https://receitas.pgalvao.com.br/receitas/merengue-de-morango__2609f2d8/cmn2blzg305j5holyhhuacpzs/",
+  "deeplink": "boil://receita?rid=cmn2blzg305j5holyhhuacpzs",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/merengue-de-morango__2609f2d8_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/merengue-de-morango__2609f2d8_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/merengue-de-morango__2609f2d8_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/merengue-de-morango__2609f2d8_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/merengue-de-morango__2609f2d8_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de creme de leite fresco (com no mínimo 35% de gordura)",
+    "3 colheres de sopa de açúcar",
+    "400 gramas de morangos",
+    "250 gramas de suspiros"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes do merengue de morango;",
+    "Em uma batedeira, em velocidade máxima, bata o creme de leite com o açúcar até formar chantilly (cerca de 6 minutos). Reserve;",
+    "Higienize os morangos, retire as folhas e corte-os ao meio. Reserve;",
+    "Quebre alguns suspiros grosseiramente e reserve outros para decorar;",
+    "Em um refratário, faça uma camada com o chantilly, cubra com uma camada de morangos cortados e depois uma de suspiro;",
+    "Repita o processo até encher o refratário, finalizando com uma camada de chantilly;",
+    "Decore com morangos, suspiros e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Merengue de morango",
+    "caption_medium": "Merengue de morango Ingredientes: 500 gramas de creme de leite fresco (com no mínimo 35% de gordura), 3 colheres de sopa de açúcar, 400 gramas de morangos, 250 gramas de suspiros. Modo de preparo: Reúna todos os ingredientes do merengue de morango;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

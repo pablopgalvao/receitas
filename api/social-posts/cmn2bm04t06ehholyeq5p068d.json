@@ -1,0 +1,46 @@
+{
+  "id": "cmn2bm04t06ehholyeq5p068d",
+  "title": "Papinha de abacate com aveia",
+  "slug": "receitas/papinha-de-abacate-com-aveia__05772072",
+  "url": "https://receitas.pgalvao.com.br/receitas/papinha-de-abacate-com-aveia__05772072/cmn2bm04t06ehholyeq5p068d/",
+  "deeplink": "boil://receita?rid=cmn2bm04t06ehholyeq5p068d",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/papinha-de-abacate-com-aveia__05772072_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/papinha-de-abacate-com-aveia__05772072_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/papinha-de-abacate-com-aveia__05772072_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/papinha-de-abacate-com-aveia__05772072_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/papinha-de-abacate-com-aveia__05772072_01.webp"
+  },
+  "ingredients": [
+    "1 laranja",
+    "½ banana",
+    "½ abacate",
+    "2 colheres de sopa de aveia cozida"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes.",
+    "Amasse bem a banana e o abacate até obter uma mistura homogênea.",
+    "Adicione a aveia cozida e o suco de laranja. Misture bem.",
+    "Está pronto, agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Papinha de abacate com aveia",
+    "caption_medium": "Papinha de abacate com aveia Ingredientes: 1 laranja, ½ banana, ½ abacate, 2 colheres de sopa de aveia cozida. Modo de preparo: Reúna todos os ingredientes.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

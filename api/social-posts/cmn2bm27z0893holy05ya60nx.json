@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bm27z0893holy05ya60nx",
+  "title": "Tostex de avocado",
+  "slug": "receitas/tostex_de_avocado",
+  "url": "https://receitas.pgalvao.com.br/receitas/tostex_de_avocado/cmn2bm27z0893holy05ya60nx/",
+  "deeplink": "boil://receita?rid=cmn2bm27z0893holy05ya60nx",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostex_de_avocado.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostex_de_avocado.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostex_de_avocado.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostex_de_avocado.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tostex_de_avocado.jpg"
+  },
+  "ingredients": [
+    "azeite a gosto",
+    "folhas de salsinha a gosto",
+    "folhas de coentro a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "gomos de limão a gosto para servir",
+    "Corte o avocado ao meio, no sentido do comprimento. Descarte o caroço e descasque com as mãos para manter o formato da fruta. Apoie a parte plana de cada metade na tábua e corte em fatias de 0,5 cm. Regue com o caldo de limão e tempere com azeite, sal e pimenta a gosto."
+  ],
+  "steps": [
+    "Corte os pães franceses em duas metades, no sentido da largura. Com a faca abra cada metade para rechear – não precisa descartar o miolo. No total, você vai montar 4 sanduíches, assim eles cabem direitinho no tostex (se preferir, utilize um tostex próprio para pão francês).",
+    "Corte o avocado ao meio, no sentido do comprimento. Descarte o caroço e descasque com as mãos para manter o formato da fruta. Apoie a parte plana de cada metade na tábua e corte em fatias de 0,5 cm. Regue com o caldo de limão e tempere com azeite, sal e pimenta a gosto.",
+    "Para montar os sanduíches: divida o abacate em 4 porções. Na base de cada sanduíche, coloque as fatias de abacate sobrepondo uma a outra. Cubra generosamente com folhas de coentro e salsinha, tempere com mais um fio de azeite e feche os sanduíches.",
+    "Coloque 1 sanduíche no tostex e leve ao fogo médio. Deixe por 1 minuto e meio de cada lado, até o pão ficar crocante e levemente dourado. Repita com os outros e sirva a seguir com gomos de limão."
+  ],
+  "social": {
+    "caption_short": "Tostex de avocado",
+    "caption_medium": "Tostex de avocado Ingredientes: azeite a gosto, folhas de salsinha a gosto, folhas de coentro a gosto, sal e pimenta-do-reino moída na hora a gosto, gomos de limão a gosto para servir. Modo de preparo: Corte os pães franceses em duas metades, no sentido da largura. Com a faca abra cada metade para rechear – não precisa descartar o miolo. No total, você vai montar 4 sanduíches, assim eles cabem direitinho no tostex (se preferir, utilize um tostex próprio para pão francês).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#tradicional",
+      "#rápido"
+    ]
+  }
+}

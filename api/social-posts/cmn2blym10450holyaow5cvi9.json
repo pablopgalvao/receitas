@@ -1,0 +1,49 @@
+{
+  "id": "cmn2blym10450holyaow5cvi9",
+  "title": "Cupcake de banana caramelada",
+  "slug": "receitas/cupcake-de-banana-caramelada__17d82af1",
+  "url": "https://receitas.pgalvao.com.br/receitas/cupcake-de-banana-caramelada__17d82af1/cmn2blym10450holyaow5cvi9/",
+  "deeplink": "boil://receita?rid=cmn2blym10450holyaow5cvi9",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupcake-de-banana-caramelada__17d82af1_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupcake-de-banana-caramelada__17d82af1_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupcake-de-banana-caramelada__17d82af1_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupcake-de-banana-caramelada__17d82af1_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cupcake-de-banana-caramelada__17d82af1_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "360 gramas de açúcar para a massa",
+    "240 ml de óleo",
+    "1 colher de chá de essência de baunilha",
+    "1 colher de chá de canela",
+    "240 gramas de farinha de trigo",
+    "100 gramas de nozes",
+    "1 colher de sopa de fermento em pó"
+  ],
+  "steps": [
+    "Derreta a manteiga em uma panela e frite as bananas fatiadas em rodelas.",
+    "Adicione o açúcar e espere caramelar.",
+    "Finalize com o creme de leite e reserve."
+  ],
+  "social": {
+    "caption_short": "Cupcake de banana caramelada",
+    "caption_medium": "Cupcake de banana caramelada Ingredientes: 3 ovos, 360 gramas de açúcar para a massa, 240 ml de óleo, 1 colher de chá de essência de baunilha, 1 colher de chá de canela. Modo de preparo: Derreta a manteiga em uma panela e frite as bananas fatiadas em rodelas.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

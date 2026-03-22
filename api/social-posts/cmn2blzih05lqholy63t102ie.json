@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blzih05lqholy63t102ie",
+  "title": "Misto quente de aveia",
+  "slug": "receitas/misto-quente-de-aveia__4eb83d5f",
+  "url": "https://receitas.pgalvao.com.br/receitas/misto-quente-de-aveia__4eb83d5f/cmn2blzih05lqholy63t102ie/",
+  "deeplink": "boil://receita?rid=cmn2blzih05lqholy63t102ie",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/misto-quente-de-aveia__4eb83d5f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/misto-quente-de-aveia__4eb83d5f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/misto-quente-de-aveia__4eb83d5f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/misto-quente-de-aveia__4eb83d5f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/misto-quente-de-aveia__4eb83d5f_01.webp"
+  },
+  "ingredients": [
+    "1 ovo",
+    "1 clara",
+    "3 colheres de sopa de farelo de aveia",
+    "1 colher de sopa de psyllium",
+    "Sal a gosto",
+    "1 colher de café de fermento químico em pó (fermento para bolo)",
+    "Queijo e presunto a gosto para rechear"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma tigela misture o ovo, a clara, o farelo de aveia, o psyllium e o sal;",
+    "Adicione o fermento, misture levemente e leve ao micro-ondas por 3 minutos;",
+    "Depois do tempo necessário, um pãozinho vai se formar, acomode-o em uma superfície limpa e corte ao meio;",
+    "Em seguida, recheie com queijo e presunto;",
+    "Coloque na sanduicheira até o pão dourar e o queijo derreter;",
+    "Está pronto seu lanchinho saudável! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Misto quente de aveia",
+    "caption_medium": "Misto quente de aveia Ingredientes: 1 ovo, 1 clara, 3 colheres de sopa de farelo de aveia, 1 colher de sopa de psyllium, Sal a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

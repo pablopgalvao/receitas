@@ -1,0 +1,40 @@
+{
+  "id": "cmn2bm1ql07uuholyb1cbhxv5",
+  "title": "Sorvete de banana",
+  "slug": "receitas/sorvete-de-banana__d2e6675e",
+  "url": "https://receitas.pgalvao.com.br/receitas/sorvete-de-banana__d2e6675e/cmn2bm1ql07uuholyb1cbhxv5/",
+  "deeplink": "boil://receita?rid=cmn2bm1ql07uuholyb1cbhxv5",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana__d2e6675e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana__d2e6675e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana__d2e6675e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana__d2e6675e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sorvete-de-banana__d2e6675e_01.webp"
+  },
+  "ingredients": [
+    "8 bananas-prata maduras"
+  ],
+  "steps": [
+    "Descasque e corte as bananas em pedaços médios. Transfira para uma assadeira e leve ao congelador – evite amontoar os pedaços, assim eles ficam soltos depois de congelados. Deixe por pelo menos 4 horas até congelar (se preferir, congele na noite anterior ao preparo)."
+  ],
+  "social": {
+    "caption_short": "Sorvete de banana",
+    "caption_medium": "Sorvete de banana Ingredientes: 8 bananas-prata maduras. Modo de preparo: Descasque e corte as bananas em pedaços médios. Transfira para uma assadeira e leve ao congelador – evite amontoar os pedaços, assim eles ficam soltos depois de congelados. Deixe por pelo menos 4 horas até congelar (se preferir, congele na noite anterior ao preparo).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

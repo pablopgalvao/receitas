@@ -1,0 +1,65 @@
+{
+  "id": "cmn2blyoe049choly07zjf1cy",
+  "title": "Doce de abacaxi",
+  "slug": "receitas/doce-de-abacaxi__f86e7875",
+  "url": "https://receitas.pgalvao.com.br/receitas/doce-de-abacaxi__f86e7875/cmn2blyoe049choly07zjf1cy/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blyoe049choly07zjf1cy.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blyoe049choly07zjf1cy.json",
+  "deeplink": "boil://receita?rid=cmn2blyoe049choly07zjf1cy",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:41.985Z",
+  "time": "30 min",
+  "difficulty": "",
+  "servings": "7 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 abacaxi grande",
+    "2 xícaras de chá de açúcar cristal",
+    "Suco de 1 limão",
+    "Cravos a gosto (opcional)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Descasque o abacaxi e pique ele em cubinhos;",
+    "Transfira para uma panela grande, adicione o açúcar, o suco de limão e misture bem;",
+    "Leve para o fogo baixo e mexa por vezes até a calda engrossar (se ficar muito grossa, coloque um pouco de água e mexa bem);",
+    "Desligue o fogo e transfira metade do doce para o liquidificador;",
+    "Bata por 2 minutos e despeje de volta na panela com a outra parte do doce;",
+    "Misture bem e transfira para um recipiente e leve para a geladeira até a hora de servir. Finalize com os cravos e sirva. Bom apetite!"
+  ],
+  "excerpt": "Doce de abacaxi. Tempo de preparo: 30 min. Ingrediente em destaque: 1 abacaxi grande. Comece assim: Reúna todos os ingredientes;",
+  "social": {
+    "caption_short": "Doce de abacaxi",
+    "caption_medium": "Doce de abacaxi Ingredientes: 1 abacaxi grande, 2 xícaras de chá de açúcar cristal, Suco de 1 limão, Cravos a gosto (opcional). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/doce-de-abacaxi__f86e7875_01.webp\" alt=\"Doce de abacaxi\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 7 porções</li>\n<li><strong>Tempo de preparo:</strong> 30 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 abacaxi grande</li>\n<li>2 xícaras de chá de açúcar cristal</li>\n<li>Suco de 1 limão</li>\n<li>Cravos a gosto (opcional)</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Descasque o abacaxi e pique ele em cubinhos;</li>\n<li>Transfira para uma panela grande, adicione o açúcar, o suco de limão e misture bem;</li>\n<li>Leve para o fogo baixo e mexa por vezes até a calda engrossar (se ficar muito grossa, coloque um pouco de água e mexa bem);</li>\n<li>Desligue o fogo e transfira metade do doce para o liquidificador;</li>\n<li>Bata por 2 minutos e despeje de volta na panela com a outra parte do doce;</li>\n<li>Misture bem e transfira para um recipiente e leve para a geladeira até a hora de servir. Finalize com os cravos e sirva. Bom apetite!</li>\n</ol>\n"
+}

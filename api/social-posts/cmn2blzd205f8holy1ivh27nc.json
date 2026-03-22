@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blzd205f8holy1ivh27nc",
+  "title": "Maionese de liquidificador",
+  "slug": "receitas/maionese_de_liquidificador",
+  "url": "https://receitas.pgalvao.com.br/receitas/maionese_de_liquidificador/cmn2blzd205f8holy1ivh27nc/",
+  "deeplink": "boil://receita?rid=cmn2blzd205f8holy1ivh27nc",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_de_liquidificador.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_de_liquidificador.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_de_liquidificador.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_de_liquidificador.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_de_liquidificador.jpg"
+  },
+  "ingredients": [
+    "2 colheres (sopa) de vinagre (ou caldo de limão)",
+    "2 colheres (sopa) de mostarda de Dijon",
+    "300 ml de óleo (cerca de 1 ¼ xícara (chá))",
+    "sal a gosto",
+    "Antes de começar o preparo, coloque o óleo na geladeira e deixe por pelo menos 15 minutos - o óleo gelado emulsiona melhor a maionese.",
+    "Numa tigela pequena quebre o ovo e transfira para o liquidificador. Junte as gemas, a mostarda, o vinagre e tempere com uma pitada de sal. Tampe e bata apenas para misturar."
+  ],
+  "steps": [
+    "Antes de começar o preparo, coloque o óleo na geladeira e deixe por pelo menos 15 minutos - o óleo gelado emulsiona melhor a maionese.",
+    "Numa tigela pequena quebre o ovo e transfira para o liquidificador. Junte as gemas, a mostarda, o vinagre e tempere com uma pitada de sal. Tampe e bata apenas para misturar.",
+    "Abra apenas a tampinha central do liquidificador e cubra parcialmente a abertura com um pano de prato - a maionese pode espirrar no início do preparo. Comece a bater, retire o pano e adicione o óleo em fio, bem devagar, até a maionese ficar firme - a quantidade de óleo necessária pode ser menor, dependendo do tamanho dos ovos. Atenção: se você colocar o óleo de uma só vez a maionese pode talhar.",
+    "Transfira a maionese para um pote de vidro com fechamento hermético e mantenha na geladeira por até 3 dias."
+  ],
+  "social": {
+    "caption_short": "Maionese de liquidificador",
+    "caption_medium": "Maionese de liquidificador Ingredientes: 2 colheres (sopa) de vinagre (ou caldo de limão), 2 colheres (sopa) de mostarda de Dijon, 300 ml de óleo (cerca de 1 ¼ xícara (chá)), sal a gosto, Antes de começar o preparo, coloque o óleo na geladeira e deixe por pelo menos 15 minutos - o óleo gelado emulsiona melhor a maionese.. Modo de preparo: Antes de começar o preparo, coloque o óleo na geladeira e deixe por pelo menos 15 minutos - o óleo gelado emulsiona melhor a maionese.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#tradicional",
+      "#fácil"
+    ]
+  }
+}

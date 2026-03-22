@@ -1,0 +1,75 @@
+{
+  "id": "cmn2bm0bv06n2holyduj170qe",
+  "title": "Piadina",
+  "slug": "receitas/piadina",
+  "url": "https://receitas.pgalvao.com.br/receitas/piadina/cmn2bm0bv06n2holyduj170qe/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm0bv06n2holyduj170qe.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm0bv06n2holyduj170qe.json",
+  "deeplink": "boil://receita?rid=cmn2bm0bv06n2holyduj170qe",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:52.669Z",
+  "time": "3 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "caseiro",
+    "rápido"
+  ],
+  "ingredients": [
+    "Farinha de rosca caseira",
+    "3 xícaras (chá) de farinha de trigo",
+    "2 colheres (sopa) de azeite",
+    "1 colher (chá) de fermento em pó (fermento para bolo)",
+    "1½ colher (chá) de sal",
+    "1 xícara (chá) de leite",
+    "farinha de trigo para polvilhar a bancada",
+    "Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.",
+    "Transfira a massa para uma bancada lisa e enfarinhada. Trabalhe, sovando a massa, por no máximo 3 minutos!",
+    "Leve uma frigideira antiaderente ao fogo alto. Enquanto isso, polvilhe a bancada com farinha e abra um pedaço de massa com rolo de macarrão (ou com uma garrafa de vinho), até formar um disco com cerca de 20 cm de diâmetro."
+  ],
+  "steps": [
+    "Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.",
+    "Coloque o leite em duas etapas: junte a metade e, com as mãos, misture bem; adicione o restante do leite aos poucos, misturando com as mãos, até conseguir formar uma bola. Quando desgrudar das mãos, está no ponto.",
+    "Transfira a massa para uma bancada lisa e enfarinhada. Trabalhe, sovando a massa, por no máximo 3 minutos!",
+    "Modele a massa como um cilindro e, com uma espátula de padeiro (ou faca) divida em 6 pedaços iguais. Cubra a massa com um pano de prato úmido para não ressecar durante o preparo dos discos – a massa da piadina leva fermento químico, e por isso não precisa de descanso para crescer. Se não for usar toda a massa, separe o que não vai utilizar, embrulhe em filme e leve ao congelador.",
+    "Leve uma frigideira antiaderente ao fogo alto. Enquanto isso, polvilhe a bancada com farinha e abra um pedaço de massa com rolo de macarrão (ou com uma garrafa de vinho), até formar um disco com cerca de 20 cm de diâmetro.",
+    "Quando a frigideira estiver bem quente, coloque o disco e faça vários furos com um garfo na massa – isso evita que a massa infle ao assar. Diminua o fogo para médio e deixe assar por 3 minutos, até que o lado em contato com a frigideira esteja dourado e com pintinhas chamuscadas. Com uma espátula (ou pinça), vire e deixe dourar por mais 2 minutos dourar por igual.",
+    "Transfira para um prato e cubra com um pano limpo e seco, para não esfriar e manter os pães macios. Repita com o restante da massa e sirva a seguir."
+  ],
+  "excerpt": "Piadina. Tempo de preparo: 3 min. Ingrediente em destaque: Farinha de rosca caseira. Comece assim: Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.",
+  "social": {
+    "caption_short": "Piadina",
+    "caption_medium": "Piadina Ingredientes: Farinha de rosca caseira, 3 xícaras (chá) de farinha de trigo, 2 colheres (sopa) de azeite, 1 colher (chá) de fermento em pó (fermento para bolo), 1½ colher (chá) de sal. Modo de preparo: Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#caseiro",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/piadina.jpg\" alt=\"Piadina\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 3 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Farinha de rosca caseira</li>\n<li>3 xícaras (chá) de farinha de trigo</li>\n<li>2 colheres (sopa) de azeite</li>\n<li>1 colher (chá) de fermento em pó (fermento para bolo)</li>\n<li>1½ colher (chá) de sal</li>\n<li>1 xícara (chá) de leite</li>\n<li>farinha de trigo para polvilhar a bancada</li>\n<li>Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.</li>\n<li>Transfira a massa para uma bancada lisa e enfarinhada. Trabalhe, sovando a massa, por no máximo 3 minutos!</li>\n<li>Leve uma frigideira antiaderente ao fogo alto. Enquanto isso, polvilhe a bancada com farinha e abra um pedaço de massa com rolo de macarrão (ou com uma garrafa de vinho), até formar um disco com cerca de 20 cm de diâmetro.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Numa tigela grande, misture a farinha com o sal e o fermento. Abra um buraco no centro, junte o azeite e misture com as pontas dos dedos para incorporar, até formar uma farofinha.</li>\n<li>Coloque o leite em duas etapas: junte a metade e, com as mãos, misture bem; adicione o restante do leite aos poucos, misturando com as mãos, até conseguir formar uma bola. Quando desgrudar das mãos, está no ponto.</li>\n<li>Transfira a massa para uma bancada lisa e enfarinhada. Trabalhe, sovando a massa, por no máximo 3 minutos!</li>\n<li>Modele a massa como um cilindro e, com uma espátula de padeiro (ou faca) divida em 6 pedaços iguais. Cubra a massa com um pano de prato úmido para não ressecar durante o preparo dos discos – a massa da piadina leva fermento químico, e por isso não precisa de descanso para crescer. Se não for usar toda a massa, separe o que não vai utilizar, embrulhe em filme e leve ao congelador.</li>\n<li>Leve uma frigideira antiaderente ao fogo alto. Enquanto isso, polvilhe a bancada com farinha e abra um pedaço de massa com rolo de macarrão (ou com uma garrafa de vinho), até formar um disco com cerca de 20 cm de diâmetro.</li>\n<li>Quando a frigideira estiver bem quente, coloque o disco e faça vários furos com um garfo na massa – isso evita que a massa infle ao assar. Diminua o fogo para médio e deixe assar por 3 minutos, até que o lado em contato com a frigideira esteja dourado e com pintinhas chamuscadas. Com uma espátula (ou pinça), vire e deixe dourar por mais 2 minutos dourar por igual.</li>\n<li>Transfira para um prato e cubra com um pano limpo e seco, para não esfriar e manter os pães macios. Repita com o restante da massa e sirva a seguir.</li>\n</ol>\n"
+}

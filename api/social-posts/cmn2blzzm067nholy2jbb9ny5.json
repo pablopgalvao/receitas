@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blzzm067nholy2jbb9ny5",
+  "title": "Pão com ovo e abacate",
+  "slug": "receitas/pao-com-ovo-e-abacate__5779cdfc",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-com-ovo-e-abacate__5779cdfc/cmn2blzzm067nholy2jbb9ny5/",
+  "deeplink": "boil://receita?rid=cmn2blzzm067nholy2jbb9ny5",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-com-ovo-e-abacate__5779cdfc_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-com-ovo-e-abacate__5779cdfc_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-com-ovo-e-abacate__5779cdfc_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-com-ovo-e-abacate__5779cdfc_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-com-ovo-e-abacate__5779cdfc_01.webp"
+  },
+  "ingredients": [
+    "2 ovos",
+    "Água para o cozimento",
+    "½ avocado ou abacate",
+    "Suco de ½ limão",
+    "Azeite a gosto",
+    "Sal a gosto",
+    "2 fatias de pão de fermentação natural",
+    "Requeijão cremoso ou queijo quark a gosto"
+  ],
+  "steps": [
+    "Em uma panela, cozinhe os ovos em água fervente por 10 minutos.",
+    "Retire os ovos do fogo, passe-os em água gelada, descasque-os, rale-os na parte fina no ralador e reserve.",
+    "Em outro recipiente, coloque a polpa do abacate e amasse-a com um garfo.",
+    "Junte o suco de limão, o azeite e o sal, misture tudo e reserve também.",
+    "Em uma frigideira untada com azeite, toste as fatias de pão dos dois lados.",
+    "Sobre cada fatia, coloque uma porção de requeijão, cubra com o abacate e os ovos ralados e finalize com sal.",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Pão com ovo e abacate",
+    "caption_medium": "Pão com ovo e abacate Ingredientes: 2 ovos, Água para o cozimento, ½ avocado ou abacate, Suco de ½ limão, Azeite a gosto. Modo de preparo: Em uma panela, cozinhe os ovos em água fervente por 10 minutos.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

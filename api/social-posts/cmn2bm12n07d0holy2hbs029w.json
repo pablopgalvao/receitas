@@ -1,0 +1,52 @@
+{
+  "id": "cmn2bm12n07d0holy2hbs029w",
+  "title": "Salada de macarrão com presunto",
+  "slug": "receitas/salada-de-macarrao-com-presunto__46a82d65",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-de-macarrao-com-presunto__46a82d65/cmn2bm12n07d0holy2hbs029w/",
+  "deeplink": "boil://receita?rid=cmn2bm12n07d0holy2hbs029w",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-presunto__46a82d65_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-presunto__46a82d65_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-presunto__46a82d65_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-presunto__46a82d65_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-macarrao-com-presunto__46a82d65_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de macarrão parafuso",
+    "1 colher de sopa de sal",
+    "1 lata de milho-verde",
+    "250 gramas de presunto",
+    "1 xícara de chá de azeitona verde fatiadas",
+    "250 gramas de mussarela",
+    "500 gramas de maionese",
+    "½ xícara de chá de cheiro verde",
+    "Sal e pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Separe todos os ingredientes para facilitar o preparo dessa receita;",
+    "Em uma panela, coloque o macarrão para cozinhar com água fervente e sal;",
+    "Assim que o macarrão ficar al dente, escorra a água e transfira-o para um refratário;",
+    "Adicione o milho, o presunto, as azeitonas, a mussarela, o creme de leite, a maionese, o cheiro verde, pimenta, sal e misture bem;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Salada de macarrão com presunto",
+    "caption_medium": "Salada de macarrão com presunto Ingredientes: 500 gramas de macarrão parafuso, 1 colher de sopa de sal, 1 lata de milho-verde, 250 gramas de presunto, 1 xícara de chá de azeitona verde fatiadas. Modo de preparo: Separe todos os ingredientes para facilitar o preparo dessa receita;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

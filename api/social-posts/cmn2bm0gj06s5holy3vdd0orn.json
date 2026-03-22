@@ -1,0 +1,55 @@
+{
+  "id": "cmn2bm0gj06s5holy3vdd0orn",
+  "title": "Poke",
+  "slug": "receitas/poke__0e8e94f6",
+  "url": "https://receitas.pgalvao.com.br/receitas/poke__0e8e94f6/cmn2bm0gj06s5holy3vdd0orn/",
+  "deeplink": "boil://receita?rid=cmn2bm0gj06s5holy3vdd0orn",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/poke__0e8e94f6_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/poke__0e8e94f6_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/poke__0e8e94f6_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/poke__0e8e94f6_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/poke__0e8e94f6_01.webp"
+  },
+  "ingredients": [
+    "150 gramas de atum cortado em cubos",
+    "½ cebola cortada em cubos bem pequenos",
+    "6 colheres de sopa de shoyu",
+    "1 colher de sopa de molho de ostra",
+    "1 colher de sopa de óleo de gergelim",
+    "100 gramas de gohan (arroz japonês cozido)",
+    "Gergelim a gosto",
+    "Cebolinha picada a gosto",
+    "Sal a gosto",
+    "Brotos ou cebolinha para finalizar"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma tigela, coloque o atum e a cebola;",
+    "Tempere com sal, shoyu, molho de ostra e óleo de gergelim. Misture tudo muito bem;",
+    "Em seguida, acrescente a cebolinha e o gergelim torrado. Mexa para incorporar bem. Se necessário, acerte os temperos a seu gosto;",
+    "Para a montagem, em uma cumbuca, forre fundo com o gohan;",
+    "Por cima, adicione o atum temperado e finalize com os brotos;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Poke",
+    "caption_medium": "Poke Ingredientes: 150 gramas de atum cortado em cubos, ½ cebola cortada em cubos bem pequenos, 6 colheres de sopa de shoyu, 1 colher de sopa de molho de ostra, 1 colher de sopa de óleo de gergelim. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

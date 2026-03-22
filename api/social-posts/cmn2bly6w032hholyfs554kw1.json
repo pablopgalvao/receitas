@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bly6w032hholyfs554kw1",
+  "title": "Bolo de milho de lata",
+  "slug": "receitas/bolo-de-milho-de-lata__53d77dc9",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-milho-de-lata__53d77dc9/cmn2bly6w032hholyfs554kw1/",
+  "deeplink": "boil://receita?rid=cmn2bly6w032hholyfs554kw1",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-de-lata__53d77dc9_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-de-lata__53d77dc9_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-de-lata__53d77dc9_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-de-lata__53d77dc9_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-milho-de-lata__53d77dc9_01.webp"
+  },
+  "ingredients": [
+    "3 ovos grandes",
+    "1 lata de milho em conserva sem a água (200 gramas)",
+    "1 latinha (de milho) de açúcar (250 gramas)",
+    "1 latinha (de milho) de água (290 ml)",
+    "½ latinha (de milho) de óleo (140 ml)",
+    "1 latinha (de milho) de fubá (185 gramas)",
+    "1 colher de sopa (rasa) de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um liquidificador, coloque os ovos, o milho, o açúcar o óleo. Bata por 5 minutos;",
+    "Despeje em um recipiente, adicione o fubá e o fermento. Misture até incorporar;",
+    "Transfira para uma forma untada com óleo, polvilhada com fubá e leve ao forno preaquecido a 180ºC por cerca de 1 hora e 10&#x2F;15 minutos;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de milho de lata",
+    "caption_medium": "Bolo de milho de lata Ingredientes: 3 ovos grandes, 1 lata de milho em conserva sem a água (200 gramas), 1 latinha (de milho) de açúcar (250 gramas), 1 latinha (de milho) de água (290 ml), ½ latinha (de milho) de óleo (140 ml). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

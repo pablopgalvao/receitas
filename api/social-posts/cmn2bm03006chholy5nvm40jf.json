@@ -1,0 +1,57 @@
+{
+  "id": "cmn2bm03006chholy5nvm40jf",
+  "title": "Pão proteico de frango",
+  "slug": "receitas/pao-proteico-de-frango__67932a2b",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-proteico-de-frango__67932a2b/cmn2bm03006chholy5nvm40jf/",
+  "deeplink": "boil://receita?rid=cmn2bm03006chholy5nvm40jf",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-proteico-de-frango__67932a2b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-proteico-de-frango__67932a2b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-proteico-de-frango__67932a2b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-proteico-de-frango__67932a2b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-proteico-de-frango__67932a2b_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "1 colher de sopa de azeite",
+    "½ colher de sopa de páprica defumada",
+    "½ colher de chá de tomilho seco",
+    "Sal e pimenta-do-reino a gosto",
+    "150 gramas de frango cozido desfiado",
+    "Cebolinha a gosto",
+    "½ colher de sopa de fermento em pó (fermento para bolo)",
+    "Tomate-cereja a gosto",
+    "Alecrim a gosto",
+    "Pimenta-calabresa a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um liquidificador, coloque os ovos, o azeite, a páprica, o tomilho, o sal e a pimenta-do-reino. Bata por cerca de 5 minutos;",
+    "Com o liquidificador ainda ligado, vá acrescentando o frango desfiado aos poucos e continue batendo até formar uma mistura homogênea;",
+    "Acrescente a cebolinha e use a função pulsar por um segundo;",
+    "Desligue, coloque o fermento e misture delicadamente com a ajuda de uma espátula;",
+    "Transfira a massa para uma forma de bolo inglês antiaderente e decore com tomate-cereja, alecrim e pimenta-calabresa;",
+    "Leve ao forno preaquecido a 200°C por cerca de 30 minutos. Quando estiver assado, deixe o pão descansando no forno por pelo menos 20 minutos para ele não afundar;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Pão proteico de frango",
+    "caption_medium": "Pão proteico de frango Ingredientes: 3 ovos, 1 colher de sopa de azeite, ½ colher de sopa de páprica defumada, ½ colher de chá de tomilho seco, Sal e pimenta-do-reino a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

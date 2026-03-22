@@ -1,0 +1,57 @@
+{
+  "id": "cmn2blzlt05q5holy7k5qbbfc",
+  "title": "Moqueca - Bahia",
+  "slug": "receitas/moqueca---bahia-1758394468201",
+  "url": "https://receitas.pgalvao.com.br/receitas/moqueca---bahia-1758394468201/cmn2blzlt05q5holy7k5qbbfc/",
+  "deeplink": "boil://receita?rid=cmn2blzlt05q5holy7k5qbbfc",
+  "date": "2025-09-20T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/moqueca_bahia.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/moqueca_bahia.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/moqueca_bahia.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/moqueca_bahia.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/moqueca_bahia.webp"
+  },
+  "ingredients": [
+    "15 postas de robalo",
+    "5 dentes de alho descascados e picados",
+    "200 g de cebola descascada e cortada em rodelas",
+    "200 g de tomate sem semente e cortado em rodelas",
+    "800 ml de leite de coco",
+    "300 ml de azeite de dendê",
+    "200 g de pimentão vermelho sem sementes e cortado em rodelas",
+    "200 g de pimentão verde sem sementes e cortado rodelas",
+    "Pimenta-de-cheiro picada, coentro e sal a gosto",
+    "150 ml de azeite de oliva"
+  ],
+  "steps": [
+    "Em um recipiente, tempere as postas de robalo com sal e alho. Reserve",
+    "Em uma panela, coloque o azeite de oliva e disponha os vegetais e o peixe, alternando as camadas.",
+    "Finalize com o leite de coco e o azeite de dendê.",
+    "Leve ao fogo alto até levantar fervura.",
+    "Reduza o fogo, tampe a panela e cozinhe até que o peixe esteja macio.",
+    "Acrescente a pimenta-de-cheiro e polvilhe com coentro.",
+    "Desligue o fogo e sirva em seguida"
+  ],
+  "social": {
+    "caption_short": "Moqueca - Bahia",
+    "caption_medium": "Moqueca - Bahia Ingredientes: 15 postas de robalo, 5 dentes de alho descascados e picados, 200 g de cebola descascada e cortada em rodelas, 200 g de tomate sem semente e cortado em rodelas, 800 ml de leite de coco. Modo de preparo: Em um recipiente, tempere as postas de robalo com sal e alho. Reserve",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#nordeste",
+      "#bahia"
+    ]
+  }
+}

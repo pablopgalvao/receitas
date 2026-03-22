@@ -1,0 +1,47 @@
+{
+  "id": "cmn2bly7s035qholy96404781",
+  "title": "Bolo de pasta de amendoim",
+  "slug": "receitas/bolo-pasta-de-amendoim__92cbbd46",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-pasta-de-amendoim__92cbbd46/cmn2bly7s035qholy96404781/",
+  "deeplink": "boil://receita?rid=cmn2bly7s035qholy96404781",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-pasta-de-amendoim__92cbbd46_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-pasta-de-amendoim__92cbbd46_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-pasta-de-amendoim__92cbbd46_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-pasta-de-amendoim__92cbbd46_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-pasta-de-amendoim__92cbbd46_01.webp"
+  },
+  "ingredients": [
+    "4 colheres de sopa de pasta de amendoim (150 gramas)",
+    "½ xícara de chá de água (120 ml)",
+    "2 colheres de sopa de açúcar demerara (40 gramas)",
+    "1 colher de sopa de cacau em pó (20 gramas)"
+  ],
+  "steps": [
+    "Reúna os ingredientes para preparar a massa desse bolo delicioso;",
+    "No liquidificador desligado, coloque os ovos, a pasta de amendoim e a água. Ligue-o e bata até a mistura ficar bem homogênea;",
+    "Em seguida, acrescente o restante dos ingredientes (açúcar demerara, aveia e farinha), com exceção do fermento e deixe bater até tudo misturar bem;",
+    "Desligue o liquidificador, abra a tampa e adicione o fermento. Mexa delicadamente com uma colher apenas para incorporar;",
+    "Despeje em uma forma (redonda de 23 cm de diâmetro) untada com manteiga e enfarinhada. Asse em forno a 180°C por cerca de 40 minutos;"
+  ],
+  "social": {
+    "caption_short": "Bolo de pasta de amendoim",
+    "caption_medium": "Bolo de pasta de amendoim Ingredientes: 4 colheres de sopa de pasta de amendoim (150 gramas), ½ xícara de chá de água (120 ml), 2 colheres de sopa de açúcar demerara (40 gramas), 1 colher de sopa de cacau em pó (20 gramas). Modo de preparo: Reúna os ingredientes para preparar a massa desse bolo delicioso;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

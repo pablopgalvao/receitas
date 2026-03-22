@@ -1,0 +1,49 @@
+{
+  "id": "cmn2blzk005nwholy3ojt9lnr",
+  "title": "Molho holandês",
+  "slug": "receitas/molho-holandes__c79fe71d",
+  "url": "https://receitas.pgalvao.com.br/receitas/molho-holandes__c79fe71d/cmn2blzk005nwholy3ojt9lnr/",
+  "deeplink": "boil://receita?rid=cmn2blzk005nwholy3ojt9lnr",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-holandes__c79fe71d_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-holandes__c79fe71d_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-holandes__c79fe71d_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-holandes__c79fe71d_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-holandes__c79fe71d_01.webp"
+  },
+  "ingredients": [
+    "100 gramas de manteiga derretida",
+    "1 gema",
+    "½ colher de sopa de vinagre",
+    "1 colher de sopa de água fervente",
+    "Sal e pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Junte os ingredientes do molho holandês;",
+    "Em uma panela, coloque um pouco de água para ferver (cerca de 2 a 3 dedos de água);",
+    "Em uma vasilha, misture uma gema, o vinagre e uma colher de sopa da água quente;",
+    "Assim que a água começar a borbulhar, coloque a vasilha por cima, em banho-maria (ela não deve encostar na água) e comece a misturar com um fouet sem parar;",
+    "Quando a mistura começar a espumar, vá despejando a manteiga derretida em fio e continue batendo até quase chegar no ponto final (mais espesso ou mais ralo);",
+    "Tempere com sal e pimenta-do-reino, misture e sirva com batatas fritas ou cozidas, aspargos ou peixes. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Molho holandês",
+    "caption_medium": "Molho holandês Ingredientes: 100 gramas de manteiga derretida, 1 gema, ½ colher de sopa de vinagre, 1 colher de sopa de água fervente, Sal e pimenta-do-reino a gosto. Modo de preparo: Junte os ingredientes do molho holandês;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

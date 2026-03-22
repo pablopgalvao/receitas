@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blyqr04duholy29yp5kng",
+  "title": "Escabeche de sardinha prático",
+  "slug": "receitas/escabeche_de_sardinha_pr_tico",
+  "url": "https://receitas.pgalvao.com.br/receitas/escabeche_de_sardinha_pr_tico/cmn2blyqr04duholy29yp5kng/",
+  "deeplink": "boil://receita?rid=cmn2blyqr04duholy29yp5kng",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escabeche_de_sardinha_pr_tico.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escabeche_de_sardinha_pr_tico.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escabeche_de_sardinha_pr_tico.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escabeche_de_sardinha_pr_tico.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/escabeche_de_sardinha_pr_tico.jpg"
+  },
+  "ingredients": [
+    "1 lata de sardinha em óleo (ou água) (125 g)",
+    "2 colheres (sopa) de azeite Andorinha",
+    "2 colheres (sopa) de caldo de limão",
+    "pimenta-do-reino moída na hora a gosto",
+    "folhas de salsinha a gosto para servir",
+    "Leve uma frigideira antiaderente ao fogo médio. Regue com o azeite. Acrescente as sardinhas, tempere com pimenta-do-reino moída na hora a gosto e deixe cozinhar por 1 minuto, para aquecer, mexendo delicadamente com a espátula para não desmanchar completamente os filés.",
+    "Desligue o fogo e misture as raspas e o caldo de limão. Sirva a sardinha com o molho da frigideira e folhas de salsinha a gosto."
+  ],
+  "steps": [
+    "Abra a lata de sardinha, transfira os filés para um prato e, com um garfo, descarte a espinha central.",
+    "Leve uma frigideira antiaderente ao fogo médio. Regue com o azeite. Acrescente as sardinhas, tempere com pimenta-do-reino moída na hora a gosto e deixe cozinhar por 1 minuto, para aquecer, mexendo delicadamente com a espátula para não desmanchar completamente os filés.",
+    "Desligue o fogo e misture as raspas e o caldo de limão. Sirva a sardinha com o molho da frigideira e folhas de salsinha a gosto."
+  ],
+  "social": {
+    "caption_short": "Escabeche de sardinha prático",
+    "caption_medium": "Escabeche de sardinha prático Ingredientes: 1 lata de sardinha em óleo (ou água) (125 g), 2 colheres (sopa) de azeite Andorinha, 2 colheres (sopa) de caldo de limão, pimenta-do-reino moída na hora a gosto, folhas de salsinha a gosto para servir. Modo de preparo: Abra a lata de sardinha, transfira os filés para um prato e, com um garfo, descarte a espinha central.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#fácil",
+      "#rápido"
+    ]
+  }
+}

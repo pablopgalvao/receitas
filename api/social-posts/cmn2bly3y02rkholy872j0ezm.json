@@ -1,0 +1,52 @@
+{
+  "id": "cmn2bly3y02rkholy872j0ezm",
+  "title": "Bolo de banana com aveia rápido",
+  "slug": "receitas/bolo-de-banana-com-aveia-rapido__831fbf58",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-banana-com-aveia-rapido__831fbf58/cmn2bly3y02rkholy872j0ezm/",
+  "deeplink": "boil://receita?rid=cmn2bly3y02rkholy872j0ezm",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-rapido__831fbf58_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-rapido__831fbf58_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-rapido__831fbf58_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-rapido__831fbf58_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-com-aveia-rapido__831fbf58_01.webp"
+  },
+  "ingredients": [
+    "4 bananas maduras médias",
+    "3 ovos inteiros",
+    "⅓ de xícara de chá de óleo (80 ml)",
+    "1 xícara de chá de açúcar mascavo (200 gramas)",
+    "1 colher de chá de canela em pó",
+    "2 xícaras de chá de aveia em flocos finos (150 gramas)",
+    "⅓ de xícara de chá de água (80 ml)",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Unte uma forma redonda com furo central (20 cm de diâmetro), com óleo e uma mistura de 1 colher de sopa de farelo de aveia e 1 pitadinha de canela em pó. Preaqueça o forno a 200 °C. Separe todos os ingredientes na bancada;",
+    "Corte duas bananas em rodelas e pique as outras duas em cubos;",
+    "Quebre os ovos, um a um, em um recipiente pequeno e, caso estiverem bons, transfira para o liquidificador. Adicione as bananas cortadas em rodelas, o óleo, o açúcar, a canela em pó e metade da aveia;",
+    "Bata os ingredientes por 2 minutos. Transfira a massa para uma tigela e adicione a água, o restante da aveia, o fermento em pó, e as outras duas bananas picadas. Misture com uma espátula até incorporar;",
+    "Despeje a massa na forma untada e leve ao forno preaquecido por cerca de 40 minutos, ou até passar no teste do palito - espete um palito de dente e, se sair limpo, é porque está pronto;",
+    "Retire do forno e deixe amornar. Desenforme e sirva com um pouco de doce de leite, fica incrível!"
+  ],
+  "social": {
+    "caption_short": "Bolo de banana com aveia rápido",
+    "caption_medium": "Bolo de banana com aveia rápido Ingredientes: 4 bananas maduras médias, 3 ovos inteiros, ⅓ de xícara de chá de óleo (80 ml), 1 xícara de chá de açúcar mascavo (200 gramas), 1 colher de chá de canela em pó. Modo de preparo: Unte uma forma redonda com furo central (20 cm de diâmetro), com óleo e uma mistura de 1 colher de sopa de farelo de aveia e 1 pitadinha de canela em pó. Preaqueça o forno a 200 °C. Separe todos os ingredientes na bancada;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

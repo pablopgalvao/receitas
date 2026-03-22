@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blzxz065nholy4o6n5spw",
+  "title": "Panqueca simples",
+  "slug": "receitas/panqueca-simples__deffbd2b",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca-simples__deffbd2b/cmn2blzxz065nholy4o6n5spw/",
+  "deeplink": "boil://receita?rid=cmn2blzxz065nholy4o6n5spw",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-simples__deffbd2b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-simples__deffbd2b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-simples__deffbd2b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-simples__deffbd2b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-simples__deffbd2b_01.webp"
+  },
+  "ingredients": [
+    "1 ovo",
+    "100 ml de leite",
+    "1 fio de azeite",
+    "1 pitada de sal",
+    "½ xícara de chá de farinha de trigo (70 gramas)",
+    "1 pitada de fermento químico em pó (fermento para bolo)",
+    "100 gramas de requeijão cremoso",
+    "200 gramas de presunto"
+  ],
+  "steps": [
+    "Quebre o ovo em uma tigela para verificar se está bom e já deixe todos os ingredientes na bancada para facilitar. Você pode usar o presunto ralado ou picar em cubinhos bem pequenos;",
+    "Bata o ovo com um garfo ou fouet (batedor de arame), apenas para desmanchar a gema. Acrescente na tigela o leite, o azeite, o sal e a farinha. Misture bem até ficar homogêneo. Junte o fermento e mexa mais um pouco para incorporá-lo na massa;",
+    "Aqueça uma frigideira antiaderente no fogo médio-baixo e pincele um pouco de azeite no fundo. Despeje uma concha de massa na frigideira e espalhe para formar um disco. Assim que começar a formar bolhinhas na massa e desgrudar do fundo, vire o disco com a espátula;",
+    "Após dourar o outro lado, reserve em um prato e repita com o restante da massa;",
+    "Para rechear, posicione um disco de massa sobre uma tábua ou prato, passe uma camada de requeijão e coloque uma porção de presunto por cima;",
+    "Segure uma das pontas da panqueca e enrole com cuidado para não vazar o recheio. Reserve em outro recipiente e recheie o restante dos discos;",
+    "E está prontinho! Deguste essa panqueca simples no almoço, jantar ou na hora do lanche."
+  ],
+  "social": {
+    "caption_short": "Panqueca simples",
+    "caption_medium": "Panqueca simples Ingredientes: 1 ovo, 100 ml de leite, 1 fio de azeite, 1 pitada de sal, ½ xícara de chá de farinha de trigo (70 gramas). Modo de preparo: Quebre o ovo em uma tigela para verificar se está bom e já deixe todos os ingredientes na bancada para facilitar. Você pode usar o presunto ralado ou picar em cubinhos bem pequenos;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

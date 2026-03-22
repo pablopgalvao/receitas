@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blzxb064wholygj0z5pph",
+  "title": "Panqueca de batata-doce com aveia",
+  "slug": "receitas/panqueca-de-batata-doce-com-aveia__eb0bdb0a",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca-de-batata-doce-com-aveia__eb0bdb0a/cmn2blzxb064wholygj0z5pph/",
+  "deeplink": "boil://receita?rid=cmn2blzxb064wholygj0z5pph",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-batata-doce-com-aveia__eb0bdb0a_01.webp"
+  },
+  "ingredients": [
+    "1 batata-doce grande",
+    "1 xícara de chá de farinha de trigo",
+    "½ xícara de chá de aveia",
+    "3 ovos batidos",
+    "Sal e pimenta a gosto",
+    "Salsinha a gosto",
+    "2 colheres de sopa de azeite"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Cozinhe a batata-doce; depois, descasque-a e amasse-a com a ajuda de um garfo ou espremedor;",
+    "Coloque a batata-doce amassada, a farinha, a aveia, os ovos, a salsinha, o sal e a pimenta em uma tigela e misture tudo até atingir uma massa homogênea;",
+    "Leve uma frigideira (de preferência antiaderente) ao fogo baixo e esquente o azeite;",
+    "Pegue duas ou três colheres de sopa da massa, espalhe pela frigideira e deixe cozinhar por cerca de 3 minutos;",
+    "Vire a panqueca e deixe cozinhar por mais 3 minutos;",
+    "Repita o processo até a massa acabar e sirva!"
+  ],
+  "social": {
+    "caption_short": "Panqueca de batata-doce com aveia",
+    "caption_medium": "Panqueca de batata-doce com aveia Ingredientes: 1 batata-doce grande, 1 xícara de chá de farinha de trigo, ½ xícara de chá de aveia, 3 ovos batidos, Sal e pimenta a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

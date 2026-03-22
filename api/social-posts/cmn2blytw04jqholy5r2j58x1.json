@@ -1,0 +1,50 @@
+{
+  "id": "cmn2blytw04jqholy5r2j58x1",
+  "title": "Farofa fácil",
+  "slug": "receitas/farofa-facil__bb5dddaf",
+  "url": "https://receitas.pgalvao.com.br/receitas/farofa-facil__bb5dddaf/cmn2blytw04jqholy5r2j58x1/",
+  "deeplink": "boil://receita?rid=cmn2blytw04jqholy5r2j58x1",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-facil__bb5dddaf_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-facil__bb5dddaf_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-facil__bb5dddaf_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-facil__bb5dddaf_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/farofa-facil__bb5dddaf_01.webp"
+  },
+  "ingredients": [
+    "100 ml de óleo",
+    "1 colher de sopa de manteiga",
+    "3 cebolas bem picadas",
+    "500 gramas de farinha de mandioca torrada",
+    "Sal e pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes da farofa fácil;",
+    "Em uma panela, aqueça o óleo e a manteiga;",
+    "Quando estiver quente, adicione a cebola e refogue em fogo médio até dourar;",
+    "Inclua a farinha de mandioca torrada e cozinhe, mexendo sem parar;",
+    "Tempere com sal, pimenta-do-reino e cozinhe, mexendo por cerca de 7 minutos;",
+    "Desligue o fogo e deixe a farofa descansar na panela tampada por alguns minutos;",
+    "Agora é só servir essa delícia. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Farofa fácil",
+    "caption_medium": "Farofa fácil Ingredientes: 100 ml de óleo, 1 colher de sopa de manteiga, 3 cebolas bem picadas, 500 gramas de farinha de mandioca torrada, Sal e pimenta-do-reino a gosto. Modo de preparo: Reúna todos os ingredientes da farofa fácil;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

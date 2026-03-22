@@ -1,0 +1,44 @@
+{
+  "id": "cmn2blyjs040uholy6trogyx3",
+  "title": "Creme de abacate com Whey",
+  "slug": "receitas/creme-de-abacate-com-whey__4b97f590",
+  "url": "https://receitas.pgalvao.com.br/receitas/creme-de-abacate-com-whey__4b97f590/cmn2blyjs040uholy6trogyx3/",
+  "deeplink": "boil://receita?rid=cmn2blyjs040uholy6trogyx3",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-whey__4b97f590_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-whey__4b97f590_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-whey__4b97f590_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-whey__4b97f590_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-whey__4b97f590_01.webp"
+  },
+  "ingredients": [
+    "½ abacate picado",
+    "45 gramas de Whey",
+    "¼ xícara de chá de leite"
+  ],
+  "steps": [
+    "Em um liquidificador, bata o abacate, o Whey e o leite até formar um creme homogêneo.",
+    "Transfira para uma taça, deixe gelar e está pronto.",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Creme de abacate com Whey",
+    "caption_medium": "Creme de abacate com Whey Ingredientes: ½ abacate picado, 45 gramas de Whey, ¼ xícara de chá de leite. Modo de preparo: Em um liquidificador, bata o abacate, o Whey e o leite até formar um creme homogêneo.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

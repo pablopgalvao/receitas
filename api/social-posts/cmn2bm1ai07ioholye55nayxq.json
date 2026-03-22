@@ -1,0 +1,55 @@
+{
+  "id": "cmn2bm1ai07ioholye55nayxq",
+  "title": "Salada de pimentão marinado",
+  "slug": "receitas/salada_de_piment_o_marinado",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada_de_piment_o_marinado/cmn2bm1ai07ioholye55nayxq/",
+  "deeplink": "boil://receita?rid=cmn2bm1ai07ioholye55nayxq",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_marinado.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_marinado.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_marinado.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_marinado.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_piment_o_marinado.jpg"
+  },
+  "ingredients": [
+    "Salada de pimentão grelhado com grão-de-bico e erva-doce",
+    "Salada de pimentão marinado com hortelã",
+    "Salada de pimentão assado com feijão-branco",
+    "⅓ de xícara (chá) de azeitona preta com caroço",
+    "1½ colher (sopa) de vinagre de vinho tinto",
+    "3 colheres (sopa) de azeite",
+    "½ colher (chá) de sementes de erva-doce",
+    "1 pitada de pimenta calabresa seca",
+    "sal a gosto",
+    "Transfira os pimentões para uma tigela, junte o manjericão e tempere com o azeite, o vinagre, a erva-doce, a pimenta e sal a gosto – o pimentão morno absorve melhor os sabores. Misture as azeitonas e deixe na geladeira até a hora de servir."
+  ],
+  "steps": [
+    "Preaqueça o forno a 220 ºC (temperatura alta).",
+    "Lave, seque e coloque os pimentões inteiros numa assadeira. Leve ao forno para assar por cerca de 30 minutos, até a pele ficar bem tostada – na metade do tempo vire os pimentões com uma pinça para queimar por igual.",
+    "Transfira os pimentões para uma tigela, cubra com filme e deixe abafado por 10 minutos – a pele do pimentão se solta e fica mais fácil para descascar. Lave e seque as folhas de manjericão.",
+    "Para descascar os pimentões: puxe e descarte a pele dos pimentões – se quiser, raspe a pele com uma colher para tirar as que estiverem mais grudadinhas. Corte os pimentões ao meio, descarte o cabo e as sementes. Corte cada metade em pedaços de cerca de 4 cm.",
+    "Transfira os pimentões para uma tigela, junte o manjericão e tempere com o azeite, o vinagre, a erva-doce, a pimenta e sal a gosto – o pimentão morno absorve melhor os sabores. Misture as azeitonas e deixe na geladeira até a hora de servir."
+  ],
+  "social": {
+    "caption_short": "Salada de pimentão marinado",
+    "caption_medium": "Salada de pimentão marinado Ingredientes: Salada de pimentão grelhado com grão-de-bico e erva-doce, Salada de pimentão marinado com hortelã, Salada de pimentão assado com feijão-branco, ⅓ de xícara (chá) de azeitona preta com caroço, 1½ colher (sopa) de vinagre de vinho tinto. Modo de preparo: Preaqueça o forno a 220 ºC (temperatura alta).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#saudável",
+      "#tradicional"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cmn2bm0ts074tholycmu3crkp",
+  "title": "Ricota caseira",
+  "slug": "receitas/ricota_caseira",
+  "url": "https://receitas.pgalvao.com.br/receitas/ricota_caseira/cmn2bm0ts074tholycmu3crkp/",
+  "deeplink": "boil://receita?rid=cmn2bm0ts074tholycmu3crkp",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ricota_caseira.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ricota_caseira.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ricota_caseira.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ricota_caseira.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ricota_caseira.jpg"
+  },
+  "ingredients": [
+    "2 colheres (sopa) de caldo de limão peneirado",
+    "Deixe o ácido do limão agir por cerca de 5 minutos, até talhar — o leite deve formar grumos, com uma parte sólida branca bem visível, imersos num líquido levemente amarelado. Se demorar muito, acenda o fogo novamente e deixe ferver de novo. Desligue, mexa e espere mais alguns minutos até talhar.",
+    "Transfira a trouxinha (com o queijo) para um refratário individual (tipo ramequin). Abra o pano e nivele o queijo com uma colher para ficar enformado. Volte a fechar o pano sobre o queijo e, sobre ele, apoie uma lata cilindrica — pode ser de tomate pelado ou leite condensado, por exemplo — para prensar. A ideia é que o queijo solte um pouco mais de líquido e fique perfeitamente modelado."
+  ],
+  "steps": [
+    "Coloque o leite numa panela e leve ao fogo alto. Assim que ferver e levantar espuma desligue o fogo. Junte o caldo de limão e misture bem.",
+    "Deixe o ácido do limão agir por cerca de 5 minutos, até talhar — o leite deve formar grumos, com uma parte sólida branca bem visível, imersos num líquido levemente amarelado. Se demorar muito, acenda o fogo novamente e deixe ferver de novo. Desligue, mexa e espere mais alguns minutos até talhar.",
+    "Enquanto isso, forre uma peneira com um pano de algodão fino e limpo (ou pano de prato) e coloque sobre uma tigela funda.",
+    "Despeje delicadamente o leite talhado sobre a peneira. Junte as pontas do pano de prato e levante para formar uma trouxinha. Com cuidado para não se queimar, torça o pano e aperte com uma espátula contra a peneira para escorrer o soro — você pode reservar esse soro para outras receitas.",
+    "Transfira a trouxinha (com o queijo) para um refratário individual (tipo ramequin). Abra o pano e nivele o queijo com uma colher para ficar enformado. Volte a fechar o pano sobre o queijo e, sobre ele, apoie uma lata cilindrica — pode ser de tomate pelado ou leite condensado, por exemplo — para prensar. A ideia é que o queijo solte um pouco mais de líquido e fique perfeitamente modelado.",
+    "Após 20 minutos, retire a lata e abra o pano. Coloque um prato sobre o refratário e vire de uma só vez para desenformar. Sirva a seguir ou conserve na geladeira por até 3 dias, coberto com filme ou num pote com tampa para não ressecar."
+  ],
+  "social": {
+    "caption_short": "Ricota caseira",
+    "caption_medium": "Ricota caseira Ingredientes: 2 colheres (sopa) de caldo de limão peneirado, Deixe o ácido do limão agir por cerca de 5 minutos, até talhar — o leite deve formar grumos, com uma parte sólida branca bem visível, imersos num líquido levemente amarelado. Se demorar muito, acenda o fogo novamente e deixe ferver de novo. Desligue, mexa e espere mais alguns minutos até talhar., Transfira a trouxinha (com o queijo) para um refratário individual (tipo ramequin). Abra o pano e nivele o queijo com uma colher para ficar enformado. Volte a fechar o pano sobre o queijo e, sobre ele, apoie uma lata cilindrica — pode ser de tomate pelado ou leite condensado, por exemplo — para prensar. A ideia é que o queijo solte um pouco mais de líquido e fique perfeitamente modelado.. Modo de preparo: Coloque o leite numa panela e leve ao fogo alto. Assim que ferver e levantar espuma desligue o fogo. Junte o caldo de limão e misture bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#brasil",
+      "#rápido"
+    ]
+  }
+}

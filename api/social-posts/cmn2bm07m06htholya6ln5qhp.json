@@ -1,0 +1,54 @@
+{
+  "id": "cmn2bm07m06htholya6ln5qhp",
+  "title": "Patê de carne moída",
+  "slug": "receitas/pate-de-carne-moida__0158a94f",
+  "url": "https://receitas.pgalvao.com.br/receitas/pate-de-carne-moida__0158a94f/cmn2bm07m06htholya6ln5qhp/",
+  "deeplink": "boil://receita?rid=cmn2bm07m06htholya6ln5qhp",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-carne-moida__0158a94f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-carne-moida__0158a94f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-carne-moida__0158a94f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-carne-moida__0158a94f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pate-de-carne-moida__0158a94f_01.webp"
+  },
+  "ingredients": [
+    "300 gramas de carne moída",
+    "Sal e pimenta-do-reino a gosto",
+    "2 colheres de sopa de cebolinha",
+    "1 fio de azeite",
+    "2 colheres de sopa de cebola picada",
+    "2 dentes de alho amassado",
+    "2 colheres de extrato de tomate",
+    "50 ml de água",
+    "4 colheres de sopa de requeijão cremoso"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, tempere a carne com o sal, a pimenta e a cebolinha;",
+    "Em uma panela, refogue a cebola e o alho no azeite;",
+    "Adicione a carne temperada e frite até ela mudar de cor;",
+    "Acrescente o extrato de tomate, um pouquinho de água e deixe cozinhar até reduzir o volume;",
+    "Acerte o sal, coloque o requeijão, misture bem e desligue o fogo;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Patê de carne moída",
+    "caption_medium": "Patê de carne moída Ingredientes: 300 gramas de carne moída, Sal e pimenta-do-reino a gosto, 2 colheres de sopa de cebolinha, 1 fio de azeite, 2 colheres de sopa de cebola picada. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

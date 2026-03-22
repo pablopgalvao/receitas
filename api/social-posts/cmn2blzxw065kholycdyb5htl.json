@@ -1,0 +1,55 @@
+{
+  "id": "cmn2blzxw065kholycdyb5htl",
+  "title": "Panqueca de alface",
+  "slug": "receitas/panqueca_de_alface",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca_de_alface/cmn2blzxw065kholycdyb5htl/",
+  "deeplink": "boil://receita?rid=cmn2blzxw065kholycdyb5htl",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_alface.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_alface.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_alface.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_alface.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/panqueca_de_alface.jpg"
+  },
+  "ingredients": [
+    "⅔ de xícara (chá) de coentro (½ maço)",
+    "¾ de xícara (chá) de salsinha (½ maço)",
+    "⅓ de xícara (chá) de endro (dill) (½ maço)",
+    "3 colheres (sopa) de farinha de trigo",
+    "½ colher (chá) de açúcar",
+    "½ colher (chá) de sal",
+    "noz-moscada ralada na hora a gosto",
+    "pimenta-do-reino moída na hora a gosto",
+    "azeite a gosto",
+    "Numa tigela, quebre um ovo de cada vez e transfira para o processador. Junte a alface, as ervas, os dentes de alho e bata até triturar bem. Acrescente a farinha de trigo, o açúcar, tempere com ½ colher (chá) de sal, noz-moscada e pimenta a gosto. Bata até formar uma massa líquida e transfira para uma tigela.",
+    "Transfira a primeira leva de panquecas para um prato, regue a frigideira com um fio de azeite e repita com o restante, sempre misturando a massa da panqueca com a concha antes de levar à frigideira. Sirva a seguir com queijo cottage caseiro, salada de feijão-branco com pepino e rabanete ou uma saladinha de ervas."
+  ],
+  "steps": [
+    "Faça o pré-preparo: lave as folhas de alface sob água corrente, transfira para uma centrífuga de saladas e seque bem. Coloque uma folha de alface sobre a outra e corte em fatias grossas - isso facilita na hora de bater a massa. Descarte a base grossa dos talos das ervas, lave e seque as folhas. Descasque os dentes de alho.",
+    "Numa tigela, quebre um ovo de cada vez e transfira para o processador. Junte a alface, as ervas, os dentes de alho e bata até triturar bem. Acrescente a farinha de trigo, o açúcar, tempere com ½ colher (chá) de sal, noz-moscada e pimenta a gosto. Bata até formar uma massa líquida e transfira para uma tigela.",
+    "Leve uma frigideira grande (de preferência antiaderente) ao fogo médio. Quando aquecer, regue com ½ colher (sopa) de azeite e prepare as panquecas: com uma concha pequena, misture delicadamente a massa e transfira uma porção para a frigideira, formando um disco pequeno – coloque quantas panquecas couberem uma ao lado da outra. Deixe dourar por 2 minutos, até soltar da frigideira – as bordas da panqueca começam a firmar mas o centro ainda está mole. Vire com uma espátula, abaixe o fogo e deixe dourar do outro lado.",
+    "Transfira a primeira leva de panquecas para um prato, regue a frigideira com um fio de azeite e repita com o restante, sempre misturando a massa da panqueca com a concha antes de levar à frigideira. Sirva a seguir com queijo cottage caseiro, salada de feijão-branco com pepino e rabanete ou uma saladinha de ervas."
+  ],
+  "social": {
+    "caption_short": "Panqueca de alface",
+    "caption_medium": "Panqueca de alface Ingredientes: ⅔ de xícara (chá) de coentro (½ maço), ¾ de xícara (chá) de salsinha (½ maço), ⅓ de xícara (chá) de endro (dill) (½ maço), 3 colheres (sopa) de farinha de trigo, ½ colher (chá) de açúcar. Modo de preparo: Faça o pré-preparo: lave as folhas de alface sob água corrente, transfira para uma centrífuga de saladas e seque bem. Coloque uma folha de alface sobre a outra e corte em fatias grossas - isso facilita na hora de bater a massa. Descarte a base grossa dos talos das ervas, lave e seque as folhas. Descasque os dentes de alho.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#brasil",
+      "#caseiro"
+    ]
+  }
+}

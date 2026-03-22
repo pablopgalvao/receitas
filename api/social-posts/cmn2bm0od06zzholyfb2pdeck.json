@@ -1,0 +1,58 @@
+{
+  "id": "cmn2bm0od06zzholyfb2pdeck",
+  "title": "Quibe de abóbora recheado",
+  "slug": "receitas/quibe-de-abobora-recheado__efb5b0ba",
+  "url": "https://receitas.pgalvao.com.br/receitas/quibe-de-abobora-recheado__efb5b0ba/cmn2bm0od06zzholyfb2pdeck/",
+  "deeplink": "boil://receita?rid=cmn2bm0od06zzholyfb2pdeck",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quibe-de-abobora-recheado__efb5b0ba_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quibe-de-abobora-recheado__efb5b0ba_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quibe-de-abobora-recheado__efb5b0ba_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quibe-de-abobora-recheado__efb5b0ba_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/quibe-de-abobora-recheado__efb5b0ba_01.webp"
+  },
+  "ingredients": [
+    "2 xícaras de trigo para quibe",
+    "500 ml de água quente",
+    "Azeite para refogar",
+    "1 cebola roxa picada",
+    "2 dentes de alho amassados",
+    "250 g de abóbora japonesa assada",
+    "Salsinha picada a gosto",
+    "½ colher de chá de zaatar",
+    "Sal",
+    "1 pitada de pimenta síria",
+    "300 g de creme de ricota",
+    "200 g de ricota",
+    "Hortelã a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque o trigo para quibe em uma vasilha com água e deixe hidratar por 20 minutos;",
+    "Leve uma frigideira ao fogo médio, adicione o azeite, refogue a cebola e o alho e reserve;",
+    "Amasse a abóbora, de modo a formar um purê; junte a cebola e o alho refogados; tempere-a com salsinha, zaatar, sal, pimenta e misture;",
+    "Escorra a água do quibe, junte-o ao purê de abóbora temperado e reserve;",
+    "Misture o creme de ricota com a ricota fresca, tempere com sal e hortelã a gosto e reserve;",
+    "Em uma forma untada com azeite, faça uma camada uniforme com a mistura de abóbora; em seguida, adicione toda a mistura de ricota e cubra com o restante da abóbora. Depois, o quibe está pronto para ser servido."
+  ],
+  "social": {
+    "caption_short": "Quibe de abóbora recheado",
+    "caption_medium": "Quibe de abóbora recheado Ingredientes: 2 xícaras de trigo para quibe, 500 ml de água quente, Azeite para refogar, 1 cebola roxa picada, 2 dentes de alho amassados. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

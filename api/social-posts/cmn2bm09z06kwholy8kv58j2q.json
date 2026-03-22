@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bm09z06kwholy8kv58j2q",
+  "title": "Peixe na air fryer",
+  "slug": "receitas/peixe-na-airfryer__7365c5b1",
+  "url": "https://receitas.pgalvao.com.br/receitas/peixe-na-airfryer__7365c5b1/cmn2bm09z06kwholy8kv58j2q/",
+  "deeplink": "boil://receita?rid=cmn2bm09z06kwholy8kv58j2q",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-na-airfryer__7365c5b1_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-na-airfryer__7365c5b1_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-na-airfryer__7365c5b1_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-na-airfryer__7365c5b1_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/peixe-na-airfryer__7365c5b1_01.webp"
+  },
+  "ingredients": [
+    "2 filés de tilápia",
+    "Sal a gosto",
+    "Pimenta em pó a gosto",
+    "2 dentes de alho amassados",
+    "1 fio de azeite de oliva",
+    "Limão a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, tempere o peixe com sal, azeite, pimenta, alho e limão;",
+    "Mexa bem e deixe os filés absorverem o tempero por cerca de 5 minutos;",
+    "Acomode os filés na cestinha da air fryer;",
+    "Pré-aqueça a fritadeira elétrica a 180 °C e frite o peixe por cerca de 20 minutos;",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Peixe na air fryer",
+    "caption_medium": "Peixe na air fryer Ingredientes: 2 filés de tilápia, Sal a gosto, Pimenta em pó a gosto, 2 dentes de alho amassados, 1 fio de azeite de oliva. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

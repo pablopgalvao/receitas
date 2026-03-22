@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blxz6023qholyfsgm2oto",
+  "title": "Arepas colombianas",
+  "slug": "receitas/arepas-colombianas__eb000f8e",
+  "url": "https://receitas.pgalvao.com.br/receitas/arepas-colombianas__eb000f8e/cmn2blxz6023qholyfsgm2oto/",
+  "deeplink": "boil://receita?rid=cmn2blxz6023qholyfsgm2oto",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arepas-colombianas__eb000f8e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arepas-colombianas__eb000f8e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arepas-colombianas__eb000f8e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arepas-colombianas__eb000f8e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arepas-colombianas__eb000f8e_01.webp"
+  },
+  "ingredients": [
+    "300 gramas de farinha de milho branca pré-cozida",
+    "550 ml de água",
+    "1 colher de chá de sal",
+    "2 colheres de chá cúrcuma",
+    "Óleo para fritar por imersão (cerca de 1 litro)",
+    "20 ovos",
+    "¼ colher de chá de pimenta-do-reino"
+  ],
+  "steps": [
+    "Reúna os ingredientes para preparar as tradicionais arepas colombianas;",
+    "Coloque a farinha de milho branca em uma tigela grande, adicione o sal e a água, misture e deixe descansar por 10 minutos;",
+    "Pegue uma porção de 20 gramas da massa, modele no formato de uma bola e depois achate. Repita o processo com toda a massa;",
+    "Numa panela média, coloque o óleo e leve ao fogo alto para aquecer. Quando o óleo estiver quente, abaixe o fogo e adicione um disco de massa no óleo quente e deixe fritar por cerca de 3 minutos;",
+    "Enquanto isso, quebre um ovo em um jarro pequeno, tempere com sal e pimenta-do-reino. Transfira a arepa frita para um prato forrado com papel-toalha. Com cuidado, abra a arepa ao meio, como uma pequena bolsa e despeje o ovo dentro, pressione para fechar;",
+    "Retorne ao óleo e deixe fritar por mais 3 minutos. Com uma escumadeira, retire novamente a arepa e coloque sobre o prato forrado com papel-toalha;",
+    "Repita o processo com toda a massa. Está pronto, sirva com molhos e bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Arepas colombianas",
+    "caption_medium": "Arepas colombianas Ingredientes: 300 gramas de farinha de milho branca pré-cozida, 550 ml de água, 1 colher de chá de sal, 2 colheres de chá cúrcuma, Óleo para fritar por imersão (cerca de 1 litro). Modo de preparo: Reúna os ingredientes para preparar as tradicionais arepas colombianas;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

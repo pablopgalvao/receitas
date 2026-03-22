@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blywu04p1holy87wbfdu1",
+  "title": "Focaccia vegana",
+  "slug": "receitas/focaccia-vegana__46589a2d",
+  "url": "https://receitas.pgalvao.com.br/receitas/focaccia-vegana__46589a2d/cmn2blywu04p1holy87wbfdu1/",
+  "deeplink": "boil://receita?rid=cmn2blywu04p1holy87wbfdu1",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/focaccia-vegana__46589a2d_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/focaccia-vegana__46589a2d_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/focaccia-vegana__46589a2d_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/focaccia-vegana__46589a2d_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/focaccia-vegana__46589a2d_01.webp"
+  },
+  "ingredients": [
+    "280 ml de água morna",
+    "1 colher de sopa de fermento biológico seco",
+    "3 colheres de sopa de açúcar",
+    "1 colher de café de sal",
+    "½ xícara de chá de azeite",
+    "500 gramas de farinha de trigo",
+    "Sal grosso, alecrim e tomatinhos a gosto"
+  ],
+  "steps": [
+    "Em um recipiente, coloque o fermento, o açúcar, 4 colheres de sopa da farinha e água. Misture bem.",
+    "Adicione o azeite, o restante da farinha e o sal. Misture delicadamente até ficar uma massa pegajosa, mas que não grude nas mãos.",
+    "Deixe descansar por 20 minutos.",
+    "Transfira a massa para uma forma untada com azeite, acomode bem e deixe descansar por mais 15 minutos.",
+    "Faça furinhos com o dedo e acrescente o sal grosso, alecrim e tomatinhos nos buracos.",
+    "Regue a massa com um fio de azeite e leve ao forno preaquecido a 200ºC por cerca de 35 minutos ou até dourar bem.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Focaccia vegana",
+    "caption_medium": "Focaccia vegana Ingredientes: 280 ml de água morna, 1 colher de sopa de fermento biológico seco, 3 colheres de sopa de açúcar, 1 colher de café de sal, ½ xícara de chá de azeite. Modo de preparo: Em um recipiente, coloque o fermento, o açúcar, 4 colheres de sopa da farinha e água. Misture bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

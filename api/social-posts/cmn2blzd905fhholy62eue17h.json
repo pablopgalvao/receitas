@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blzd905fhholy62eue17h",
+  "title": "Maionese verde de mixer",
+  "slug": "receitas/maionese_verde_de_mixer",
+  "url": "https://receitas.pgalvao.com.br/receitas/maionese_verde_de_mixer/cmn2blzd905fhholy62eue17h/",
+  "deeplink": "boil://receita?rid=cmn2blzd905fhholy62eue17h",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_verde_de_mixer.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_verde_de_mixer.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_verde_de_mixer.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_verde_de_mixer.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_verde_de_mixer.jpg"
+  },
+  "ingredients": [
+    "1 colher (sopa) de caldo de limão",
+    "1 colher (sopa) de mostarda de Dijon",
+    "200 ml de óleo",
+    "¼ de xícara (chá) de folhas de salsinha",
+    "2 colheres (sopa) de folhas de hortelã",
+    "sal a gosto",
+    "Lave e seque bem as folhas de salsinha e hortelã.",
+    "No copo do mixer coloque as gemas, a mostarda, o caldo de limão e o óleo. Pressione o mixer (desligado) contra o fundo do copo e só então ligue. Bata por 10 segundos sem mexer.",
+    "Junte as folhas de hortelã e de salsinha e bata para triturar – as ervas dão sabor e cor à maionese. Prove e tempere com sal a gosto. Utilize a seguir ou armazene na geladeira por até 3 dias."
+  ],
+  "steps": [
+    "Lave e seque bem as folhas de salsinha e hortelã.",
+    "No copo do mixer coloque as gemas, a mostarda, o caldo de limão e o óleo. Pressione o mixer (desligado) contra o fundo do copo e só então ligue. Bata por 10 segundos sem mexer.",
+    "Quando a maionese começar a se formar, levante o mixer delicadamente para uma das laterais, sem parar de bater, e repita para o outro lado. Repita o movimento até formar um molho firme – não mexa muito rápido nem faça movimentos de cima para baixo, isso pode fazer a maionese talhar. Em 15 segundos, a maionese fica pronta!",
+    "Junte as folhas de hortelã e de salsinha e bata para triturar – as ervas dão sabor e cor à maionese. Prove e tempere com sal a gosto. Utilize a seguir ou armazene na geladeira por até 3 dias."
+  ],
+  "social": {
+    "caption_short": "Maionese verde de mixer",
+    "caption_medium": "Maionese verde de mixer Ingredientes: 1 colher (sopa) de caldo de limão, 1 colher (sopa) de mostarda de Dijon, 200 ml de óleo, ¼ de xícara (chá) de folhas de salsinha, 2 colheres (sopa) de folhas de hortelã. Modo de preparo: Lave e seque bem as folhas de salsinha e hortelã.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#fácil",
+      "#rápido"
+    ]
+  }
+}

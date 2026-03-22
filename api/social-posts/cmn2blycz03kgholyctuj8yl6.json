@@ -1,0 +1,49 @@
+{
+  "id": "cmn2blycz03kgholyctuj8yl6",
+  "title": "Capuccino caseiro fácil e rápido",
+  "slug": "receitas/capuccino-caseiro-facil-e-rapido__20bdcdf5",
+  "url": "https://receitas.pgalvao.com.br/receitas/capuccino-caseiro-facil-e-rapido__20bdcdf5/cmn2blycz03kgholyctuj8yl6/",
+  "deeplink": "boil://receita?rid=cmn2blycz03kgholyctuj8yl6",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/capuccino-caseiro-facil-e-rapido__20bdcdf5_01.webp"
+  },
+  "ingredients": [
+    "4 colheres de sopa de achocolatado",
+    "1 xícara de chá de leite em pó",
+    "4 colheres de sopa de açúcar",
+    "1 colher de café de bicarbonato de sódio",
+    "1 colher de chá de canela em pó",
+    "4 colheres de sopa de café solúvel"
+  ],
+  "steps": [
+    "Reúna os ingredientes para esse preparo sinônimo de sabor e facilidade;",
+    "No liquidificador, coloque o leite em pó, o açúcar, o achocolatado, o café solúvel, o bicarbonato de sódio e a canela em pó;",
+    "Bata, dando leves chacoalhadas no liquidificador, para que tudo se misture perfeitamente;",
+    "Transfira essa misturinha para um recipiente com tampa e está pronto;",
+    "Faça com água quente ou se preferir uma versão mais cremosa, combine com leite morno!"
+  ],
+  "social": {
+    "caption_short": "Capuccino caseiro fácil e rápido",
+    "caption_medium": "Capuccino caseiro fácil e rápido Ingredientes: 4 colheres de sopa de achocolatado, 1 xícara de chá de leite em pó, 4 colheres de sopa de açúcar, 1 colher de café de bicarbonato de sódio, 1 colher de chá de canela em pó. Modo de preparo: Reúna os ingredientes para esse preparo sinônimo de sabor e facilidade;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

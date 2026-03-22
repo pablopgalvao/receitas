@@ -1,0 +1,45 @@
+{
+  "id": "cmn2blyeq03phholy3gauhe0t",
+  "title": "Ceviche de salmão com creme de abacate",
+  "slug": "receitas/ceviche-de-salmao-com-creme-de-abacate__d75d62c9",
+  "url": "https://receitas.pgalvao.com.br/receitas/ceviche-de-salmao-com-creme-de-abacate__d75d62c9/cmn2blyeq03phholy3gauhe0t/",
+  "deeplink": "boil://receita?rid=cmn2blyeq03phholy3gauhe0t",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao-com-creme-de-abacate__d75d62c9_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao-com-creme-de-abacate__d75d62c9_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao-com-creme-de-abacate__d75d62c9_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao-com-creme-de-abacate__d75d62c9_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao-com-creme-de-abacate__d75d62c9_01.webp"
+  },
+  "ingredients": [
+    "½ abacate",
+    "Gotas de limão a gosto",
+    "Azeite, sal e pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Em um refratário médio, coloque todos os ingredientes do ceviche e misture bem.",
+    "Deixe marinar por 10 minutos na geladeira.",
+    "Bata todos os ingredientes do creme no liquidificador até ficar bem cremoso.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Ceviche de salmão com creme de abacate",
+    "caption_medium": "Ceviche de salmão com creme de abacate Ingredientes: ½ abacate, Gotas de limão a gosto, Azeite, sal e pimenta-do-reino a gosto. Modo de preparo: Em um refratário médio, coloque todos os ingredientes do ceviche e misture bem.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

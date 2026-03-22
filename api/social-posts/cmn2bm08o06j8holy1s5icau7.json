@@ -1,0 +1,50 @@
+{
+  "id": "cmn2bm08o06j8holy1s5icau7",
+  "title": "Pavê de morango",
+  "slug": "receitas/pave-de-morango__c4b3f70e",
+  "url": "https://receitas.pgalvao.com.br/receitas/pave-de-morango__c4b3f70e/cmn2bm08o06j8holy1s5icau7/",
+  "deeplink": "boil://receita?rid=cmn2bm08o06j8holy1s5icau7",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-morango__c4b3f70e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-morango__c4b3f70e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-morango__c4b3f70e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-morango__c4b3f70e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-de-morango__c4b3f70e_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de morangos (higienizados e sem as folhas)",
+    "1 xícara de chá de açúcar",
+    "Suco de 1 limão espremido"
+  ],
+  "steps": [
+    "Em uma panela, coloque o leite condensado, o amido de milho, o creme de leite e misture bem com um fouet ou colher;",
+    "Ligue o fogo baixo, adicione o leite, a essência de baunilha e mexa sem parar até formar uma mistura cremosa e levantar fervura;",
+    "Desligue o fogo, despeje em um recipiente, cubra com plástico filme (tocando na superfície do creme) e deixe mornar por 15 a 20 minutos;",
+    "Em um refratário (de 1,5 L), forre o fundo com um pouco do creme;",
+    "Cubra com uma camada de bolachas e continue até quase chegar ao topo, finalizando com uma camada de creme. Reserve;",
+    "Em outra panela, coloque os morangos, o açúcar, o suco de limão, leve ao fogo baixo e mexa por vezes;",
+    "Assim que começar a engrossar e ferver, mexa sem parar até desgrudar do fundo da panela;",
+    "Desligue o fogo, despeje a geleia por cima do pavê e leve para a geladeira por no mínimo 3 horas;",
+    "Decore com moranguinhos e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Pavê de morango",
+    "caption_medium": "Pavê de morango Ingredientes: 500 gramas de morangos (higienizados e sem as folhas), 1 xícara de chá de açúcar, Suco de 1 limão espremido. Modo de preparo: Em uma panela, coloque o leite condensado, o amido de milho, o creme de leite e misture bem com um fouet ou colher;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

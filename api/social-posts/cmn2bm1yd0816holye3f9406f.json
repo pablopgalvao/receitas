@@ -1,0 +1,52 @@
+{
+  "id": "cmn2bm1yd0816holye3f9406f",
+  "title": "Tofu empanado assado",
+  "slug": "receitas/tofu-empanado-assado__7621caab",
+  "url": "https://receitas.pgalvao.com.br/receitas/tofu-empanado-assado__7621caab/cmn2bm1yd0816holye3f9406f/",
+  "deeplink": "boil://receita?rid=cmn2bm1yd0816holye3f9406f",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tofu-empanado-assado__7621caab_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tofu-empanado-assado__7621caab_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tofu-empanado-assado__7621caab_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tofu-empanado-assado__7621caab_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/tofu-empanado-assado__7621caab_01.webp"
+  },
+  "ingredients": [
+    "450 gramas de tofu extra firme",
+    "Temperos para marinar: shoyu, páprica, orégano, alho em pó a gosto",
+    "1 colher de sopa cheia de farinha de trigo",
+    "Água a gosto",
+    "Farinha Panko a gosto",
+    "Temperos para empanar: páprica, orégano, alho em pó a gosto"
+  ],
+  "steps": [
+    "Corte o tofu em fatias com a espessura de 1 dedo.",
+    "Misture os temperos da marinada em uma tigela e acomode os pedaços de tofu ali. Deixe marinando por 30 minutos.",
+    "Coloque a farinha de trigo e a água em outra tigela e mexa até obter uma pastinha.",
+    "Em outro recipiente, coloque o a farinha Panko e os temperos para empanar. Misture até incorporar tudo muito bem.",
+    "Passe as fatias de tofu primeiro na mistura de trigo e depois na farinha Panko.",
+    "Acomode os tofus empanados em uma forma untada com azeite.",
+    "Asse em forno preaquecido a 200°C por cerca de 45 minutos.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Tofu empanado assado",
+    "caption_medium": "Tofu empanado assado Ingredientes: 450 gramas de tofu extra firme, Temperos para marinar: shoyu, páprica, orégano, alho em pó a gosto, 1 colher de sopa cheia de farinha de trigo, Água a gosto, Farinha Panko a gosto. Modo de preparo: Corte o tofu em fatias com a espessura de 1 dedo.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

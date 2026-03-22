@@ -1,0 +1,46 @@
+{
+  "id": "cmn2bly1102f3holy7endf7n2",
+  "title": "Bebida quente de paçoca",
+  "slug": "receitas/bebida-quente-de-pacoca__47fe0592",
+  "url": "https://receitas.pgalvao.com.br/receitas/bebida-quente-de-pacoca__47fe0592/cmn2bly1102f3holy7endf7n2/",
+  "deeplink": "boil://receita?rid=cmn2bly1102f3holy7endf7n2",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bebida-quente-de-pacoca__47fe0592_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bebida-quente-de-pacoca__47fe0592_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bebida-quente-de-pacoca__47fe0592_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bebida-quente-de-pacoca__47fe0592_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bebida-quente-de-pacoca__47fe0592_01.webp"
+  },
+  "ingredients": [
+    "500 ml de leite",
+    "2 colheres de chá de amido de milho",
+    "½ lata de leite condensado",
+    "5 paçocas de rolha",
+    "1 colher de chá de canela"
+  ],
+  "steps": [
+    "Dissolva o amido de milho em um pouco do leite.",
+    "Colocar todos os ingredientes em uma panela, levar ao fogo médio e mexer sem parar até engrossar.",
+    "Agora é só servir."
+  ],
+  "social": {
+    "caption_short": "Bebida quente de paçoca",
+    "caption_medium": "Bebida quente de paçoca Ingredientes: 500 ml de leite, 2 colheres de chá de amido de milho, ½ lata de leite condensado, 5 paçocas de rolha, 1 colher de chá de canela. Modo de preparo: Dissolva o amido de milho em um pouco do leite.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

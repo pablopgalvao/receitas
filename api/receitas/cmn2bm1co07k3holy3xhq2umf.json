@@ -1,0 +1,76 @@
+{
+  "id": "cmn2bm1co07k3holy3xhq2umf",
+  "title": "Salada oriental de arroz com frango para um",
+  "slug": "receitas/salada_oriental_de_arroz_com_frango_para_um",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada_oriental_de_arroz_com_frango_para_um/cmn2bm1co07k3holy3xhq2umf/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2bm1co07k3holy3xhq2umf.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2bm1co07k3holy3xhq2umf.json",
+  "deeplink": "boil://receita?rid=cmn2bm1co07k3holy3xhq2umf",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:54.367Z",
+  "time": "",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Saladas"
+  ],
+  "tags": [
+    "saudável",
+    "caseiro",
+    "oriental"
+  ],
+  "ingredients": [
+    "Salada de verdes com vinagrete de romã",
+    "Salada de grão-de-bico com carne e vinagrete",
+    "Salada de cevada com frutas secas",
+    "Salada de macarrão com atum",
+    "Salada caprese com ovinhos de codorna para crianças",
+    "1 xícara (chá) de arroz branco cozido",
+    "1 sobrecoxa de frango assada (cerca de ⅓ de xícara desfiada)",
+    "⅓ de talo de salsão",
+    "1 colher (sopa) de shoyu (molho de soja)",
+    "1 colher (chá) de caldo de limão",
+    "2 colheres (chá) de azeite Andorinha",
+    "cebolinha fatiada a gosto",
+    "gergelim branco e preto torrado a gosto",
+    "Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).",
+    "Numa tigela, misture o arroz com o shoyu, o azeite e o caldo de limão. Transfira para um prato, cubra com o frango desfiado e as tiras de salsão e de pimenta. Salpique com a cebolinha, o gergelim e sirva a seguir. Se quiser levar a salada como marmita, deixe para salpicar a cebolinha e o gergelim na hora de comer."
+  ],
+  "steps": [
+    "Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).",
+    "Lave e corte 1 pimenta dedo-de-moça ao meio e descarte as sementes. Fatie uma metade em tirinhas. Dica: para evitar acidentes com dedos apimentados nos olhos, passe óleo ou azeite nas mãos depois de cortar as pimentas — a capsaicina, substância responsável pelo ardor, é lipossolúvel. Depois, lave as mãos com sabonete para tirar o óleo.",
+    "Numa tigela, misture o arroz com o shoyu, o azeite e o caldo de limão. Transfira para um prato, cubra com o frango desfiado e as tiras de salsão e de pimenta. Salpique com a cebolinha, o gergelim e sirva a seguir. Se quiser levar a salada como marmita, deixe para salpicar a cebolinha e o gergelim na hora de comer."
+  ],
+  "excerpt": "Salada oriental de arroz com frango para um. Ingrediente em destaque: Salada de verdes com vinagrete de romã. Comece assim: Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).",
+  "social": {
+    "caption_short": "Salada oriental de arroz com frango para um",
+    "caption_medium": "Salada oriental de arroz com frango para um Ingredientes: Salada de verdes com vinagrete de romã, Salada de grão-de-bico com carne e vinagrete, Salada de cevada com frutas secas, Salada de macarrão com atum, Salada caprese com ovinhos de codorna para crianças. Modo de preparo: Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#caseiro",
+      "#oriental"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_oriental_de_arroz_com_frango_para_um.jpg\" alt=\"Salada oriental de arroz com frango para um\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Saladas</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> </li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Salada de verdes com vinagrete de romã</li>\n<li>Salada de grão-de-bico com carne e vinagrete</li>\n<li>Salada de cevada com frutas secas</li>\n<li>Salada de macarrão com atum</li>\n<li>Salada caprese com ovinhos de codorna para crianças</li>\n<li>1 xícara (chá) de arroz branco cozido</li>\n<li>1 sobrecoxa de frango assada (cerca de ⅓ de xícara desfiada)</li>\n<li>⅓ de talo de salsão</li>\n<li>1 colher (sopa) de shoyu (molho de soja)</li>\n<li>1 colher (chá) de caldo de limão</li>\n<li>2 colheres (chá) de azeite Andorinha</li>\n<li>cebolinha fatiada a gosto</li>\n<li>gergelim branco e preto torrado a gosto</li>\n<li>Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).</li>\n<li>Numa tigela, misture o arroz com o shoyu, o azeite e o caldo de limão. Transfira para um prato, cubra com o frango desfiado e as tiras de salsão e de pimenta. Salpique com a cebolinha, o gergelim e sirva a seguir. Se quiser levar a salada como marmita, deixe para salpicar a cebolinha e o gergelim na hora de comer.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Com as mãos, desfie a sobrecoxa. Descarte pele e osso. Lave e corte um pedaço de 5 cm do talo de salsão. Fatie esse pedaço em tiras finas, no sentido do comprimento (não descarte o restante do salsão. As folhas e o talo podem ser congelados por até 3 meses).</li>\n<li>Lave e corte 1 pimenta dedo-de-moça ao meio e descarte as sementes. Fatie uma metade em tirinhas. Dica: para evitar acidentes com dedos apimentados nos olhos, passe óleo ou azeite nas mãos depois de cortar as pimentas — a capsaicina, substância responsável pelo ardor, é lipossolúvel. Depois, lave as mãos com sabonete para tirar o óleo.</li>\n<li>Numa tigela, misture o arroz com o shoyu, o azeite e o caldo de limão. Transfira para um prato, cubra com o frango desfiado e as tiras de salsão e de pimenta. Salpique com a cebolinha, o gergelim e sirva a seguir. Se quiser levar a salada como marmita, deixe para salpicar a cebolinha e o gergelim na hora de comer.</li>\n</ol>\n"
+}

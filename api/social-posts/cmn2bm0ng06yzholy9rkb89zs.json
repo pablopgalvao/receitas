@@ -1,0 +1,48 @@
+{
+  "id": "cmn2bm0ng06yzholy9rkb89zs",
+  "title": "Queijadinha de colher",
+  "slug": "receitas/queijadinha_de_colher",
+  "url": "https://receitas.pgalvao.com.br/receitas/queijadinha_de_colher/cmn2bm0ng06yzholy9rkb89zs/",
+  "deeplink": "boil://receita?rid=cmn2bm0ng06yzholy9rkb89zs",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/queijadinha_de_colher.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/queijadinha_de_colher.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/queijadinha_de_colher.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/queijadinha_de_colher.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/queijadinha_de_colher.jpg"
+  },
+  "ingredients": [
+    "½ xícara (chá) de coco seco ralado",
+    "½ xícara (chá) de queijo parmesão ralado fino",
+    "Numa tigela pequena quebre um ovo de cada vez para separar a clara da gema. Transfira as gemas para uma tigela média e as claras noutra tigela – nessa receita só usaremos as gemas, você pode armazenar as claras na geladeira por até 2 dias para preparar outra receita."
+  ],
+  "steps": [
+    "Preaqueça o forno a 200 ºC (temperatura média). Leve uma chaleira com água ao fogo alto – ela vai ser usada para assar a queijadinha em banho-maria.",
+    "Numa tigela pequena quebre um ovo de cada vez para separar a clara da gema. Transfira as gemas para uma tigela média e as claras noutra tigela – nessa receita só usaremos as gemas, você pode armazenar as claras na geladeira por até 2 dias para preparar outra receita.",
+    "Junte o leite condensado às gemas e mexa bem com uma espátula de silicone. Acrescente o coco e o queijo ralado e misture bem para incorporar.",
+    "Transfira o creme para um refratário redondo de 20 cm de diâmetro (se preferir utilize um refratário de outro formato que comporte 1 litro). Disponha o refratário com a queijadinha numa assadeira e leve ao forno.",
+    "Preencha o fundo da assadeira com água quente e deixe assar por cerca de 20 minutos, ou até que a queijadinha esteja dourada na superfície mas ainda cremosa no centro. Sirva morna ou em temperatura ambiente."
+  ],
+  "social": {
+    "caption_short": "Queijadinha de colher",
+    "caption_medium": "Queijadinha de colher Ingredientes: ½ xícara (chá) de coco seco ralado, ½ xícara (chá) de queijo parmesão ralado fino, Numa tigela pequena quebre um ovo de cada vez para separar a clara da gema. Transfira as gemas para uma tigela média e as claras noutra tigela – nessa receita só usaremos as gemas, você pode armazenar as claras na geladeira por até 2 dias para preparar outra receita.. Modo de preparo: Preaqueça o forno a 200 ºC (temperatura média). Leve uma chaleira com água ao fogo alto – ela vai ser usada para assar a queijadinha em banho-maria.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#caseiro",
+      "#fácil"
+    ]
+  }
+}

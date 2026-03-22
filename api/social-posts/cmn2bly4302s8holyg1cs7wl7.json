@@ -1,0 +1,56 @@
+{
+  "id": "cmn2bly4302s8holyg1cs7wl7",
+  "title": "Bolo de banana de frigideira fit",
+  "slug": "receitas/bolo-de-banana-de-frigideira-fit__736f01bb",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-banana-de-frigideira-fit__736f01bb/cmn2bly4302s8holyg1cs7wl7/",
+  "deeplink": "boil://receita?rid=cmn2bly4302s8holyg1cs7wl7",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-de-frigideira-fit__736f01bb_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-de-frigideira-fit__736f01bb_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-de-frigideira-fit__736f01bb_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-de-frigideira-fit__736f01bb_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-de-frigideira-fit__736f01bb_01.webp"
+  },
+  "ingredients": [
+    "Óleo de coco para untar",
+    "1 banana em fatias",
+    "1 colher de chá de açúcar mascavo ou de coco",
+    "1 ovo",
+    "4 colheres de sopa de aveia em flocos finos",
+    "2 colheres de sopa de leite",
+    "Canela em pó a gosto",
+    "1 colher de chá de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Unte uma frigideira com óleo de coco;",
+    "Polvilhe o açúcar na frigideira, formando uma camada fina;",
+    "Disponha as fatias de banana por cima do açúcar e reserve;",
+    "Bata o ovo em uma vasilha com um fouet;",
+    "Acrescente a aveia, leite, canela e o fermento. Misture até incorporar;",
+    "Despeje essa massa por cima das fatias de banana;",
+    "Coloque uma grade do fogão em cima da outra, ligue o fogo, coloque a frigideira em cima e cozinhe com a tampa, em fogo bem baixo;",
+    "Cozinhe de um lado por alguns minutos e, em seguida, vire e deixe dourar do outro lado;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de banana de frigideira fit",
+    "caption_medium": "Bolo de banana de frigideira fit Ingredientes: Óleo de coco para untar, 1 banana em fatias, 1 colher de chá de açúcar mascavo ou de coco, 1 ovo, 4 colheres de sopa de aveia em flocos finos. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

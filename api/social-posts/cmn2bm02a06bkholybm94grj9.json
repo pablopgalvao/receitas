@@ -1,0 +1,52 @@
+{
+  "id": "cmn2bm02a06bkholybm94grj9",
+  "title": "Pão integral caseiro simples",
+  "slug": "receitas/pao-integral-caseiro-simples__db239aae",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-integral-caseiro-simples__db239aae/cmn2bm02a06bkholybm94grj9/",
+  "deeplink": "boil://receita?rid=cmn2bm02a06bkholybm94grj9",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro-simples__db239aae_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro-simples__db239aae_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro-simples__db239aae_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro-simples__db239aae_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro-simples__db239aae_01.webp"
+  },
+  "ingredients": [
+    "270 gramas de farinha integral",
+    "59ml de óleo",
+    "237ml de leite vegetal, leite de vaca ou água morno",
+    "9 gramas de fermento biológico seco",
+    "36 gramas de açúcar",
+    "3 gramas de sal"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma batedeira ou vasilha, adicione a farinha, fermento, açúcar, óleo e o leite morno. Misture e adicione o sal;",
+    "Sove a massa com uma colher de pau ou na batedeira planetária por 5 minutos;",
+    "Cubra a vasilha com um pano e deixe a massa crescer por 1 hora;",
+    "Transfira a massa para uma forma de pão tamanho 23 x 13 cm untada com óleo e cubra com um pano para crescer novamente por mais 1 hora;",
+    "Pincele a massa com azeite e espalhe aveia, semente de girassol e gergelim;",
+    "Asse em forno preaquecido a 180° C por aproximadamente 25 minutos ou até que esteja assado;",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Pão integral caseiro simples",
+    "caption_medium": "Pão integral caseiro simples Ingredientes: 270 gramas de farinha integral, 59ml de óleo, 237ml de leite vegetal, leite de vaca ou água morno, 9 gramas de fermento biológico seco, 36 gramas de açúcar. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

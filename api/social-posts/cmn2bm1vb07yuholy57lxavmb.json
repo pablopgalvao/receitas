@@ -1,0 +1,57 @@
+{
+  "id": "cmn2bm1vb07yuholy57lxavmb",
+  "title": "Tagine rápida de peixe",
+  "slug": "receitas/tagine_r_pida_de_peixe",
+  "url": "https://receitas.pgalvao.com.br/receitas/tagine_r_pida_de_peixe/cmn2bm1vb07yuholy57lxavmb/",
+  "deeplink": "boil://receita?rid=cmn2bm1vb07yuholy57lxavmb",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tagine_r_pida_de_peixe.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tagine_r_pida_de_peixe.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tagine_r_pida_de_peixe.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tagine_r_pida_de_peixe.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tagine_r_pida_de_peixe.jpg"
+  },
+  "ingredients": [
+    "Enroladinho de peixe com salada marroquina de cenoura",
+    "1 xícara (chá) de água",
+    "2 colheres (chá) de mel",
+    "1 colher (sopa) de azeite",
+    "1 colher (chá) de cominho em pó",
+    "1 colher (chá) de cúrcuma",
+    "1 pitada de pimenta-de-caiena",
+    "folhas de coentro a gosto",
+    "sal a gosto",
+    "Leve ao fogo médio uma frigideira grande com bordas altas (se preferir, utilize uma caçarola). Quando aquecer, regue com o azeite e adicione a cebola. Tempere com sal e refogue por cerca de 3 minutos, até murchar.",
+    "Adicione as postas de cação, tempere com mais um pouco de sal e deixe cozinhar por 5 minutos - o peixe deve ficar cozido, mas ainda macio. Junte o grão-de-bico e regue com o mel. Misture e deixe cozinhar por mais 2 minutos, apenas para aquecer. Enquanto isso, lave e seque as folhas de coentro.",
+    "Desligue o fogo. Com uma espátula, parta as postas de peixe em pedaços médios, retire e descarte o ossinho de cada uma. Salpique folhas de coentro e sirva a seguir, com o molho que se formou na frigideira. Fica perfeito com cuscuz marroquino."
+  ],
+  "steps": [
+    "Faça o pré-preparo: descasque e pique fino a cebola e o alho; lave e seque o limão siciliano; com um zester (ou ralador) faça raspas da casca e esprema o caldo numa tigela. Reserve. Sobre uma tigela, passe o grão-de-bico por uma peneira e deixe escorrer bem a água. Se quiser, reserve a água do grão-de-bico para outra receita, que tal um merengue? Tem receita no site .",
+    "Leve ao fogo médio uma frigideira grande com bordas altas (se preferir, utilize uma caçarola). Quando aquecer, regue com o azeite e adicione a cebola. Tempere com sal e refogue por cerca de 3 minutos, até murchar.",
+    "Acrescente o alho, o cominho, a cúrcuma, a pimenta cayena e a canela em rama. Mexa por cerca de 1 minuto para perfumar. Junte o tomate pelado (com o líquido), as raspas e o caldo do limão. Regue com a água e misture bem. Quando ferver, abaixe o fogo e deixe cozinhar por 10 minutos, mexendo de vez em quando.",
+    "Adicione as postas de cação, tempere com mais um pouco de sal e deixe cozinhar por 5 minutos - o peixe deve ficar cozido, mas ainda macio. Junte o grão-de-bico e regue com o mel. Misture e deixe cozinhar por mais 2 minutos, apenas para aquecer. Enquanto isso, lave e seque as folhas de coentro.",
+    "Desligue o fogo. Com uma espátula, parta as postas de peixe em pedaços médios, retire e descarte o ossinho de cada uma. Salpique folhas de coentro e sirva a seguir, com o molho que se formou na frigideira. Fica perfeito com cuscuz marroquino."
+  ],
+  "social": {
+    "caption_short": "Tagine rápida de peixe",
+    "caption_medium": "Tagine rápida de peixe Ingredientes: Enroladinho de peixe com salada marroquina de cenoura, 1 xícara (chá) de água, 2 colheres (chá) de mel, 1 colher (sopa) de azeite, 1 colher (chá) de cominho em pó. Modo de preparo: Faça o pré-preparo: descasque e pique fino a cebola e o alho; lave e seque o limão siciliano; com um zester (ou ralador) faça raspas da casca e esprema o caldo numa tigela. Reserve. Sobre uma tigela, passe o grão-de-bico por uma peneira e deixe escorrer bem a água. Se quiser, reserve a água do grão-de-bico para outra receita, que tal um merengue? Tem receita no site .",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#caseiro",
+      "#tradicional"
+    ]
+  }
+}

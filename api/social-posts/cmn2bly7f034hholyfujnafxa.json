@@ -1,0 +1,54 @@
+{
+  "id": "cmn2bly7f034hholyfujnafxa",
+  "title": "Bolo fit de banana caramelizada",
+  "slug": "receitas/bolo-fit-de-banana-caramelizada__5530f8ce",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-fit-de-banana-caramelizada__5530f8ce/cmn2bly7f034hholyfujnafxa/",
+  "deeplink": "boil://receita?rid=cmn2bly7f034hholyfujnafxa",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-caramelizada__5530f8ce_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-caramelizada__5530f8ce_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-caramelizada__5530f8ce_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-caramelizada__5530f8ce_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-fit-de-banana-caramelizada__5530f8ce_01.webp"
+  },
+  "ingredients": [
+    "3 a 4 bananas picadas (para o caramelo)",
+    "Mel a gosto",
+    "2 bananas",
+    "2 ovos",
+    "1 xícara de chá de leite",
+    "3 colheres de sopa de manteiga",
+    "½ xícara de chá de eritritol",
+    "Uma pitada de canela em pó",
+    "Essência de baunilha a gosto",
+    "½ xícara de chá de farinha de aveia",
+    "1 colher de sopa de fermento químico em pó"
+  ],
+  "steps": [
+    "Em uma forma de bolo inglês untada, forre todo o fundo com as 3 bananas e o mel. Reserve.",
+    "Em um liquidificador, coloque as 2 bananas, os ovos, o leite, a manteiga, o eritritol, a canela, a baunilha, a farinha e bata por cerca de 2 minutos.",
+    "Adicione o fermento e misture com uma colher até incorporar.",
+    "Despeje, com cuidado, sobre as bananas picadas com mel e leve ao forno preaquecido a 180 °C por cerca de 40 minutos.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Bolo fit de banana caramelizada",
+    "caption_medium": "Bolo fit de banana caramelizada Ingredientes: 3 a 4 bananas picadas (para o caramelo), Mel a gosto, 2 bananas, 2 ovos, 1 xícara de chá de leite. Modo de preparo: Em uma forma de bolo inglês untada, forre todo o fundo com as 3 bananas e o mel. Reserve.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

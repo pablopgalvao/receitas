@@ -1,0 +1,56 @@
+{
+  "id": "cmn2bly4b02t5holy45fxbfpt",
+  "title": "Bolo de banana",
+  "slug": "receitas/bolo-de-banana__01ef75af",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-banana__01ef75af/cmn2bly4b02t5holy45fxbfpt/",
+  "deeplink": "boil://receita?rid=cmn2bly4b02t5holy45fxbfpt",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana__01ef75af_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana__01ef75af_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana__01ef75af_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana__01ef75af_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana__01ef75af_01.webp"
+  },
+  "ingredients": [
+    "5 bananas-nanicas ou caturra",
+    "1 e ½ xícara de chá de açúcar para caramelizar (270 gramas)",
+    "4 ovos médios (cerca de 200 gramas)",
+    "2 xícaras de chá de açúcar refinado (400 gramas)",
+    "¼ de xícara de chá de manteiga sem sal em temperatura ambiente (65 gramas)",
+    "1 xícara de chá de leite (240 ml)",
+    "1 e ½ colher de sopa de fermento químico em pó (fermento para bolo)",
+    "2 xícaras de chá de farinha de trigo (260 gramas)",
+    "½ colher de sopa de essência de baunilha"
+  ],
+  "steps": [
+    "Você pode caramelizar o seu açúcar direto na forma como faremos ou derreter em uma panela separada. Junte os demais ingredientes;",
+    "Em uma forma de alumínio com dimensões de 22 x 34 x 4 cm, no fogo baixo, coloque o açúcar e derreta, mexendo com uma espátula, até atingir a cor dourada. É importante fazer esse processo em fogo baixo para não amargar o caramelo;",
+    "Quando o caramelo estiver pronto, movimente a forma delicadamente para espalhar por toda a base. Reserve;",
+    "Na tigela da batedeira, quebre os ovos e, se eles estiverem bons, adicione o açúcar e bata por cerca de 10 minutos ou até ficar um creme liso e claro;",
+    "Acrescente a manteiga em temperatura ambiente e bata na velocidade máxima por 2 minutos;",
+    "Coloque o leite, 1 xícara de farinha, a essência de baunilha e o fermento. Bata na velocidade mínima ou média e acrescente o restante da farinha aos poucos;",
+    "Descasque as bananas e corte-as em 3 partes no sentido do comprimento. Disponha as fatias na forma com o caramelo, colocando elas com as sementes viradas para baixo;",
+    "Despeje a massa por cima das bananas e leve ao forno preaquecido a 180ºC por cerca de 50 a 60 minutos, até espetar um palito e ele sair limpo;",
+    "Retire o bolo e passe a faca nas laterais. Com cuidado, pegue a assadeira e desenforme em uma tábua. E o bolinho da tarde ficou pronto. Sirva com uma xícara de café e aproveite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de banana",
+    "caption_medium": "Bolo de banana Ingredientes: 5 bananas-nanicas ou caturra, 1 e ½ xícara de chá de açúcar para caramelizar (270 gramas), 4 ovos médios (cerca de 200 gramas), 2 xícaras de chá de açúcar refinado (400 gramas), ¼ de xícara de chá de manteiga sem sal em temperatura ambiente (65 gramas). Modo de preparo: Você pode caramelizar o seu açúcar direto na forma como faremos ou derreter em uma panela separada. Junte os demais ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

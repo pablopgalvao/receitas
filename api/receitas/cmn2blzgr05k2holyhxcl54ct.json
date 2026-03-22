@@ -1,0 +1,71 @@
+{
+  "id": "cmn2blzgr05k2holyhxcl54ct",
+  "title": "Minestrone",
+  "slug": "receitas/minestrone",
+  "url": "https://receitas.pgalvao.com.br/receitas/minestrone/cmn2blzgr05k2holyhxcl54ct/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/cmn2blzgr05k2holyhxcl54ct.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/cmn2blzgr05k2holyhxcl54ct.json",
+  "deeplink": "boil://receita?rid=cmn2blzgr05k2holyhxcl54ct",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/minestrone.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/minestrone.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/minestrone.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/minestrone.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/minestrone.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-02-27T18:38:49.430Z",
+  "time": "5 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "tradicional",
+    "rápido"
+  ],
+  "ingredients": [
+    "1 talo de salsão (com as folhas)",
+    "2 colheres (sopa) de azeite",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.",
+    "Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite e a cebola, com 1 pitada de sal, por cerca de 5 minutos, até murchar e começar a dourar. Junte a cenoura e o salsão e refogue por mais 5 minutos. Por último, junte o alho e o louro e mexa por 1 minuto.",
+    "Acrescente o tomate pelado aos poucos, mexendo bem o refogado a cada adição — essa técnica chamada pinçage dá mais sabor ao caldo. Regue com a água, junte a batata e tempere com 2 colheres (chá) de sal e pimenta a gosto. Adicione a casca de parmesão (caso esteja usando), a folha de salsão e aumente o fogo."
+  ],
+  "steps": [
+    "Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.",
+    "Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite e a cebola, com 1 pitada de sal, por cerca de 5 minutos, até murchar e começar a dourar. Junte a cenoura e o salsão e refogue por mais 5 minutos. Por último, junte o alho e o louro e mexa por 1 minuto.",
+    "Acrescente o tomate pelado aos poucos, mexendo bem o refogado a cada adição — essa técnica chamada pinçage dá mais sabor ao caldo. Regue com a água, junte a batata e tempere com 2 colheres (chá) de sal e pimenta a gosto. Adicione a casca de parmesão (caso esteja usando), a folha de salsão e aumente o fogo.",
+    "Assim que começar a ferver, abaixe o fogo e deixe cozinhar em fogo bem baixo por 40 minutos – tem que ser fogo baixinho mesmo, para formar um caldo de sabor concentrado e perder o mínimo de volume.",
+    "Enquanto isso, lave e seque a abobrinha, a vagem e a couve. Descarte as pontas e corte a abobrinha em cubos de 1 cm. Descarte as pontinhas e corte a vagem em fatias de 1 cm. Corte as folhas de couve ao meio, no sentido do comprimento, e descarte o talo central. Empilhe uma sobre a outra e fatie no sentido da largura em tiras de 1 cm.",
+    "Após os 40 minutos, misture a vagem e a abobrinha à panela e deixe cozinhar por mais 20 minutos.",
+    "Escorra o feijão numa peneira. Misture o feijão e a couve fatiada à sopa e deixe cozinhar por 3 minutos, com a tampa, até o feijão aquecer e a couve ficar macia. Sirva a seguir."
+  ],
+  "excerpt": "Minestrone. Tempo de preparo: 5 min. Ingrediente em destaque: 1 talo de salsão (com as folhas). Comece assim: Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.",
+  "social": {
+    "caption_short": "Minestrone",
+    "caption_medium": "Minestrone Ingredientes: 1 talo de salsão (com as folhas), 2 colheres (sopa) de azeite, sal e pimenta-do-reino moída na hora a gosto, Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm., Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite e a cebola, com 1 pitada de sal, por cerca de 5 minutos, até murchar e começar a dourar. Junte a cenoura e o salsão e refogue por mais 5 minutos. Por último, junte o alho e o louro e mexa por 1 minuto.. Modo de preparo: Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#tradicional",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/minestrone.jpg\" alt=\"Minestrone\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 5 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 talo de salsão (com as folhas)</li>\n<li>2 colheres (sopa) de azeite</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.</li>\n<li>Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite e a cebola, com 1 pitada de sal, por cerca de 5 minutos, até murchar e começar a dourar. Junte a cenoura e o salsão e refogue por mais 5 minutos. Por último, junte o alho e o louro e mexa por 1 minuto.</li>\n<li>Acrescente o tomate pelado aos poucos, mexendo bem o refogado a cada adição — essa técnica chamada pinçage dá mais sabor ao caldo. Regue com a água, junte a batata e tempere com 2 colheres (chá) de sal e pimenta a gosto. Adicione a casca de parmesão (caso esteja usando), a folha de salsão e aumente o fogo.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Descasque e pique fino a cebola e os dentes de alho. Lave e seque o salsão. Reserve as folhas e corte o talo em pedaços de 1 cm. Descasque e corte a cenoura em cubos de 1 cm. Descasque e corte a batata também em cubos 1 cm.</li>\n<li>Leve uma panela grande ao fogo médio. Quando aquecer, regue com o azeite e a cebola, com 1 pitada de sal, por cerca de 5 minutos, até murchar e começar a dourar. Junte a cenoura e o salsão e refogue por mais 5 minutos. Por último, junte o alho e o louro e mexa por 1 minuto.</li>\n<li>Acrescente o tomate pelado aos poucos, mexendo bem o refogado a cada adição — essa técnica chamada pinçage dá mais sabor ao caldo. Regue com a água, junte a batata e tempere com 2 colheres (chá) de sal e pimenta a gosto. Adicione a casca de parmesão (caso esteja usando), a folha de salsão e aumente o fogo.</li>\n<li>Assim que começar a ferver, abaixe o fogo e deixe cozinhar em fogo bem baixo por 40 minutos – tem que ser fogo baixinho mesmo, para formar um caldo de sabor concentrado e perder o mínimo de volume.</li>\n<li>Enquanto isso, lave e seque a abobrinha, a vagem e a couve. Descarte as pontas e corte a abobrinha em cubos de 1 cm. Descarte as pontinhas e corte a vagem em fatias de 1 cm. Corte as folhas de couve ao meio, no sentido do comprimento, e descarte o talo central. Empilhe uma sobre a outra e fatie no sentido da largura em tiras de 1 cm.</li>\n<li>Após os 40 minutos, misture a vagem e a abobrinha à panela e deixe cozinhar por mais 20 minutos.</li>\n<li>Escorra o feijão numa peneira. Misture o feijão e a couve fatiada à sopa e deixe cozinhar por 3 minutos, com a tampa, até o feijão aquecer e a couve ficar macia. Sirva a seguir.</li>\n</ol>\n"
+}

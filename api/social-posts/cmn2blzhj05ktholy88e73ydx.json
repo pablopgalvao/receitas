@@ -1,0 +1,52 @@
+{
+  "id": "cmn2blzhj05ktholy88e73ydx",
+  "title": "Mini panquecas",
+  "slug": "receitas/mini-panquecas__53353629",
+  "url": "https://receitas.pgalvao.com.br/receitas/mini-panquecas__53353629/cmn2blzhj05ktholy88e73ydx/",
+  "deeplink": "boil://receita?rid=cmn2blzhj05ktholy88e73ydx",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-panquecas__53353629_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-panquecas__53353629_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-panquecas__53353629_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-panquecas__53353629_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/mini-panquecas__53353629_01.webp"
+  },
+  "ingredients": [
+    "1 ovo",
+    "⅓ xícara de chá de leite",
+    "½ xícara de chá de farinha de trigo",
+    "½ colher de sopa de açúcar",
+    "½ colher de sopa de fermento químico em pó (fermento para bolo)",
+    "1 colher de sopa de creme de ricota"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes das mini panquecas;",
+    "Em uma vasilha, coloque o ovo e bata bem;",
+    "Adicione o leite e o creme de ricota. Misture bem e reserve;",
+    "Em outro recipiente, coloque o açúcar, a farinha e o fermento. Misture;",
+    "Junte a mistura de ovo, creme de ricota e leite. Misture até tudo incorporar;",
+    "Em uma frigideira untada, coloque algumas porções dessa massa até formar as mini panquecas;",
+    "Assim que um lado estiver dourado, vire para o outro e deixe dourar também;",
+    "Está pronto! Agora é só aproveitar essas mini panquecas. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Mini panquecas",
+    "caption_medium": "Mini panquecas Ingredientes: 1 ovo, ⅓ xícara de chá de leite, ½ xícara de chá de farinha de trigo, ½ colher de sopa de açúcar, ½ colher de sopa de fermento químico em pó (fermento para bolo). Modo de preparo: Reúna todos os ingredientes das mini panquecas;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

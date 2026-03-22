@@ -1,0 +1,53 @@
+{
+  "id": "cmn2blyek03ozholygd7kh5pq",
+  "title": "Cenoura assada com molho pesto",
+  "slug": "receitas/cenoura_assada_com_molho_pesto",
+  "url": "https://receitas.pgalvao.com.br/receitas/cenoura_assada_com_molho_pesto/cmn2blyek03ozholygd7kh5pq/",
+  "deeplink": "boil://receita?rid=cmn2blyek03ozholygd7kh5pq",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_assada_com_molho_pesto.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_assada_com_molho_pesto.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_assada_com_molho_pesto.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_assada_com_molho_pesto.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cenoura_assada_com_molho_pesto.jpg"
+  },
+  "ingredients": [
+    "Salada de cenoura com vinagre balsâmico e castanha-de-caju",
+    "1 xícara (chá) de folhas de manjericão",
+    "¼ de xícara (chá) de castanha-de-caju",
+    "¼ de xícara (chá) de queijo parmesão ralado",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Descasque e corte a cenoura ao meio no sentido da largura. Corte cada metade em quartos e transfira para uma assadeira grande. Tempere com 2 colheres (sopa) de azeite, sal e pimenta-do-reino a gosto. Misture bem para envolver todos os pedaços com o azeite.",
+    "Lave, seque bem e transfira as folhas de manjericão para o copo do mixer. Descasque o dente de alho e junte ao manjericão. Acrescente as castanhas, o queijo parmesão, ½ xícara (chá) de azeite, o cubo de gelo - ele deixa a cor do molho bem verde - e bata até ficar liso (se preferir bata no liquidificador). Misture as raspas de laranja e tempere com sal e pimenta-do-reino a gosto."
+  ],
+  "steps": [
+    "Preaqueça o forno a 240 ºC (temperatura alta).",
+    "Descasque e corte a cenoura ao meio no sentido da largura. Corte cada metade em quartos e transfira para uma assadeira grande. Tempere com 2 colheres (sopa) de azeite, sal e pimenta-do-reino a gosto. Misture bem para envolver todos os pedaços com o azeite.",
+    "Leve ao forno para assar por cerca de 20 minutos até dourar - na metade do tempo vire com uma espátula para dourar por igual. Enquanto isso prepare o molho pesto.",
+    "Lave, seque bem e transfira as folhas de manjericão para o copo do mixer. Descasque o dente de alho e junte ao manjericão. Acrescente as castanhas, o queijo parmesão, ½ xícara (chá) de azeite, o cubo de gelo - ele deixa a cor do molho bem verde - e bata até ficar liso (se preferir bata no liquidificador). Misture as raspas de laranja e tempere com sal e pimenta-do-reino a gosto.",
+    "Assim que estiverem assadas, retire do forno e transfira as cenouras para um prato. Sirva a seguir com o molho pesto."
+  ],
+  "social": {
+    "caption_short": "Cenoura assada com molho pesto",
+    "caption_medium": "Cenoura assada com molho pesto Ingredientes: Salada de cenoura com vinagre balsâmico e castanha-de-caju, 1 xícara (chá) de folhas de manjericão, ¼ de xícara (chá) de castanha-de-caju, ¼ de xícara (chá) de queijo parmesão ralado, azeite a gosto. Modo de preparo: Preaqueça o forno a 240 ºC (temperatura alta).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#rápido",
+      "#italia"
+    ]
+  }
+}

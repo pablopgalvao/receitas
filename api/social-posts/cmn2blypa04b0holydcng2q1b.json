@@ -1,0 +1,51 @@
+{
+  "id": "cmn2blypa04b0holydcng2q1b",
+  "title": "Donuts",
+  "slug": "receitas/donuts__876f0ff7",
+  "url": "https://receitas.pgalvao.com.br/receitas/donuts__876f0ff7/cmn2blypa04b0holydcng2q1b/",
+  "deeplink": "boil://receita?rid=cmn2blypa04b0holydcng2q1b",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts__876f0ff7_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts__876f0ff7_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts__876f0ff7_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts__876f0ff7_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/donuts__876f0ff7_01.webp"
+  },
+  "ingredients": [
+    "2 xícaras de chá de açúcar de confeiteiro",
+    "3 colheres de sopa de leite",
+    "Algumas gotas de corante alimentício da cor que preferir",
+    "Confeitos a gosto"
+  ],
+  "steps": [
+    "Na tigela da batedeira, coloque o açúcar, o fermento e misture, usando uma colher;",
+    "Acrescente a manteiga, o ovo, o sal e a farinha;",
+    "Ligue a batedeira e deixe sovar, usando um gancho, por 10 minutos;",
+    "Transfira a massa para um recipiente untado com óleo, tampe com um pano grosso, e deixe descansar até a massa dobrar de volume, por cerca de 1 hora;",
+    "Depois do tempo necessário, coloque a massa em uma superfície limpa e enfarinhada;",
+    "Abra com um rolo até atingir uma espessura de aproximadamente 6 milímetros;",
+    "Usando dois cortadores, ou copos, de diâmetros diferentes, corte a massa em bolinhas, usando o menor cortador para fazer um buraquinho no centro de cada disco;",
+    "Coloque os donuts em uma assadeira enfarinhada e cubra com um pano. Deixe descansar por mais 1 hora;",
+    "Frite em óleo quente, virando para dourarem dos dois lados, e reserve."
+  ],
+  "social": {
+    "caption_short": "Donuts",
+    "caption_medium": "Donuts Ingredientes: 2 xícaras de chá de açúcar de confeiteiro, 3 colheres de sopa de leite, Algumas gotas de corante alimentício da cor que preferir, Confeitos a gosto. Modo de preparo: Na tigela da batedeira, coloque o açúcar, o fermento e misture, usando uma colher;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

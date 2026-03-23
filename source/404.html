@@ -1,61 +1,170 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-  <meta charset="utf-8">
-  <title>Página não encontrada | Lar do Chef</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="A página que você procura não foi encontrada.">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="stylesheet" href="/css/style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Receita não encontrada</title>
+  <meta name="robots" content="noindex" />
   <style>
-    body {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: #f7f7f7;
-    }
-    .not-found-wrapper {
+    .box {
+      width: 100%;
       text-align: center;
-      padding: 2rem;
     }
-    .not-found-favicon {
-      width: 96px;
-      height: 96px;
-      margin-bottom: 1.5rem;
+
+    .hidden {
+      display: none;
     }
-    .not-found-title {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
+
+    .spinner {
+      width: 56px;
+      height: 56px;
+      border: 5px solid #e9e9e9;
+      border-top-color: #fe5025;
+      border-radius: 50%;
+      animation: spin 0.9s linear infinite;
+      margin: 0 auto 20px;
     }
-    .not-found-subtitle {
-      font-size: 1.1rem;
-      color: #666;
-      margin-bottom: 2rem;
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
     }
-    .not-found-button {
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: 28px;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+      line-height: 1.6;
+      color: #444;
+    }
+
+    .actions {
+      margin: 0 24px;
+    }
+
+    .button {
       display: inline-block;
-      padding: 0.75rem 1.5rem;
-      background: #ff7c2a;
-      color: #fff;
+      padding: 12px 18px;
       border-radius: 999px;
+      background: #fe5025;
+      color: #fff !important;
       text-decoration: none;
-      font-weight: 600;
-      border: none;
-      cursor: pointer;
-      transition: background 0.2s ease;
+      font-weight: 700;
     }
-    .not-found-button:hover {
-      background: #e86d21;
+    .small {
+      font-size: 13px;
+      color: #666;
+      margin-top: 16px;
+      word-break: break-word;
     }
   </style>
 </head>
 <body>
-  <div class="not-found-wrapper">
-    <img src="/favicon.ico" alt="Lar do Chef" class="not-found-favicon">
-    <h1 class="not-found-title">404</h1>
-    <p class="not-found-subtitle">Ops! A página que você tentou acessar não existe.</p>
-    <a href="/" class="not-found-button">Voltar para a página inicial</a>
+  <div class="card" style="text-align: center;">
+    <div id="loading-state">
+      <div class="spinner"></div>
+      <h1>Procurando a página...</h1>
+      <p>Estamos tentando localizar esta página automaticamente.</p>
+    </div>
+
+    <div id="error-state" class="hidden" style="margin-bottom: 25px;">
+      <h1>Ops! Página não encontrada.</h1>
+      <p>
+        Não foi possível localizar a página que você está procurando.
+        Você pode voltar para a página inicial.
+      </p>
+
+      <div class="actions">
+        <a class="button" href="/">Ir para a página inicial</a>
+      </div>
+    </div>
+
   </div>
+
+  <script>
+    (async function () {
+      var loadingState = document.getElementById('loading-state');
+      var errorState = document.getElementById('error-state');
+      var debugEl = document.getElementById('debug');
+
+      function showError(message) {
+        console.warn('[404 redirect]', message);
+
+        if (loadingState) {
+          loadingState.classList.add('hidden');
+        }
+
+        if (errorState) {
+          errorState.classList.remove('hidden');
+        }
+
+        if (debugEl) {
+          debugEl.textContent = message;
+        }
+      }
+
+      function normalizePath(pathname) {
+        return decodeURIComponent(String(pathname || ''))
+          .replace(/^\/+|\/+$/g, '');
+      }
+
+      function getLookupKey(pathname) {
+        var parts = normalizePath(pathname).split('/').filter(Boolean);
+        var receitasIndex = parts.indexOf('receitas');
+
+        if (receitasIndex === -1) {
+          return '';
+        }
+
+        if (!parts[receitasIndex + 1]) {
+          return '';
+        }
+
+        return 'receitas/' + parts[receitasIndex + 1];
+      }
+
+      try {
+        var pathname = window.location.pathname;
+        var lookupKey = getLookupKey(pathname);
+
+        if (!lookupKey) {
+          showError('Não foi possível extrair a chave do slug da URL: ' + pathname);
+          return;
+        }
+
+        var response = await fetch('/recipe-routes.json', {
+          cache: 'no-store'
+        });
+
+        if (!response.ok) {
+          showError('Falha ao carregar /recipe-routes.json: HTTP ' + response.status);
+          return;
+        }
+
+        var routes = await response.json();
+
+        if (!routes || typeof routes !== 'object') {
+          showError('O conteúdo de recipe-routes.json é inválido.');
+          return;
+        }
+
+        var destination = routes[lookupKey];
+
+        if (!destination) {
+          showError('Slug não encontrado no mapa: ' + lookupKey);
+          return;
+        }
+
+        window.location.replace(destination);
+      } catch (error) {
+        showError(error && error.message ? error.message : 'Erro inesperado ao processar a rota.');
+      }
+    })();
+  </script>
 </body>
 </html>

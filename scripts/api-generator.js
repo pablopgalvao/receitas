@@ -193,8 +193,12 @@ function buildSocialData(post, ingredients, steps) {
     hashtags: buildHashtags(post),
   };
 }
+function getPublicId(post) {
+  return post.id || post._id;
+}
 
 function serializePost(post, toAbsoluteUrl, rootPath) {
+  const publicId = getPublicId(post);
   const content = post.content || '';
   const images = extractImagesFromContent(content, toAbsoluteUrl);
   const videos = extractVideosFromContent(content, toAbsoluteUrl);
@@ -205,16 +209,16 @@ function serializePost(post, toAbsoluteUrl, rootPath) {
     : (images[0] || '');
 
   const social = buildSocialData(post, ingredients, steps);
+  const effectiveSlug = getEffectiveSlug(post);
 
   return {
-    id: post._id,
+    id: publicId,
     title: post.title || '',
-    slug: post.slug || '',
+    slug: effectiveSlug,
     url: toAbsoluteUrl(`${rootPath}${post.path}`),
-    api_url: toAbsoluteUrl(`${rootPath}api/receitas/${post._id}.json`),
-    social_api_url: toAbsoluteUrl(`${rootPath}api/social-posts/${post._id}.json`),
-    deeplink: `boil://receita?rid=${post._id}`,
-
+    api_url: toAbsoluteUrl(`${rootPath}api/receitas/${publicId}.json`),
+    social_api_url: toAbsoluteUrl(`${rootPath}api/social-posts/${publicId}.json`),
+    deeplink: `boil://receita?rid=${publicId}`,
     image: postImage,
     images,
     videos,
@@ -227,7 +231,6 @@ function serializePost(post, toAbsoluteUrl, rootPath) {
       preferred_type: videos.length > 0 ? 'video' : 'image',
       preferred_url: videos[0] || postImage || images[0] || '',
     },
-
     date: post.date || null,
     updated: post.updated || null,
     time: post.time || '',
@@ -235,16 +238,12 @@ function serializePost(post, toAbsoluteUrl, rootPath) {
     servings: post.servings || '',
     calories: post.calories || '',
     author: post.author || 'Lar do chef',
-
     categories: post.categories ? post.categories.toArray().map((cat) => cat.name) : [],
     tags: post.tags ? post.tags.toArray().map((tag) => tag.name) : [],
-
     ingredients,
     steps,
     excerpt: normalizeText(post.excerpt || '') || buildExcerpt(post.title, ingredients, steps, post.time),
-
     social,
-
     content,
   };
 }
@@ -282,41 +281,42 @@ function getRecipePosts(locals) {
     });
 }
 
-hexo.extend.generator.register('api-receitas', function (locals) {
-  const baseUrl = this.config.url;
-  const rootPath = this.config.root;
-  const toAbsoluteUrl = toAbsoluteUrlFactory(baseUrl, rootPath);
-
-  const receitas = getRecipePosts(locals).map((post) =>
-    serializePost(post, toAbsoluteUrl, rootPath)
-  );
-
-  return {
-    path: 'api/receitas.json',
-    data: JSON.stringify(
-      {
-        count: receitas.length,
-        receitas,
-      },
-      null,
-      2
-    ),
-  };
-});
-
 hexo.extend.generator.register('api-receitas-por-id', function (locals) {
   const baseUrl = this.config.url;
   const rootPath = this.config.root;
   const toAbsoluteUrl = toAbsoluteUrlFactory(baseUrl, rootPath);
 
-  return getRecipePosts(locals).map((post) => ({
-    path: `api/receitas/${post._id}.json`,
-    data: JSON.stringify(
-      serializePost(post, toAbsoluteUrl, rootPath),
-      null,
-      2
-    ),
-  }));
+  return getRecipePosts(locals).map((post) => {
+    const publicId = getPublicId(post);
+
+    return {
+      path: `api/receitas/${publicId}.json`,
+      data: JSON.stringify(
+        serializePost(post, toAbsoluteUrl, rootPath),
+        null,
+        2
+      ),
+    };
+  });
+});
+
+hexo.extend.generator.register('api-social-posts-por-id', function (locals) {
+  const baseUrl = this.config.url;
+  const rootPath = this.config.root;
+  const toAbsoluteUrl = toAbsoluteUrlFactory(baseUrl, rootPath);
+
+  return getRecipePosts(locals).map((post) => {
+    const publicId = getPublicId(post);
+
+    return {
+      path: `api/social-posts/${publicId}.json`,
+      data: JSON.stringify(
+        serializeSocialPost(post, toAbsoluteUrl, rootPath),
+        null,
+        2
+      ),
+    };
+  });
 });
 
 hexo.extend.generator.register('api-social-posts', function (locals) {
@@ -342,17 +342,94 @@ hexo.extend.generator.register('api-social-posts', function (locals) {
   };
 });
 
-hexo.extend.generator.register('api-social-posts-por-id', function (locals) {
+hexo.extend.generator.register('recipe-routes', function (locals) {
+  const routes = {};
+  const duplicateSlugs = {};
+
+  getRecipePosts(locals).forEach((post) => {
+    const publicId = getPublicId(post);
+    const slug = getEffectiveSlug(post);
+
+    if (!slug || !publicId) return;
+
+    const rootPath = this.config.root || '/';
+    const url = `${rootPath}${slug}/${publicId}/`;
+
+    if (routes[slug]) {
+      duplicateSlugs[slug] = duplicateSlugs[slug] || [routes[slug]];
+      duplicateSlugs[slug].push(url);
+      delete routes[slug];
+      return;
+    }
+
+    if (!duplicateSlugs[slug]) {
+      routes[slug] = url;
+    }
+  });
+
+  return [
+    {
+      path: 'recipe-routes.json',
+      data: JSON.stringify(routes, null, 2),
+    },
+    {
+      path: 'recipe-routes-duplicates.json',
+      data: JSON.stringify(duplicateSlugs, null, 2),
+    },
+  ];
+});
+
+hexo.extend.generator.register('api-receitas', function (locals) {
   const baseUrl = this.config.url;
   const rootPath = this.config.root;
   const toAbsoluteUrl = toAbsoluteUrlFactory(baseUrl, rootPath);
 
-  return getRecipePosts(locals).map((post) => ({
-    path: `api/social-posts/${post._id}.json`,
+  const receitas = getRecipePosts(locals).map((post) =>
+    serializePost(post, toAbsoluteUrl, rootPath)
+  );
+
+  return {
+    path: 'api/receitas.json',
     data: JSON.stringify(
-      serializeSocialPost(post, toAbsoluteUrl, rootPath),
+      {
+        generated_at: new Date().toISOString(),
+        count: receitas.length,
+        receitas,
+      },
       null,
       2
     ),
-  }));
+  };
 });
+
+function trimSlashes(value = '') {
+  return String(value).replace(/^\/+|\/+$/g, '');
+}
+
+function getEffectiveSlug(post) {
+  if (post.slug) return String(post.slug).trim();
+
+  if (post.path) {
+    const parts = trimSlashes(post.path).split('/').filter(Boolean);
+
+    // Ex.: receitas/ab_bora_assada_com_alho_e_s_lvia/cmm....../index.html
+    const indexPos = parts.lastIndexOf('index.html');
+    if (indexPos > 1) {
+      return parts[indexPos - 2] || '';
+    }
+
+    // Ex.: receitas/slug/id/
+    if (parts.length >= 2) {
+      return parts[parts.length - 2] || '';
+    }
+  }
+
+  if (post.permalink) {
+    const parts = trimSlashes(post.permalink).split('/').filter(Boolean);
+    if (parts.length >= 2) {
+      return parts[parts.length - 2] || '';
+    }
+  }
+
+  return '';
+}

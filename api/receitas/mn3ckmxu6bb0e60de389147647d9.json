@@ -1,0 +1,57 @@
+{
+  "id": "mn3ckmxu6bb0e60de389147647d9",
+  "title": "Banana dourada com merengue",
+  "slug": "receitas/banana-dourada-com-merengue__8ff66999",
+  "url": "https://receitas.pgalvao.com.br/receitas/banana-dourada-com-merengue__8ff66999/mn3ckmxu6bb0e60de389147647d9/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckmxu6bb0e60de389147647d9.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckmxu6bb0e60de389147647d9.json",
+  "deeplink": "boil://receita?rid=mn3ckmxu6bb0e60de389147647d9",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-dourada-com-merengue__8ff66999_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-dourada-com-merengue__8ff66999_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-dourada-com-merengue__8ff66999_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-dourada-com-merengue__8ff66999_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-dourada-com-merengue__8ff66999_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.618Z",
+  "time": "4 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "3 ovos",
+    "1 xícara (chá) de açúcar"
+  ],
+  "steps": [
+    "Leve uma panela pequena com água ao fogo médio - ela servirá de base para o banho-maria."
+  ],
+  "excerpt": "Banana dourada com merengue. Tempo de preparo: 4 min. Ingrediente em destaque: 3 ovos. Comece assim: Leve uma panela pequena com água ao fogo médio - ela servirá de base para o banho-maria.",
+  "social": {
+    "caption_short": "Banana dourada com merengue",
+    "caption_medium": "Banana dourada com merengue Ingredientes: 3 ovos, 1 xícara (chá) de açúcar. Modo de preparo: Leve uma panela pequena com água ao fogo médio - ela servirá de base para o banho-maria.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-dourada-com-merengue__8ff66999_01.webp\" alt=\"Banana dourada com merengue\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 4 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>3 ovos</li>\n<li>1 xícara (chá) de açúcar</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Leve uma panela pequena com água ao fogo médio - ela servirá de base para o banho-maria.</li>\n</ol>\n"
+}

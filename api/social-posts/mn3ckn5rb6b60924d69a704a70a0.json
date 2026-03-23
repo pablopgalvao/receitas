@@ -1,0 +1,46 @@
+{
+  "id": "mn3ckn5rb6b60924d69a704a70a0",
+  "title": "Chips de couve assada",
+  "slug": "receitas/chips_de_couve_assada",
+  "url": "https://receitas.pgalvao.com.br/receitas/chips_de_couve_assada/mn3ckn5rb6b60924d69a704a70a0/",
+  "deeplink": "boil://receita?rid=mn3ckn5rb6b60924d69a704a70a0",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chips_de_couve_assada.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chips_de_couve_assada.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chips_de_couve_assada.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chips_de_couve_assada.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/chips_de_couve_assada.jpg"
+  },
+  "ingredients": [
+    "50 g de manteiga em cubos",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Lave e seque bem as folhas de couve. Rasgue as folhas grosseiramente e transfira para uma assadeira grande. Distribua os cubos de manteiga sobre a couve e tempere com sal e pimenta-do-reino moída na hora a gosto."
+  ],
+  "steps": [
+    "Preaqueça o forno a 180 ºC (temperatura média).",
+    "Lave e seque bem as folhas de couve. Rasgue as folhas grosseiramente e transfira para uma assadeira grande. Distribua os cubos de manteiga sobre a couve e tempere com sal e pimenta-do-reino moída na hora a gosto.",
+    "Leve ao forno e deixe assar por cerca de 30 minutos ou até ficarem bem crocantes - na metade do tempo vire as folhas com uma espátula para assar por igual. Retire do forno e deixe esfriar antes de servir. Caso sua assadeira seja pequena, asse em duas etapas."
+  ],
+  "social": {
+    "caption_short": "Chips de couve assada",
+    "caption_medium": "Chips de couve assada Ingredientes: 50 g de manteiga em cubos, sal e pimenta-do-reino moída na hora a gosto, Lave e seque bem as folhas de couve. Rasgue as folhas grosseiramente e transfira para uma assadeira grande. Distribua os cubos de manteiga sobre a couve e tempere com sal e pimenta-do-reino moída na hora a gosto.. Modo de preparo: Preaqueça o forno a 180 ºC (temperatura média).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#popular",
+      "#brasil"
+    ]
+  }
+}

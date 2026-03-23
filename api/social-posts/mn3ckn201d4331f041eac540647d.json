@@ -1,0 +1,55 @@
+{
+  "id": "mn3ckn201d4331f041eac540647d",
+  "title": "Bolo de pão amanhecido",
+  "slug": "receitas/bolo-de-pao-amanhecido__66cbf1c5",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-pao-amanhecido__66cbf1c5/mn3ckn201d4331f041eac540647d/",
+  "deeplink": "boil://receita?rid=mn3ckn201d4331f041eac540647d",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-amanhecido__66cbf1c5_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-amanhecido__66cbf1c5_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-amanhecido__66cbf1c5_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-amanhecido__66cbf1c5_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-pao-amanhecido__66cbf1c5_01.webp"
+  },
+  "ingredients": [
+    "8 pães franceses amanhecidos",
+    "1 litro de leite",
+    "3 ovos",
+    "1 caixinha de leite condensado (395 gramas)",
+    "1 xícara de chá de açúcar (200 gramas)",
+    "200 gramas de uvas-passas sem sementes",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)",
+    "½ colher de chá de canela em pó",
+    "1 e ½ xícara de chá de açúcar para calda (300 gramas)"
+  ],
+  "steps": [
+    "O ideal é começar a preparar o bolo de pão amanhecido pela manhã para assar a tarde, pois o pão precisa descansar no leite por um longo período;",
+    "Despedace os pães amanhecidos em uma tigela grande. Acrescente as uvas-passas e o leite. Misture bem para os pedaços ficarem úmidos. Coloque o plástico filme e tampe. Deixe reservado por cerca de 4 horas;",
+    "Após esse tempo, retire o plástico e esprema pequenas porções de pão para retirar o excesso de leite. Coloque os pães apertados em outra tigela. Repita esse processo com o restante da massa. Reserve;",
+    "Para fazer a calda, em uma forma de pudim (24 cm de diâmetro), coloque o açúcar. Leve a forma ao fogo baixo e derreta o açúcar até virar uma calda dourada, mexendo de vez em quando para não queimar. Espalhe a calda pela forma toda. Reserve;",
+    "Quebre os ovos e separe as claras das gemas. Transfira as claras para a tigela da batedeira e bata por aproximadamente 1 minuto, ou até formar uma espuma;",
+    "Com a batedeira ainda ligada, adicione as gemas, o açúcar, o leite condensado, a canela e o fermento. Bata por cerca de 30 segundos, apenas para incorporar os ingredientes;",
+    "Desligue a batedeira, adicione a massa de pão amanhecido e misture bem com uma espátula. Transfira a massa para a forma com a calda. Asse em forno preaquecido a 180 ºC por aproximadamente 1 hora;",
+    "Faça o teste do palito: espete o palito de dente na massa, se ele sair limpo, está assado. Caso contrário, espere mais um pouco e repita do teste. Retire o bolo de pão amanhecido do forno e espere amornar para desenformar."
+  ],
+  "social": {
+    "caption_short": "Bolo de pão amanhecido",
+    "caption_medium": "Bolo de pão amanhecido Ingredientes: 8 pães franceses amanhecidos, 1 litro de leite, 3 ovos, 1 caixinha de leite condensado (395 gramas), 1 xícara de chá de açúcar (200 gramas). Modo de preparo: O ideal é começar a preparar o bolo de pão amanhecido pela manhã para assar a tarde, pois o pão precisa descansar no leite por um longo período;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

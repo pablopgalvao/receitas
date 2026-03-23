@@ -1,0 +1,58 @@
+{
+  "id": "mn3ckod4527f333c78568920a98b",
+  "title": "Tabule",
+  "slug": "receitas/tabule",
+  "url": "https://receitas.pgalvao.com.br/receitas/tabule/mn3ckod4527f333c78568920a98b/",
+  "deeplink": "boil://receita?rid=mn3ckod4527f333c78568920a98b",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tabule.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tabule.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tabule.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tabule.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/tabule.jpg"
+  },
+  "ingredients": [
+    "Salada caprese com pesto",
+    "Salada mediterrânea de grão-de-bico",
+    "Salada Caesar com crocante de parmesão",
+    "Salada de grão-de-bico com cebola e cenoura assadas",
+    "Salada de macarrão com legumes, tomate e molho de mostarda",
+    "Salada thai com camarão e frutas",
+    "½ xícara (chá) de trigo fino (para quibe)",
+    "1½ xícara (chá) de folhas de salsinha (cerca de 1 maço)",
+    "¾ de xícara (chá) de folhas de hortelã fresca (cerca de 1 maço)",
+    "¼ de xícara (chá) de azeite",
+    "sal a gosto",
+    "Lave e seque bem as folhas de salsinha e de hortelã – para ficar mais fácil, utilize uma centrífuga de saladas, assim as folhas ficam bem sequinhas. Pique grosseiramente a salsinha e a hortelã.",
+    "Numa tigela coloque a cebola, o tomate, a salsinha e a hortelã picados. Tempere com o caldo de limão, o azeite, sal a gosto e misture bem. Acrescente o trigo hidratado e misture delicadamente com uma colher – o trigo é o último a entrar na salada para não ficar encharcado. Prove e ajuste o sal. Sirva a seguir com folhas de alface a gosto."
+  ],
+  "steps": [
+    "Numa tigela média, coloque o trigo, cubra com água e deixe hidratar por 15 minutos. Enquanto isso, prepare os outros ingredientes.",
+    "Lave, seque e corte os tomates ao meio. Descarte as sementes e corte cada metade em cubos pequenos. Descasque e corte a cebola em cubos pequenos.",
+    "Lave e seque bem as folhas de salsinha e de hortelã – para ficar mais fácil, utilize uma centrífuga de saladas, assim as folhas ficam bem sequinhas. Pique grosseiramente a salsinha e a hortelã.",
+    "Passado os 15 minutos, forre uma peneira com um pano de prato limpo e escorra a água do trigo. Una as pontas do pano, fazendo uma trouxinha, e torça bem para escorrer o excesso de água.",
+    "Numa tigela coloque a cebola, o tomate, a salsinha e a hortelã picados. Tempere com o caldo de limão, o azeite, sal a gosto e misture bem. Acrescente o trigo hidratado e misture delicadamente com uma colher – o trigo é o último a entrar na salada para não ficar encharcado. Prove e ajuste o sal. Sirva a seguir com folhas de alface a gosto."
+  ],
+  "social": {
+    "caption_short": "Tabule",
+    "caption_medium": "Tabule Ingredientes: Salada caprese com pesto, Salada mediterrânea de grão-de-bico, Salada Caesar com crocante de parmesão, Salada de grão-de-bico com cebola e cenoura assadas, Salada de macarrão com legumes, tomate e molho de mostarda. Modo de preparo: Numa tigela média, coloque o trigo, cubra com água e deixe hidratar por 15 minutos. Enquanto isso, prepare os outros ingredientes.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#prático",
+      "#brasil"
+    ]
+  }
+}

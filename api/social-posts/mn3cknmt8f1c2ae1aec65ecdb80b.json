@@ -1,0 +1,52 @@
+{
+  "id": "mn3cknmt8f1c2ae1aec65ecdb80b",
+  "title": "Paillard de frango à milanesa",
+  "slug": "receitas/paillard_de_frango_milanesa",
+  "url": "https://receitas.pgalvao.com.br/receitas/paillard_de_frango_milanesa/mn3cknmt8f1c2ae1aec65ecdb80b/",
+  "deeplink": "boil://receita?rid=mn3cknmt8f1c2ae1aec65ecdb80b",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/paillard_de_frango_milanesa.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/paillard_de_frango_milanesa.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/paillard_de_frango_milanesa.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/paillard_de_frango_milanesa.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/paillard_de_frango_milanesa.jpg"
+  },
+  "ingredients": [
+    "Filé de frango grelhado com sal temperado",
+    "½ xícara (chá) de farinha de trigo",
+    "⅔ de xícara (chá) de farinha de rosca",
+    "1 xícara (chá) de óleo para fritar",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo; bata com um garfo apenas para misturar as claras com as gemas. Num prato raso, coloque a farinha de rosca, em outro coloque a farinha de trigo e tempere com uma pitada de sal. Forre uma travessa com papel-toalha."
+  ],
+  "steps": [
+    "Corte cada sassami ao meio, no sentido da largura - assim os paillards ficam arredondados na hora de abrir e a apresentação fica mais delicada.",
+    "Para fazer os paillards: sobre a tábua, coloque um pedaço de filme, disponha 1 sassami no centro e cubra com outro pedaço de filme (se preferir, utilize um saco plástico para alimentos cortado ao meio). Com a parte mais gordinha da palma da mão (ou com um batedor de carnes), bata e, ao mesmo tempo, empurre a carne do centro para as laterais – o objetivo é deixar o paillard bem fininho. Cuidado: se bater forte demais a carne pode romper.",
+    "Numa tigela pequena, quebre um ovo de cada vez e transfira para um prato fundo; bata com um garfo apenas para misturar as claras com as gemas. Num prato raso, coloque a farinha de rosca, em outro coloque a farinha de trigo e tempere com uma pitada de sal. Forre uma travessa com papel-toalha.",
+    "Numa frigideira de borda alta, coloque o óleo e leve ao fogo médio para aquecer. Para saber a temperatura certa para fritar: coloque um palito de fósforo; quando acender é sinal de que está no ponto certo.",
+    "Enquanto o óleo aquece, empane os paillards: tempere com sal e pimenta a gosto; passe cada paillard pela farinha de trigo e bata com as mãos para retirar o excesso; passe os sassamis pelo ovo batido e deixe escorrer bem o excesso; passe pela farinha de rosca e pressione com a mão para cobrir bem toda a superfície.",
+    "Com cuidado, coloque 3 paillards para fritar de cada vez. Deixe cerca de 2 minutos até dourar e só então, com cuidado, vire com a escumadeira (ou pinça) para dourar o outro lado. Transfira para a travessa forrada com papel-toalha e repita com o restante. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Paillard de frango à milanesa",
+    "caption_medium": "Paillard de frango à milanesa Ingredientes: Filé de frango grelhado com sal temperado, ½ xícara (chá) de farinha de trigo, ⅔ de xícara (chá) de farinha de rosca, 1 xícara (chá) de óleo para fritar, sal e pimenta-do-reino moída na hora a gosto. Modo de preparo: Corte cada sassami ao meio, no sentido da largura - assim os paillards ficam arredondados na hora de abrir e a apresentação fica mais delicada.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#prático",
+      "#tradicional"
+    ]
+  }
+}

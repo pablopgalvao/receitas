@@ -1,0 +1,70 @@
+{
+  "id": "mn3cknmlb8c3d6cb39c35246848c",
+  "title": "Ovos rancheiros",
+  "slug": "receitas/ovos_rancheiros",
+  "url": "https://receitas.pgalvao.com.br/receitas/ovos_rancheiros/mn3cknmlb8c3d6cb39c35246848c/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3cknmlb8c3d6cb39c35246848c.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3cknmlb8c3d6cb39c35246848c.json",
+  "deeplink": "boil://receita?rid=mn3cknmlb8c3d6cb39c35246848c",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg"
+  },
+  "date": "2025-09-22T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.509Z",
+  "time": "",
+  "difficulty": "médio",
+  "servings": "25 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Pratos principais / Carnes"
+  ],
+  "tags": [
+    "Novidades populares"
+  ],
+  "ingredients": [
+    "½ gomo de linguiça calabresa picada",
+    "100 g de queijo picado",
+    "Orégano a gosto",
+    "4 ovos",
+    "sal a gosto",
+    "Pimenta a gosto",
+    "Salsinha picada",
+    "1 cebola picada",
+    "2 dentes de alho picados",
+    "200 ml de molho de tomate"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Leve uma frigideira ao fogo médio, aqueça um fio de azeite e frite a linguiça calabresa;",
+    "Acrescente a cebola e o alho e deixe dourar;",
+    "Adicione o molho de tomate e espere ferver; em seguida, acrescente os pedaços de queijo e tempere com orégano;",
+    "Com o molho em estado de fervura, quebre os ovos e coloque-os delicadamente na frigideira, deixando uma distância entre eles. Tempere-os com sal e pimenta a gosto;",
+    "Espere que os ovos cozinhem, salpique a salsinha por cima e sirva na sequência."
+  ],
+  "excerpt": "Ovos rancheiros. Ingrediente em destaque: ½ gomo de linguiça calabresa picada. Comece assim: Reúna todos os ingredientes;",
+  "social": {
+    "caption_short": "Ovos rancheiros",
+    "caption_medium": "Ovos rancheiros Ingredientes: ½ gomo de linguiça calabresa picada, 100 g de queijo picado, Orégano a gosto, 4 ovos, sal a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novidadespopulares"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg\" alt=\"Ovos rancheiros\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Pratos principais &#x2F; Carnes</li>\n<li><strong>Dificuldade:</strong> médio</li>\n<li><strong>Rendimento:</strong> 25 porções</li>\n<li><strong>Tempo de preparo:</strong> </li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>½ gomo de linguiça calabresa picada</li>\n<li>100 g de queijo picado</li>\n<li>Orégano a gosto</li>\n<li>4 ovos</li>\n<li>sal a gosto</li>\n<li>Pimenta a gosto</li>\n<li>Salsinha picada</li>\n<li>1 cebola picada</li>\n<li>2 dentes de alho picados</li>\n<li>200 ml de molho de tomate</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Leve uma frigideira ao fogo médio, aqueça um fio de azeite e frite a linguiça calabresa;</li>\n<li>Acrescente a cebola e o alho e deixe dourar;</li>\n<li>Adicione o molho de tomate e espere ferver; em seguida, acrescente os pedaços de queijo e tempere com orégano;</li>\n<li>Com o molho em estado de fervura, quebre os ovos e coloque-os delicadamente na frigideira, deixando uma distância entre eles. Tempere-os com sal e pimenta a gosto;</li>\n<li>Espere que os ovos cozinhem, salpique a salsinha por cima e sirva na sequência.</li>\n</ol>\n"
+}

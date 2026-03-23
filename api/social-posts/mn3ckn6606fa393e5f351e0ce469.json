@@ -1,0 +1,46 @@
+{
+  "id": "mn3ckn6606fa393e5f351e0ce469",
+  "title": "Cogumelo grelhado",
+  "slug": "receitas/cogumelo_grelhado",
+  "url": "https://receitas.pgalvao.com.br/receitas/cogumelo_grelhado/mn3ckn6606fa393e5f351e0ce469/",
+  "deeplink": "boil://receita?rid=mn3ckn6606fa393e5f351e0ce469",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cogumelo_grelhado.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cogumelo_grelhado.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cogumelo_grelhado.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cogumelo_grelhado.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/cogumelo_grelhado.jpg"
+  },
+  "ingredients": [
+    "Cogumelo refogado com salsinha",
+    "azeite a gosto",
+    "sal a gosto",
+    "Leve uma bistequeira (ou frigideira) antiaderente ao fogo médio. Quando aquecer, regue com um fio de azeite e disponha as fatias uma ao lado da outra, sem sobrepor. Tempere com uma pitada de sal e deixe dourar por 3 minutos de cada lado até ficarem macios e marcados pela grelha. Transfira para um prato e repita com o restante. Sirva a seguir. Fica uma delícia com molho de tahine."
+  ],
+  "steps": [
+    "Com um pano de prato úmido, limpe os cogumelos – não enxague, não deixe de molho: eles aborvem água e perdem gosto. Corte cada um em 3 fatias, no sentido do comprimento.",
+    "Leve uma bistequeira (ou frigideira) antiaderente ao fogo médio. Quando aquecer, regue com um fio de azeite e disponha as fatias uma ao lado da outra, sem sobrepor. Tempere com uma pitada de sal e deixe dourar por 3 minutos de cada lado até ficarem macios e marcados pela grelha. Transfira para um prato e repita com o restante. Sirva a seguir. Fica uma delícia com molho de tahine."
+  ],
+  "social": {
+    "caption_short": "Cogumelo grelhado",
+    "caption_medium": "Cogumelo grelhado Ingredientes: Cogumelo refogado com salsinha, azeite a gosto, sal a gosto, Leve uma bistequeira (ou frigideira) antiaderente ao fogo médio. Quando aquecer, regue com um fio de azeite e disponha as fatias uma ao lado da outra, sem sobrepor. Tempere com uma pitada de sal e deixe dourar por 3 minutos de cada lado até ficarem macios e marcados pela grelha. Transfira para um prato e repita com o restante. Sirva a seguir. Fica uma delícia com molho de tahine.. Modo de preparo: Com um pano de prato úmido, limpe os cogumelos – não enxague, não deixe de molho: eles aborvem água e perdem gosto. Corte cada um em 3 fatias, no sentido do comprimento.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#brasil",
+      "#fácil"
+    ]
+  }
+}

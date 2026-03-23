@@ -1,0 +1,51 @@
+{
+  "id": "mn3cknhy6f14d2b2bc351e07c4fd",
+  "title": "Maionese prática de batata",
+  "slug": "receitas/maionese_pratica_de_batata",
+  "url": "https://receitas.pgalvao.com.br/receitas/maionese_pratica_de_batata/mn3cknhy6f14d2b2bc351e07c4fd/",
+  "deeplink": "boil://receita?rid=mn3cknhy6f14d2b2bc351e07c4fd",
+  "date": "2025-09-20T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_pratica_de_batata.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_pratica_de_batata.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_pratica_de_batata.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_pratica_de_batata.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/maionese_pratica_de_batata.webp"
+  },
+  "ingredients": [
+    "5 batatas em cubos",
+    "1 cenoura ralada",
+    "100g de azeitona verde picada",
+    "½ xícara (chá) de cheiro-verde picado",
+    "1 xícara (chá) de maionese",
+    "sal a gosto",
+    "Salsa para decorar"
+  ],
+  "steps": [
+    "Cozinhe a batata em água fervente até ficar macia. Escorra e deixe esfriar.",
+    "Misture com a cenoura ralada, a azeitona, o cheiro-verde, a maionese e sal.",
+    "Espalhe em uma travessa, decore com salsa e leve à geladeira por 1 hora. Sirva."
+  ],
+  "social": {
+    "caption_short": "Maionese prática de batata",
+    "caption_medium": "Maionese prática de batata Ingredientes: 5 batatas em cubos, 1 cenoura ralada, 100g de azeitona verde picada, ½ xícara (chá) de cheiro-verde picado, 1 xícara (chá) de maionese. Modo de preparo: Cozinhe a batata em água fervente até ficar macia. Escorra e deixe esfriar.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#brasil",
+      "#churrasco",
+      "#batata"
+    ]
+  }
+}

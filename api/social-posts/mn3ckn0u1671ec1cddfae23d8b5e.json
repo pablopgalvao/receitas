@@ -1,0 +1,53 @@
+{
+  "id": "mn3ckn0u1671ec1cddfae23d8b5e",
+  "title": "Bolo de churros rápido",
+  "slug": "receitas/bolo-de-churros-rapido__8edb9dad",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-churros-rapido__8edb9dad/mn3ckn0u1671ec1cddfae23d8b5e/",
+  "deeplink": "boil://receita?rid=mn3ckn0u1671ec1cddfae23d8b5e",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros-rapido__8edb9dad_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros-rapido__8edb9dad_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros-rapido__8edb9dad_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros-rapido__8edb9dad_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-churros-rapido__8edb9dad_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "1 e ½ copo de açúcar (300 gramas)",
+    "1 copo de leite (240 ml)",
+    "¾ de copo de óleo (180 ml)",
+    "½ colher de sopa de canela em pó",
+    "2 copos de farinha de trigo (240 gramas)",
+    "1 colher de sopa de fermento em pó",
+    "1 caixa de leite condensado (395 gramas)"
+  ],
+  "steps": [
+    "Junte todos os ingredientes em sua bancada e unte muito bem a forma com bastante manteiga. Quebre os ovos separadamente, para verificar se estão bons;",
+    "Despeje o leite condensado diretamente na forma untada, espalhando no fundo. Reserve;",
+    "No liquidificador, adicione o leite, o óleo, o açúcar, os ovos e a canela em pó. Bata por aproximadamente 1 minuto em velocidade alta, até obter uma mistura homogênea;",
+    "Transfira a mistura para uma tigela, adicione o fermento e a farinha de trigo. Mexa suavemente até incorporar;",
+    "Com cuidado, despeje a massa por cima do leite condensado;",
+    "Leve à air fryer a 160 °C por 15 minutos. Após esse tempo, aumente a temperatura para 180 °C e asse por mais 15 minutos, ou até firmar e dourar levemente por cima;",
+    "Retire da air fryer, espere amornar por 15 minutos e desenforme com cuidado para manter o leite condensado como finalização!"
+  ],
+  "social": {
+    "caption_short": "Bolo de churros rápido",
+    "caption_medium": "Bolo de churros rápido Ingredientes: 3 ovos, 1 e ½ copo de açúcar (300 gramas), 1 copo de leite (240 ml), ¾ de copo de óleo (180 ml), ½ colher de sopa de canela em pó. Modo de preparo: Junte todos os ingredientes em sua bancada e unte muito bem a forma com bastante manteiga. Quebre os ovos separadamente, para verificar se estão bons;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mn3ckmyi3901a7e301387ac2dd80",
+  "title": "Beijinho de colher",
+  "slug": "receitas/beijinho_de_colher",
+  "url": "https://receitas.pgalvao.com.br/receitas/beijinho_de_colher/mn3ckmyi3901a7e301387ac2dd80/",
+  "deeplink": "boil://receita?rid=mn3ckmyi3901a7e301387ac2dd80",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/beijinho_de_colher.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/beijinho_de_colher.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/beijinho_de_colher.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/beijinho_de_colher.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/beijinho_de_colher.jpg"
+  },
+  "ingredients": [
+    "½ xícara (chá) de coco seco ralado (40 g)",
+    "⅓ de xícara (chá) de leite",
+    "1 colher (sopa) de manteiga"
+  ],
+  "steps": [
+    "Coloque o leite condensado, o leite e a manteiga numa panela pequena e leve ao fogo baixo. Mexa com uma espátula de silicone até a manteiga derreter.",
+    "Acrescente o coco ralado e continue mexendo por cerca de 12 minutos, até o doce engrossar, para comer de colher – mexa raspando bem os fundos e lateral da panela com a espátula para não queimar. Atenção para o ponto: o beijinho endurece mais depois de frio, ele deve sair da panela ainda bem cremoso. Para verificar, levante uma porção do beijinho com a espátula e deixe pingar sobre o doce da panela, ele não deve afundar.",
+    "Transfira o beijinho para uma tigela e deixe esfriar em temperatura ambiente até a hora de servir."
+  ],
+  "social": {
+    "caption_short": "Beijinho de colher",
+    "caption_medium": "Beijinho de colher Ingredientes: ½ xícara (chá) de coco seco ralado (40 g), ⅓ de xícara (chá) de leite, 1 colher (sopa) de manteiga. Modo de preparo: Coloque o leite condensado, o leite e a manteiga numa panela pequena e leve ao fogo baixo. Mexa com uma espátula de silicone até a manteiga derreter.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#brasil",
+      "#rápido"
+    ]
+  }
+}

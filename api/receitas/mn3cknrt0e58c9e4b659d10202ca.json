@@ -1,0 +1,65 @@
+{
+  "id": "mn3cknrt0e58c9e4b659d10202ca",
+  "title": "Pastinha de abacate",
+  "slug": "receitas/pastinha-de-abacate__4787e28a",
+  "url": "https://receitas.pgalvao.com.br/receitas/pastinha-de-abacate__4787e28a/mn3cknrt0e58c9e4b659d10202ca/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3cknrt0e58c9e4b659d10202ca.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3cknrt0e58c9e4b659d10202ca.json",
+  "deeplink": "boil://receita?rid=mn3cknrt0e58c9e4b659d10202ca",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.697Z",
+  "time": "10 min",
+  "difficulty": "",
+  "servings": "5 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "300 gramas de abacate",
+    "50 gramas de castanha-de-caju",
+    "4 colheres de sopa de pasta de tofu",
+    "½ xícara de azeite",
+    "½ limão espremido",
+    "Sal a gosto",
+    "Manjericão, hortelã e coentro a gosto"
+  ],
+  "steps": [
+    "No liquidificador, bata o abacate, as castanhas e a pasta de tofu.",
+    "Adicione o azeite e o limão. Tempere com sal e ervas a gosto.",
+    "Bata até ficar com textura cremosa.",
+    "Sirva e bom apetite."
+  ],
+  "excerpt": "Pastinha de abacate. Tempo de preparo: 10 min. Ingrediente em destaque: 300 gramas de abacate. Comece assim: No liquidificador, bata o abacate, as castanhas e a pasta de tofu.",
+  "social": {
+    "caption_short": "Pastinha de abacate",
+    "caption_medium": "Pastinha de abacate Ingredientes: 300 gramas de abacate, 50 gramas de castanha-de-caju, 4 colheres de sopa de pasta de tofu, ½ xícara de azeite, ½ limão espremido. Modo de preparo: No liquidificador, bata o abacate, as castanhas e a pasta de tofu.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pastinha-de-abacate__4787e28a_01.webp\" alt=\"Pastinha de abacate\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 5 porções</li>\n<li><strong>Tempo de preparo:</strong> 10 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>300 gramas de abacate</li>\n<li>50 gramas de castanha-de-caju</li>\n<li>4 colheres de sopa de pasta de tofu</li>\n<li>½ xícara de azeite</li>\n<li>½ limão espremido</li>\n<li>Sal a gosto</li>\n<li>Manjericão, hortelã e coentro a gosto</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>No liquidificador, bata o abacate, as castanhas e a pasta de tofu.</li>\n<li>Adicione o azeite e o limão. Tempere com sal e ervas a gosto.</li>\n<li>Bata até ficar com textura cremosa.</li>\n<li>Sirva e bom apetite.</li>\n</ol>\n"
+}

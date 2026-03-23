@@ -1,0 +1,56 @@
+{
+  "id": "mn3cknjdd04fd99cc118ffef7559",
+  "title": "Molho bechamel",
+  "slug": "receitas/molho-bechamel__8f0b7d41",
+  "url": "https://receitas.pgalvao.com.br/receitas/molho-bechamel__8f0b7d41/mn3cknjdd04fd99cc118ffef7559/",
+  "deeplink": "boil://receita?rid=mn3cknjdd04fd99cc118ffef7559",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-bechamel__8f0b7d41_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-bechamel__8f0b7d41_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-bechamel__8f0b7d41_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-bechamel__8f0b7d41_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-bechamel__8f0b7d41_01.webp"
+  },
+  "ingredients": [
+    "½ cebola",
+    "1 folha de louro",
+    "3 cravos-da-índia",
+    "500 ml de leite",
+    "50 gramas de manteiga",
+    "50 gramas de farinha de trigo",
+    "Sal e pimenta-do-reino a gosto",
+    "Noz-moscada a gosto"
+  ],
+  "steps": [
+    "Preferencialmente, utilize leite integral, pois possui teor de gordura mais alto, que dá cremosidade e brilho para o molho. Pode usar manteiga com ou sem sal, assim como substituir por margarina;",
+    "Prepare a cebola piqué (uma técnica para aromatizar molhos). Descasque e corte a cebola ao meio;",
+    "Coloque a folha de louro em cima da cebola cortada ao meio. Espete a folha de louro com os 3 cravos, prendendo-a na cebola. Reserve;",
+    "Despeje o leite em uma panela, adicione a cebola piqué e leve ao fogo médio até o leite levantar fervura. Não precisa mexer, pois a cebola pode se despedaçar (se isso acontecer, coe o leite depois);",
+    "Desligue o fogo, retire a cebola e reserve o leite;",
+    "Em outra panela, derreta a manteiga em fogo médio;",
+    "Adicione a farinha e mexa com um fuê (batedor de arame) por cerca de 2 a 3 minutos, ou até ela cozinhar bem. Não deixe a farinha ficar douradinha, pois influencia na cor do molho;",
+    "Acrescente o leite e mexa sem parar por cerca de 5 minutos (ou até o molho começar a ferver e engrossar);",
+    "Tempere com sal, pimenta, noz-moscada e desligue o fogo;",
+    "Se o molho ficar com gruminhos, bata-o no liquidificador até ficar lisinho, volte para a panela e apenas aqueça. Já pode servir!"
+  ],
+  "social": {
+    "caption_short": "Molho bechamel",
+    "caption_medium": "Molho bechamel Ingredientes: ½ cebola, 1 folha de louro, 3 cravos-da-índia, 500 ml de leite, 50 gramas de manteiga. Modo de preparo: Preferencialmente, utilize leite integral, pois possui teor de gordura mais alto, que dá cremosidade e brilho para o molho. Pode usar manteiga com ou sem sal, assim como substituir por margarina;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mn3ckn7bd6ce3b969f9c54cd6d2f",
+  "title": "Creme de milho batido",
+  "slug": "receitas/creme_de_milho_batido",
+  "url": "https://receitas.pgalvao.com.br/receitas/creme_de_milho_batido/mn3ckn7bd6ce3b969f9c54cd6d2f/",
+  "deeplink": "boil://receita?rid=mn3ckn7bd6ce3b969f9c54cd6d2f",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/creme_de_milho_batido.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/creme_de_milho_batido.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/creme_de_milho_batido.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/creme_de_milho_batido.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/creme_de_milho_batido.jpg"
+  },
+  "ingredients": [
+    "Bolo salgado de milho com pimentão",
+    "Viradinho de milho-verde com salsinha",
+    "3 espigas de milho (2 xícaras (chá) de milho-verde cozido e debulhado)",
+    "2 xícaras (chá) de leite",
+    "2 colheres (sopa) de manteiga",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Deixe que as espigas amornem o suficiente para conseguir manusear (se preferir, cozinhe o milho com antecedência). Para debulhar os milhos, apoie a espiga dentro de uma assadeira (ou travessa) e corte os grãos no sentido do comprimento do sabugo, bem rente (no total, você vai precisar de 2 xícaras [chá] de grãos de milho debulhados para esta receita).",
+    "Leve uma panela média com a manteiga ao fogo médio. Quando a manteiga derreter, adicione a cebola, uma pitada de sal e refogue até murchar. Junte o milho debulhado, tempere com sal e pimenta e mexa por 1 minuto.",
+    "Volte o leite batido com milho para a panela e deixe cozinhar até ferver, mexendo de vez em quando. Abaixe o fogo e mexa por mais 5 minutos, até que o creme engrosse. Prove e ajuste o sal. Sirva a seguir."
+  ],
+  "steps": [
+    "Retire a palha e os cabelos do milho e lave bem as espigas com uma escovinha para legumes sob água corrente. Descasque e pique fino a cebola.",
+    "Coloque as espigas na panela de pressão, cubra com água, tampe e leve ao fogo alto. Quando começar a apitar, abaixe o fogo e deixe cozinhar por 15 minutos.",
+    "Desligue o fogo e deixe que toda a pressão saia antes de abrir a panela — se quiser acelerar o processo, coloque a panela sob água corrente para esfriar, mas atenção: a água não deve cobrir nenhuma das válvulas.",
+    "Deixe que as espigas amornem o suficiente para conseguir manusear (se preferir, cozinhe o milho com antecedência). Para debulhar os milhos, apoie a espiga dentro de uma assadeira (ou travessa) e corte os grãos no sentido do comprimento do sabugo, bem rente (no total, você vai precisar de 2 xícaras [chá] de grãos de milho debulhados para esta receita).",
+    "Leve uma panela média com a manteiga ao fogo médio. Quando a manteiga derreter, adicione a cebola, uma pitada de sal e refogue até murchar. Junte o milho debulhado, tempere com sal e pimenta e mexa por 1 minuto.",
+    "Transfira o milho refogado para o liquidificador, acrescente o leite e bata bem para triturar.",
+    "Volte o leite batido com milho para a panela e deixe cozinhar até ferver, mexendo de vez em quando. Abaixe o fogo e mexa por mais 5 minutos, até que o creme engrosse. Prove e ajuste o sal. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Creme de milho batido",
+    "caption_medium": "Creme de milho batido Ingredientes: Bolo salgado de milho com pimentão, Viradinho de milho-verde com salsinha, 3 espigas de milho (2 xícaras (chá) de milho-verde cozido e debulhado), 2 xícaras (chá) de leite, 2 colheres (sopa) de manteiga. Modo de preparo: Retire a palha e os cabelos do milho e lave bem as espigas com uma escovinha para legumes sob água corrente. Descasque e pique fino a cebola.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#brasil",
+      "#fácil"
+    ]
+  }
+}

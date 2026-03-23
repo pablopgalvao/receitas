@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckofq258b4319ad4cf8312dc5",
+  "title": "Torta de chocolate",
+  "slug": "receitas/torta-de-chocolate__bff2ecce",
+  "url": "https://receitas.pgalvao.com.br/receitas/torta-de-chocolate__bff2ecce/mn3ckofq258b4319ad4cf8312dc5/",
+  "deeplink": "boil://receita?rid=mn3ckofq258b4319ad4cf8312dc5",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-chocolate__bff2ecce_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-chocolate__bff2ecce_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-chocolate__bff2ecce_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-chocolate__bff2ecce_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/torta-de-chocolate__bff2ecce_01.webp"
+  },
+  "ingredients": [
+    "275 gramas de biscoito maria (60 unidades)",
+    "200 gramas de manteiga sem sal derretida",
+    "1 colher de chá de raspas de laranja (ou de limão)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um processador, coloque as bolachas e triture até formar uma farinha;",
+    "Adicione a manteiga, as raspas de laranja e misture bem até formar uma farofinha úmida;",
+    "Transfira para uma assadeira de fundo removível, forre todo o recipiente (fundo e laterais) apertando bem para compactar e firmar, e leve para o congelador. Reserve;",
+    "Em uma panela, coloque o creme de leite, o açúcar mascavo, a manteiga, a cobertura, misture e leve ao fogo médio, mexendo por vezes;",
+    "Assim que tudo derreter e ficar homogêneo, junte a baunilha, misture até incorporar e desligue o fogo;",
+    "Despeje o recheio por cima da massa, espalhe bem e leve para a geladeira por 2 horas;",
+    "Desenforme a torta e decore com chocolate em pó (ou com outros ingredientes que você preferir);",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Torta de chocolate",
+    "caption_medium": "Torta de chocolate Ingredientes: 275 gramas de biscoito maria (60 unidades), 200 gramas de manteiga sem sal derretida, 1 colher de chá de raspas de laranja (ou de limão). Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

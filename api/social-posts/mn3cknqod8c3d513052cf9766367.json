@@ -1,0 +1,43 @@
+{
+  "id": "mn3cknqod8c3d513052cf9766367",
+  "title": "Pão de ló com 3 ingredientes",
+  "slug": "receitas/pao-de-lo-com-3-ingredientes__b25c6b75",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-de-lo-com-3-ingredientes__b25c6b75/mn3cknqod8c3d513052cf9766367/",
+  "deeplink": "boil://receita?rid=mn3cknqod8c3d513052cf9766367",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-lo-com-3-ingredientes__b25c6b75_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-lo-com-3-ingredientes__b25c6b75_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-lo-com-3-ingredientes__b25c6b75_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-lo-com-3-ingredientes__b25c6b75_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-de-lo-com-3-ingredientes__b25c6b75_01.webp"
+  },
+  "ingredients": [],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque os ovos e o açúcar na batedeira;",
+    "Bata em velocidade baixa e gradualmente, vá aumentando a velocidade até chegar ao máximo até que o creme que se forma quase transborde;",
+    "Desligue a batedeira e peneire a farinha na massa e, com uma espátula, misture bem a farinha na massa até incorporar;",
+    "Despeje a massa em uma forma (26 cm de diâmetro) forrada com papel manteiga e leve ao forno preaquecido a 180 °C por 45 minutos.",
+    "Desenforme, ainda morno, cuidadosamente e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Pão de ló com 3 ingredientes",
+    "caption_medium": "Pão de ló com 3 ingredientes Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

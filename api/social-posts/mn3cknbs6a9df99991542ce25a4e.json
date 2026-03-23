@@ -1,0 +1,54 @@
+{
+  "id": "mn3cknbs6a9df99991542ce25a4e",
+  "title": "Fricassé de frango",
+  "slug": "receitas/fricasse-de-frango__1c5c8cc4",
+  "url": "https://receitas.pgalvao.com.br/receitas/fricasse-de-frango__1c5c8cc4/mn3cknbs6a9df99991542ce25a4e/",
+  "deeplink": "boil://receita?rid=mn3cknbs6a9df99991542ce25a4e",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-de-frango__1c5c8cc4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-de-frango__1c5c8cc4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-de-frango__1c5c8cc4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-de-frango__1c5c8cc4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fricasse-de-frango__1c5c8cc4_01.webp"
+  },
+  "ingredients": [
+    "1 colher de sopa de azeite",
+    "½ cebola picada",
+    "2 dentes de alho picados",
+    "2 xícaras de chá de peito de frango cozido e desfiado",
+    "1 colher de sopa de mostarda",
+    "1 colher de sopa de extrato de tomate",
+    "1 xícara de chá de leite integral",
+    "½ xícara de chá de champignon (opcional)",
+    "1 pote de requeijão cremoso",
+    "2 colheres de sopa de parmesão ralado",
+    "Sal, pimenta-do-reino e salsinha a gosto",
+    "Batata palha para cobrir"
+  ],
+  "steps": [
+    "Em uma panela média, refogue na manteiga meia cebola picada de modo que ela fique murcha e transparente;",
+    "Acrescente a lata de milho com o tempero. Deixe ferver por 2 minutos em fogo baixo;",
+    "Acrescente uma caixa de creme de leite e bata tudo no liquidificador ou mixer;",
+    "Acerte o sal e reserve."
+  ],
+  "social": {
+    "caption_short": "Fricassé de frango",
+    "caption_medium": "Fricassé de frango Ingredientes: 1 colher de sopa de azeite, ½ cebola picada, 2 dentes de alho picados, 2 xícaras de chá de peito de frango cozido e desfiado, 1 colher de sopa de mostarda. Modo de preparo: Em uma panela média, refogue na manteiga meia cebola picada de modo que ela fique murcha e transparente;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

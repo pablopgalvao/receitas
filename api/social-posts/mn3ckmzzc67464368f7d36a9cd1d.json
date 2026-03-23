@@ -1,0 +1,53 @@
+{
+  "id": "mn3ckmzzc67464368f7d36a9cd1d",
+  "title": "Bolo branco",
+  "slug": "receitas/bolo-branco__a746afae",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-branco__a746afae/mn3ckmzzc67464368f7d36a9cd1d/",
+  "deeplink": "boil://receita?rid=mn3ckmzzc67464368f7d36a9cd1d",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-branco__a746afae_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-branco__a746afae_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-branco__a746afae_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-branco__a746afae_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-branco__a746afae_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "1 e ½ xícara de chá de açúcar",
+    "1 xícara de chá de leite",
+    "¼ de xícara de chá de água",
+    "2 colheres de sopa de óleo de soja",
+    "2 xícaras de chá de farinha de trigo",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma batedeira, coloque os ovos e bata até formar um creme espumoso;",
+    "Adicione gradualmente o açúcar e vá batendo até diminuir de volume;",
+    "Em uma leiteira, junte o leite, a água, o óleo, misture bem e esquente até ferver. Deixe mornar;",
+    "Na batedeira, ainda funcionado, vá acrescentando aos pouco a farinha de trigo e intercalando com a mistura de leite quente;",
+    "Assim que bater tudo e ficar homogêneo, desligue a batedeira e finalize com o fermento, misturando delicadamente com uma espátula;",
+    "Transfira a massa para uma forma untada, enfarinhada e leve ao forno preaquecido a 180 ºC por cerca de 30 minutos;",
+    "Deixe esfriar, desenforme, decore e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo branco",
+    "caption_medium": "Bolo branco Ingredientes: 3 ovos, 1 e ½ xícara de chá de açúcar, 1 xícara de chá de leite, ¼ de xícara de chá de água, 2 colheres de sopa de óleo de soja. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

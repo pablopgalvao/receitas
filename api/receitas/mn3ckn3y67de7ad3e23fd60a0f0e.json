@@ -1,0 +1,61 @@
+{
+  "id": "mn3ckn3y67de7ad3e23fd60a0f0e",
+  "title": "Cajuzinho vegano",
+  "slug": "receitas/cajuzinho-vegano__805139dd",
+  "url": "https://receitas.pgalvao.com.br/receitas/cajuzinho-vegano__805139dd/mn3ckn3y67de7ad3e23fd60a0f0e/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckn3y67de7ad3e23fd60a0f0e.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckn3y67de7ad3e23fd60a0f0e.json",
+  "deeplink": "boil://receita?rid=mn3ckn3y67de7ad3e23fd60a0f0e",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.838Z",
+  "time": "20 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "180 gramas de tâmaras sem caroço",
+    "150 gramas de farinha de amendoim"
+  ],
+  "steps": [
+    "Deixe as tâmaras na água por 1 hora.",
+    "Passe na peneira e bata no processador com um pouco de água.",
+    "Acrescente a farinha de amendoim.",
+    "Enrole e passar na farinha de amendoim ou no açúcar demerara.",
+    "Sirva e bom apetite."
+  ],
+  "excerpt": "Cajuzinho vegano. Tempo de preparo: 20 min. Ingrediente em destaque: 180 gramas de tâmaras sem caroço. Comece assim: Deixe as tâmaras na água por 1 hora.",
+  "social": {
+    "caption_short": "Cajuzinho vegano",
+    "caption_medium": "Cajuzinho vegano Ingredientes: 180 gramas de tâmaras sem caroço, 150 gramas de farinha de amendoim. Modo de preparo: Deixe as tâmaras na água por 1 hora.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cajuzinho-vegano__805139dd_01.webp\" alt=\"Cajuzinho vegano\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 20 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>180 gramas de tâmaras sem caroço</li>\n<li>150 gramas de farinha de amendoim</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Deixe as tâmaras na água por 1 hora.</li>\n<li>Passe na peneira e bata no processador com um pouco de água.</li>\n<li>Acrescente a farinha de amendoim.</li>\n<li>Enrole e passar na farinha de amendoim ou no açúcar demerara.</li>\n<li>Sirva e bom apetite.</li>\n</ol>\n"
+}

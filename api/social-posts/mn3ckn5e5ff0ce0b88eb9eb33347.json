@@ -1,0 +1,54 @@
+{
+  "id": "mn3ckn5e5ff0ce0b88eb9eb33347",
+  "title": "Ceviche de salmão",
+  "slug": "receitas/ceviche-de-salmao__947aa127",
+  "url": "https://receitas.pgalvao.com.br/receitas/ceviche-de-salmao__947aa127/mn3ckn5e5ff0ce0b88eb9eb33347/",
+  "deeplink": "boil://receita?rid=mn3ckn5e5ff0ce0b88eb9eb33347",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao__947aa127_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao__947aa127_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao__947aa127_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao__947aa127_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ceviche-de-salmao__947aa127_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de filé de salmão fresco",
+    "1 cebola roxa",
+    "½ pimenta-dedo-de-moça",
+    "4 colheres de azeite de oliva extravirgem",
+    "1 colher de sopa de shoyu",
+    "3 a 4 limões",
+    "Sal a gosto",
+    "Salsinha a gosto",
+    "Cubos de gelo"
+  ],
+  "steps": [
+    "Reúna os ingredientes do ceviche de salmão;",
+    "Retire a pele do salmão, limpe e corte a peça em cubos médios;",
+    "Coloque os cubos de salmão em uma tigela, tempere com sal e adicione alguns cubos de gelo. Misture bem e reserve;",
+    "Depois, corte a cebola em meia-lua finamente e coloque-as de molho em um recipiente com água gelada e gelo, para que o sabor fique mais suave. Deixe por cerca de 10 minutos;",
+    "Enquanto isso, retire as sementes da pimenta e pique em pedaços pequenos;",
+    "Depois, junte a cebola escorrida, a pimenta, o azeite, o shoyu e o suco dos limões na tigela com o salmão. Misture bem e, se necessário, acerte o sal;",
+    "Finalize com a salsinha e sirva. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Ceviche de salmão",
+    "caption_medium": "Ceviche de salmão Ingredientes: 500 gramas de filé de salmão fresco, 1 cebola roxa, ½ pimenta-dedo-de-moça, 4 colheres de azeite de oliva extravirgem, 1 colher de sopa de shoyu. Modo de preparo: Reúna os ingredientes do ceviche de salmão;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

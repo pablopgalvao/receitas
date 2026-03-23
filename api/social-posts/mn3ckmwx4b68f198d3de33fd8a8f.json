@@ -1,0 +1,54 @@
+{
+  "id": "mn3ckmwx4b68f198d3de33fd8a8f",
+  "title": "Arroz de forno rápido",
+  "slug": "receitas/arroz-de-forno-rapido__8d4e4b36",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz-de-forno-rapido__8d4e4b36/mn3ckmwx4b68f198d3de33fd8a8f/",
+  "deeplink": "boil://receita?rid=mn3ckmwx4b68f198d3de33fd8a8f",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-rapido__8d4e4b36_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-rapido__8d4e4b36_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-rapido__8d4e4b36_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-rapido__8d4e4b36_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-rapido__8d4e4b36_01.webp"
+  },
+  "ingredients": [
+    "280 gramas de presunto",
+    "230 gramas de queijo mussarela",
+    "¼ de xícara de chá de folhas de manjericão",
+    "2 colheres de sopa de azeite",
+    "3 xícaras de chá de arroz cozido e frio",
+    "Pimenta-do-reino a gosto",
+    "⅓ de xícara de chá de queijo parmesão ralado"
+  ],
+  "steps": [
+    "Coloque todos os ingredientes na bancada e preaqueça o forno a 180ºC;",
+    "Corte o presunto e a mussarela em cubinhos. Tente manter uniforme, para garantir que cada porção tenha uma boa distribuição de ingredientes. Lave e pique as folhas de manjericão bem fininhas. Reserve-os;",
+    "Em uma panela ou tigela grande, adicione o arroz cozido e frio, acrescente o presunto e misture bem para distribuir seus pedaços pelo arroz. Adicione a mussarela e misture novamente;",
+    "Em seguida, adicione as folhas de manjericão picadas e faça uma última mistura para distribuir bem seu sabor fresco e aromático;",
+    "Transfira metade da mistura de arroz para uma travessa que possa ser levada ao forno. Essa camada inicial servirá como a base. Nessa primeira camada, tempere com a pimenta-do-reino e azeite, por cima, sem a necessidade de misturar;",
+    "Adicione a segunda camada do arroz na travessa, cobrindo completamente a camada anterior. Acerte sua superfície com uma espátula para que fique uniforme;",
+    "Tempere novamente com pimenta-do-reino e regue com o restante do azeite. Finalize com uma camada fina de queijo parmesão ralado;",
+    "Leve a travessa ao forno preaquecido a 180°C por cerca de 20 minutos. Esse tempo é suficiente para que os queijos derretam e o arroz fique bem quente e integrado;",
+    "Após esse tempo, ligue o grill do forno e deixe gratinar por aproximadamente 3 minutos, isso deixará o topo dourado e crocante. Retire do forno e deixe descansar por 2 minutos. Sirva ainda quentinho para que a mussarela fique puxa-puxa!"
+  ],
+  "social": {
+    "caption_short": "Arroz de forno rápido",
+    "caption_medium": "Arroz de forno rápido Ingredientes: 280 gramas de presunto, 230 gramas de queijo mussarela, ¼ de xícara de chá de folhas de manjericão, 2 colheres de sopa de azeite, 3 xícaras de chá de arroz cozido e frio. Modo de preparo: Coloque todos os ingredientes na bancada e preaqueça o forno a 180ºC;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

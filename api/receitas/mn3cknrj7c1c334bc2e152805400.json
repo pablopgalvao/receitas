@@ -1,0 +1,64 @@
+{
+  "id": "mn3cknrj7c1c334bc2e152805400",
+  "title": "Pasta de abacate",
+  "slug": "receitas/pasta_de_abacate",
+  "url": "https://receitas.pgalvao.com.br/receitas/pasta_de_abacate/mn3cknrj7c1c334bc2e152805400/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3cknrj7c1c334bc2e152805400.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3cknrj7c1c334bc2e152805400.json",
+  "deeplink": "boil://receita?rid=mn3cknrj7c1c334bc2e152805400",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_abacate.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_abacate.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_abacate.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_abacate.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_abacate.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.687Z",
+  "time": "",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "caseiro",
+    "prático",
+    "tradicional"
+  ],
+  "ingredients": [
+    "Abacate com limão e açúcar",
+    "2 colheres (chá) de azeite",
+    "sal a gosto",
+    "Descarte o caroço, transfira a polpa para uma tigela, regue com o azeite e o caldo de limão. Tempere com sal e amasse com o amassador de legumes (ou um garfo) para formar uma pastinha. Sirva a seguir."
+  ],
+  "steps": [
+    "Corte o avocado ao meio no sentido do comprimento.",
+    "Descarte o caroço, transfira a polpa para uma tigela, regue com o azeite e o caldo de limão. Tempere com sal e amasse com o amassador de legumes (ou um garfo) para formar uma pastinha. Sirva a seguir."
+  ],
+  "excerpt": "Pasta de abacate. Ingrediente em destaque: Abacate com limão e açúcar. Comece assim: Corte o avocado ao meio no sentido do comprimento.",
+  "social": {
+    "caption_short": "Pasta de abacate",
+    "caption_medium": "Pasta de abacate Ingredientes: Abacate com limão e açúcar, 2 colheres (chá) de azeite, sal a gosto, Descarte o caroço, transfira a polpa para uma tigela, regue com o azeite e o caldo de limão. Tempere com sal e amasse com o amassador de legumes (ou um garfo) para formar uma pastinha. Sirva a seguir.. Modo de preparo: Corte o avocado ao meio no sentido do comprimento.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#prático",
+      "#tradicional"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/pasta_de_abacate.jpg\" alt=\"Pasta de abacate\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> </li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Abacate com limão e açúcar</li>\n<li>2 colheres (chá) de azeite</li>\n<li>sal a gosto</li>\n<li>Descarte o caroço, transfira a polpa para uma tigela, regue com o azeite e o caldo de limão. Tempere com sal e amasse com o amassador de legumes (ou um garfo) para formar uma pastinha. Sirva a seguir.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Corte o avocado ao meio no sentido do comprimento.</li>\n<li>Descarte o caroço, transfira a polpa para uma tigela, regue com o azeite e o caldo de limão. Tempere com sal e amasse com o amassador de legumes (ou um garfo) para formar uma pastinha. Sirva a seguir.</li>\n</ol>\n"
+}

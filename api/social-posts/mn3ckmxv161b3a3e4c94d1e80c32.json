@@ -1,0 +1,51 @@
+{
+  "id": "mn3ckmxv161b3a3e4c94d1e80c32",
+  "title": "Banana frita",
+  "slug": "receitas/banana-frita__3be1e49d",
+  "url": "https://receitas.pgalvao.com.br/receitas/banana-frita__3be1e49d/mn3ckmxv161b3a3e4c94d1e80c32/",
+  "deeplink": "boil://receita?rid=mn3ckmxv161b3a3e4c94d1e80c32",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-frita__3be1e49d_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-frita__3be1e49d_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-frita__3be1e49d_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-frita__3be1e49d_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/banana-frita__3be1e49d_01.webp"
+  },
+  "ingredients": [
+    "5 bananas médias no ponto",
+    "10 colheres de sopa de farinha de trigo",
+    "1 colher de sopa de amido de milho",
+    "3 ovos médios",
+    "1 xícara de chá de farinha de rosca para empanar"
+  ],
+  "steps": [
+    "Separe os ingredientes na bancada e venha aprender a fazer uma deliciosa e crocante banana frita;",
+    "Descasque todas as bananas em um prato raso e descarte a casca. Utilize uma faca para cortá-las ao meio;",
+    "Separe 3 recipientes um próximo do outro: um com os ovos batidos, o segundo com a farinha de rosca, e o último com a mistura de farinha de trigo e amido de milho;",
+    "Para empanar, passe uma metade da banana na farinha de trigo com amido, depois na mistura de ovo e, por último, na farinha de rosca;",
+    "Repita o mesmo processo com as outras metades e lembre de retirar o excesso de cada uma;",
+    "Coloque o óleo em uma panela grande no fogo alto. Quando estiver quente, coloque um pedacinho da farinha de rosca, se borbulhar, está no ponto;",
+    "Abaixe o fogo e frite 3 bananas de cada vez para manter a temperatura do óleo. Quando estiver douradinho, retire e deixe por cima do papel-toalha para escorrer;",
+    "Sirva a banana frita e aproveite, bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Banana frita",
+    "caption_medium": "Banana frita Ingredientes: 5 bananas médias no ponto, 10 colheres de sopa de farinha de trigo, 1 colher de sopa de amido de milho, 3 ovos médios, 1 xícara de chá de farinha de rosca para empanar. Modo de preparo: Separe os ingredientes na bancada e venha aprender a fazer uma deliciosa e crocante banana frita;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

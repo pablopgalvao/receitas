@@ -1,0 +1,51 @@
+{
+  "id": "mn3cko1458ecb8c0dfbc5e8c8418",
+  "title": "Repolho roxo com maçã",
+  "slug": "receitas/repolho_roxo_com_ma",
+  "url": "https://receitas.pgalvao.com.br/receitas/repolho_roxo_com_ma/mn3cko1458ecb8c0dfbc5e8c8418/",
+  "deeplink": "boil://receita?rid=mn3cko1458ecb8c0dfbc5e8c8418",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_roxo_com_ma.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_roxo_com_ma.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_roxo_com_ma.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_roxo_com_ma.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/repolho_roxo_com_ma.jpg"
+  },
+  "ingredients": [
+    "4 colheres (sopa) de manteiga",
+    "½ xícara (chá) de água",
+    "½ xícara (chá) de vinagre de vinho branco",
+    "3 colheres (sopa) de açúcar",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Leve uma panela média com a manteiga ao fogo médio. Quando derreter, acrescente o repolho, tempere com uma pitada de sal e refogue por cerca de 3 minutos até murchar.",
+    "Acrescente a água, o vinagre, o cravo, o açúcar e a maçã (com o caldo). Misture bem e deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando, até o repolho ficar bem macio. Prove e tempere com sal e pimenta-do-reino moída na hora a gosto. Sirva a seguir."
+  ],
+  "steps": [
+    "Corte o repolho ao meio, apoie a parte plana na tábua e fatie cada metade em tiras finas de cerca de 1 cm. Transfira para uma tigela, lave bem sob água corrente e deixe escorrer a água.",
+    "Lave, seque e corte a maçã ao meio (com a casca). Descarte as sementes, corte cada metade em fatias e as fatias em cubos pequenos. Transfira para uma tigela e regue com o caldo de limão - ele evita que a maçã escureça e dá sabor ao preparo.",
+    "Leve uma panela média com a manteiga ao fogo médio. Quando derreter, acrescente o repolho, tempere com uma pitada de sal e refogue por cerca de 3 minutos até murchar.",
+    "Acrescente a água, o vinagre, o cravo, o açúcar e a maçã (com o caldo). Misture bem e deixe cozinhar por cerca de 10 minutos, mexendo de vez em quando, até o repolho ficar bem macio. Prove e tempere com sal e pimenta-do-reino moída na hora a gosto. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Repolho roxo com maçã",
+    "caption_medium": "Repolho roxo com maçã Ingredientes: 4 colheres (sopa) de manteiga, ½ xícara (chá) de água, ½ xícara (chá) de vinagre de vinho branco, 3 colheres (sopa) de açúcar, sal e pimenta-do-reino moída na hora a gosto. Modo de preparo: Corte o repolho ao meio, apoie a parte plana na tábua e fatie cada metade em tiras finas de cerca de 1 cm. Transfira para uma tigela, lave bem sob água corrente e deixe escorrer a água.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#brasil",
+      "#rápido"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckne15087368f647bb3511ccc",
+  "title": "Homus rápido",
+  "slug": "receitas/homus-rapido__48dafa7d",
+  "url": "https://receitas.pgalvao.com.br/receitas/homus-rapido__48dafa7d/mn3ckne15087368f647bb3511ccc/",
+  "deeplink": "boil://receita?rid=mn3ckne15087368f647bb3511ccc",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-rapido__48dafa7d_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-rapido__48dafa7d_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-rapido__48dafa7d_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-rapido__48dafa7d_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-rapido__48dafa7d_01.webp"
+  },
+  "ingredients": [
+    "2 latas de grão-de-bico (280 gramas cada lata)",
+    "3 dentes de alho",
+    "½ limão",
+    "1 colher de sopa de tahine",
+    "3 colheres de sopa de azeite",
+    "Sal e pimenta-do-reino a gosto",
+    "Água do cozimento do grão-de-bico"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Escorra o grão-de-bico e reserve a água;",
+    "Em um processador, coloque o grão-de-bico, o alho, o suco do limão, o tahine, o azeite, o sal, a pimenta e um pouco da água das latinhas;",
+    "Bata até obter uma pasta homogênea;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Homus rápido",
+    "caption_medium": "Homus rápido Ingredientes: 2 latas de grão-de-bico (280 gramas cada lata), 3 dentes de alho, ½ limão, 1 colher de sopa de tahine, 3 colheres de sopa de azeite. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

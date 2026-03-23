@@ -1,0 +1,56 @@
+{
+  "id": "mn3cknb7abf230754967b1fd0aea",
+  "title": "Frango ao curry simples",
+  "slug": "receitas/frango-ao-curry-simples__1d56d144",
+  "url": "https://receitas.pgalvao.com.br/receitas/frango-ao-curry-simples__1d56d144/mn3cknb7abf230754967b1fd0aea/",
+  "deeplink": "boil://receita?rid=mn3cknb7abf230754967b1fd0aea",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-curry-simples__1d56d144_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-curry-simples__1d56d144_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-curry-simples__1d56d144_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-curry-simples__1d56d144_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-ao-curry-simples__1d56d144_01.webp"
+  },
+  "ingredients": [
+    "1 peito de frango cortado em cubos médios, cerca de 600 gramas",
+    "2 dentes de alho bem picados ou amassados",
+    "Sal e pimenta-do-reino a gosto",
+    "Suco de meio limão",
+    "2 colheres de sopa de azeite",
+    "1 pimentão pequeno cortado em cubos médios",
+    "1 cebola picada em cubos médios",
+    "2 colheres de sopa de curry",
+    "200ml de leite de coco",
+    "½ xícara de chá de creme de leite fresco",
+    "Cheiro verde a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, adicione o frango e tempere com alho, sal, pimenta, o suco de limão e deixe marinar por no mínimo 2 horas;",
+    "Em uma panela, esquente o azeite e frite o frango até ficar bem douradinho;",
+    "Acrescente os pimentões, a cebola e deixe refogar até que comecem a murchar;",
+    "Coloque o curry, o leite de coco, o creme de leite, misture bem, acerte o sal, a pimenta (caso precise) e deixe cozinhar por cerca de 3 minutos, em fogo baixo;",
+    "Desligue o fogo e finalize com cheiro verde;",
+    "Agora é só servir."
+  ],
+  "social": {
+    "caption_short": "Frango ao curry simples",
+    "caption_medium": "Frango ao curry simples Ingredientes: 1 peito de frango cortado em cubos médios, cerca de 600 gramas, 2 dentes de alho bem picados ou amassados, Sal e pimenta-do-reino a gosto, Suco de meio limão, 2 colheres de sopa de azeite. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

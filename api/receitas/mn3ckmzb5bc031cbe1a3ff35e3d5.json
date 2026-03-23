@@ -1,0 +1,82 @@
+{
+  "id": "mn3ckmzb5bc031cbe1a3ff35e3d5",
+  "title": "Blondie com banana e castanha-de-caju",
+  "slug": "receitas/blondie_com_banana_e_castanha_de_caju",
+  "url": "https://receitas.pgalvao.com.br/receitas/blondie_com_banana_e_castanha_de_caju/mn3ckmzb5bc031cbe1a3ff35e3d5/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckmzb5bc031cbe1a3ff35e3d5.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckmzb5bc031cbe1a3ff35e3d5.json",
+  "deeplink": "boil://receita?rid=mn3ckmzb5bc031cbe1a3ff35e3d5",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_banana_e_castanha_de_caju.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_banana_e_castanha_de_caju.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_banana_e_castanha_de_caju.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_banana_e_castanha_de_caju.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_banana_e_castanha_de_caju.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.671Z",
+  "time": "30 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "saudável",
+    "brasil",
+    "rápido"
+  ],
+  "ingredients": [
+    "1¼ de xícara (chá) de farinha de trigo",
+    "1 xícara (chá) de açúcar mascavo claro",
+    "½ xícara (chá) de açúcar",
+    "150 g de manteiga",
+    "½ colher (chá) de fermento em pó",
+    "1 pitada de sal",
+    "½ xícara (chá) de castanha-de-caju torrada sem sal",
+    "5 bananas-passas (cerca de ½ xícara [chá] picadas)",
+    "½ xícara (chá) de chocolate branco em gotas ou cortado em cubos (cerca de 80 g)",
+    "Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma quadrada de 20 cm com 5 cm de altura. Corte um pedaço de papel-manteiga de 19 cm x 40 cm para forrar a fôrma — assim, duas laterais ficam com uma sobra de papel para puxar e desenformar o blondie mais facilmente depois de assado. Unte também o papel com manteiga.",
+    "Corte a manteiga em cubos (assim ela derrete mais rápido), transfira para uma panela pequena e leve ao fogo baixo para derreter.",
+    "Reserve a manteiga derretida numa tigela para amornar — assim ela não queima com o calor residual da panela. Enquanto isso, separe os outros ingredientes — se a manteiga estiver muito quente no momento de misturar a massa, ela pode cozinhar os ovos.",
+    "Pique grosseiramente as castanhas. Caso esteja usando o chocolate branco em barra, corte o chocolate em cubos pequenos. Corte as bananas ao meio no sentido do comprimento e fatie em pedaços de 0,5 cm. Reserve 2 colheres (sopa) da castanha e 2 colheres (sopa) da banana para finalizar o blondie.",
+    "Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se um deles estiver estragado você não perde a receita. Junte o açúcar e o açúcar mascavo e misture bem com uma espátula para incorporar. Adicione a manteiga e mexa novamente.",
+    "Acrescente a farinha de trigo aos poucos, passando pela peneira. Misture bem com a espátula a cada adição para incorporar — a farinha deixa a massa mais densa e pesada, é assim mesmo. Misture o fermento e o sal. Por último, misture o chocolate branco, a castanha e a banana."
+  ],
+  "steps": [
+    "Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma quadrada de 20 cm com 5 cm de altura. Corte um pedaço de papel-manteiga de 19 cm x 40 cm para forrar a fôrma — assim, duas laterais ficam com uma sobra de papel para puxar e desenformar o blondie mais facilmente depois de assado. Unte também o papel com manteiga.",
+    "Corte a manteiga em cubos (assim ela derrete mais rápido), transfira para uma panela pequena e leve ao fogo baixo para derreter.",
+    "Reserve a manteiga derretida numa tigela para amornar — assim ela não queima com o calor residual da panela. Enquanto isso, separe os outros ingredientes — se a manteiga estiver muito quente no momento de misturar a massa, ela pode cozinhar os ovos.",
+    "Pique grosseiramente as castanhas. Caso esteja usando o chocolate branco em barra, corte o chocolate em cubos pequenos. Corte as bananas ao meio no sentido do comprimento e fatie em pedaços de 0,5 cm. Reserve 2 colheres (sopa) da castanha e 2 colheres (sopa) da banana para finalizar o blondie.",
+    "Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se um deles estiver estragado você não perde a receita. Junte o açúcar e o açúcar mascavo e misture bem com uma espátula para incorporar. Adicione a manteiga e mexa novamente.",
+    "Acrescente a farinha de trigo aos poucos, passando pela peneira. Misture bem com a espátula a cada adição para incorporar — a farinha deixa a massa mais densa e pesada, é assim mesmo. Misture o fermento e o sal. Por último, misture o chocolate branco, a castanha e a banana.",
+    "Transfira a massa para a fôrma e nivele com a espátula. Espalhe a castanha-de-caju e a banana reservadas por cima.",
+    "Leve ao forno para assar por cerca de 30 minutos — o blondie deve ficar com uma casquinha brilhante na superfície. Para saber se está no ponto, espete um palito no centro da massa: se sair limpo, está pronto; caso contrário, deixe assar por mais alguns minutos.",
+    "Retire a assadeira do forno e deixe o blondie esfriar completamente antes de cortar. Para desenformar: puxe as duas laterais de papel, transfira o blondie para a tábua e retire o papel delicadamente. Sirva a seguir."
+  ],
+  "excerpt": "Blondie com banana e castanha-de-caju. Tempo de preparo: 30 min. Ingrediente em destaque: 1¼ de xícara (chá) de farinha de trigo. Comece assim: Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma quadrada de 20 cm com 5 cm de altura. Corte um pedaço de papel-manteiga de 19 cm x 40 cm para forrar a fôrma — assim, duas laterais ficam com uma sobra de papel para puxar e desenformar o blondie mais facilmente depois de assado. Unte também o papel com manteiga.",
+  "social": {
+    "caption_short": "Blondie com banana e castanha-de-caju",
+    "caption_medium": "Blondie com banana e castanha-de-caju Ingredientes: 1¼ de xícara (chá) de farinha de trigo, 1 xícara (chá) de açúcar mascavo claro, ½ xícara (chá) de açúcar, 150 g de manteiga, ½ colher (chá) de fermento em pó. Modo de preparo: Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma quadrada de 20 cm com 5 cm de altura. Corte um pedaço de papel-manteiga de 19 cm x 40 cm para forrar a fôrma — assim, duas laterais ficam com uma sobra de papel para puxar e desenformar o blondie mais facilmente depois de assado. Unte também o papel com manteiga.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#brasil",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/blondie_com_banana_e_castanha_de_caju.jpg\" alt=\"Blondie com banana e castanha-de-caju\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 30 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1¼ de xícara (chá) de farinha de trigo</li>\n<li>1 xícara (chá) de açúcar mascavo claro</li>\n<li>½ xícara (chá) de açúcar</li>\n<li>150 g de manteiga</li>\n<li>½ colher (chá) de fermento em pó</li>\n<li>1 pitada de sal</li>\n<li>½ xícara (chá) de castanha-de-caju torrada sem sal</li>\n<li>5 bananas-passas (cerca de ½ xícara [chá] picadas)</li>\n<li>½ xícara (chá) de chocolate branco em gotas ou cortado em cubos (cerca de 80 g)</li>\n<li>Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma quadrada de 20 cm com 5 cm de altura. Corte um pedaço de papel-manteiga de 19 cm x 40 cm para forrar a fôrma — assim, duas laterais ficam com uma sobra de papel para puxar e desenformar o blondie mais facilmente depois de assado. Unte também o papel com manteiga.</li>\n<li>Corte a manteiga em cubos (assim ela derrete mais rápido), transfira para uma panela pequena e leve ao fogo baixo para derreter.</li>\n<li>Reserve a manteiga derretida numa tigela para amornar — assim ela não queima com o calor residual da panela. Enquanto isso, separe os outros ingredientes — se a manteiga estiver muito quente no momento de misturar a massa, ela pode cozinhar os ovos.</li>\n<li>Pique grosseiramente as castanhas. Caso esteja usando o chocolate branco em barra, corte o chocolate em cubos pequenos. Corte as bananas ao meio no sentido do comprimento e fatie em pedaços de 0,5 cm. Reserve 2 colheres (sopa) da castanha e 2 colheres (sopa) da banana para finalizar o blondie.</li>\n<li>Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se um deles estiver estragado você não perde a receita. Junte o açúcar e o açúcar mascavo e misture bem com uma espátula para incorporar. Adicione a manteiga e mexa novamente.</li>\n<li>Acrescente a farinha de trigo aos poucos, passando pela peneira. Misture bem com a espátula a cada adição para incorporar — a farinha deixa a massa mais densa e pesada, é assim mesmo. Misture o fermento e o sal. Por último, misture o chocolate branco, a castanha e a banana.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma quadrada de 20 cm com 5 cm de altura. Corte um pedaço de papel-manteiga de 19 cm x 40 cm para forrar a fôrma — assim, duas laterais ficam com uma sobra de papel para puxar e desenformar o blondie mais facilmente depois de assado. Unte também o papel com manteiga.</li>\n<li>Corte a manteiga em cubos (assim ela derrete mais rápido), transfira para uma panela pequena e leve ao fogo baixo para derreter.</li>\n<li>Reserve a manteiga derretida numa tigela para amornar — assim ela não queima com o calor residual da panela. Enquanto isso, separe os outros ingredientes — se a manteiga estiver muito quente no momento de misturar a massa, ela pode cozinhar os ovos.</li>\n<li>Pique grosseiramente as castanhas. Caso esteja usando o chocolate branco em barra, corte o chocolate em cubos pequenos. Corte as bananas ao meio no sentido do comprimento e fatie em pedaços de 0,5 cm. Reserve 2 colheres (sopa) da castanha e 2 colheres (sopa) da banana para finalizar o blondie.</li>\n<li>Numa tigela pequena, quebre um ovo de cada vez e transfira para uma tigela grande — se um deles estiver estragado você não perde a receita. Junte o açúcar e o açúcar mascavo e misture bem com uma espátula para incorporar. Adicione a manteiga e mexa novamente.</li>\n<li>Acrescente a farinha de trigo aos poucos, passando pela peneira. Misture bem com a espátula a cada adição para incorporar — a farinha deixa a massa mais densa e pesada, é assim mesmo. Misture o fermento e o sal. Por último, misture o chocolate branco, a castanha e a banana.</li>\n<li>Transfira a massa para a fôrma e nivele com a espátula. Espalhe a castanha-de-caju e a banana reservadas por cima.</li>\n<li>Leve ao forno para assar por cerca de 30 minutos — o blondie deve ficar com uma casquinha brilhante na superfície. Para saber se está no ponto, espete um palito no centro da massa: se sair limpo, está pronto; caso contrário, deixe assar por mais alguns minutos.</li>\n<li>Retire a assadeira do forno e deixe o blondie esfriar completamente antes de cortar. Para desenformar: puxe as duas laterais de papel, transfira o blondie para a tábua e retire o papel delicadamente. Sirva a seguir.</li>\n</ol>\n"
+}

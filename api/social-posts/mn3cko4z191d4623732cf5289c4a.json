@@ -1,0 +1,55 @@
+{
+  "id": "mn3cko4z191d4623732cf5289c4a",
+  "title": "Salada de arroz com curry",
+  "slug": "receitas/salada_de_arroz_com_curry",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada_de_arroz_com_curry/mn3cko4z191d4623732cf5289c4a/",
+  "deeplink": "boil://receita?rid=mn3cko4z191d4623732cf5289c4a",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_com_curry.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_com_curry.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_com_curry.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_com_curry.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_arroz_com_curry.jpg"
+  },
+  "ingredients": [
+    "Salada oriental de arroz com frango",
+    "Arroz com salsinha",
+    "1 xícara (chá) de arroz branco cozido",
+    "1½ colher (chá) de curry",
+    "2 colheres (sopa) de azeite",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "mel a gosto para servir",
+    "castanha-de-caju apimentada a gosto"
+  ],
+  "steps": [
+    "Leve uma panela pequena com água ao fogo alto para ferver. Separe uma tigela com água e cubos de gelo.",
+    "Lave o ovo sob água corrente e, com um alfinete, faça um furinho na base da casca. Com uma escumadeira, mergulhe o ovo na água fervente, abaixe o fogo e deixe cozinhar por 12 minutos para gema dura (ou por 7 minutos para a gema gelatinosa).",
+    "Com a escumadeira, transfira o ovo para a tigela com água e gelo para interromper o cozimento. Enquanto isso, prepare os outros ingredientes.",
+    "Numa tigela média, misture o curry com o caldo de limão e o azeite. Corte a maçã em quartos, descarte as sementes e passe cada pedaço na parte grossa do ralador usando a casca como proteção das mãos. Junte a maçã ao molho da tigela e misture bem.",
+    "Leve o arroz ao micro-ondas para aquecer por apenas 40 segundos – o arroz aquecido absorve melhor os sabores do molho. Misture o arroz ao molho com maçã ralada e reserve.",
+    "Corte o pepino ao meio, no sentido do comprimento. Corte cada metade em três tiras e fatie as tiras em cubos pequenos. Pique grosseiramente as castanhas apimentadas. Descasque o ovo cozido.",
+    "Junte metade dos cubos do pepino ao arroz, tempere com sal e pimenta-do-reino a gosto e misture bem. Sirva a salada com o ovo cozido, o restante do pepino, a castanha picada e mel a gosto."
+  ],
+  "social": {
+    "caption_short": "Salada de arroz com curry",
+    "caption_medium": "Salada de arroz com curry Ingredientes: Salada oriental de arroz com frango, Arroz com salsinha, 1 xícara (chá) de arroz branco cozido, 1½ colher (chá) de curry, 2 colheres (sopa) de azeite. Modo de preparo: Leve uma panela pequena com água ao fogo alto para ferver. Separe uma tigela com água e cubos de gelo.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#tradicional",
+      "#fácil"
+    ]
+  }
+}

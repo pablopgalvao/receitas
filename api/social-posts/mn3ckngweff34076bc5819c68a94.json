@@ -1,0 +1,51 @@
+{
+  "id": "mn3ckngweff34076bc5819c68a94",
+  "title": "Macarrão com pesto de abacate",
+  "slug": "receitas/macarrao-com-pesto-de-abacate__2bac37a0",
+  "url": "https://receitas.pgalvao.com.br/receitas/macarrao-com-pesto-de-abacate__2bac37a0/mn3ckngweff34076bc5819c68a94/",
+  "deeplink": "boil://receita?rid=mn3ckngweff34076bc5819c68a94",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-pesto-de-abacate__2bac37a0_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-pesto-de-abacate__2bac37a0_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-pesto-de-abacate__2bac37a0_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-pesto-de-abacate__2bac37a0_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/macarrao-com-pesto-de-abacate__2bac37a0_01.webp"
+  },
+  "ingredients": [
+    "Macarrão",
+    "¼ de abacate grande",
+    "Um punhado de folhas de manjericão",
+    "3 colheres de sopa de azeite",
+    "Suco de ½ limão",
+    "1 dente de alho",
+    "2 colheres de sopa de parmesão ralado",
+    "1 colher de sopa de tahine",
+    "½ xícara de chá da água do cozimento da massa"
+  ],
+  "steps": [
+    "Em uma panela, deixe a água ferver com um pouco de sal.",
+    "Coloque o macarrão e cozinhe-o conforme as orientações da embalagem. Escorra e reserve.",
+    "Adicione o restante dos ingredientes no liquidificador e bata até misturar bem.",
+    "Despeje o molho no macarrão pronto e sirva! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Macarrão com pesto de abacate",
+    "caption_medium": "Macarrão com pesto de abacate Ingredientes: Macarrão, ¼ de abacate grande, Um punhado de folhas de manjericão, 3 colheres de sopa de azeite, Suco de ½ limão. Modo de preparo: Em uma panela, deixe a água ferver com um pouco de sal.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

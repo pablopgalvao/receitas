@@ -1,0 +1,73 @@
+{
+  "id": "mn3ckmzt8864ffa254aa8081d9c9",
+  "title": "Bolinho de arroz com queijo na Air Fryer",
+  "slug": "receitas/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo/mn3ckmzt8864ffa254aa8081d9c9/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckmzt8864ffa254aa8081d9c9.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckmzt8864ffa254aa8081d9c9.json",
+  "deeplink": "boil://receita?rid=mn3ckmzt8864ffa254aa8081d9c9",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.689Z",
+  "time": "1 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "sudeste",
+    "rápido"
+  ],
+  "ingredients": [
+    "Salmão com brócolis na Air Fryer",
+    "3½ xícaras (chá) de arroz branco cozido",
+    "¼ de xícara (chá) de leite",
+    "½ colher (chá) de sal",
+    "3 ramos de salsinha",
+    "¼ de xícara (chá) de queijo parmesão ralado fino",
+    "noz-moscada ralada na hora a gosto",
+    "pimenta-do-reino moída na hora a gosto",
+    "Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.",
+    "No liquidificador, coloque metade do arroz (1¾ de xícara), o leite e o ovo. Tempere com o sal, pimenta e noz-moscada e bata por cerca de 1 minuto, até triturar bem e o arroz ficar pastoso — pare de bater e raspe a lateral do copo com uma espátula para misturar os ingredientes quantas vezes forem necessárias.",
+    "Numa tigela grande, coloque o restante do arroz cozido, adicione o queijo parmesão, a salsinha picada e o arroz batido. Misture bem com a espátula até formar uma massa úmida, mas consistente — o arroz batido dá liga para a massa de bolinho e o restante do arroz cozido mantém a textura dos grãos inteiros."
+  ],
+  "steps": [
+    "Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.",
+    "No liquidificador, coloque metade do arroz (1¾ de xícara), o leite e o ovo. Tempere com o sal, pimenta e noz-moscada e bata por cerca de 1 minuto, até triturar bem e o arroz ficar pastoso — pare de bater e raspe a lateral do copo com uma espátula para misturar os ingredientes quantas vezes forem necessárias.",
+    "Numa tigela grande, coloque o restante do arroz cozido, adicione o queijo parmesão, a salsinha picada e o arroz batido. Misture bem com a espátula até formar uma massa úmida, mas consistente — o arroz batido dá liga para a massa de bolinho e o restante do arroz cozido mantém a textura dos grãos inteiros.",
+    "Para modelar os bolinhos: unte as mãos com azeite, retire uma porção da massa (cerca de 2 colheres [sopa]) e enrole formando uma bolinha de 3 cm de diâmetro. Com o dedo, faça um buraco no bolinho e recheie com um cubo de queijo. Aperte e enrole novamente para fechar — assim o bolinho fica bem compacto e o queijo não vaza ao derreter. Transfira para um prato e repita com o restante. Como a massa do bolinho de arroz é mais úmida, com uma colher, raspe o excesso que grudar na palma das mãos e unte novamente com azeite durante o processo."
+  ],
+  "excerpt": "Bolinho de arroz com queijo na Air Fryer. Tempo de preparo: 1 min. Ingrediente em destaque: Salmão com brócolis na Air Fryer. Comece assim: Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.",
+  "social": {
+    "caption_short": "Bolinho de arroz com queijo na Air Fryer",
+    "caption_medium": "Bolinho de arroz com queijo na Air Fryer Ingredientes: Salmão com brócolis na Air Fryer, 3½ xícaras (chá) de arroz branco cozido, ¼ de xícara (chá) de leite, ½ colher (chá) de sal, 3 ramos de salsinha. Modo de preparo: Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#sudeste",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolinho_de_arroz_com_queijo_na_air_fryer_da_rita_lobo.jpg\" alt=\"Bolinho de arroz com queijo na Air Fryer\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 1 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Salmão com brócolis na Air Fryer</li>\n<li>3½ xícaras (chá) de arroz branco cozido</li>\n<li>¼ de xícara (chá) de leite</li>\n<li>½ colher (chá) de sal</li>\n<li>3 ramos de salsinha</li>\n<li>¼ de xícara (chá) de queijo parmesão ralado fino</li>\n<li>noz-moscada ralada na hora a gosto</li>\n<li>pimenta-do-reino moída na hora a gosto</li>\n<li>Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.</li>\n<li>No liquidificador, coloque metade do arroz (1¾ de xícara), o leite e o ovo. Tempere com o sal, pimenta e noz-moscada e bata por cerca de 1 minuto, até triturar bem e o arroz ficar pastoso — pare de bater e raspe a lateral do copo com uma espátula para misturar os ingredientes quantas vezes forem necessárias.</li>\n<li>Numa tigela grande, coloque o restante do arroz cozido, adicione o queijo parmesão, a salsinha picada e o arroz batido. Misture bem com a espátula até formar uma massa úmida, mas consistente — o arroz batido dá liga para a massa de bolinho e o restante do arroz cozido mantém a textura dos grãos inteiros.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Lave, seque e pique a salsinha grosseiramente. Corte o queijo muçarela em cubos de 1 cm.</li>\n<li>No liquidificador, coloque metade do arroz (1¾ de xícara), o leite e o ovo. Tempere com o sal, pimenta e noz-moscada e bata por cerca de 1 minuto, até triturar bem e o arroz ficar pastoso — pare de bater e raspe a lateral do copo com uma espátula para misturar os ingredientes quantas vezes forem necessárias.</li>\n<li>Numa tigela grande, coloque o restante do arroz cozido, adicione o queijo parmesão, a salsinha picada e o arroz batido. Misture bem com a espátula até formar uma massa úmida, mas consistente — o arroz batido dá liga para a massa de bolinho e o restante do arroz cozido mantém a textura dos grãos inteiros.</li>\n<li>Para modelar os bolinhos: unte as mãos com azeite, retire uma porção da massa (cerca de 2 colheres [sopa]) e enrole formando uma bolinha de 3 cm de diâmetro. Com o dedo, faça um buraco no bolinho e recheie com um cubo de queijo. Aperte e enrole novamente para fechar — assim o bolinho fica bem compacto e o queijo não vaza ao derreter. Transfira para um prato e repita com o restante. Como a massa do bolinho de arroz é mais úmida, com uma colher, raspe o excesso que grudar na palma das mãos e unte novamente com azeite durante o processo.</li>\n</ol>\n"
+}

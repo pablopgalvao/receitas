@@ -1,0 +1,50 @@
+{
+  "id": "mn3cknwnb82e7ae2de91d8da313d",
+  "title": "Purê de mandioquinha rápido",
+  "slug": "receitas/pure-de-mandioquinha-rapido__5f2b2f7a",
+  "url": "https://receitas.pgalvao.com.br/receitas/pure-de-mandioquinha-rapido__5f2b2f7a/mn3cknwnb82e7ae2de91d8da313d/",
+  "deeplink": "boil://receita?rid=mn3cknwnb82e7ae2de91d8da313d",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-mandioquinha-rapido__5f2b2f7a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-mandioquinha-rapido__5f2b2f7a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-mandioquinha-rapido__5f2b2f7a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-mandioquinha-rapido__5f2b2f7a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pure-de-mandioquinha-rapido__5f2b2f7a_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de mandioquinha",
+    "1 colher de chá de sal",
+    "75 gramas de manteiga",
+    "1 colher de sopa de requeijão ou creme de ricota",
+    "1 pitada de pimenta-do-reino branca",
+    "800 ml de água para cozinhar"
+  ],
+  "steps": [
+    "Organize sua bancada! Descasque e corte a mandioquinha em pedaços médios;",
+    "Em uma panela, adicione a mandioquinha, água até cobrir, sal e leve para ferver em fogo alto. Cozinhe até que fique macia, por cerca de 20 minutos;",
+    "Transfira para um liquidificador com um pouco de água do cozimento e bata por aproximadamente 3 minutos até que fique liso e cremoso. Caso seu liquidificador não seja tão grande ou potente o suficiente, divida essa etapa em partes;",
+    "Agora, transfira o creme para uma panela com a manteiga e o creme de queijo e mexa em fogo baixo. Acrescente um pouco de água do cozimento se estiver muito grosso;",
+    "Adicione a pimenta-do-reino branca e ajuste o sal se precisar. Apure até que a textura fique cremosa;",
+    "Desligue o fogo. Finalize com salsinha e sirva com arroz branco e uma proteína!"
+  ],
+  "social": {
+    "caption_short": "Purê de mandioquinha rápido",
+    "caption_medium": "Purê de mandioquinha rápido Ingredientes: 500 gramas de mandioquinha, 1 colher de chá de sal, 75 gramas de manteiga, 1 colher de sopa de requeijão ou creme de ricota, 1 pitada de pimenta-do-reino branca. Modo de preparo: Organize sua bancada! Descasque e corte a mandioquinha em pedaços médios;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

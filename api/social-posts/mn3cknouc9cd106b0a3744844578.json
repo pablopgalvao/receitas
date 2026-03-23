@@ -1,0 +1,50 @@
+{
+  "id": "mn3cknouc9cd106b0a3744844578",
+  "title": "Panqueca de aveia",
+  "slug": "receitas/panqueca-de-aveia__0cb49c8a",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca-de-aveia__0cb49c8a/mn3cknouc9cd106b0a3744844578/",
+  "deeplink": "boil://receita?rid=mn3cknouc9cd106b0a3744844578",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia__0cb49c8a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia__0cb49c8a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia__0cb49c8a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia__0cb49c8a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-de-aveia__0cb49c8a_01.webp"
+  },
+  "ingredients": [
+    "1 xícara de aveia em flocos finos ou farinha de aveia",
+    "1 xícara de água",
+    "2 colheres de sopa de melado",
+    "1 colher de sopa de farinha de linhaça",
+    "1 colher de chá de fermento químico em pó"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque todos os ingredientes no liquidificador, com exceção do fermento, e bata até ficar homogêneo. Se você estiver usando farinha de aveia, pode misturar todos os ingredientes com um fouet;",
+    "Acrescente o fermento por último e misture delicadamente;",
+    "Aqueça uma frigideira antiaderente em fogo baixo. Espalhe um pouco da massa e tampe para abafar e já começar a assar o outro lado;",
+    "Verifique se está bem assada e vire para assar o outro lado até dourar. Tampe novamente para abafar;",
+    "Repita o processo até terminar a massa;",
+    "Sirva com o acompanhamento de sua preferência (mel, frutas, geleias, castanhas). Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Panqueca de aveia",
+    "caption_medium": "Panqueca de aveia Ingredientes: 1 xícara de aveia em flocos finos ou farinha de aveia, 1 xícara de água, 2 colheres de sopa de melado, 1 colher de sopa de farinha de linhaça, 1 colher de chá de fermento químico em pó. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

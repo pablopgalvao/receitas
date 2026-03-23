@@ -1,0 +1,71 @@
+{
+  "id": "mn3ckna2da39b84cf16a4d8b35df",
+  "title": "Farofa de churrasco",
+  "slug": "receitas/farofa_de_churrasco",
+  "url": "https://receitas.pgalvao.com.br/receitas/farofa_de_churrasco/mn3ckna2da39b84cf16a4d8b35df/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckna2da39b84cf16a4d8b35df.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckna2da39b84cf16a4d8b35df.json",
+  "deeplink": "boil://receita?rid=mn3ckna2da39b84cf16a4d8b35df",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_churrasco.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_churrasco.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_churrasco.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_churrasco.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_churrasco.webp"
+  },
+  "date": "2025-09-20T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.058Z",
+  "time": "20 min",
+  "difficulty": "Fácil",
+  "servings": "6 Porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Entradas"
+  ],
+  "tags": [
+    "popular",
+    "brasil",
+    "churrasco",
+    "fim de semana"
+  ],
+  "ingredients": [
+    "⅓ de xícara (chá) de azeite",
+    "1 xícara (chá) de bacon picado",
+    "1 cebola picada",
+    "1 lata de milho verde escorrido",
+    "½ lata de ervilha escorrida",
+    "½ pimenta vermelha sem sementes picada",
+    "3 xícaras (chá) de farinha de milho",
+    "sal a gosto"
+  ],
+  "steps": [
+    "Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.",
+    "Adicione o milho, a ervilha, a pimenta e refogue por 2 minutos.",
+    "Acrescente a farinha, sal, misture e desligue o fogo. Sirva."
+  ],
+  "excerpt": "Farofa de churrasco. Tempo de preparo: 20 min. Ingrediente em destaque: ⅓ de xícara (chá) de azeite. Comece assim: Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.",
+  "social": {
+    "caption_short": "Farofa de churrasco",
+    "caption_medium": "Farofa de churrasco Ingredientes: ⅓ de xícara (chá) de azeite, 1 xícara (chá) de bacon picado, 1 cebola picada, 1 lata de milho verde escorrido, ½ lata de ervilha escorrida. Modo de preparo: Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#brasil",
+      "#churrasco",
+      "#fimdesemana"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/farofa_de_churrasco.webp\" alt=\"Farofa de churrasco\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Entradas</li>\n<li><strong>Dificuldade:</strong> Fácil</li>\n<li><strong>Rendimento:</strong> 6 Porções</li>\n<li><strong>Tempo de preparo:</strong> 20 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>⅓ de xícara (chá) de azeite</li>\n<li>1 xícara (chá) de bacon picado</li>\n<li>1 cebola picada</li>\n<li>1 lata de milho verde escorrido</li>\n<li>½ lata de ervilha escorrida</li>\n<li>½ pimenta vermelha sem sementes picada</li>\n<li>3 xícaras (chá) de farinha de milho</li>\n<li>sal a gosto</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Aqueça uma panela com metade do azeite, em fogo médio, frite o bacon e a cebola até dourar.</li>\n<li>Adicione o milho, a ervilha, a pimenta e refogue por 2 minutos.</li>\n<li>Acrescente a farinha, sal, misture e desligue o fogo. Sirva.</li>\n</ol>\n"
+}

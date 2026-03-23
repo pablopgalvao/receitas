@@ -1,0 +1,49 @@
+{
+  "id": "mn3cko372c686d7c9417c0f54607",
+  "title": "Sagu de vinho",
+  "slug": "receitas/sagu-de-vinho__6cc98afc",
+  "url": "https://receitas.pgalvao.com.br/receitas/sagu-de-vinho__6cc98afc/mn3cko372c686d7c9417c0f54607/",
+  "deeplink": "boil://receita?rid=mn3cko372c686d7c9417c0f54607",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sagu-de-vinho__6cc98afc_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sagu-de-vinho__6cc98afc_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sagu-de-vinho__6cc98afc_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sagu-de-vinho__6cc98afc_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/sagu-de-vinho__6cc98afc_01.webp"
+  },
+  "ingredients": [
+    "2 xícaras de chá de sagu",
+    "1 e ½ litro de água",
+    "600 ml de vinho tinto suave",
+    "1 e ½ xícara de chá de açúcar",
+    "Canela em pau e cravo-da-índia a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma panela alta, coloque toda a água e leve ao fogo alto para ferver;",
+    "Assim que levantar fervura, adicione o sagu. Misture bem e deixe cozinhar por 10 minutos com a panela tampada ou semitampada;",
+    "Acrescente o vinho, o açúcar, a canela e o cravo. Misture e deixe cozinhar por 20 minutos ou até o sagu ficar translúcido;",
+    "Desligue o fogo, deixe descansar por 20 minutos e leve à geladeira por cerca de 1 hora para gelar;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Sagu de vinho",
+    "caption_medium": "Sagu de vinho Ingredientes: 2 xícaras de chá de sagu, 1 e ½ litro de água, 600 ml de vinho tinto suave, 1 e ½ xícara de chá de açúcar, Canela em pau e cravo-da-índia a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

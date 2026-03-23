@@ -1,0 +1,46 @@
+{
+  "id": "mn3ckn7340abfb66e308d058c48c",
+  "title": "Creme de abacate com cacau",
+  "slug": "receitas/creme-de-abacate-com-cacau__d8ed2dc7",
+  "url": "https://receitas.pgalvao.com.br/receitas/creme-de-abacate-com-cacau__d8ed2dc7/mn3ckn7340abfb66e308d058c48c/",
+  "deeplink": "boil://receita?rid=mn3ckn7340abfb66e308d058c48c",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-cacau__d8ed2dc7_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-cacau__d8ed2dc7_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-cacau__d8ed2dc7_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-cacau__d8ed2dc7_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/creme-de-abacate-com-cacau__d8ed2dc7_01.webp"
+  },
+  "ingredients": [
+    "½ abacate maduro",
+    "1 colher de sopa de cacau em pó",
+    "1 e ½ colher de açúcar mascavo",
+    "5 gotas de extrato de baunilha"
+  ],
+  "steps": [
+    "Pique o abacate.",
+    "Leve todos os ingredientes para o liquidificador.",
+    "Bata até ficar consistente.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Creme de abacate com cacau",
+    "caption_medium": "Creme de abacate com cacau Ingredientes: ½ abacate maduro, 1 colher de sopa de cacau em pó, 1 e ½ colher de açúcar mascavo, 5 gotas de extrato de baunilha. Modo de preparo: Pique o abacate.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

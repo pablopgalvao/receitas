@@ -1,0 +1,53 @@
+{
+  "id": "mn3ckmz78bd7a22d97639677e9e6",
+  "title": "Bisteca de porco frita",
+  "slug": "receitas/bisteca-de-porco-frita__b9ec5581",
+  "url": "https://receitas.pgalvao.com.br/receitas/bisteca-de-porco-frita__b9ec5581/mn3ckmz78bd7a22d97639677e9e6/",
+  "deeplink": "boil://receita?rid=mn3ckmz78bd7a22d97639677e9e6",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-de-porco-frita__b9ec5581_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-de-porco-frita__b9ec5581_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-de-porco-frita__b9ec5581_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-de-porco-frita__b9ec5581_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bisteca-de-porco-frita__b9ec5581_01.webp"
+  },
+  "ingredients": [
+    "4 bistecas de porco com corte alto (ou corte fino)",
+    "Sal e pimenta-do-reino a gosto",
+    "1 fio de azeite",
+    "3 colheres de sopa de manteiga",
+    "2 dentes de alho amassados",
+    "Tomilho a gosto",
+    "Raspas de laranja-bahia a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, tempere as bistecas com o sal e a pimenta, passando bem por todos os lados da carne;",
+    "Em um frigideira de fundo grosso, esquente um fio generoso de azeite, adicione as bistecas e pressione-as com uma espátula, para que a carne entre em contato com a panela;",
+    "Assim que dourar, vire, dê uma leve pressionada novamente e deixe dourar o outro lado;",
+    "Em seguida, toste levemente a gordura das bistecas, usando um pegador de pinça;",
+    "Depois de bem grelhadas, adicione a manteiga, o alho, o tomilho e as raspas de limão às carnes;",
+    "Deixe no fogo médio e vá regando as bistecas com o caldo que irá formar, até ela ficar bem dourada e caramelizada. Retire do fogo e deixe descansar por 3 minutos;",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Bisteca de porco frita",
+    "caption_medium": "Bisteca de porco frita Ingredientes: 4 bistecas de porco com corte alto (ou corte fino), Sal e pimenta-do-reino a gosto, 1 fio de azeite, 3 colheres de sopa de manteiga, 2 dentes de alho amassados. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

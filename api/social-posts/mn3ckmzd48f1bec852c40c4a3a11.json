@@ -1,0 +1,54 @@
+{
+  "id": "mn3ckmzd48f1bec852c40c4a3a11",
+  "title": "Bolacha de mel",
+  "slug": "receitas/bolacha-de-mel__71e9e377",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolacha-de-mel__71e9e377/mn3ckmzd48f1bec852c40c4a3a11/",
+  "deeplink": "boil://receita?rid=mn3ckmzd48f1bec852c40c4a3a11",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolacha-de-mel__71e9e377_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolacha-de-mel__71e9e377_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolacha-de-mel__71e9e377_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolacha-de-mel__71e9e377_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolacha-de-mel__71e9e377_01.webp"
+  },
+  "ingredients": [
+    "550 gramas de farinha de trigo",
+    "250 gramas de mel",
+    "150 gramas de açúcar",
+    "2 ovos",
+    "½ colher de chá de canela",
+    "½ colher de chá de noz moscada",
+    "1 colher de chá de cravo",
+    "Casca de limão ralada a gosto",
+    "2 colheres de chá de bicarbonato de sódio",
+    "1 colher de sobremesa de chocolate em pó (opcional)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Aqueça o mel em banho-maria ou no forno micro-ondas de modo que fique líquido;",
+    "Misture todos os ingredientes, adicionando a farinha aos poucos e misturando com as mãos até dar o ponto de formar as bolinhas;",
+    "Unte as mãos com um pouquinho de manteiga, faça bolinhas e amasse-as delicadamente;",
+    "Transfira elas para uma forma untada, polvilhada com farinha e deixe descansar na geladeira por 2 horas. Depois, asse em forno pré-aquecido a 180°C por cerca de 20 minutos, até que fiquem coradas;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolacha de mel",
+    "caption_medium": "Bolacha de mel Ingredientes: 550 gramas de farinha de trigo, 250 gramas de mel, 150 gramas de açúcar, 2 ovos, ½ colher de chá de canela. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

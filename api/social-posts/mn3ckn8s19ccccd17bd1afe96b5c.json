@@ -1,0 +1,49 @@
+{
+  "id": "mn3ckn8s19ccccd17bd1afe96b5c",
+  "title": "Empadinha vegana",
+  "slug": "receitas/empadinha-vegana__51adb6b4",
+  "url": "https://receitas.pgalvao.com.br/receitas/empadinha-vegana__51adb6b4/mn3ckn8s19ccccd17bd1afe96b5c/",
+  "deeplink": "boil://receita?rid=mn3ckn8s19ccccd17bd1afe96b5c",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-vegana__51adb6b4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-vegana__51adb6b4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-vegana__51adb6b4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-vegana__51adb6b4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/empadinha-vegana__51adb6b4_01.webp"
+  },
+  "ingredients": [
+    "¾ de xícara de chá de farinha de aveia (80 gramas)",
+    "2 colheres de sopa de azeite de oliva",
+    "Pitadinha de sal",
+    "2 colheres de sopa de água (20 ml)",
+    "Recheio da sua preferência"
+  ],
+  "steps": [
+    "Em um recipiente, coloque a aveia, o azeite e o sal. Misture.",
+    "Aos pouco vá colocando a água e misturando até formar uma massa modelável.",
+    "Passe a massa para forminhas de empada, forrando todo o fundo e as laterais.",
+    "Coloque o recheio e feche com o restante da massa.",
+    "Leve ao forno preaquecido a 200ºC por cerca de 20 minutos.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Empadinha vegana",
+    "caption_medium": "Empadinha vegana Ingredientes: ¾ de xícara de chá de farinha de aveia (80 gramas), 2 colheres de sopa de azeite de oliva, Pitadinha de sal, 2 colheres de sopa de água (20 ml), Recheio da sua preferência. Modo de preparo: Em um recipiente, coloque a aveia, o azeite e o sal. Misture.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

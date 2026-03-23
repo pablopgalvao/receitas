@@ -1,0 +1,80 @@
+{
+  "id": "mn3ckn2q4af22b1a5b9f4c748501",
+  "title": "Bolo de ricota com maçã",
+  "slug": "receitas/bolo_de_ricota_com_ma",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo_de_ricota_com_ma/mn3ckn2q4af22b1a5b9f4c748501/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckn2q4af22b1a5b9f4c748501.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckn2q4af22b1a5b9f4c748501.json",
+  "deeplink": "boil://receita?rid=mn3ckn2q4af22b1a5b9f4c748501",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_ricota_com_ma.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_ricota_com_ma.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_ricota_com_ma.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_ricota_com_ma.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_ricota_com_ma.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.793Z",
+  "time": "30 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "prático",
+    "rápido"
+  ],
+  "ingredients": [
+    "1 xícara (chá) de ricota esfarelada",
+    "1 xícara (chá) de farinha de trigo",
+    "1 xícara (chá) de açúcar",
+    "100 g de manteiga em temperatura ambiente",
+    "1 colher (sopa) de fermento em pó",
+    "½ colher (chá) de canela em pó",
+    "1 pitada de sal",
+    "manteiga e farinha de trigo para untar e polvilhar a fôrma",
+    "açúcar de confeiteiro e canela em pó a gosto para polvilhar",
+    "Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma redonda com furo no meio de 24 cm de diâmetro. Polvilhe com farinha, chacoalhe para espalhar e bata bem sobre a pia para retirar o excesso.",
+    "Numa tigela pequena, misture a farinha de trigo com o fermento. Lave e corte a maçã em quartos. Descarte as sementes e, usando a casca para proteger as mãos, passe a maçã pela parte grossa do ralador, reserve.",
+    "Coloque a manteiga na batedeira e bata até ficar pálida. Diminua a velocidade, adicione o açúcar aos poucos e deixe bater até formar um creme claro – se necessário, pare de bater e raspe a lateral da tigela com uma espátula para misturar bem os ingredientes.",
+    "Numa tigela pequena, quebre um ovo de cada vez e junte ao creme de manteiga, batendo bem entre cada adição para incorporar. Acrescente a ricota esfarelada, uma pitada de sal e bata apenas para misturar – nesse momento a massa pode parecer talhada, não se preocupe é assim mesmo.",
+    "Desencaixe a tigela da batedeira, junte a maçã ralada, as raspas de limão, a canela e misture com uma espátula. Acrescente aos poucos a mistura de farinha com fermento, sempre peneirando. Mexa delicadamente com a espátula a cada adição.",
+    "Deixe o bolo amornar por 20 minutos antes de desenformar. Cubra a fôrma com um prato e vire de uma só vez, deixe o bolo esfriar. Na hora de servir, polvilhe com uma mistura de açúcar de confeiteiro e canela a gosto. Fica uma delícia com gomos de laranja macerados."
+  ],
+  "steps": [
+    "Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma redonda com furo no meio de 24 cm de diâmetro. Polvilhe com farinha, chacoalhe para espalhar e bata bem sobre a pia para retirar o excesso.",
+    "Numa tigela pequena, misture a farinha de trigo com o fermento. Lave e corte a maçã em quartos. Descarte as sementes e, usando a casca para proteger as mãos, passe a maçã pela parte grossa do ralador, reserve.",
+    "Coloque a manteiga na batedeira e bata até ficar pálida. Diminua a velocidade, adicione o açúcar aos poucos e deixe bater até formar um creme claro – se necessário, pare de bater e raspe a lateral da tigela com uma espátula para misturar bem os ingredientes.",
+    "Numa tigela pequena, quebre um ovo de cada vez e junte ao creme de manteiga, batendo bem entre cada adição para incorporar. Acrescente a ricota esfarelada, uma pitada de sal e bata apenas para misturar – nesse momento a massa pode parecer talhada, não se preocupe é assim mesmo.",
+    "Desencaixe a tigela da batedeira, junte a maçã ralada, as raspas de limão, a canela e misture com uma espátula. Acrescente aos poucos a mistura de farinha com fermento, sempre peneirando. Mexa delicadamente com a espátula a cada adição.",
+    "Transfira a massa de bolo para a fôrma preparada e nivele a massa com as costas de uma colher. Leve ao forno para assar por cerca de 30 minutos, até a superfície começar a dourar. Para verificar o ponto, espete um palito: se sair limpo está pronto, caso contrário, deixe assar por mais alguns minutos.",
+    "Deixe o bolo amornar por 20 minutos antes de desenformar. Cubra a fôrma com um prato e vire de uma só vez, deixe o bolo esfriar. Na hora de servir, polvilhe com uma mistura de açúcar de confeiteiro e canela a gosto. Fica uma delícia com gomos de laranja macerados."
+  ],
+  "excerpt": "Bolo de ricota com maçã. Tempo de preparo: 30 min. Ingrediente em destaque: 1 xícara (chá) de ricota esfarelada. Comece assim: Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma redonda com furo no meio de 24 cm de diâmetro. Polvilhe com farinha, chacoalhe para espalhar e bata bem sobre a pia para retirar o excesso.",
+  "social": {
+    "caption_short": "Bolo de ricota com maçã",
+    "caption_medium": "Bolo de ricota com maçã Ingredientes: 1 xícara (chá) de ricota esfarelada, 1 xícara (chá) de farinha de trigo, 1 xícara (chá) de açúcar, 100 g de manteiga em temperatura ambiente, 1 colher (sopa) de fermento em pó. Modo de preparo: Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma redonda com furo no meio de 24 cm de diâmetro. Polvilhe com farinha, chacoalhe para espalhar e bata bem sobre a pia para retirar o excesso.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#prático",
+      "#rápido"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_ricota_com_ma.jpg\" alt=\"Bolo de ricota com maçã\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 30 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 xícara (chá) de ricota esfarelada</li>\n<li>1 xícara (chá) de farinha de trigo</li>\n<li>1 xícara (chá) de açúcar</li>\n<li>100 g de manteiga em temperatura ambiente</li>\n<li>1 colher (sopa) de fermento em pó</li>\n<li>½ colher (chá) de canela em pó</li>\n<li>1 pitada de sal</li>\n<li>manteiga e farinha de trigo para untar e polvilhar a fôrma</li>\n<li>açúcar de confeiteiro e canela em pó a gosto para polvilhar</li>\n<li>Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma redonda com furo no meio de 24 cm de diâmetro. Polvilhe com farinha, chacoalhe para espalhar e bata bem sobre a pia para retirar o excesso.</li>\n<li>Numa tigela pequena, misture a farinha de trigo com o fermento. Lave e corte a maçã em quartos. Descarte as sementes e, usando a casca para proteger as mãos, passe a maçã pela parte grossa do ralador, reserve.</li>\n<li>Coloque a manteiga na batedeira e bata até ficar pálida. Diminua a velocidade, adicione o açúcar aos poucos e deixe bater até formar um creme claro – se necessário, pare de bater e raspe a lateral da tigela com uma espátula para misturar bem os ingredientes.</li>\n<li>Numa tigela pequena, quebre um ovo de cada vez e junte ao creme de manteiga, batendo bem entre cada adição para incorporar. Acrescente a ricota esfarelada, uma pitada de sal e bata apenas para misturar – nesse momento a massa pode parecer talhada, não se preocupe é assim mesmo.</li>\n<li>Desencaixe a tigela da batedeira, junte a maçã ralada, as raspas de limão, a canela e misture com uma espátula. Acrescente aos poucos a mistura de farinha com fermento, sempre peneirando. Mexa delicadamente com a espátula a cada adição.</li>\n<li>Deixe o bolo amornar por 20 minutos antes de desenformar. Cubra a fôrma com um prato e vire de uma só vez, deixe o bolo esfriar. Na hora de servir, polvilhe com uma mistura de açúcar de confeiteiro e canela a gosto. Fica uma delícia com gomos de laranja macerados.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Preaqueça o forno a 180 °C (temperatura média). Unte com manteiga uma fôrma redonda com furo no meio de 24 cm de diâmetro. Polvilhe com farinha, chacoalhe para espalhar e bata bem sobre a pia para retirar o excesso.</li>\n<li>Numa tigela pequena, misture a farinha de trigo com o fermento. Lave e corte a maçã em quartos. Descarte as sementes e, usando a casca para proteger as mãos, passe a maçã pela parte grossa do ralador, reserve.</li>\n<li>Coloque a manteiga na batedeira e bata até ficar pálida. Diminua a velocidade, adicione o açúcar aos poucos e deixe bater até formar um creme claro – se necessário, pare de bater e raspe a lateral da tigela com uma espátula para misturar bem os ingredientes.</li>\n<li>Numa tigela pequena, quebre um ovo de cada vez e junte ao creme de manteiga, batendo bem entre cada adição para incorporar. Acrescente a ricota esfarelada, uma pitada de sal e bata apenas para misturar – nesse momento a massa pode parecer talhada, não se preocupe é assim mesmo.</li>\n<li>Desencaixe a tigela da batedeira, junte a maçã ralada, as raspas de limão, a canela e misture com uma espátula. Acrescente aos poucos a mistura de farinha com fermento, sempre peneirando. Mexa delicadamente com a espátula a cada adição.</li>\n<li>Transfira a massa de bolo para a fôrma preparada e nivele a massa com as costas de uma colher. Leve ao forno para assar por cerca de 30 minutos, até a superfície começar a dourar. Para verificar o ponto, espete um palito: se sair limpo está pronto, caso contrário, deixe assar por mais alguns minutos.</li>\n<li>Deixe o bolo amornar por 20 minutos antes de desenformar. Cubra a fôrma com um prato e vire de uma só vez, deixe o bolo esfriar. Na hora de servir, polvilhe com uma mistura de açúcar de confeiteiro e canela a gosto. Fica uma delícia com gomos de laranja macerados.</li>\n</ol>\n"
+}

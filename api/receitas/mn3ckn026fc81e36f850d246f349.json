@@ -1,0 +1,76 @@
+{
+  "id": "mn3ckn026fc81e36f850d246f349",
+  "title": "Bolo da Matilda",
+  "slug": "receitas/bolo-da-matilda__953a1e8f",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-da-matilda__953a1e8f/mn3ckn026fc81e36f850d246f349/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckn026fc81e36f850d246f349.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckn026fc81e36f850d246f349.json",
+  "deeplink": "boil://receita?rid=mn3ckn026fc81e36f850d246f349",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-da-matilda__953a1e8f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-da-matilda__953a1e8f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-da-matilda__953a1e8f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-da-matilda__953a1e8f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-da-matilda__953a1e8f_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.698Z",
+  "time": "210 min",
+  "difficulty": "",
+  "servings": "3 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "650 gramas de chocolate ao leite picado",
+    "1 xícara de chá de água quente (240 ml)",
+    "1 colher de sopa de café solúvel (7 gramas)",
+    "¾ de xícara de chá de cacau em pó (70 gramas)",
+    "1 caixa creme de leite (200 gramas)",
+    "4 colheres de sopa de manteiga em cubos (80 gramas)"
+  ],
+  "steps": [
+    "Organize sua bancada e separe todos os ingredientes. Misture o leite com o vinagre e deixe descansar por cerca de 10 minutos, até formar o “falso buttermilk”;",
+    "Em uma tigela grande, coloque os ovos, o açúcar mascavo, o óleo e o buttermilk já formado, misturando bem;",
+    "Peneire o cacau em pó, a farinha, o bicarbonato e o fermento sobre a tigela e misture apenas até formar uma massa homogênea;",
+    "Unte uma forma redonda de fundo removível, com manteiga, farinha de trigo e cacau em pó para criar uma crosta mais escura;",
+    "Despeje a massa na forma e leve ao forno preaquecido a 200 ºC por aproximadamente 50 minutos, ou até que, ao espetar um palito, ele saia limpo. Retire do forno, deixe amornar e reserve a massa para a montagem;",
+    "Misture a água quente com o café solúvel até dissolver. Despeje a mistura ainda quente na tigela da batedeira junto com o chocolate e deixe descansar por cerca de 2 minutos;",
+    "Após os 2 minutos, mexa até formar um creme homogêneo. Peneire o cacau em pó sobre o creme e misture bem. Adicione o creme de leite e misture novamente;",
+    "Ligue a batedeira e acrescente a manteiga aos poucos, um cubinho por vez, até obter um creme brilhante e consistente;",
+    "Divida esse creme em 3 porções, com cerca de 350 gramas cada para o recheio e 1 porção com cerca de 500 gramas para a cobertura. Mantenha o recheio em temperatura ambiente e leve a cobertura à geladeira;",
+    "Em uma panela, coloque a água e o açúcar, misture e leve ao fogo. Após levantar fervura, cozinhe por mais 3 minutos até formar a calda, desligue e deixe esfriar;",
+    "Desenforme o bolo, retire o topo com um nivelador ou faca para deixá-lo plano. Corte o bolo em 3 camadas iguais;",
+    "De volta a forma com fundo removível, coloque a primeira camada de massa no fundo, umedeça bem com a calda e espalhe um dos potes de recheio;",
+    "Repita com a segunda camada: bolo + calda + recheio. Finalize com a última camada de bolo e umedeça com a calda;",
+    "Cubra e leve à geladeira por pelo menos 2 horas (idealmente de um dia para o outro, para firmar melhor);",
+    "Desenforme o bolo, mexa a ganache da cobertura (que deve estar firme) e espalhe sobre o topo, e nas laterais;",
+    "Corte uma fatia generosa, sirva e aproveite!"
+  ],
+  "excerpt": "Bolo da Matilda. Tempo de preparo: 210 min. Ingrediente em destaque: 650 gramas de chocolate ao leite picado. Comece assim: Organize sua bancada e separe todos os ingredientes. Misture o leite com o vinagre e deixe descansar por cerca de 10 minutos, até formar o “falso buttermilk”;",
+  "social": {
+    "caption_short": "Bolo da Matilda",
+    "caption_medium": "Bolo da Matilda Ingredientes: 650 gramas de chocolate ao leite picado, 1 xícara de chá de água quente (240 ml), 1 colher de sopa de café solúvel (7 gramas), ¾ de xícara de chá de cacau em pó (70 gramas), 1 caixa creme de leite (200 gramas). Modo de preparo: Organize sua bancada e separe todos os ingredientes. Misture o leite com o vinagre e deixe descansar por cerca de 10 minutos, até formar o “falso buttermilk”;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-da-matilda__953a1e8f_01.webp\" alt=\"Bolo da Matilda\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 3 porções</li>\n<li><strong>Tempo de preparo:</strong> 210 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>650 gramas de chocolate ao leite picado</li>\n<li>1 xícara de chá de água quente (240 ml)</li>\n<li>1 colher de sopa de café solúvel (7 gramas)</li>\n<li>¾ de xícara de chá de cacau em pó (70 gramas)</li>\n<li>1 caixa creme de leite (200 gramas)</li>\n<li>4 colheres de sopa de manteiga em cubos (80 gramas)</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Organize sua bancada e separe todos os ingredientes. Misture o leite com o vinagre e deixe descansar por cerca de 10 minutos, até formar o “falso buttermilk”;</li>\n<li>Em uma tigela grande, coloque os ovos, o açúcar mascavo, o óleo e o buttermilk já formado, misturando bem;</li>\n<li>Peneire o cacau em pó, a farinha, o bicarbonato e o fermento sobre a tigela e misture apenas até formar uma massa homogênea;</li>\n<li>Unte uma forma redonda de fundo removível, com manteiga, farinha de trigo e cacau em pó para criar uma crosta mais escura;</li>\n<li>Despeje a massa na forma e leve ao forno preaquecido a 200 ºC por aproximadamente 50 minutos, ou até que, ao espetar um palito, ele saia limpo. Retire do forno, deixe amornar e reserve a massa para a montagem;</li>\n<li>Misture a água quente com o café solúvel até dissolver. Despeje a mistura ainda quente na tigela da batedeira junto com o chocolate e deixe descansar por cerca de 2 minutos;</li>\n<li>Após os 2 minutos, mexa até formar um creme homogêneo. Peneire o cacau em pó sobre o creme e misture bem. Adicione o creme de leite e misture novamente;</li>\n<li>Ligue a batedeira e acrescente a manteiga aos poucos, um cubinho por vez, até obter um creme brilhante e consistente;</li>\n<li>Divida esse creme em 3 porções, com cerca de 350 gramas cada para o recheio e 1 porção com cerca de 500 gramas para a cobertura. Mantenha o recheio em temperatura ambiente e leve a cobertura à geladeira;</li>\n<li>Em uma panela, coloque a água e o açúcar, misture e leve ao fogo. Após levantar fervura, cozinhe por mais 3 minutos até formar a calda, desligue e deixe esfriar;</li>\n<li>Desenforme o bolo, retire o topo com um nivelador ou faca para deixá-lo plano. Corte o bolo em 3 camadas iguais;</li>\n<li>De volta a forma com fundo removível, coloque a primeira camada de massa no fundo, umedeça bem com a calda e espalhe um dos potes de recheio;</li>\n<li>Repita com a segunda camada: bolo + calda + recheio. Finalize com a última camada de bolo e umedeça com a calda;</li>\n<li>Cubra e leve à geladeira por pelo menos 2 horas (idealmente de um dia para o outro, para firmar melhor);</li>\n<li>Desenforme o bolo, mexa a ganache da cobertura (que deve estar firme) e espalhe sobre o topo, e nas laterais;</li>\n<li>Corte uma fatia generosa, sirva e aproveite!</li>\n</ol>\n"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mn3cknp01ca8bcd5177a3e44e982",
+  "title": "Panqueca fit de banana",
+  "slug": "receitas/panqueca-fit-de-banana__532a3c49",
+  "url": "https://receitas.pgalvao.com.br/receitas/panqueca-fit-de-banana__532a3c49/mn3cknp01ca8bcd5177a3e44e982/",
+  "deeplink": "boil://receita?rid=mn3cknp01ca8bcd5177a3e44e982",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-fit-de-banana__532a3c49_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-fit-de-banana__532a3c49_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-fit-de-banana__532a3c49_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-fit-de-banana__532a3c49_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/panqueca-fit-de-banana__532a3c49_01.webp"
+  },
+  "ingredients": [
+    "1 ovo",
+    "1 banana bem madura amassada",
+    "1 colher de sopa de aveia flocos finos ou farelo de aveia",
+    "1 colher de sopa de farinha de linhaça",
+    "1 colher de chá de semente de chia",
+    "1 colher de chá de óleo de coco",
+    "Rodelas de banana a gosto",
+    "Canela a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma tigela, adicione o ovo, a banana, a aveia, a farinha de linhaça e as sementes de chia;",
+    "Misture bem com o auxílio de um garfo ou fouet;",
+    "Pegue a frigideira e a unte com óleo de coco;",
+    "Despeje uma quantidade pequena da massa, acrescente rodelas de banana e, se desejar, polvilhe canela;",
+    "Doure os dois lados e repita o processo com outra quantidade de massa;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Panqueca fit de banana",
+    "caption_medium": "Panqueca fit de banana Ingredientes: 1 ovo, 1 banana bem madura amassada, 1 colher de sopa de aveia flocos finos ou farelo de aveia, 1 colher de sopa de farinha de linhaça, 1 colher de chá de semente de chia. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

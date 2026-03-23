@@ -1,0 +1,56 @@
+{
+  "id": "mn3ckmzhf046804f29c18f99347b",
+  "title": "Bolinho de abobrinha e cenoura",
+  "slug": "receitas/bolinho-de-abobrinha-e-cenoura__5d00a19a",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolinho-de-abobrinha-e-cenoura__5d00a19a/mn3ckmzhf046804f29c18f99347b/",
+  "deeplink": "boil://receita?rid=mn3ckmzhf046804f29c18f99347b",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-abobrinha-e-cenoura__5d00a19a_01.webp"
+  },
+  "ingredients": [
+    "1 abobrinha ralada (com casca)",
+    "Uma pitada de sal (colher de café)",
+    "½ cenoura ralada (com casca)",
+    "1 ovo",
+    "Sal e pimenta a gosto",
+    "2 colheres de sopa de queijo parmesão ralado",
+    "3 colheres de sopa de farinha de trigo",
+    "1 colher de chá de fermento em pó",
+    "2 colheres de sopa de azeite"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque a abobrinha ralada com uma pitada de sal em uma peneira e misture;",
+    "Com as costas de uma colher, aperte, delicadamente, para escorrer toda a água da abobrinha;",
+    "Em uma tigela, coloque a abobrinha e a cenoura raladas, bem como o ovo, o sal, a pimenta e misture;;",
+    "Adicione o queijo ralado e vá misturando com a farinha até dar liga;",
+    "Coloque o fermento em pó e misture para incorporar;",
+    "Leve uma frigideira ao fogo médio e esquente o azeite;",
+    "Molde os bolinhos com a ajuda de uma colher e frite-os por cerca de 4 minutos de cada lado (devem ficar douradinhos);",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolinho de abobrinha e cenoura",
+    "caption_medium": "Bolinho de abobrinha e cenoura Ingredientes: 1 abobrinha ralada (com casca), Uma pitada de sal (colher de café), ½ cenoura ralada (com casca), 1 ovo, Sal e pimenta a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

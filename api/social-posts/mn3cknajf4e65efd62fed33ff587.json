@@ -1,0 +1,55 @@
+{
+  "id": "mn3cknajf4e65efd62fed33ff587",
+  "title": "Filé de frango grelhado",
+  "slug": "receitas/file-de-frango-grelhado__56009fd6",
+  "url": "https://receitas.pgalvao.com.br/receitas/file-de-frango-grelhado__56009fd6/mn3cknajf4e65efd62fed33ff587/",
+  "deeplink": "boil://receita?rid=mn3cknajf4e65efd62fed33ff587",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-grelhado__56009fd6_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-grelhado__56009fd6_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-grelhado__56009fd6_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-grelhado__56009fd6_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/file-de-frango-grelhado__56009fd6_01.webp"
+  },
+  "ingredients": [
+    "1 filé de peito de frango",
+    "1 colher de sopa de sal",
+    "1 colher de chá de açúcar",
+    "½ colher de sopa de coentro em pó",
+    "½ colher de sopa de páprica picante",
+    "1 dente de alho amassado",
+    "Água",
+    "1 colher de chá de azeite",
+    "Pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, tempere o frango com açúcar, o sal, o coentro, a páprica, o alho e misture bem para o tempero pegar em toda a carne;",
+    "Adicione água até cobrir o filé, cubra o recipiente e deixe marinar por 20 minutos na geladeira;",
+    "Retire o frango da salmoura e lave a carne para retirar o excesso do tempero;",
+    "Esquente uma frigideira de fundo triplo em fogo médio. Depois, coloque o azeite, adicione o frango com a parte lisa para baixo e deixe grelhar por 2 minutos;",
+    "Salpique um pouco de pimenta, sal, vire e deixe selar o outro lado por mais 2 minutos;",
+    "Vire de novo, tempere apenas com pimenta e deixe mais 3 minutos. Mais uma vez, vire a carne, salpique pimenta e deixe mais 3 minutos.",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Filé de frango grelhado",
+    "caption_medium": "Filé de frango grelhado Ingredientes: 1 filé de peito de frango, 1 colher de sopa de sal, 1 colher de chá de açúcar, ½ colher de sopa de coentro em pó, ½ colher de sopa de páprica picante. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

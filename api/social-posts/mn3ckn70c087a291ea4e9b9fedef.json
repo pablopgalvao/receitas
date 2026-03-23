@@ -1,0 +1,51 @@
+{
+  "id": "mn3ckn70c087a291ea4e9b9fedef",
+  "title": "Cream cheese",
+  "slug": "receitas/cream-cheese__5a5f802e",
+  "url": "https://receitas.pgalvao.com.br/receitas/cream-cheese__5a5f802e/mn3ckn70c087a291ea4e9b9fedef/",
+  "deeplink": "boil://receita?rid=mn3ckn70c087a291ea4e9b9fedef",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cream-cheese__5a5f802e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cream-cheese__5a5f802e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cream-cheese__5a5f802e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cream-cheese__5a5f802e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cream-cheese__5a5f802e_01.webp"
+  },
+  "ingredients": [
+    "1 litro de leite integral pasteurizado",
+    "3 colheres de sopa de vinagre branco",
+    "50 gramas de manteiga sem sal (em ponto de pomada)",
+    "200 gramas de creme de leite (com mais de 20% de gordura)",
+    "½ colher de chá de sal"
+  ],
+  "steps": [
+    "O ponto de pomada é quando a manteiga está entre 15 ºC e 32 ºC, flexível, porém ainda consistente e cremosa. Para obter esse ponto, deixe a manteiga fora da geladeira por meia hora, ou leve ao micro-ondas por 10 segundos;",
+    "Em uma panela funda, despeje o leite e leve ao fogo alto;",
+    "Assim que o leite começar a ferver, abaixe o fogo. Adicione o vinagre e fique mexendo;",
+    "Quando o leite começar a talhar, desligue o fogo. Deixe o leite descansando até ele talhar completamente e amornar;",
+    "Passe o leite talhado por um coador de voal (próprio para queijos), ou use um pano de algodão - a fralda é uma ótima opção. Uma peneira comum não vai funcionar, pois possui buraquinhos largos. Aperte bem o leite talhado para retirar todo o soro;",
+    "Descarte o soro. Transfira a massa do leite talhado para o liquidificador. Acrescente a manteiga, o creme de leite e o sal. Bata até formar um creme liso e homogêneo;",
+    "Despeje em um recipiente, se preciso, acerte o sal, tampe e leve para a geladeira por, no mínimo, 6 horas;",
+    "A consistência fica ótima e a manteiga deixa o cream cheese com uma aparência brilhosa. Aprovadíssimo!"
+  ],
+  "social": {
+    "caption_short": "Cream cheese",
+    "caption_medium": "Cream cheese Ingredientes: 1 litro de leite integral pasteurizado, 3 colheres de sopa de vinagre branco, 50 gramas de manteiga sem sal (em ponto de pomada), 200 gramas de creme de leite (com mais de 20% de gordura), ½ colher de chá de sal. Modo de preparo: O ponto de pomada é quando a manteiga está entre 15 ºC e 32 ºC, flexível, porém ainda consistente e cremosa. Para obter esse ponto, deixe a manteiga fora da geladeira por meia hora, ou leve ao micro-ondas por 10 segundos;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

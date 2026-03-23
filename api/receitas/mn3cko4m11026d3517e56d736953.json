@@ -1,0 +1,69 @@
+{
+  "id": "mn3cko4m11026d3517e56d736953",
+  "title": "Salada de repolho refogado",
+  "slug": "receitas/salada-de-repolho-refogado__9617dfbf",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-de-repolho-refogado__9617dfbf/mn3cko4m11026d3517e56d736953/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3cko4m11026d3517e56d736953.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3cko4m11026d3517e56d736953.json",
+  "deeplink": "boil://receita?rid=mn3cko4m11026d3517e56d736953",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-refogado__9617dfbf_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-refogado__9617dfbf_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-refogado__9617dfbf_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-refogado__9617dfbf_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-refogado__9617dfbf_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:22.158Z",
+  "time": "25 min",
+  "difficulty": "",
+  "servings": "8 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Saladas"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 repolho médio",
+    "3 colheres de sopa de óleo",
+    "1 cebola média em tiras",
+    "1 dente de alho picado",
+    "2 tomates maduros picados",
+    "Cebolinhas picadas a gosto",
+    "Salsa picada a gosto",
+    "Sal e pimenta-do-reino a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Higienize o repolho e retire as folhas externas;",
+    "Corte a verdura em 4 partes, descarte o miolo, corte as partes em fatias finas e retire o excesso de água;",
+    "Esquente o óleo em uma panela e refogue a cebola e o alho;",
+    "Adicione o tomate, a cebolinha, a salsa, misture bem e deixe refogar mais uns minutos;",
+    "Acrescente o repolho, o sal e a pimenta. Misture, diminua o fogo, tampe a panela e deixe refogar por cerca de 10 minutos (a verdura deve ficar al dente);",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "excerpt": "Salada de repolho refogado. Tempo de preparo: 25 min. Ingrediente em destaque: 1 repolho médio. Comece assim: Reúna todos os ingredientes;",
+  "social": {
+    "caption_short": "Salada de repolho refogado",
+    "caption_medium": "Salada de repolho refogado Ingredientes: 1 repolho médio, 3 colheres de sopa de óleo, 1 cebola média em tiras, 1 dente de alho picado, 2 tomates maduros picados. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-repolho-refogado__9617dfbf_01.webp\" alt=\"Salada de repolho refogado\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Saladas</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 8 porções</li>\n<li><strong>Tempo de preparo:</strong> 25 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 repolho médio</li>\n<li>3 colheres de sopa de óleo</li>\n<li>1 cebola média em tiras</li>\n<li>1 dente de alho picado</li>\n<li>2 tomates maduros picados</li>\n<li>Cebolinhas picadas a gosto</li>\n<li>Salsa picada a gosto</li>\n<li>Sal e pimenta-do-reino a gosto</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Reúna todos os ingredientes;</li>\n<li>Higienize o repolho e retire as folhas externas;</li>\n<li>Corte a verdura em 4 partes, descarte o miolo, corte as partes em fatias finas e retire o excesso de água;</li>\n<li>Esquente o óleo em uma panela e refogue a cebola e o alho;</li>\n<li>Adicione o tomate, a cebolinha, a salsa, misture bem e deixe refogar mais uns minutos;</li>\n<li>Acrescente o repolho, o sal e a pimenta. Misture, diminua o fogo, tampe a panela e deixe refogar por cerca de 10 minutos (a verdura deve ficar al dente);</li>\n<li>Agora é só servir. Bom apetite!</li>\n</ol>\n"
+}

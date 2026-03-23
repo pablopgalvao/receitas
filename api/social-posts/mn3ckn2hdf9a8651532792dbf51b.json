@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckn2hdf9a8651532792dbf51b",
+  "title": "Bolo simples e fofo",
+  "slug": "receitas/bolo-simples-e-fofo__caa118b2",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-simples-e-fofo__caa118b2/mn3ckn2hdf9a8651532792dbf51b/",
+  "deeplink": "boil://receita?rid=mn3ckn2hdf9a8651532792dbf51b",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-simples-e-fofo__caa118b2_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-simples-e-fofo__caa118b2_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-simples-e-fofo__caa118b2_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-simples-e-fofo__caa118b2_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-simples-e-fofo__caa118b2_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "2 xícaras de chá de açúcar",
+    "1 xícara de chá de óleo",
+    "1 xícara de chá de leite (temperatura ambiente)",
+    "3 xícaras de chá de farinha de trigo",
+    "1 colher de sopa de fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes do bolo simples e fofo;",
+    "Em um recipiente, coloque os ovos, o açúcar, o óleo e bata com um fouet até ficar homogêneo;",
+    "Adicione o leite e, gradualmente, a farinha, e vá misturando até agregar tudo;",
+    "Acrescente o fermento e misture apenas para incorporar;",
+    "Transfira para uma forma untada, enfarinhada e leve ao forno preaquecido a 180ºC por cerca de 35 a 40 minutos ou quando você espetar um palito, ele sair seco;",
+    "Deixe mornar, desenforme e sirva com a bebida de sua preferência. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo simples e fofo",
+    "caption_medium": "Bolo simples e fofo Ingredientes: 3 ovos, 2 xícaras de chá de açúcar, 1 xícara de chá de óleo, 1 xícara de chá de leite (temperatura ambiente), 3 xícaras de chá de farinha de trigo. Modo de preparo: Reúna todos os ingredientes do bolo simples e fofo;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

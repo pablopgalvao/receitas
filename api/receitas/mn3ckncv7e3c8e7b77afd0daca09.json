@@ -1,0 +1,63 @@
+{
+  "id": "mn3ckncv7e3c8e7b77afd0daca09",
+  "title": "Gelinho de carambola",
+  "slug": "receitas/gelinho_de_carambola",
+  "url": "https://receitas.pgalvao.com.br/receitas/gelinho_de_carambola/mn3ckncv7e3c8e7b77afd0daca09/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckncv7e3c8e7b77afd0daca09.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckncv7e3c8e7b77afd0daca09.json",
+  "deeplink": "boil://receita?rid=mn3ckncv7e3c8e7b77afd0daca09",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.159Z",
+  "time": "3 hora",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "saudável",
+    "tradicional",
+    "fácil"
+  ],
+  "ingredients": [
+    "Salada de frutas com carambola",
+    "Salada de folhas com carambola"
+  ],
+  "steps": [
+    "Lave, seque e corte a carambola em fatias finas, para formar estrelas.",
+    "Distribua as fatias numa assadeira pequena, uma ao lado da outra, e leve ao freezer por pelo menos 3 horas para congelar – dessa forma as estrelas ficam soltinhas depois de congeladas .",
+    "Transfira as estrelas para um pote com tampa (ou saco) e mantenha no freezer por até 3 meses. Utilize em drinques, sirva com vinho branco ou água."
+  ],
+  "excerpt": "Gelinho de carambola. Tempo de preparo: 3 hora. Ingrediente em destaque: Salada de frutas com carambola. Comece assim: Lave, seque e corte a carambola em fatias finas, para formar estrelas.",
+  "social": {
+    "caption_short": "Gelinho de carambola",
+    "caption_medium": "Gelinho de carambola Ingredientes: Salada de frutas com carambola, Salada de folhas com carambola. Modo de preparo: Lave, seque e corte a carambola em fatias finas, para formar estrelas.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#tradicional",
+      "#fácil"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/gelinho_de_carambola.jpg\" alt=\"Gelinho de carambola\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 3 hora</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Salada de frutas com carambola</li>\n<li>Salada de folhas com carambola</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Lave, seque e corte a carambola em fatias finas, para formar estrelas.</li>\n<li>Distribua as fatias numa assadeira pequena, uma ao lado da outra, e leve ao freezer por pelo menos 3 horas para congelar – dessa forma as estrelas ficam soltinhas depois de congeladas .</li>\n<li>Transfira as estrelas para um pote com tampa (ou saco) e mantenha no freezer por até 3 meses. Utilize em drinques, sirva com vinho branco ou água.</li>\n</ol>\n"
+}

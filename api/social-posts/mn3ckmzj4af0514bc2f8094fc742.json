@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckmzj4af0514bc2f8094fc742",
+  "title": "Bolinho de batata-doce simples",
+  "slug": "receitas/bolinho-de-batata-doce-simples__1ce67ebc",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolinho-de-batata-doce-simples__1ce67ebc/mn3ckmzj4af0514bc2f8094fc742/",
+  "deeplink": "boil://receita?rid=mn3ckmzj4af0514bc2f8094fc742",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-batata-doce-simples__1ce67ebc_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-batata-doce-simples__1ce67ebc_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-batata-doce-simples__1ce67ebc_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-batata-doce-simples__1ce67ebc_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolinho-de-batata-doce-simples__1ce67ebc_01.webp"
+  },
+  "ingredients": [
+    "2 batatas-doces cozidas",
+    "Sal, orégano e pimenta-do-reino a gosto",
+    "2 colheres de sopa de requeijão",
+    "2 colheres de sopa de carne moída cozida"
+  ],
+  "steps": [
+    "Reúna os ingredientes do bolinho de batata-doce simples;",
+    "Em um recipiente, amasse as batatas até formar um purê;",
+    "Adicione o sal, o orégano, a pimenta e misture bem;",
+    "Pegue pequenas porções da massa e abra na mão;",
+    "Em seguida, recheie com um pouco de requeijão e carne moída;",
+    "Por fim, feche a massa moldando-as em formato de bolinha. Repita o processo até a massa acabar;",
+    "Disponha os bolinhos em uma forma untada e leve ao forno preaquecido a 180ºC por cerca de 20 minutos ou até dourarem;",
+    "Sirva com o molho de sua preferência. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolinho de batata-doce simples",
+    "caption_medium": "Bolinho de batata-doce simples Ingredientes: 2 batatas-doces cozidas, Sal, orégano e pimenta-do-reino a gosto, 2 colheres de sopa de requeijão, 2 colheres de sopa de carne moída cozida. Modo de preparo: Reúna os ingredientes do bolinho de batata-doce simples;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

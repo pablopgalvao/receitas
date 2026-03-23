@@ -1,0 +1,50 @@
+{
+  "id": "mn3cknw22fe637a89746d0315aaa",
+  "title": "Pudim simples",
+  "slug": "receitas/pudim-simples__b62d139e",
+  "url": "https://receitas.pgalvao.com.br/receitas/pudim-simples__b62d139e/mn3cknw22fe637a89746d0315aaa/",
+  "deeplink": "boil://receita?rid=mn3cknw22fe637a89746d0315aaa",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-simples__b62d139e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-simples__b62d139e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-simples__b62d139e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-simples__b62d139e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pudim-simples__b62d139e_01.webp"
+  },
+  "ingredients": [
+    "1 lata de leite condensado (395 gramas)",
+    "1 lata de creme de leite (300 gramas)",
+    "1 lata de leite (use a lata de leite condensado como medida)",
+    "2 pacotinhos de gelatina sem sabor (12 gramas cada)"
+  ],
+  "steps": [
+    "Reúna os ingredientes do pudim simples;",
+    "Para preparar a calda, coloque o açúcar e a água em uma forma redonda de 20 cm, com um furo no meio, misture e leve ao fogo médio até ferver;",
+    "Quando começar a ferver, mexa a forma lentamente para que a calda não empedre, até ficar um caramelo dourado;",
+    "Retire do fogo e espalhe a calda pela forma de modo uniforme e reserve;",
+    "Para fazer o pudim, dissolva a gelatina conforme as instruções do produto;",
+    "Em um liquidificador, coloque o leite condensado, o creme de leite, o leite, a gelatina dissolvida e bata até formar um creme homogêneo e liso;",
+    "Despeje a massa na forma com a calda e leve para a geladeira até ficar bem firme (no mínimo 4 horas);",
+    "Desenforme e sirva bem gelado. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Pudim simples",
+    "caption_medium": "Pudim simples Ingredientes: 1 lata de leite condensado (395 gramas), 1 lata de creme de leite (300 gramas), 1 lata de leite (use a lata de leite condensado como medida), 2 pacotinhos de gelatina sem sabor (12 gramas cada). Modo de preparo: Reúna os ingredientes do pudim simples;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

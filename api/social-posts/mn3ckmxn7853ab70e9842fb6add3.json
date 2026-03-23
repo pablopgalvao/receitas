@@ -1,0 +1,52 @@
+{
+  "id": "mn3ckmxn7853ab70e9842fb6add3",
+  "title": "Babaganoush",
+  "slug": "receitas/babaganoush__95ad124f",
+  "url": "https://receitas.pgalvao.com.br/receitas/babaganoush__95ad124f/mn3ckmxn7853ab70e9842fb6add3/",
+  "deeplink": "boil://receita?rid=mn3ckmxn7853ab70e9842fb6add3",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganoush__95ad124f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganoush__95ad124f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganoush__95ad124f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganoush__95ad124f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/babaganoush__95ad124f_01.webp"
+  },
+  "ingredients": [
+    "2 berinjelas",
+    "1 dente de alho picado",
+    "Caldo de 1 limão",
+    "3 colheres de sopa de tahine (pasta de gergelim)",
+    "2 colheres de sopa de azeite a gosto",
+    "½ colher de chá de sal (ou a gosto)"
+  ],
+  "steps": [
+    "Reúna os ingredientes do babaganuche;",
+    "Higienize as berinjelas e seque-as com um pano limpo ou papel-toalha;",
+    "Ligue uma das bocas do fogão e acenda a chama. Com uma pinça ou garfo, segure o legume e aproxime-a da chama. Assim como no processo de dourar um marshmallow, vire a berinjela conforme a casquinha queimar (doure ela por completo);",
+    "Reserve a berinjela em um prato e repita esse processo com todas elas;",
+    "Aguarde 10 minutos até elas ficarem mornas, e corte todas as berinjelas no sentido do comprimento;",
+    "Com uma colher, retire a polpa e coloque-a em uma peneira. Descarte as cascas e escorra o excesso do líquido da berinjela;",
+    "Em um liquidificador ou processador, coloque o tahine, o caldo de limão, o alho e a berinjela. Bata até formar uma pastinha e tudo ficar homogêneo. Tempere com sal e azeite;",
+    "Pronto, sirva esse clássico árabe com pão sírio e aproveite. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Babaganoush",
+    "caption_medium": "Babaganoush Ingredientes: 2 berinjelas, 1 dente de alho picado, Caldo de 1 limão, 3 colheres de sopa de tahine (pasta de gergelim), 2 colheres de sopa de azeite a gosto. Modo de preparo: Reúna os ingredientes do babaganuche;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

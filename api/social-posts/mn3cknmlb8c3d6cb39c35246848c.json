@@ -1,0 +1,54 @@
+{
+  "id": "mn3cknmlb8c3d6cb39c35246848c",
+  "title": "Ovos rancheiros",
+  "slug": "receitas/ovos_rancheiros",
+  "url": "https://receitas.pgalvao.com.br/receitas/ovos_rancheiros/mn3cknmlb8c3d6cb39c35246848c/",
+  "deeplink": "boil://receita?rid=mn3cknmlb8c3d6cb39c35246848c",
+  "date": "2025-09-22T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/ovos_rancheiros.jpg"
+  },
+  "ingredients": [
+    "½ gomo de linguiça calabresa picada",
+    "100 g de queijo picado",
+    "Orégano a gosto",
+    "4 ovos",
+    "sal a gosto",
+    "Pimenta a gosto",
+    "Salsinha picada",
+    "1 cebola picada",
+    "2 dentes de alho picados",
+    "200 ml de molho de tomate"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Leve uma frigideira ao fogo médio, aqueça um fio de azeite e frite a linguiça calabresa;",
+    "Acrescente a cebola e o alho e deixe dourar;",
+    "Adicione o molho de tomate e espere ferver; em seguida, acrescente os pedaços de queijo e tempere com orégano;",
+    "Com o molho em estado de fervura, quebre os ovos e coloque-os delicadamente na frigideira, deixando uma distância entre eles. Tempere-os com sal e pimenta a gosto;",
+    "Espere que os ovos cozinhem, salpique a salsinha por cima e sirva na sequência."
+  ],
+  "social": {
+    "caption_short": "Ovos rancheiros",
+    "caption_medium": "Ovos rancheiros Ingredientes: ½ gomo de linguiça calabresa picada, 100 g de queijo picado, Orégano a gosto, 4 ovos, sal a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novidadespopulares"
+    ]
+  }
+}

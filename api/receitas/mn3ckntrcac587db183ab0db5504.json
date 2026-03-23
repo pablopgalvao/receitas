@@ -1,0 +1,81 @@
+{
+  "id": "mn3ckntrcac587db183ab0db5504",
+  "title": "Picadinho",
+  "slug": "receitas/picadinho",
+  "url": "https://receitas.pgalvao.com.br/receitas/picadinho/mn3ckntrcac587db183ab0db5504/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckntrcac587db183ab0db5504.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckntrcac587db183ab0db5504.json",
+  "deeplink": "boil://receita?rid=mn3ckntrcac587db183ab0db5504",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.767Z",
+  "time": "2 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "brasil",
+    "tradicional",
+    "fácil"
+  ],
+  "ingredients": [
+    "1 kg de coxão mole em peça",
+    "70 g de bacon em cubinhos (cerca de ½ xícara [chá])",
+    "2 colheres (sopa) de extrato de tomate",
+    "2 colheres (sopa) de molho inglês",
+    "3 colheres (sopa) de farinha de trigo",
+    "5 colheres (sopa) de azeite Andorinha",
+    "4 xícaras (chá) de água",
+    "¼ de xícara (chá) de salsinha",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Corte o coxão mole em bifes de cerca de 1,5 cm de espessura. Corte os bifes em tiras e as tiras em cubos de 1,5 cm. Transfira para uma tigela, tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes — a carne não pode estar gelada na hora de ir para a panela.",
+    "Leve uma panela grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure cerca de ¼ da carne, sem amontoar os cubinhos — se colocar toda a carne de uma vez, ela vai esfriar a panela e cozinhar no próprio líquido, em vez de dourar. Deixe a carne dourar por cerca de 2 minutos e vire para dourar os cubos de maneira uniforme. Transfira a carne dourada para uma tigela e repita com o restante, regando com azeite a cada leva.",
+    "Mantenha a panela em fogo médio, regue com 1 colher (sopa) de azeite e acrescente o bacon. Mexa por cerca de 3 minutos, até começar a dourar. Adicione a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o alho e mexa por 1 minuto para perfumar.",
+    "Acrescente o extrato de tomate e mexa por 3 minutos até dar uma leve tostadinha no fundo da panela — isso vai dar mais sabor ao caldo do picadinho. Junte a farinha e mexa por 1 minuto até formar uma pastinha — a farinha ajuda a engrossar o caldo.",
+    "Regue com o molho inglês e o caldo de limão e misture bem. Adicione a água quente aos poucos, mexendo com a espátula para dissolver os gruminhos de farinha e o queimadinho do fundo da panela. Tempere com uma pitada de sal, volte a carne para a panela e misture bem.",
+    "Enquanto isso, lave, seque e pique fino a salsinha. Desligue o fogo do picadinho e misture a salsinha picada. Sirva a seguir."
+  ],
+  "steps": [
+    "Corte o coxão mole em bifes de cerca de 1,5 cm de espessura. Corte os bifes em tiras e as tiras em cubos de 1,5 cm. Transfira para uma tigela, tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes — a carne não pode estar gelada na hora de ir para a panela.",
+    "Descasque e pique fino a cebola e o alho. Numa chaleira, leve um pouco mais de 1 litro de água ao fogo médio para aquecer.",
+    "Leve uma panela grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure cerca de ¼ da carne, sem amontoar os cubinhos — se colocar toda a carne de uma vez, ela vai esfriar a panela e cozinhar no próprio líquido, em vez de dourar. Deixe a carne dourar por cerca de 2 minutos e vire para dourar os cubos de maneira uniforme. Transfira a carne dourada para uma tigela e repita com o restante, regando com azeite a cada leva.",
+    "Mantenha a panela em fogo médio, regue com 1 colher (sopa) de azeite e acrescente o bacon. Mexa por cerca de 3 minutos, até começar a dourar. Adicione a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o alho e mexa por 1 minuto para perfumar.",
+    "Acrescente o extrato de tomate e mexa por 3 minutos até dar uma leve tostadinha no fundo da panela — isso vai dar mais sabor ao caldo do picadinho. Junte a farinha e mexa por 1 minuto até formar uma pastinha — a farinha ajuda a engrossar o caldo.",
+    "Regue com o molho inglês e o caldo de limão e misture bem. Adicione a água quente aos poucos, mexendo com a espátula para dissolver os gruminhos de farinha e o queimadinho do fundo da panela. Tempere com uma pitada de sal, volte a carne para a panela e misture bem.",
+    "Quando começar a ferver, abaixe o fogo e deixe cozinhar por 30 minutos, mexendo de vez em quando, até a carne ficar macia e o caldo levemente engrossado.",
+    "Enquanto isso, lave, seque e pique fino a salsinha. Desligue o fogo do picadinho e misture a salsinha picada. Sirva a seguir."
+  ],
+  "excerpt": "Picadinho. Tempo de preparo: 2 min. Ingrediente em destaque: 1 kg de coxão mole em peça. Comece assim: Corte o coxão mole em bifes de cerca de 1,5 cm de espessura. Corte os bifes em tiras e as tiras em cubos de 1,5 cm. Transfira para uma tigela, tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes — a carne não pode estar gelada na hora de ir para a panela.",
+  "social": {
+    "caption_short": "Picadinho",
+    "caption_medium": "Picadinho Ingredientes: 1 kg de coxão mole em peça, 70 g de bacon em cubinhos (cerca de ½ xícara [chá]), 2 colheres (sopa) de extrato de tomate, 2 colheres (sopa) de molho inglês, 3 colheres (sopa) de farinha de trigo. Modo de preparo: Corte o coxão mole em bifes de cerca de 1,5 cm de espessura. Corte os bifes em tiras e as tiras em cubos de 1,5 cm. Transfira para uma tigela, tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes — a carne não pode estar gelada na hora de ir para a panela.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#brasil",
+      "#tradicional",
+      "#fácil"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/picadinho.jpg\" alt=\"Picadinho\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 2 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 kg de coxão mole em peça</li>\n<li>70 g de bacon em cubinhos (cerca de ½ xícara [chá])</li>\n<li>2 colheres (sopa) de extrato de tomate</li>\n<li>2 colheres (sopa) de molho inglês</li>\n<li>3 colheres (sopa) de farinha de trigo</li>\n<li>5 colheres (sopa) de azeite Andorinha</li>\n<li>4 xícaras (chá) de água</li>\n<li>¼ de xícara (chá) de salsinha</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>Corte o coxão mole em bifes de cerca de 1,5 cm de espessura. Corte os bifes em tiras e as tiras em cubos de 1,5 cm. Transfira para uma tigela, tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes — a carne não pode estar gelada na hora de ir para a panela.</li>\n<li>Leve uma panela grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure cerca de ¼ da carne, sem amontoar os cubinhos — se colocar toda a carne de uma vez, ela vai esfriar a panela e cozinhar no próprio líquido, em vez de dourar. Deixe a carne dourar por cerca de 2 minutos e vire para dourar os cubos de maneira uniforme. Transfira a carne dourada para uma tigela e repita com o restante, regando com azeite a cada leva.</li>\n<li>Mantenha a panela em fogo médio, regue com 1 colher (sopa) de azeite e acrescente o bacon. Mexa por cerca de 3 minutos, até começar a dourar. Adicione a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o alho e mexa por 1 minuto para perfumar.</li>\n<li>Acrescente o extrato de tomate e mexa por 3 minutos até dar uma leve tostadinha no fundo da panela — isso vai dar mais sabor ao caldo do picadinho. Junte a farinha e mexa por 1 minuto até formar uma pastinha — a farinha ajuda a engrossar o caldo.</li>\n<li>Regue com o molho inglês e o caldo de limão e misture bem. Adicione a água quente aos poucos, mexendo com a espátula para dissolver os gruminhos de farinha e o queimadinho do fundo da panela. Tempere com uma pitada de sal, volte a carne para a panela e misture bem.</li>\n<li>Enquanto isso, lave, seque e pique fino a salsinha. Desligue o fogo do picadinho e misture a salsinha picada. Sirva a seguir.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Corte o coxão mole em bifes de cerca de 1,5 cm de espessura. Corte os bifes em tiras e as tiras em cubos de 1,5 cm. Transfira para uma tigela, tempere com 2 colheres (chá) de sal e pimenta-do-reino a gosto e mantenha em temperatura ambiente enquanto prepara o restante dos ingredientes — a carne não pode estar gelada na hora de ir para a panela.</li>\n<li>Descasque e pique fino a cebola e o alho. Numa chaleira, leve um pouco mais de 1 litro de água ao fogo médio para aquecer.</li>\n<li>Leve uma panela grande ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e doure cerca de ¼ da carne, sem amontoar os cubinhos — se colocar toda a carne de uma vez, ela vai esfriar a panela e cozinhar no próprio líquido, em vez de dourar. Deixe a carne dourar por cerca de 2 minutos e vire para dourar os cubos de maneira uniforme. Transfira a carne dourada para uma tigela e repita com o restante, regando com azeite a cada leva.</li>\n<li>Mantenha a panela em fogo médio, regue com 1 colher (sopa) de azeite e acrescente o bacon. Mexa por cerca de 3 minutos, até começar a dourar. Adicione a cebola, tempere com uma pitada de sal e refogue até murchar. Junte o alho e mexa por 1 minuto para perfumar.</li>\n<li>Acrescente o extrato de tomate e mexa por 3 minutos até dar uma leve tostadinha no fundo da panela — isso vai dar mais sabor ao caldo do picadinho. Junte a farinha e mexa por 1 minuto até formar uma pastinha — a farinha ajuda a engrossar o caldo.</li>\n<li>Regue com o molho inglês e o caldo de limão e misture bem. Adicione a água quente aos poucos, mexendo com a espátula para dissolver os gruminhos de farinha e o queimadinho do fundo da panela. Tempere com uma pitada de sal, volte a carne para a panela e misture bem.</li>\n<li>Quando começar a ferver, abaixe o fogo e deixe cozinhar por 30 minutos, mexendo de vez em quando, até a carne ficar macia e o caldo levemente engrossado.</li>\n<li>Enquanto isso, lave, seque e pique fino a salsinha. Desligue o fogo do picadinho e misture a salsinha picada. Sirva a seguir.</li>\n</ol>\n"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "mn3cko6b2030dd913b8498db9263",
+  "title": "Salada de trigo com abóbora assada",
+  "slug": "receitas/salada_de_trigo_com_ab_bora_assada",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada_de_trigo_com_ab_bora_assada/mn3cko6b2030dd913b8498db9263/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3cko6b2030dd913b8498db9263.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3cko6b2030dd913b8498db9263.json",
+  "deeplink": "boil://receita?rid=mn3cko6b2030dd913b8498db9263",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_trigo_com_ab_bora_assada.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_trigo_com_ab_bora_assada.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_trigo_com_ab_bora_assada.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_trigo_com_ab_bora_assada.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_trigo_com_ab_bora_assada.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:22.219Z",
+  "time": "30 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Saladas"
+  ],
+  "tags": [
+    "popular",
+    "prático",
+    "brasil"
+  ],
+  "ingredients": [
+    "Salada de repolho americana (coleslaw)",
+    "Salada caprese com ovinhos de codorna para crianças",
+    "Salada de folhas verdes",
+    "Salada mediterrânea de grão-de-bico",
+    "Salada de arroz sete cereais",
+    "Salada de verdes com azeitona, ovo e hortelã",
+    "1½ xícara (chá) de trigo para quibe",
+    "3 xícaras (chá) de água",
+    "¼ de xícara (chá) de extrato de tomate",
+    "3 colheres (sopa) de molho de romã (tempero árabe comprado pronto)",
+    "½ colher (chá) de semente de coentro em pó",
+    "½ colher (chá) de cominho em pó",
+    "¼ de colher (chá) de pimenta-da-jamaica em pó",
+    "1 xícara (chá) de nozes tostadas e picadas",
+    "½ maço de salsinha fresca picada grosseiramente",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "iogurte cremoso (ou coalhada) a gosto para servir",
+    "folhas de miniagrião a gosto para servir",
+    "Numa tigela grande, junte o extrato de tomate, ½ xícara (chá) de azeite, o molho de romã, o caldo de limão, o coentro, o cominho e a pimenta-da-jamaica em pó. Tempere com 1 colher (chá) de sal e misture bem com um batedor de arame.",
+    "Numa assadeira grande, junte os cubos de abóbora e os dentes de alho, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture bem e leve ao forno para assar por cerca de 30 minutos, ou até a abóbora ficar dourada – na metade do tempo, vire os cubos com uma espátula para assar por igual.",
+    "Na hora de servir, misture as nozes e a salsinha picada no trigo temperado. Junte metade dos cubos de abóbora e alho assados e misture delicadamente. Sirva a salada de trigo com o iogurte cremoso, folhas de miniagrião e o restante da abóbora assada."
+  ],
+  "steps": [
+    "Numa tigela média, coloque o trigo, cubra com a água e deixe hidratar por 30 minutos.",
+    "Passado os 30 minutos, forre uma peneira com um pano de prato limpo e escorra a água do trigo. Una as pontas do pano, fazendo uma trouxinha, e torça para escorrer bem o excesso de água do trigo hidratado.",
+    "Numa tigela grande, junte o extrato de tomate, ½ xícara (chá) de azeite, o molho de romã, o caldo de limão, o coentro, o cominho e a pimenta-da-jamaica em pó. Tempere com 1 colher (chá) de sal e misture bem com um batedor de arame.",
+    "Junte o trigo à tigela com o molho e misture bem com uma espátula. Cubra com um prato e leve à geladeira por pelo menos 30 minutos antes de servir – quanto mais tempo o trigo ficar na geladeira absorvendo os sabores do molho, mais gostoso fica. Enquanto isso, prepare a abóbora assada.",
+    "Preaqueça o forno a 240 ºC (temperatura alta). Corte as pontas e amasse os dentes de alho com a lateral da lâmina da faca para descascar.",
+    "Numa assadeira grande, junte os cubos de abóbora e os dentes de alho, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture bem e leve ao forno para assar por cerca de 30 minutos, ou até a abóbora ficar dourada – na metade do tempo, vire os cubos com uma espátula para assar por igual.",
+    "Na hora de servir, misture as nozes e a salsinha picada no trigo temperado. Junte metade dos cubos de abóbora e alho assados e misture delicadamente. Sirva a salada de trigo com o iogurte cremoso, folhas de miniagrião e o restante da abóbora assada."
+  ],
+  "excerpt": "Salada de trigo com abóbora assada. Tempo de preparo: 30 min. Ingrediente em destaque: Salada de repolho americana (coleslaw). Comece assim: Numa tigela média, coloque o trigo, cubra com a água e deixe hidratar por 30 minutos.",
+  "social": {
+    "caption_short": "Salada de trigo com abóbora assada",
+    "caption_medium": "Salada de trigo com abóbora assada Ingredientes: Salada de repolho americana (coleslaw), Salada caprese com ovinhos de codorna para crianças, Salada de folhas verdes, Salada mediterrânea de grão-de-bico, Salada de arroz sete cereais. Modo de preparo: Numa tigela média, coloque o trigo, cubra com a água e deixe hidratar por 30 minutos.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#prático",
+      "#brasil"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_trigo_com_ab_bora_assada.jpg\" alt=\"Salada de trigo com abóbora assada\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Saladas</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 30 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Salada de repolho americana (coleslaw)</li>\n<li>Salada caprese com ovinhos de codorna para crianças</li>\n<li>Salada de folhas verdes</li>\n<li>Salada mediterrânea de grão-de-bico</li>\n<li>Salada de arroz sete cereais</li>\n<li>Salada de verdes com azeitona, ovo e hortelã</li>\n<li>1½ xícara (chá) de trigo para quibe</li>\n<li>3 xícaras (chá) de água</li>\n<li>¼ de xícara (chá) de extrato de tomate</li>\n<li>3 colheres (sopa) de molho de romã (tempero árabe comprado pronto)</li>\n<li>½ colher (chá) de semente de coentro em pó</li>\n<li>½ colher (chá) de cominho em pó</li>\n<li>¼ de colher (chá) de pimenta-da-jamaica em pó</li>\n<li>1 xícara (chá) de nozes tostadas e picadas</li>\n<li>½ maço de salsinha fresca picada grosseiramente</li>\n<li>azeite a gosto</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>iogurte cremoso (ou coalhada) a gosto para servir</li>\n<li>folhas de miniagrião a gosto para servir</li>\n<li>Numa tigela grande, junte o extrato de tomate, ½ xícara (chá) de azeite, o molho de romã, o caldo de limão, o coentro, o cominho e a pimenta-da-jamaica em pó. Tempere com 1 colher (chá) de sal e misture bem com um batedor de arame.</li>\n<li>Numa assadeira grande, junte os cubos de abóbora e os dentes de alho, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture bem e leve ao forno para assar por cerca de 30 minutos, ou até a abóbora ficar dourada – na metade do tempo, vire os cubos com uma espátula para assar por igual.</li>\n<li>Na hora de servir, misture as nozes e a salsinha picada no trigo temperado. Junte metade dos cubos de abóbora e alho assados e misture delicadamente. Sirva a salada de trigo com o iogurte cremoso, folhas de miniagrião e o restante da abóbora assada.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Numa tigela média, coloque o trigo, cubra com a água e deixe hidratar por 30 minutos.</li>\n<li>Passado os 30 minutos, forre uma peneira com um pano de prato limpo e escorra a água do trigo. Una as pontas do pano, fazendo uma trouxinha, e torça para escorrer bem o excesso de água do trigo hidratado.</li>\n<li>Numa tigela grande, junte o extrato de tomate, ½ xícara (chá) de azeite, o molho de romã, o caldo de limão, o coentro, o cominho e a pimenta-da-jamaica em pó. Tempere com 1 colher (chá) de sal e misture bem com um batedor de arame.</li>\n<li>Junte o trigo à tigela com o molho e misture bem com uma espátula. Cubra com um prato e leve à geladeira por pelo menos 30 minutos antes de servir – quanto mais tempo o trigo ficar na geladeira absorvendo os sabores do molho, mais gostoso fica. Enquanto isso, prepare a abóbora assada.</li>\n<li>Preaqueça o forno a 240 ºC (temperatura alta). Corte as pontas e amasse os dentes de alho com a lateral da lâmina da faca para descascar.</li>\n<li>Numa assadeira grande, junte os cubos de abóbora e os dentes de alho, regue com 2 colheres (sopa) de azeite e tempere com sal e pimenta a gosto. Misture bem e leve ao forno para assar por cerca de 30 minutos, ou até a abóbora ficar dourada – na metade do tempo, vire os cubos com uma espátula para assar por igual.</li>\n<li>Na hora de servir, misture as nozes e a salsinha picada no trigo temperado. Junte metade dos cubos de abóbora e alho assados e misture delicadamente. Sirva a salada de trigo com o iogurte cremoso, folhas de miniagrião e o restante da abóbora assada.</li>\n</ol>\n"
+}

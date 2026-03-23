@@ -1,0 +1,45 @@
+{
+  "id": "mn3cknmj46b059be320154e1309a",
+  "title": "Ovo poche",
+  "slug": "receitas/ovo-poche__2eafac01",
+  "url": "https://receitas.pgalvao.com.br/receitas/ovo-poche__2eafac01/mn3cknmj46b059be320154e1309a/",
+  "deeplink": "boil://receita?rid=mn3cknmj46b059be320154e1309a",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-poche__2eafac01_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-poche__2eafac01_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-poche__2eafac01_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-poche__2eafac01_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-poche__2eafac01_01.webp"
+  },
+  "ingredients": [
+    "1 ovo (o mais fresco possível)",
+    "1 e ½ xícara de chá de água (para uma panela pequena)"
+  ],
+  "steps": [
+    "Reúna os ingredientes para fazer o tradicional ovo poché com clara durinha e gema molinha;",
+    "Despeje a água em uma panela pequena no fogo alto até ela atingir 70-80ºC. Se você não tiver um termômetro, repare nas bolinhas que se formarem. Elas devem estar presentes e não podem agitar a água (quando ela começa a ferver muito);",
+    "Antes de despejar o ovo, é necessário verificar se ele está bom. Então, quebre-o em um potinho separado. Depois, quando a água estiver no ponto, segure o potinho com o ovo cuidadosamente e despeje o ovo devagar de forma que a clara não fique muito espalhada;",
+    "Deixe o ovo cozinhando na água por cerca de 4 minutos. Após esse tempo, levante o ovo com uma escumadeira e toque o meio com a ponta do dedo. Observe se a clara está mais consistente e a gema mole por dentro, mas firme por fora. Se estiver, está pronto. Desligue o fogo e retire;",
+    "Sirva com hambúrguer, torrada ou outro acompanhamento de sua preferência. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Ovo poche",
+    "caption_medium": "Ovo poche Ingredientes: 1 ovo (o mais fresco possível), 1 e ½ xícara de chá de água (para uma panela pequena). Modo de preparo: Reúna os ingredientes para fazer o tradicional ovo poché com clara durinha e gema molinha;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

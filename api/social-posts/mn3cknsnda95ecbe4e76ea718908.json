@@ -1,0 +1,53 @@
+{
+  "id": "mn3cknsnda95ecbe4e76ea718908",
+  "title": "Pavê vegano",
+  "slug": "receitas/pave-vegano__8d5ad90d",
+  "url": "https://receitas.pgalvao.com.br/receitas/pave-vegano__8d5ad90d/mn3cknsnda95ecbe4e76ea718908/",
+  "deeplink": "boil://receita?rid=mn3cknsnda95ecbe4e76ea718908",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-vegano__8d5ad90d_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-vegano__8d5ad90d_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-vegano__8d5ad90d_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-vegano__8d5ad90d_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pave-vegano__8d5ad90d_01.webp"
+  },
+  "ingredients": [
+    "1 litro de leite vegetal",
+    "4 colheres de sopa de amido de milho",
+    "6 colheres de sopa de açúcar demerara",
+    "1 colher de chá de extrato de baunilha",
+    "4 colheres de sopa de cacau em pó",
+    "6 quadradinhos de chocolate 50% vegano",
+    "Bolacha maisena vegana (ou de aveia)",
+    "Morango a gosto"
+  ],
+  "steps": [
+    "Em uma panela, coloque o leite, o amido e misture bem até diluir.",
+    "Leve para cozinhar em fogo baixo e acrescente o açúcar.",
+    "Cozinhe por quinze minutos até engrossar.",
+    "Em uma vasilha, coloque metade do creme, adicione a baunilha, misture bem e reserve.",
+    "Com a outra metade do creme ainda no fogo, acrescente o cacau, o chocolate, misture até tudo incorporar e reserve.",
+    "Para a montagem, intercale camadas de creme de chocolate, creme branco, bolacha e morango ou a forma que preferir.",
+    "Agora é só servir! Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Pavê vegano",
+    "caption_medium": "Pavê vegano Ingredientes: 1 litro de leite vegetal, 4 colheres de sopa de amido de milho, 6 colheres de sopa de açúcar demerara, 1 colher de chá de extrato de baunilha, 4 colheres de sopa de cacau em pó. Modo de preparo: Em uma panela, coloque o leite, o amido e misture bem até diluir.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

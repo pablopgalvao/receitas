@@ -1,0 +1,59 @@
+{
+  "id": "mn3cknk11914ff4d745dc9482b43",
+  "title": "Moqueca Capixaba",
+  "slug": "receitas/moqueca-capixaba__ef90ee6b",
+  "url": "https://receitas.pgalvao.com.br/receitas/moqueca-capixaba__ef90ee6b/mn3cknk11914ff4d745dc9482b43/",
+  "deeplink": "boil://receita?rid=mn3cknk11914ff4d745dc9482b43",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-capixaba__ef90ee6b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-capixaba__ef90ee6b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-capixaba__ef90ee6b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-capixaba__ef90ee6b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/moqueca-capixaba__ef90ee6b_01.webp"
+  },
+  "ingredients": [
+    "1 kg de frutos do mar (peixe em postas, lagosta, camarão, entre outros)",
+    "Bananas a gosto",
+    "4 tomates maduros cortados em pedaços pequenos",
+    "2 cebolas médias cortadas em pedaços pequenos",
+    "4 dentes de alho amassados",
+    "½ maço de cebolinha picada",
+    "1 maço de coentro picado",
+    "2 colheres de sopa de óleo",
+    "1 colher de sopa de colorau",
+    "Suco de 1 limão",
+    "Sal, pimenta-do-reino e azeite a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque os frutos do mar e as bananas cortadas em rodelas em um recipiente;",
+    "Tempere os frutos do mar misturados com as bananas com o limão, a pimenta-do-reino e o sal;",
+    "Aqueça uma panela de barro em fogo alto (caso sua panela não seja de barro, use fogo médio) e adicione o óleo e o colorau, misture até dissolver bem;",
+    "Acrescente a cebola, refogue até começar a ficar transparente, junte o alho e deixe mais 2 minutos;",
+    "Acrescente os tomates, ⅔ do tempero verde picado e misture. Tampe a panela;",
+    "Quando começar a ferver, acomode as postas de peixe lado a lado. Com uma colher, vá pegando o caldo com os temperos e jogando por cima das postas;",
+    "Tampe a panela e deixe cozinhar por cerca de 10 minutos e cubra com o restante de tempero verde;",
+    "Tampe a panela de novo, deixe cozinhar por mais 5 minutos, verifique se o peixe está cozido, experimente e, se necessário, corrija o sal;",
+    "Sirva a moqueca com azeite, arroz, pirão e uma boa pimenta malagueta em conserva."
+  ],
+  "social": {
+    "caption_short": "Moqueca Capixaba",
+    "caption_medium": "Moqueca Capixaba Ingredientes: 1 kg de frutos do mar (peixe em postas, lagosta, camarão, entre outros), Bananas a gosto, 4 tomates maduros cortados em pedaços pequenos, 2 cebolas médias cortadas em pedaços pequenos, 4 dentes de alho amassados. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

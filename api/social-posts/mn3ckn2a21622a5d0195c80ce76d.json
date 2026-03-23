@@ -1,0 +1,60 @@
+{
+  "id": "mn3ckn2a21622a5d0195c80ce76d",
+  "title": "Bolo integral de maçã e banana",
+  "slug": "receitas/bolo-integral-de-maca-e-banana__03f9c36b",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-integral-de-maca-e-banana__03f9c36b/mn3ckn2a21622a5d0195c80ce76d/",
+  "deeplink": "boil://receita?rid=mn3ckn2a21622a5d0195c80ce76d",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-integral-de-maca-e-banana__03f9c36b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-integral-de-maca-e-banana__03f9c36b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-integral-de-maca-e-banana__03f9c36b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-integral-de-maca-e-banana__03f9c36b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-integral-de-maca-e-banana__03f9c36b_01.webp"
+  },
+  "ingredients": [
+    "3 ovos",
+    "3 bananas maduras grandes",
+    "1 maçã",
+    "1 e ½ xícara de chá de açúcar mascavo (195 gramas)",
+    "1 xícara de chá de farinha integral (130 gramas)",
+    "1 xícara de chá de aveia em flocos (90 gramas)",
+    "½ xícara de óleo (100 ml)",
+    "½ xícara de chá de leite (100 ml)",
+    "1 colher de sopa de fermento em pó",
+    "½ colher de café de canela (ou a gosto)"
+  ],
+  "steps": [
+    "Organize sua bancada! Descasque e pique a maçã em cubinhos não tão pequenos, desprezando as sementes. Descasque e corte as bananas em rodelas. Reserve em 3 partes iguais;",
+    "Em um liquidificador, adicione os ovos, o óleo, o leite e ⅓ das bananas. Bata até incorporar bem;",
+    "Acrescente o açúcar e bata por mais um minutinho para homogeneizar;",
+    "Em uma tigela, adicione a farinha, a aveia e misture;",
+    "Integre toda a mistura do liquidificador aos ingredientes secos e mexa até que fique completamente uniforme;",
+    "Adicione a canela e o fermento em pó, misturando delicadamente até incorporar;",
+    "Em uma forma de tamanho de 28 x 11 x 6 cm untada, despeje metade da massa do bolo;",
+    "Espalhe toda a maçã e mais ⅓ da banana uniformemente sobre a massa. Polvilhe um pouco de canela;",
+    "Coloque delicadamente a outra metade da massa do bolo por cima das frutas e finalize com o restante da banana por cima. Polvilhe açúcar mascavo e canela;",
+    "Asse por 50 minutos em forno preaquecido a 180 °C até que fique bem douradinho;",
+    "Após assado, espere o bolo esfriar e desenforme;",
+    "Prontinho! Agora é só aproveitar essa delícia acompanhada de um cafezinho!"
+  ],
+  "social": {
+    "caption_short": "Bolo integral de maçã e banana",
+    "caption_medium": "Bolo integral de maçã e banana Ingredientes: 3 ovos, 3 bananas maduras grandes, 1 maçã, 1 e ½ xícara de chá de açúcar mascavo (195 gramas), 1 xícara de chá de farinha integral (130 gramas). Modo de preparo: Organize sua bancada! Descasque e pique a maçã em cubinhos não tão pequenos, desprezando as sementes. Descasque e corte as bananas em rodelas. Reserve em 3 partes iguais;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

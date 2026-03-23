@@ -1,0 +1,45 @@
+{
+  "id": "mn3cknikd7742aff278bb556c359",
+  "title": "Matcha soda",
+  "slug": "receitas/matcha-soda__440c00c4",
+  "url": "https://receitas.pgalvao.com.br/receitas/matcha-soda__440c00c4/mn3cknikd7742aff278bb556c359/",
+  "deeplink": "boil://receita?rid=mn3cknikd7742aff278bb556c359",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/matcha-soda__440c00c4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/matcha-soda__440c00c4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/matcha-soda__440c00c4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/matcha-soda__440c00c4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/matcha-soda__440c00c4_01.webp"
+  },
+  "ingredients": [
+    "1 colher (chá) de matcha em pó",
+    "1 lata de club soda (350 ml) gelado",
+    "3 colheres (sopa) de caldo de limão (1 limão)",
+    "3 colheres (sopa) de água",
+    "4 colheres (chá) de açúcar",
+    "cubos de gelo a gosto"
+  ],
+  "steps": [
+    "Na jarra medidora, coloque a água e leve ao micro-ondas para rodar por 30 segundos, apenas para aquecer — a água não pode ferver, pois isso deixa o matcha amargo."
+  ],
+  "social": {
+    "caption_short": "Matcha soda",
+    "caption_medium": "Matcha soda Ingredientes: 1 colher (chá) de matcha em pó, 1 lata de club soda (350 ml) gelado, 3 colheres (sopa) de caldo de limão (1 limão), 3 colheres (sopa) de água, 4 colheres (chá) de açúcar. Modo de preparo: Na jarra medidora, coloque a água e leve ao micro-ondas para rodar por 30 segundos, apenas para aquecer — a água não pode ferver, pois isso deixa o matcha amargo.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

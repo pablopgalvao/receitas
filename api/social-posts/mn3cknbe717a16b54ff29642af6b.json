@@ -1,0 +1,55 @@
+{
+  "id": "mn3cknbe717a16b54ff29642af6b",
+  "title": "Frango empanado com aveia assado",
+  "slug": "receitas/frango-empanado-com-aveia-assado__1ea5832b",
+  "url": "https://receitas.pgalvao.com.br/receitas/frango-empanado-com-aveia-assado__1ea5832b/mn3cknbe717a16b54ff29642af6b/",
+  "deeplink": "boil://receita?rid=mn3cknbe717a16b54ff29642af6b",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-com-aveia-assado__1ea5832b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-com-aveia-assado__1ea5832b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-com-aveia-assado__1ea5832b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-com-aveia-assado__1ea5832b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-empanado-com-aveia-assado__1ea5832b_01.webp"
+  },
+  "ingredients": [
+    "3 dentes de alho picados",
+    "Sal rosa a gosto",
+    "Açafrão a gosto",
+    "Páprica doce a gosto",
+    "Pimenta-do-reino a gosto",
+    "Orégano a gosto",
+    "Suco de ½ limão",
+    "4 filés de frango",
+    "2 xícaras de aveia flocos finos para empanar",
+    "2 ovos batidos"
+  ],
+  "steps": [
+    "Separe os ingredientes para essa deliciosa receita;",
+    "Em um recipiente, adicione o alho, o sal, o açafrão, a páprica, a pimenta, o orégano, o suco de limão e misture bem;",
+    "Coloque os filés no recipiente, passe bem eles no tempero, cubra com plástico filme e deixe marinar por 15 minutos;",
+    "Separe um recipiente com a aveia e outro com o ovo batido;",
+    "Passe o frango primeiro na aveia, depois no ovo e finalize com aveia novamente, apertando bem para grudar;",
+    "Transfira os filés para uma assadeira, regue com um fio de azeite e leve ao forno preaquecido à 180 ºC por cerca de 40 minutos ou até eles dourarem. Vire os filés na metade do tempo;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Frango empanado com aveia assado",
+    "caption_medium": "Frango empanado com aveia assado Ingredientes: 3 dentes de alho picados, Sal rosa a gosto, Açafrão a gosto, Páprica doce a gosto, Pimenta-do-reino a gosto. Modo de preparo: Separe os ingredientes para essa deliciosa receita;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

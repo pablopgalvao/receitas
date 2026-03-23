@@ -1,0 +1,50 @@
+{
+  "id": "mn3cko5mb680487e0c67172bcd8c",
+  "title": "Salada de folhas com carambola",
+  "slug": "receitas/salada_de_folhas_com_carambola",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada_de_folhas_com_carambola/mn3cko5mb680487e0c67172bcd8c/",
+  "deeplink": "boil://receita?rid=mn3cko5mb680487e0c67172bcd8c",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_folhas_com_carambola.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_folhas_com_carambola.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_folhas_com_carambola.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_folhas_com_carambola.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/salada_de_folhas_com_carambola.jpg"
+  },
+  "ingredients": [
+    "Salada de frutas com carambola",
+    "azeite a gosto",
+    "vinagre de vinho tinto a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Retire as folhas da água em vez de escorrer — assim as sujeirinhas ficam no fundo da tigela. Enxague e seque bem as folhas numa centrífuga para salada.",
+    "Numa travessa, coloque as folhas de alface e de agrião e distribua as fatias de carambola. Regue com azeite, vinagre e tempere com sal e pimenta a gosto. Sirva a seguir."
+  ],
+  "steps": [
+    "Lave bem as folhas sob água corrente, transfira para uma tigela, cubra com água, misture o bactericida de sua escolha. Deixe de molho por 15 minutos.",
+    "Retire as folhas da água em vez de escorrer — assim as sujeirinhas ficam no fundo da tigela. Enxague e seque bem as folhas numa centrífuga para salada.",
+    "Lave e seque a carambola. Descarte as pontas e corte a carambola em fatias finas, formando estrelas.",
+    "Numa travessa, coloque as folhas de alface e de agrião e distribua as fatias de carambola. Regue com azeite, vinagre e tempere com sal e pimenta a gosto. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Salada de folhas com carambola",
+    "caption_medium": "Salada de folhas com carambola Ingredientes: Salada de frutas com carambola, azeite a gosto, vinagre de vinho tinto a gosto, sal e pimenta-do-reino moída na hora a gosto, Retire as folhas da água em vez de escorrer — assim as sujeirinhas ficam no fundo da tigela. Enxague e seque bem as folhas numa centrífuga para salada.. Modo de preparo: Lave bem as folhas sob água corrente, transfira para uma tigela, cubra com água, misture o bactericida de sua escolha. Deixe de molho por 15 minutos.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#prático",
+      "#brasil"
+    ]
+  }
+}

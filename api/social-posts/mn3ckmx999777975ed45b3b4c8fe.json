@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckmx999777975ed45b3b4c8fe",
+  "title": "Arroz com raspas de limão",
+  "slug": "receitas/arroz_com_raspas_de_lim_o",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz_com_raspas_de_lim_o/mn3ckmx999777975ed45b3b4c8fe/",
+  "deeplink": "boil://receita?rid=mn3ckmx999777975ed45b3b4c8fe",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_raspas_de_lim_o.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_raspas_de_lim_o.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_raspas_de_lim_o.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_raspas_de_lim_o.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_com_raspas_de_lim_o.jpg"
+  },
+  "ingredients": [
+    "Arroz frito com brócolis e ovo",
+    "1 xícara (chá) de arroz",
+    "2 xícaras (chá) de água",
+    "1 colher (sopa) de azeite",
+    "½ colher (chá) de sal"
+  ],
+  "steps": [
+    "Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 2 xícaras (chá) de água ao fogo baixo para ferver.",
+    "Leve uma panela média ao fogo baixo. Quando aquecer, regue com o azeite, junte a cebola, tempere com uma pitada de sal e refogue por cerca de 2 minutos até murchar. Acrescente a folha de louro, o arroz e mexa bem para envolver todos os grãos com o azeite por cerca de 1 minuto - isso ajuda a deixar o arroz soltinho depois de cozido.",
+    "Meça 2 xícaras (chá) da água fervente e regue sobre o arroz. Tempere com o sal, misture bem e aumente o fogo para médio. Não mexa mais.",
+    "Assim que a água começar a secar e atingir o mesmo nível do arroz, abaixe o fogo e tampe parcialmente a panela. Deixe cozinhar até que o arroz absorva toda a água - para verificar se a água secou, espete os grãos com um garfo até conseguir ver o fundo da panela.",
+    "Desligue o fogo, junte as raspas de limão e tampe a panela. Deixe o arroz terminar de cozinhar no próprio vapor por 5 minutos. Solte os grãos com um garfo, misturando as raspas de limão; transfira para uma tigela e sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Arroz com raspas de limão",
+    "caption_medium": "Arroz com raspas de limão Ingredientes: Arroz frito com brócolis e ovo, 1 xícara (chá) de arroz, 2 xícaras (chá) de água, 1 colher (sopa) de azeite, ½ colher (chá) de sal. Modo de preparo: Descasque e pique fino a cebola. Numa chaleira, leve um pouco mais de 2 xícaras (chá) de água ao fogo baixo para ferver.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#sudeste",
+      "#prático",
+      "#tradicional"
+    ]
+  }
+}

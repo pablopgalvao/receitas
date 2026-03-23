@@ -1,0 +1,46 @@
+{
+  "id": "mn3ckmxg2715ef56a9deb8819e78",
+  "title": "Arroz perfumado na pressão",
+  "slug": "receitas/arroz_perfumado_na_press_o",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz_perfumado_na_press_o/mn3ckmxg2715ef56a9deb8819e78/",
+  "deeplink": "boil://receita?rid=mn3ckmxg2715ef56a9deb8819e78",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_na_press_o.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_na_press_o.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_na_press_o.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_na_press_o.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_na_press_o.jpg"
+  },
+  "ingredients": [
+    "1½ xícara (chá) de arroz",
+    "2 xícaras (chá) de água",
+    "1 colher (chá) de sal"
+  ],
+  "steps": [
+    "Na panela de pressão, coloque o arroz, a água, o sal e o anis-estrelado. Misture, tampe e leve ao fogo alto.",
+    "Assim que a panela começar a apitar, abaixe o fogo e deixe cozinhar por 5 minutos. Desligue o fogo e espere todo o vapor sair e a panela parar de apitar antes de abrir a tampa.",
+    "Descarte o anis-estrelado e transfira o arroz para uma tigela – o resultado é um arroz perfumado e mais grudadinho, perfeito para acompanhar receitas orientais. Sirva imediatamente."
+  ],
+  "social": {
+    "caption_short": "Arroz perfumado na pressão",
+    "caption_medium": "Arroz perfumado na pressão Ingredientes: 1½ xícara (chá) de arroz, 2 xícaras (chá) de água, 1 colher (chá) de sal. Modo de preparo: Na panela de pressão, coloque o arroz, a água, o sal e o anis-estrelado. Misture, tampe e leve ao fogo alto.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#brasil",
+      "#fácil"
+    ]
+  }
+}

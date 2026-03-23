@@ -1,0 +1,48 @@
+{
+  "id": "mn3ckn0pb74ce0c89958774449fe",
+  "title": "Bolo de cenoura fofinho",
+  "slug": "receitas/bolo-de-cenoura-fofinho__fdcb942e",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-cenoura-fofinho__fdcb942e/mn3ckn0pb74ce0c89958774449fe/",
+  "deeplink": "boil://receita?rid=mn3ckn0pb74ce0c89958774449fe",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-fofinho__fdcb942e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-fofinho__fdcb942e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-fofinho__fdcb942e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-fofinho__fdcb942e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-cenoura-fofinho__fdcb942e_01.webp"
+  },
+  "ingredients": [
+    "1 caixa de leite condensado (395 gramas)",
+    "2 colheres de sopa de chocolate em pó 50% cacau",
+    "100 gramas de chocolate meio amargo picado",
+    "1 caixa de creme de leite (200 gramas)",
+    "Chocolate granulado para decorar"
+  ],
+  "steps": [
+    "Em um liquidificador, bata os ovos, o óleo, o leite, o açúcar e as cenouras até obter uma mistura homogênea e reserve;",
+    "Em uma tigela grande, peneire o trigo e adicione a pitada de sal;",
+    "Gradualmente, despeje a mistura do liquidificador na tigela até incorporar toda a massa;",
+    "Por fim, coloque o fermento em pó e misture bem;",
+    "Coloque a massa em uma forma untada com manteiga (ou spray desmoldante) e leve ao forno preaquecido a 180 °C até dourar."
+  ],
+  "social": {
+    "caption_short": "Bolo de cenoura fofinho",
+    "caption_medium": "Bolo de cenoura fofinho Ingredientes: 1 caixa de leite condensado (395 gramas), 2 colheres de sopa de chocolate em pó 50% cacau, 100 gramas de chocolate meio amargo picado, 1 caixa de creme de leite (200 gramas), Chocolate granulado para decorar. Modo de preparo: Em um liquidificador, bata os ovos, o óleo, o leite, o açúcar e as cenouras até obter uma mistura homogênea e reserve;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

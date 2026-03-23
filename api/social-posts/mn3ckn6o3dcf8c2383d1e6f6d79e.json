@@ -1,0 +1,60 @@
+{
+  "id": "mn3ckn6o3dcf8c2383d1e6f6d79e",
+  "title": "Couve-flor à parmegiana",
+  "slug": "receitas/couve-flor-a-parmegiana__d35de650",
+  "url": "https://receitas.pgalvao.com.br/receitas/couve-flor-a-parmegiana__d35de650/mn3ckn6o3dcf8c2383d1e6f6d79e/",
+  "deeplink": "boil://receita?rid=mn3ckn6o3dcf8c2383d1e6f6d79e",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-a-parmegiana__d35de650_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-a-parmegiana__d35de650_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-a-parmegiana__d35de650_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-a-parmegiana__d35de650_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/couve-flor-a-parmegiana__d35de650_01.webp"
+  },
+  "ingredients": [
+    "1 couve-flor",
+    "1 ovo",
+    "2 colheres de sopa de farinha de rosca",
+    "3 colheres de sopa de farinha Panko",
+    "2 colheres de sopa de parmesão ralado",
+    "500 gramas de molho de tomate",
+    "Mussarela ralada a gosto",
+    "Parmesão ralado a gosto",
+    "Folhas de manjericão a gosto"
+  ],
+  "steps": [
+    "Corte a couve-flor em fatias.",
+    "Coloque a água para esquentar em uma frigideira funda e cozinhe cada lado das fatias por 2 minutos.",
+    "Em um recipiente, bata o ovo.",
+    "Em outro, coloque a farinha de rosca, a farinha panko e o queijo parmesão.",
+    "Passe a couve-flor no ovo e, em seguida, no recipiente com as farinhas.",
+    "Leve para uma frigideira com óleo e frite até dourar levemente os dois lados.",
+    "Em uma travessa que pode ser levada ao forno, faça uma camada de massa de tomate.",
+    "Coloque as fatias da couve-flor e cubra com mais massa de tomate.",
+    "Adicione a mussarela e o parmesão.",
+    "Repita o processo até preencher a forma.",
+    "Leve ao forno preaquecido a 180 °C por 10 minutos ou até derreter.",
+    "Acrescente as folhas de manjericão.",
+    "Agora é só servir essa parmegiana quentinha. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Couve-flor à parmegiana",
+    "caption_medium": "Couve-flor à parmegiana Ingredientes: 1 couve-flor, 1 ovo, 2 colheres de sopa de farinha de rosca, 3 colheres de sopa de farinha Panko, 2 colheres de sopa de parmesão ralado. Modo de preparo: Corte a couve-flor em fatias.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

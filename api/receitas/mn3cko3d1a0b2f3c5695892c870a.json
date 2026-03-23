@@ -1,0 +1,69 @@
+{
+  "id": "mn3cko3d1a0b2f3c5695892c870a",
+  "title": "Salada de abacate",
+  "slug": "receitas/salada-de-abacate__3abf5795",
+  "url": "https://receitas.pgalvao.com.br/receitas/salada-de-abacate__3abf5795/mn3cko3d1a0b2f3c5695892c870a/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3cko3d1a0b2f3c5695892c870a.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3cko3d1a0b2f3c5695892c870a.json",
+  "deeplink": "boil://receita?rid=mn3cko3d1a0b2f3c5695892c870a",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:22.114Z",
+  "time": "5 min",
+  "difficulty": "",
+  "servings": "1 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Saladas"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "½ abacate",
+    "Uvas-passas a gosto",
+    "1 tomate-cereja",
+    "¼ de cebola roxa",
+    "Coentro a gosto",
+    "1 picles de pepino",
+    "Azeitonas a gosto",
+    "Azeite a gosto",
+    "Sal a gosto",
+    "Noz-moscada a gosto",
+    "Maionese caseira a gosto"
+  ],
+  "steps": [
+    "Corte fatias grossas do abacate e acomode em um prato.",
+    "Coloque as uvas-passas, o tomate-cereja, a cebola roxa picada, o coentro, o picles e as azeitonas.",
+    "Tempere tudo com azeite, sal e noz-moscada.",
+    "Sirva com maionese caseira."
+  ],
+  "excerpt": "Salada de abacate. Tempo de preparo: 5 min. Ingrediente em destaque: ½ abacate. Comece assim: Corte fatias grossas do abacate e acomode em um prato.",
+  "social": {
+    "caption_short": "Salada de abacate",
+    "caption_medium": "Salada de abacate Ingredientes: ½ abacate, Uvas-passas a gosto, 1 tomate-cereja, ¼ de cebola roxa, Coentro a gosto. Modo de preparo: Corte fatias grossas do abacate e acomode em um prato.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salada-de-abacate__3abf5795_01.webp\" alt=\"Salada de abacate\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Saladas</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 1 porções</li>\n<li><strong>Tempo de preparo:</strong> 5 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>½ abacate</li>\n<li>Uvas-passas a gosto</li>\n<li>1 tomate-cereja</li>\n<li>¼ de cebola roxa</li>\n<li>Coentro a gosto</li>\n<li>1 picles de pepino</li>\n<li>Azeitonas a gosto</li>\n<li>Azeite a gosto</li>\n<li>Sal a gosto</li>\n<li>Noz-moscada a gosto</li>\n<li>Maionese caseira a gosto</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Corte fatias grossas do abacate e acomode em um prato.</li>\n<li>Coloque as uvas-passas, o tomate-cereja, a cebola roxa picada, o coentro, o picles e as azeitonas.</li>\n<li>Tempere tudo com azeite, sal e noz-moscada.</li>\n<li>Sirva com maionese caseira.</li>\n</ol>\n"
+}

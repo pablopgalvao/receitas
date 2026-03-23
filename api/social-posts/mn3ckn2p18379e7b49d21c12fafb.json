@@ -1,0 +1,55 @@
+{
+  "id": "mn3ckn2p18379e7b49d21c12fafb",
+  "title": "Bolo de pamonha",
+  "slug": "receitas/bolo_de_pamonha",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo_de_pamonha/mn3ckn2p18379e7b49d21c12fafb/",
+  "deeplink": "boil://receita?rid=mn3ckn2p18379e7b49d21c12fafb",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_pamonha.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_pamonha.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_pamonha.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_pamonha.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/bolo_de_pamonha.jpg"
+  },
+  "ingredients": [
+    "Viradinho de milho-verde com salsinha",
+    "Salada de milho grelhado",
+    "300 g de milho-verde congelado (ou 2 xícaras (chá) de milho verde cru debulhado)",
+    "1 xícara (chá) de leite",
+    "⅔ de xícara (chá) de açúcar",
+    "1 colher (sopa) de manteiga em temperatura ambiente",
+    "¼ de xícara (chá) de fubá",
+    "1 colher (sopa) de fermento em pó",
+    "manteiga e fubá para polvilhar",
+    "canela em pó a gosto para polvilhar",
+    "Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga um refratário pequeno (que comporte 1,3 litros). Polvilhe com fubá e chacoalhe bem para enfarinhar. Bata sobre a pia para tirar o excesso.",
+    "No liquidificador, bata o milho, o leite, o açúcar e a manteiga, até triturar bem os grãos. Acrescente os ovos e bata apenas para misturar."
+  ],
+  "steps": [
+    "Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga um refratário pequeno (que comporte 1,3 litros). Polvilhe com fubá e chacoalhe bem para enfarinhar. Bata sobre a pia para tirar o excesso.",
+    "No liquidificador, bata o milho, o leite, o açúcar e a manteiga, até triturar bem os grãos. Acrescente os ovos e bata apenas para misturar.",
+    "Junte o fubá e o fermento e bata novamente - a consistência é bem líquida, mesmo. Transfira a massa para o refratário preparado e leve ao forno para assar por 45 minutos ou até a superfície começar a dourar. Retire do forno e, se quiser, deixe esfriar. Quente, ele também fica delicioso! Polvilhe com canela em pó."
+  ],
+  "social": {
+    "caption_short": "Bolo de pamonha",
+    "caption_medium": "Bolo de pamonha Ingredientes: Viradinho de milho-verde com salsinha, Salada de milho grelhado, 300 g de milho-verde congelado (ou 2 xícaras (chá) de milho verde cru debulhado), 1 xícara (chá) de leite, ⅔ de xícara (chá) de açúcar. Modo de preparo: Preaqueça o forno a 180 ºC (temperatura média). Unte com manteiga um refratário pequeno (que comporte 1,3 litros). Polvilhe com fubá e chacoalhe bem para enfarinhar. Bata sobre a pia para tirar o excesso.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#prático",
+      "#fácil"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mn3cko8612ffa8c689ce1225f334",
+  "title": "Sardinha-aperitivo",
+  "slug": "receitas/sardinha_aperitivo",
+  "url": "https://receitas.pgalvao.com.br/receitas/sardinha_aperitivo/mn3cko8612ffa8c689ce1225f334/",
+  "deeplink": "boil://receita?rid=mn3cko8612ffa8c689ce1225f334",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinha_aperitivo.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinha_aperitivo.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinha_aperitivo.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinha_aperitivo.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/sardinha_aperitivo.jpg"
+  },
+  "ingredients": [
+    "2 latas de sardinha em óleo ou água (125 g cada)",
+    "endro (dill) a gosto",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Abra as latas e escorra a água (ou óleo) das sardinhas. Com um garfo, abra os peixes ao meio e descarte a espinha central. Pique as sardinhas em pedaços rústicos e transfira para uma tigela. Tempere com azeite, sal e pimenta a gosto. Adicione folhas de endro e misture delicadamente – cuidado para não quebrar demais os pedaços de peixe."
+  ],
+  "steps": [
+    "Corte a baguete em fatias finas de 1 cm, na diagonal – no total você terá 14 fatias. Leve uma grelha (ou frigideira) ao fogo médio. Quando estiver bem quente, coloque quantas fatias de pão couberem, uma ao lado da outra. Deixe dourar por 1 minuto de cada lado, ou até ficarem tostadinhas e crocantes. Transfira para um prato e repita com o restante.",
+    "Abra as latas e escorra a água (ou óleo) das sardinhas. Com um garfo, abra os peixes ao meio e descarte a espinha central. Pique as sardinhas em pedaços rústicos e transfira para uma tigela. Tempere com azeite, sal e pimenta a gosto. Adicione folhas de endro e misture delicadamente – cuidado para não quebrar demais os pedaços de peixe.",
+    "Sirva as sardinhas temperadas com as torradas."
+  ],
+  "social": {
+    "caption_short": "Sardinha-aperitivo",
+    "caption_medium": "Sardinha-aperitivo Ingredientes: 2 latas de sardinha em óleo ou água (125 g cada), endro (dill) a gosto, azeite a gosto, sal e pimenta-do-reino moída na hora a gosto, Abra as latas e escorra a água (ou óleo) das sardinhas. Com um garfo, abra os peixes ao meio e descarte a espinha central. Pique as sardinhas em pedaços rústicos e transfira para uma tigela. Tempere com azeite, sal e pimenta a gosto. Adicione folhas de endro e misture delicadamente – cuidado para não quebrar demais os pedaços de peixe.. Modo de preparo: Corte a baguete em fatias finas de 1 cm, na diagonal – no total você terá 14 fatias. Leve uma grelha (ou frigideira) ao fogo médio. Quando estiver bem quente, coloque quantas fatias de pão couberem, uma ao lado da outra. Deixe dourar por 1 minuto de cada lado, ou até ficarem tostadinhas e crocantes. Transfira para um prato e repita com o restante.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#prático",
+      "#brasil",
+      "#rápido"
+    ]
+  }
+}

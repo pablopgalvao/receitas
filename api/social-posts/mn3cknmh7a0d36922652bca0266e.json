@@ -1,0 +1,44 @@
+{
+  "id": "mn3cknmh7a0d36922652bca0266e",
+  "title": "Ovo cozido na air fryer",
+  "slug": "receitas/ovo-cozido-na-air-fryer__bc2f271c",
+  "url": "https://receitas.pgalvao.com.br/receitas/ovo-cozido-na-air-fryer__bc2f271c/mn3cknmh7a0d36922652bca0266e/",
+  "deeplink": "boil://receita?rid=mn3cknmh7a0d36922652bca0266e",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-cozido-na-air-fryer__bc2f271c_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-cozido-na-air-fryer__bc2f271c_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-cozido-na-air-fryer__bc2f271c_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-cozido-na-air-fryer__bc2f271c_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/ovo-cozido-na-air-fryer__bc2f271c_01.webp"
+  },
+  "ingredients": [
+    "1 ovo"
+  ],
+  "steps": [
+    "Para preparar a receita, separe o ovo e deixe em temperatura ambiente por alguns minutos para evitar que a casca rache com o choque térmico. Aproveite para preaquecer a air fryer a 120 °C por cerca de 5 minutos;",
+    "Coloque no cesto da air fryer. Caso prepare mais de um, evite sobrepor para garantir que o ar circule. Cozinhe o ovo conforme o ponto desejado. Por aqui, deixamos por 15 minutos para que a gema fique firme, cozida, mas não seca;",
+    "Enquanto o ovo cozinha, prepare uma tigela com água em temperatura ambiente. Finalizado o tempo, abra a gaveta da air fryer e, com o auxílio de uma colher, transfira o ovo para a tigela com água para amornar e facilitar o descasque;",
+    "Para descascar, bata e role o ovo suavemente na bancada até a casca trincar, puxando os pedaços sob a água para soltar a película interna;",
+    "Agora é só servir!"
+  ],
+  "social": {
+    "caption_short": "Ovo cozido na air fryer",
+    "caption_medium": "Ovo cozido na air fryer Ingredientes: 1 ovo. Modo de preparo: Para preparar a receita, separe o ovo e deixe em temperatura ambiente por alguns minutos para evitar que a casca rache com o choque térmico. Aproveite para preaquecer a air fryer a 120 °C por cerca de 5 minutos;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mn3ckn7w4293b41a88a37e15a593",
+  "title": "Curry de peixe",
+  "slug": "receitas/curry_de_peixe",
+  "url": "https://receitas.pgalvao.com.br/receitas/curry_de_peixe/mn3ckn7w4293b41a88a37e15a593/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckn7w4293b41a88a37e15a593.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckn7w4293b41a88a37e15a593.json",
+  "deeplink": "boil://receita?rid=mn3ckn7w4293b41a88a37e15a593",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.980Z",
+  "time": "3 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "prático",
+    "brasil"
+  ],
+  "ingredients": [
+    "Peixe grelhado com molho de manteiga e limão",
+    "200 ml de leite de coco (cerca de ¾ de xícara [chá])",
+    "2 colheres (sopa) de extrato de tomate",
+    "1 colher (sopa) de açúcar mascavo",
+    "2 colheres (chá) de curry em pó",
+    "1 pedaço de gengibre de cerca de 6 cm (aproximadamente 2 colheres [sopa] de gengibre picado)",
+    "2 colheres (sopa) de óleo",
+    "folhas de coentro, manjericão e hortelã a gosto para servir",
+    "No miniprocessador de alimentos, coloque os dentes de alho, a pimenta dedo-de-moça, o gengibre, os talos e a raiz do coentro, o curry e ½ colher (chá) de sal. Bata até triturar bem todos os ingredientes — pare de bater e raspe as laterais com a espátula quantas vezes forem necessárias.",
+    "Leve uma frigideira de borda alta (ou caçarola baixa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de óleo, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Adicione 1 colher (sopa) de óleo, junte o louro, o açúcar, o extrato de tomate, os temperos batidos e mexa por 1 minuto para perfumar.",
+    "Regue com o leite de coco, misture bem para dissolver os sabores, prove e, se necessário, ajuste o sal do caldo.",
+    "Tempere as postas de peixe com 1 colher (chá) de sal. Coloque as postas de peixe no caldo, abaixe o fogo, tampe a panela e deixe cozinhar por 10 minutos, até que o peixe esteja cozido mas ainda úmido. Sirva a seguir com as ervas frescas e gomos de limão."
+  ],
+  "steps": [
+    "Descasque e pique fino a cebola. Com a lateral da faca, amasse os dentes de alho e descasque. Lave e seque a pimenta e os ramos de coentro. Corte a pimenta em pedaços médios (se preferir menos picância, descarte as sementes). Corte os talos do coentro em pedaços médios, só para ficar mais fácil de bater (reserve as folhas inteiras para a finalização). Descasque e corte o gengibre em fatias.",
+    "No miniprocessador de alimentos, coloque os dentes de alho, a pimenta dedo-de-moça, o gengibre, os talos e a raiz do coentro, o curry e ½ colher (chá) de sal. Bata até triturar bem todos os ingredientes — pare de bater e raspe as laterais com a espátula quantas vezes forem necessárias.",
+    "Leve uma frigideira de borda alta (ou caçarola baixa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de óleo, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Adicione 1 colher (sopa) de óleo, junte o louro, o açúcar, o extrato de tomate, os temperos batidos e mexa por 1 minuto para perfumar.",
+    "Regue com o leite de coco, misture bem para dissolver os sabores, prove e, se necessário, ajuste o sal do caldo.",
+    "Tempere as postas de peixe com 1 colher (chá) de sal. Coloque as postas de peixe no caldo, abaixe o fogo, tampe a panela e deixe cozinhar por 10 minutos, até que o peixe esteja cozido mas ainda úmido. Sirva a seguir com as ervas frescas e gomos de limão."
+  ],
+  "excerpt": "Curry de peixe. Tempo de preparo: 3 min. Ingrediente em destaque: Peixe grelhado com molho de manteiga e limão. Comece assim: Descasque e pique fino a cebola. Com a lateral da faca, amasse os dentes de alho e descasque. Lave e seque a pimenta e os ramos de coentro. Corte a pimenta em pedaços médios (se preferir menos picância, descarte as sementes). Corte os talos do coentro em pedaços médios, só para ficar mais fácil de bater (reserve as folhas inteiras para a finalização). Descasque e corte o gengibre em fatias.",
+  "social": {
+    "caption_short": "Curry de peixe",
+    "caption_medium": "Curry de peixe Ingredientes: Peixe grelhado com molho de manteiga e limão, 200 ml de leite de coco (cerca de ¾ de xícara [chá]), 2 colheres (sopa) de extrato de tomate, 1 colher (sopa) de açúcar mascavo, 2 colheres (chá) de curry em pó. Modo de preparo: Descasque e pique fino a cebola. Com a lateral da faca, amasse os dentes de alho e descasque. Lave e seque a pimenta e os ramos de coentro. Corte a pimenta em pedaços médios (se preferir menos picância, descarte as sementes). Corte os talos do coentro em pedaços médios, só para ficar mais fácil de bater (reserve as folhas inteiras para a finalização). Descasque e corte o gengibre em fatias.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#prático",
+      "#brasil"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/curry_de_peixe.jpg\" alt=\"Curry de peixe\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 3 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Peixe grelhado com molho de manteiga e limão</li>\n<li>200 ml de leite de coco (cerca de ¾ de xícara [chá])</li>\n<li>2 colheres (sopa) de extrato de tomate</li>\n<li>1 colher (sopa) de açúcar mascavo</li>\n<li>2 colheres (chá) de curry em pó</li>\n<li>1 pedaço de gengibre de cerca de 6 cm (aproximadamente 2 colheres [sopa] de gengibre picado)</li>\n<li>2 colheres (sopa) de óleo</li>\n<li>folhas de coentro, manjericão e hortelã a gosto para servir</li>\n<li>No miniprocessador de alimentos, coloque os dentes de alho, a pimenta dedo-de-moça, o gengibre, os talos e a raiz do coentro, o curry e ½ colher (chá) de sal. Bata até triturar bem todos os ingredientes — pare de bater e raspe as laterais com a espátula quantas vezes forem necessárias.</li>\n<li>Leve uma frigideira de borda alta (ou caçarola baixa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de óleo, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Adicione 1 colher (sopa) de óleo, junte o louro, o açúcar, o extrato de tomate, os temperos batidos e mexa por 1 minuto para perfumar.</li>\n<li>Regue com o leite de coco, misture bem para dissolver os sabores, prove e, se necessário, ajuste o sal do caldo.</li>\n<li>Tempere as postas de peixe com 1 colher (chá) de sal. Coloque as postas de peixe no caldo, abaixe o fogo, tampe a panela e deixe cozinhar por 10 minutos, até que o peixe esteja cozido mas ainda úmido. Sirva a seguir com as ervas frescas e gomos de limão.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Descasque e pique fino a cebola. Com a lateral da faca, amasse os dentes de alho e descasque. Lave e seque a pimenta e os ramos de coentro. Corte a pimenta em pedaços médios (se preferir menos picância, descarte as sementes). Corte os talos do coentro em pedaços médios, só para ficar mais fácil de bater (reserve as folhas inteiras para a finalização). Descasque e corte o gengibre em fatias.</li>\n<li>No miniprocessador de alimentos, coloque os dentes de alho, a pimenta dedo-de-moça, o gengibre, os talos e a raiz do coentro, o curry e ½ colher (chá) de sal. Bata até triturar bem todos os ingredientes — pare de bater e raspe as laterais com a espátula quantas vezes forem necessárias.</li>\n<li>Leve uma frigideira de borda alta (ou caçarola baixa) ao fogo médio para aquecer. Regue com 1 colher (sopa) de óleo, acrescente a cebola, tempere com uma pitada de sal e refogue por cerca de 3 minutos, até começar a dourar. Adicione 1 colher (sopa) de óleo, junte o louro, o açúcar, o extrato de tomate, os temperos batidos e mexa por 1 minuto para perfumar.</li>\n<li>Regue com o leite de coco, misture bem para dissolver os sabores, prove e, se necessário, ajuste o sal do caldo.</li>\n<li>Tempere as postas de peixe com 1 colher (chá) de sal. Coloque as postas de peixe no caldo, abaixe o fogo, tampe a panela e deixe cozinhar por 10 minutos, até que o peixe esteja cozido mas ainda úmido. Sirva a seguir com as ervas frescas e gomos de limão.</li>\n</ol>\n"
+}

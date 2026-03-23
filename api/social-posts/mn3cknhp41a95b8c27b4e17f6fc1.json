@@ -1,0 +1,55 @@
+{
+  "id": "mn3cknhp41a95b8c27b4e17f6fc1",
+  "title": "Macarrão de forno com frango",
+  "slug": "receitas/macarr_o_de_forno_com_frango",
+  "url": "https://receitas.pgalvao.com.br/receitas/macarr_o_de_forno_com_frango/mn3cknhp41a95b8c27b4e17f6fc1/",
+  "deeplink": "boil://receita?rid=mn3cknhp41a95b8c27b4e17f6fc1",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_de_forno_com_frango.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_de_forno_com_frango.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_de_forno_com_frango.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_de_forno_com_frango.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/macarr_o_de_forno_com_frango.jpg"
+  },
+  "ingredients": [
+    "1 sachê de molho de tomate (300 gramas)",
+    "1 caixinha de creme de leite (200 gramas)",
+    "Sal a gosto",
+    "Pimenta-do-reino a gosto",
+    "Frango cozido e desfiado (250 gramas)",
+    "300 gramas de macarrão",
+    "Queijo mussarela ralado a gosto",
+    "Em uma tigela, acrescente o molho, o creme de leite, o sal e a pimenta. Misture tudo com uma colher para homogeneizar;",
+    "Transfira o macarrão para um refratário que possa ir ao forno e salpique a mussarela ralada por cima. Leve para gratinar a 180 ºC, por cerca de 10 minutinhos;"
+  ],
+  "steps": [
+    "Optamos pelo molho de tomate pronto para mais praticidade, mas um molho caseiro também fica muito saboroso. Coloque todos os ingredientes sobre a bancada;",
+    "Em uma tigela, acrescente o molho, o creme de leite, o sal e a pimenta. Misture tudo com uma colher para homogeneizar;",
+    "Adicione o frango já cozido, temperado e desfiado na tigela. Misture novamente para espalhar todos os ingredientes;",
+    "Cozinhe o macarrão conforme as instruções da embalagem. Em seguida, junte-o com o molho de frango cremoso e mexa mais uma vez;",
+    "Transfira o macarrão para um refratário que possa ir ao forno e salpique a mussarela ralada por cima. Leve para gratinar a 180 ºC, por cerca de 10 minutinhos;",
+    "Está pronto seu macarrão de forno com frango. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Macarrão de forno com frango",
+    "caption_medium": "Macarrão de forno com frango Ingredientes: 1 sachê de molho de tomate (300 gramas), 1 caixinha de creme de leite (200 gramas), Sal a gosto, Pimenta-do-reino a gosto, Frango cozido e desfiado (250 gramas). Modo de preparo: Optamos pelo molho de tomate pronto para mais praticidade, mas um molho caseiro também fica muito saboroso. Coloque todos os ingredientes sobre a bancada;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#prático",
+      "#fácil"
+    ]
+  }
+}

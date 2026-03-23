@@ -1,0 +1,48 @@
+{
+  "id": "mn3cko6tc6b73e85ab1b74f8ff69",
+  "title": "Salgado maromba de frango e batata-doce",
+  "slug": "receitas/salgado-maromba-de-frango-e-batata-doce__be376f7a",
+  "url": "https://receitas.pgalvao.com.br/receitas/salgado-maromba-de-frango-e-batata-doce__be376f7a/mn3cko6tc6b73e85ab1b74f8ff69/",
+  "deeplink": "boil://receita?rid=mn3cko6tc6b73e85ab1b74f8ff69",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salgado-maromba-de-frango-e-batata-doce__be376f7a_01.webp"
+  },
+  "ingredients": [
+    "300 gramas de batata-doce cozida",
+    "150 gramas de frango desfiado",
+    "1 gema",
+    "50 gramas de queijo ralado",
+    "Sal e pimenta a gosto"
+  ],
+  "steps": [
+    "Descasque e amasse bem a batata-doce.",
+    "Com a mão, misture todos os ingredientes.",
+    "Unte uma forma e faça bolinhas com a massa.",
+    "Coloque no forno a 180 °C por cerca de 20 minutos.",
+    "Agora é só servir."
+  ],
+  "social": {
+    "caption_short": "Salgado maromba de frango e batata-doce",
+    "caption_medium": "Salgado maromba de frango e batata-doce Ingredientes: 300 gramas de batata-doce cozida, 150 gramas de frango desfiado, 1 gema, 50 gramas de queijo ralado, Sal e pimenta a gosto. Modo de preparo: Descasque e amasse bem a batata-doce.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

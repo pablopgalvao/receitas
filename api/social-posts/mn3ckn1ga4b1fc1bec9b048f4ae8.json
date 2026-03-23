@@ -1,0 +1,48 @@
+{
+  "id": "mn3ckn1ga4b1fc1bec9b048f4ae8",
+  "title": "Bolo de leite em pó",
+  "slug": "receitas/bolo-de-leite-em-po__c6ca1fd4",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-leite-em-po__c6ca1fd4/mn3ckn1ga4b1fc1bec9b048f4ae8/",
+  "deeplink": "boil://receita?rid=mn3ckn1ga4b1fc1bec9b048f4ae8",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-leite-em-po__c6ca1fd4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-leite-em-po__c6ca1fd4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-leite-em-po__c6ca1fd4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-leite-em-po__c6ca1fd4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-leite-em-po__c6ca1fd4_01.webp"
+  },
+  "ingredients": [
+    "1 lata de leite condensado (395 gramas)",
+    "1 caixa de creme de leite (200 gramas)",
+    "2 colheres de sopa de manteiga",
+    "1 xícara de chá de leite em pó",
+    "Leite em pó para decorar"
+  ],
+  "steps": [
+    "Em uma tigela de batedeira, peneire e misture os ingredientes secos, com exceção do fermento;",
+    "Depois, acrescente os ovos e o óleo. Ligue a batedeira e bata bem. Nesse momento, a massa vai ficar bem pesada;",
+    "Quando a massa estiver bem misturada, acrescente a água fervente e bata mais, até ficar homogêneo;",
+    "Por último, acrescente o fermento em pó e mexa mais um pouco, desta vez usando uma colher;",
+    "Transfira a massa para uma forma grande, untada e enfarinhada, e leve para assar em forno preaquecido a 180 °C, por cerca de 50 minutos, ou até que você espete um palito e ele saia limpo."
+  ],
+  "social": {
+    "caption_short": "Bolo de leite em pó",
+    "caption_medium": "Bolo de leite em pó Ingredientes: 1 lata de leite condensado (395 gramas), 1 caixa de creme de leite (200 gramas), 2 colheres de sopa de manteiga, 1 xícara de chá de leite em pó, Leite em pó para decorar. Modo de preparo: Em uma tigela de batedeira, peneire e misture os ingredientes secos, com exceção do fermento;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

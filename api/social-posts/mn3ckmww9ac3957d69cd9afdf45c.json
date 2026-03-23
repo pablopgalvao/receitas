@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckmww9ac3957d69cd9afdf45c",
+  "title": "Arroz de forno com carne moída",
+  "slug": "receitas/arroz-de-forno-com-carne-moida__3bc031a3",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz-de-forno-com-carne-moida__3bc031a3/mn3ckmww9ac3957d69cd9afdf45c/",
+  "deeplink": "boil://receita?rid=mn3ckmww9ac3957d69cd9afdf45c",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-com-carne-moida__3bc031a3_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-com-carne-moida__3bc031a3_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-com-carne-moida__3bc031a3_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-com-carne-moida__3bc031a3_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/arroz-de-forno-com-carne-moida__3bc031a3_01.webp"
+  },
+  "ingredients": [
+    "400 gramas de requeijão cremoso",
+    "2 ovos",
+    "3 colheres de sopa de parmesão ralado",
+    "4 xícaras de chá de arroz cozido",
+    "200 gramas de presunto picado",
+    "Queijo ralado para finalizar",
+    "Orégano a gosto"
+  ],
+  "steps": [
+    "Em uma panela, adicione o azeite e refogue a cebola até ela murchar;",
+    "Acrescente o alho e refogue até dourar;",
+    "Coloque a carne moída e deixe cozinhar bem até ela ficar marronzinha;",
+    "Tempere com o curry, páprica, sal, pimenta, salsinha e misture bem;",
+    "Acrescente o pimentão, o tomate, as azeitonas, o molho de tomate, o cheiro verde, misture e deixe cozinhar até engrossar o molho."
+  ],
+  "social": {
+    "caption_short": "Arroz de forno com carne moída",
+    "caption_medium": "Arroz de forno com carne moída Ingredientes: 400 gramas de requeijão cremoso, 2 ovos, 3 colheres de sopa de parmesão ralado, 4 xícaras de chá de arroz cozido, 200 gramas de presunto picado. Modo de preparo: Em uma panela, adicione o azeite e refogue a cebola até ela murchar;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

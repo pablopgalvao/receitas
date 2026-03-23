@@ -1,0 +1,53 @@
+{
+  "id": "mn3cknbx93d982cf28ddbe9c160a",
+  "title": "Fritada de abobrinha",
+  "slug": "receitas/fritada-de-abobrinha__6144a411",
+  "url": "https://receitas.pgalvao.com.br/receitas/fritada-de-abobrinha__6144a411/mn3cknbx93d982cf28ddbe9c160a/",
+  "deeplink": "boil://receita?rid=mn3cknbx93d982cf28ddbe9c160a",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-abobrinha__6144a411_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-abobrinha__6144a411_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-abobrinha__6144a411_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-abobrinha__6144a411_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/fritada-de-abobrinha__6144a411_01.webp"
+  },
+  "ingredients": [
+    "2 abobrinhas",
+    "2 ovos",
+    "50 gramas de queijo ralado",
+    "Sal a gosto",
+    "Pimenta-do-reino a gosto",
+    "Azeite ou manteiga para grelhar"
+  ],
+  "steps": [
+    "Com a bancada organizada, comece lavando bem a abobrinha;",
+    "Em seguida, use um ralador para que fique bem fininha;",
+    "Transfira esse conteúdo para uma peneira ou pano limpo. Esprema bem com as mãos ou use o pano de prato para retirar o máximo de água possível;",
+    "Coloque essa abobrinha espremida em uma tigela. Tempere com sal e pimenta-do-reino;",
+    "Acrescente os ovos e o queijo, misturando bem para tudo se incorporar. Reserve;",
+    "Em uma frigideira, coloque um fio de azeite ou um pouco de manteiga e leve ao fogo médio, espalhando bem por todo o seu fundo;",
+    "Despeje uma porção da massa de abobrinha e espalhe com uma espátula, formando um disco de espessura média. Deixe dourar de 2 a 3 minutos;",
+    "Com a ajuda da mesma espátula, vire a fritada para dourar do outro lado. Deixe por mais 2 minutos;",
+    "Repita o processo com o restante da massa e está pronto! Douradinha por fora e macia por dentro, além de ser uma opção levíssima."
+  ],
+  "social": {
+    "caption_short": "Fritada de abobrinha",
+    "caption_medium": "Fritada de abobrinha Ingredientes: 2 abobrinhas, 2 ovos, 50 gramas de queijo ralado, Sal a gosto, Pimenta-do-reino a gosto. Modo de preparo: Com a bancada organizada, comece lavando bem a abobrinha;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

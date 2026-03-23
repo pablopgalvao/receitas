@@ -1,0 +1,56 @@
+{
+  "id": "mn3cknpk560a5e122aab73ef1bc8",
+  "title": "Pão caseiro de batata-doce",
+  "slug": "receitas/pao-caseiro-de-batata-doce__8792fefd",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-caseiro-de-batata-doce__8792fefd/mn3cknpk560a5e122aab73ef1bc8/",
+  "deeplink": "boil://receita?rid=mn3cknpk560a5e122aab73ef1bc8",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-de-batata-doce__8792fefd_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-de-batata-doce__8792fefd_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-de-batata-doce__8792fefd_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-de-batata-doce__8792fefd_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-caseiro-de-batata-doce__8792fefd_01.webp"
+  },
+  "ingredients": [
+    "1 batata-doce média cortada em rodelas",
+    "500 ml de água",
+    "½ colher de sopa de açúcar",
+    "½ colher de chá de sal",
+    "¼ xícara de chá de óleo",
+    "1 pacotinho de fermento biológico seco",
+    "500 gramas de farinha de trigo"
+  ],
+  "steps": [
+    "Em uma panela, cozinhe a batata até ficar macia.",
+    "Depois, coloque a batata no liquidificador junto com a água do cozimento e bata bem.",
+    "Depois que a batata amornar, coloque em uma tigela.",
+    "Adicione o açúcar, o sal, o óleo e o fermento biológico seco.",
+    "Aos poucos, acrescente a farinha de trigo até ficar em ponto de sovar.",
+    "Sove a massa por alguns minutos.",
+    "Cubra e deixe crescer por 1 hora.",
+    "Divida a massa em 2, colocando uma metade em cada forma.",
+    "Cubra novamente e deixe crescer por mais 1 hora.",
+    "Asse em forno preaquecido a 180 ºC por cerca de 25 a 30 minutos.",
+    "Pronto! Sirva e aproveite."
+  ],
+  "social": {
+    "caption_short": "Pão caseiro de batata-doce",
+    "caption_medium": "Pão caseiro de batata-doce Ingredientes: 1 batata-doce média cortada em rodelas, 500 ml de água, ½ colher de sopa de açúcar, ½ colher de chá de sal, ¼ xícara de chá de óleo. Modo de preparo: Em uma panela, cozinhe a batata até ficar macia.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

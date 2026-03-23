@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckncrc7875c263e6b0d50bc06",
+  "title": "Geleia de morango",
+  "slug": "receitas/geleia-de-morango__019aa63b",
+  "url": "https://receitas.pgalvao.com.br/receitas/geleia-de-morango__019aa63b/mn3ckncrc7875c263e6b0d50bc06/",
+  "deeplink": "boil://receita?rid=mn3ckncrc7875c263e6b0d50bc06",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-de-morango__019aa63b_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-de-morango__019aa63b_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-de-morango__019aa63b_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-de-morango__019aa63b_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/geleia-de-morango__019aa63b_01.webp"
+  },
+  "ingredients": [
+    "1 kg de morangos",
+    "2 maçãs",
+    "400 gramas de açúcar",
+    "Suco de ½ limão"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Separe os morangos, lave-os bem e pique grosseiramente;",
+    "Descasque as maçãs e rale-as;",
+    "Em um liquidificador, coloque as frutas e bata até ficar homogêneo (caso queira uma geleia com pedacinhos da fruta, não bata muito);",
+    "Transfira todos os ingredientes para uma panela alta, misture e leve ao fogo baixo por cerca de 15 minutos ou até dar o ponto;",
+    "Quando começar a levantar fervura, irá começar a formar uma espuma na superfície, vá retirando ela com uma colher ou espumadeira;",
+    "Para saber se a geleia chegou no ponto, basta colocar um pouco dela sobre um pires, deixar esfriar uns minutos e ao inclinar o recipiente, ela escorrer lentamente;",
+    "Despeje a geleia em um pote de vidro com tampa esterilizado e conserve na geladeira. Agora é só servir."
+  ],
+  "social": {
+    "caption_short": "Geleia de morango",
+    "caption_medium": "Geleia de morango Ingredientes: 1 kg de morangos, 2 maçãs, 400 gramas de açúcar, Suco de ½ limão. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

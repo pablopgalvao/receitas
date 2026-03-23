@@ -1,0 +1,54 @@
+{
+  "id": "mn3cko6v9fbdc47ae96b18ac7909",
+  "title": "Salmão com batata na airfryer",
+  "slug": "receitas/salmao-com-batata-na-airfryer__031bd1fe",
+  "url": "https://receitas.pgalvao.com.br/receitas/salmao-com-batata-na-airfryer__031bd1fe/mn3cko6v9fbdc47ae96b18ac7909/",
+  "deeplink": "boil://receita?rid=mn3cko6v9fbdc47ae96b18ac7909",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-com-batata-na-airfryer__031bd1fe_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-com-batata-na-airfryer__031bd1fe_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-com-batata-na-airfryer__031bd1fe_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-com-batata-na-airfryer__031bd1fe_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/salmao-com-batata-na-airfryer__031bd1fe_01.webp"
+  },
+  "ingredients": [
+    "400 gramas de filé de salmão",
+    "2 colheres de sopa de caldo do limão (30 ml)",
+    "2 batatas (por pessoa)",
+    "2 ramos de alecrim",
+    "1 colher de chá de sal ou a gosto",
+    "¼ de colher de chá de pimenta-do-reino ou a gosto",
+    "1 colher de chá de azeite (10 ml)",
+    "1 colher de café de lemon pepper"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes do salmão com batata na airfryer;",
+    "Em um recipiente, coloque os filés de salmão e, usando um garfo, faça pequenos furinhos no salmão e tempere-o com sal, pimenta-do-reino e caldo de limão. Deixe marinar por pelo menos 30 minutos;",
+    "Em uma tábua, descasque as batatas e corte em tamanhos parecidos, de mais ou menos 2 cm, estilo batata rústica;",
+    "Depois, leve as batatas a uma panela com água e sal, em fogo alto. Assim que começar a ferver, deixe cozinhar por 3 minutos;",
+    "Passado o tempo necessário, escorra a água e disponha as batatas no fundo do cesto da airfryer, fazendo uma cama para os filés de salmão;",
+    "Sobre as batatas, acomode os filés de salmão e regue com um fio de azeite. Leve para a fritadeira preaquecida a 180 ºC por 10 minutos (caso suas postas sejam mais largar, coloque a 200ºC por 15 minutos);",
+    "Passado esse tempo, coloque os ramos de alecrim e vire as batatas e o peixe. Deixe por mais 6 minutos ou até dourar;",
+    "Chegou o momento de se deliciar! Prepare uma saladinha refrescante e sirva com essa refeição completa e saborosa. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Salmão com batata na airfryer",
+    "caption_medium": "Salmão com batata na airfryer Ingredientes: 400 gramas de filé de salmão, 2 colheres de sopa de caldo do limão (30 ml), 2 batatas (por pessoa), 2 ramos de alecrim, 1 colher de chá de sal ou a gosto. Modo de preparo: Reúna todos os ingredientes do salmão com batata na airfryer;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

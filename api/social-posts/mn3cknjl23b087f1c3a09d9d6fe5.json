@@ -1,0 +1,53 @@
+{
+  "id": "mn3cknjl23b087f1c3a09d9d6fe5",
+  "title": "Molho para cachorro-quente",
+  "slug": "receitas/molho-para-cachorro-quente__0cc8098f",
+  "url": "https://receitas.pgalvao.com.br/receitas/molho-para-cachorro-quente__0cc8098f/mn3cknjl23b087f1c3a09d9d6fe5/",
+  "deeplink": "boil://receita?rid=mn3cknjl23b087f1c3a09d9d6fe5",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-para-cachorro-quente__0cc8098f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-para-cachorro-quente__0cc8098f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-para-cachorro-quente__0cc8098f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-para-cachorro-quente__0cc8098f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/molho-para-cachorro-quente__0cc8098f_01.webp"
+  },
+  "ingredients": [
+    "3 colheres de sopa de óleo",
+    "3 dentes de alho amassados",
+    "1 cebola grande picada",
+    "1 pimentão picado",
+    "4 tomates sem sementes picados",
+    "Sal a gosto",
+    "Cheiro-verde a gosto",
+    "400 gramas de molho de tomate",
+    "2 latas de milho-verde",
+    "1 kg de salsicha (picada ou inteira, como preferir)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque o óleo em uma panela e refogue o alho e a cebola;",
+    "Acrescente o pimentão, os tomates, o sal, o cheio-verde, misture e deixe ferver por cerca de 5 minutos;",
+    "Adicione o molho de tomate, o milho e as salsichas, misture e deixe cozinhar por cerca de 10 minutos;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Molho para cachorro-quente",
+    "caption_medium": "Molho para cachorro-quente Ingredientes: 3 colheres de sopa de óleo, 3 dentes de alho amassados, 1 cebola grande picada, 1 pimentão picado, 4 tomates sem sementes picados. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

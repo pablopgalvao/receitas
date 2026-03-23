@@ -1,0 +1,52 @@
+{
+  "id": "mn3cknb6eb4b892ae0377cfa2ba9",
+  "title": "Frango à pizzaiolo",
+  "slug": "receitas/frango-a-pizzaiolo__70e4b3b4",
+  "url": "https://receitas.pgalvao.com.br/receitas/frango-a-pizzaiolo__70e4b3b4/mn3cknb6eb4b892ae0377cfa2ba9/",
+  "deeplink": "boil://receita?rid=mn3cknb6eb4b892ae0377cfa2ba9",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-pizzaiolo__70e4b3b4_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-pizzaiolo__70e4b3b4_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-pizzaiolo__70e4b3b4_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-pizzaiolo__70e4b3b4_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/frango-a-pizzaiolo__70e4b3b4_01.webp"
+  },
+  "ingredients": [
+    "500 gramas de filé de frango cortados finamente",
+    "Sal e pimenta-do-reino a gosto",
+    "1 colher de sopa de azeite",
+    "1 xícara de chá de molho de tomate",
+    "200 gramas de queijo mussarela ralado",
+    "1 e ½ tomate cortados em rodelas bem finas",
+    "1 pitada de orégano seco"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em um recipiente, tempere os filés com sal e pimenta;",
+    "Regue uma frigideira com o azeite e, assim que estiver quente, grelhe os frangos de ambos os lados. Reserve;",
+    "Forre o fundo de um refratário com o molho de tomate;",
+    "Disponha os filés sobre o molho e salpique o queijo por cima;",
+    "Acomode, sobre o queijo, as rodelas de tomate, tempere com orégano e leve ao forno preaquecido a 180 ºC por cerca de 20 minutos;",
+    "Está pronto! Sirva e aproveite."
+  ],
+  "social": {
+    "caption_short": "Frango à pizzaiolo",
+    "caption_medium": "Frango à pizzaiolo Ingredientes: 500 gramas de filé de frango cortados finamente, Sal e pimenta-do-reino a gosto, 1 colher de sopa de azeite, 1 xícara de chá de molho de tomate, 200 gramas de queijo mussarela ralado. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

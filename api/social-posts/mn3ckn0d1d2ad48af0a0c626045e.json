@@ -1,0 +1,56 @@
+{
+  "id": "mn3ckn0d1d2ad48af0a0c626045e",
+  "title": "Bolo de banana e maçã com canela",
+  "slug": "receitas/bolo-de-banana-e-maca-com-canela__daf338fb",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-banana-e-maca-com-canela__daf338fb/mn3ckn0d1d2ad48af0a0c626045e/",
+  "deeplink": "boil://receita?rid=mn3ckn0d1d2ad48af0a0c626045e",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-e-maca-com-canela__daf338fb_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-e-maca-com-canela__daf338fb_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-e-maca-com-canela__daf338fb_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-e-maca-com-canela__daf338fb_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-banana-e-maca-com-canela__daf338fb_01.webp"
+  },
+  "ingredients": [
+    "2 xícaras de chá de farinha de trigo",
+    "1 e ½ xícara de chá de açúcar",
+    "1 colher de sopa de fermento químico",
+    "5 bananas picadas",
+    "4 maçã picadas",
+    "4 ovos",
+    "½ xícara de chá de leite",
+    "Canela em pó a gosto",
+    "½ xícara de chá de açúcar"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Coloque a farinha, o açúcar e o fermento em uma tigela e misture;",
+    "Em outra tigela, misture as bananas e as maçãs;",
+    "Forre o fundo de uma forma untada com metade da mistura dos ingredientes secos;",
+    "Espalhe metade das frutas sobre os ingredientes secos, sem atingir a superfície da forma. Na sequência, faça outra camada com os secos e mais uma de frutas;",
+    "Em uma tigela, bata levemente os ovos, adicione o leite, e misture;",
+    "Com cuidado, espalhe a mistura sobre a massa;",
+    "Misture a canela e o açúcar, polvilhe sobre a massa, e asse-a em forno pré-aquecido a 180º graus por cerca de 40 minutos;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de banana e maçã com canela",
+    "caption_medium": "Bolo de banana e maçã com canela Ingredientes: 2 xícaras de chá de farinha de trigo, 1 e ½ xícara de chá de açúcar, 1 colher de sopa de fermento químico, 5 bananas picadas, 4 maçã picadas. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

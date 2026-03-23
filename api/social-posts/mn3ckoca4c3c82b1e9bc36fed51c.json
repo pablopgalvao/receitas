@@ -1,0 +1,52 @@
+{
+  "id": "mn3ckoca4c3c82b1e9bc36fed51c",
+  "title": "Strogonoff de palmito",
+  "slug": "receitas/strogonoff-de-palmito__db7c495e",
+  "url": "https://receitas.pgalvao.com.br/receitas/strogonoff-de-palmito__db7c495e/mn3ckoca4c3c82b1e9bc36fed51c/",
+  "deeplink": "boil://receita?rid=mn3ckoca4c3c82b1e9bc36fed51c",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-palmito__db7c495e_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-palmito__db7c495e_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-palmito__db7c495e_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-palmito__db7c495e_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/strogonoff-de-palmito__db7c495e_01.webp"
+  },
+  "ingredients": [
+    "1 pote de palmito em conserva (500 gramas)",
+    "1 cebola picada",
+    "1 colher de chá de azeite",
+    "1 colher de chá de manteiga",
+    "¼ xícara de chá de conhaque",
+    "1 colher de sopa de molho inglês",
+    "1 xícara de chá de molho de tomate",
+    "200 gramas de creme de leite fresco ou de caixinha",
+    "Cebolinha picada a gosto"
+  ],
+  "steps": [
+    "Descarte a água da conserva do palmito e corte eles em rodelas. Reserve.",
+    "Em uma frigideira grande, derreta a manteiga com o azeite e refogue a cebola.",
+    "Adicione o palmito e o conhaque. Misture e deixe cozinhar por 2 minutos.",
+    "Acrescente o molho inglês, o molho de tomate e o creme de leite. Misture bem e deixe ferver.",
+    "Finalize com a cebolinha e sirva. Bom apetite."
+  ],
+  "social": {
+    "caption_short": "Strogonoff de palmito",
+    "caption_medium": "Strogonoff de palmito Ingredientes: 1 pote de palmito em conserva (500 gramas), 1 cebola picada, 1 colher de chá de azeite, 1 colher de chá de manteiga, ¼ xícara de chá de conhaque. Modo de preparo: Descarte a água da conserva do palmito e corte eles em rodelas. Reserve.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

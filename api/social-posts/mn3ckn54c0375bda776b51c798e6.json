@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckn54c0375bda776b51c798e6",
+  "title": "Cartola de banana",
+  "slug": "receitas/cartola-de-banana__65e2a095",
+  "url": "https://receitas.pgalvao.com.br/receitas/cartola-de-banana__65e2a095/mn3ckn54c0375bda776b51c798e6/",
+  "deeplink": "boil://receita?rid=mn3ckn54c0375bda776b51c798e6",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cartola-de-banana__65e2a095_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cartola-de-banana__65e2a095_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cartola-de-banana__65e2a095_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cartola-de-banana__65e2a095_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/cartola-de-banana__65e2a095_01.webp"
+  },
+  "ingredients": [
+    "2 bananas",
+    "70 gramas de queijo manteiga",
+    "1 colher de sopa de manteiga",
+    "1 colher de sopa de açúcar",
+    "Canela em pó a gosto"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes;",
+    "Em uma tábua, corte as bananas ao meio no sentido do comprimento. Reserve;",
+    "Em fogo alto, aqueça a manteiga em uma frigideira;",
+    "Acomode as bananas na frigideira e, após 1 minuto, vire a fruta com uma espátula, para dourar do outro lado. Reserve;",
+    "Ainda na frigideira em que fez as bananas, doure o queijo manteiga em ambos os lados, tomando muito cuidado para não queimar. Reserve;",
+    "Em seguida, misture o açúcar com a canela em um recipiente;",
+    "Por fim, acomode as bananas lado a lado em um prato, coloque o queijo por cima e salpique a mistura de canela. Sirva e aproveite!"
+  ],
+  "social": {
+    "caption_short": "Cartola de banana",
+    "caption_medium": "Cartola de banana Ingredientes: 2 bananas, 70 gramas de queijo manteiga, 1 colher de sopa de manteiga, 1 colher de sopa de açúcar, Canela em pó a gosto. Modo de preparo: Reúna todos os ingredientes;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

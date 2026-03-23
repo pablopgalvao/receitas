@@ -1,0 +1,49 @@
+{
+  "id": "mn3ckmxm5c35d0f1c877372fe111",
+  "title": "Azeitona marinada com laranja",
+  "slug": "receitas/azeitona_marinada_com_laranja",
+  "url": "https://receitas.pgalvao.com.br/receitas/azeitona_marinada_com_laranja/mn3ckmxm5c35d0f1c877372fe111/",
+  "deeplink": "boil://receita?rid=mn3ckmxm5c35d0f1c877372fe111",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeitona_marinada_com_laranja.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeitona_marinada_com_laranja.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeitona_marinada_com_laranja.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeitona_marinada_com_laranja.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/azeitona_marinada_com_laranja.jpg"
+  },
+  "ingredients": [
+    "Manteiga de azeitona",
+    "3 xícaras (chá) de azeitona verde com caroço (cerca de 450 g drenadas)",
+    "1½ xícara (chá) de azeite Andorinha",
+    "1 colher (sopa) de semente de erva-doce",
+    "1½ colher (chá) de pimenta calabresa seca"
+  ],
+  "steps": [
+    "Lave e seque bem as laranjas. Com o descascador de legumes, faça tiras curtas da casca, com cuidado para não extrair a parte branca, que é amarga (se preferir, use uma faca de legumes bem afiada).",
+    "Numa panela pequena, coloque o azeite, a pimenta calabresa, a erva-doce e leve ao fogo baixo por cerca de 5 minutos, apenas para aquecer e aromatizar o azeite — não é para ferver. Quando começarem a surgir pequenas bolhas, desligue o fogo. Adicione as tiras de laranja, o tomilho debulhado e misture — eles liberam aroma no calor residual do azeite.",
+    "Numa tigela de vidro média, coloque as azeitonas e regue com o azeite aromatizado ainda quente — quanto mais imersas as azeitonas ficarem, melhor.",
+    "Deixe esfriar completamente antes de tampar e levar à geladeira por, no mínimo, 4 horas — assim as azeitonas absorvem melhor os sabores do azeite. Se preferir, prepare no dia anterior ou até 1 mês antes de servir. Quanto mais tempo as azeitonas permanecerem marinadas, mais saborosas elas ficarão."
+  ],
+  "social": {
+    "caption_short": "Azeitona marinada com laranja",
+    "caption_medium": "Azeitona marinada com laranja Ingredientes: Manteiga de azeitona, 3 xícaras (chá) de azeitona verde com caroço (cerca de 450 g drenadas), 1½ xícara (chá) de azeite Andorinha, 1 colher (sopa) de semente de erva-doce, 1½ colher (chá) de pimenta calabresa seca. Modo de preparo: Lave e seque bem as laranjas. Com o descascador de legumes, faça tiras curtas da casca, com cuidado para não extrair a parte branca, que é amarga (se preferir, use uma faca de legumes bem afiada).",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#brasil",
+      "#tradicional"
+    ]
+  }
+}

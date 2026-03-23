@@ -1,0 +1,75 @@
+{
+  "id": "mn3ckn7j0be3f20bbf090addac49",
+  "title": "Crostini de feijão-branco",
+  "slug": "receitas/crostini_de_feij_o_branco",
+  "url": "https://receitas.pgalvao.com.br/receitas/crostini_de_feij_o_branco/mn3ckn7j0be3f20bbf090addac49/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckn7j0be3f20bbf090addac49.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckn7j0be3f20bbf090addac49.json",
+  "deeplink": "boil://receita?rid=mn3ckn7j0be3f20bbf090addac49",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.967Z",
+  "time": "3 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "caseiro",
+    "prático"
+  ],
+  "ingredients": [
+    "2 latas de feijão-branco cozido (3 xícaras (chá) do grão cozido)",
+    "¼ de xícara (chá) de azeite",
+    "⅓ de xícara (chá) de salsinha",
+    "½ xícara (chá) de azeitona verde sem caroço (cerca de 70 g)",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "folhas de salsinha a gosto para servir",
+    "azeite a gosto para servir",
+    "Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) de azeite, adicione a cebola e o dente de alho. Refogue por 3 minutos até a cebola murchar bem.",
+    "Transfira a pasta de feijão para uma tigela e deixe esfriar em temperatura ambiente. Enquanto isso, lave seque e pique grosseiramente a salsinha. Descarte o caroço e pique fino as azeitonas. Numa tigela pequena misture as azeitonas, a salsinha, as raspas de limão siciliano e ⅓ de xícara (chá) de azeite."
+  ],
+  "steps": [
+    "Na pia, escorra bem a água do feijão-branco por uma peneira. Reserve.",
+    "Com a lateral da faca, amasse o dente de alho e descarte a casca. Descasque e pique bem fininho a cebola.",
+    "Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) de azeite, adicione a cebola e o dente de alho. Refogue por 3 minutos até a cebola murchar bem.",
+    "Junte os grãos de feijão, tempere com sal e pimenta a gosto e misture bem. Atenção: tempere com cuidado e aos poucos, pois alguns feijões enlatados são mais salgados que outros. Mexa por alguns minutos apenas para o feijão aquecer e absorver os sabores do refogado.",
+    "Descarte o dente de alho e amasse os grãos de feijão refogados ainda quentes, na própria frigideira, com um garfo, até formar uma pastinha rústica, ainda com pedaços – caso a pastinha esteja muito seca, regue com água filtrada aos poucos enquanto amassa.",
+    "Transfira a pasta de feijão para uma tigela e deixe esfriar em temperatura ambiente. Enquanto isso, lave seque e pique grosseiramente a salsinha. Descarte o caroço e pique fino as azeitonas. Numa tigela pequena misture as azeitonas, a salsinha, as raspas de limão siciliano e ⅓ de xícara (chá) de azeite.",
+    "Corte o pão italiano em fatias de 1 cm. Leve uma bistequeira (ou grelha) ao fogo médio. Quando estiver bem quente, coloque quantas fatias couberem uma ao lado da outra e deixe dourar por 2 minutos apenas de um lado.",
+    "Para montar os crostinis: espalhe uma porção de pasta de feijão branco e regue com um pouco do molho de azeitona. Sirva a seguir"
+  ],
+  "excerpt": "Crostini de feijão-branco. Tempo de preparo: 3 min. Ingrediente em destaque: 2 latas de feijão-branco cozido (3 xícaras (chá) do grão cozido). Comece assim: Na pia, escorra bem a água do feijão-branco por uma peneira. Reserve.",
+  "social": {
+    "caption_short": "Crostini de feijão-branco",
+    "caption_medium": "Crostini de feijão-branco Ingredientes: 2 latas de feijão-branco cozido (3 xícaras (chá) do grão cozido), ¼ de xícara (chá) de azeite, ⅓ de xícara (chá) de salsinha, ½ xícara (chá) de azeitona verde sem caroço (cerca de 70 g), sal e pimenta-do-reino moída na hora a gosto. Modo de preparo: Na pia, escorra bem a água do feijão-branco por uma peneira. Reserve.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#caseiro",
+      "#prático"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/crostini_de_feij_o_branco.jpg\" alt=\"Crostini de feijão-branco\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 3 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>2 latas de feijão-branco cozido (3 xícaras (chá) do grão cozido)</li>\n<li>¼ de xícara (chá) de azeite</li>\n<li>⅓ de xícara (chá) de salsinha</li>\n<li>½ xícara (chá) de azeitona verde sem caroço (cerca de 70 g)</li>\n<li>sal e pimenta-do-reino moída na hora a gosto</li>\n<li>folhas de salsinha a gosto para servir</li>\n<li>azeite a gosto para servir</li>\n<li>Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) de azeite, adicione a cebola e o dente de alho. Refogue por 3 minutos até a cebola murchar bem.</li>\n<li>Transfira a pasta de feijão para uma tigela e deixe esfriar em temperatura ambiente. Enquanto isso, lave seque e pique grosseiramente a salsinha. Descarte o caroço e pique fino as azeitonas. Numa tigela pequena misture as azeitonas, a salsinha, as raspas de limão siciliano e ⅓ de xícara (chá) de azeite.</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Na pia, escorra bem a água do feijão-branco por uma peneira. Reserve.</li>\n<li>Com a lateral da faca, amasse o dente de alho e descarte a casca. Descasque e pique bem fininho a cebola.</li>\n<li>Leve uma frigideira média ao fogo médio. Quando aquecer, regue com ¼ de xícara (chá) de azeite, adicione a cebola e o dente de alho. Refogue por 3 minutos até a cebola murchar bem.</li>\n<li>Junte os grãos de feijão, tempere com sal e pimenta a gosto e misture bem. Atenção: tempere com cuidado e aos poucos, pois alguns feijões enlatados são mais salgados que outros. Mexa por alguns minutos apenas para o feijão aquecer e absorver os sabores do refogado.</li>\n<li>Descarte o dente de alho e amasse os grãos de feijão refogados ainda quentes, na própria frigideira, com um garfo, até formar uma pastinha rústica, ainda com pedaços – caso a pastinha esteja muito seca, regue com água filtrada aos poucos enquanto amassa.</li>\n<li>Transfira a pasta de feijão para uma tigela e deixe esfriar em temperatura ambiente. Enquanto isso, lave seque e pique grosseiramente a salsinha. Descarte o caroço e pique fino as azeitonas. Numa tigela pequena misture as azeitonas, a salsinha, as raspas de limão siciliano e ⅓ de xícara (chá) de azeite.</li>\n<li>Corte o pão italiano em fatias de 1 cm. Leve uma bistequeira (ou grelha) ao fogo médio. Quando estiver bem quente, coloque quantas fatias couberem uma ao lado da outra e deixe dourar por 2 minutos apenas de um lado.</li>\n<li>Para montar os crostinis: espalhe uma porção de pasta de feijão branco e regue com um pouco do molho de azeitona. Sirva a seguir</li>\n</ol>\n"
+}

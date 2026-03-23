@@ -1,0 +1,59 @@
+{
+  "id": "mn3cknqx646d911906eea57cee5a",
+  "title": "Pão integral caseiro",
+  "slug": "receitas/pao-integral-caseiro__48756e02",
+  "url": "https://receitas.pgalvao.com.br/receitas/pao-integral-caseiro__48756e02/mn3cknqx646d911906eea57cee5a/",
+  "deeplink": "boil://receita?rid=mn3cknqx646d911906eea57cee5a",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro__48756e02_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro__48756e02_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro__48756e02_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro__48756e02_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/pao-integral-caseiro__48756e02_01.webp"
+  },
+  "ingredients": [
+    "400 ml de água morna (deve estar tolerante ao toque do dedo)",
+    "1 sachê fermento biológico seco (10 gramas)",
+    "3 colheres de sopa de açúcar demerara ou mascavo",
+    "1 colher de chá de sal",
+    "2 ovos",
+    "2 colheres de sopa de azeite de oliva (ou óleo de girassol)",
+    "Cerca de 800 gramas de farinha de trigo integral",
+    "1 fio de azeite"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes do seu pão integral rápido;",
+    "Em uma tigela, coloque a água morna e o fermento. Misture brevemente;",
+    "Depois, adicione o açúcar, misture novamente e cubra com um pano limpo. Deixe descansar por cerca de 15 minutos;",
+    "Passado o tempo, com a mistura fermentada, adicione o sal, os ovos e o azeite. Com o auxílio de um fouet, misture tudo muito bem;",
+    "Aos poucos, vá adicionando a farinha de trigo e mexendo até ela firmar um pouco;",
+    "Com a massa ainda grudando nas mãos, transfira ela para uma bancada limpa e enfarinhada e continue adicionando a farinha até desgrudar das mãos, sovando por 10 a 15 minutos;",
+    "Molde a massa em formato de bola, coloque-a em uma tigela, espalhe um fio de azeite por toda sua extensão - para não ressecar - cubra com um pano limpo e deixe descansar dentro do forno desligado por cerca de 40 minutos ou até dobrar de tamanho;",
+    "Depois que a massa dobrar de tamanho, divida ela em duas partes iguais;",
+    "Com o auxílio de um rolo, em uma bancada enfarinhada, abra a massa e enrole em um formato de “caracol”, apertando a massa levemente. Deixe a ponta da massa virada para baixo;",
+    "Coloque as massas em uma forma enfarinhada, cubra com um pano e deixe descansar por mais 30 minutos ou até a massa dobrar de tamanho;",
+    "Assim que a massa dobrar de tamanho, leve para assar em forno preaquecido a 180ºC por cerca de 20 a 25 minutos;",
+    "Assim que retirar o pão do forno, cubra com um pano e um plástico por cima, para que seu pão não fique “cascudo”;",
+    "Agora é só servir o seu pão integral junto com manteiga, geleias ou o que preferir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Pão integral caseiro",
+    "caption_medium": "Pão integral caseiro Ingredientes: 400 ml de água morna (deve estar tolerante ao toque do dedo), 1 sachê fermento biológico seco (10 gramas), 3 colheres de sopa de açúcar demerara ou mascavo, 1 colher de chá de sal, 2 ovos. Modo de preparo: Reúna todos os ingredientes do seu pão integral rápido;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

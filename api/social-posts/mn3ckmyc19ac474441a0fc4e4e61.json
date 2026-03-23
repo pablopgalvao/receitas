@@ -1,0 +1,45 @@
+{
+  "id": "mn3ckmyc19ac474441a0fc4e4e61",
+  "title": "Batida de coco",
+  "slug": "receitas/batida_de_coco",
+  "url": "https://receitas.pgalvao.com.br/receitas/batida_de_coco/mn3ckmyc19ac474441a0fc4e4e61/",
+  "deeplink": "boil://receita?rid=mn3ckmyc19ac474441a0fc4e4e61",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batida_de_coco.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batida_de_coco.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batida_de_coco.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batida_de_coco.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/batida_de_coco.jpg"
+  },
+  "ingredients": [
+    "¾ de xícara (chá) de cachaça",
+    "200 ml de leite de coco (de preferência caseiro)",
+    "6 colheres (sopa) de leite condensado",
+    "cubos de gelo a gosto"
+  ],
+  "steps": [
+    "No liquidificador coloque todos os ingredientes e junte cubos de gelo a gosto (quanto mais gelada estiver a batidinha melhor). Bata bem para misturar os ingredientes e triturar o gelo. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Batida de coco",
+    "caption_medium": "Batida de coco Ingredientes: ¾ de xícara (chá) de cachaça, 200 ml de leite de coco (de preferência caseiro), 6 colheres (sopa) de leite condensado, cubos de gelo a gosto. Modo de preparo: No liquidificador coloque todos os ingredientes e junte cubos de gelo a gosto (quanto mais gelada estiver a batidinha melhor). Bata bem para misturar os ingredientes e triturar o gelo. Sirva a seguir.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#caseiro",
+      "#tradicional",
+      "#rápido"
+    ]
+  }
+}

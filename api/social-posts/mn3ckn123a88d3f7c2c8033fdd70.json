@@ -1,0 +1,53 @@
+{
+  "id": "mn3ckn123a88d3f7c2c8033fdd70",
+  "title": "Bolo de fubá com queijo ralado",
+  "slug": "receitas/bolo-de-fuba-com-queijo-ralado__d6f80041",
+  "url": "https://receitas.pgalvao.com.br/receitas/bolo-de-fuba-com-queijo-ralado__d6f80041/mn3ckn123a88d3f7c2c8033fdd70/",
+  "deeplink": "boil://receita?rid=mn3ckn123a88d3f7c2c8033fdd70",
+  "date": "2026-01-17T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-queijo-ralado__d6f80041_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-queijo-ralado__d6f80041_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-queijo-ralado__d6f80041_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-queijo-ralado__d6f80041_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/bolo-de-fuba-com-queijo-ralado__d6f80041_01.webp"
+  },
+  "ingredients": [
+    "50 ml de óleo",
+    "200 ml de leite",
+    "2 ovos",
+    "1 xícara de chá de açúcar",
+    "2 xícaras de chá de fubá",
+    "1 xícara de chá de farinha de trigo",
+    "50 gramas de queijo ralado",
+    "1 colher de sopa fermento químico em pó (fermento para bolo)"
+  ],
+  "steps": [
+    "Reúna todos os ingredientes do bolo de fubá com queijo ralado;",
+    "Em um liquidificador, coloque o óleo, o leite, os ovos, o açúcar e o fubá. Bata até obter uma massa lisa e homogênea;",
+    "Em seguida, aos poucos, acrescente a farinha de trigo e bata até incorporar tudo;",
+    "Depois, acrescente o queijo ralado e o fermento. Bata brevemente para misturar;",
+    "Em uma forma untada e enfarinhada com furo no meio, despeje a massa e leve para assar em forno preaquecido a 180ºC por cerca de 35 a 40 minutos;",
+    "Assim que o bolo estiver assado, retire do forno, espere amornar um pouco e desenforme;",
+    "Agora é só servir. Bom apetite!"
+  ],
+  "social": {
+    "caption_short": "Bolo de fubá com queijo ralado",
+    "caption_medium": "Bolo de fubá com queijo ralado Ingredientes: 50 ml de óleo, 200 ml de leite, 2 ovos, 1 xícara de chá de açúcar, 2 xícaras de chá de fubá. Modo de preparo: Reúna todos os ingredientes do bolo de fubá com queijo ralado;",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mn3ckn3q46781e1dbd55b43d993c",
+  "title": "Brócolis no vapor com molho de shoyu",
+  "slug": "receitas/br_colis_no_vapor_com_molho_de_shoyu",
+  "url": "https://receitas.pgalvao.com.br/receitas/br_colis_no_vapor_com_molho_de_shoyu/mn3ckn3q46781e1dbd55b43d993c/",
+  "deeplink": "boil://receita?rid=mn3ckn3q46781e1dbd55b43d993c",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_no_vapor_com_molho_de_shoyu.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_no_vapor_com_molho_de_shoyu.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_no_vapor_com_molho_de_shoyu.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_no_vapor_com_molho_de_shoyu.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/br_colis_no_vapor_com_molho_de_shoyu.jpg"
+  },
+  "ingredients": [
+    "Salada de brócolis branqueado com molho ponzu",
+    "Brócolis ao alho e óleo",
+    "2 colheres (sopa) de shoyu (molho de soja)",
+    "3 colheres (sopa) de açúcar mascavo",
+    "1 colher (sopa) de óleo",
+    "½ colher (chá) de pimenta calabresa seca"
+  ],
+  "steps": [
+    "Descarte a base grossa do talo; vire o brócolis de ponta cabeça na tábua e corte em floretes médios. Transfira para uma tigela e lave bem sob água corrente.",
+    "Complete ⅓ do volume de uma panela média com água e leve ao fogo alto. Assim que começar a ferver, transfira os floretes de brócolis para um cesto (ou peneira) de cozimento a vapor e encaixe sobre a panela. Diminua o fogo, tampe e deixe cozinhar por cerca de 15 minutos, até ficar macio.",
+    "Enquanto isso prepare o molho: num pote de vidro com tampa, junte o shoyu, o açúcar mascavo, o caldo de limão, o óleo e a pimenta calabresa; tampe e chacoalhe bem.",
+    "Disponha os floretes de brócolis num prato, regue com o molho e finalize com a cebolinha fatiada. Sirva a seguir."
+  ],
+  "social": {
+    "caption_short": "Brócolis no vapor com molho de shoyu",
+    "caption_medium": "Brócolis no vapor com molho de shoyu Ingredientes: Salada de brócolis branqueado com molho ponzu, Brócolis ao alho e óleo, 2 colheres (sopa) de shoyu (molho de soja), 3 colheres (sopa) de açúcar mascavo, 1 colher (sopa) de óleo. Modo de preparo: Descarte a base grossa do talo; vire o brócolis de ponta cabeça na tábua e corte em floretes médios. Transfira para uma tigela e lave bem sob água corrente.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#caseiro",
+      "#oriental"
+    ]
+  }
+}

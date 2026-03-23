@@ -1,0 +1,64 @@
+{
+  "id": "mn3ckmxf8775d3abcad7bd160930",
+  "title": "Arroz perfumado com anis-estrelado",
+  "slug": "receitas/arroz_perfumado_com_anis_estrelado",
+  "url": "https://receitas.pgalvao.com.br/receitas/arroz_perfumado_com_anis_estrelado/mn3ckmxf8775d3abcad7bd160930/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckmxf8775d3abcad7bd160930.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckmxf8775d3abcad7bd160930.json",
+  "deeplink": "boil://receita?rid=mn3ckmxf8775d3abcad7bd160930",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_com_anis_estrelado.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_com_anis_estrelado.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_com_anis_estrelado.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_com_anis_estrelado.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_com_anis_estrelado.jpg"
+  },
+  "date": "2026-01-08T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:20.604Z",
+  "time": "10 min",
+  "difficulty": "",
+  "servings": "",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "popular",
+    "prático",
+    "tradicional"
+  ],
+  "ingredients": [
+    "Arroz com cenoura e salsão (mirepoix)",
+    "1½ xícara (chá) de arroz",
+    "3 xícaras (chá) de água"
+  ],
+  "steps": [
+    "Coloque o arroz na panela elétrica, cubra com a água e adicione o anis-estrelado.",
+    "Tampe a panela e acione a alavanca para iniciar o cozimento — o indicador luminoso do painel mudará para a função cozinhar&#x2F;refogar.",
+    "Assim que o arroz estiver cozido, a alavanca de acionamento subirá, indicando que o processo de cozimento terminou e a panela vai manter o arroz aquecido. Sirva a seguir."
+  ],
+  "excerpt": "Arroz perfumado com anis-estrelado. Tempo de preparo: 10 min. Ingrediente em destaque: Arroz com cenoura e salsão (mirepoix). Comece assim: Coloque o arroz na panela elétrica, cubra com a água e adicione o anis-estrelado.",
+  "social": {
+    "caption_short": "Arroz perfumado com anis-estrelado",
+    "caption_medium": "Arroz perfumado com anis-estrelado Ingredientes: Arroz com cenoura e salsão (mirepoix), 1½ xícara (chá) de arroz, 3 xícaras (chá) de água. Modo de preparo: Coloque o arroz na panela elétrica, cubra com a água e adicione o anis-estrelado.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#popular",
+      "#prático",
+      "#tradicional"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/arroz_perfumado_com_anis_estrelado.jpg\" alt=\"Arroz perfumado com anis-estrelado\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> </li>\n<li><strong>Tempo de preparo:</strong> 10 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>Arroz com cenoura e salsão (mirepoix)</li>\n<li>1½ xícara (chá) de arroz</li>\n<li>3 xícaras (chá) de água</li>\n</ul>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Coloque o arroz na panela elétrica, cubra com a água e adicione o anis-estrelado.</li>\n<li>Tampe a panela e acione a alavanca para iniciar o cozimento — o indicador luminoso do painel mudará para a função cozinhar&#x2F;refogar.</li>\n<li>Assim que o arroz estiver cozido, a alavanca de acionamento subirá, indicando que o processo de cozimento terminou e a panela vai manter o arroz aquecido. Sirva a seguir.</li>\n</ol>\n"
+}

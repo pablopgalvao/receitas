@@ -1,0 +1,52 @@
+{
+  "id": "mn3ckod1f10cf37ba61366f3e448",
+  "title": "Suspiro limeño",
+  "slug": "receitas/suspiro_lime_o",
+  "url": "https://receitas.pgalvao.com.br/receitas/suspiro_lime_o/mn3ckod1f10cf37ba61366f3e448/",
+  "deeplink": "boil://receita?rid=mn3ckod1f10cf37ba61366f3e448",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/suspiro_lime_o.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/suspiro_lime_o.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/suspiro_lime_o.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/suspiro_lime_o.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/suspiro_lime_o.jpg"
+  },
+  "ingredients": [
+    "1 xícara (chá) de creme de leite fresco (ou 1 lata de creme de leite sem soro)",
+    "½ xícara (chá) de leite",
+    "Numa tigela pequena, quebre um ovo de cada vez, transfira as 5 gemas para uma tigela grande e reserve 2 claras noutra tigela para o preparo do merengue. Com uma espátula, mexa bem as gemas apenas para soltar a película e misturar.",
+    "2 claras de ovo",
+    "½ xícara (chá) de vinho do Porto",
+    "⅔ de xícara (chá) de açúcar",
+    "canela em pó a gosto",
+    "Numa panela pequena, misture o vinho do Porto com o açúcar. Leve ao fogo baixo para cozinhar, sem mexer, por cerca de 15 minutos até atingir o ponto de fio. Para verificar, mergulhe uma colher e levante um pouco da calda, se formar um fio fino entre as gotas, está pronta."
+  ],
+  "steps": [
+    "Numa tigela pequena, quebre um ovo de cada vez, transfira as 5 gemas para uma tigela grande e reserve 2 claras noutra tigela para o preparo do merengue. Com uma espátula, mexa bem as gemas apenas para soltar a película e misturar.",
+    "Numa panela média, misture o leite condensado com o creme de leite e o leite. Junte a rama de canela e leve ao fogo médio. Mexa por cerca de 20 minutos, até engrossar – para verificar o ponto, incline levemente a panela, o creme deve descolar do fundo.",
+    "Desligue o fogo e acrescente, aos poucos, o creme quente sobre as gemas, mexendo bem com a espátula a cada adição. Não coloque todo o creme de uma só vez para evitar que as gemas cozinhem. Descarte a canela em rama e misture o caldo de limão.",
+    "Com uma concha, transfira o creme de limão ainda quente para a tigela de servir. Leve à geladeira para esfriar por pelo menos 1 hora antes de servir (se preferir, prepare no dia anterior). Enquanto isso, prepare o merengue."
+  ],
+  "social": {
+    "caption_short": "Suspiro limeño",
+    "caption_medium": "Suspiro limeño Ingredientes: 1 xícara (chá) de creme de leite fresco (ou 1 lata de creme de leite sem soro), ½ xícara (chá) de leite, Numa tigela pequena, quebre um ovo de cada vez, transfira as 5 gemas para uma tigela grande e reserve 2 claras noutra tigela para o preparo do merengue. Com uma espátula, mexa bem as gemas apenas para soltar a película e misturar., 2 claras de ovo, ½ xícara (chá) de vinho do Porto. Modo de preparo: Numa tigela pequena, quebre um ovo de cada vez, transfira as 5 gemas para uma tigela grande e reserve 2 claras noutra tigela para o preparo do merengue. Com uma espátula, mexa bem as gemas apenas para soltar a película e misturar.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#sudeste",
+      "#rápido"
+    ]
+  }
+}

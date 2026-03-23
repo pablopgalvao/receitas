@@ -1,0 +1,65 @@
+{
+  "id": "mn3ckne02891b582e8683bcc6b55",
+  "title": "Homus de avocado",
+  "slug": "receitas/homus-de-avocado__38f03d9f",
+  "url": "https://receitas.pgalvao.com.br/receitas/homus-de-avocado__38f03d9f/mn3ckne02891b582e8683bcc6b55/",
+  "api_url": "https://receitas.pgalvao.com.br/api/receitas/mn3ckne02891b582e8683bcc6b55.json",
+  "social_api_url": "https://receitas.pgalvao.com.br/api/social-posts/mn3ckne02891b582e8683bcc6b55.json",
+  "deeplink": "boil://receita?rid=mn3ckne02891b582e8683bcc6b55",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-avocado__38f03d9f_01.webp",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-avocado__38f03d9f_01.webp"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-avocado__38f03d9f_01.webp",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-avocado__38f03d9f_01.webp"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-avocado__38f03d9f_01.webp"
+  },
+  "date": "2026-01-17T03:00:00.000Z",
+  "updated": "2026-03-23T15:35:21.200Z",
+  "time": "20 min",
+  "difficulty": "",
+  "servings": "1 porções",
+  "calories": "",
+  "author": "Lar do chef",
+  "categories": [
+    "Novidades"
+  ],
+  "tags": [
+    "Novo"
+  ],
+  "ingredients": [
+    "1 lata de grão-de-bico",
+    "2 avocados maduros ou um abacate pequeno",
+    "½ colher de chá de pimenta síria",
+    "2 colheres de sopa de tahine",
+    "Suco de 2 limões",
+    "Meia cabeça de alho assado",
+    "Sal a gosto",
+    "Azeite de oliva a gosto"
+  ],
+  "steps": [
+    "Adicione todos os ingredientes no processador e bata até ficar cremoso.",
+    "Prove, acerte o sal e está pronto.",
+    "Agora é só servir. Bom apetite."
+  ],
+  "excerpt": "Homus de avocado. Tempo de preparo: 20 min. Ingrediente em destaque: 1 lata de grão-de-bico. Comece assim: Adicione todos os ingredientes no processador e bata até ficar cremoso.",
+  "social": {
+    "caption_short": "Homus de avocado",
+    "caption_medium": "Homus de avocado Ingredientes: 1 lata de grão-de-bico, 2 avocados maduros ou um abacate pequeno, ½ colher de chá de pimenta síria, 2 colheres de sopa de tahine, Suco de 2 limões. Modo de preparo: Adicione todos os ingredientes no processador e bata até ficar cremoso.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#Novo"
+    ]
+  },
+  "content": "<p><img src=\"https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/boilbot/homus-de-avocado__38f03d9f_01.webp\" alt=\"Homus de avocado\"></p>\n<h2 id=\"📝-Informacoes-da-Receita\"><a href=\"#📝-Informacoes-da-Receita\" class=\"headerlink\" title=\"📝 Informações da Receita\"></a>📝 Informações da Receita</h2><ul>\n<li><strong>Categoria:</strong> Novidades</li>\n<li><strong>Dificuldade:</strong> </li>\n<li><strong>Rendimento:</strong> 1 porções</li>\n<li><strong>Tempo de preparo:</strong> 20 min</li>\n<li><strong>Calorias:</strong></li>\n</ul>\n<hr>\n<h2 id=\"🧄-Ingredientes\"><a href=\"#🧄-Ingredientes\" class=\"headerlink\" title=\"🧄 Ingredientes\"></a>🧄 Ingredientes</h2><ul>\n<li>1 lata de grão-de-bico</li>\n<li>2 avocados maduros ou um abacate pequeno</li>\n<li>½ colher de chá de pimenta síria</li>\n<li>2 colheres de sopa de tahine</li>\n<li>Suco de 2 limões</li>\n<li>Meia cabeça de alho assado</li>\n<li>Sal a gosto</li>\n<li>Azeite de oliva a gosto</li>\n</ul>\n<hr>\n<hr>\n<h2 id=\"👨‍🍳-Modo-de-Preparo\"><a href=\"#👨‍🍳-Modo-de-Preparo\" class=\"headerlink\" title=\"👨‍🍳 Modo de Preparo\"></a>👨‍🍳 Modo de Preparo</h2><ol>\n<li>Adicione todos os ingredientes no processador e bata até ficar cremoso.</li>\n<li>Prove, acerte o sal e está pronto.</li>\n<li>Agora é só servir. Bom apetite.</li>\n</ol>\n"
+}

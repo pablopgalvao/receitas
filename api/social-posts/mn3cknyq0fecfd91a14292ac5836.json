@@ -1,0 +1,49 @@
+{
+  "id": "mn3cknyq0fecfd91a14292ac5836",
+  "title": "Quiabo grelhado",
+  "slug": "receitas/quiabo_grelhado",
+  "url": "https://receitas.pgalvao.com.br/receitas/quiabo_grelhado/mn3cknyq0fecfd91a14292ac5836/",
+  "deeplink": "boil://receita?rid=mn3cknyq0fecfd91a14292ac5836",
+  "date": "2026-01-08T03:00:00.000Z",
+  "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_grelhado.jpg",
+  "images": [
+    "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_grelhado.jpg"
+  ],
+  "videos": [],
+  "media": {
+    "image": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_grelhado.jpg",
+    "images": [
+      "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_grelhado.jpg"
+    ],
+    "videos": [],
+    "has_image": true,
+    "has_video": false,
+    "preferred_type": "image",
+    "preferred_url": "https://pub-f6701d1f8f4e47f7ab8d86a5346fb844.r2.dev/quiabo_grelhado.jpg"
+  },
+  "ingredients": [
+    "Farofa de quiabo com ovos cozidos",
+    "Ensopado de quiabo com cuscuz de milho e ovo frito",
+    "Salada de feijão-fradinho com quiabo",
+    "azeite a gosto",
+    "sal e pimenta-do-reino moída na hora a gosto",
+    "Leve uma bistequeira (ou frigideira antiaderente) ao fogo médio. Quando aquecer, regue com um fio do azeite, acrescente os dentes de alho e doure os quiabos em etapas - não coloque todos de uma só vez, eles precisam estar em contato com o fundo da bistequeira para ficar tostadinho. Tempere com sal e pimenta e deixe dourar por cerca de 3 minutos de cada lado. Transfira para um prato e repita com o restante, regando a bistequeira com azeite a cada leva."
+  ],
+  "steps": [
+    "Lave e seque bem os quiabos com um pano de prato limpo - esse é um dos truques para não ficar com baba. Corte cada um ao meio no sentido do comprimento. Com a lateral da faca amasse e descasque os dentes de alho - nem precisa cortar, eles vão inteiros para perfumar e dar sabor à receita.",
+    "Leve uma bistequeira (ou frigideira antiaderente) ao fogo médio. Quando aquecer, regue com um fio do azeite, acrescente os dentes de alho e doure os quiabos em etapas - não coloque todos de uma só vez, eles precisam estar em contato com o fundo da bistequeira para ficar tostadinho. Tempere com sal e pimenta e deixe dourar por cerca de 3 minutos de cada lado. Transfira para um prato e repita com o restante, regando a bistequeira com azeite a cada leva.",
+    "Sirva a seguir como acompanhamento de grelhados, ensopados ou até para incrementar um risoto!"
+  ],
+  "social": {
+    "caption_short": "Quiabo grelhado",
+    "caption_medium": "Quiabo grelhado Ingredientes: Farofa de quiabo com ovos cozidos, Ensopado de quiabo com cuscuz de milho e ovo frito, Salada de feijão-fradinho com quiabo, azeite a gosto, sal e pimenta-do-reino moída na hora a gosto. Modo de preparo: Lave e seque bem os quiabos com um pano de prato limpo - esse é um dos truques para não ficar com baba. Corte cada um ao meio no sentido do comprimento. Com a lateral da faca amasse e descasque os dentes de alho - nem precisa cortar, eles vão inteiros para perfumar e dar sabor à receita.",
+    "hashtags": [
+      "#receitas",
+      "#culinaria",
+      "#larDochef",
+      "#saudável",
+      "#brasil",
+      "#tradicional"
+    ]
+  }
+}

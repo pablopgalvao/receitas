@@ -1,5 +1,6 @@
 ---
 title: Sopa de ervilha com frango
+id: mn3cko9yaff8c14c88a624b282a6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Salada de lentilha e beterraba assada com molho balsâmico
+id: mn3cko5w56e9a64c4dba9093df65
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

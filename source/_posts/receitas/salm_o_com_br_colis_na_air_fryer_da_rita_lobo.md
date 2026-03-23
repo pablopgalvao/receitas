@@ -1,5 +1,6 @@
 ---
 title: Salmão com brócolis na Air Fryer
+id: mn3cko7487ee1977e6fa3c118b4e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

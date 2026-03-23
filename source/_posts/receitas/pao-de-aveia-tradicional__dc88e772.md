@@ -1,5 +1,6 @@
 ---
 title: Pão de aveia tradicional
+id: mn3cknqgdf96303d60f32cc0808c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada de legumes cozidos fácil
+id: mn3cko44a6cdb1058d898d7f24e4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

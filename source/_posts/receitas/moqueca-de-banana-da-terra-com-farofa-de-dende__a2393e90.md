@@ -1,5 +1,6 @@
 ---
 title: Moqueca de banana da terra com farofa de dendê
+id: mn3cknk203c0f8bed38f14d6e1ee
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

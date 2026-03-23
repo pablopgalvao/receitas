@@ -1,5 +1,6 @@
 ---
 title: Smoothie de mamão com melado
+id: mn3cko908f84565bf438043df4a8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

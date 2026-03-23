@@ -1,5 +1,6 @@
 ---
 title: Chantilly de chocolate vegano
+id: mn3ckn5i8b9e57f535db1cbf169d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

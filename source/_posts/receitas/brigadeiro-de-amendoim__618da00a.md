@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de amendoim
+id: mn3ckn31dc547654fb6367ed6ede
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

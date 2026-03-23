@@ -1,5 +1,6 @@
 ---
 title: Croissant de chocolate com 2 ingredientes
+id: mn3ckn7d5b6a8b1614c1f18e2c06
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

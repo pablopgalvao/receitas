@@ -1,5 +1,6 @@
 ---
 title: Arroz com frango
+id: mn3ckmwqd3e581b8ef5b0ba7ae3d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

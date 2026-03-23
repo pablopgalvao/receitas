@@ -1,5 +1,6 @@
 ---
 title: Pirão de peixe
+id: mn3cknu8133d8a8aff456ae8ac8b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Brócolis chamuscado
+id: mn3ckn3pa5adf615e83198a0cc42
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

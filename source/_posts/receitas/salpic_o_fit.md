@@ -1,5 +1,6 @@
 ---
 title: Salpicão fit
+id: mn3cko7k19773ef2d78df62c1cc6
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Saladas

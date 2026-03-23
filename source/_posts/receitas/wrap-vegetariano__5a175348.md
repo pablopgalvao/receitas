@@ -1,5 +1,6 @@
 ---
 title: Wrap vegetariano
+id: mn3ckoju9c9577d84ed5eca3f491
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Canjica nordestina
+id: mn3ckn4e797a6b372948deb5e8eb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

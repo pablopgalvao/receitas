@@ -1,5 +1,6 @@
 ---
 title: Farofa de biju com bacon e raspas de limão
+id: mn3ckna15868f86abc1e57b256d8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

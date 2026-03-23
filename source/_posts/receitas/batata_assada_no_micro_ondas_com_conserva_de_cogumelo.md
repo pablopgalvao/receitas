@@ -1,5 +1,6 @@
 ---
 title: Batata assada no micro-ondas com conserva de cogumelo
+id: mn3ckmy892aa2cc1de5799006638
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

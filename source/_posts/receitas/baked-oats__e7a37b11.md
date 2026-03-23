@@ -1,5 +1,6 @@
 ---
 title: Baked oats
+id: mn3ckmxq7a06dd40361b699ec761
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

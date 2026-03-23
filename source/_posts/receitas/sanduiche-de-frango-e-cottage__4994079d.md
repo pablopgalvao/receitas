@@ -1,5 +1,6 @@
 ---
 title: Sanduíche de frango e cottage
+id: mn3cko7pc8f4a7f162995b82c26a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

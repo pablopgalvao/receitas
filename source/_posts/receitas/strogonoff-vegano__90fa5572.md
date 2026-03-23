@@ -1,5 +1,6 @@
 ---
 title: Strogonoff vegano
+id: mn3ckocf892c8dc7ce92573383e0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

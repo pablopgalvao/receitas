@@ -1,5 +1,6 @@
 ---
 title: Calda de manga e maracujá
+id: mn3ckn3z68c41f0c9ddd2b40e244
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Doces e bolos

@@ -1,5 +1,6 @@
 ---
 title: Pão integral de frigideira fácil
+id: mn3cknqy8a2000b461323ea73abf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Torta de cachorro-quente vegetariana
+id: mn3ckofg6c686b5ad2d31adf2f31
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

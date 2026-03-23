@@ -1,5 +1,6 @@
 ---
 title: Bolo de arroz cozido de liquidificador
+id: mn3ckn057bc73d86d51893052993
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

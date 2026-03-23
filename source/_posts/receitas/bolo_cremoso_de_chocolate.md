@@ -1,5 +1,6 @@
 ---
 title: Bolo cremoso de chocolate
+id: mn3ckn2l4b40eabea755cac4a71e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

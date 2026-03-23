@@ -1,5 +1,6 @@
 ---
 title: Parmegiana de carne moída simples
+id: mn3cknrh541f31539dc90189bc26
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

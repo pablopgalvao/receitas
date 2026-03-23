@@ -1,5 +1,6 @@
 ---
 title: Farinha de rosca caseira de pão integral (reaproveitamento)
+id: mn3ckn9sa26bb97f507106eb809c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

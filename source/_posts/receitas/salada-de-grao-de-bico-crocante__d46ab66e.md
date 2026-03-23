@@ -1,5 +1,6 @@
 ---
 title: Salada de grão-de-bico crocante
+id: mn3cko43b3bc4cb2d7ece966e668
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

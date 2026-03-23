@@ -1,5 +1,6 @@
 ---
 title: Panqueca fit com Whey de cacau
+id: mn3cknoz9714322cb96842e3c244
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

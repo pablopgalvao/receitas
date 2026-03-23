@@ -1,5 +1,6 @@
 ---
 title: Curau de milho verde no liquidificador
+id: mn3ckn7v97f411bb4bf9598f82bf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

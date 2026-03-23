@@ -1,5 +1,6 @@
 ---
 title: Wrap de frango com Rap10
+id: mn3ckojr9d393cc02920375a7c5d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

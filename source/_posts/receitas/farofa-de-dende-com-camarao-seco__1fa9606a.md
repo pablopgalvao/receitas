@@ -1,5 +1,6 @@
 ---
 title: Farofa de dendê com camarão seco
+id: mn3ckn9w654a8a1821e90987d896
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

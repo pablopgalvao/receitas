@@ -1,5 +1,6 @@
 ---
 title: Geleia de morango simples
+id: mn3ckncq93e01844657bdbcbed6b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

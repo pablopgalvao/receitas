@@ -1,5 +1,6 @@
 ---
 title: Sopa de abóbora com legumes
+id: mn3cko9n9bc720c2f94a4d293853
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

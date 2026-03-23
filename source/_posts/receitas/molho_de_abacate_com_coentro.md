@@ -1,5 +1,6 @@
 ---
 title: Molho de abacate com coentro
+id: mn3cknjo39d755cf84f565bb4447
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

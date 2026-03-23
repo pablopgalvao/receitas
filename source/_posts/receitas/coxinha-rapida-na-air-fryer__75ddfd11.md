@@ -1,5 +1,6 @@
 ---
 title: Coxinha rápida na air fryer
+id: mn3ckn6x89239aec596c0e189bd0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

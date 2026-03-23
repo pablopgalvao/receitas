@@ -1,5 +1,6 @@
 ---
 title: Guacamole com camarão
+id: mn3cknd50f6cf43f75b5cbdcc5ed
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

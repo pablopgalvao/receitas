@@ -1,5 +1,6 @@
 ---
 title: Banana bread fit
+id: mn3ckmxsa6ff7503bbfe140823ad
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

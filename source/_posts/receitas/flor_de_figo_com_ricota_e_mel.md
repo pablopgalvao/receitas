@@ -1,5 +1,6 @@
 ---
 title: Flor de figo com ricota e mel
+id: mn3cknasdfbcc89a7bd95aa6f1d3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

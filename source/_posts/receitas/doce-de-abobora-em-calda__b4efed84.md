@@ -1,5 +1,6 @@
 ---
 title: Doce de abóbora em calda
+id: mn3ckn8fdd7b16d3eeef3a727500
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

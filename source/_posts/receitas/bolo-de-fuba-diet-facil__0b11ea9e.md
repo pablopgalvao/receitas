@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá diet fácil
+id: mn3ckn167d1e489ce55f7923832c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro gourmet
+id: mn3ckn37cbf8ff15dc23d29f91d9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

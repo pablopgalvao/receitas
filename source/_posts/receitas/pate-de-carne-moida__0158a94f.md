@@ -1,5 +1,6 @@
 ---
 title: Patê de carne moída
+id: mn3cknrya5e8fdff8b185859e49f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

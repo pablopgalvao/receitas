@@ -1,5 +1,6 @@
 ---
 title: Creme de abóbora
+id: mn3ckn755f5f5123b59cb0184d4d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

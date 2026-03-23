@@ -1,5 +1,6 @@
 ---
 title: Pudim gelado mais fácil do mundo
+id: mn3cknw0ddd5f3c517e3667dcd58
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

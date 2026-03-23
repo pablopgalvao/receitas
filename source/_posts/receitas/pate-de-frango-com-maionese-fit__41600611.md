@@ -1,5 +1,6 @@
 ---
 title: Patê de frango com maionese fit
+id: mn3cknrz88cc69fd1f5b6465e4d3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

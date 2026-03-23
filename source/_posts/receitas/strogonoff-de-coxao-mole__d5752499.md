@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de coxão mole
+id: mn3ckoc14d587ffbc3866f466d11
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salpicão de repolho com frango
+id: mn3cko7e8cc4d1ff9a2bc1d3bea4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

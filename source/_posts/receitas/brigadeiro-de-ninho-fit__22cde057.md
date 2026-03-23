@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de Ninho fit
+id: mn3ckn3598cf6c06b6ffd4196e87
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

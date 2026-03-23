@@ -1,5 +1,6 @@
 ---
 title: Macarrão picante com molho de amendoim e brócolis
+id: mn3cknhqd3a8a29c97f2a2ab7d7f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

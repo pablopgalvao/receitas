@@ -1,5 +1,6 @@
 ---
 title: Risoto de calabresa
+id: mn3cko1s334a98efc22255bf7783
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Massas e macarronadas

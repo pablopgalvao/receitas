@@ -1,5 +1,6 @@
 ---
 title: Repolho assado com cominho e páprica
+id: mn3cko0y6bc6c80ab543747eda53
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

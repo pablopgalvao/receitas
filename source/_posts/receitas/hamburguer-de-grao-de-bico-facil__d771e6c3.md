@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer de grão-de-bico fácil
+id: mn3ckndl04778728e10c2b71cac6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

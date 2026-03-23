@@ -1,5 +1,6 @@
 ---
 title: Naked cake de chocolate com compota de laranjinha kinkan
+id: mn3cknlob61be22cdd2c3ddce113
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

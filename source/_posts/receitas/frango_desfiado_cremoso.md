@@ -1,5 +1,6 @@
 ---
 title: Frango desfiado cremoso
+id: mn3cknbn9d479fc478e9e4286efb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

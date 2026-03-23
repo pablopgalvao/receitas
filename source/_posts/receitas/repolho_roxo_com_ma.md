@@ -1,5 +1,6 @@
 ---
 title: Repolho roxo com maçã
+id: mn3cko1458ecb8c0dfbc5e8c8418
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

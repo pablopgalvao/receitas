@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de hambúrguer de peixe com picles de chuchu
+id: mn3cknx35685ca893d78b597cb23
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

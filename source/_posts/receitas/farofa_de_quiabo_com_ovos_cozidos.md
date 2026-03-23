@@ -1,5 +1,6 @@
 ---
 title: Farofa de quiabo com ovos cozidos
+id: mn3ckna3e687c9f53adbbda4cb41
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

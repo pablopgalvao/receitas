@@ -1,5 +1,6 @@
 ---
 title: Bolo de coco vegano
+id: mn3ckn0wde70fed13a803429ce7f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

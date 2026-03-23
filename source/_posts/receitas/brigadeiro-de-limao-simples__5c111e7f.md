@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de limão simples
+id: mn3ckn34edcb8aafbe747602f5c5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

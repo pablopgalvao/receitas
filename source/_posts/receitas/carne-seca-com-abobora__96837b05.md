@@ -1,5 +1,6 @@
 ---
 title: Carne-seca com abóbora
+id: mn3ckn4xe98253efbbcf86a2aeaf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

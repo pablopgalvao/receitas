@@ -1,5 +1,6 @@
 ---
 title: Pavê de paçoca vegano
+id: mn3cknsk59045e1eff4dd929e0e7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

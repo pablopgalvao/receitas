@@ -1,5 +1,6 @@
 ---
 title: Capuccino caseiro fácil e rápido
+id: mn3ckn4l9e85007b6b77ca5ff88c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

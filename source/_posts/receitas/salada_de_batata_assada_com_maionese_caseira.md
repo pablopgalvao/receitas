@@ -1,5 +1,6 @@
 ---
 title: Salada de batata assada com maionese caseira
+id: mn3cko51c32872e33c0d7faf487b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

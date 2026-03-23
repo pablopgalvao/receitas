@@ -1,5 +1,6 @@
 ---
 title: Batata sauté fácil e rápida
+id: mn3ckmy5a484beb2a9626fbe5526
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

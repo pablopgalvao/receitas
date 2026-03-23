@@ -1,5 +1,6 @@
 ---
 title: Rosbife com molho de figo e vinho com purê de batatas
+id: mn3cko2x3f3ebffa0d0b589c6217
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

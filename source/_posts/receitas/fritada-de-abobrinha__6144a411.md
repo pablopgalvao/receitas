@@ -1,5 +1,6 @@
 ---
 title: Fritada de abobrinha
+id: mn3cknbx93d982cf28ddbe9c160a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

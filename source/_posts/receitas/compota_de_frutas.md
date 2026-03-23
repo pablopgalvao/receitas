@@ -1,5 +1,6 @@
 ---
 title: Compota de frutas
+id: mn3ckn6716e680cee1ba9aef223b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

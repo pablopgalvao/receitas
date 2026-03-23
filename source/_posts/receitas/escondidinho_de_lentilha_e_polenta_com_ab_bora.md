@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de lentilha e polenta com abóbora
+id: mn3ckn9h98c065826efdbfdcc692
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Macarrão à carbonara com carne-seca
+id: mn3cknh934f0d11b2c3b959f63bf
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

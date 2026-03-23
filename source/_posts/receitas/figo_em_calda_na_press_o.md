@@ -1,5 +1,6 @@
 ---
 title: Figo em calda na pressão
+id: mn3cknahf033137af51c8c78a06a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

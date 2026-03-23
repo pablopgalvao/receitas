@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer com brócolis na Air Fryer
+id: mn3ckndv54199f469c39b3670cfc
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

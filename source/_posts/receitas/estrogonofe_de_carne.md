@@ -1,5 +1,6 @@
 ---
 title: Estrogonofe de carne
+id: mn3ckn9q7660b7e39e20ad17330c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

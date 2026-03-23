@@ -1,5 +1,6 @@
 ---
 title: Farofa de maracujá com bacon
+id: mn3ckn9x370e52e07f240a90fd6c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

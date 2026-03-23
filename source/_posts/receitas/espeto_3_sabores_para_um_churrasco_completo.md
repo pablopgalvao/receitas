@@ -1,5 +1,6 @@
 ---
 title: Espeto 3 sabores para um churrasco completo
+id: mn3ckn9of58c26feb6d6c5370214
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

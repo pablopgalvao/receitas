@@ -1,5 +1,6 @@
 ---
 title: Doce de banana na panela de pressão
+id: mn3ckn8h8e8dab6ca3adf40f865c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

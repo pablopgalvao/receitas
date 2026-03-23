@@ -1,5 +1,6 @@
 ---
 title: Lasanha de frango fácil
+id: mn3cknfkc70cf432744947e4d066
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

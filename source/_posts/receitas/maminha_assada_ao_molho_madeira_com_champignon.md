@@ -1,5 +1,6 @@
 ---
 title: Maminha assada ao molho madeira com champignon
+id: mn3ckni05b9a8152f9eb73d9f121
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

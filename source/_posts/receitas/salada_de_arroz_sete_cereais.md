@@ -1,5 +1,6 @@
 ---
 title: Salada de arroz sete cereais
+id: mn3cko5079ec0ce136b502165c9a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

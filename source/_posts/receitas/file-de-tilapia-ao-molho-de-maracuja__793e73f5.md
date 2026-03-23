@@ -1,5 +1,6 @@
 ---
 title: Filé de tilápia ao molho de maracujá
+id: mn3cknama6ab729be45902bc73d5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

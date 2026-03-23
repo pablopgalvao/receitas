@@ -1,5 +1,6 @@
 ---
 title: Fraldinha assada na cerveja
+id: mn3cknb3ae0b8f9b449ce11af9fb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

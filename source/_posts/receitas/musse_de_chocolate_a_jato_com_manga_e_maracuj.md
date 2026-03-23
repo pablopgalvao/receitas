@@ -1,5 +1,6 @@
 ---
 title: Musse de chocolate a jato com manga e maracujá
+id: mn3cknljfb1c8e5fa86ea2d15a36
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

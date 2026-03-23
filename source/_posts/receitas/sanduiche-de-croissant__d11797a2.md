@@ -1,5 +1,6 @@
 ---
 title: Sanduíche de croissant
+id: mn3cko7o320f47bf432fc902ed2c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

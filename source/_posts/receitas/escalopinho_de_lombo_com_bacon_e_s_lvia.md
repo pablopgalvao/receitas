@@ -1,5 +1,6 @@
 ---
 title: Escalopinho de lombo com bacon e sálvia
+id: mn3ckn9449a0614493c20517bbe4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

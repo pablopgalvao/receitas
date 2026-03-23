@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com aveia
+id: mn3ckn09342bf9695a4390ca3bd5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

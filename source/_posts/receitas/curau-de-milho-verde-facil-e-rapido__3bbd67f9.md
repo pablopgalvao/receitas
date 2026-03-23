@@ -1,5 +1,6 @@
 ---
 title: Curau de milho verde fácil e rápido
+id: mn3ckn7u919fdb8b203153a89d00
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Risoto na pressão com abóbora assada
+id: mn3cko27c28017ec4ff677308067
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

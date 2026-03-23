@@ -1,5 +1,6 @@
 ---
 title: Wrap de frango
+id: mn3ckojsfb8ec397f2e56121eddc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

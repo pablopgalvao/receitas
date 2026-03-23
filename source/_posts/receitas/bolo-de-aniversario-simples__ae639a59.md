@@ -1,5 +1,6 @@
 ---
 title: Bolo de aniversário simples
+id: mn3ckn05e76ae6ff3d2775bf8c2c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

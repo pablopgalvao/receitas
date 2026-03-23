@@ -1,5 +1,6 @@
 ---
 title: Pesto de coentro com amendoim
+id: mn3ckntif54eff176c4af37fd7b8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

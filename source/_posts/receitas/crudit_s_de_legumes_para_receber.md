@@ -1,5 +1,6 @@
 ---
 title: Crudités de legumes para receber
+id: mn3ckn7m7d59b92e677ed7faf602
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

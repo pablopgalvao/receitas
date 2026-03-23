@@ -1,5 +1,6 @@
 ---
 title: Massa de panqueca rápida
+id: mn3cknice7d96f60669f82ba38a4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

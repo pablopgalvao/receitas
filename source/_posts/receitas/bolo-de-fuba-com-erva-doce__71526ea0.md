@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com erva-doce
+id: mn3ckn0z54e40913b4d368f4aa34
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

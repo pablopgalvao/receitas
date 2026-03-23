@@ -1,5 +1,6 @@
 ---
 title: Coxa de frango assada crocante de forno
+id: mn3ckn6ve4f7011076169bb0db2a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

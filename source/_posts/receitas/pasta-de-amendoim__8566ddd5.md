@@ -1,5 +1,6 @@
 ---
 title: Pasta de amendoim
+id: mn3cknri403c1e9a3286b1b4ee75
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

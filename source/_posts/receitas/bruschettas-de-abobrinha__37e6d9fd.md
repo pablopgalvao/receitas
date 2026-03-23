@@ -1,5 +1,6 @@
 ---
 title: Bruschettas de abobrinha
+id: mn3ckn3nb164f21ee5c703766340
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

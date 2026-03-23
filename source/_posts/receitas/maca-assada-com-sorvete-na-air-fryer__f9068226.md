@@ -1,5 +1,6 @@
 ---
 title: Maçã assada com sorvete na air fryer
+id: mn3ckngi419f74595312f788c7a0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

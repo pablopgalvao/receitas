@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate de liquidificador
+id: mn3cknki0129fb491d926fd99afc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

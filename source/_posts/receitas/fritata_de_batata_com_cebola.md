@@ -1,5 +1,6 @@
 ---
 title: Fritata de batata com cebola
+id: mn3cknc0724f9ec8b3992d6109c4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

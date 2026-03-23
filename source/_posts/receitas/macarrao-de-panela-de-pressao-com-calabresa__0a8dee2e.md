@@ -1,5 +1,6 @@
 ---
 title: Macarrão de panela de pressão com calabresa
+id: mn3cknh12f9026cc54c27c35818c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

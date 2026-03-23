@@ -1,5 +1,6 @@
 ---
 title: Pasta de pimentão vermelho (muhammara)
+id: mn3cknrlde8f7a2feed773e7b54a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

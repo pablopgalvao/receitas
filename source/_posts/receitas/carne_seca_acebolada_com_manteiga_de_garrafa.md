@@ -1,5 +1,6 @@
 ---
 title: Carne-seca acebolada com manteiga de garrafa
+id: mn3ckn52f64040d8d14140473075
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

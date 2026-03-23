@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de carne moída
+id: mn3ckobu298936fab1204df81799
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

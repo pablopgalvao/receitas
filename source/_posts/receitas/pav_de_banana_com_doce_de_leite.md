@@ -1,5 +1,6 @@
 ---
 title: Pavê de banana com doce de leite
+id: mn3cknsp6755ee70dae2cfc04016
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

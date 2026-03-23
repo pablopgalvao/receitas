@@ -1,5 +1,6 @@
 ---
 title: Repolho refogado com bacon
+id: mn3cko0u6aceb058bb549666496b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

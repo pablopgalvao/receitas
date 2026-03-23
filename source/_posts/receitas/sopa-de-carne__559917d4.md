@@ -1,5 +1,6 @@
 ---
 title: Sopa de carne
+id: mn3cko9u3ad48a463a0c8325ebab
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Croquete de carne moída
+id: mn3ckn7hd9c2d93648df543ee34f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

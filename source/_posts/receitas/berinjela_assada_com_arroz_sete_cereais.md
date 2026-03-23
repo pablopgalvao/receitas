@@ -1,5 +1,6 @@
 ---
 title: Berinjela assada com arroz sete cereais
+id: mn3ckmyna89bca88fa61b7161066
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Panqueca de aveia e frango
+id: mn3cknose8f8c8b9b20e8d720db4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

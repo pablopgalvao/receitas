@@ -1,5 +1,6 @@
 ---
 title: Batata-doce recheada com frango e cream cheese
+id: mn3ckmy1d6dec19705451654feac
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

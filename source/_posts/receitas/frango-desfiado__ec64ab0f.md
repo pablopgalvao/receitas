@@ -1,5 +1,6 @@
 ---
 title: Frango desfiado
+id: mn3cknbdf47130d2a93f797de5a6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

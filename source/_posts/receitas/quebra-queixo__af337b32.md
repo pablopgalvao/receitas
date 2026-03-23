@@ -1,5 +1,6 @@
 ---
 title: Quebra-queixo
+id: mn3cknxo6c7df6e9dc4495c3ef70
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

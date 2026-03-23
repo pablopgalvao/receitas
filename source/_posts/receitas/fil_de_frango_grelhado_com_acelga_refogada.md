@@ -1,5 +1,6 @@
 ---
 title: Filé de frango grelhado com acelga refogada
+id: mn3cknapbb54dc2255f985c5a0cc
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

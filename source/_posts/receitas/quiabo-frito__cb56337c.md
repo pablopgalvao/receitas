@@ -1,5 +1,6 @@
 ---
 title: Quiabo frito
+id: mn3cknyha9737e82fa60ad35c3db
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

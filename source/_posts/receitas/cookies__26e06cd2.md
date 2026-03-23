@@ -1,5 +1,6 @@
 ---
 title: Cookies
+id: mn3ckn6g7fd882f937a8b464f18d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada de berinjela crua
+id: mn3cko3l87c04b27df9251867b62
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

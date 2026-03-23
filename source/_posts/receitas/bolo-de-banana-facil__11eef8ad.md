@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana fácil
+id: mn3ckn0e388caa64f29e361e0a53
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

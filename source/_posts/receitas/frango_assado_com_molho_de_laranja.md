@@ -1,5 +1,6 @@
 ---
 title: Frango assado com molho de laranja
+id: mn3cknbj157fc3af52fa5645595c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

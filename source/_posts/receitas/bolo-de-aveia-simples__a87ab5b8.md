@@ -1,5 +1,6 @@
 ---
 title: Bolo de aveia simples
+id: mn3ckn08cad34d8a88ee9e9651a4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

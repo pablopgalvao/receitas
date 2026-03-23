@@ -1,5 +1,6 @@
 ---
 title: Farofa de coco
+id: mn3ckn9v56663161f694b0e97d69
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sopa de abóbora assada na Air Fryer
+id: mn3ckoacff341ad9798d426455d0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana
+id: mn3ckn0h543009dfc93c58e98a60
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Brioche
+id: mn3ckn3af3f43d33dd52f5341492
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

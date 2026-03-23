@@ -1,5 +1,6 @@
 ---
 title: Picadinho oriental com lombo e abacaxi
+id: mn3cknttbd15d6a78edcde4d3e50
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

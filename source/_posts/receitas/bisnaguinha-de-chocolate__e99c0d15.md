@@ -1,5 +1,6 @@
 ---
 title: Bisnaguinha de chocolate
+id: mn3ckmz607b7ce6732b312cd6956
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

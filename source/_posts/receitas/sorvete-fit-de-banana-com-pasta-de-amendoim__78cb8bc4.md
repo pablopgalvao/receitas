@@ -1,5 +1,6 @@
 ---
 title: Sorvete fit de banana com pasta de amendoim
+id: mn3ckobec05c750e67a8361207b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

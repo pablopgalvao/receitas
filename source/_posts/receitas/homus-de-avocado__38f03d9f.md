@@ -1,5 +1,6 @@
 ---
 title: Homus de avocado
+id: mn3ckne02891b582e8683bcc6b55
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

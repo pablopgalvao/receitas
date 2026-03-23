@@ -1,5 +1,6 @@
 ---
 title: Macarrão com calabresa e espinafre
+id: mn3ckngq2dc2f0f911ad82dd0112
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

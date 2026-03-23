@@ -1,5 +1,6 @@
 ---
 title: Frango indiano na Air Fryer Oven
+id: mn3cknbof780433fb5e95d6a57bc
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

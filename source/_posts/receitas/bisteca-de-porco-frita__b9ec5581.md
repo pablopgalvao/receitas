@@ -1,5 +1,6 @@
 ---
 title: Bisteca de porco frita
+id: mn3ckmz78bd7a22d97639677e9e6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

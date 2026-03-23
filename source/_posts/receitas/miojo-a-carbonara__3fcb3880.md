@@ -1,5 +1,6 @@
 ---
 title: Miojo à carbonara
+id: mn3cknj062857f730454d8318b30
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

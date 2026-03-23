@@ -1,5 +1,6 @@
 ---
 title: Fondue de chocolate com abacate
+id: mn3cknayf67d70c26f15488d7209
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

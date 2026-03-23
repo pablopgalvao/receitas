@@ -1,5 +1,6 @@
 ---
 title: Carne de panela de pressão
+id: mn3ckn4tdd1ddabc17c77e64813a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

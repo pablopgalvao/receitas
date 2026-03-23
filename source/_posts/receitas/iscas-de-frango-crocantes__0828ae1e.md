@@ -1,5 +1,6 @@
 ---
 title: Iscas de frango crocantes
+id: mn3ckne9ab20e23bec71d3253ff9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

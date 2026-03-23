@@ -1,5 +1,6 @@
 ---
 title: Omelete rústica
+id: mn3cknmdc569c330f6bf2b5ec690
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

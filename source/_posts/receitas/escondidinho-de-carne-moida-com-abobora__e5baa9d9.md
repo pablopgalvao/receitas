@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de carne moída com abóbora
+id: mn3ckn9b6bf4e3b011c3bfd308ec
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

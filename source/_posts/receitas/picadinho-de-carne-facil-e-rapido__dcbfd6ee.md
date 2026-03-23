@@ -1,5 +1,6 @@
 ---
 title: Picadinho de carne fácil e rápido
+id: mn3cknto56391efb4233ed1f9b80
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

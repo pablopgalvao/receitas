@@ -1,5 +1,6 @@
 ---
 title: Polenta caprese com refogado de legumes
+id: mn3cknv85432ba9abefb0e7d4bd5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

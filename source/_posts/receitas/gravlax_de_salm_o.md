@@ -1,5 +1,6 @@
 ---
 title: Gravlax de salmão
+id: mn3cknd39cced962020fc1b0b5bb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

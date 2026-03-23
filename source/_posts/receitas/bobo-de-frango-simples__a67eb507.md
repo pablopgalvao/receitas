@@ -1,5 +1,6 @@
 ---
 title: Bobó de frango simples
+id: mn3ckmzb7933680a16f45142b984
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

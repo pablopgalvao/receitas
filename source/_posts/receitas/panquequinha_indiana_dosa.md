@@ -1,5 +1,6 @@
 ---
 title: Panquequinha indiana (dosa)
+id: mn3cknpe4809216fde3ca830faea
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

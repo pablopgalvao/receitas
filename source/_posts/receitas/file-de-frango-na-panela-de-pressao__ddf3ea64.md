@@ -1,5 +1,6 @@
 ---
 title: Filé de frango na panela de pressão
+id: mn3cknakb782c01a997326ca1e62
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

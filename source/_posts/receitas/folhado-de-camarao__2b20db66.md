@@ -1,5 +1,6 @@
 ---
 title: Folhado de camarão
+id: mn3cknax564bd810eb7dc4480993
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Iogurte grego natural vegano
+id: mn3ckne772c50c8d7fcebc415f67
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Kibe de forno recheado com requeijão
+id: mn3cknei0d1e3ff736194a144bd0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

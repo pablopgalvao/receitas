@@ -1,5 +1,6 @@
 ---
 title: Knaidlach com caldo de frango
+id: mn3cknf35e44a11f61e5a363057b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

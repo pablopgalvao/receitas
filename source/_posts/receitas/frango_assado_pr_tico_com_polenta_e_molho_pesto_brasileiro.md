@@ -1,5 +1,6 @@
 ---
 title: Frango assado prático com polenta e molho pesto brasileiro
+id: mn3cknbkbec771ac528b825ae59a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

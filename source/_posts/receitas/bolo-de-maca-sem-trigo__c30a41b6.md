@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã sem trigo
+id: mn3ckn1n55263d6089013406fc72
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Frango com mostarda e mel
+id: mn3cknbbc4747d4dd5b0ef5d8e6c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

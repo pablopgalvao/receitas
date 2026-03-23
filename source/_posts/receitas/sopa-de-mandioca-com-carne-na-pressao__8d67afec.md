@@ -1,5 +1,6 @@
 ---
 title: Sopa de mandioca com carne na pressão
+id: mn3ckoa8f446d369d0ea2ff6a721
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

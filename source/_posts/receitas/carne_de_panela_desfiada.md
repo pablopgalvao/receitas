@@ -1,5 +1,6 @@
 ---
 title: Carne de panela desfiada
+id: mn3ckn4z414b0378a5fc31fd7baa
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

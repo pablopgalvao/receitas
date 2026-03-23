@@ -1,5 +1,6 @@
 ---
 title: Molho de yakisoba
+id: mn3cknjk6dd336b100a2533a335a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

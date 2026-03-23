@@ -1,5 +1,6 @@
 ---
 title: Brócolis e abóbora no forno
+id: mn3ckn3eb49b81d6b74b6ce21edf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

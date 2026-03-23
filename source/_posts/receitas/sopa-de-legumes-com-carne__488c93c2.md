@@ -1,5 +1,6 @@
 ---
 title: Sopa de legumes com carne
+id: mn3ckoa2bfafc8467f8274757a3f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

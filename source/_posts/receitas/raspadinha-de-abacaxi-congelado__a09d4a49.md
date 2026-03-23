@@ -1,5 +1,6 @@
 ---
 title: Raspadinha de abacaxi congelado
+id: mn3cko0dd625628076756cbc76da
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Capelete de peru in brodo (reaproveitamento)
+id: mn3ckn4ib6d1be4e8b2771339a1b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

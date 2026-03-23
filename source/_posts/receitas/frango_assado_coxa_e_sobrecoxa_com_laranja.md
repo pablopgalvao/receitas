@@ -1,5 +1,6 @@
 ---
 title: Frango assado (coxa e sobrecoxa) com laranja
+id: mn3cknbkd9a0cb2b13b6148e1739
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

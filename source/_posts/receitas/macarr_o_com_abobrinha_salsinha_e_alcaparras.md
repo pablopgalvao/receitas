@@ -1,5 +1,6 @@
 ---
 title: 'Macarrão com abobrinha, salsinha e alcaparras'
+id: mn3cknhbb402bd412ffdc886c45c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

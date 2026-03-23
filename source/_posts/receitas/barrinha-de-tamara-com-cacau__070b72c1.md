@@ -1,5 +1,6 @@
 ---
 title: Barrinha de tâmara com cacau
+id: mn3ckmxz85e1c9f56e192541a44b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

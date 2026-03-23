@@ -1,5 +1,6 @@
 ---
 title: Patê de ricota com cenoura
+id: mn3ckns14d68f68f9da144adca2f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

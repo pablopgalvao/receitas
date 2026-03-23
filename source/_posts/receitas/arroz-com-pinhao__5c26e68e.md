@@ -1,5 +1,6 @@
 ---
 title: Arroz com pinhão
+id: mn3ckmwr3936b9d5772a5eac707e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

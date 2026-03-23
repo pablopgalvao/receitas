@@ -1,5 +1,6 @@
 ---
 title: Geleia morna de frutas vermelhas com cardamomo
+id: mn3ckncsd1a8e292e0bb9bf3042c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

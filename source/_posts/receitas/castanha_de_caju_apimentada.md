@@ -1,5 +1,6 @@
 ---
 title: Castanha-de-caju apimentada
+id: mn3ckn5625a68ab3bffb5d11a0e2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Repolho grelhado com bacon para um
+id: mn3cko12847d1a29685b99833735
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

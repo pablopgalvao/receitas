@@ -1,5 +1,6 @@
 ---
 title: Feijão preto fácil
+id: mn3ckna6008b4658bd007abfb6a5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

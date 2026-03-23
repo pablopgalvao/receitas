@@ -1,5 +1,6 @@
 ---
 title: Broa de fubá com goiabada
+id: mn3ckn3ba097cb1b98ba2ccd776f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

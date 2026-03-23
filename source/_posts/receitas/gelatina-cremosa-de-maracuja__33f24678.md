@@ -1,5 +1,6 @@
 ---
 title: Gelatina cremosa de maracujá
+id: mn3cknckca8fd31496a1b54cda83
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sardinhas fritas com fubá
+id: mn3cko85feb5cd47a29ef0d5191d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

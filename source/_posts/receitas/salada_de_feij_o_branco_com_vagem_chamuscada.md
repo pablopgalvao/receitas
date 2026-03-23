@@ -1,5 +1,6 @@
 ---
 title: Salada de feijão-branco com vagem chamuscada
+id: mn3cko5j67273fd767ba2ed454b9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

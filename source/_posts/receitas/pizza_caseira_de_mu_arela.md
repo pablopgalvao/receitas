@@ -1,5 +1,6 @@
 ---
 title: Pizza caseira de muçarela
+id: mn3cknus7a389faeff495f783bd7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

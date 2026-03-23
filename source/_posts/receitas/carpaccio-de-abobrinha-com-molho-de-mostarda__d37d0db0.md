@@ -1,5 +1,6 @@
 ---
 title: Carpaccio de abobrinha com molho de mostarda
+id: mn3ckn541584546057790b9ec5ba
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Banana frita
+id: mn3ckmxv161b3a3e4c94d1e80c32
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

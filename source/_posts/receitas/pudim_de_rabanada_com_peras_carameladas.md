@@ -1,5 +1,6 @@
 ---
 title: Pudim de rabanada com peras carameladas
+id: mn3cknw7c6ee28f712a4ffaa2284
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

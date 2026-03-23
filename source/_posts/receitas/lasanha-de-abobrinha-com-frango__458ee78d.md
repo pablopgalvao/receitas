@@ -1,5 +1,6 @@
 ---
 title: Lasanha de abobrinha com frango
+id: mn3cknfed43fb621c88eb031f649
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

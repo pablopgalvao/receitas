@@ -1,5 +1,6 @@
 ---
 title: Sonho doce recheado com goiabada
+id: mn3cko9l3d746589f79b569ac11f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

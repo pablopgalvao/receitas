@@ -1,5 +1,6 @@
 ---
 title: Cozido de mandioca com bacon e tomate
+id: mn3ckn6z66e8086798d520dde96c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

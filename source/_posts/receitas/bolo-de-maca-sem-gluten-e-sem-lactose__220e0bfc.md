@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã sem glúten e sem lactose
+id: mn3ckn1m9ef315d9c39ce40a83f2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

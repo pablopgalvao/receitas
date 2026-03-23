@@ -1,5 +1,6 @@
 ---
 title: Ovo frito
+id: mn3cknmh20f92d4895b9d29e89a7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

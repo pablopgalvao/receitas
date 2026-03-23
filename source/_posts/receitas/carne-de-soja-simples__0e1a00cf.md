@@ -1,5 +1,6 @@
 ---
 title: Carne de soja simples
+id: mn3ckn4u1cf9442843fcd26db067
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

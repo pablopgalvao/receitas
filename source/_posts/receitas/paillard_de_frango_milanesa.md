@@ -1,5 +1,6 @@
 ---
 title: Paillard de frango à milanesa
+id: mn3cknmt8f1c2ae1aec65ecdb80b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

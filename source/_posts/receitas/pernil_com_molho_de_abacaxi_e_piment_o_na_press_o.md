@@ -1,5 +1,6 @@
 ---
 title: Pernil com molho de abacaxi e pimentão na pressão
+id: mn3ckntdb9d0bdb482f456edc7bb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

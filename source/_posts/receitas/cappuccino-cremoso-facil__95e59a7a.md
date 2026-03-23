@@ -1,5 +1,6 @@
 ---
 title: Cappuccino cremoso fácil
+id: mn3ckn4k0992ce22e7876a3d0291
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

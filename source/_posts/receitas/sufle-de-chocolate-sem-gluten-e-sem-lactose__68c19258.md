@@ -1,5 +1,6 @@
 ---
 title: Suflê de chocolate sem glúten e sem lactose
+id: mn3ckocu2e70ddb65b37057fd577
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

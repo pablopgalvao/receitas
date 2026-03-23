@@ -1,5 +1,6 @@
 ---
 title: Fricassê de palmito
+id: mn3cknbt29df7d499009d5f19394
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

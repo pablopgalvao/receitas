@@ -1,5 +1,6 @@
 ---
 title: Salada italiana de feijão-branco
+id: mn3cko6ff9287242f74c63e08007
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

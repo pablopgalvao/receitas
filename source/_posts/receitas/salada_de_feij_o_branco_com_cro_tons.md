@@ -1,5 +1,6 @@
 ---
 title: Salada de feijão-branco com croûtons
+id: mn3cko5h58a7f11aaa7e66bdeb40
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

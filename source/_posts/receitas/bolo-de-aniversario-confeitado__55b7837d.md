@@ -1,5 +1,6 @@
 ---
 title: Bolo de aniversário confeitado
+id: mn3ckn0438dee6806d808bc29b9e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

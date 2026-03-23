@@ -1,5 +1,6 @@
 ---
 title: Lombo braseado com maçã e cebola
+id: mn3ckngd914fc166d9fb05d49e9e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Purê de mandioquinha rápido
+id: mn3cknwnb82e7ae2de91d8da313d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

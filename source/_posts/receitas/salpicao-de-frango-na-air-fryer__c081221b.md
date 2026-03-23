@@ -1,5 +1,6 @@
 ---
 title: Salpicão de frango na Air Fryer
+id: mn3cko7be36518b2fd03552fe4bd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

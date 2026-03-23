@@ -1,5 +1,6 @@
 ---
 title: Bobó de Frango
+id: mn3ckmzc56ee5b3e015fc3feecde
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

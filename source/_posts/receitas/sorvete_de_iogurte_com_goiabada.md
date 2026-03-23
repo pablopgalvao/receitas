@@ -1,5 +1,6 @@
 ---
 title: Sorvete de iogurte com goiabada
+id: mn3ckobgd0a5b37d49fb2b461b08
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

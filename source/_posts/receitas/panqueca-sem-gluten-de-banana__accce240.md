@@ -1,5 +1,6 @@
 ---
 title: Panqueca sem glúten de banana
+id: mn3cknp4f79ac26ede31269ac39a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

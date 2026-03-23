@@ -1,5 +1,6 @@
 ---
 title: Rabanada de pão de fôrma integral (reaproveitamento)
+id: mn3cknzxfee6f98e21a852fb4d10
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

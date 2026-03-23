@@ -1,5 +1,6 @@
 ---
 title: Couve-flor com mel e especiarias na Air Fryer
+id: mn3ckn6uc7a3d9812cf702cdf3a6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

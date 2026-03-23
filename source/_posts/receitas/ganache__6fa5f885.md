@@ -1,5 +1,6 @@
 ---
 title: Ganache
+id: mn3ckncbf83c2c0a0bd3cdc21afb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

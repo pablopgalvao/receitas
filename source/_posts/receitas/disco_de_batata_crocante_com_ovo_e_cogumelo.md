@@ -1,5 +1,6 @@
 ---
 title: Disco de batata crocante com ovo e cogumelo
+id: mn3ckn891b2df34fb62bf8c6e6cb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

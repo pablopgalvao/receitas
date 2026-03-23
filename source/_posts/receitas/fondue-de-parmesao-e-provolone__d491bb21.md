@@ -1,5 +1,6 @@
 ---
 title: Fondue de parmesão e provolone
+id: mn3cknaz4913c51fbb783e56b3aa
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

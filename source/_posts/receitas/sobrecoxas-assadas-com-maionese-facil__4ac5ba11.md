@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxas assadas com maionese fácil
+id: mn3cko98323b7e7b80fd5ebba12f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

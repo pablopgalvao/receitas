@@ -1,5 +1,6 @@
 ---
 title: Empadão de palmito vegano
+id: mn3ckn8r5eb009b9a3a9c403498d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Alcachofra recheada com farofinha de parmesão
+id: mn3ckmw50abb0a1f376388aa902a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

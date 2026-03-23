@@ -1,5 +1,6 @@
 ---
 title: Arroz frito
+id: mn3ckmxc0c461249744bc0546ae0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

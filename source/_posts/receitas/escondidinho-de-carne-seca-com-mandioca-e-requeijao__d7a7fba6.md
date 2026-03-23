@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de carne seca com mandioca e requeijão
+id: mn3ckn9c21272ce68d4b7e5b84c1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

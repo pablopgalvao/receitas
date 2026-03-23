@@ -1,5 +1,6 @@
 ---
 title: Cocada fácil e rápida
+id: mn3ckn6256f23b1a503f8b33f0c1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

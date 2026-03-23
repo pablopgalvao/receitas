@@ -1,5 +1,6 @@
 ---
 title: Iscas de peixe com legumes assados na Air Fryer
+id: mn3ckneb8cb7d047dd579d8a471d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Cheesecake vegana de jabuticaba
+id: mn3ckn5m2e788e0d3f67f3c8c30a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

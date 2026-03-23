@@ -1,5 +1,6 @@
 ---
 title: Bolo de ricota com maçã
+id: mn3ckn2q4af22b1a5b9f4c748501
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: 'Quibe de peixe com saladinha de pepino, hortelã e iogurte'
+id: mn3cknz5bc074d0e428cc3e33124
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

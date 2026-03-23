@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de abobrinha recheada com arroz e feijão
+id: mn3cknwv9217c850c13a66a16645
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

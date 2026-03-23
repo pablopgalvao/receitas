@@ -1,5 +1,6 @@
 ---
 title: Mandioca ao alho
+id: mn3ckni28966dcb1332489f3e820
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Entradas

@@ -1,5 +1,6 @@
 ---
 title: Bolo encharcado de laranja
+id: mn3ckn2r47b33f1d33368ec754d1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

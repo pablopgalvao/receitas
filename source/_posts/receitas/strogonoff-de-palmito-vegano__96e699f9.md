@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de palmito vegano
+id: mn3ckoc88ff6f833ae3e24e68c7d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

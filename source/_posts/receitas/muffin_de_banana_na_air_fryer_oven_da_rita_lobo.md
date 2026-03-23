@@ -1,5 +1,6 @@
 ---
 title: Muffin de banana na Air Fryer Oven
+id: mn3cknlg1b8dc348888757facdfd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

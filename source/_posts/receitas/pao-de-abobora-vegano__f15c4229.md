@@ -1,5 +1,6 @@
 ---
 title: Pão de abóbora vegano
+id: mn3cknq8000696af84ee4c2907ec
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sorvete de abacate cremoso
+id: mn3ckoayd25ceb73ef1cc8053b01
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

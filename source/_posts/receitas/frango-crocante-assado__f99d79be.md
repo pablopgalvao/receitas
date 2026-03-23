@@ -1,5 +1,6 @@
 ---
 title: Frango crocante assado
+id: mn3cknbca69d4139350bfc240656
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

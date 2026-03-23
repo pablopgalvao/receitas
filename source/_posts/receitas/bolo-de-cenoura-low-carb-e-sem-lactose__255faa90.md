@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura low carb e sem lactose
+id: mn3ckn0p5f06bcc0d9a2e8c8880c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo gelado de coco de liquidificador
+id: mn3ckn299e94c96cdd3fbf0420bc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

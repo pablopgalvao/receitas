@@ -1,5 +1,6 @@
 ---
 title: Feijoada vegana
+id: mn3ckna80b6aa3d643da00222cb2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

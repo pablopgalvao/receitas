@@ -1,5 +1,6 @@
 ---
 title: Salada de frutas primaveril com cachaça
+id: mn3cko3se9809001bfa65d3ca18a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

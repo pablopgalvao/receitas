@@ -1,5 +1,6 @@
 ---
 title: Wrap de Big Mac
+id: mn3ckojp7abff2c8db8ff0f56a23
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

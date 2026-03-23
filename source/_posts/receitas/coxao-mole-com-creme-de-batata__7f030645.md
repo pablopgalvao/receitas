@@ -1,5 +1,6 @@
 ---
 title: Coxão mole com creme de batata
+id: mn3ckn6v811e25ab87292cae45a2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

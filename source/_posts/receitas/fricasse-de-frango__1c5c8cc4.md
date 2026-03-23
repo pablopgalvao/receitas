@@ -1,5 +1,6 @@
 ---
 title: Fricassé de frango
+id: mn3cknbs6a9df99991542ce25a4e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

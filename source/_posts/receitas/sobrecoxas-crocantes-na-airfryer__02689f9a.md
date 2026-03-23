@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxas crocantes na airfryer
+id: mn3cko99174677f8fea67d55dfd7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

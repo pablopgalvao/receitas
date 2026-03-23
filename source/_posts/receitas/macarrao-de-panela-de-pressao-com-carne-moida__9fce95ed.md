@@ -1,5 +1,6 @@
 ---
 title: Macarrão de panela de pressão com carne moída
+id: mn3cknh26b3034f58a67f4bf20af
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

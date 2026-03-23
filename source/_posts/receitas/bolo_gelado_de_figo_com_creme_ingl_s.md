@@ -1,5 +1,6 @@
 ---
 title: Bolo gelado de figo com creme inglês
+id: mn3ckn2t59560174422d46a3ffd7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

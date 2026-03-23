@@ -1,5 +1,6 @@
 ---
 title: Salada de lentilha com couve-flor
+id: mn3cko5u079aacfdab1f8197d282
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

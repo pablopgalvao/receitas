@@ -1,5 +1,6 @@
 ---
 title: Arroz de brócolis
+id: mn3ckmwvcc5f4f831d7bbbbfd237
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

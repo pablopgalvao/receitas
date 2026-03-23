@@ -1,5 +1,6 @@
 ---
 title: Feijão-preto com tomate e folhas de coentro
+id: mn3cknafd548b042838aa8edcf13
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

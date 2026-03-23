@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro com nibs de cacau
+id: mn3ckn385621d99edb037f0e48e8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

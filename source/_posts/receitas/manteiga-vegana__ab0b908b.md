@@ -1,5 +1,6 @@
 ---
 title: Manteiga vegana
+id: mn3ckni6710b196cf031e616728b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Dobradinha rápida
+id: mn3ckn8c9edb91a70eccb36a21d5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

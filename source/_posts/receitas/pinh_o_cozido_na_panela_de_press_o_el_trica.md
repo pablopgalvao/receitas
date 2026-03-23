@@ -1,5 +1,6 @@
 ---
 title: Pinhão cozido na panela de pressão elétrica
+id: mn3ckntz3d1b40f113296e7120f5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

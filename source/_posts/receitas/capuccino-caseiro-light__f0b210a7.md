@@ -1,5 +1,6 @@
 ---
 title: Capuccino caseiro light
+id: mn3ckn4me8203ad335ad7c5e6fe9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

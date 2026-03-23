@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã simples
+id: mn3ckn1o486461836b04806f4c8c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

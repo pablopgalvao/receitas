@@ -1,5 +1,6 @@
 ---
 title: Abobrinha crocante no forno
+id: mn3ckmvq425723e3006aa324405c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

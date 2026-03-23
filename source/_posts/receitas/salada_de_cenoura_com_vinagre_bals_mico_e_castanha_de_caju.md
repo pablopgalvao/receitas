@@ -1,5 +1,6 @@
 ---
 title: Salada de cenoura com vinagre balsâmico e castanha-de-caju
+id: mn3cko54e350927214fc17609f7d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

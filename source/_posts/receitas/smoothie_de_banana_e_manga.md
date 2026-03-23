@@ -1,5 +1,6 @@
 ---
 title: Smoothie de banana e manga
+id: mn3cko8yb3bfeb2767fe0d8ca13d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

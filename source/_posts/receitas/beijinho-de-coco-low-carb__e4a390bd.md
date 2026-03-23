@@ -1,5 +1,6 @@
 ---
 title: Beijinho de coco low carb
+id: mn3ckmyf5d417fb8b55c53a3fe8b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

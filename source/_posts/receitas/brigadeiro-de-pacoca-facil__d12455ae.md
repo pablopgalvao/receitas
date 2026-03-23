@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de paçoca fácil
+id: mn3ckn35f8814bd1c06aa77dfff1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

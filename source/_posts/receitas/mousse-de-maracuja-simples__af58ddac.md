@@ -1,5 +1,6 @@
 ---
 title: Mousse de maracujá simples
+id: mn3cknl5980b1d68c936871538e9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

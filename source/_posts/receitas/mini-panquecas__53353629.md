@@ -1,5 +1,6 @@
 ---
 title: Mini panquecas
+id: mn3cknix73ccdba6f7e93fb8e933
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

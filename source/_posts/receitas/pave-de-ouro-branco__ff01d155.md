@@ -1,5 +1,6 @@
 ---
 title: Pavê de Ouro Branco
+id: mn3cknsi8d14125d3de07310fc83
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

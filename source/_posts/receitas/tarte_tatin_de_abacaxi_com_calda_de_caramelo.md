@@ -1,5 +1,6 @@
 ---
 title: Tarte tatin de abacaxi com calda de caramelo
+id: mn3ckodq5d54d10650790e06e021
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

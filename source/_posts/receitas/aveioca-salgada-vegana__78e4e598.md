@@ -1,5 +1,6 @@
 ---
 title: Aveioca salgada vegana
+id: mn3ckmxi384f9c96de91fda172bf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

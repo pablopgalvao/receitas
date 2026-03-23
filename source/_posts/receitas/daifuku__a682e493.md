@@ -1,5 +1,6 @@
 ---
 title: Daifuku tradicional
+id: mn3ckn86a631960da382d1cdd622
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

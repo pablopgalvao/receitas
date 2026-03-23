@@ -1,5 +1,6 @@
 ---
 title: Lasanha de berinjela com ricota
+id: mn3cknfo186af8e49277974b00fa
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

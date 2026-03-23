@@ -1,5 +1,6 @@
 ---
 title: Bolo gelado de abacaxi com Ninho
+id: mn3ckn286169b2f8e6d90676660b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

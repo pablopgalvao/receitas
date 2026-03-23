@@ -1,5 +1,6 @@
 ---
 title: Frango empanado na air fryer
+id: mn3cknbf8669fc3b56d32810c2b2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

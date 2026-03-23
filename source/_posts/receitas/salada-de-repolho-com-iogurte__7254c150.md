@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho com iogurte
+id: mn3cko4jf6275e6b0b27716de6ee
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

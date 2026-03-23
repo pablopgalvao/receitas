@@ -1,5 +1,6 @@
 ---
 title: Lentilha do dia a dia
+id: mn3ckng2c0d9864ea9a01c647bab
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Farofa de banana fácil
+id: mn3ckn9v3552260cc02c39c552a8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

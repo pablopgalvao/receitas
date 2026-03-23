@@ -1,5 +1,6 @@
 ---
 title: Fricassê de frango simples e saboroso
+id: mn3cknbsbcaa8319bda950cd9e81
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

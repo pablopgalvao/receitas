@@ -1,5 +1,6 @@
 ---
 title: Bolo de tapioca de liquidificador
+id: mn3ckn2478c9f0243beaa6449a9b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

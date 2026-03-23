@@ -1,5 +1,6 @@
 ---
 title: Chimarrão tradicional
+id: mn3ckn5o93864db23623a30ff1d9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

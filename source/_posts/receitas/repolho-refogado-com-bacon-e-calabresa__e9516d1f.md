@@ -1,5 +1,6 @@
 ---
 title: Repolho refogado com bacon e calabresa
+id: mn3cko0tee454c1090b55df28048
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pasta de ervilha com abacate
+id: mn3cknrkcb9eb42c337a24f4ae66
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

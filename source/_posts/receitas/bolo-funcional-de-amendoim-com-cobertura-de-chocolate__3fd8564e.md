@@ -1,5 +1,6 @@
 ---
 title: Bolo funcional de amendoim com cobertura de chocolate
+id: mn3ckn270e2431700502c91bd6a3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

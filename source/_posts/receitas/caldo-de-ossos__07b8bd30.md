@@ -1,5 +1,6 @@
 ---
 title: Caldo de ossos
+id: mn3ckn4735d1cebf178f77e48d78
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Caldo de abóbora com ragu de costela
+id: mn3ckn43ca489b2e839dd8345497
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

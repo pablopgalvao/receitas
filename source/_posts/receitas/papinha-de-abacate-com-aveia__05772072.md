@@ -1,5 +1,6 @@
 ---
 title: Papinha de abacate com aveia
+id: mn3cknrgdb83b9e358e5a8f4d4a4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

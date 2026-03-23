@@ -1,5 +1,6 @@
 ---
 title: Frigideira baiana de bacalhau
+id: mn3cknbvd58a324326250ded7746
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

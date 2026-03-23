@@ -1,5 +1,6 @@
 ---
 title: Cenoura grelhada com molho de curry
+id: mn3ckn5ae5d4a9c1b9bb75715fde
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

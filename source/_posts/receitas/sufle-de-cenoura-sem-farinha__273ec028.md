@@ -1,5 +1,6 @@
 ---
 title: Suflê de cenoura sem farinha
+id: mn3ckocs33a5977e8e1135df3ed4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

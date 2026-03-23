@@ -1,5 +1,6 @@
 ---
 title: Cappuccino zero açúcar
+id: mn3ckn4l9ca3c7c340ba3f9528db
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

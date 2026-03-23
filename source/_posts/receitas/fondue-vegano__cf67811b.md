@@ -1,5 +1,6 @@
 ---
 title: Fondue vegano
+id: mn3cknb11fd9fc9ba683406a2201
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Lentilha fácil e rápida
+id: mn3ckng1a947a8473be2cfa8fd61
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

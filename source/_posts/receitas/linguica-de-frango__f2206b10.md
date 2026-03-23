@@ -1,5 +1,6 @@
 ---
 title: Linguiça de frango
+id: mn3ckng978bee88a180fb022bc65
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

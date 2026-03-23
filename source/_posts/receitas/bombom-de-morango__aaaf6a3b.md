@@ -1,5 +1,6 @@
 ---
 title: Bombom de morango
+id: mn3ckn2xc9da78e45cd4ceeb4ce1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

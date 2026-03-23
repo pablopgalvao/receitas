@@ -1,5 +1,6 @@
 ---
 title: Abóbora refogada com sálvia
+id: mn3ckmw00a03e5becf5b445df615
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

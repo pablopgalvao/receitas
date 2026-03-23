@@ -1,5 +1,6 @@
 ---
 title: Farofa de bacon com calabresa simples
+id: mn3ckn9u4aefa7bb2d7dd1f954ff
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

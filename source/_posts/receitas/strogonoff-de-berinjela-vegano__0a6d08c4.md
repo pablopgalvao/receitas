@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de berinjela vegano
+id: mn3ckobpdcfcf69b234506143338
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

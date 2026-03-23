@@ -1,5 +1,6 @@
 ---
 title: Arroz com couve e coco
+id: mn3ckmx6a649e7e03ea59783f455
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

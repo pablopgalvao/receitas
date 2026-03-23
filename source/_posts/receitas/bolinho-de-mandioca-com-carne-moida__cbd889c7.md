@@ -1,5 +1,6 @@
 ---
 title: Bolinho de mandioca com carne moída
+id: mn3ckmzr5220f1729c1d5e230476
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

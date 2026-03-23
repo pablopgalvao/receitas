@@ -1,5 +1,6 @@
 ---
 title: Rondelli de abobrinha com frango
+id: mn3cko2t99a1d70a42268b2848e4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

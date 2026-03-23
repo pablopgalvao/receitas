@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com queijo ralado
+id: mn3ckn123a88d3f7c2c8033fdd70
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

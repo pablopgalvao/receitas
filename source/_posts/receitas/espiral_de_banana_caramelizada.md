@@ -1,5 +1,6 @@
 ---
 title: Espiral de banana caramelizada
+id: mn3ckn9pa486e46ec73f5cc93fa6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

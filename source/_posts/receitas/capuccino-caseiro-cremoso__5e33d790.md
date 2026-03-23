@@ -1,5 +1,6 @@
 ---
 title: Capuccino caseiro cremoso
+id: mn3ckn4l08302ba281c9bfdf5056
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

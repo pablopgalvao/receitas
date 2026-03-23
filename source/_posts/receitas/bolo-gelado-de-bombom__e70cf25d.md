@@ -1,5 +1,6 @@
 ---
 title: Bolo gelado de bombom
+id: mn3ckn28680db84e94e5b773e4b2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Torta rústica de abobrinha com ricota
+id: mn3ckohdf46f8bd909861f5d2243
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

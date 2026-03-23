@@ -1,5 +1,6 @@
 ---
 title: Vagem refogada com especiarias
+id: mn3ckoid8abc5ebf3ddd0addd8c8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

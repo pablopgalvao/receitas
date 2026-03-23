@@ -1,5 +1,6 @@
 ---
 title: Creme de abóbora com frango desfiado
+id: mn3ckn757e58c0ffb882b82b27f6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

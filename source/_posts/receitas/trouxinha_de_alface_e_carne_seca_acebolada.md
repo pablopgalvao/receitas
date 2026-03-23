@@ -1,5 +1,6 @@
 ---
 title: Trouxinha de alface e carne-seca acebolada
+id: mn3ckohv09414f944fa1313d2cc4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

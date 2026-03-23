@@ -1,5 +1,6 @@
 ---
 title: Bombom de coco de travessa com bolo
+id: mn3ckn2wdb7958eca8e612d502d0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

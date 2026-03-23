@@ -1,5 +1,6 @@
 ---
 title: Torta rústica ratatouille
+id: mn3ckohj9fa5a017056eef7987d1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

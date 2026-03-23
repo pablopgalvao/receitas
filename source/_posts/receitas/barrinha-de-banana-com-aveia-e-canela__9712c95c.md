@@ -1,5 +1,6 @@
 ---
 title: Barrinha de banana com aveia e canela
+id: mn3ckmxycc26e37a75a097264b0c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Costela de tambaqui na airfryer
+id: mn3ckn6k429fc911a55e2d4a0157
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Cozido de batata-doce com couve
+id: mn3ckn6zeb9210078aa4b338adfe
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

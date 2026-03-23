@@ -1,5 +1,6 @@
 ---
 title: Rabanada recheada com Nutella
+id: mn3cknzz16b42e20ed310c682171
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

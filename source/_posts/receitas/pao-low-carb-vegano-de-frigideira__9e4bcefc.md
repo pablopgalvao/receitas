@@ -1,5 +1,6 @@
 ---
 title: Pão low carb vegano de frigideira
+id: mn3cknr1e1c3ef2fc38b6e1df699
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

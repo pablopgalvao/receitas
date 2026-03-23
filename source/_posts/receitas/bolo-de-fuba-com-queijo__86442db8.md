@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com queijo
+id: mn3ckn12351f3093c1d837bbe9a3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pavê de morango
+id: mn3cknsf2084156f1c1f325b873e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

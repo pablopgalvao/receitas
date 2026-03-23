@@ -1,5 +1,6 @@
 ---
 title: Paillard de frango com espaguete de pupunha
+id: mn3cknmr9330c46c5a7f357a9b0b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

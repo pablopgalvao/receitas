@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa de frango assada com ervas
+id: mn3cko95690535b714d87870df9f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

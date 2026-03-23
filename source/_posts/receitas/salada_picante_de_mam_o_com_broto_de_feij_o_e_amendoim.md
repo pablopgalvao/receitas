@@ -1,5 +1,6 @@
 ---
 title: Salada picante de mamão com broto de feijão e amendoim
+id: mn3cko6ped59f453d6665de14c3a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

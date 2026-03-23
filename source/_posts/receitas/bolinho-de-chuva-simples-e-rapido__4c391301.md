@@ -1,5 +1,6 @@
 ---
 title: Bolinho de chuva simples e rápido
+id: mn3ckmzo082d5b8b1405fcbb2a9a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

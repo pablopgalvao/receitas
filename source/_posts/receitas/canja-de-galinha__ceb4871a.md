@@ -1,5 +1,6 @@
 ---
 title: Canja de galinha
+id: mn3ckn4a495f7e384454a260a6f2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

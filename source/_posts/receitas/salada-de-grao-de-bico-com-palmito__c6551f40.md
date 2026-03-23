@@ -1,5 +1,6 @@
 ---
 title: Salada de grão-de-bico com palmito
+id: mn3cko4220b4094bb3185c3debbd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Abobrinha empanada
+id: mn3ckmvsc772135ab485acedde87
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

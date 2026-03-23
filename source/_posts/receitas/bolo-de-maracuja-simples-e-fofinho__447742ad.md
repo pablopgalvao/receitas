@@ -1,5 +1,6 @@
 ---
 title: Bolo de maracujá simples e fofinho
+id: mn3ckn1s566d182b4d952e294777
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

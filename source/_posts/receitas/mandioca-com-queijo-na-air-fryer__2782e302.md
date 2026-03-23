@@ -1,5 +1,6 @@
 ---
 title: Mandioca com queijo na air fryer
+id: mn3ckni1c41ec479cfd046f1fd61
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de chocolate com ganache
+id: mn3ckn2nadf7904af826ca4abbc1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

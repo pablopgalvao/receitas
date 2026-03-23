@@ -1,5 +1,6 @@
 ---
 title: Massa com camarão rápida
+id: mn3cknia1fd9ee9db61e602ae377
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de mandioca com carne
+id: mn3ckn9ff245482e52ccf3683127
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

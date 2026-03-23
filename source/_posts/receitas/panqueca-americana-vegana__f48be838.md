@@ -1,5 +1,6 @@
 ---
 title: Panqueca americana vegana
+id: mn3cknor4070f67beb598f091c13
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

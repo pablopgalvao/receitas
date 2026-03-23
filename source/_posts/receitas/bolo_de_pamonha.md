@@ -1,5 +1,6 @@
 ---
 title: Bolo de pamonha
+id: mn3ckn2p18379e7b49d21c12fafb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Purê de batata com azeite e cebolinha
+id: mn3cknwq06fd314d5c4ee5c4edfd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

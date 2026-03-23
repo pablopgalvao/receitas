@@ -1,5 +1,6 @@
 ---
 title: Moqueca de camarão
+id: mn3cknk32874d5c96fafa56dd42d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

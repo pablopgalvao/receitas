@@ -1,5 +1,6 @@
 ---
 title: Hot dog de forno
+id: mn3ckne450c86e4216ae92a1de8c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

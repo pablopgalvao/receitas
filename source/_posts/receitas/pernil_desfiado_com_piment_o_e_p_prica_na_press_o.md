@@ -1,5 +1,6 @@
 ---
 title: Pernil desfiado com pimentão e páprica na pressão
+id: mn3ckntf74113ba110be45ab8ea8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

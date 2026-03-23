@@ -1,5 +1,6 @@
 ---
 title: Cupim suculento na panela de pressão
+id: mn3ckn7sddad9d3c7b58f7d4b661
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

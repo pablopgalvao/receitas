@@ -1,5 +1,6 @@
 ---
 title: Mousse de abacaxi simples no liquidificador
+id: mn3cknkc6c83ed55b8f3626b7f0a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

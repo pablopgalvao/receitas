@@ -1,5 +1,6 @@
 ---
 title: Suflê de abóbora simples
+id: mn3ckoco8dde4e11ac7081babbae
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

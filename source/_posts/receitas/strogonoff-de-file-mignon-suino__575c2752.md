@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de filé mignon suíno
+id: mn3ckoc33b1dbda665dbdc3752a5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

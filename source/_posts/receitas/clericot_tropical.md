@@ -1,5 +1,6 @@
 ---
 title: Clericot tropical
+id: mn3ckn609bcb60a987d30d44dfb0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

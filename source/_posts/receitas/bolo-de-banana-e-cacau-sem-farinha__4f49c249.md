@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana e cacau sem farinha
+id: mn3ckn0d76c9406a2418002e849d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

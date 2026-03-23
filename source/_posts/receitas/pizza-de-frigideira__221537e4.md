@@ -1,5 +1,6 @@
 ---
 title: Pizza de frigideira
+id: mn3cknuj6844e03063d2a2710c33
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

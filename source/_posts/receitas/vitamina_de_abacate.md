@@ -1,5 +1,6 @@
 ---
 title: Vitamina de abacate
+id: mn3ckojjad752d51011ae42c4142
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

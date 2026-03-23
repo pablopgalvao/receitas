@@ -1,5 +1,6 @@
 ---
 title: Salada de agrião com mandioquinha e figo
+id: mn3cko4y033819bbe2ffbe8e7ead
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

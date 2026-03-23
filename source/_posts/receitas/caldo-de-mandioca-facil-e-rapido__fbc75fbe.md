@@ -1,5 +1,6 @@
 ---
 title: Caldo de mandioca fácil e rápido
+id: mn3ckn4779d4e407967154f2fde8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

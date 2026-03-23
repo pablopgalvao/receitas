@@ -1,5 +1,6 @@
 ---
 title: Beiju de tapioca com cúrcuma
+id: mn3ckmyj231eccec085dca2aaeef
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

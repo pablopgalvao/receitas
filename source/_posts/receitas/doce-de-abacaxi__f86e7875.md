@@ -1,5 +1,6 @@
 ---
 title: Doce de abacaxi
+id: mn3ckn8cfc5db7a02e79fc1d87fd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

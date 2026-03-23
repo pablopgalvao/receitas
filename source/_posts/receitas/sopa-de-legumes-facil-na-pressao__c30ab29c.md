@@ -1,5 +1,6 @@
 ---
 title: Sopa de legumes fácil na pressão
+id: mn3ckoa6d8ca34b0575c40693893
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

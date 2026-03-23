@@ -1,5 +1,6 @@
 ---
 title: Dobradinha com feijão-branco
+id: mn3ckn89fe8f0f170af8d85bcada
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

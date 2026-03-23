@@ -1,5 +1,6 @@
 ---
 title: Pão de abobrinha fácil
+id: mn3cknq90f14675d9e3704f95b3a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

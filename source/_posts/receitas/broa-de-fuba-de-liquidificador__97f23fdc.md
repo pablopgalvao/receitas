@@ -1,5 +1,6 @@
 ---
 title: Broa de fubá de liquidificador
+id: mn3ckn3b7e0f0dd1692483641f67
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Frango ao curry simples
+id: mn3cknb7abf230754967b1fd0aea
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

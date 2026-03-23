@@ -1,5 +1,6 @@
 ---
 title: Frango Dijon
+id: mn3cknbe3b4c475aac8f2a0fad7b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Panqueca de alface
+id: mn3cknp910afae241908c27c30f1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

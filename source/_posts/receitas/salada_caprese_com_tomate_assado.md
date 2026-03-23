@@ -1,5 +1,6 @@
 ---
 title: Salada caprese com tomate assado
+id: mn3cko4v7f2ef93d931760b9cd94
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

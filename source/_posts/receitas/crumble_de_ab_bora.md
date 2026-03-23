@@ -1,5 +1,6 @@
 ---
 title: Crumble de abóbora
+id: mn3ckn7m16573d8d2817a135489f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

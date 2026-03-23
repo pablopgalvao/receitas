@@ -1,5 +1,6 @@
 ---
 title: Bolo de mandioca cremoso
+id: mn3ckn1r53c5e5d01cf69eb647c4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

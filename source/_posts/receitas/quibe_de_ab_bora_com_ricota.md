@@ -1,5 +1,6 @@
 ---
 title: Quibe de abóbora com ricota
+id: mn3cknz369a06dc2fa4157b238c5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

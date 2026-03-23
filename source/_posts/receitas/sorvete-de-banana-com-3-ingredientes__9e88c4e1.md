@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana com 3 ingredientes
+id: mn3ckob15a6da3610d71aceac5fd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

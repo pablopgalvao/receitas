@@ -1,5 +1,6 @@
 ---
 title: Torta com compota de frutas
+id: mn3ckoh1d62a15941edd856f91d6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

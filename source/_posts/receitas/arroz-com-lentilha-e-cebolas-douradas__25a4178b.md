@@ -1,5 +1,6 @@
 ---
 title: Arroz com lentilha e cebolas douradas
+id: mn3ckmwr1073a4eb7e8186c7b3ac
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

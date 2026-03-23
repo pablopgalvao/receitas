@@ -1,5 +1,6 @@
 ---
 title: Fricassê de frango de panela
+id: mn3cknbr554b0c96f755ad84091d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

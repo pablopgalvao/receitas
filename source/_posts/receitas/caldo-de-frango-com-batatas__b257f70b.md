@@ -1,5 +1,6 @@
 ---
 title: Caldo de frango com batatas
+id: mn3ckn45ad6386bdda93f5493650
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

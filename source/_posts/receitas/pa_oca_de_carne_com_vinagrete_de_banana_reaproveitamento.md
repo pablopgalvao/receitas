@@ -1,5 +1,6 @@
 ---
 title: Paçoca de carne com vinagrete de banana (reaproveitamento)
+id: mn3cknsqebad0669e0e73bd29cc6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

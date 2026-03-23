@@ -1,5 +1,6 @@
 ---
 title: Repolho grelhado
+id: mn3cko11b09b3a86afdf2608d039
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

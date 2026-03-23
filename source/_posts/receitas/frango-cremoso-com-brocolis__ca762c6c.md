@@ -1,5 +1,6 @@
 ---
 title: Frango cremoso com brócolis
+id: mn3cknbcf4bdb8af33cf73de770d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

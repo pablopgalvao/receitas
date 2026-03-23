@@ -1,5 +1,6 @@
 ---
 title: Salada de abobrinha com hortelã
+id: mn3cko4x291e4e404879355cbf2b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Abobrinha refogada
+id: mn3ckmvw899e4da500eed43a8bf1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

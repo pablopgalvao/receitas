@@ -1,5 +1,6 @@
 ---
 title: Doce de abóbora em pasta
+id: mn3ckn8f4611fe4bec3c847eceb6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

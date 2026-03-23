@@ -1,5 +1,6 @@
 ---
 title: Cocotte de ervilha com ricota
+id: mn3ckn649dd8920ad01907a3d8f8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

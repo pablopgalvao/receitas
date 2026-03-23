@@ -1,5 +1,6 @@
 ---
 title: Bolinho de batata-doce simples
+id: mn3ckmzj4af0514bc2f8094fc742
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

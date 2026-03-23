@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho americana (coleslaw)
+id: mn3cko68157c7eb039c4b424a869
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

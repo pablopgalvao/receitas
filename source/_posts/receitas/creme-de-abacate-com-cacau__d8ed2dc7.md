@@ -1,5 +1,6 @@
 ---
 title: Creme de abacate com cacau
+id: mn3ckn7340abfb66e308d058c48c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

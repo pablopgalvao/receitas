@@ -1,5 +1,6 @@
 ---
 title: Omelete
+id: mn3cknmec7e9354d9a9764ad38ec
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

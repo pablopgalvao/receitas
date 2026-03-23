@@ -1,5 +1,6 @@
 ---
 title: Pastel de carne assado
+id: mn3cknrr274725addea6bc32d952
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

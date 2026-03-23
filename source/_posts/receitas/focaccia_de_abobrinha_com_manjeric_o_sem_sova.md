@@ -1,5 +1,6 @@
 ---
 title: Focaccia de abobrinha com manjericão (sem sova)
+id: mn3cknau4e4d05c1d90ef0fe3503
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

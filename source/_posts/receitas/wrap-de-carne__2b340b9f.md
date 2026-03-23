@@ -1,5 +1,6 @@
 ---
 title: Wrap de carne
+id: mn3ckojp30aa5b7908a721fb8f67
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

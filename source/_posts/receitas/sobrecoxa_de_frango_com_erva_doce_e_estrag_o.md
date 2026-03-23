@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa de frango com erva-doce e estragão
+id: mn3cko9c0d55ab042b57db9fd6f9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Batata recheada vegetariana
+id: mn3ckmy45ea50b135b91a8089b3e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

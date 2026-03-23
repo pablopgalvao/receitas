@@ -1,5 +1,6 @@
 ---
 title: Bellini com suco natural de pêssego
+id: mn3ckmyk93e5477b9195d7dd072c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Carne de soja de panela
+id: mn3ckn4uce60f69a76914fdfb0cd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

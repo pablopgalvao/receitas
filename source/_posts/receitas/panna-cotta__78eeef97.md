@@ -1,5 +1,6 @@
 ---
 title: Panna cotta
+id: mn3cknoo20c36082d3f51b7caeca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

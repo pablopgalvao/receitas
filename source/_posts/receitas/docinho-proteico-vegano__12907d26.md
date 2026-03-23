@@ -1,5 +1,6 @@
 ---
 title: Docinho proteico vegano
+id: mn3ckn8m1e548af43bd7031a4e1b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

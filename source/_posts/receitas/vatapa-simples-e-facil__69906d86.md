@@ -1,5 +1,6 @@
 ---
 title: Vatapá simples e fácil
+id: mn3ckoigee6e2e577b75f5ee5c5b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

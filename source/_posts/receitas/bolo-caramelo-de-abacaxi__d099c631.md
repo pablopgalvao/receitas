@@ -1,5 +1,6 @@
 ---
 title: Bolo caramelo de abacaxi
+id: mn3ckn0073a9acc1f0407b8a76d9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pastel de forno integral simples
+id: mn3cknrqbf29b99009cf5974bbc8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Curry em pó caseiro
+id: mn3ckn7x94fa0fc3d7605600f481
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Ceviche de peixe com abacaxi
+id: mn3ckn5f67e43a56cc661545452e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

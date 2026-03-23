@@ -1,5 +1,6 @@
 ---
 title: Filé de salmão
+id: mn3cknalb86dae036d87e4fe9007
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

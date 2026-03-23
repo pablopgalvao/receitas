@@ -1,5 +1,6 @@
 ---
 title: Carne de casca de banana com pimentão
+id: mn3ckn4r021cd647ef27cc18a548
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

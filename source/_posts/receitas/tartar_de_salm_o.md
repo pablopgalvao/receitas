@@ -1,5 +1,6 @@
 ---
 title: Tartar de salmão
+id: mn3ckodpa0e77d95c47212d4a65a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

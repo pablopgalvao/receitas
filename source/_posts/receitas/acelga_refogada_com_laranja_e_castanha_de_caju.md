@@ -1,5 +1,6 @@
 ---
 title: Acelga refogada com laranja e castanha-de-caju
+id: mn3ckmw30e5d353426071d941df8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

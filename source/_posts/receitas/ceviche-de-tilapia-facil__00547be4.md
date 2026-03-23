@@ -1,5 +1,6 @@
 ---
 title: Ceviche de tilápia fácil
+id: mn3ckn5ea2b384d9cee4c52df42f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Maçã assada com crocante de aveia
+id: mn3cknil9e17dfc2f5abbfffc523
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

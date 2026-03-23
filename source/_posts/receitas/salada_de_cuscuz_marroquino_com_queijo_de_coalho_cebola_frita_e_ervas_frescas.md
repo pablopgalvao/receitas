@@ -1,5 +1,6 @@
 ---
 title: 'Salada de cuscuz marroquino com queijo de coalho, cebola frita e ervas frescas'
+id: mn3cko5d852a6ca022dde538e69b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Camarão à fiorentina
+id: mn3ckn48ca28ded03e9267c2fdcd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

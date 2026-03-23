@@ -1,5 +1,6 @@
 ---
 title: Ovo frito no creme de leite
+id: mn3cknmnf664e0f988d81bc8f14a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

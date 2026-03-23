@@ -1,5 +1,6 @@
 ---
 title: Macarrão com camarão fácil
+id: mn3ckngraf4b2ecb6a62dce270b3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

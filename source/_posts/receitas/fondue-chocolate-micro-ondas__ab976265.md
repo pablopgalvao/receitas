@@ -1,5 +1,6 @@
 ---
 title: Fondue de chocolate de micro-ondas
+id: mn3cknay62d6e2893c655a3d4fe7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

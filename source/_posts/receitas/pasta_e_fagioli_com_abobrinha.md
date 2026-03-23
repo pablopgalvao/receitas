@@ -1,5 +1,6 @@
 ---
 title: Pasta e fagioli com abobrinha
+id: mn3cknrm9d0b613a111f84ab5211
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

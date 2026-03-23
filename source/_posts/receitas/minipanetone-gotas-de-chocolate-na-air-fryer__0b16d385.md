@@ -1,5 +1,6 @@
 ---
 title: Minipanetone com gotas de chocolate na Air Fryer
+id: mn3ckniz692bacac5706e0a25e2a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

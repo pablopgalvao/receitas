@@ -1,5 +1,6 @@
 ---
 title: Ensopado de abobrinha com cuscuz marroquino
+id: mn3ckn8xa9d6dd435c4550299dcb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Entrecot na air fryer
+id: mn3ckn922802cf26562e181fad52
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

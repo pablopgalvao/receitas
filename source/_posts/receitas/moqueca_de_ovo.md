@@ -1,5 +1,6 @@
 ---
 title: Moqueca de ovo
+id: mn3cknk79f55b008198d5b8c675e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de mexidinho com cozido de batata-doce
+id: mn3cknx5e77ccc92f402f0ec34c1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

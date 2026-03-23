@@ -1,5 +1,6 @@
 ---
 title: Peixe em roseta com arroz integral e chutney de manga
+id: mn3cknt4f0605e12c64708f7711a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

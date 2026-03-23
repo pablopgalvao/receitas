@@ -1,5 +1,6 @@
 ---
 title: Sorvete de abacaxi com 2 ingredientes
+id: mn3ckoaze694b656ade2f2bb7316
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

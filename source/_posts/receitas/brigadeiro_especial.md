@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro especial
+id: mn3ckn398cc3143df1935b289405
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

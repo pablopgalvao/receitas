@@ -1,5 +1,6 @@
 ---
 title: Creme batido
+id: mn3ckn7a77fd3aa671db56f70603
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

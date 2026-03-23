@@ -1,5 +1,6 @@
 ---
 title: Bife de frango à rolê
+id: mn3ckmyu098739dd411714137230
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

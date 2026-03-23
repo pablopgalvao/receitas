@@ -1,5 +1,6 @@
 ---
 title: Bife com cebola cremosa
+id: mn3ckmyt4ab5216cb1ecc4bba27d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada de berinjela com molho de iogurte
+id: mn3cko52553572ee0b1470c93c78
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

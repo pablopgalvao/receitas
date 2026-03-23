@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de rabada com agrião e abóbora grelhada
+id: mn3cknx7b9c8b612e1d08eac36d0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de abobrinha com manjericão
+id: mn3ckoimb5f953be6cbd55bf02b2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

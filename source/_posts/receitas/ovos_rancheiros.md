@@ -1,5 +1,6 @@
 ---
 title: Ovos rancheiros
+id: mn3cknmlb8c3d6cb39c35246848c
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

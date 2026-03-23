@@ -1,5 +1,6 @@
 ---
 title: Geleia de morango para bolo
+id: mn3ckncsdbbc1550a0967ad827b4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

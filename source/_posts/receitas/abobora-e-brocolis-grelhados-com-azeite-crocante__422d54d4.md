@@ -1,5 +1,6 @@
 ---
 title: Abóbora e brócolis grelhados com azeite crocante
+id: mn3ckmvo27339b630fb13d8d473c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

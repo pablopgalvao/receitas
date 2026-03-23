@@ -1,5 +1,6 @@
 ---
 title: Molho vinagrete francês para salada
+id: mn3cknjx80e401eb00df5dc21fd0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com uva-passa
+id: mn3ckn0b674e6fb14685ea9e7728
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

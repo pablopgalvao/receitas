@@ -1,5 +1,6 @@
 ---
 title: Arroz persa com uva-passa e amêndoa
+id: mn3ckmx2ade750f2d7fa86f0d4f1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Camafeu de travessa
+id: mn3ckn480ef577b1b2a6832ea1ca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

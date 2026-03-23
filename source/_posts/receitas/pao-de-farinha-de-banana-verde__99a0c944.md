@@ -1,5 +1,6 @@
 ---
 title: Pão de farinha de banana verde
+id: mn3cknqj5b76105e9c38ae5cbbd6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

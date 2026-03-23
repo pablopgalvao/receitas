@@ -1,5 +1,6 @@
 ---
 title: Risoto de abóbora com queijo canastra
+id: mn3cko1b43b2388ff39ce5d1da93
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

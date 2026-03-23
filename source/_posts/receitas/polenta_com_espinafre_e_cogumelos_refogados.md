@@ -1,5 +1,6 @@
 ---
 title: Polenta com espinafre e cogumelos refogados
+id: mn3cknvda13db1fd6da0fdb50493
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

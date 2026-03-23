@@ -1,5 +1,6 @@
 ---
 title: Recheio para bolo simples e barato
+id: mn3cko0n730c1984dfe6259abbe1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

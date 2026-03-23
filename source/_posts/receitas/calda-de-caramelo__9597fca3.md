@@ -1,5 +1,6 @@
 ---
 title: Calda de caramelo
+id: mn3ckn3z425ddc0b9e3368e4a23c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Doces e bolos

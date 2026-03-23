@@ -1,5 +1,6 @@
 ---
 title: Risoto de ervilha e hortelã na pressão
+id: mn3cko1we365332249e3af5f0066
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

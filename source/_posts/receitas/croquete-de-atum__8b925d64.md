@@ -1,5 +1,6 @@
 ---
 title: Croquete de atum
+id: mn3ckn7gbe2f3aa1f7d06f369bd2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

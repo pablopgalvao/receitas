@@ -1,5 +1,6 @@
 ---
 title: Creme de ervilha com bacon
+id: mn3ckn77e5070be56ed762df0478
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

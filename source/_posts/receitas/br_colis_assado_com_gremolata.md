@@ -1,5 +1,6 @@
 ---
 title: Brócolis assado com gremolata
+id: mn3ckn3ocbd2292a3c67d808ac60
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

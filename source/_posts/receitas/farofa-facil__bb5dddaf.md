@@ -1,5 +1,6 @@
 ---
 title: Farofa fácil
+id: mn3ckna03cfb920188083b8b03a0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

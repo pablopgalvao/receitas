@@ -1,5 +1,6 @@
 ---
 title: Arroz com frango e aletria em uma panela só
+id: mn3ckmwq80bc5129eeb6d954a4f5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

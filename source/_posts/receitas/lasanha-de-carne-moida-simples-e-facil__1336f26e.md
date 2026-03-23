@@ -1,5 +1,6 @@
 ---
 title: Lasanha de carne moída simples e fácil
+id: mn3cknfib5ab81ca429eb52a691d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

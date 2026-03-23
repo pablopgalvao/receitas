@@ -1,5 +1,6 @@
 ---
 title: Frigideira de palmito
+id: mn3cknbw8d6298c53dcf41c6e261
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

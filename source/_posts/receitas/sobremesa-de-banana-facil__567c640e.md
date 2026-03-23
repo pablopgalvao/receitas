@@ -1,5 +1,6 @@
 ---
 title: Sobremesa de banana fácil
+id: mn3cko9e7b350a0a8bada81ef973
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

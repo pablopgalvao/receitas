@@ -1,5 +1,6 @@
 ---
 title: Pasta de amendoim caseira
+id: mn3cknrib34830ed5f2794d5bec7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

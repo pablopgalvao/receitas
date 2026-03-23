@@ -1,5 +1,6 @@
 ---
 title: Sopa de brócolis com batata e limão-siciliano
+id: mn3cko9r05d39441ac71d5d4990e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

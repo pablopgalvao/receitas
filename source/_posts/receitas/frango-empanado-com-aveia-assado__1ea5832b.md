@@ -1,5 +1,6 @@
 ---
 title: Frango empanado com aveia assado
+id: mn3cknbe717a16b54ff29642af6b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

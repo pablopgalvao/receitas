@@ -1,5 +1,6 @@
 ---
 title: Carne louca desfiada com tomate
+id: mn3ckn50a2694b5998a58b3af391
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

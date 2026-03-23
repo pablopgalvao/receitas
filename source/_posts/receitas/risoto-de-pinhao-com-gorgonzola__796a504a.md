@@ -1,5 +1,6 @@
 ---
 title: Risoto de pinhão com gorgonzola
+id: mn3cko1n344d16fb05b39c3ef054
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

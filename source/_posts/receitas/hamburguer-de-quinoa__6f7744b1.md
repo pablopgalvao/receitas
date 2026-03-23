@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer de quinoa
+id: mn3ckndr7c1da4d5e518620f5ceb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

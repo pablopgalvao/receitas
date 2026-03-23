@@ -1,5 +1,6 @@
 ---
 title: Empanado de frango
+id: mn3ckn8v16defd0489cf4792f686
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

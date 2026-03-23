@@ -1,5 +1,6 @@
 ---
 title: Picada catalana (pesto catalão)
+id: mn3ckntm12e2559468399d138a67
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

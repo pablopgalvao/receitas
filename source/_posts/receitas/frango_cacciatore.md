@@ -1,5 +1,6 @@
 ---
 title: Frango à cacciatore
+id: mn3cknblb6593005fa98da937ee3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

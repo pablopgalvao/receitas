@@ -1,5 +1,6 @@
 ---
 title: Torta fria de frango com purê de batata
+id: mn3ckogs4e381ce5fec2598854ff
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

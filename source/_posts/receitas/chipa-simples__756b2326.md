@@ -1,5 +1,6 @@
 ---
 title: Chipa simples
+id: mn3ckn5p16ad60cbc3db6c3a0e19
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Batata rosti vegana
+id: mn3ckmy5bd9e37328cd6d76bbae7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

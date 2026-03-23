@@ -1,5 +1,6 @@
 ---
 title: Salada de frango e abacate
+id: mn3cko3ra58c75f244ba9d581666
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

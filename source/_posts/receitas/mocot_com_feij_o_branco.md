@@ -1,5 +1,6 @@
 ---
 title: Mocotó com feijão-branco
+id: mn3cknj6a7c6f7044932257e4098
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

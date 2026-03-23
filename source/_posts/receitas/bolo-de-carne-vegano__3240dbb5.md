@@ -1,5 +1,6 @@
 ---
 title: Bolo de carne vegano
+id: mn3ckn0n5a0f1222f313298ff7ce
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

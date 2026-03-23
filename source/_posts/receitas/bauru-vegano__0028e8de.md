@@ -1,5 +1,6 @@
 ---
 title: Bauru vegano
+id: mn3ckmydc41dae5b96024fa8463b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

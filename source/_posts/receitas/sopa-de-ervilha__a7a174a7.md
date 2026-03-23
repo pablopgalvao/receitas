@@ -1,5 +1,6 @@
 ---
 title: Sopa de ervilha
+id: mn3cko9z4de93a298c970c79aa60
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

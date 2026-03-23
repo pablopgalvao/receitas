@@ -1,5 +1,6 @@
 ---
 title: Kibe na air fryer
+id: mn3cknen2cda44890b235f8726a0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Frango frito coreano
+id: mn3cknbh926dc0362966bf539cad
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Apple cart
+id: mn3ckmwl9909db12bb49f0692e5a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

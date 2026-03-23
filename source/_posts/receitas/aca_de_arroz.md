@@ -1,5 +1,6 @@
 ---
 title: Acaçá de arroz
+id: mn3ckmw16c0046090ed6e6576df7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

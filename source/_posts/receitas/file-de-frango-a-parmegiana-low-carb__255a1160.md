@@ -1,5 +1,6 @@
 ---
 title: Filé de frango à parmegiana low carb
+id: mn3cknai5430b1ea887e23a411f2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

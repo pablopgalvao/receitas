@@ -1,5 +1,6 @@
 ---
 title: Quiabo grelhado
+id: mn3cknyq0fecfd91a14292ac5836
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

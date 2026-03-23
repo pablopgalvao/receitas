@@ -1,5 +1,6 @@
 ---
 title: Bife na panela de pressão
+id: mn3ckmyxd6f37d4047c521a7a37b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

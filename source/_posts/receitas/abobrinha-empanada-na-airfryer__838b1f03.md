@@ -1,5 +1,6 @@
 ---
 title: Abobrinha empanada na airfryer
+id: mn3ckmvrd50e79582e0c8176fe04
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

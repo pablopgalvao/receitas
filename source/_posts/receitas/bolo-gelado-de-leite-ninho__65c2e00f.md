@@ -1,5 +1,6 @@
 ---
 title: Bolo gelado de leite Ninho
+id: mn3ckn2944d301c4f90d94de84bd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

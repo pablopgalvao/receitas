@@ -1,5 +1,6 @@
 ---
 title: Couve kale refogada
+id: mn3ckn6r4f31a558666034e1e9ea
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

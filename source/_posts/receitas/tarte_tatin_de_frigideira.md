@@ -1,5 +1,6 @@
 ---
 title: Tarte tatin de frigideira
+id: mn3ckodr6e15db8cbaee0bf344c8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

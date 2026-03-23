@@ -1,5 +1,6 @@
 ---
 title: Gelado de abacaxi sem gelatina
+id: mn3ckncjbf1e195c503d4f29eb80
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

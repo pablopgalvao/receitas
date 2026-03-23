@@ -1,5 +1,6 @@
 ---
 title: Bife à milanesa com farinha de trigo e ovo
+id: mn3ckmyq0f23b32c896c23e7cc75
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

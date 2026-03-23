@@ -1,5 +1,6 @@
 ---
 title: Salmão curado caseiro
+id: mn3cko6yb4a3703758ef896ee7dd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

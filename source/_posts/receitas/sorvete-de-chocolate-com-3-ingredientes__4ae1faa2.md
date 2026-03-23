@@ -1,5 +1,6 @@
 ---
 title: Sorvete de chocolate com 3 ingredientes
+id: mn3ckob93636e55658f129fcfd9a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

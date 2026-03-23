@@ -1,5 +1,6 @@
 ---
 title: Pão recheado com frango
+id: mn3cknr5d9fc214d5f9b4326d7f3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Cozido norueguês de legumes com cerveja (Lapskaus)
+id: mn3ckn7017bb32762e2b61220c69
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

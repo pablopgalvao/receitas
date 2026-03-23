@@ -1,5 +1,6 @@
 ---
 title: Doce de mamão verde
+id: mn3ckn8k307416f8845a16507f16
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Fricassê simples e rápido
+id: mn3cknbu5f8474a6b44de52ab951
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

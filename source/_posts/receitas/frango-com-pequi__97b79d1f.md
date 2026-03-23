@@ -1,5 +1,6 @@
 ---
 title: Frango com pequi
+id: mn3cknbb95aa8edcf5d4f6054e34
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

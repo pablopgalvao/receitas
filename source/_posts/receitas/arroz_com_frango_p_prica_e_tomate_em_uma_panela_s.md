@@ -1,5 +1,6 @@
 ---
 title: 'Arroz com frango, páprica e tomate em uma panela só'
+id: mn3ckmx7faf069bd8854309adf9c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

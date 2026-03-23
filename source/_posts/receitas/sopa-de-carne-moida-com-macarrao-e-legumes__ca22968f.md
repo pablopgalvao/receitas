@@ -1,5 +1,6 @@
 ---
 title: Sopa de carne moída com macarrão e legumes
+id: mn3cko9taf0302100c89f0be9aca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Pasta e fagioli em uma panela só
+id: mn3cknrn7ff6da656345ff6c834d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

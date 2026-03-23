@@ -1,5 +1,6 @@
 ---
 title: Bife à parmegiana simples
+id: mn3ckmysc80ad01406404468e340
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

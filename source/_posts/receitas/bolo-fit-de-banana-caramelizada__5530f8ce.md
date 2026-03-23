@@ -1,5 +1,6 @@
 ---
 title: Bolo fit de banana caramelizada
+id: mn3ckn26f320f9bbc2f69463895f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

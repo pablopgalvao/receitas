@@ -1,5 +1,6 @@
 ---
 title: Bolo vulcão de chocolate com cobertura de maracujá
+id: mn3ckn2k4fa33f0012b29baed725
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

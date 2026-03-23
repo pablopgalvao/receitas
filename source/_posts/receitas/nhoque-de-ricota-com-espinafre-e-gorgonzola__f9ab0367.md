@@ -1,5 +1,6 @@
 ---
 title: Nhoque de ricota com espinafre e gorgonzola
+id: mn3cknlvba3f7202a1c226d9d67d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

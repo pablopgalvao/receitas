@@ -1,5 +1,6 @@
 ---
 title: 'Macarrão com abobrinha, ricota e pesto de hortelã'
+id: mn3cknhaf67341cd97c2629ba05d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

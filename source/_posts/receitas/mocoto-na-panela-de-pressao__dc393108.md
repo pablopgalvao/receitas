@@ -1,5 +1,6 @@
 ---
 title: Mocotó na panela de pressão
+id: mn3cknj52f863496caea514011b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

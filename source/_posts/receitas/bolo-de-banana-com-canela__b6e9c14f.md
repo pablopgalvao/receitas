@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com canela
+id: mn3ckn0aabd05ddc43c526ff7fcf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

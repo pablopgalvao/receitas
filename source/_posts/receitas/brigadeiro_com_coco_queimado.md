@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro com coco queimado
+id: mn3ckn38aa782c362a281387d71d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

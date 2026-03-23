@@ -1,5 +1,6 @@
 ---
 title: Paleta bovina ao molho
+id: mn3cknnk3163090caa758ad8e644
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

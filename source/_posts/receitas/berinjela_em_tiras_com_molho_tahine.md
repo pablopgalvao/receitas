@@ -1,5 +1,6 @@
 ---
 title: Berinjela em tiras com molho tahine
+id: mn3ckmyo0a2370653a27d16b430c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

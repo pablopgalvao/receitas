@@ -1,5 +1,6 @@
 ---
 title: Salpicão vegetariano simples
+id: mn3cko7id23bc542aef05fa09312
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

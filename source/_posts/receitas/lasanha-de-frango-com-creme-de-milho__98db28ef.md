@@ -1,5 +1,6 @@
 ---
 title: Lasanha de frango com creme de milho
+id: mn3cknfj3b9bf7bb408c27ff0908
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

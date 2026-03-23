@@ -1,5 +1,6 @@
 ---
 title: Shake de abacate
+id: mn3cko8d1c6cf7511535ec37fab4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

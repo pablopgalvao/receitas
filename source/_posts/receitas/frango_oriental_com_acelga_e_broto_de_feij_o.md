@@ -1,5 +1,6 @@
 ---
 title: Frango oriental com acelga e broto de feijão
+id: mn3cknbob2328d8e0aa2d02e8f34
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer de peixe
+id: mn3ckndw8cd80734c5df1609c5cd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

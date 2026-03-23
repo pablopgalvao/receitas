@@ -1,5 +1,6 @@
 ---
 title: Creme de abóbora com carne moída
+id: mn3ckn74fddb5c9c10beacc4fcbe
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

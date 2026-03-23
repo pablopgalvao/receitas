@@ -1,5 +1,6 @@
 ---
 title: Salada de couve com vinagrete de laranja
+id: mn3cko5653250d2382d04d711488
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Abobrinha na air fryer
+id: mn3ckmvu579dd75721a77fedba13
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

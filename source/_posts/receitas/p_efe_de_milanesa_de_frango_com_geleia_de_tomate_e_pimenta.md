@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de milanesa de frango com geleia de tomate e pimenta
+id: mn3cknx6235372c6896da8f6b116
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

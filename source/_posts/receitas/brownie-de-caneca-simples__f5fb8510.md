@@ -1,5 +1,6 @@
 ---
 title: Brownie de caneca simples
+id: mn3ckn3hcd8ace4818cccbc41899
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

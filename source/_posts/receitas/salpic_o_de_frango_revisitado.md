@@ -1,5 +1,6 @@
 ---
 title: Salpicão de frango revisitado
+id: mn3cko7j82645f905ff60f76045d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Rocambole de batata com carne moída vegetal
+id: mn3cko2e09e476af14f140af3c46
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

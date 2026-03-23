@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho refogado
+id: mn3cko4m11026d3517e56d736953
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

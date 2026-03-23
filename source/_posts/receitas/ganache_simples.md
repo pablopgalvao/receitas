@@ -1,5 +1,6 @@
 ---
 title: Ganache simples
+id: mn3ckncbc9ed6b2b2c34a15cf008
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

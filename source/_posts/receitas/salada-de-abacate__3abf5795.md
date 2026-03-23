@@ -1,5 +1,6 @@
 ---
 title: Salada de abacate
+id: mn3cko3d1a0b2f3c5695892c870a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Pavê de panetone simples
+id: mn3cknsq129dbabd7972b331e57d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

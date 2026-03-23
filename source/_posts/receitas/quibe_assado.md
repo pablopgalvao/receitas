@@ -1,5 +1,6 @@
 ---
 title: Quibe assado
+id: mn3cknz1a71cf51a6e8943184c54
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

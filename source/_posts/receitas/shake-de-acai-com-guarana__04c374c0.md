@@ -1,5 +1,6 @@
 ---
 title: Shake de açaí com guaraná
+id: mn3cko8f83ce05c8d2ca54ce0909
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

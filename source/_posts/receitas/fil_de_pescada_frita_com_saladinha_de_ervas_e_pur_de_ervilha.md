@@ -1,5 +1,6 @@
 ---
 title: Filé de pescada frita com saladinha de ervas e purê de ervilha
+id: mn3cknaq9ada94ac74163423159a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

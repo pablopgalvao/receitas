@@ -1,5 +1,6 @@
 ---
 title: Arroz com cenoura
+id: mn3ckmx58b880b3a48a4b07b9a5e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

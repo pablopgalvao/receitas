@@ -1,5 +1,6 @@
 ---
 title: Suflê de chocolate na air fryer
+id: mn3ckoctc21918032668d8b70605
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

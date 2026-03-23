@@ -1,5 +1,6 @@
 ---
 title: Nhoque de abóbora com molho de laranja
+id: mn3cknlzf98a3321debd5e051cbf
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mingau de fubá
+id: mn3ckniw33acb544f31501f803cd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

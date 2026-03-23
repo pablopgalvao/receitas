@@ -1,5 +1,6 @@
 ---
 title: Bolinho de feijão fradinho com ora-pro-nóbis
+id: mn3ckmzq395fd52f577974aa658b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

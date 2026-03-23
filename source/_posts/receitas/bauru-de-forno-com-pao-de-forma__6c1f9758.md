@@ -1,5 +1,6 @@
 ---
 title: Bauru de forno com pão de forma
+id: mn3ckmyc71296fa4f916bfa33813
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Arroz cremoso com carne seca
+id: mn3ckmws01c12aaecc1ef3e3b186
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

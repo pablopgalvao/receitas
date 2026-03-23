@@ -1,5 +1,6 @@
 ---
 title: Arroz sete cereais frito com cenoura e gengibre
+id: mn3ckmxh3f0b66652c9eb91ccb21
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

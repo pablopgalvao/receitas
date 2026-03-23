@@ -1,5 +1,6 @@
 ---
 title: Bolo fit
+id: mn3ckn27addbcde5168da0d83b5a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

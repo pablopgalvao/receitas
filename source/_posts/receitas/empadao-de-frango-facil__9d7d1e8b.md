@@ -1,5 +1,6 @@
 ---
 title: Empadão de frango fácil
+id: mn3ckn8qc12e7a402c49100a391c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Capuccino caseiro simples
+id: mn3ckn4mddd5b70f8f2666417cbe
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

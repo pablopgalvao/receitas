@@ -1,5 +1,6 @@
 ---
 title: Panqueca vegana
+id: mn3cknp76e7bf28730dfaf024097
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

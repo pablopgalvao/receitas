@@ -1,5 +1,6 @@
 ---
 title: Curry de porco
+id: mn3ckn7x5db00e2588013617e2c7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

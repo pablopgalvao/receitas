@@ -1,5 +1,6 @@
 ---
 title: Chips de couve assada
+id: mn3ckn5rb6b60924d69a704a70a0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

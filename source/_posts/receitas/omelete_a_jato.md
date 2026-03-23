@@ -1,5 +1,6 @@
 ---
 title: Omelete a jato
+id: mn3cknmb432ba924839651521cb5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã na air fryer
+id: mn3ckn1lfbc7f0f638c1cbe3a08e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

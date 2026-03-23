@@ -1,5 +1,6 @@
 ---
 title: Bife à parmegiana fácil e rápido
+id: mn3ckmyr20295f69579d174d0d33
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

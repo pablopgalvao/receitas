@@ -1,5 +1,6 @@
 ---
 title: Pastel com wrap
+id: mn3cknro836fb886c3bfd6c26559
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

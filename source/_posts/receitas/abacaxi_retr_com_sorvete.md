@@ -1,5 +1,6 @@
 ---
 title: Abacaxi retrô com sorvete
+id: mn3ckmvk07f7bb55ad0c27ea51da
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Doces e bolos

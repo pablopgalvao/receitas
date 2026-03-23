@@ -1,5 +1,6 @@
 ---
 title: Pão brioche vegano
+id: mn3cknpia9b0e4ef7e16374abbd4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

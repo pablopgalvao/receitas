@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura com merengue e pistache
+id: mn3ckn2m92f2f7a3b0627a3e9fba
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

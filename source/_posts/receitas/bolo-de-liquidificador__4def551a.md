@@ -1,5 +1,6 @@
 ---
 title: Bolo de liquidificador
+id: mn3ckn1k7a43eb86a594224822eb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

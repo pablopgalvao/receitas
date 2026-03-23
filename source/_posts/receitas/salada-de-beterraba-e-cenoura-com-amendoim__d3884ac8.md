@@ -1,5 +1,6 @@
 ---
 title: Salada de beterraba e cenoura com amendoim
+id: mn3cko3o8fbec1a282fa3fbda65a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

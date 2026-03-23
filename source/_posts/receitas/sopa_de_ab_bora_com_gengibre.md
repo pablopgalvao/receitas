@@ -1,5 +1,6 @@
 ---
 title: Sopa de abóbora com gengibre
+id: mn3ckoadbd39917b8270547fe06f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

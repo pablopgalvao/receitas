@@ -1,5 +1,6 @@
 ---
 title: Escarola escabeche
+id: mn3ckn95da491db1b2eaa487bc5f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

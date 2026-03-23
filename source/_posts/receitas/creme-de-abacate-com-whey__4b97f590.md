@@ -1,5 +1,6 @@
 ---
 title: Creme de abacate com Whey
+id: mn3ckn7385dcd66bb29ac680b76a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

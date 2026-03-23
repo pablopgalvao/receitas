@@ -1,5 +1,6 @@
 ---
 title: Bolinho de feijão fácil
+id: mn3ckmzpb410cd185eb34fd3f0e7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada de maionese para o churrasco
+id: mn3cko4ad3ef21ee4845d3d9de99
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

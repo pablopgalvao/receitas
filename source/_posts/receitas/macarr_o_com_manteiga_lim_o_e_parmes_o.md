@@ -1,5 +1,6 @@
 ---
 title: 'Macarrão com manteiga, limão e parmesão'
+id: mn3cknhf94f61e6ac2fa093ca14d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

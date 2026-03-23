@@ -1,5 +1,6 @@
 ---
 title: Bombocado na Air Fryer
+id: mn3ckn2vc629e2c9d34af48f21a0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

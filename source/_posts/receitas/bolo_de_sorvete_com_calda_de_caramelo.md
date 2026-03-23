@@ -1,5 +1,6 @@
 ---
 title: Bolo de sorvete com calda de caramelo
+id: mn3ckn2q19f69d8ff1c5e79c44bc
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

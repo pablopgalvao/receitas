@@ -1,5 +1,6 @@
 ---
 title: Arroz cremoso de camarão
+id: mn3ckmwu7d872567b1cd223dd6a3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

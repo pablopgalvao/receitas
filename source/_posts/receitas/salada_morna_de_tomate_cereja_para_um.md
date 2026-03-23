@@ -1,5 +1,6 @@
 ---
 title: Salada morna de tomate-cereja para um
+id: mn3cko6i9dd548a05c2aa30ace56
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

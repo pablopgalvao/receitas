@@ -1,5 +1,6 @@
 ---
 title: Cupcake de banana caramelada
+id: mn3ckn7ra03ea7f51193fb89c322
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

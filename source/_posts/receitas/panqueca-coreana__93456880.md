@@ -1,5 +1,6 @@
 ---
 title: Panqueca coreana
+id: mn3cknos230ca42b58b9997c20e7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

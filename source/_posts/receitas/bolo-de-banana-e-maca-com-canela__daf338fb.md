@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana e maçã com canela
+id: mn3ckn0d1d2ad48af0a0c626045e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

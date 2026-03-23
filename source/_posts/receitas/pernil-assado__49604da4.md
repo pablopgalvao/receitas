@@ -1,5 +1,6 @@
 ---
 title: Pernil assado
+id: mn3cknt91ffdf46e98b961435324
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

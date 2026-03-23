@@ -1,5 +1,6 @@
 ---
 title: Pernil assado de porco
+id: mn3cknt852f28392be1bf72bc5fa
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

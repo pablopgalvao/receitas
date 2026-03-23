@@ -1,5 +1,6 @@
 ---
 title: Chambaril na pressão
+id: mn3ckn5h60ae0b1e6bbabdccbab3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

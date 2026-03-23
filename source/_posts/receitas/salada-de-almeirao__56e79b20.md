@@ -1,5 +1,6 @@
 ---
 title: Salada de almeirão
+id: mn3cko3g4d0005b3270479ffd856
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

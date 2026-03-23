@@ -1,5 +1,6 @@
 ---
 title: Pão de metro de frango
+id: mn3cknqqb301be8903b8e0b95d24
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

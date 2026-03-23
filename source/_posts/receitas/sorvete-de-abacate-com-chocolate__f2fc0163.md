@@ -1,5 +1,6 @@
 ---
 title: Sorvete de abacate com chocolate
+id: mn3ckoawe0e1ea60870f2dea767a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

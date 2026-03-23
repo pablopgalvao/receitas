@@ -1,5 +1,6 @@
 ---
 title: Cocadinha francesa (reaproveitamento)
+id: mn3ckn643b7d7ddd4ab597ed4524
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

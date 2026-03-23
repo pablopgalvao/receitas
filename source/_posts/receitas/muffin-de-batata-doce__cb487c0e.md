@@ -1,5 +1,6 @@
 ---
 title: Muffin de batata-doce
+id: mn3cknl91ec08c399e214515e8dc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

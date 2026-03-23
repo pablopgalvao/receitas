@@ -1,5 +1,6 @@
 ---
 title: Costela assada
+id: mn3ckn6j3a9bc6be8c10280560a8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

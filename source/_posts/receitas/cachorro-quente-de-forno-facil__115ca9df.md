@@ -1,5 +1,6 @@
 ---
 title: Cachorro-quente de forno fácil
+id: mn3ckn3sc65648d71cd07b0c6273
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

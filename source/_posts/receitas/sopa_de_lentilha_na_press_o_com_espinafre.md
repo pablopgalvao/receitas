@@ -1,5 +1,6 @@
 ---
 title: Sopa de lentilha na pressão com espinafre
+id: mn3ckoakb4d17d437fcd26e291c2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Curry de legumes fácil
+id: mn3ckn7v8bd2711ef812d71d59ac
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

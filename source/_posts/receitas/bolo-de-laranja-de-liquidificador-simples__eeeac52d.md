@@ -1,5 +1,6 @@
 ---
 title: Bolo de laranja de liquidificador simples
+id: mn3ckn1bd31cebb27a115b9c9f8c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

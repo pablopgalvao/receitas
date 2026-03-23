@@ -1,5 +1,6 @@
 ---
 title: Bisteca com abacaxi grelhado
+id: mn3ckmz94e6e341e4e431b1a48c7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de mandioca com coco
+id: mn3ckn1qd6b26e8ce9b0552ec141
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

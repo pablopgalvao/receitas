@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente com 3 ingredientes
+id: mn3ckn5saef628713531e8ef93c7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

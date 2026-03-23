@@ -1,5 +1,6 @@
 ---
 title: Arroz oriental com frango e couve-flor na panela de arroz elétrica
+id: mn3ckmx13ed10368137c406f0caf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Lagarto na pressão
+id: mn3cknfa0bb7d717c886e7eb8268
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

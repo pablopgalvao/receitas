@@ -1,5 +1,6 @@
 ---
 title: Frango frito na air fryer
+id: mn3cknbh08e079e8568ac5bab1bb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de carne e polenta com abóbora
+id: mn3ckn9h9fc1343c4813f87c0cad
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada de lentilha com pimentão e coentro
+id: mn3cko5ue50006d97d5d3aad5b54
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

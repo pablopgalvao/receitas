@@ -1,5 +1,6 @@
 ---
 title: Salada de frutas com creme de maracujá
+id: mn3cko3x42fbdb8bf64db3596293
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

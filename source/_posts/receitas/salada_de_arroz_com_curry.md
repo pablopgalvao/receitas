@@ -1,5 +1,6 @@
 ---
 title: Salada de arroz com curry
+id: mn3cko4z191d4623732cf5289c4a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

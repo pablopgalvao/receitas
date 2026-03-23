@@ -1,5 +1,6 @@
 ---
 title: Brownie de nescau de liquidificador
+id: mn3ckn3i6d517735bc1ca8573fb6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

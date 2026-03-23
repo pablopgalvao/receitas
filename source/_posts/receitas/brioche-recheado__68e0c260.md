@@ -1,5 +1,6 @@
 ---
 title: Brioche recheado
+id: mn3ckn3a279a884baad6ad912002
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

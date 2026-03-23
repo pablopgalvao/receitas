@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate de corte
+id: mn3cknkh4958abde18a8691fd3f4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

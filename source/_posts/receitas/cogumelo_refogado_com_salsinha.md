@@ -1,5 +1,6 @@
 ---
 title: Cogumelo refogado com salsinha
+id: mn3ckn668ab674699a5a2c259d4f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

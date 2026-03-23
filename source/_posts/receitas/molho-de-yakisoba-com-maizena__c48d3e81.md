@@ -1,5 +1,6 @@
 ---
 title: Molho de yakisoba com maizena
+id: mn3cknjjf91e1e807375d0feeca0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

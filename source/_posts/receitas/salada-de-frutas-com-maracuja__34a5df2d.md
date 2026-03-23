@@ -1,5 +1,6 @@
 ---
 title: Salada de frutas com maracujá
+id: mn3cko3z4d43f19e79ec66eee2ae
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

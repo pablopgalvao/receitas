@@ -1,5 +1,6 @@
 ---
 title: Quiche de brócolis com bacon
+id: mn3cknza9eb9b8755afc35c3101c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

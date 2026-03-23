@@ -1,5 +1,6 @@
 ---
 title: Salada de bacalhau fácil
+id: mn3cko3i7e7ee82fd7e4038e03fb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

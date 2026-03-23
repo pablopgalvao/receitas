@@ -1,5 +1,6 @@
 ---
 title: Caldinho de feijão-branco com pesto e espetinhos de lula
+id: mn3ckn417b1198f88215c97e61a9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

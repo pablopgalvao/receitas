@@ -1,5 +1,6 @@
 ---
 title: Ragu de costelinha de porco na pressão
+id: mn3cko07c6d4b87c29575563632d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

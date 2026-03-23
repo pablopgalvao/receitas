@@ -1,5 +1,6 @@
 ---
 title: Croquete rápido
+id: mn3ckn7j9fcb914fd8d361a36b8e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

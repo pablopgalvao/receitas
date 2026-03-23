@@ -1,5 +1,6 @@
 ---
 title: Iogurte cremoso
+id: mn3ckne93e7b564aeca7aed13299
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

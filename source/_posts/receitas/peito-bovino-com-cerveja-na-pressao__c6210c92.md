@@ -1,5 +1,6 @@
 ---
 title: Peito bovino com cerveja na pressão
+id: mn3cknstc75413d195920127e8c3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

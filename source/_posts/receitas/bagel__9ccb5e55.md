@@ -1,5 +1,6 @@
 ---
 title: Bagel
+id: mn3ckmxoae06f19730cf13baeb53
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

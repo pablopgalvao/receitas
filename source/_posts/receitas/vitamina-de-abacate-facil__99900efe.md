@@ -1,5 +1,6 @@
 ---
 title: Vitamina de abacate fácil
+id: mn3ckoji65cc760bc847c53ce83a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de abóbora com carne-seca
+id: mn3ckn978c96dd2e6753e522a17e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

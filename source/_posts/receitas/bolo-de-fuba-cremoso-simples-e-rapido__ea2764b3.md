@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá cremoso simples e rápido
+id: mn3ckn15204781b912ffec279ea6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

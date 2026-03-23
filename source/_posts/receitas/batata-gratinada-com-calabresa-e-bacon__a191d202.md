@@ -1,5 +1,6 @@
 ---
 title: Batata gratinada com calabresa e bacon
+id: mn3ckmy28ce3884377b61c120862
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

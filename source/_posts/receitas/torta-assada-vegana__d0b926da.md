@@ -1,5 +1,6 @@
 ---
 title: Torta assada vegana
+id: mn3ckoezd2ee2a228413a7963c39
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

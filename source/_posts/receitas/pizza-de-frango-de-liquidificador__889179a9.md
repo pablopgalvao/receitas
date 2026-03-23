@@ -1,5 +1,6 @@
 ---
 title: Pizza de frango de liquidificador
+id: mn3cknue69c5941a26fb5b7020cb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

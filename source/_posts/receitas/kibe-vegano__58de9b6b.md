@@ -1,5 +1,6 @@
 ---
 title: Kibe vegano
+id: mn3cknf0d36e936b78ef5cbf2a93
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

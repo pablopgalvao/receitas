@@ -1,5 +1,6 @@
 ---
 title: Salmão agridoce com legumes picantes
+id: mn3cko71a31e86a6c08836094af9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

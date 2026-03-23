@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana congelada
+id: mn3ckob40729c45ac79d12324f2d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

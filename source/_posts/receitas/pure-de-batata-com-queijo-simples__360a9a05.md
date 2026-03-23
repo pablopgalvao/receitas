@@ -1,5 +1,6 @@
 ---
 title: Purê de batata com queijo simples
+id: mn3cknwh60f2ea083b6fd1908129
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

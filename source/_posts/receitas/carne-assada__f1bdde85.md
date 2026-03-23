@@ -1,5 +1,6 @@
 ---
 title: Carne assada
+id: mn3ckn4qa95d38f72aea7aac39ad
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

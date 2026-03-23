@@ -1,5 +1,6 @@
 ---
 title: Frango teriyaki fácil
+id: mn3cknbi34d59454c82728c83d93
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

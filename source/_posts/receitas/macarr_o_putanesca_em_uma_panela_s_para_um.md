@@ -1,5 +1,6 @@
 ---
 title: Macarrão à putanesca em uma panela só para um
+id: mn3cknht7737626ca65de2692164
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

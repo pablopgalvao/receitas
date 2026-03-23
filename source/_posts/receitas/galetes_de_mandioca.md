@@ -1,5 +1,6 @@
 ---
 title: Galetes de mandioca
+id: mn3cknc26c3f7c1b01681ad26e66
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

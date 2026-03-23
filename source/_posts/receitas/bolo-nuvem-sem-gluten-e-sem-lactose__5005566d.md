@@ -1,5 +1,6 @@
 ---
 title: Bolo nuvem sem glúten e sem lactose
+id: mn3ckn2c6f85ed809bf257a765d3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

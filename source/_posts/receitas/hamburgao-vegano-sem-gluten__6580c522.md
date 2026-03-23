@@ -1,5 +1,6 @@
 ---
 title: Hamburgão vegano sem glúten
+id: mn3cknd7ca3583b9fa7459efea31
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

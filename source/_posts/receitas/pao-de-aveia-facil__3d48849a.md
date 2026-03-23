@@ -1,5 +1,6 @@
 ---
 title: Pão de aveia fácil
+id: mn3cknqe71d1a59cc2eb9c1cd99f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

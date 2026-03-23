@@ -1,5 +1,6 @@
 ---
 title: Dobradinha simples
+id: mn3ckn8cd197ae2e4473399fb6b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

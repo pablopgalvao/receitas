@@ -1,5 +1,6 @@
 ---
 title: Mousse de gelatina de morango
+id: mn3cknkqc083b3dc546f4808add1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

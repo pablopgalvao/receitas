@@ -1,5 +1,6 @@
 ---
 title: Sanduíche natural de atum simples
+id: mn3cko7s154813037411fd73ca85
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

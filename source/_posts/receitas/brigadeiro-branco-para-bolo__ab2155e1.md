@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro branco para bolo
+id: mn3ckn31bd9e78491d254b4c13f7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

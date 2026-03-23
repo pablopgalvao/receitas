@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de pinhão
+id: mn3ckoik1329cb2a509ec116ddc0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Abobrinha recheada com carne moída
+id: mn3ckmvy9d56b9f5da532355e572
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

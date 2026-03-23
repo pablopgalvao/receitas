@@ -1,5 +1,6 @@
 ---
 title: Ayran (bebida refrescante de iogurte)
+id: mn3ckmxk77501cef100d2f2d4214
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

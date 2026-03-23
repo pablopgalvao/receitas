@@ -1,5 +1,6 @@
 ---
 title: Banana dourada com merengue
+id: mn3ckmxu6bb0e60de389147647d9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

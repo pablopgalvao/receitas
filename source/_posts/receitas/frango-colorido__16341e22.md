@@ -1,5 +1,6 @@
 ---
 title: Frango colorido
+id: mn3cknb98a201e5e6f54298fbcec
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

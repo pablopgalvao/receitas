@@ -1,5 +1,6 @@
 ---
 title: Mexidinho de arroz com feijão
+id: mn3cknipa664b804ce0aefbe2a52
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada fatuche
+id: mn3cko6daec9ca08f435172dc947
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

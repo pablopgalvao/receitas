@@ -1,5 +1,6 @@
 ---
 title: Moqueca baiana com leite de coco caseiro
+id: mn3cknk69d79dafd6045036dc651
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

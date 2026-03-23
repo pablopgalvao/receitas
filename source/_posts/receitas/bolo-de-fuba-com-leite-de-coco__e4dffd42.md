@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com leite de coco
+id: mn3ckn119b763dd3d425b74c0675
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

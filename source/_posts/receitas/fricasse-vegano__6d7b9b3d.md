@@ -1,5 +1,6 @@
 ---
 title: Fricassê vegano
+id: mn3cknbue468d0407692cfd76f13
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

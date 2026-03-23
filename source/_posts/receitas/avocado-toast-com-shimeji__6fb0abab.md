@@ -1,5 +1,6 @@
 ---
 title: Avocado toast com shimeji
+id: mn3ckmxj8c9e37d8fb8df9d17fc2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

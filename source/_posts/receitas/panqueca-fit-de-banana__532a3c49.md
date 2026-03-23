@@ -1,5 +1,6 @@
 ---
 title: Panqueca fit de banana
+id: mn3cknp01ca8bcd5177a3e44e982
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

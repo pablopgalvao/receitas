@@ -1,5 +1,6 @@
 ---
 title: Salada de cogumelos frescos com salsão
+id: mn3cko5599015bd6186aa0463029
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

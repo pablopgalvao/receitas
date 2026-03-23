@@ -1,5 +1,6 @@
 ---
 title: Abobrinha recheada na airfryer
+id: mn3ckmvwd271ff3302d4e4cb6b58
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

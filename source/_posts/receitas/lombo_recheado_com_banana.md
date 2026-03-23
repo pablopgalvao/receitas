@@ -1,5 +1,6 @@
 ---
 title: Lombo recheado com banana
+id: mn3cknghc6a4fb5aa410ead0841c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

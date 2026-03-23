@@ -1,5 +1,6 @@
 ---
 title: Chutney de mamão
+id: mn3ckn5y4692b3dac3402c975ad2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

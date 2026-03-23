@@ -1,5 +1,6 @@
 ---
 title: Feijão-de-corda com bacon
+id: mn3ckna6b8bc2f8a79218be8013d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

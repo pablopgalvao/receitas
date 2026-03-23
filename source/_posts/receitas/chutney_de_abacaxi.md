@@ -1,5 +1,6 @@
 ---
 title: Chutney de abacaxi
+id: mn3ckn5y59c173261e5336b1903e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

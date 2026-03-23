@@ -1,5 +1,6 @@
 ---
 title: Caldo de abóbora com carne seca
+id: mn3ckn4251bc8ccd8942e192fcf8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

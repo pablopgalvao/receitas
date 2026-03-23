@@ -1,5 +1,6 @@
 ---
 title: Nuggets saudável
+id: mn3cknm83d676b0127507f241009
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

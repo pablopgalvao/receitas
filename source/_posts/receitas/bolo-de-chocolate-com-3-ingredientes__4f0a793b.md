@@ -1,5 +1,6 @@
 ---
 title: Bolo de chocolate com 3 ingredientes
+id: mn3ckn0scf5e3b5e9d9b813ebdc0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

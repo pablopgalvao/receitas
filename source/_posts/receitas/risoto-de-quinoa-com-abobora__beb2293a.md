@@ -1,5 +1,6 @@
 ---
 title: Risoto de quinoa com abóbora
+id: mn3cko1p9fcaec51ac898a596652
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

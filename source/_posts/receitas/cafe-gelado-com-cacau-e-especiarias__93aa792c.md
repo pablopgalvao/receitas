@@ -1,5 +1,6 @@
 ---
 title: Café gelado com cacau e especiarias
+id: mn3ckn3u74278f643f0364d1cf14
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Legumes refogados
+id: mn3cknfs007f97e02ecc45c46a9b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

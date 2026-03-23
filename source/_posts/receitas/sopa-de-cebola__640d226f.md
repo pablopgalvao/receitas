@@ -1,5 +1,6 @@
 ---
 title: Sopa de cebola
+id: mn3cko9vde2da7b0078c246e2173
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

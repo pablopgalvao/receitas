@@ -1,5 +1,6 @@
 ---
 title: Sorvete caseiro de coco cremoso
+id: mn3ckoat66d3949f43f1b3aa3c26
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

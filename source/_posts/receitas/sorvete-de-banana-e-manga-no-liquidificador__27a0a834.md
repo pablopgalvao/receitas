@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana e manga no liquidificador
+id: mn3ckob5cb73a62f760736ee1855
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

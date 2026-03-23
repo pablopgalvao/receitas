@@ -1,5 +1,6 @@
 ---
 title: Picadinho oriental com abóbora e brócolis
+id: mn3ckntp553286ac8ac5bc64300f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

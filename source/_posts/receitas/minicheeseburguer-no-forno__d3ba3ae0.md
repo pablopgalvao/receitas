@@ -1,5 +1,6 @@
 ---
 title: Minicheeseburguer no forno
+id: mn3ckniyaddc7a1f96eeff3011d7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada tropical de repolho com abacaxi
+id: mn3cko4s8d3aec2adc8ca1b6dc7c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Bolo de arroz sem leite
+id: mn3ckn06977f0f06a5b9b4b13e01
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

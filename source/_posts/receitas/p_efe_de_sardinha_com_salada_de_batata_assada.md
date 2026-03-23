@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de sardinha com salada de batata assada
+id: mn3cknx83f2cbc4dcb9b3f469f4a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

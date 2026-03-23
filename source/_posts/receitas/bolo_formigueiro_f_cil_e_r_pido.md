@@ -1,5 +1,6 @@
 ---
 title: Bolo formigueiro fácil e rápido
+id: mn3ckn2rbaf6983e09de93457b91
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

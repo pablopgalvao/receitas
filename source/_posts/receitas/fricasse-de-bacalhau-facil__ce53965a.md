@@ -1,5 +1,6 @@
 ---
 title: Fricassê de bacalhau fácil
+id: mn3cknbq80465d0d817213427644
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

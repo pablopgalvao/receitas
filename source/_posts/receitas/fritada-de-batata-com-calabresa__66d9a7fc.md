@@ -1,5 +1,6 @@
 ---
 title: Fritada de batata com calabresa
+id: mn3cknby3cfc17d3a2b45d42a9c0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

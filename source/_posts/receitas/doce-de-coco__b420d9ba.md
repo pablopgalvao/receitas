@@ -1,5 +1,6 @@
 ---
 title: Doce de coco
+id: mn3ckn8ib341c08cee9539bdca65
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

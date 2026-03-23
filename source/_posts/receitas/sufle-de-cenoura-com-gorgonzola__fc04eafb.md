@@ -1,5 +1,6 @@
 ---
 title: Suflê de cenoura com gorgonzola
+id: mn3ckocq2cfc87034810a773f644
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

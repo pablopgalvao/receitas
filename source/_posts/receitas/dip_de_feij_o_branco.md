@@ -1,5 +1,6 @@
 ---
 title: Dip de feijão-branco
+id: mn3ckn88ca0b06fd250dae21a4f5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

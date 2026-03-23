@@ -1,5 +1,6 @@
 ---
 title: Salpicão de frango natalino
+id: mn3cko7c360d44c2e961619c2680
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

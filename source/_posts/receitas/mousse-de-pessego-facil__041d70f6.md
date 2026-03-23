@@ -1,5 +1,6 @@
 ---
 title: Mousse de pêssego fácil
+id: mn3cknl6050c3e2b7fa80ecf0e8a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

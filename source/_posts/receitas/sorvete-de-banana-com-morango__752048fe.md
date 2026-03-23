@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana com morango
+id: mn3ckob336d3578f99261946adf8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

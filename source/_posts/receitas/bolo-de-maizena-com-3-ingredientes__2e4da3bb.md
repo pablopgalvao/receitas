@@ -1,5 +1,6 @@
 ---
 title: Bolo de Maizena com 3 ingredientes
+id: mn3ckn1o61b5b0075f423b87b7e8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

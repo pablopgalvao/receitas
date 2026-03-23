@@ -1,5 +1,6 @@
 ---
 title: Shawarma de frango
+id: mn3cko8m541f761e6f0ffd17e84f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

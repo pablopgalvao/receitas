@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente com canela
+id: mn3ckn5tfa4794d3bfa29031b2d4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

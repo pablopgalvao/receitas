@@ -1,5 +1,6 @@
 ---
 title: Geleia de maçã com anis-estrelado
+id: mn3ckncp1ac303231e526d90df74
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

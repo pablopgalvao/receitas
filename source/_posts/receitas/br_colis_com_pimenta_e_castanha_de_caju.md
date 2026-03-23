@@ -1,5 +1,6 @@
 ---
 title: Brócolis com pimenta e castanha-de-caju
+id: mn3ckn3p2fdd968a3c626dfa5ccb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Feijão-preto com linguiça e leite de coco
+id: mn3cknaff5f99377a1534ae82c0c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

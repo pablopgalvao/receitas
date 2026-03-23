@@ -1,5 +1,6 @@
 ---
 title: Salada de lentilha com salmão e avocado
+id: mn3cko5v59cfcc506164907420e5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

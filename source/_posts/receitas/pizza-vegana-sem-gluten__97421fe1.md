@@ -1,5 +1,6 @@
 ---
 title: Pizza vegana sem glúten
+id: mn3cknurd6054a1b724561d18798
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

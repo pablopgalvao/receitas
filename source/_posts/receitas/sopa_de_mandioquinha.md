@@ -1,5 +1,6 @@
 ---
 title: Sopa de mandioquinha
+id: mn3ckoam319ec6e317c6a9e162a6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

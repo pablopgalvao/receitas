@@ -1,5 +1,6 @@
 ---
 title: Bife à parmegiana sem farinha de rosca
+id: mn3ckmyscbc24d508e3f1a045ca2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

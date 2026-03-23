@@ -1,5 +1,6 @@
 ---
 title: Salada de abobrinha
+id: mn3cko3e797b9bb9bf2c32038248
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

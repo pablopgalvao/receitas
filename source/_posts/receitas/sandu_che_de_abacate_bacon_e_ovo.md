@@ -1,5 +1,6 @@
 ---
 title: 'Sanduíche de abacate, bacon e ovo'
+id: mn3cko7z14455dad18ad98d91a08
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

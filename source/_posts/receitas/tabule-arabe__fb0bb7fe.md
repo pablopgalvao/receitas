@@ -1,5 +1,6 @@
 ---
 title: Tabule árabe
+id: mn3ckod256b71742119fc91fb5b2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mousse de maracujá com a fruta
+id: mn3cknkz59569fc21b47d35fd2bd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

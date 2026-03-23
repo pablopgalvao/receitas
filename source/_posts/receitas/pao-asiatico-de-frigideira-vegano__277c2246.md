@@ -1,5 +1,6 @@
 ---
 title: Pão asiático de frigideira vegano
+id: mn3cknpg77192cd42e4cbd76bd05
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

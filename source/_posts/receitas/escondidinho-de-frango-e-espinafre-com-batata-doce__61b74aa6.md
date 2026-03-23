@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de frango e espinafre com batata-doce
+id: mn3ckn9dcc065f938e93dce74200
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

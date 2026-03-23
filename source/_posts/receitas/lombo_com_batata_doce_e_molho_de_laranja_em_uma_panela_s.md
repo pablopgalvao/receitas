@@ -1,5 +1,6 @@
 ---
 title: Lombo com batata-doce e molho de laranja em uma panela só
+id: mn3ckngg27eaae5cf4dd734d831b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Risoto de frango rápido
+id: mn3cko1i9a45baac82e255daa852
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

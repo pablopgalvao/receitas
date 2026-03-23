@@ -1,5 +1,6 @@
 ---
 title: Batata-doce palha assada
+id: mn3ckmya7c43fab7d6ce40308eb4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

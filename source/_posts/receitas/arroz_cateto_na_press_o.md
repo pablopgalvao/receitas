@@ -1,5 +1,6 @@
 ---
 title: Arroz cateto na pressão
+id: mn3ckmx491c3667a242fe23ea643
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

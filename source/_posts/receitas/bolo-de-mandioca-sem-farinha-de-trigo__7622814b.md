@@ -1,5 +1,6 @@
 ---
 title: Bolo de mandioca sem farinha de trigo
+id: mn3ckn1s3c85f4702139a8517a97
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

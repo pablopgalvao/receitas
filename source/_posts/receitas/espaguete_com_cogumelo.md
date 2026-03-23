@@ -1,5 +1,6 @@
 ---
 title: Espaguete com cogumelo
+id: mn3ckn9l6caf084585d5e7f8b656
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

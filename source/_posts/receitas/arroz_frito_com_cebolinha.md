@@ -1,5 +1,6 @@
 ---
 title: Arroz frito com cebolinha
+id: mn3ckmxd318bf35292f62ca78e95
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Feijoada na pressão
+id: mn3ckna9da19130c7dc5b0067733
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

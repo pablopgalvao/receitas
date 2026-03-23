@@ -1,5 +1,6 @@
 ---
 title: Batata assada no micro-ondas com escarola e bacon
+id: mn3ckmy81a6143f4223e1da2d9fb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sopa de abóbora cremosa
+id: mn3cko9pb08f912aba6479da84a5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

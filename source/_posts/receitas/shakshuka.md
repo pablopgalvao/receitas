@@ -1,5 +1,6 @@
 ---
 title: Shakshuka
+id: mn3cko8ic5dd722806d4db29ad1c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Medalhão de frango
+id: mn3cknima9da127aa908e9c97a9a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

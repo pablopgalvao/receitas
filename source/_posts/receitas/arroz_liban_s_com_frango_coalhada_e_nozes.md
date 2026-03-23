@@ -1,5 +1,6 @@
 ---
 title: 'Arroz libanês com frango, coalhada e nozes'
+id: mn3ckmxfa898bceb9dd846524920
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

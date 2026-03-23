@@ -1,5 +1,6 @@
 ---
 title: Doce de leite rápido
+id: mn3ckn8kdadf1e0752f47588f602
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

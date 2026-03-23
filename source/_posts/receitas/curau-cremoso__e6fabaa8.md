@@ -1,5 +1,6 @@
 ---
 title: Curau cremoso
+id: mn3ckn7tf3a9c074c89b702170aa
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

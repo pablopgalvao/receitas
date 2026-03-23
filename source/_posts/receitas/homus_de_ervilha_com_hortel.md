@@ -1,5 +1,6 @@
 ---
 title: Homus de ervilha com hortelã
+id: mn3ckne44b3689ab6b8734df0beb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

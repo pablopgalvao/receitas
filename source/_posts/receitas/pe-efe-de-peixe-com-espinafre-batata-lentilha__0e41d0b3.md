@@ -1,5 +1,6 @@
 ---
 title: 'Pê-efe de peixe com espinafre, batata bolinha ao murro e lentilha'
+id: mn3cknssca2f6e888e63c8ec1b0f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

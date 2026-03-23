@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho com maçã
+id: mn3cko4k9291af44ade574eebdd9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Sanduíche vegano colorido
+id: mn3cko7v81be14a8d0ee86fd304f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

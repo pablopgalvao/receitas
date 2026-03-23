@@ -1,5 +1,6 @@
 ---
 title: Bolo de abóbora
+id: mn3ckn028fb115cd0732fb660ab8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

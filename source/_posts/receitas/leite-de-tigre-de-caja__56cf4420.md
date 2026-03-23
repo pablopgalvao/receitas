@@ -1,5 +1,6 @@
 ---
 title: Leite de tigre de cajá simples
+id: mn3cknfz14576794531dbbd002dc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de coco simples
+id: mn3ckn2n7d3014b1303817e9a27c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

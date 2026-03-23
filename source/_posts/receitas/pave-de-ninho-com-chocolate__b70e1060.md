@@ -1,5 +1,6 @@
 ---
 title: Pavê de Ninho com chocolate
+id: mn3cknsh6107eb6b5c7db264fac7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

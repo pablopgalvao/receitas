@@ -1,5 +1,6 @@
 ---
 title: Chico balanceado tradicional
+id: mn3ckn5m3d74a0ef701b73565307
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

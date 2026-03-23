@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura vegano sem glúten
+id: mn3ckn0r1a45b566f6056a4cb1c2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Ceviche de salmão com creme de abacate
+id: mn3ckn5d6d177f8863498a4836ce
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

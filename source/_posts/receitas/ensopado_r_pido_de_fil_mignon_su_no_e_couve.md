@@ -1,5 +1,6 @@
 ---
 title: Ensopado rápido de filé mignon suíno e couve
+id: mn3ckn914800074474afcb75429e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

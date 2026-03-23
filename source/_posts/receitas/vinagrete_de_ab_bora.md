@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de abóbora
+id: mn3ckoin7008c214cdd6c2c261a3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

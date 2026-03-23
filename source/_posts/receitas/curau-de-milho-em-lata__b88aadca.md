@@ -1,5 +1,6 @@
 ---
 title: Curau de milho em lata
+id: mn3ckn7u95dfc700c88d4e06dfa7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Panini Dukan
+id: mn3cknom8543a5ba7e8902e3c36c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

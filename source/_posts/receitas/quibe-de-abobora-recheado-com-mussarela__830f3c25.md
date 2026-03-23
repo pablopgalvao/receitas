@@ -1,5 +1,6 @@
 ---
 title: Quibe de abóbora recheado com mussarela
+id: mn3cknyr25b42ecced1a5610f174
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

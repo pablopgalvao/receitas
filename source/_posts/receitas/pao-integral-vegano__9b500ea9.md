@@ -1,5 +1,6 @@
 ---
 title: Pão integral vegano
+id: mn3cknqzf352ec710f680837e5b4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

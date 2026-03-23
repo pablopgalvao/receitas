@@ -1,5 +1,6 @@
 ---
 title: Farofa de churrasco
+id: mn3ckna2da39b84cf16a4d8b35df
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Entradas

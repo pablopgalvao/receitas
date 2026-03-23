@@ -1,5 +1,6 @@
 ---
 title: Patê de beterraba com sardinha
+id: mn3ckns3e60dda9dcdde7cd056bb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

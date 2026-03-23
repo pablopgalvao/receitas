@@ -1,5 +1,6 @@
 ---
 title: Bazargan
+id: mn3ckmydab262433ac957d9962d4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

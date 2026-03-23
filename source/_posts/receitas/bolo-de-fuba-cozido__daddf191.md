@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá cozido
+id: mn3ckn138f8287b8200a801d9ac5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

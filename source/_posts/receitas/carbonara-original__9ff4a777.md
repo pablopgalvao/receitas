@@ -1,5 +1,6 @@
 ---
 title: Carbonara original
+id: mn3ckn4obf2b08a715cd508754d2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

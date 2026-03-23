@@ -1,5 +1,6 @@
 ---
 title: Japchae vegetariano
+id: mn3cknee5a666bd77f9e8be61e44
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

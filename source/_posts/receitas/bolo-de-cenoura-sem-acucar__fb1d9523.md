@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura sem açúcar
+id: mn3ckn0qe3f4c6cf5fe683e83db2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

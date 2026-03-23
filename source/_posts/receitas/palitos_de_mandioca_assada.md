@@ -1,5 +1,6 @@
 ---
 title: Palitos de mandioca assada
+id: mn3ckno3cf9978b66c66abeb0c58
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Creme de abacate congelado
+id: mn3ckn7a9550d5417473a636168d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mussarela caseira com 2 ingredientes
+id: mn3cknlh90f9d8cdd7c31fc22345
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

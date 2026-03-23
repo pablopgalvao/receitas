@@ -1,5 +1,6 @@
 ---
 title: Doce de abóbora com coco ralado
+id: mn3ckn8d821afe8600d11e0a4538
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

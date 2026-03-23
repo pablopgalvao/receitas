@@ -1,5 +1,6 @@
 ---
 title: Gelinho de carambola
+id: mn3ckncv7e3c8e7b77afd0daca09
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

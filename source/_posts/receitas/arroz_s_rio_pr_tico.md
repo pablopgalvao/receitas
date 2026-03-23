@@ -1,5 +1,6 @@
 ---
 title: Arroz sírio prático
+id: mn3ckmxhcd1eaeec2967c5839078
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

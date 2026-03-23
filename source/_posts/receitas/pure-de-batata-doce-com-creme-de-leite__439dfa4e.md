@@ -1,5 +1,6 @@
 ---
 title: Purê de batata-doce com creme de leite
+id: mn3cknwh28ab5f005211d1e96672
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Empadinha vegana
+id: mn3ckn8s19ccccd17bd1afe96b5c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

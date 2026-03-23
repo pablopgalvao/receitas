@@ -1,5 +1,6 @@
 ---
 title: Figo em calda na panela de pressão elétrica
+id: mn3cknagbed3ea89ac77adc6943b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

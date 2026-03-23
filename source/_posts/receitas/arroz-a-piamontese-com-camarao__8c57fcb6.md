@@ -1,5 +1,6 @@
 ---
 title: Arroz à piamontese com camarão
+id: mn3ckmwn3b55c3fdcf29e75b2bfd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

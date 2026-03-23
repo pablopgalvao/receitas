@@ -1,5 +1,6 @@
 ---
 title: Cuca de banana
+id: mn3ckn7p5ca976208a5d727e9e14
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

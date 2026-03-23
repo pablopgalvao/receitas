@@ -1,5 +1,6 @@
 ---
 title: Bolinho de mandioca com coco
+id: mn3ckmzwbb2da6f5a897da2c29cf
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

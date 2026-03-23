@@ -1,5 +1,6 @@
 ---
 title: Caldo de legumes
+id: mn3ckn460c6f4eec838bb3df461e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

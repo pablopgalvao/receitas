@@ -1,5 +1,6 @@
 ---
 title: Caldinho de feijão com bacon e calabresa
+id: mn3ckn40d7ba419f4fb72f8054e3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

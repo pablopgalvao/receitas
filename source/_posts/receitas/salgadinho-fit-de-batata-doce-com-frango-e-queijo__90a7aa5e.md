@@ -1,5 +1,6 @@
 ---
 title: Salgadinho fit de batata-doce com frango e queijo
+id: mn3cko6q4c15b421c0975a5ef25a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

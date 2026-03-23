@@ -1,5 +1,6 @@
 ---
 title: Panqueca salgada com recheio de abacate
+id: mn3cknp1df4157adee8e50bc5ba2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

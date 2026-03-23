@@ -1,5 +1,6 @@
 ---
 title: Panqueca de legumes fácil
+id: mn3cknow1cc8b2dfdd2341c13669
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Massa de pizza de fermentação natural
+id: mn3cknif5e9232a2e4c88f698d4b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

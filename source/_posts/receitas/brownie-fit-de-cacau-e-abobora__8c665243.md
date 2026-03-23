@@ -1,5 +1,6 @@
 ---
 title: Brownie fit de cacau e abóbora
+id: mn3ckn3jafa5d39b6442d0c36b88
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

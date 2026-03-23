@@ -1,5 +1,6 @@
 ---
 title: Bisteca com vagem e tomate na Air Fryer
+id: mn3ckmzabd4ed20e5a4165083ef1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

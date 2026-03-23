@@ -1,5 +1,6 @@
 ---
 title: Chico balanceado simples
+id: mn3ckn5m1ca734b6ca13b51002ac
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

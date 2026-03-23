@@ -1,5 +1,6 @@
 ---
 title: Abobrinha grelhada com semente de coentro e limão
+id: mn3ckmvx63d5b364593990d892a2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

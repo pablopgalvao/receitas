@@ -1,5 +1,6 @@
 ---
 title: Bolo invertido de abacaxi
+id: mn3ckn2u04c4b5a7cab06d6b79b9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

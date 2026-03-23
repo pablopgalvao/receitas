@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura simples e fofinho
+id: mn3ckn0qb4591b31a9b41e9bac38
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Paleta na pressão
+id: mn3cknnob21ab2c85772aabdcf92
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

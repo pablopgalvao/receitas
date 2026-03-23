@@ -1,5 +1,6 @@
 ---
 title: Bolo fit de banana com chocolate
+id: mn3ckn268adc04cba1e445a77e33
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente branco
+id: mn3ckn5sde736232e3518fddcdc5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

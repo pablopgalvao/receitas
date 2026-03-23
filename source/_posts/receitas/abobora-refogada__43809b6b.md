@@ -1,5 +1,6 @@
 ---
 title: Abóbora refogada
+id: mn3ckmvp091f496c8b3c1f4b564b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

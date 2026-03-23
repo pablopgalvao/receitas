@@ -1,5 +1,6 @@
 ---
 title: Sopa de abóbora e cenoura light
+id: mn3cko9q7131c262a973885919bd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

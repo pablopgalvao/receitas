@@ -1,5 +1,6 @@
 ---
 title: Yakisoba rápido
+id: mn3ckojz256ae00bb33ace3b2a4d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

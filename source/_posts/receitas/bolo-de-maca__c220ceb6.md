@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã
+id: mn3ckn1oa741930b10f94bcaa3f5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

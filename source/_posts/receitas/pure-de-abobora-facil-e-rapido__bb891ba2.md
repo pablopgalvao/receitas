@@ -1,5 +1,6 @@
 ---
 title: Purê de abóbora fácil e rápido
+id: mn3cknwc2c771d94e24932d33983
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

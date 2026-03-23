@@ -1,5 +1,6 @@
 ---
 title: Lentilha com berinjela defumada na panela de pressão elétrica
+id: mn3ckng23c1c38683277d2b2f5f5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

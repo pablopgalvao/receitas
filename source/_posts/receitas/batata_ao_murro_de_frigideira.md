@@ -1,5 +1,6 @@
 ---
 title: Batata ao murro de frigideira
+id: mn3ckmy727dbecaad792308d906b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Broto de feijão refogado
+id: mn3ckn3gf836f09e16ddbe37c534
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

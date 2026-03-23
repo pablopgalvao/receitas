@@ -1,5 +1,6 @@
 ---
 title: Moranga recheada com frango cremoso
+id: mn3cknk8c64a0520b2db3f8e943c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

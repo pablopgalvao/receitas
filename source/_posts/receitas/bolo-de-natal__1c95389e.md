@@ -1,5 +1,6 @@
 ---
 title: Bolo de Natal
+id: mn3ckn1yc06fe5de00dc0e3e419e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

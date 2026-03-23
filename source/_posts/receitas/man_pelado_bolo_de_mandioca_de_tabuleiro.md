@@ -1,5 +1,6 @@
 ---
 title: Mané pelado (bolo de mandioca de tabuleiro)
+id: mn3ckni788ca43c918dd9645b725
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

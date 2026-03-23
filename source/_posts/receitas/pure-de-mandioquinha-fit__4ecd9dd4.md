@@ -1,5 +1,6 @@
 ---
 title: Purê de mandioquinha fit
+id: mn3cknwmdd48a171eb200c60a28e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

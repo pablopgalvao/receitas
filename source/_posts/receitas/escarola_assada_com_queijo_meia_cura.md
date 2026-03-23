@@ -1,5 +1,6 @@
 ---
 title: Escarola assada com queijo meia cura
+id: mn3ckn956985ec23e76fc64bd13f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

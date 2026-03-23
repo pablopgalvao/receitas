@@ -1,5 +1,6 @@
 ---
 title: Risoto de abobrinha fácil
+id: mn3cko1c7afc761f8fa1edc59624
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

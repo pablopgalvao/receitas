@@ -1,5 +1,6 @@
 ---
 title: Salada de frango com repolho e abacaxi
+id: mn3cko5n196abbd6ca8fb6933b44
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

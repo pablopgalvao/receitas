@@ -1,5 +1,6 @@
 ---
 title: Paleta bovina na air fryer
+id: mn3cknnmc8416dc0468ba88f0795
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sopa de cebola gratinada
+id: mn3ckoaf377b950bf27a1cf065ea
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Bisteca bovina
+id: mn3ckmz7e5e6675c2cef6b3733c1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

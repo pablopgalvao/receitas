@@ -1,5 +1,6 @@
 ---
 title: Crocante perfumado de castanha-de-caju
+id: mn3ckn7d7b16848923f75468896c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

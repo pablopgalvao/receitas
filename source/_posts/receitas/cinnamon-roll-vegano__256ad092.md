@@ -1,5 +1,6 @@
 ---
 title: Cinnamon roll vegano
+id: mn3ckn5zf9a37aae1c7ad3d81106
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

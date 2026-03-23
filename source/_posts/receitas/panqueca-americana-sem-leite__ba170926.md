@@ -1,5 +1,6 @@
 ---
 title: Panqueca americana sem leite
+id: mn3cknoqc39709ebafb6b61e6c21
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

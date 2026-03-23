@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de feijão-fradinho
+id: mn3ckoireacf36d2c09667ade998
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

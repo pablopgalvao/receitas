@@ -1,5 +1,6 @@
 ---
 title: Caldo de mandioca com carne-seca
+id: mn3ckn478055a003ba954a551516
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

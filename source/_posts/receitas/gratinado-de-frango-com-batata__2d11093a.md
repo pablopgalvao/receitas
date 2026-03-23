@@ -1,5 +1,6 @@
 ---
 title: Gratinado de frango com batata
+id: mn3cknd121953d8d77e8159feb0c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

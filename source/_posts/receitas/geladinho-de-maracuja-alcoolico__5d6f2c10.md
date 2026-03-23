@@ -1,5 +1,6 @@
 ---
 title: Geladinho de maracujá alcoólico
+id: mn3ckncf4bf5000d811caf3e32df
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

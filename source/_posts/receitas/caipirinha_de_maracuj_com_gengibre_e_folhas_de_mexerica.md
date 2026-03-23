@@ -1,5 +1,6 @@
 ---
 title: Caipirinha de maracujá com gengibre e folhas de mexerica
+id: mn3ckn3xc4468f1849cbcfbdbdc0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

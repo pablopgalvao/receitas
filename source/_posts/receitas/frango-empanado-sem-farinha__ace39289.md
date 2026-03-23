@@ -1,5 +1,6 @@
 ---
 title: Frango empanado sem farinha
+id: mn3cknbf4b82813f18b06f70a558
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

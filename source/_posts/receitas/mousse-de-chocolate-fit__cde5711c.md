@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate fit
+id: mn3cknko21c6bc27dbd1443a126b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

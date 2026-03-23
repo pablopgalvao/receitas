@@ -1,5 +1,6 @@
 ---
 title: Pipoca com chocolate fácil e crocante
+id: mn3cknu01ee2b5b539b85a00ee40
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

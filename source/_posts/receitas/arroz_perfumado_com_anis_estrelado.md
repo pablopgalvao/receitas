@@ -1,5 +1,6 @@
 ---
 title: Arroz perfumado com anis-estrelado
+id: mn3ckmxf8775d3abcad7bd160930
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

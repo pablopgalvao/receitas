@@ -1,5 +1,6 @@
 ---
 title: Feijão com bacon e tomate
+id: mn3cknad7ec70ef6324a2c18a82d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

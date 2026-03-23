@@ -1,5 +1,6 @@
 ---
 title: Bolo de ameixa com beijinho
+id: mn3ckn030f4a4c6d561f138cebd6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

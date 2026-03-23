@@ -1,5 +1,6 @@
 ---
 title: Salada de escarola com pera e molho de queijo azul
+id: mn3cko5fdcb6f585640989a73e45
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

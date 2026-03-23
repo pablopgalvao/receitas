@@ -1,5 +1,6 @@
 ---
 title: Abobrinha recheada fácil
+id: mn3ckmvv89abe71612c80e5504e7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

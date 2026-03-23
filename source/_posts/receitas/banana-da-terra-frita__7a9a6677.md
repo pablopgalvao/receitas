@@ -1,5 +1,6 @@
 ---
 title: Banana da terra frita
+id: mn3ckmxt32a28e3ee3a7094406b5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

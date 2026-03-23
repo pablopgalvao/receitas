@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de frango com creme de ricota
+id: mn3ckoc589a2990d7c8668b4b635
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

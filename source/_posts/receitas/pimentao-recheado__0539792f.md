@@ -1,5 +1,6 @@
 ---
 title: Pimentão recheado
+id: mn3ckntyaf472dd97f699aeee6df
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

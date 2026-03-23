@@ -1,5 +1,6 @@
 ---
 title: Sagu de coco na panela de pressão elétrica
+id: mn3cko3af5798556120907a7ed93
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

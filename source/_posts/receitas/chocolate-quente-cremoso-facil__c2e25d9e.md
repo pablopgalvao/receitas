@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente cremoso fácil
+id: mn3ckn5u9d983d6cbc4ed98e8ad1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

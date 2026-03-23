@@ -1,5 +1,6 @@
 ---
 title: Fígado acebolado
+id: mn3cknc1e13d7a1b7bc1c7bd40bf
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

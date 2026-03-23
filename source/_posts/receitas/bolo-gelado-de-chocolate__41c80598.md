@@ -1,5 +1,6 @@
 ---
 title: Bolo gelado de chocolate
+id: mn3ckn29048d89ff4ffcfed81f07
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

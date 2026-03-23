@@ -1,5 +1,6 @@
 ---
 title: Espinafre refogado
+id: mn3ckn9pc52786e2c7fb0f872cf1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

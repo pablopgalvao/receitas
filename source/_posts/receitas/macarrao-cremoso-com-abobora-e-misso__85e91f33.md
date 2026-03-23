@@ -1,5 +1,6 @@
 ---
 title: Macarrão cremoso com abóbora e missô
+id: mn3ckngxa93f1188a99c8e92081f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

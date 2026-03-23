@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro fit de pasta de amendoim
+id: mn3ckn37d0d577da699db80de7d4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

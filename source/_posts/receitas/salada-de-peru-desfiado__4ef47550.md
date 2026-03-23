@@ -1,5 +1,6 @@
 ---
 title: Salada de peru desfiado (reaproveitamento)
+id: mn3cko4fad3f35e1b245dd9e07dd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

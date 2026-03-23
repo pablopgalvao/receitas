@@ -1,5 +1,6 @@
 ---
 title: Nhoque de mandioca
+id: mn3cknlu779f2b41e3d69a65a9f0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

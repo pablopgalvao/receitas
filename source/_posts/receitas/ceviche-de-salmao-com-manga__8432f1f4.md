@@ -1,5 +1,6 @@
 ---
 title: Ceviche de salmão com manga
+id: mn3ckn5deb06751bcf21b0ef7bb6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

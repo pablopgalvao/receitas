@@ -1,5 +1,6 @@
 ---
 title: Maionese de abacate
+id: mn3cknhuf9a5fd46fb006c5a2d02
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

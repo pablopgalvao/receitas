@@ -1,5 +1,6 @@
 ---
 title: Panqueca de ricota e espinafre com molho branco
+id: mn3cknpd95da5d677fd7387611ca
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

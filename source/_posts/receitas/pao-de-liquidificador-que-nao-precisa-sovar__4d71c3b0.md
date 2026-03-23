@@ -1,5 +1,6 @@
 ---
 title: Pão de liquidificador que não precisa sovar
+id: mn3cknqm129a8bb2ef1b6bcd0250
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

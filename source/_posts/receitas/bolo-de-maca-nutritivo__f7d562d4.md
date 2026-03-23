@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã nutritivo
+id: mn3ckn1m4f33a0e40e11f97a251e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

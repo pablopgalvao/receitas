@@ -1,5 +1,6 @@
 ---
 title: Bife fácil
+id: mn3ckmyv047c96d72a55f9129b36
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

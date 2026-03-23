@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de carne moída fácil e rápido
+id: mn3ckn9cb5046bc08081aa73184b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

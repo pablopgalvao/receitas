@@ -1,5 +1,6 @@
 ---
 title: Caipirinha clássica de limão
+id: mn3ckn3wcf469b6bb2eabc070598
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

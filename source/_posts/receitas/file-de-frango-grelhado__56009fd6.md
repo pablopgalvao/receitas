@@ -1,5 +1,6 @@
 ---
 title: Filé de frango grelhado
+id: mn3cknajf4e65efd62fed33ff587
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

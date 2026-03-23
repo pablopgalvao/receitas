@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de carne original
+id: mn3ckobx8b63ead1b13ffd8dc844
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

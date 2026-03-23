@@ -1,5 +1,6 @@
 ---
 title: Arroz perfumado na pressão
+id: mn3ckmxg2715ef56a9deb8819e78
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

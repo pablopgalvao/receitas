@@ -1,5 +1,6 @@
 ---
 title: Suflê de queijo prático
+id: mn3ckocy5a49be3618484c8558dd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

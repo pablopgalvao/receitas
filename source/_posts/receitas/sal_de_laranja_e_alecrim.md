@@ -1,5 +1,6 @@
 ---
 title: Sal de laranja e alecrim
+id: mn3cko7me9c1c97c3decd7a9a0af
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

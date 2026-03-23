@@ -1,5 +1,6 @@
 ---
 title: Picanha com batatonese de bacon
+id: mn3ckntv4be0c6d9b8e51ed17095
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

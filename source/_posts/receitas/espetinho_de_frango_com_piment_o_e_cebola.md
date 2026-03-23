@@ -1,5 +1,6 @@
 ---
 title: Espetinho de frango com pimentão e cebola
+id: mn3ckn9n8ebed6a342595654352b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

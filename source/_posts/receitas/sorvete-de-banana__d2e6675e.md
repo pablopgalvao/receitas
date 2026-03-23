@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana
+id: mn3ckob82dd0e4bf601dbe52cac8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Picadinho oriental com couve-flor
+id: mn3ckntsa585750aaa2767dbfd04
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

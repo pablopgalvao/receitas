@@ -1,5 +1,6 @@
 ---
 title: Torta de liquidificador com abobrinha e bacon
+id: mn3ckoh797e342a526170d61e70f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

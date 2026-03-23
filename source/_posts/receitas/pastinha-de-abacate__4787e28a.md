@@ -1,5 +1,6 @@
 ---
 title: Pastinha de abacate
+id: mn3cknrt0e58c9e4b659d10202ca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

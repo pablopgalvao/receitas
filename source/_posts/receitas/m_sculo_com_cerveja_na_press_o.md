@@ -1,5 +1,6 @@
 ---
 title: Músculo com cerveja na pressão
+id: mn3cknloff9b666e1196502300d1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

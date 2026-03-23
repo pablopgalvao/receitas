@@ -1,5 +1,6 @@
 ---
 title: Bolo de caneca sem ovo
+id: mn3ckn0m30c222101d41f2a5749c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

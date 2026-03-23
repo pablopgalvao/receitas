@@ -1,5 +1,6 @@
 ---
 title: Beirute tradicional
+id: mn3ckmykcedd955e574494a1f8b2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

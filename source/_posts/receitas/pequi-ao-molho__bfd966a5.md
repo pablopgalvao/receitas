@@ -1,5 +1,6 @@
 ---
 title: Pequi ao molho
+id: mn3cknt65106547800bb221b6980
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

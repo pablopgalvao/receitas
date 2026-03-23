@@ -1,5 +1,6 @@
 ---
 title: Manteiga ghee caseira
+id: mn3ckni6575091ac2216bfd2a58b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

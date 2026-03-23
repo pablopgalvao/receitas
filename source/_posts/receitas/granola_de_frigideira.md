@@ -1,5 +1,6 @@
 ---
 title: Granola de frigideira
+id: mn3cknd046554b18f24e31ffadac
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

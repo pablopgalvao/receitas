@@ -1,5 +1,6 @@
 ---
 title: Escabeche de sardinha prático
+id: mn3ckn94c06462ccaf157a6d2491
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

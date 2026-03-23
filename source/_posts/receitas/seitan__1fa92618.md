@@ -1,5 +1,6 @@
 ---
 title: Seitan
+id: mn3cko878e55b9c684885060419f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

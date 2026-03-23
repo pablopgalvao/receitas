@@ -1,5 +1,6 @@
 ---
 title: Medalhão ao molho madeira
+id: mn3cknin8145fa161cfc4889ddff
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

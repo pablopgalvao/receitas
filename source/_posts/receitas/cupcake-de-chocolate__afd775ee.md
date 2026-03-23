@@ -1,5 +1,6 @@
 ---
 title: Cupcake de chocolate
+id: mn3ckn7r01a95901fa8d99a5ca70
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

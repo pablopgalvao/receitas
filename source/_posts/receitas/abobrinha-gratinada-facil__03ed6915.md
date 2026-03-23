@@ -1,5 +1,6 @@
 ---
 title: Abobrinha gratinada fácil
+id: mn3ckmvt66d7e5fd2ab24f3f91e1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

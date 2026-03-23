@@ -1,5 +1,6 @@
 ---
 title: Frango a passarinho na air fryer
+id: mn3cknb6d510443590e8d879eeb8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

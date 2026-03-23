@@ -1,5 +1,6 @@
 ---
 title: Berinjela recheada com frango
+id: mn3ckmym92c8ba795047b5a5bfba
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

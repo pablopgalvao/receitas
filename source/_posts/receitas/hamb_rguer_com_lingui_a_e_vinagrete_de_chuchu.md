@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer (com linguiça) e vinagrete de chuchu
+id: mn3ckndv9eba6cfd75117590a05a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

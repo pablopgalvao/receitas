@@ -1,5 +1,6 @@
 ---
 title: Bolo de pão de liquidificador
+id: mn3ckn2179a5c2a9ecd97617ba01
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

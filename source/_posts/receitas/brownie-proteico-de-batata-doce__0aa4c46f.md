@@ -1,5 +1,6 @@
 ---
 title: Brownie proteico de batata-doce
+id: mn3ckn3k3a7aae999f64319dc911
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

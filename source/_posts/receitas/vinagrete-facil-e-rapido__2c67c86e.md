@@ -1,5 +1,6 @@
 ---
 title: Vinagrete fácil e rápido
+id: mn3ckoil8aec5a04a015b12ce081
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

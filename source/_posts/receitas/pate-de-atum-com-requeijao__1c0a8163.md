@@ -1,5 +1,6 @@
 ---
 title: Patê de atum com requeijão
+id: mn3cknru7b74cbaa7c4460e702eb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

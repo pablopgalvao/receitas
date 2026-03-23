@@ -1,5 +1,6 @@
 ---
 title: Pão de cenoura vegano
+id: mn3cknqia91f6fe712bc3506ecd3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

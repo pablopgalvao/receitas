@@ -1,5 +1,6 @@
 ---
 title: Bife à parmegiana na airfryer
+id: mn3ckmyrfd9f4af86066c86211fb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

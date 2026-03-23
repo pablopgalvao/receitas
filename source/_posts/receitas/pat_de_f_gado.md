@@ -1,5 +1,6 @@
 ---
 title: Patê de fígado
+id: mn3ckns42b1894882cb839d7f49a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

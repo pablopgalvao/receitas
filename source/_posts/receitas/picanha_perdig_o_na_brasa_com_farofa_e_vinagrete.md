@@ -1,5 +1,6 @@
 ---
 title: Picanha na brasa com farofa e vinagrete
+id: mn3ckntw9015686a504e18ee2ffb
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

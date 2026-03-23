@@ -1,5 +1,6 @@
 ---
 title: Pão de abóbora cabotiá
+id: mn3cknq2556babbe228149cb3dba
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

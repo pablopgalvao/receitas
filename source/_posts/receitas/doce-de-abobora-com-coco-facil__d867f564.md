@@ -1,5 +1,6 @@
 ---
 title: Doce de abóbora com coco fácil
+id: mn3ckn8dc03cdae23bcfa24dce77
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de churros fácil
+id: mn3ckn0t44e951ec8f0adb072b16
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa na panela de pressão com batata
+id: mn3cko97a2cf1e283d26fe4ffe1a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

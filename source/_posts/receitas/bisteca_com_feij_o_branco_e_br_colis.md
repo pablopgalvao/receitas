@@ -1,5 +1,6 @@
 ---
 title: Bisteca com feijão-branco e brócolis
+id: mn3ckmza992d525e79e1775d79b6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

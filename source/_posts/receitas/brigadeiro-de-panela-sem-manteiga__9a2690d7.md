@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de panela sem manteiga
+id: mn3ckn36e9c30b277c4bce8179e5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

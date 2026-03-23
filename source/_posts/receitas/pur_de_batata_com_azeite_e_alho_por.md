@@ -1,5 +1,6 @@
 ---
 title: Purê de batata com azeite e alho-poró
+id: mn3cknwp86b6c9aa84e9e2079afd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

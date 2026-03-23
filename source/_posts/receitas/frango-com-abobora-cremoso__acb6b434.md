@@ -1,5 +1,6 @@
 ---
 title: Frango com abóbora cremoso
+id: mn3cknb9e4f8768580427219c619
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

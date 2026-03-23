@@ -1,5 +1,6 @@
 ---
 title: Peito de frango ao molho de cogumelos
+id: mn3cknsu3f56181a8356de9c48cc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

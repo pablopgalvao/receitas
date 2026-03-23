@@ -1,5 +1,6 @@
 ---
 title: Bolo simples de chocolate
+id: mn3ckn2g46baa746cd4dbc074311
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

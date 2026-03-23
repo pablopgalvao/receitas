@@ -1,5 +1,6 @@
 ---
 title: Coxinha de batata-doce
+id: mn3ckn6wa80d890fb4b2cad443b2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

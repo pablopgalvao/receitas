@@ -1,5 +1,6 @@
 ---
 title: Carne moída com abóbora
+id: mn3ckn4v4a0209220a87241fc7ea
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

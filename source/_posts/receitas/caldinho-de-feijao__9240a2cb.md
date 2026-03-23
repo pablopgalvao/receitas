@@ -1,5 +1,6 @@
 ---
 title: Caldinho de feijão
+id: mn3ckn412f473e14620049d38c7c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

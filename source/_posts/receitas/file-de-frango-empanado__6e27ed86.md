@@ -1,5 +1,6 @@
 ---
 title: Filé de frango empanado
+id: mn3cknaj5997d479807a619e0235
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

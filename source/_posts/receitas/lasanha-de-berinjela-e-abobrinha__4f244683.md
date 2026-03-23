@@ -1,5 +1,6 @@
 ---
 title: Lasanha de berinjela e abobrinha
+id: mn3cknff0c7aea4783a7fe4f9646
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Avocado toast com tomate-pera
+id: mn3ckmxj0b0c28f41ed783c8b623
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

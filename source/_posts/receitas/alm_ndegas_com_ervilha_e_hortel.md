@@ -1,5 +1,6 @@
 ---
 title: Almôndegas com ervilha e hortelã
+id: mn3ckmwe9daea1cb8c181eb5f1e4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

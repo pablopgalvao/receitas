@@ -1,5 +1,6 @@
 ---
 title: Bolo de aveia sem açúcar
+id: mn3ckn074607d936319d73101b9a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

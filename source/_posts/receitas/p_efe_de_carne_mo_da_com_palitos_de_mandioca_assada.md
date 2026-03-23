@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de carne moída com palitos de mandioca assada
+id: mn3cknwz1afa57075e2a9266c308
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

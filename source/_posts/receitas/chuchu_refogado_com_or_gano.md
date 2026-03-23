@@ -1,5 +1,6 @@
 ---
 title: Chuchu refogado com orégano
+id: mn3ckn5w082e9c6c26c8c08ce12e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

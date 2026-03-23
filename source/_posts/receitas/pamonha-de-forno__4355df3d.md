@@ -1,5 +1,6 @@
 ---
 title: Pamonha de forno
+id: mn3cknoafceef51e508e33a6cb97
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

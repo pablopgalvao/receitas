@@ -1,5 +1,6 @@
 ---
 title: Mousse de manga simples
+id: mn3cknky78077cb365309be49ceb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

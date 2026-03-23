@@ -1,5 +1,6 @@
 ---
 title: Abobrinha recheada com frango
+id: mn3ckmvv6df2a2478570502bbf0e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

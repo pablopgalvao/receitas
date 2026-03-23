@@ -1,5 +1,6 @@
 ---
 title: Mussarela fresca vegana
+id: mn3cknlj6aaf22c0fc0455774123
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

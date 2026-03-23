@@ -1,5 +1,6 @@
 ---
 title: Smoothie de morango e banana
+id: mn3cko8v7e1054a7dc38a1ccd857
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Molho vinagrete para churrasco
+id: mn3cknjx89002a620a3cb251e22a
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Molhos e temperos

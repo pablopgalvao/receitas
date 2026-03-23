@@ -1,5 +1,6 @@
 ---
 title: Doce gelado de coco e chocolate
+id: mn3ckn8l4b94c4fe8ad6f717ead5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

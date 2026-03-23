@@ -1,5 +1,6 @@
 ---
 title: Mocotó fácil e rápido
+id: mn3cknj423cf7697a151d477e1a4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

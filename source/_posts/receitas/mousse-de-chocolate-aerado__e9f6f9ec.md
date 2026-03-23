@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate aerado
+id: mn3cknkd7bd7439cc0515fef1e8c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

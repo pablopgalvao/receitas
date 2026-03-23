@@ -1,5 +1,6 @@
 ---
 title: Ceviche de manga
+id: mn3ckn5c89ef2d3b46035c4b78a0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Tabule
+id: mn3ckod4527f333c78568920a98b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

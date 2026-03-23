@@ -1,5 +1,6 @@
 ---
 title: Salada de berinjela no forno
+id: mn3cko3maa2297b2c20a4fa7f1df
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

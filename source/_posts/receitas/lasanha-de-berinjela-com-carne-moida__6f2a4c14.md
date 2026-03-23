@@ -1,5 +1,6 @@
 ---
 title: Lasanha de berinjela com carne moída
+id: mn3cknff6b664939af00a403ba53
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

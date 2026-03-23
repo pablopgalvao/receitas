@@ -1,5 +1,6 @@
 ---
 title: Homus rápido
+id: mn3ckne15087368f647bb3511ccc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

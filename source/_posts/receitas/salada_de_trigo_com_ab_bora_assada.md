@@ -1,5 +1,6 @@
 ---
 title: Salada de trigo com abóbora assada
+id: mn3cko6b2030dd913b8498db9263
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

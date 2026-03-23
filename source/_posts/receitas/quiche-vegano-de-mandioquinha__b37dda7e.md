@@ -1,5 +1,6 @@
 ---
 title: Quiche vegano de mandioquinha
+id: mn3cknzj03ddb6ff703315c5d47b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

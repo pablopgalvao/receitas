@@ -1,5 +1,6 @@
 ---
 title: Medalhão de frango com bacon simples
+id: mn3cknil224855013ff2b778b49f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

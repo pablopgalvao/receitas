@@ -1,5 +1,6 @@
 ---
 title: Focaccia de maçã com canela (sem sova)
+id: mn3cknavb784f8565409776e5418
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

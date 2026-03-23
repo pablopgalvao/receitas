@@ -1,5 +1,6 @@
 ---
 title: Esfiha aberta de carne moída
+id: mn3ckn9j61e1f6cc3d8f1998fdfc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

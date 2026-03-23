@@ -1,5 +1,6 @@
 ---
 title: Rabada na panela de pressão elétrica
+id: mn3cknzr79f260afcdaba7000c9f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

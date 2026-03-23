@@ -1,5 +1,6 @@
 ---
 title: Panetone com gotas de chocolate
+id: mn3cknok64d0bac3c6b680c3f630
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

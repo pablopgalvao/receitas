@@ -1,5 +1,6 @@
 ---
 title: Beijinho de coco e chocolate fit
+id: mn3ckmye30ceb9dfd984fa69cd80
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

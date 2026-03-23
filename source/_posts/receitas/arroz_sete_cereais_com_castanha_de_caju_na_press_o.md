@@ -1,5 +1,6 @@
 ---
 title: Arroz sete cereais com castanha-de-caju na pressão
+id: mn3ckmxg950f55b4e1b472a9eb50
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

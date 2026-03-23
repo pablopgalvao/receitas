@@ -1,5 +1,6 @@
 ---
 title: Vitamina de abacate com leite condensado
+id: mn3ckoj9e78a77d78bf06ec66c85
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

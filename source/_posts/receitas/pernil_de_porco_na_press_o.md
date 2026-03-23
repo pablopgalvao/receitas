@@ -1,5 +1,6 @@
 ---
 title: Pernil de porco na pressão
+id: mn3ckntfddf255dc44114e295cae
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

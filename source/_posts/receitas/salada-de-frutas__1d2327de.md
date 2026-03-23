@@ -1,5 +1,6 @@
 ---
 title: Salada de frutas
+id: mn3cko41f4088ce7176bdb5b0e7d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

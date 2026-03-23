@@ -1,5 +1,6 @@
 ---
 title: Cajuzinho vegano
+id: mn3ckn3y67de7ad3e23fd60a0f0e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

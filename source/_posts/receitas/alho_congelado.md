@@ -1,5 +1,6 @@
 ---
 title: Alho congelado
+id: mn3ckmw730964e85e20c9757ab0d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

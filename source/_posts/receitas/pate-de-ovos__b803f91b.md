@@ -1,5 +1,6 @@
 ---
 title: Patê de ovos
+id: mn3ckns0e04ee721b8e3edff593a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

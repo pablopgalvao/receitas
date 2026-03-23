@@ -1,5 +1,6 @@
 ---
 title: Frango com especiarias e leite de coco
+id: mn3cknbn1ca4d55445e905ef1e0a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

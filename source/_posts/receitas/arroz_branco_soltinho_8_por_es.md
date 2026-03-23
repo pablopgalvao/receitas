@@ -1,5 +1,6 @@
 ---
 title: Arroz branco soltinho (8 porções)
+id: mn3ckmx344f6b105c65ddd55bfb4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

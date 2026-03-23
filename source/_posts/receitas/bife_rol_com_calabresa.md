@@ -1,5 +1,6 @@
 ---
 title: Bife à Rolê com Calabresa
+id: mn3ckmz05f424568079a14e28431
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

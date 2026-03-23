@@ -1,5 +1,6 @@
 ---
 title: Lanche de frigideira com ovo
+id: mn3cknfc65ace59aa037427a2b9e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

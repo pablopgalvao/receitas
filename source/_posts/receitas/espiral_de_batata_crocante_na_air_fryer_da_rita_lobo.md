@@ -1,5 +1,6 @@
 ---
 title: Espiral de batata crocante na Air Fryer
+id: mn3ckn9qd1ac968ac92dc6dceaf5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

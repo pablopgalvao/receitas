@@ -1,5 +1,6 @@
 ---
 title: Chips de beterraba
+id: mn3ckn5q1415304b97acbe936b50
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

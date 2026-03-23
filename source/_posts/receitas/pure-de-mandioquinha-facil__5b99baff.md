@@ -1,5 +1,6 @@
 ---
 title: Purê de mandioquinha fácil
+id: mn3cknwl463f86f8e4fc713f1647
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

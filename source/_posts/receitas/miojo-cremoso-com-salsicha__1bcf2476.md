@@ -1,5 +1,6 @@
 ---
 title: Miojo cremoso com salsicha
+id: mn3cknj12e695a528f83a7ada8cd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

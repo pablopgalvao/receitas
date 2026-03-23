@@ -1,5 +1,6 @@
 ---
 title: Chimia de ovo
+id: mn3ckn5o4b6bf58cfd01ba2fd7ec
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Iogurte de coco vegano
+id: mn3ckne6aca1dac30c0bb4a18457
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com aveia sem açúcar
+id: mn3ckn09c865e81d8faaa8ae8c93
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Lasanha de carne moída
+id: mn3cknfi5cf9844f9b0618a3d14a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

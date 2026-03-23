@@ -1,5 +1,6 @@
 ---
 title: Espetinho de quiabo
+id: mn3ckn9ofa035cdd3ade9eac7060
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

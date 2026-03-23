@@ -1,5 +1,6 @@
 ---
 title: Enrolado de frango com azeitona e queijo servido com risoni
+id: mn3ckn8w79d41d30dd55bbf9a70a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

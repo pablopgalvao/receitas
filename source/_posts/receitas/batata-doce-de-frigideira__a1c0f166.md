@@ -1,5 +1,6 @@
 ---
 title: Batata-doce de frigideira
+id: mn3ckmy031f253644cd9c7a62553
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

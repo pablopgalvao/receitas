@@ -1,5 +1,6 @@
 ---
 title: Bolo de pão de mel
+id: mn3ckn2187bdcf8b47bc8f0ee9ba
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

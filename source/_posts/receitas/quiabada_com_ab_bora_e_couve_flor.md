@@ -1,5 +1,6 @@
 ---
 title: Quiabada com abóbora e couve-flor
+id: mn3cknyc16bd8c59b70a64204b83
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

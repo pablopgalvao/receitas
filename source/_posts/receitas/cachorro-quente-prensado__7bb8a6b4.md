@@ -1,5 +1,6 @@
 ---
 title: Cachorro-quente prensado
+id: mn3ckn3s35d5a7dcbda758e4c506
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

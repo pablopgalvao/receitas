@@ -1,5 +1,6 @@
 ---
 title: Carne moída com mandioca
+id: mn3ckn4w995ee6344b25a30f796e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

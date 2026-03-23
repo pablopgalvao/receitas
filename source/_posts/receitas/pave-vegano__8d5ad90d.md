@@ -1,5 +1,6 @@
 ---
 title: Pavê vegano
+id: mn3cknsnda95ecbe4e76ea718908
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

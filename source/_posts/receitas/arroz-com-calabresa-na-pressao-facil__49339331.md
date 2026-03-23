@@ -1,5 +1,6 @@
 ---
 title: Arroz com calabresa na pressão fácil
+id: mn3ckmwpd3027c23e06110dd3728
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

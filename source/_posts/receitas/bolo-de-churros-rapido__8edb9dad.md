@@ -1,5 +1,6 @@
 ---
 title: Bolo de churros rápido
+id: mn3ckn0u1671ec1cddfae23d8b5e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

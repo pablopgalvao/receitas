@@ -1,5 +1,6 @@
 ---
 title: Escabeche de peixe
+id: mn3ckn94dab6f4330753c19cb934
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Ensopado de quiabo com cuscuz de milho e ovo frito
+id: mn3ckn901aa4ef8c2484ef1c50d5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

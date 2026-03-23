@@ -1,5 +1,6 @@
 ---
 title: Bolo de laranja fit na frigideira
+id: mn3ckn1c9e8c5b14b83cd7ed55ab
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

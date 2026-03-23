@@ -1,5 +1,6 @@
 ---
 title: Pão caseiro de batata-doce
+id: mn3cknpk560a5e122aab73ef1bc8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

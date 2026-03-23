@@ -1,5 +1,6 @@
 ---
 title: Purê de abóbora fit
+id: mn3cknwd82c1d1786bf862dedc1b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

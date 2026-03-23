@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de escalopinho de lombo com bacon e sálvia e couve-flor grelhada
+id: mn3cknwz30eac14dec0371586b42
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

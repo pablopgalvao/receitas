@@ -1,5 +1,6 @@
 ---
 title: Fortaia
+id: mn3cknb2cb0437ed77190f49d207
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

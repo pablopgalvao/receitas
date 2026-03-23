@@ -1,5 +1,6 @@
 ---
 title: Macarrão com camarão e molho rosé
+id: mn3cknhd8b59fe9d5c33ce801cab
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

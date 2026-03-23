@@ -1,5 +1,6 @@
 ---
 title: Bolo de aveia com banana e maçã
+id: mn3ckn06b21afb5742be941246eb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

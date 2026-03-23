@@ -1,5 +1,6 @@
 ---
 title: Fritada de camarão com batata
+id: mn3cknbz0c6e00afa25dfc6f78b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pudim gelado de chocolate
+id: mn3cknvz49e8c1f4cf53da10aa4b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

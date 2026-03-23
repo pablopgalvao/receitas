@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de bife com abobrinha assada
+id: mn3cknwx78f1d0f27067c6ad014b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

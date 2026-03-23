@@ -1,5 +1,6 @@
 ---
 title: Bolo simples e fofo
+id: mn3ckn2hdf9a8651532792dbf51b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

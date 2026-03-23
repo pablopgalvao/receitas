@@ -1,5 +1,6 @@
 ---
 title: Macarrão com calabresa em uma panela só
+id: mn3ckngrea67a1854042a83f6cfe
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mousse de abacaxi sem gelatina
+id: mn3cknkbdda73ada1c27b161deeb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Suco de manga com cardamomo
+id: mn3ckocn2957d470b9c415b95f9a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

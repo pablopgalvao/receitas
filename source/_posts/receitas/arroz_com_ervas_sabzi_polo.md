@@ -1,5 +1,6 @@
 ---
 title: Arroz com ervas (sabzi polo)
+id: mn3ckmx780ea5cf664320ee58c7a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

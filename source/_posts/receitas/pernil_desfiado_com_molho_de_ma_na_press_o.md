@@ -1,5 +1,6 @@
 ---
 title: Pernil desfiado com molho de maçã na pressão
+id: mn3cknte34b7224eaa9245362f88
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

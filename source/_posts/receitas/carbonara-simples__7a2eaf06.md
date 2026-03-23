@@ -1,5 +1,6 @@
 ---
 title: Carbonara simples
+id: mn3ckn4p2fa6a006aa03f1187360
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

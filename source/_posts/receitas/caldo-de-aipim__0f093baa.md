@@ -1,5 +1,6 @@
 ---
 title: Caldo de aipim com calabresa
+id: mn3ckn44c230996239e4e9c5e4da
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Galinhada rápida
+id: mn3cknc51574a79540fe1f316502
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

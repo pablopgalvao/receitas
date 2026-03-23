@@ -1,5 +1,6 @@
 ---
 title: Cestinha de grão-de-bico
+id: mn3ckn5bd0a4e89da038ae9f4ef4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Panacota de maracujá
+id: mn3cknoheeaabd9a942dbab915e8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

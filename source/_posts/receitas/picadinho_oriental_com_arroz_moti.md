@@ -1,5 +1,6 @@
 ---
 title: Picadinho oriental com arroz moti
+id: mn3ckntr1047454b103c0cab1c20
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

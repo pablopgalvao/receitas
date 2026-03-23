@@ -1,5 +1,6 @@
 ---
 title: Mingau de aveia com leite em pó
+id: mn3cknitc6ec40f76edd039d6f90
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

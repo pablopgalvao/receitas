@@ -1,5 +1,6 @@
 ---
 title: Charlotte de morango
+id: mn3ckn5j0cfe503740c7999417a2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

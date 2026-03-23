@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate fácil
+id: mn3cknknb9bef4b66dc6c72b8afa
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

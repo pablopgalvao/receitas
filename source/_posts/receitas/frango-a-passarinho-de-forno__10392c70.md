@@ -1,5 +1,6 @@
 ---
 title: Frango a passarinho de forno
+id: mn3cknb681b0f16e135b1564a0ca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

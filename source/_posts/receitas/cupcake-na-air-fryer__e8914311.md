@@ -1,5 +1,6 @@
 ---
 title: Cupcake na air fryer
+id: mn3ckn7s18c5e49b83f09270e11f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Almôndegas veganas
+id: mn3ckmwc528cf30602430db67789
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

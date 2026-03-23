@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer de lentilha fácil
+id: mn3ckndp11f89cb4bfec82eccf9e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

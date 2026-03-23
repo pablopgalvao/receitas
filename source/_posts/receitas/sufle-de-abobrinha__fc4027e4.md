@@ -1,5 +1,6 @@
 ---
 title: Suflê de abobrinha
+id: mn3ckocp90b215c53e1f5bd81a32
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

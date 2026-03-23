@@ -1,5 +1,6 @@
 ---
 title: Cogumelo grelhado
+id: mn3ckn6606fa393e5f351e0ce469
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Panqueca americana fácil
+id: mn3cknopeefa084044d09c7f7502
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

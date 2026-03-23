@@ -1,5 +1,6 @@
 ---
 title: Bolo sem ovo no liquidificador
+id: mn3ckn2ge510870b9af3b44a4dd1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

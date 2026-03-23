@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa com batata-doce no forno
+id: mn3cko94e7d68bb5621587d93359
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

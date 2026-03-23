@@ -1,5 +1,6 @@
 ---
 title: Canjica amarela
+id: mn3ckn4b76f33a1164a6fda89f80
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

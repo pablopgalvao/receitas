@@ -1,5 +1,6 @@
 ---
 title: Lasanha de frango de frigideira
+id: mn3cknfkdc65c42769b7e590b377
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

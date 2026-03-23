@@ -1,3 +1,6 @@
+---
+id: mn3ckmvg0936b1c917d0f6760aa0
+---
 > Why do I have a folder named ".expo" in my project?
 
 The ".expo" folder is created when an Expo project is started using "expo start" command.

@@ -1,5 +1,6 @@
 ---
 title: Salada de macarrão com berinjela e purê de beterraba
+id: mn3cko5y3a045c55edc81ddd9645
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

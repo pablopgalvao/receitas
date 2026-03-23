@@ -1,5 +1,6 @@
 ---
 title: Bife à milanesa com salada de batatas e repolho agridoce
+id: mn3ckmyy20f7935da692347a4c88
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

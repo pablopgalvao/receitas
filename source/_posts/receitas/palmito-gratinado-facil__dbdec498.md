@@ -1,5 +1,6 @@
 ---
 title: Palmito gratinado fácil
+id: mn3ckno5ecd85148deae0d357ad0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

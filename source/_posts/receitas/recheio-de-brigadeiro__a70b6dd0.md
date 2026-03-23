@@ -1,5 +1,6 @@
 ---
 title: Recheio de brigadeiro
+id: mn3cko0kae07534fe1d7d3298a6b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

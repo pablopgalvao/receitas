@@ -1,5 +1,6 @@
 ---
 title: Pizza rápida de muçarela na Air Fryer
+id: mn3cknuqae0e2f2b5ee69702cde4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

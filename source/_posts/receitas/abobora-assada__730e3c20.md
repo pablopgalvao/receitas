@@ -1,5 +1,6 @@
 ---
 title: Abóbora assada
+id: mn3ckmvmd6875f3257dce2afce6e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

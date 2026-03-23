@@ -1,5 +1,6 @@
 ---
 title: Sanduíche de frigideira com molho pesto e parmesão
+id: mn3cko7q061486dd87365145f5b6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

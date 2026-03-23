@@ -1,5 +1,6 @@
 ---
 title: Feijão-carioca com tomate e especiarias
+id: mn3cknac71053b3df4288976dea9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

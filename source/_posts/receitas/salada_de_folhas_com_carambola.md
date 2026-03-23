@@ -1,5 +1,6 @@
 ---
 title: Salada de folhas com carambola
+id: mn3cko5mb680487e0c67172bcd8c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

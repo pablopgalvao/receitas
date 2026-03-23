@@ -1,5 +1,6 @@
 ---
 title: Smoothie de abacate com banana e cacau
+id: mn3cko8ne1fa696ebd02a1aed018
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

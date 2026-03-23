@@ -1,5 +1,6 @@
 ---
 title: Galinha caipira na panela de pressão
+id: mn3cknc379deaeada2c4e5b1c683
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

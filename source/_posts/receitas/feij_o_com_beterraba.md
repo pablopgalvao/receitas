@@ -1,5 +1,6 @@
 ---
 title: Feijão com beterraba
+id: mn3cknad7348f0190b9a9f60af98
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

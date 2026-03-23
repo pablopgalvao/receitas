@@ -1,5 +1,6 @@
 ---
 title: Sopa de cenoura assada na Air Fryer com leite de coco
+id: mn3ckoag5c39c9ad36fd8e756abb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Bolo de abacaxi com coco
+id: mn3ckn02588eab346a462d4fe47e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

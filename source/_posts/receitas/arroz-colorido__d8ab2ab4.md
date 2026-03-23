@@ -1,5 +1,6 @@
 ---
 title: Arroz colorido
+id: mn3ckmwo31eae510559063a7c0cb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

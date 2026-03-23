@@ -1,5 +1,6 @@
 ---
 title: Mousse de maracujá rápida
+id: mn3cknl2905d4efba61e06342bcd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

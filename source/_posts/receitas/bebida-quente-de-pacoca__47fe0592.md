@@ -1,5 +1,6 @@
 ---
 title: Bebida quente de paçoca
+id: mn3ckmye111ee66f1262bc656dea
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

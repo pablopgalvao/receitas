@@ -1,5 +1,6 @@
 ---
 title: Croquete de cenoura
+id: mn3ckn7h0d79f3be90492c5ae77a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

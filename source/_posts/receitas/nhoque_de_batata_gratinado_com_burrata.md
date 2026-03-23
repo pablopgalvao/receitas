@@ -1,5 +1,6 @@
 ---
 title: Nhoque de batata gratinado com burrata
+id: mn3cknm44bedfb980ef7545308b5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

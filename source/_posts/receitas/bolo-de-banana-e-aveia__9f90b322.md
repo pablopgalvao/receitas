@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana e aveia
+id: mn3ckn0c4db0aa239899913e4a63
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

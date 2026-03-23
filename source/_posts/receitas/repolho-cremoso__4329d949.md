@@ -1,5 +1,6 @@
 ---
 title: Repolho cremoso
+id: mn3cko0r79b0c99f62404f149680
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Caponata de forno
+id: mn3ckn4j36e0f423e4cad5d24349
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

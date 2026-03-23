@@ -1,5 +1,6 @@
 ---
 title: Peito de frango recheado fácil
+id: mn3cknsv20817f3c8aea5c6de58d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Abóbora cabotiá assada com ervas
+id: mn3ckmvn5cb824e5709746721a67
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

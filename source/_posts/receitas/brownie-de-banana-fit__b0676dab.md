@@ -1,5 +1,6 @@
 ---
 title: Brownie de banana fit
+id: mn3ckn3g89af69fa5c98ee704dcf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

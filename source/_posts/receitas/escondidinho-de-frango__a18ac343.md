@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de frango
+id: mn3ckn9e4d13730265e2551f0b8e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Carbonara fácil e rápido
+id: mn3ckn4o76de8dc869b26f525f7e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com cenoura sem glúten
+id: mn3ckn0ad79ead1dd2b5ca7a50e9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

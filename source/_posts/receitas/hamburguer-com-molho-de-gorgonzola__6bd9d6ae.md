@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer com molho de gorgonzola
+id: mn3cknd9dd7b2d6bcab6288ddd1b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

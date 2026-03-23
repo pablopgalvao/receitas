@@ -1,5 +1,6 @@
 ---
 title: Salgado maromba de frango e batata-doce
+id: mn3cko6tc6b73e85ab1b74f8ff69
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

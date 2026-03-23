@@ -1,5 +1,6 @@
 ---
 title: Fricassé de frango light
+id: mn3cknbrb0db04addb8e02979ba8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

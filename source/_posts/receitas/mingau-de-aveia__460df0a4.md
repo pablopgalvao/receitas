@@ -1,5 +1,6 @@
 ---
 title: Mingau de aveia
+id: mn3ckniv890d00ae7a1ec3963642
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

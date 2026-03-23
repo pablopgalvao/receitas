@@ -1,5 +1,6 @@
 ---
 title: Molho de damasco e vinho
+id: mn3cknjr53ed63bdac7ccd0f7aed
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Macarrão com molho de estrogonofe (reaproveitamento)
+id: mn3cknhi324f494294a559b36824
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

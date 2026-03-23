@@ -1,5 +1,6 @@
 ---
 title: Dobradinha na panela de pressão elétrica
+id: mn3ckn8bd5c2c6aa3b1b65f46206
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bisteca de porco na air fryer
+id: mn3ckmz8d02b3ff0028dc3ebf7d6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

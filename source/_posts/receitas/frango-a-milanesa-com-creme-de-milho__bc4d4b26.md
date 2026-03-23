@@ -1,5 +1,6 @@
 ---
 title: Frango à milanesa com creme de milho
+id: mn3cknb4ad9d55d938157d5d8a9d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

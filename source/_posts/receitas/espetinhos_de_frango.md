@@ -1,5 +1,6 @@
 ---
 title: Espetinhos de frango
+id: mn3ckn9m56d35a88b24fa126c351
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

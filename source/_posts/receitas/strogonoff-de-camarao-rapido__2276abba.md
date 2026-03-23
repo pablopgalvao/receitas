@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de camarão rápido
+id: mn3ckobsad61ea362da9803a25c7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

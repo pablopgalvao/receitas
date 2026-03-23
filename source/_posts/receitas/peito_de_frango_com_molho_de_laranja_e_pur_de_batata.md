@@ -1,5 +1,6 @@
 ---
 title: Peito de frango com molho de laranja e purê de batata
+id: mn3cknsw1765b1285712af8bbffe
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

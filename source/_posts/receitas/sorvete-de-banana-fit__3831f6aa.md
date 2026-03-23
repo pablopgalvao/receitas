@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana fit
+id: mn3ckob74a75463777e937bcd4d2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

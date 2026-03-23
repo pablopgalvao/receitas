@@ -1,5 +1,6 @@
 ---
 title: Coxinha fit de frango e batata-doce
+id: mn3ckn6w92bd340b2a41ffee356b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

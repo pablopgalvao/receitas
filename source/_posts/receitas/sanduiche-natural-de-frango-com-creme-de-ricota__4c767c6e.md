@@ -1,5 +1,6 @@
 ---
 title: Sanduíche natural de frango com creme de ricota
+id: mn3cko7t0b88fc1117390d485a77
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

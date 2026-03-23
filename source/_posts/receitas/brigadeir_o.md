@@ -1,5 +1,6 @@
 ---
 title: Brigadeirão
+id: mn3ckn3ac6bee592118499789278
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

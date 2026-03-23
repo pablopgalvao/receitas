@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá cremoso com leite condensado
+id: mn3ckn13d9045ed56963a83516f0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

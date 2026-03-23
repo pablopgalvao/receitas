@@ -1,5 +1,6 @@
 ---
 title: Bolo de chocolate com gengibre
+id: mn3ckn0s169849983d33b3b0f711
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

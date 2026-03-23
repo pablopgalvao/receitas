@@ -1,5 +1,6 @@
 ---
 title: Macarrão cremoso com camarão
+id: mn3ckngz03a27746e955cc9189aa
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

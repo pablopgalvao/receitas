@@ -1,5 +1,6 @@
 ---
 title: Geleia de morango
+id: mn3ckncrc7875c263e6b0d50bc06
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pasta de grão-de-bico com azeite
+id: mn3cknrl4ab842944c0255323de9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

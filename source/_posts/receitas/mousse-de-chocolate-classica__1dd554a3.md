@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate clássica
+id: mn3cknkec449e24a1f714e0d21b8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

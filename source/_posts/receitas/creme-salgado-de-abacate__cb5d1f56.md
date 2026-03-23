@@ -1,5 +1,6 @@
 ---
 title: Creme salgado de abacate
+id: mn3ckn7a6d0133e8fe08aa5bcba0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

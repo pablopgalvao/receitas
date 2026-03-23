@@ -1,5 +1,6 @@
 ---
 title: Brownie rápido
+id: mn3ckn3kce806252f438bce631d2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

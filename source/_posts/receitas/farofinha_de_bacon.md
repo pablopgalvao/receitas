@@ -1,5 +1,6 @@
 ---
 title: Farofinha de bacon
+id: mn3ckna47af644e1d9a99e8b0a89
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

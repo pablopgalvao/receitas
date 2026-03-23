@@ -1,5 +1,6 @@
 ---
 title: Coxinha vegana
+id: mn3ckn6y1727fa5087b66784a36c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

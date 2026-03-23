@@ -1,5 +1,6 @@
 ---
 title: Abobrinha recheada com atum
+id: mn3ckmvu0e1776a72e336d055a1e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

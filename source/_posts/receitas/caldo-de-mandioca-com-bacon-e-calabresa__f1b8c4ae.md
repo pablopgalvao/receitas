@@ -1,5 +1,6 @@
 ---
 title: Caldo de mandioca com bacon e calabresa
+id: mn3ckn462608d110dae912657f84
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

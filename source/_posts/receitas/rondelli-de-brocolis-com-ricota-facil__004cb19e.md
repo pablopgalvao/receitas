@@ -1,5 +1,6 @@
 ---
 title: Rondelli de brócolis com ricota fácil
+id: mn3cko2uf894b4125fdd044e8e31
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

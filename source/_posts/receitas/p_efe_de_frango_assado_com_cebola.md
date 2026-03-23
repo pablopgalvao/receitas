@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de frango assado com cebola
+id: mn3cknx28ba20ddf7cff77c46272
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

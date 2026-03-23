@@ -1,5 +1,6 @@
 ---
 title: Salada de maionese caseira
+id: mn3cko49b10f5c20b3f42ed04719
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

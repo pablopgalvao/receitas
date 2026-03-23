@@ -1,5 +1,6 @@
 ---
 title: Farofa de biju com castanha-do-pará
+id: mn3ckna13fee8cfe048b39c531c3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

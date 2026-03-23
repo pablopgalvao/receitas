@@ -1,5 +1,6 @@
 ---
 title: Purê de couve-flor com gengibre
+id: mn3cknwt4fc886363c2c70626692
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

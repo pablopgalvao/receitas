@@ -1,5 +1,6 @@
 ---
 title: Sopa de legumes na pressão
+id: mn3ckoaj335215c7ffa44b63eca4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

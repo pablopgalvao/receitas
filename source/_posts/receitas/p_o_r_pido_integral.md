@@ -1,5 +1,6 @@
 ---
 title: Pão rápido integral
+id: mn3cknxi463d2eb6e76f38dbd6a6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

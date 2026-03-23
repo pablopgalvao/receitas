@@ -1,5 +1,6 @@
 ---
 title: Smoothie de banana e frutas vermelhas
+id: mn3cko8q307d86bbc50734f8a4fa
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

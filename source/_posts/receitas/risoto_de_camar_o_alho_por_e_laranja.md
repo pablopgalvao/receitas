@@ -1,5 +1,6 @@
 ---
 title: 'Risoto de camarão, alho-poró e laranja'
+id: mn3cko1te29032648cf5efb94fbb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente com leite em pó
+id: mn3ckn5tfc7935c903d9c0d90a9c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de bife de contrafilé com cenoura assada
+id: mn3cknwy535396f154bd0475a73a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

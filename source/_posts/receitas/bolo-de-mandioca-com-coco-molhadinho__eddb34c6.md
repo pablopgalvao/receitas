@@ -1,5 +1,6 @@
 ---
 title: Bolo de mandioca com coco molhadinho
+id: mn3ckn1pd37399ba6388cd360f0e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

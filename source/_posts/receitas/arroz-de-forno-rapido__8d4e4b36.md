@@ -1,5 +1,6 @@
 ---
 title: Arroz de forno rápido
+id: mn3ckmwx4b68f198d3de33fd8a8f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

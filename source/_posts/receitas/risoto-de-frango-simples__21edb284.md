@@ -1,5 +1,6 @@
 ---
 title: Risoto de frango simples
+id: mn3cko1jd27e85bdbad093664874
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolinho de risoto (arancini)
+id: mn3ckmzx376d6678580b5ce8cec2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

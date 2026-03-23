@@ -1,5 +1,6 @@
 ---
 title: Ceviche de salmão
+id: mn3ckn5e5ff0ce0b88eb9eb33347
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

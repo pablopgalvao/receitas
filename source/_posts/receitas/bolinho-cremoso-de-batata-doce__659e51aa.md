@@ -1,5 +1,6 @@
 ---
 title: Bolinho cremoso de batata-doce
+id: mn3ckmzg661a922432deedb86ea4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

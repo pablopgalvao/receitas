@@ -1,5 +1,6 @@
 ---
 title: Bolo de caneca de maçã e amendoim (de micro-ondas)
+id: mn3ckn0l28f3fa0e003a3230da52
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

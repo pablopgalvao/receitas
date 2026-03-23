@@ -1,5 +1,6 @@
 ---
 title: Macarrão com molho de couve-flor gratinado
+id: mn3cknhh751d1784b7fd760b6b92
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

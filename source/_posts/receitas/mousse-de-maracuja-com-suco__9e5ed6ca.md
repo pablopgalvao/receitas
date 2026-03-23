@@ -1,5 +1,6 @@
 ---
 title: Mousse de maracujá com suco
+id: mn3cknl1d5307fe2c3ea45a4a910
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

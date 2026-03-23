@@ -1,5 +1,6 @@
 ---
 title: Macarrão primavera em uma panela só
+id: mn3cknhr17424774d487733f193b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

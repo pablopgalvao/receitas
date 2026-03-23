@@ -1,5 +1,6 @@
 ---
 title: Beijinho vegano
+id: mn3ckmyhc53196d66bb11815c3ab
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

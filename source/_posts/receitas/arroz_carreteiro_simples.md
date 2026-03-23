@@ -1,5 +1,6 @@
 ---
 title: Arroz carreteiro simples
+id: mn3ckmx4d487a087f61963de9357
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

@@ -1,5 +1,6 @@
 ---
 title: Arroz doce vegano
+id: mn3ckmx0d43a79119b30ceb7d31a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

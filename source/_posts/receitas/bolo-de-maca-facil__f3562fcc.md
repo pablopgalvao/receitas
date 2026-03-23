@@ -1,5 +1,6 @@
 ---
 title: Bolo de maçã fácil
+id: mn3ckn1k060da8936af02229cede
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

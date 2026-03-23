@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de maxixe
+id: mn3ckoij8ce40a1522be9ee4ef68
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

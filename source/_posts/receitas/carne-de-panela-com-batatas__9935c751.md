@@ -1,5 +1,6 @@
 ---
 title: Carne de panela com batatas
+id: mn3ckn4sb6df9fa891d1e8cc42ba
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

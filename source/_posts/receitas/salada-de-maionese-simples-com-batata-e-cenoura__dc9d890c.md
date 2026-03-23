@@ -1,5 +1,6 @@
 ---
 title: Salada de maionese simples com batata e cenoura
+id: mn3cko4b882708b7a9b05a13dee5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

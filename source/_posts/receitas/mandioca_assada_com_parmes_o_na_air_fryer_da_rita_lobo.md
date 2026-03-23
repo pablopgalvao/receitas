@@ -1,5 +1,6 @@
 ---
 title: Mandioca assada com parmesão na Air Fryer
+id: mn3ckni2c7354e39f730fc652a81
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

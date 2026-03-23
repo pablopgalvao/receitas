@@ -1,5 +1,6 @@
 ---
 title: Salada de feijão-fradinho com bacalhau
+id: mn3cko5l19578ca4546da9947785
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

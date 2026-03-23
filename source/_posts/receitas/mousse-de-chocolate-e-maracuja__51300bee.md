@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate e maracujá
+id: mn3cknkk09dcdb016b0e45a15b99
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

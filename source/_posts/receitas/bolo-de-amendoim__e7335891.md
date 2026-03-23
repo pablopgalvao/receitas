@@ -1,5 +1,6 @@
 ---
 title: Bolo de amendoim
+id: mn3ckn0311d61f872ad87d1cfd63
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Lombo na panela de pressão
+id: mn3cknged7cbaf6f0cbef41d7b5b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

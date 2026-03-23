@@ -1,5 +1,6 @@
 ---
 title: Iscas de pescada com molho tártaro
+id: mn3cknecba26e52283c55f7db3cd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

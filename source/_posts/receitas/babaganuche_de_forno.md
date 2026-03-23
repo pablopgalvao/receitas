@@ -1,5 +1,6 @@
 ---
 title: Babaganuche de forno
+id: mn3ckmxo268937253bb5ba66d011
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

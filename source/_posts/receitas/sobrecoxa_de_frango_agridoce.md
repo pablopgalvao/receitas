@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa de frango agridoce
+id: mn3cko9bd57adf6ad9a2173f008a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

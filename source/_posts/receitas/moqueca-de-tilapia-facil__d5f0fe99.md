@@ -1,5 +1,6 @@
 ---
 title: Moqueca de tilápia fácil
+id: mn3cknk65b4e54938d178611f3ed
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

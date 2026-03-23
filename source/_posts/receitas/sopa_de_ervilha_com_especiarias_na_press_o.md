@@ -1,5 +1,6 @@
 ---
 title: Sopa de ervilha com especiarias na pressão
+id: mn3ckoahdce282d64bebf620f79e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

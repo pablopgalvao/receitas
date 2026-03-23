@@ -1,5 +1,6 @@
 ---
 title: Omelete simples
+id: mn3cknmba9376cbdc96926469c74
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

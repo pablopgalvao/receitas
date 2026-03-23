@@ -1,5 +1,6 @@
 ---
 title: Lasanha de berinjela fácil
+id: mn3cknfg032b0a351dcff8516b5f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

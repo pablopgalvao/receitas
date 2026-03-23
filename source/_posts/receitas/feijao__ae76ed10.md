@@ -1,5 +1,6 @@
 ---
 title: Feijão
+id: mn3ckna8b1909f3cf0a7843b6906
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

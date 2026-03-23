@@ -1,5 +1,6 @@
 ---
 title: Chips assado de batata-doce e alecrim
+id: mn3ckn5p251f1c2ea71ea2e14856
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

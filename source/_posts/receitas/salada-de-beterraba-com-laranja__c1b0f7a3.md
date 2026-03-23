@@ -1,5 +1,6 @@
 ---
 title: Salada de beterraba com laranja
+id: mn3cko3nb1b75ccf90d01cfea11f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

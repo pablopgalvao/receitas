@@ -1,5 +1,6 @@
 ---
 title: Musse de chocolate de liquidificador
+id: mn3cknlm3be98a05ca6804ab7e75
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

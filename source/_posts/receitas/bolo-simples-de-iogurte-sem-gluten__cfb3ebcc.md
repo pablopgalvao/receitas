@@ -1,5 +1,6 @@
 ---
 title: Bolo simples de iogurte sem glúten
+id: mn3ckn2g29408addd35345dd468a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

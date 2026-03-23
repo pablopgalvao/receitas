@@ -1,5 +1,6 @@
 ---
 title: Polenta com abobrinha
+id: mn3cknvab9e15edfb2a9141c50a8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Creme de frango com milho rápido
+id: mn3ckn78d7ece6de93f6cd517ce5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

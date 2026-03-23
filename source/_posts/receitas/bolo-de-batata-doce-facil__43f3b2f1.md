@@ -1,5 +1,6 @@
 ---
 title: Bolo de batata-doce fácil
+id: mn3ckn0i46c4979477588317fbf0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

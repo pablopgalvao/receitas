@@ -1,5 +1,6 @@
 ---
 title: Galinhada em uma panela só
+id: mn3cknc8cc20c66d3f28c2975c21
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Macarrão à carbonara
+id: mn3cknh95042eff9dbae5ab9ac92
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

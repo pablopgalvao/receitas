@@ -1,5 +1,6 @@
 ---
 title: Molho de yakisoba simples
+id: mn3cknjkba58783ddbb9c056734b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

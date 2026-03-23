@@ -1,5 +1,6 @@
 ---
 title: Panzanella (salada de pão)
+id: mn3cknpfdbb8bceb420ba8cf0403
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

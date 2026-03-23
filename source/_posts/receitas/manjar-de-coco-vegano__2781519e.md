@@ -1,5 +1,6 @@
 ---
 title: Manjar de coco vegano
+id: mn3ckni462094bcdcc53442b8933
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Salada de batata com maionese
+id: mn3cko3k4043aa19764404f4d5a1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

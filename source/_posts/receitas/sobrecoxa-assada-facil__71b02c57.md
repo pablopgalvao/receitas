@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa assada fácil
+id: mn3cko939a248feabebfab13c7cb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

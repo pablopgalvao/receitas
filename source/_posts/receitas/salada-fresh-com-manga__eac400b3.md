@@ -1,5 +1,6 @@
 ---
 title: Salada fresh com manga
+id: mn3cko4o7f68abc68fdd57ea860c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

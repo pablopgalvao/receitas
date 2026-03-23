@@ -1,5 +1,6 @@
 ---
 title: Coração de frango na frigideira
+id: mn3ckn6i8dc1ea6610f70bbd733f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

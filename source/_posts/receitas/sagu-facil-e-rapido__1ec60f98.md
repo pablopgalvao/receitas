@@ -1,5 +1,6 @@
 ---
 title: Sagu fácil e rápido
+id: mn3cko386000a7f7a740b73452c6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Nhoque de batata-doce com molho de manteiga e sálvia
+id: mn3cknm45dd797bdcced5295f198
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

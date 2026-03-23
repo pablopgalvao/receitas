@@ -1,5 +1,6 @@
 ---
 title: Vitamina de abacate com leite em pó
+id: mn3ckojf86422699c80fe7ec6ab2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

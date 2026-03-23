@@ -1,5 +1,6 @@
 ---
 title: Salada de pepino com manga
+id: mn3cko6321062aa363266ddc7430
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

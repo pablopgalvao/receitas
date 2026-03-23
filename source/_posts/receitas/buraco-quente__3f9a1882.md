@@ -1,5 +1,6 @@
 ---
 title: Buraco quente
+id: mn3ckn3q64ef3180a7e6a8f30267
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

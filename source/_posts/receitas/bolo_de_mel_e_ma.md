@@ -1,5 +1,6 @@
 ---
 title: Bolo de mel e maçã
+id: mn3ckn2p2c3f83168ab60940a895
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pizza de frigideira com wrap
+id: mn3cknugb1ead1733202db70e639
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

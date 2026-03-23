@@ -1,5 +1,6 @@
 ---
 title: Torta prática de maçã verde
+id: mn3ckohc126f10f216a821c77dc9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

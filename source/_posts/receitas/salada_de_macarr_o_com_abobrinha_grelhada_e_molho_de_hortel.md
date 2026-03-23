@@ -1,5 +1,6 @@
 ---
 title: Salada de macarrão com abobrinha grelhada e molho de hortelã
+id: mn3cko5xab06e1b0ba2e62335352
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

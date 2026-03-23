@@ -1,5 +1,6 @@
 ---
 title: Acelga gratinada com molho caesar
+id: mn3ckmw373390f9ff512bb7766c1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

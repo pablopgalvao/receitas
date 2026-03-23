@@ -1,5 +1,6 @@
 ---
 title: Sopa de grão-de-bico com linguicinha
+id: mn3ckoai02aa09f099607ed429eb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

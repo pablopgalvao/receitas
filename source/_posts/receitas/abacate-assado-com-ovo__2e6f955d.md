@@ -1,5 +1,6 @@
 ---
 title: Abacate assado com ovo
+id: mn3ckmvh0a0d594653ea5635f392
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

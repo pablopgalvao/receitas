@@ -1,5 +1,6 @@
 ---
 title: Macarrão com salmão defumado
+id: mn3cknhm8fa63069d98a0a7d2ff0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

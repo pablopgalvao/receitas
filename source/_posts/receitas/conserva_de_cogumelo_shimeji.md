@@ -1,5 +1,6 @@
 ---
 title: Conserva de cogumelo shimeji
+id: mn3ckn695f875b213cf06b324a57
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

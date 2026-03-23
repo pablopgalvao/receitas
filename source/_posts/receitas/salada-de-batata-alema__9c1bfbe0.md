@@ -1,5 +1,6 @@
 ---
 title: Salada de batata alemã
+id: mn3cko3j18bdbcfa23a1652094cf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

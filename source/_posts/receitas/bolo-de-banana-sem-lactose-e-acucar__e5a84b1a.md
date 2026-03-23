@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana sem lactose e açúcar
+id: mn3ckn0f36bd1c9be5485fce1ecb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

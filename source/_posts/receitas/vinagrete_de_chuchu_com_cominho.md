@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de chuchu com cominho
+id: mn3ckoipa0b2bba70918eb2d173b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

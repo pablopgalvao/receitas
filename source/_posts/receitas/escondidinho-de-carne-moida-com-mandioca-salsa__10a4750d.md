@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de carne moída com mandioca salsa
+id: mn3ckn9bb08b4777128abd69a05a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

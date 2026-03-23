@@ -1,5 +1,6 @@
 ---
 title: Risoto de cenoura na pressão com bife
+id: mn3cko1uaf8a56615a194972c7e7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

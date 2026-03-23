@@ -1,5 +1,6 @@
 ---
 title: Bolinho de peixe salteado (reaproveitamento)
+id: mn3ckmzwf43fab08c0a68d356e20
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

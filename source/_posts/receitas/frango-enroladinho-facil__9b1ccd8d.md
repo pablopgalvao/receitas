@@ -1,5 +1,6 @@
 ---
 title: Frango enroladinho fácil
+id: mn3cknbg5d70f55854dd59c127b4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

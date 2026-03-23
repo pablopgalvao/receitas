@@ -1,5 +1,6 @@
 ---
 title: Semifredo de amendoim com shot de café
+id: mn3cko891701c32531448d2779dd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

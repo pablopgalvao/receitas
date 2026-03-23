@@ -1,5 +1,6 @@
 ---
 title: Pão vegano de frigideira
+id: mn3cknr7b9b7120dcd68f5cd31b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

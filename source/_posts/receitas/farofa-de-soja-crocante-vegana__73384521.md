@@ -1,5 +1,6 @@
 ---
 title: Farofa de soja crocante vegana
+id: mn3ckn9zd95cf1fcc9ff68b8ec42
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pão proteico de frango
+id: mn3cknr37a1a69f15191aa2e340a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

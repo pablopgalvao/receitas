@@ -1,5 +1,6 @@
 ---
 title: Coração de frango na air fryer
+id: mn3ckn6h4dd1b42eab2e8838aaf3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

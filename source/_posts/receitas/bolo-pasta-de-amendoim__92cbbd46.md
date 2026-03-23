@@ -1,5 +1,6 @@
 ---
 title: Bolo de pasta de amendoim
+id: mn3ckn2d561e07fcf9417cb2692d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

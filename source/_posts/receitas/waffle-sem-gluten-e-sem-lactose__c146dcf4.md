@@ -1,5 +1,6 @@
 ---
 title: Waffle sem glúten e sem lactose
+id: mn3ckojoc3ebf136e921bd62899b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

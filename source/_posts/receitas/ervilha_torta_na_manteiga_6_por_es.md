@@ -1,5 +1,6 @@
 ---
 title: Ervilha-torta na manteiga (6 porções)
+id: mn3ckn9398751fa0ee761dea6806
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

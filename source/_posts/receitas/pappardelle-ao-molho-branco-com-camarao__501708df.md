@@ -1,5 +1,6 @@
 ---
 title: Pappardelle ao molho branco com camarão
+id: mn3cknrg415aeee10f33cac8554a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

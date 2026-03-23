@@ -1,5 +1,6 @@
 ---
 title: Arroz japonês
+id: mn3ckmxe53a64f98f49ec028a425
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

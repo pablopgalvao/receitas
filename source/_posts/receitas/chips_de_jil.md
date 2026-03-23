@@ -1,5 +1,6 @@
 ---
 title: Chips de jiló
+id: mn3ckn5r5a54a66d169408adb239
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

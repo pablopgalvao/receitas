@@ -1,5 +1,6 @@
 ---
 title: Salada de pimentão marinado
+id: mn3cko66cb598fca817e5fda8429
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

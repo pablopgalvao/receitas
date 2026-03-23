@@ -1,5 +1,6 @@
 ---
 title: 'Shakshuka a la norma (ovos cozidos no molho de berinjela, tomate e ricota)'
+id: mn3cko8jdbff89e5a841c723b957
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Ragu de frigideira
+id: mn3cko08cf3ea12e5be5412a37d0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

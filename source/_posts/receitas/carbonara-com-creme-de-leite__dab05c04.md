@@ -1,5 +1,6 @@
 ---
 title: Carbonara com creme de leite
+id: mn3ckn4o51751c5a046fbc2cd3c3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

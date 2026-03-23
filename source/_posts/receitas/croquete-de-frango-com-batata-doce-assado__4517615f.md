@@ -1,5 +1,6 @@
 ---
 title: Croquete de frango com batata-doce assado
+id: mn3ckn7i368248fdb70b1382a468
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

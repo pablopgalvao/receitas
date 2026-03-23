@@ -1,5 +1,6 @@
 ---
 title: Kibe de forno fácil e rápido
+id: mn3ckneh05f4af07c792b6695158
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

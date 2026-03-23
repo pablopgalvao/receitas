@@ -1,5 +1,6 @@
 ---
 title: Salmão com batata na airfryer
+id: mn3cko6v9fbdc47ae96b18ac7909
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

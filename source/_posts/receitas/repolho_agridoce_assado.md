@@ -1,5 +1,6 @@
 ---
 title: Repolho agridoce assado
+id: mn3cko0v3b76aeaafb4a76822d72
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Vela de manteiga com páprica
+id: mn3ckoih341a54a9ddc445f7b804
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

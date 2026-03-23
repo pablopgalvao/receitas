@@ -1,5 +1,6 @@
 ---
 title: Mousse de manga com 3 ingredientes
+id: mn3cknkw9d4defe9c2a993d98f86
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

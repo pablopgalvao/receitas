@@ -1,5 +1,6 @@
 ---
 title: Mousse de chocolate com abacate
+id: mn3cknkg42b9442f5a53f1172e3a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

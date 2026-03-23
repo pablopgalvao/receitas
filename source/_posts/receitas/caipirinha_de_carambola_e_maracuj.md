@@ -1,5 +1,6 @@
 ---
 title: Caipirinha de carambola e maracujá
+id: mn3ckn3we7429c6627db15024cd5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

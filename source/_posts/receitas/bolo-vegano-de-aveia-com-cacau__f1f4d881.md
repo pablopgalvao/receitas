@@ -1,5 +1,6 @@
 ---
 title: Bolo vegano de aveia com cacau
+id: mn3ckn2j42a0b6cca06e8988d46a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

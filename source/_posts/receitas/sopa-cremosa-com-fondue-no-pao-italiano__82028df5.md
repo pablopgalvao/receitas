@@ -1,5 +1,6 @@
 ---
 title: Sopa cremosa com fondue no pão italiano
+id: mn3cko9m9a99cb9f0c7cad2b8148
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

@@ -1,5 +1,6 @@
 ---
 title: Couve-flor gratinada fácil
+id: mn3ckn6o42b00894685989bb54fd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

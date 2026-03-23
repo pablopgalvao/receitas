@@ -1,5 +1,6 @@
 ---
 title: Sobrecoxa ao curry com arroz e laranja em uma panela só
+id: mn3cko9aa05ca52641c883247098
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

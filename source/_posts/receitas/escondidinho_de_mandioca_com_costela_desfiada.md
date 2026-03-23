@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de mandioca com costela desfiada
+id: mn3ckn9i8c199749a9fcb4b0cba4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

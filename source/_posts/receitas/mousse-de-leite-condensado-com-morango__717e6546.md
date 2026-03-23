@@ -1,5 +1,6 @@
 ---
 title: Mousse de leite condensado com morango
+id: mn3cknkrf3afca71a2254e01fb98
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

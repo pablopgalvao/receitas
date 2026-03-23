@@ -1,5 +1,6 @@
 ---
 title: Consomê de frango
+id: mn3ckn6a85040549aff9530434cc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

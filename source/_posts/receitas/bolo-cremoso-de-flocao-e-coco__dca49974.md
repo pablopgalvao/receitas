@@ -1,5 +1,6 @@
 ---
 title: Bolo cremoso de flocão e coco
+id: mn3ckn012ac25c55523d5b805bda
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

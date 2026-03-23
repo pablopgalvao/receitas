@@ -1,5 +1,6 @@
 ---
 title: Sobremesa cremosa de abacaxi
+id: mn3cko9dd41b092c4401a1b6feca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

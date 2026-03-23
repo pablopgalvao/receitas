@@ -1,5 +1,6 @@
 ---
 title: Bolo vegano de banana
+id: mn3ckn2jde0f486f6f399c2a3932
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

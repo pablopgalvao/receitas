@@ -1,5 +1,6 @@
 ---
 title: Strogonoff com creme de milho
+id: mn3ckobld6a89a304a6b7c031e03
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

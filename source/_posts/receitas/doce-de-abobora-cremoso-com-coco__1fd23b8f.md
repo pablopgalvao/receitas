@@ -1,5 +1,6 @@
 ---
 title: Doce de abóbora cremoso com coco
+id: mn3ckn8e9f03d42ee6859ec3855a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

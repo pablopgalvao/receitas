@@ -1,5 +1,6 @@
 ---
 title: Escondidinho vegetariano de legumes
+id: mn3ckn9g3a52f76b64df817ab752
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

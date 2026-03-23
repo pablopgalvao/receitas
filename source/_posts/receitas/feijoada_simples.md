@@ -1,5 +1,6 @@
 ---
 title: Feijoada Simples
+id: mn3cknaaa97487d1affe2216b25e
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

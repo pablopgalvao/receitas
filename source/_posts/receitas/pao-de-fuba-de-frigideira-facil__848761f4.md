@@ -1,5 +1,6 @@
 ---
 title: Pão de fubá de frigideira fácil
+id: mn3cknql1d28f7da816e8a918cac
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

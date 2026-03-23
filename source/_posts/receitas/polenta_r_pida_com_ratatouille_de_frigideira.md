@@ -1,5 +1,6 @@
 ---
 title: Polenta rápida com ratatouille de frigideira
+id: mn3cknvkfea5dd1281c783fd5f36
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

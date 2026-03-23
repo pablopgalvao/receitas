@@ -1,5 +1,6 @@
 ---
 title: Bolo de goma tradicional do Nordeste
+id: mn3ckn17b25926337730019e504c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

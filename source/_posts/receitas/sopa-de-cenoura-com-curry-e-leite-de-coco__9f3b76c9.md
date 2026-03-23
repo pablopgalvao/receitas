@@ -1,5 +1,6 @@
 ---
 title: Sopa de cenoura com curry e leite de coco
+id: mn3cko9wff17c88ad94f2d478733
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

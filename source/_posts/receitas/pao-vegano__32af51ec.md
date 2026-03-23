@@ -1,5 +1,6 @@
 ---
 title: Pão vegano
+id: mn3cknr97876a8a863323ad3188f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

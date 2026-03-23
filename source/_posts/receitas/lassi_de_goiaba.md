@@ -1,5 +1,6 @@
 ---
 title: Lassi de goiaba
+id: mn3cknfqc7111d959a500d62d1c7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

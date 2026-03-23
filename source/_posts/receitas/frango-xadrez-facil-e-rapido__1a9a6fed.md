@@ -1,5 +1,6 @@
 ---
 title: Frango xadrez fácil e rápido
+id: mn3cknbj478eb1fae8cad969b894
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Feijão caseiro
+id: mn3cknac6d93d19a0beedb3b448d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

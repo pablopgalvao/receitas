@@ -1,5 +1,6 @@
 ---
 title: Tulipa de frango na air fryer
+id: mn3ckoi64618350a010136f66d29
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

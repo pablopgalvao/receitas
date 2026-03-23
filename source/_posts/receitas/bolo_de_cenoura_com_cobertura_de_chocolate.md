@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura com cobertura de chocolate
+id: mn3ckn2m74cfb45c5351e3a08de5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

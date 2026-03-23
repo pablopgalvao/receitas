@@ -1,5 +1,6 @@
 ---
 title: Sopa de legumes com frango
+id: mn3ckoa3eed09a6aa36b8b132d92
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

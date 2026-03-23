@@ -1,5 +1,6 @@
 ---
 title: Minissanduíche de frango
+id: mn3cknj060de0298b1f9d659ba09
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

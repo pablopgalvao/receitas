@@ -1,5 +1,6 @@
 ---
 title: Sopa de feijão com legumes
+id: mn3ckoa1e797b6c43ff5b8f2d055
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

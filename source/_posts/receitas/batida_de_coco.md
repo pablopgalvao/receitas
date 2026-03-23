@@ -1,5 +1,6 @@
 ---
 title: Batida de coco
+id: mn3ckmyc19ac474441a0fc4e4e61
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Bebidas

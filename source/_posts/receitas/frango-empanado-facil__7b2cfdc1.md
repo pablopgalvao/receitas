@@ -1,5 +1,6 @@
 ---
 title: Frango empanado fácil
+id: mn3cknbe4cdf6ad3f6d0b7d02bf9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

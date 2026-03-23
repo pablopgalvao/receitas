@@ -1,5 +1,6 @@
 ---
 title: Tartine doce de ricota com banana
+id: mn3ckodw81b589d7f7430e1a1437
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

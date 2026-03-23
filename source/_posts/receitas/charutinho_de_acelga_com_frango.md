@@ -1,5 +1,6 @@
 ---
 title: Charutinho de acelga com frango
+id: mn3ckn5jf4f8cdb3d6d3759a8789
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

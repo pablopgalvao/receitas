@@ -1,5 +1,6 @@
 ---
 title: Ambrosia rápida de leite em pó
+id: mn3ckmwh7d2615fbf90becdd91d6
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

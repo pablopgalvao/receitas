@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá simples e gostoso
+id: mn3ckn16d909ca8c8b57d132145d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

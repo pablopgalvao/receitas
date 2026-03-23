@@ -1,5 +1,6 @@
 ---
 title: Yakisoba tradicional de carne
+id: mn3ckok1e89e3e7dbfb6a4df2abd
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

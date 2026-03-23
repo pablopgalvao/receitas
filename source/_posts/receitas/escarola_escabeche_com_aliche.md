@@ -1,5 +1,6 @@
 ---
 title: Escarola escabeche com aliche
+id: mn3ckn965523334eff22b27b8982
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

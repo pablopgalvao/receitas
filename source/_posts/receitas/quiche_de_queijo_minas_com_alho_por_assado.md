@@ -1,5 +1,6 @@
 ---
 title: Quiche de queijo minas com alho-poró assado
+id: mn3cknzm926cedab18a84c74f327
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

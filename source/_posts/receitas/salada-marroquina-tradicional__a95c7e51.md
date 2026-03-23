@@ -1,5 +1,6 @@
 ---
 title: Salada marroquina tradicional
+id: mn3cko4q09ffa9b1f172bd256cfc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

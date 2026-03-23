@@ -1,5 +1,6 @@
 ---
 title: Macarrão de forno com abóbora (mac'n'cheese)
+id: mn3cknho3026f863c3f50527cf7c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

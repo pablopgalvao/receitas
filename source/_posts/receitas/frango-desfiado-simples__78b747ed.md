@@ -1,5 +1,6 @@
 ---
 title: Frango desfiado simples
+id: mn3cknbdfbf78b2f18cbfb2271e8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

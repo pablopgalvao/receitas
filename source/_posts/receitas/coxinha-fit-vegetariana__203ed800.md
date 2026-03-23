@@ -1,5 +1,6 @@
 ---
 title: Coxinha fit vegetariana
+id: mn3ckn6x67e27843b738daf4280b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

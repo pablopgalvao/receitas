@@ -1,5 +1,6 @@
 ---
 title: Pera cozida no micro-ondas com mel e canela
+id: mn3cknt80392d9fefbc96436cf0f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

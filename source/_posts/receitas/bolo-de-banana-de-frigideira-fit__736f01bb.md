@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana de frigideira fit
+id: mn3ckn0c2c451e0c880d335e0d03
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

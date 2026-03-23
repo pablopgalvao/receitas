@@ -1,5 +1,6 @@
 ---
 title: Chantilly de chocolate com creme de leite
+id: mn3ckn5ha1f2492805b6cca360be
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

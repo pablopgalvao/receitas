@@ -1,5 +1,6 @@
 ---
 title: Nhoque de batata com molho de cebolas caramelizadas
+id: mn3cknm237075f39c1732cc4fdcd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

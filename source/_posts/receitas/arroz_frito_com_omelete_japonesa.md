@@ -1,5 +1,6 @@
 ---
 title: Arroz frito com omelete japonesa
+id: mn3ckmxdcf4f3a56e7c7dfad1884
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

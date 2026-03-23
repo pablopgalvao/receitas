@@ -1,5 +1,6 @@
 ---
 title: Bife à parmegiana na Air Fryer Oven
+id: mn3ckmyz41906417eecaa1ec842d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

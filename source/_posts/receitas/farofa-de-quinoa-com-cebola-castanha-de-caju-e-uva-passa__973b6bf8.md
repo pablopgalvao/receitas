@@ -1,5 +1,6 @@
 ---
 title: 'Farofa de quinoa com cebola, castanha-de-caju e uva-passa'
+id: mn3ckn9y6ce12dd12c02d5384430
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

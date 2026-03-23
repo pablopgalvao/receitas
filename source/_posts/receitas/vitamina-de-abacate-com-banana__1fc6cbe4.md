@@ -1,5 +1,6 @@
 ---
 title: Vitamina de abacate com banana
+id: mn3ckoj7bbcda71009e711a5cbd0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

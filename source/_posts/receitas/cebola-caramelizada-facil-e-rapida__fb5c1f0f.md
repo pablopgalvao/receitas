@@ -1,5 +1,6 @@
 ---
 title: Cebola caramelizada fácil e rápida
+id: mn3ckn58af737e671a2a02bea0b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

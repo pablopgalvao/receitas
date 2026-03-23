@@ -1,5 +1,6 @@
 ---
 title: Feijão carioca simples
+id: mn3ckna51db5502e917be7a9b715
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

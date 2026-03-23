@@ -1,5 +1,6 @@
 ---
 title: Moela de frango
+id: mn3cknj8321bdfaa373c076ac939
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

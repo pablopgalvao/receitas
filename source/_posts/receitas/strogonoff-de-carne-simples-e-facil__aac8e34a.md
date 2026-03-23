@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de carne simples e fácil
+id: mn3ckobz7199b54948ddff6bc4d2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

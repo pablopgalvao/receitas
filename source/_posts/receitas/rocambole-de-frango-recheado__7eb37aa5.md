@@ -1,5 +1,6 @@
 ---
 title: Rocambole de frango recheado
+id: mn3cko2gaacd25551886b26a6ffb
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

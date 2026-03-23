@@ -1,5 +1,6 @@
 ---
 title: Caldinho de feijão-preto com pimentão
+id: mn3ckn42c3fc27a8405a17f01858
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

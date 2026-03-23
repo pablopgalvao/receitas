@@ -1,5 +1,6 @@
 ---
 title: Salada de frutas no pote com iogurte e chia
+id: mn3cko40cd9fc083ed948b9fe56c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

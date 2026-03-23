@@ -1,5 +1,6 @@
 ---
 title: Morango flambado com sorvete de creme
+id: mn3cknkaf95aae64ae8da77701d3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

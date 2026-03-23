@@ -1,5 +1,6 @@
 ---
 title: Purê de mandioquinha com requeijão de corte
+id: mn3cknwv478d7f0da8800a333211
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

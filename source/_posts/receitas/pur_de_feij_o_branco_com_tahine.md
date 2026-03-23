@@ -1,5 +1,6 @@
 ---
 title: Purê de feijão-branco com tahine
+id: mn3cknwu93da79f6bbad8c1c08cf
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mousse de maracujá com chocolate
+id: mn3cknkz4e6fd63b4279fa663b45
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

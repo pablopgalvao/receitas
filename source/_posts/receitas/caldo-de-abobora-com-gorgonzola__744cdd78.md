@@ -1,5 +1,6 @@
 ---
 title: Caldo de abóbora com gorgonzola
+id: mn3ckn43416567b38bde7d11b95a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

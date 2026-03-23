@@ -1,5 +1,6 @@
 ---
 title: Salada de frutas com carambola
+id: mn3cko5p483ece8668e254b61de3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

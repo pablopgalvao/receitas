@@ -1,5 +1,6 @@
 ---
 title: Arroz com furikake de couve
+id: mn3ckmx81a3a8423a157b9ea902c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

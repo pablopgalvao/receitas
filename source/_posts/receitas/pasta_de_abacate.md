@@ -1,5 +1,6 @@
 ---
 title: Pasta de abacate
+id: mn3cknrj7c1c334bc2e152805400
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

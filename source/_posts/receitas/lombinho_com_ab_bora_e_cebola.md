@@ -1,5 +1,6 @@
 ---
 title: Lombinho com abóbora e cebola
+id: mn3ckngcc38f04d29e70f0dd0a79
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

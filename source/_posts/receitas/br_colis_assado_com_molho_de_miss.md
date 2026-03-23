@@ -1,5 +1,6 @@
 ---
 title: Brócolis assado com molho de missô
+id: mn3ckn3o2f58d637b6e77e4965f7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

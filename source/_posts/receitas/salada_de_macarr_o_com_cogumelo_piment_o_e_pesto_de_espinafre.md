@@ -1,5 +1,6 @@
 ---
 title: 'Salada de macarrão com cogumelo, pimentão e pesto de espinafre'
+id: mn3cko5y39f38bbf81e949005660
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

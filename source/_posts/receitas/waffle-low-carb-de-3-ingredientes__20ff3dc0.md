@@ -1,5 +1,6 @@
 ---
 title: Waffle low carb de 3 ingredientes
+id: mn3ckojl4e08e30a580147744d08
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

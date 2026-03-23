@@ -1,5 +1,6 @@
 ---
 title: Frango assado na cebola
+id: mn3cknb8e36c0431b3213e886095
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

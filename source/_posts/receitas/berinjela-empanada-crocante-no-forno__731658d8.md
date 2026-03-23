@@ -1,5 +1,6 @@
 ---
 title: Berinjela empanada crocante no forno
+id: mn3ckmymd994967d3ca495d026b9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

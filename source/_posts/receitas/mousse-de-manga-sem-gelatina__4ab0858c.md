@@ -1,5 +1,6 @@
 ---
 title: Mousse de manga sem gelatina
+id: mn3cknkxf47f70fa210a9e27761d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

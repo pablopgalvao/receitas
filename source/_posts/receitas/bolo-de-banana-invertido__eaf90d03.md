@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana invertido
+id: mn3ckn0efa5ed681973dc4e30a25
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

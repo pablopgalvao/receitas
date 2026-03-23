@@ -1,5 +1,6 @@
 ---
 title: Pão integral de cenoura sem glúten e sem lactose
+id: mn3cknqx4dd7ac2c6d28af05bcd3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

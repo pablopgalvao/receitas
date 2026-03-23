@@ -1,5 +1,6 @@
 ---
 title: Ensopadinho de camarão com chuchu
+id: mn3ckn8x2a6c76243a23fc6ba9fe
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Nhoque de mandioquinha com molho de manteiga e sálvia
+id: mn3cknm76c224e33edfe4148c4cc
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

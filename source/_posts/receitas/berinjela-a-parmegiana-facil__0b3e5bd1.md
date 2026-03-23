@@ -1,5 +1,6 @@
 ---
 title: Berinjela à parmegiana fácil
+id: mn3ckmyl3fb07501de996ada3078
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

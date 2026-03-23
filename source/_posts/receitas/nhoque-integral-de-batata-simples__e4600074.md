@@ -1,5 +1,6 @@
 ---
 title: Nhoque integral de batata simples
+id: mn3cknlxd9cfcb48ae8d3dd9c5f8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Berinjela grelhada com molho mediterrâneo e cuscuz marroquino
+id: mn3ckmyoaf5d321a8d2e40fd2326
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

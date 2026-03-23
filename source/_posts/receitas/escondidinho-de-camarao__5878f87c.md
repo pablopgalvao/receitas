@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de camarão
+id: mn3ckn9a545dfec948c7900d03a8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

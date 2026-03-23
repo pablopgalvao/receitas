@@ -1,5 +1,6 @@
 ---
 title: Creme de abóbora com especiarias
+id: mn3ckn744e28d1da65bb495eb78e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

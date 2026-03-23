@@ -1,5 +1,6 @@
 ---
 title: Pudim de panetone na panela de pressão elétrica
+id: mn3cknw554342d570acab58ca1e3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

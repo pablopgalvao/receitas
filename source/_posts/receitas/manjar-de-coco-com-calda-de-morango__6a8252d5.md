@@ -1,5 +1,6 @@
 ---
 title: Manjar de coco com calda de morango
+id: mn3ckni480991306b31d33e19c65
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

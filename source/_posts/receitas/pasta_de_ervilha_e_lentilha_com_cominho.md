@@ -1,5 +1,6 @@
 ---
 title: Pasta de ervilha e lentilha com cominho
+id: mn3cknrk88ca2b7d0580ed0dbbeb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

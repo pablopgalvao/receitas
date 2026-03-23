@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de panela simples
+id: mn3ckn365843d2c5e83140c41ed3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

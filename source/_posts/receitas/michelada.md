@@ -1,5 +1,6 @@
 ---
 title: Michelada
+id: mn3cknipdf4b19fc8f546a32f84a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

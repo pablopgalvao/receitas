@@ -1,5 +1,6 @@
 ---
 title: Empadão de frango de liquidificador
+id: mn3ckn8q641dd1830367375b1a7b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Feijão com gengibre
+id: mn3cknaeb891c1a3e267cd52472e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

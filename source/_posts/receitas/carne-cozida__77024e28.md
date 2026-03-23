@@ -1,5 +1,6 @@
 ---
 title: Carne cozida
+id: mn3ckn4q3ca06b7ac3247aa954a7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

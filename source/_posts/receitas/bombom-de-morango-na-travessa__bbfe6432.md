@@ -1,5 +1,6 @@
 ---
 title: Bombom de morango na travessa
+id: mn3ckn2x0e62e78d0e9666c69a5d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

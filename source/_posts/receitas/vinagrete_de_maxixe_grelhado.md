@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de maxixe grelhado
+id: mn3ckois310db95f6a2a5df13388
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

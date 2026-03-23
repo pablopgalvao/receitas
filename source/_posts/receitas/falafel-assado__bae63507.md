@@ -1,5 +1,6 @@
 ---
 title: Falafel assado
+id: mn3ckn9r40520611fb97d263bbc8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

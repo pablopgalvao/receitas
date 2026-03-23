@@ -1,5 +1,6 @@
 ---
 title: Salmão no vapor com pimentão chamuscado
+id: mn3cko78ac6ed595ca68967aa89e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

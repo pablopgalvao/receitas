@@ -1,5 +1,6 @@
 ---
 title: Risoto japonês com cogumelos
+id: mn3cko2682b526e8b69559e1777f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

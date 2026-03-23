@@ -1,5 +1,6 @@
 ---
 title: Shakshuka com grão-de-bico
+id: mn3cko8k6d6ef058a96cf4777bde
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

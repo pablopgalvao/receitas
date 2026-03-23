@@ -1,5 +1,6 @@
 ---
 title: Chuchu assado com especiarias
+id: mn3ckn5v3c933f42cc63369ed0c8
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

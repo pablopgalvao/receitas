@@ -1,5 +1,6 @@
 ---
 title: Costela cozida na pressão
+id: mn3ckn6kb847437362da8f53f9f7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

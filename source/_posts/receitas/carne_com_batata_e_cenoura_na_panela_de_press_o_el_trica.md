@@ -1,5 +1,6 @@
 ---
 title: Carne com batata e cenoura na panela de pressão elétrica
+id: mn3ckn4x5cd0f6ca27a38f2a943f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

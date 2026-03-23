@@ -1,5 +1,6 @@
 ---
 title: Arroz de cogumelo com tomate em uma panela só
+id: mn3ckmxa04dddf78e6a7f10bf6a0
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

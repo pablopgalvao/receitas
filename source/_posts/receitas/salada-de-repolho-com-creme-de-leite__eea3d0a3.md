@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho com creme de leite
+id: mn3cko4gbbe0fbbff91e5cf6a90c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

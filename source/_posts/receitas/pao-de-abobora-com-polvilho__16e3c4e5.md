@@ -1,5 +1,6 @@
 ---
 title: Pão de abóbora com polvilho
+id: mn3cknq4153c9fc2f767bfc3684e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

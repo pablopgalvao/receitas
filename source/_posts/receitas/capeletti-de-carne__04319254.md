@@ -1,5 +1,6 @@
 ---
 title: Capeletti de carne
+id: mn3ckn4je23020d02ecbfb90cb3b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

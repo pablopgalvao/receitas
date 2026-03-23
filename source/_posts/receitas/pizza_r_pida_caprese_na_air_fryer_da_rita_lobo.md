@@ -1,5 +1,6 @@
 ---
 title: Pizza rápida caprese na Air Fryer
+id: mn3cknuu8b3781e2b5e2266bc4a4
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

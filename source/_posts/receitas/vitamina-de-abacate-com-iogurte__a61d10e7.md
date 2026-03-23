@@ -1,5 +1,6 @@
 ---
 title: Vitamina de abacate com iogurte
+id: mn3ckoj86d9bb85cffd676886878
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

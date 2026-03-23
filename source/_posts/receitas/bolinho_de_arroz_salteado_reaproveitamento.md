@@ -1,5 +1,6 @@
 ---
 title: Bolinho de arroz salteado (reaproveitamento)
+id: mn3ckmzu000bee0d206a53559edb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

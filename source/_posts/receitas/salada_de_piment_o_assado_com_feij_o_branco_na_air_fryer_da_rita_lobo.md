@@ -1,5 +1,6 @@
 ---
 title: Salada de pimentão assado com feijão-branco na Air Fryer
+id: mn3cko65752da0d218fda0aec14f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

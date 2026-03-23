@@ -1,5 +1,6 @@
 ---
 title: Tacacá original do Pará
+id: mn3ckod7335e507328b7e0cc5049
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Sopas e caldos

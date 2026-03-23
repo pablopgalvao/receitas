@@ -1,5 +1,6 @@
 ---
 title: Doce de banana simples
+id: mn3ckn8h38d18b3ab977335e0764
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

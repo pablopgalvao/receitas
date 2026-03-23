@@ -1,5 +1,6 @@
 ---
 title: Paleta de cordeiro assada
+id: mn3cknnp2faf8016c392254315f1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

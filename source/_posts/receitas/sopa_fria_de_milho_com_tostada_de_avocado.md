@@ -1,5 +1,6 @@
 ---
 title: Sopa fria de milho com tostada de avocado
+id: mn3ckoaq1fce0d5747db3de8591e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

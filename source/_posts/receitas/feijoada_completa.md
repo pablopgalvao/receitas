@@ -1,5 +1,6 @@
 ---
 title: Feijoada completa
+id: mn3ckna9a01bddc20ac9f9c95732
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

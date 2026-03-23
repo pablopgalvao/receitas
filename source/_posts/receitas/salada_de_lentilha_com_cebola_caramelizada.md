@@ -1,5 +1,6 @@
 ---
 title: Salada de lentilha com cebola caramelizada
+id: mn3cko5t59d70a915e26e3af13e5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

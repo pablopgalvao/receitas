@@ -1,5 +1,6 @@
 ---
 title: Torta de frango de frigideira rápida
+id: mn3ckofu1568a36d341340db552c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

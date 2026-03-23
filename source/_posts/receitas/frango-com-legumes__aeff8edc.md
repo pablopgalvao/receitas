@@ -1,5 +1,6 @@
 ---
 title: Frango com legumes
+id: mn3cknba8ac988be3d6425ab4de4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

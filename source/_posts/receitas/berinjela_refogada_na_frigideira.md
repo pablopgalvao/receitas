@@ -1,5 +1,6 @@
 ---
 title: Berinjela refogada na frigideira
+id: mn3ckmype0fed6a33798f542c2e7
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

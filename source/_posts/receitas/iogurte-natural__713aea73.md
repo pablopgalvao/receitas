@@ -1,5 +1,6 @@
 ---
 title: Iogurte natural
+id: mn3ckne8fe023330e907b2da7b64
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

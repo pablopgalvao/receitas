@@ -1,5 +1,6 @@
 ---
 title: Drinque de cerveja com gengibre e limão
+id: mn3ckn8of908f0dbbc29632c6462
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

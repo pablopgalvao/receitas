@@ -1,5 +1,6 @@
 ---
 title: Empadão fit
+id: mn3ckn8r8ded9069ed927b75c785
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

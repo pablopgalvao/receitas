@@ -1,5 +1,6 @@
 ---
 title: Espetinhos de lula
+id: mn3ckn9n44d50abaa0e14dc9b36d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

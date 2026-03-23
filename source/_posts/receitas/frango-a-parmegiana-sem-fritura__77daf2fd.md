@@ -1,5 +1,6 @@
 ---
 title: Frango à parmegiana sem fritura
+id: mn3cknb5efef8d57378d99419356
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

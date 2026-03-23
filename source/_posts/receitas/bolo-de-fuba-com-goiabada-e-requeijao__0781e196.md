@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com goiabada e requeijão
+id: mn3ckn10e093bd5d366866643094
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

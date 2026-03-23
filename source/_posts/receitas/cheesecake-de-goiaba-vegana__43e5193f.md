@@ -1,5 +1,6 @@
 ---
 title: Cheesecake de goiaba vegana
+id: mn3ckn5lf88a9e4971d0cd75384c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

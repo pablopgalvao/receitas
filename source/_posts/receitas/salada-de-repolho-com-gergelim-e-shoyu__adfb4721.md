@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho com gergelim e shoyu
+id: mn3cko4i39cbfe783121f5bfbb23
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

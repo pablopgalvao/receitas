@@ -1,5 +1,6 @@
 ---
 title: Brócolis no vapor com molho de shoyu
+id: mn3ckn3q46781e1dbd55b43d993c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

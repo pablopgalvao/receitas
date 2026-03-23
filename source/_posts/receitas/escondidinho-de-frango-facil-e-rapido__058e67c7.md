@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de frango fácil e rápido
+id: mn3ckn9efa140861391e91f39cd8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

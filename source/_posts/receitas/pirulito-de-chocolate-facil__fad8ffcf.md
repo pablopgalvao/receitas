@@ -1,5 +1,6 @@
 ---
 title: Pirulito de chocolate fácil
+id: mn3cknu90c2b612c22776c97a2f7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

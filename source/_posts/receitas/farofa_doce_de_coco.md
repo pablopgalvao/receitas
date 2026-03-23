@@ -1,5 +1,6 @@
 ---
 title: Farofa doce de coco
+id: mn3ckna3dfd36d7d2fe048025f3e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

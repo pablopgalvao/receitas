@@ -1,5 +1,6 @@
 ---
 title: Salada de feijão-branco com pepino e rabanete
+id: mn3cko5i124961f9147519fec128
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

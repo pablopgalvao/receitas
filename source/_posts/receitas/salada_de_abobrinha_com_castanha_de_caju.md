@@ -1,5 +1,6 @@
 ---
 title: Salada de abobrinha com castanha-de-caju
+id: mn3cko4w8692ee5b65da268c8e18
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

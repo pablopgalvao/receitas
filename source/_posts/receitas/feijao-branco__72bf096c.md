@@ -1,5 +1,6 @@
 ---
 title: Feijão-branco
+id: mn3ckna46f1191dfa54d5c57f316
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

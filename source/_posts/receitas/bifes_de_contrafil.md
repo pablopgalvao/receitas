@@ -1,5 +1,6 @@
 ---
 title: Bifes de contrafilé
+id: mn3ckmyx6321d7d0bf1f253f1644
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

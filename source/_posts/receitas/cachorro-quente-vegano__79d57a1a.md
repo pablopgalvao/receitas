@@ -1,5 +1,6 @@
 ---
 title: Cachorro quente vegano
+id: mn3ckn3t5eaaa25223b96a7a6438
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

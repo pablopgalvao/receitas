@@ -1,5 +1,6 @@
 ---
 title: Cappuccino caseiro sem lactose
+id: mn3ckn4k11eba96132abb00ef00e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

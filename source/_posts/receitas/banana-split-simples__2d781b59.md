@@ -1,5 +1,6 @@
 ---
 title: Banana split simples
+id: mn3ckmxv533a7f9ef4428f7933c6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

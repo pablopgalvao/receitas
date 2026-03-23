@@ -1,5 +1,6 @@
 ---
 title: Fondue de queijo sem vinho
+id: mn3cknb0b16acd4bed8f3fb65807
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

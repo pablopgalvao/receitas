@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer de frango
+id: mn3ckndjbfc6f531e929f6b88e92
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Rabanada de forno com leite condensado
+id: mn3cknzt34ee13ca087e77e33b7c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

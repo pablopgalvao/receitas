@@ -1,5 +1,6 @@
 ---
 title: Ratatouille de forno simples
+id: mn3cko0e46496faae3e972019192
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

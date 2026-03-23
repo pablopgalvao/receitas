@@ -1,5 +1,6 @@
 ---
 title: Quibe de abóbora recheado
+id: mn3cknyt65cfa7987cfb50ecd321
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

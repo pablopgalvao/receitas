@@ -1,5 +1,6 @@
 ---
 title: Pão de aveia de frigideira
+id: mn3cknqe357156d601b23c02ae80
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

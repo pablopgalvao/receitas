@@ -1,5 +1,6 @@
 ---
 title: Bolo vulcão de chocolate
+id: mn3ckn2k54b29973e0b1a38f1ce2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

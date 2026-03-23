@@ -1,5 +1,6 @@
 ---
 title: Bolinho de abóbora e carne-seca assado
+id: mn3ckmzh2fe8c831c450c2fae87c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

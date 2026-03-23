@@ -1,5 +1,6 @@
 ---
 title: Canja de galinha na pressão
+id: mn3ckn4b2fbec258ed6784b70c42
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

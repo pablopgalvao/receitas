@@ -1,5 +1,6 @@
 ---
 title: Bolinho de risoto de funghi (arancini)
+id: mn3ckmzxd10fe923d26157d02002
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

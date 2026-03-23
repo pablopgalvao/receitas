@@ -1,5 +1,6 @@
 ---
 title: Pizza de liquidificador simples e rápida
+id: mn3cknukf1d8d4aca4dc85493871
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

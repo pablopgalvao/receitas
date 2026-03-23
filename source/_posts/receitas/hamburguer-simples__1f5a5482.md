@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer simples
+id: mn3ckndt6023bebbd7e589287600
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Fricassê de carne moída
+id: mn3cknbq95d68af7eebf2d31d808
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mousseline de mandioquinha
+id: mn3cknl7492b4b8c1ad1b56edcaf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

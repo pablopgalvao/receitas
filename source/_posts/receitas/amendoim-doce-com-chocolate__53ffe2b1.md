@@ -1,5 +1,6 @@
 ---
 title: Amendoim doce com chocolate
+id: mn3ckmwieeaaef9f9e2a2d2f67da
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Camarão ao molho branco gratinado com batata
+id: mn3ckn49dacad88e40e068ae93bc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

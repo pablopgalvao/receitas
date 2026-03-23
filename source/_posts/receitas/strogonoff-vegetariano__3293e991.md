@@ -1,5 +1,6 @@
 ---
 title: Strogonoff vegetariano
+id: mn3ckocg88fcc222582298e8ee16
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

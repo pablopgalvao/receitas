@@ -1,5 +1,6 @@
 ---
 title: Refogado de abóbora e chuchu
+id: mn3cko0o9196aa7cd444278a4b55
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

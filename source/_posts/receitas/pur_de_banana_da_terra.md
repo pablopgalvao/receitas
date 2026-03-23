@@ -1,5 +1,6 @@
 ---
 title: Purê de banana-da-terra
+id: mn3cknwo51041831e98736c4b3ce
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

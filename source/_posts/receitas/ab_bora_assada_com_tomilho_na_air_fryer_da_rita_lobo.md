@@ -1,5 +1,6 @@
 ---
 title: Abóbora assada com tomilho na Air Fryer
+id: mn3ckmw0b4702cc0c19343fd3736
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

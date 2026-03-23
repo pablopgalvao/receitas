@@ -1,5 +1,6 @@
 ---
 title: Bolo de brigadeiro com maracujá
+id: mn3ckn0j3d3f100b1ff497158603
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

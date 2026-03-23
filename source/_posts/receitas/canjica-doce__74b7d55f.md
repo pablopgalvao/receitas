@@ -1,5 +1,6 @@
 ---
 title: Canjica doce tradicional
+id: mn3ckn4ea94282f0688e9844ce28
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

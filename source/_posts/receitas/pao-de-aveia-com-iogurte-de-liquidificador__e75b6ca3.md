@@ -1,5 +1,6 @@
 ---
 title: Pão de aveia com iogurte de liquidificador
+id: mn3cknqdb0242dd783e294503dd1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

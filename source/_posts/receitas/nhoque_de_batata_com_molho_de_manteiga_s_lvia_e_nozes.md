@@ -1,5 +1,6 @@
 ---
 title: 'Nhoque de batata com molho de manteiga, sálvia e nozes'
+id: mn3cknm24f9892f01b6dbe3461f3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

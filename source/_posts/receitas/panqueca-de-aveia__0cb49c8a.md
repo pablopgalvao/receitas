@@ -1,5 +1,6 @@
 ---
 title: Panqueca de aveia
+id: mn3cknouc9cd106b0a3744844578
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Tofu empanado assado
+id: mn3ckoefd9f1c3a1d1ac4c948875
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

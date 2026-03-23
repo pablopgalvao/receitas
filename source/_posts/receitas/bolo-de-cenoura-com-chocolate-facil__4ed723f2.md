@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura com chocolate fácil
+id: mn3ckn0o8205f07f12b788dfe5b3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

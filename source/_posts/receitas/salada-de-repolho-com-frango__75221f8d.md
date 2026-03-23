@@ -1,5 +1,6 @@
 ---
 title: Salada de repolho com frango
+id: mn3cko4he9437cc6e56fa8080b8d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

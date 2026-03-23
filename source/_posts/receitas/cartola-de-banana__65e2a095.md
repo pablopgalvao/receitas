@@ -1,5 +1,6 @@
 ---
 title: Cartola de banana
+id: mn3ckn54c0375bda776b51c798e6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

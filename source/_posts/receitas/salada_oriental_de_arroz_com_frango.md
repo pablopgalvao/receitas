@@ -1,5 +1,6 @@
 ---
 title: Salada oriental de arroz com frango
+id: mn3cko6lf73e9901b7774e533db9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

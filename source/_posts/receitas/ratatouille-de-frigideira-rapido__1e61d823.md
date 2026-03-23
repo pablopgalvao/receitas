@@ -1,5 +1,6 @@
 ---
 title: Ratatouille de frigideira rápido
+id: mn3cko0gde96cbaba924d3c23612
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

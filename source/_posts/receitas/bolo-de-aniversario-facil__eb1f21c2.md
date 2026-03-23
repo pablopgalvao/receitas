@@ -1,5 +1,6 @@
 ---
 title: Bolo de aniversário fácil
+id: mn3ckn045f0c45008a26d202b5d5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

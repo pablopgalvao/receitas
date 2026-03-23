@@ -1,5 +1,6 @@
 ---
 title: Sopa de espinafre com frango low carb
+id: mn3ckoa048b26a28a0f25d353fb2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

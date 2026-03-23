@@ -1,5 +1,6 @@
 ---
 title: Strogonoff fit com cottage
+id: mn3ckocb3041fb6bea81b8f7cc1b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

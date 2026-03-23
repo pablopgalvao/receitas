@@ -1,5 +1,6 @@
 ---
 title: Couve-flor assada com páprica
+id: mn3ckn6tdda549b3a82dd25958da
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

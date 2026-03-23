@@ -1,5 +1,6 @@
 ---
 title: Lagarto assado recheado com bacon e farofa
+id: mn3cknf89c225ae2a09054be3054
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

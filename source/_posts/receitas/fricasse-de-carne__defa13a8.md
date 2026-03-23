@@ -1,5 +1,6 @@
 ---
 title: Fricassê de carne
+id: mn3cknbr5e955c83005a22f1f586
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

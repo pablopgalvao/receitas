@@ -1,5 +1,6 @@
 ---
 title: Salada italiana
+id: mn3cko4p5dd69009e0067bc082e2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

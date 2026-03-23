@@ -1,5 +1,6 @@
 ---
 title: Costelinha de porco com molho mediterrâneo de tomate
+id: mn3ckn6n4ff859808190adb68066
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

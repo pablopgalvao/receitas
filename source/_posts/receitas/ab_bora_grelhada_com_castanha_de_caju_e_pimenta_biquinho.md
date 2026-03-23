@@ -1,5 +1,6 @@
 ---
 title: Abóbora grelhada com castanha-de-caju e pimenta biquinho
+id: mn3ckmw063bab51a40b58e898190
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Nhoque de ricota fácil
+id: mn3cknlw837873ecdff18d26e9ca
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

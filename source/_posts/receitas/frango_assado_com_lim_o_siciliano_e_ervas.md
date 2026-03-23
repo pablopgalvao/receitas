@@ -1,5 +1,6 @@
 ---
 title: Frango assado com limão-siciliano e ervas
+id: mn3cknbj0a67a21d46f3170d9e1e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

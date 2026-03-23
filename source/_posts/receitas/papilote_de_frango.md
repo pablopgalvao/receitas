@@ -1,5 +1,6 @@
 ---
 title: Papilote de frango
+id: mn3cknrcf6784bdac4b342813b11
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

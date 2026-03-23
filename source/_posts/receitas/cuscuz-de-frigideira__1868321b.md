@@ -1,5 +1,6 @@
 ---
 title: Cuscuz de frigideira
+id: mn3ckn7y8d8f75bb69fb4684e3f0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

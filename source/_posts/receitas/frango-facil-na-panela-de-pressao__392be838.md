@@ -1,5 +1,6 @@
 ---
 title: Frango fácil na panela de pressão
+id: mn3cknbgcd27c528fe8014fcd091
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

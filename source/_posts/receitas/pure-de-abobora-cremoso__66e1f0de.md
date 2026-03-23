@@ -1,5 +1,6 @@
 ---
 title: Purê de abóbora cremoso
+id: mn3cknwb5f80c24a66a703d79299
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

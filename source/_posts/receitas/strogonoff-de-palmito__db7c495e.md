@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de palmito
+id: mn3ckoca4c3c82b1e9bc36fed51c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

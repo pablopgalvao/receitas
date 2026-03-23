@@ -1,5 +1,6 @@
 ---
 title: Feijão-vermelho
+id: mn3ckna7c149d8f525f2b69770a8
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

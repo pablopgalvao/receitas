@@ -1,5 +1,6 @@
 ---
 title: Mingau de arroz com leite em pó
+id: mn3cknis2f3e1901579b677e42c0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

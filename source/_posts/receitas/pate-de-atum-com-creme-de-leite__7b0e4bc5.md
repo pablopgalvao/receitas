@@ -1,5 +1,6 @@
 ---
 title: Patê de atum com creme de leite
+id: mn3cknrufe19f29e43637a8ac0d9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

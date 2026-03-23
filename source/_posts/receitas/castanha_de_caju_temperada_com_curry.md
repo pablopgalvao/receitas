@@ -1,5 +1,6 @@
 ---
 title: Castanha-de-caju temperada com curry
+id: mn3ckn578c5153b2b7b6f7a11166
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

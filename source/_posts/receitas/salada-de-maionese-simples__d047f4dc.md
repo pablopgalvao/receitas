@@ -1,5 +1,6 @@
 ---
 title: Salada de maionese simples
+id: mn3cko4c419ee40f3361aff49faf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

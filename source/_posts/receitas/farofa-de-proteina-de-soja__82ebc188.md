@@ -1,5 +1,6 @@
 ---
 title: Farofa de proteína de soja
+id: mn3ckn9y529cffcb9299ef478815
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

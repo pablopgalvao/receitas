@@ -1,5 +1,6 @@
 ---
 title: Purê de batata-doce com leite de coco
+id: mn3cknwib5e96c81745fb05684b4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

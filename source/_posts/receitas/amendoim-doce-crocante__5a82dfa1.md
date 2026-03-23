@@ -1,5 +1,6 @@
 ---
 title: Amendoim doce crocante
+id: mn3ckmwi36232db511413b9ac166
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

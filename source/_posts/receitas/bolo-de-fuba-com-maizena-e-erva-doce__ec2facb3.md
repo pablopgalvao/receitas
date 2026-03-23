@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com Maizena e erva-doce
+id: mn3ckn12b0ad9ac4ad5e9ff28f2f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

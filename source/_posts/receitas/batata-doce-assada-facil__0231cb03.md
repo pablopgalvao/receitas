@@ -1,5 +1,6 @@
 ---
 title: Batata-doce assada fácil
+id: mn3ckmxz6f3f459c9efcf34619f7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

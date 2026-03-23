@@ -1,5 +1,6 @@
 ---
 title: Doce de abóbora com coco
+id: mn3ckn8e470185a00a5b77146cf4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

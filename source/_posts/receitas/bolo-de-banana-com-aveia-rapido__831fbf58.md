@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com aveia rápido
+id: mn3ckn088e034bf1f72ee3b1b164
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

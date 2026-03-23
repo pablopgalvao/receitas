@@ -1,5 +1,6 @@
 ---
 title: Rabanete assado com molho de balsâmico e mel
+id: mn3cko01f7aeef33397d9307e4cb
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

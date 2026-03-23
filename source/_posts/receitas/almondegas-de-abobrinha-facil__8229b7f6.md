@@ -1,5 +1,6 @@
 ---
 title: Almôndegas de abobrinha fácil
+id: mn3ckmw80db8c17adb26f84d994c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

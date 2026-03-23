@@ -1,5 +1,6 @@
 ---
 title: Coalhada seca com azeite crocante
+id: mn3ckn60b4c086cd41a68a80a182
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

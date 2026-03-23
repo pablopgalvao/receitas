@@ -1,5 +1,6 @@
 ---
 title: Escondidinho vegano
+id: mn3ckn9g10874a7876cd45ab4e66
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

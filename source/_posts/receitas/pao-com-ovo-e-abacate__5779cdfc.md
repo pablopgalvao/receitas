@@ -1,5 +1,6 @@
 ---
 title: Pão com ovo e abacate
+id: mn3cknpwe383328a815f0474560b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

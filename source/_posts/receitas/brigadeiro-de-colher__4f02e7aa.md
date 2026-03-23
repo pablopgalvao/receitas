@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de colher
+id: mn3ckn33b1aced572510faf2a449
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

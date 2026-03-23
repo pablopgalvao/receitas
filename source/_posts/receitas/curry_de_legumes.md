@@ -1,5 +1,6 @@
 ---
 title: Curry de legumes
+id: mn3ckn7w503257fb357b6d287f6c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

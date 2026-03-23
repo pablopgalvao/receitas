@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana fácil
+id: mn3ckob611474f735f4cd95f3e48
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

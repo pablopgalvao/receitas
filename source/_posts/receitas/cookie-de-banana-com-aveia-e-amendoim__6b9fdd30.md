@@ -1,5 +1,6 @@
 ---
 title: Cookie de banana com aveia e amendoim
+id: mn3ckn6abdbedc4e2cac65101a3c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

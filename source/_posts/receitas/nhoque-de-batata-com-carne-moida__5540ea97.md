@@ -1,5 +1,6 @@
 ---
 title: Nhoque de batata com carne moída
+id: mn3cknlr70626b4e785681172660
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

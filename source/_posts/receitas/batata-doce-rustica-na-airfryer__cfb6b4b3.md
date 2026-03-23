@@ -1,5 +1,6 @@
 ---
 title: Batata-doce rústica na airfryer
+id: mn3ckmy1cae4a7083fafcc295a1f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

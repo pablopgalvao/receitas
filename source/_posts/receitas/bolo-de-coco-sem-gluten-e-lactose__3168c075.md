@@ -1,5 +1,6 @@
 ---
 title: Bolo de coco sem glúten e lactose
+id: mn3ckn0v63a0dc77cb406a5b00ec
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

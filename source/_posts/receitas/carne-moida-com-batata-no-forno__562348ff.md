@@ -1,5 +1,6 @@
 ---
 title: Carne moída com batata no forno
+id: mn3ckn4v8c273f67ad4f024829d5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Purê de grão-de-bico
+id: mn3cknwk4f965164233884414421
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

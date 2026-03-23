@@ -1,5 +1,6 @@
 ---
 title: Burrito vegetariano
+id: mn3ckn3r2fe0e8769f336720a7dc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

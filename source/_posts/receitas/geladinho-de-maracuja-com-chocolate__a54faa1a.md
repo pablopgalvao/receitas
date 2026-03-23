@@ -1,5 +1,6 @@
 ---
 title: Geladinho de maracujá com chocolate
+id: mn3ckncge63dfb7f633168b702bc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

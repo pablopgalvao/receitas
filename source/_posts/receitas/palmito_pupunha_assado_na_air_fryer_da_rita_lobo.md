@@ -1,5 +1,6 @@
 ---
 title: Palmito pupunha assado na Air Fryer
+id: mn3ckno6d17a7bc9bd6d6fb87565
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

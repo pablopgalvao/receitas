@@ -1,5 +1,6 @@
 ---
 title: Acelga refogada com ovos
+id: mn3ckmw1219c909cf51212588d5f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Mingau de aveia proteico
+id: mn3ckniu718904355b7a37a890bc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Polenta com abobrinha e frango com mel na Air Fryer
+id: mn3cknv26e3be6650355d424e60c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

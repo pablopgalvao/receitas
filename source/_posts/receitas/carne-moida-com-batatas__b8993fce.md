@@ -1,5 +1,6 @@
 ---
 title: Carne moída com batatas
+id: mn3ckn4vdbc1a1e5f58c76d49acc
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

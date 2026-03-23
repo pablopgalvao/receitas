@@ -1,5 +1,6 @@
 ---
 title: Salada agridoce de acelga
+id: mn3cko3b6d1a4694a17850cb9c4c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Curau
+id: mn3ckn7va56148b714d05ba58fbd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Café cremoso no liquidificador
+id: mn3ckn3td49fcd158ab8c47a9767
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

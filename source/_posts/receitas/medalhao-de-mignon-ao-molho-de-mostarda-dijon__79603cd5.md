@@ -1,5 +1,6 @@
 ---
 title: Medalhão de mignon ao molho de mostarda dijon
+id: mn3cknim256046a5742ecc39b3c5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

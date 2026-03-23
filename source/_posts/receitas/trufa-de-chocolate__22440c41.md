@@ -1,5 +1,6 @@
 ---
 title: Trufa de chocolate
+id: mn3ckohya4f16813d2dc58acb7b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

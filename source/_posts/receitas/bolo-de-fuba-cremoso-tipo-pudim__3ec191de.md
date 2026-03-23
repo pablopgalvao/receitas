@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá cremoso tipo pudim
+id: mn3ckn1587ee72d35bf797d7d64f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

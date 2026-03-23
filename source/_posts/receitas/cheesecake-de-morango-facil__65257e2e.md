@@ -1,5 +1,6 @@
 ---
 title: Cheesecake de morango fácil
+id: mn3ckn5l3eee5ead6a74a420e1ef
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

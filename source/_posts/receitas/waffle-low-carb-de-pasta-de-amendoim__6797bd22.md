@@ -1,5 +1,6 @@
 ---
 title: Waffle low carb de pasta de amendoim
+id: mn3ckojm6bcd088577525b6200d9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

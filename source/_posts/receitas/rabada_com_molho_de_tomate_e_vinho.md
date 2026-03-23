@@ -1,5 +1,6 @@
 ---
 title: Rabada com molho de tomate e vinho
+id: mn3cknzq2ce3da7a33107c92050c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

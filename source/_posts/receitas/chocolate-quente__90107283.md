@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente
+id: mn3ckn5u65c5ad1e121eb79b9d50
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

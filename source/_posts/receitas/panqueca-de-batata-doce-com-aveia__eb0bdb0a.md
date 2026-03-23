@@ -1,5 +1,6 @@
 ---
 title: Panqueca de batata-doce com aveia
+id: mn3cknovd9763e814cafc1ddd4fe
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

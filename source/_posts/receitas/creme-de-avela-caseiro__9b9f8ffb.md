@@ -1,5 +1,6 @@
 ---
 title: Creme de avelã caseiro
+id: mn3ckn767fbe19aebdb08d71177d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

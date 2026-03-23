@@ -1,5 +1,6 @@
 ---
 title: Blondie com banana e castanha-de-caju
+id: mn3ckmzb5bc031cbe1a3ff35e3d5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

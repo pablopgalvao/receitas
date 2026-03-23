@@ -1,5 +1,6 @@
 ---
 title: Cebolas assadas com manteiga e alecrim
+id: mn3ckn594c377d0787341461b90b
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

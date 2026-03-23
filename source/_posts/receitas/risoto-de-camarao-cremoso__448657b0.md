@@ -1,5 +1,6 @@
 ---
 title: Risoto de camarão cremoso
+id: mn3cko1e546ea2420c8fbf9755bf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

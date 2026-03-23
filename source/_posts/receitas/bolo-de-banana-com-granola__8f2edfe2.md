@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana com granola
+id: mn3ckn0b7be2b65047195201acc5
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

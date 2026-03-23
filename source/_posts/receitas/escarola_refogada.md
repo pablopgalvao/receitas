@@ -1,5 +1,6 @@
 ---
 title: Escarola refogada
+id: mn3ckn963668f2a33ca7dfe63905
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

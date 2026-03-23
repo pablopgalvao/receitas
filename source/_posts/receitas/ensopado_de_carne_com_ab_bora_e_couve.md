@@ -1,5 +1,6 @@
 ---
 title: Ensopado de carne com abóbora e couve
+id: mn3ckn8y3de7f7fb3ed88f822020
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Sanduíche com ragu de costelinha (reaproveitamento)
+id: mn3cko7y41b71e2bb2ace9d4a5a1
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

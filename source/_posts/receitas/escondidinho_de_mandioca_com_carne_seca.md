@@ -1,5 +1,6 @@
 ---
 title: Escondidinho de mandioca com carne-seca
+id: mn3ckn9ie67766e9a2db006969ab
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

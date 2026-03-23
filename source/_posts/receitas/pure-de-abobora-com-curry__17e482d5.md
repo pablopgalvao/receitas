@@ -1,5 +1,6 @@
 ---
 title: Purê de abóbora com curry
+id: mn3cknwa5079d2d66ec4aabd4a94
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

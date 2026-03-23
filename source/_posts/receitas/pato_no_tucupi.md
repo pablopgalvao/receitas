@@ -1,5 +1,6 @@
 ---
 title: Pato no tucupi
+id: mn3ckns2b16f2a762820c757b5c3
 date: 2025-09-22T00:00:00.000Z
 categories:
   - Pratos principais / Carnes

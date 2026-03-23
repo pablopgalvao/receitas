@@ -1,5 +1,6 @@
 ---
 title: Couve-flor gratinada sem leite
+id: mn3ckn6p02ef38da7a3a2ca34758
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

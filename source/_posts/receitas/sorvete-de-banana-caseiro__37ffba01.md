@@ -1,5 +1,6 @@
 ---
 title: Sorvete de banana caseiro
+id: mn3ckob04511fe046cf9217649b4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

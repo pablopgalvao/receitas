@@ -1,5 +1,6 @@
 ---
 title: Bolo de caneca sem leite
+id: mn3ckn0m54e33b73ac9df1c47650
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

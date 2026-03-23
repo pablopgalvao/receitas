@@ -1,5 +1,6 @@
 ---
 title: Bolo de aveia fácil e rápido
+id: mn3ckn079fcb7ad9528ee35cb425
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

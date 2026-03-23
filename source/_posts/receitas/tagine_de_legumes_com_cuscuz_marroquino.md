@@ -1,5 +1,6 @@
 ---
 title: Tagine de legumes com cuscuz marroquino
+id: mn3ckod9d46f9fbbe075f76fab22
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

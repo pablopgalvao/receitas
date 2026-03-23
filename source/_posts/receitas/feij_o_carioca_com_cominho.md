@@ -1,5 +1,6 @@
 ---
 title: Feijão-carioca com cominho
+id: mn3cknabe4b8983fb21a2e980e1d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

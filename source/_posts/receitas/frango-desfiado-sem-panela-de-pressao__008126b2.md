@@ -1,5 +1,6 @@
 ---
 title: Frango desfiado sem panela de pressão
+id: mn3cknbc480759ed216a944a567c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

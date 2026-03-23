@@ -1,5 +1,6 @@
 ---
 title: Acelga refogada com shoyu
+id: mn3ckmw2aa107d4e52aa14ec6a57
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

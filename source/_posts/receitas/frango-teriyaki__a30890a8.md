@@ -1,5 +1,6 @@
 ---
 title: Frango teriyaki
+id: mn3cknbiff22dad730e49fcd49be
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

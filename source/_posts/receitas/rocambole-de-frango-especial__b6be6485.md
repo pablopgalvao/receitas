@@ -1,5 +1,6 @@
 ---
 title: Rocambole de frango especial
+id: mn3cko2f5d83b73f9a02601cead2
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

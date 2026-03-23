@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana-da-terra
+id: mn3ckn0b02f9b6c91f1fbf3f5100
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Cogumelo assado com cebola-roxa
+id: mn3ckn665eab914df19222692053
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

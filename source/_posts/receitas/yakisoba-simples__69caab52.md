@@ -1,5 +1,6 @@
 ---
 title: Yakisoba simples
+id: mn3ckok05fabe0a00f5f2f8d6b2b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

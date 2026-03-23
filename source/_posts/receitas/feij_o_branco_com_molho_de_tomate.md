@@ -1,5 +1,6 @@
 ---
 title: Feijão-branco com molho de tomate
+id: mn3cknabefca9b02ddc23f36f055
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Coxas de frango com batatas na frigideira
+id: mn3ckn6v728e2cd1aefb08a86aef
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

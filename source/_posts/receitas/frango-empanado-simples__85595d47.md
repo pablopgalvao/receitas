@@ -1,5 +1,6 @@
 ---
 title: Frango empanado simples
+id: mn3cknbgdbbfa551631248562df4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Pizza de frigideira fit fácil
+id: mn3cknuiea07a5bd6eac8af7253c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

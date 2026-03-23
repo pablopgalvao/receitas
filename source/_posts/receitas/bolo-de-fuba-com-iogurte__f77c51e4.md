@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá com iogurte
+id: mn3ckn10be44d34e23d2c622c28f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

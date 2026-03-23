@@ -1,5 +1,6 @@
 ---
 title: Fondue no pão
+id: mn3cknb1145c42c49e0e6956a739
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

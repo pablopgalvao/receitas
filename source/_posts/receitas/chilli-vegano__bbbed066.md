@@ -1,5 +1,6 @@
 ---
 title: Chilli vegano
+id: mn3ckn5n1a3ad3b9115d8ab727b9
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

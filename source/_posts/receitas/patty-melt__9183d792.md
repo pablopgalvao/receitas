@@ -1,5 +1,6 @@
 ---
 title: Patty Melt
+id: mn3ckns32cbc65ef64f1f5f8dc18
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

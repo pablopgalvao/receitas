@@ -1,5 +1,6 @@
 ---
 title: Carne ao molho madeira
+id: mn3ckn4p1bfdc65366bb6abd35b7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

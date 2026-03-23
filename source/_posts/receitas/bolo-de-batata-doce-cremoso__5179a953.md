@@ -1,5 +1,6 @@
 ---
 title: Bolo de batata-doce cremoso
+id: mn3ckn0hec1ccf70b3b196a61138
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de colher com chocolate amargo
+id: mn3ckn39b43e6ca28591975f3d07
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

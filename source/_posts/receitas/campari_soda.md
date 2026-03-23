@@ -1,5 +1,6 @@
 ---
 title: Campari soda
+id: mn3ckn4afd9f9a3f3e453ae443a2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

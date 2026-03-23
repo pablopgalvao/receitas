@@ -1,5 +1,6 @@
 ---
 title: Charuto de repolho
+id: mn3ckn5k6aa0750e7b3e407c44d4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

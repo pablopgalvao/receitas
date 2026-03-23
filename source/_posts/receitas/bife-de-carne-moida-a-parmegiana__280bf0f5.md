@@ -1,5 +1,6 @@
 ---
 title: Bife de carne moída à parmegiana
+id: mn3ckmyu43494ce9b906fc86a7ed
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

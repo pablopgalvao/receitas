@@ -1,5 +1,6 @@
 ---
 title: Panqueca simples
+id: mn3cknp5adb1cd2ae437f3615e98
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

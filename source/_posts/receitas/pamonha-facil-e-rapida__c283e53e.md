@@ -1,5 +1,6 @@
 ---
 title: Pamonha fácil e rápida
+id: mn3cknod776a1a5d451247a709d3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

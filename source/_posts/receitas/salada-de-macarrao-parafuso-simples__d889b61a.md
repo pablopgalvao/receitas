@@ -1,5 +1,6 @@
 ---
 title: Salada de macarrão parafuso simples
+id: mn3cko487dfcceee0fbf5f662b1c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

@@ -1,5 +1,6 @@
 ---
 title: Iogurte de abacate
+id: mn3ckne570827422f1c552d0af31
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

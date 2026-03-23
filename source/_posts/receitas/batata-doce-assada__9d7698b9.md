@@ -1,5 +1,6 @@
 ---
 title: Batata-doce assada
+id: mn3ckmy0940d6cdccebe741564cf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

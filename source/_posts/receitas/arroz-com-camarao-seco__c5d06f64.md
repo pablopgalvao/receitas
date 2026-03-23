@@ -1,5 +1,6 @@
 ---
 title: Arroz com camarão seco
+id: mn3ckmwp59e87a59d3f9ddccbe10
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

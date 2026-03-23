@@ -1,5 +1,6 @@
 ---
 title: Acelga marinada com shoyu e gengibre
+id: mn3ckmw302a5ae01f419b19989a3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

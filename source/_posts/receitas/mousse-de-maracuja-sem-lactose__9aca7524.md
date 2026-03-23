@@ -1,5 +1,6 @@
 ---
 title: Mousse de maracujá sem lactose
+id: mn3cknl457d1362a2b199a8b7e6a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de baunilha
+id: mn3ckn0j4c58061c5938d564b75b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

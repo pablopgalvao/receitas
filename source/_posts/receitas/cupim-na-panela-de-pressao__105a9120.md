@@ -1,5 +1,6 @@
 ---
 title: Cupim na panela de pressão
+id: mn3ckn7sf215f005dfcd65a5a37c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer artesanal fácil e rápido
+id: mn3cknd8dd322e814360f90b6ff3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

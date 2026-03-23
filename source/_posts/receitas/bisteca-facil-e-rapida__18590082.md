@@ -1,5 +1,6 @@
 ---
 title: Bisteca fácil e rápida
+id: mn3ckmz870d42904d61d05008f70
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Purê de abóbora com creme de leite
+id: mn3cknwabf4499fc7472e5ec316e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

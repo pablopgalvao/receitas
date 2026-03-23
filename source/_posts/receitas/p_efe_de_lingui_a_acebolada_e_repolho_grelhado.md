@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de linguiça acebolada e repolho grelhado
+id: mn3cknx4fa4e31fdc4222a1b74ab
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

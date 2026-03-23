@@ -1,5 +1,6 @@
 ---
 title: Kibe de forno simples
+id: mn3cknejde69935d42cfaae7c44c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

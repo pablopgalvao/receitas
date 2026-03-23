@@ -1,5 +1,6 @@
 ---
 title: Sopa de legumes com pesto
+id: mn3ckoa449e3e380142fed91ebba
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

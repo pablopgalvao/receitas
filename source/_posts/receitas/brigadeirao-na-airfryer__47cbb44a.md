@@ -1,5 +1,6 @@
 ---
 title: Brigadeirão na air fryer
+id: mn3ckn30fae9ba64c8cdb9a595e3
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

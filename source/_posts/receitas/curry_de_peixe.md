@@ -1,5 +1,6 @@
 ---
 title: Curry de peixe
+id: mn3ckn7w4293b41a88a37e15a593
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

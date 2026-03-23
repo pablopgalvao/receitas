@@ -1,5 +1,6 @@
 ---
 title: Gelo de leite de coco
+id: mn3ckncxfffbec80db5ff197fd12
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

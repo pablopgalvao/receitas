@@ -1,5 +1,6 @@
 ---
 title: Galinhada na panela de pressão elétrica
+id: mn3cknc978f6e3cdf3ca17243d3c
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

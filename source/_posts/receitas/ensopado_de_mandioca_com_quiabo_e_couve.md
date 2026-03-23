@@ -1,5 +1,6 @@
 ---
 title: Ensopado de mandioca com quiabo e couve
+id: mn3ckn8zc6098c3c53391ae0d035
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

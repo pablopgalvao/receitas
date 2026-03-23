@@ -1,5 +1,6 @@
 ---
 title: Salada morna de tomate com balsâmico e manjericão
+id: mn3cko6kf07613e0338f13555724
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Saladas

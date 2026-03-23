@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de abóbora com frango
+id: mn3ckobn0616d40ec10c285465c7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Carne de panela com mandioca
+id: mn3ckn4s2e948f8fc55a0b7692b0
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

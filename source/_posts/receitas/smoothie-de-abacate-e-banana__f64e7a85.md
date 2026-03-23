@@ -1,5 +1,6 @@
 ---
 title: Smoothie de abacate e banana
+id: mn3cko8oa0fb0a71b457eb05896c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

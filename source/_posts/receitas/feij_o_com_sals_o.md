@@ -1,5 +1,6 @@
 ---
 title: Feijão com salsão
+id: mn3cknae6647d9552544e69d1923
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

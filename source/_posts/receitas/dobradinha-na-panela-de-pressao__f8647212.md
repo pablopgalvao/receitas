@@ -1,5 +1,6 @@
 ---
 title: Dobradinha na panela de pressão
+id: mn3ckn8bc237cff559d9333e8469
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

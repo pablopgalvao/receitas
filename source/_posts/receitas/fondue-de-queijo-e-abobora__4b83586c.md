@@ -1,5 +1,6 @@
 ---
 title: Fondue de queijo e abóbora
+id: mn3cknb0495e16da58662ead9d22
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

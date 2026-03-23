@@ -1,5 +1,6 @@
 ---
 title: Hambúrguer caseiro (com ovo)
+id: mn3cknd87bf22d207c2e66091339
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

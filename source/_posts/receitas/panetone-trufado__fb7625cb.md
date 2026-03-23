@@ -1,5 +1,6 @@
 ---
 title: Panetone trufado
+id: mn3cknola024d465772f6b912216
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

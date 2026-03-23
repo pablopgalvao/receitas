@@ -1,5 +1,6 @@
 ---
 title: Trufa com sementes de abóbora
+id: mn3ckohx04637431a520aa23eec7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

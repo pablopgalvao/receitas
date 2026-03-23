@@ -1,5 +1,6 @@
 ---
 title: Brigadeiro de panela com leite
+id: mn3ckn35c820d21d34d30cc2660d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

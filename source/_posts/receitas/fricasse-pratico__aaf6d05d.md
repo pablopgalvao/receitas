@@ -1,5 +1,6 @@
 ---
 title: Fricassé prático
+id: mn3cknbtfe4d4899f706bbc2ac26
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana simples
+id: mn3ckn0gc03474df39254c187d22
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

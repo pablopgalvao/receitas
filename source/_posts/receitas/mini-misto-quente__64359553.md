@@ -1,5 +1,6 @@
 ---
 title: Mini misto quente
+id: mn3ckniw1264184ee9e7903bef08
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

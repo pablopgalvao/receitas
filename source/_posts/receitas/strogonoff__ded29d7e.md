@@ -1,5 +1,6 @@
 ---
 title: Strogonoff
+id: mn3ckociee4a3d6595e4c189376d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Croissant de chocolate
+id: mn3ckn7eb1e486047e51471e424c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

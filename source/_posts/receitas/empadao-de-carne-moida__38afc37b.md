@@ -1,5 +1,6 @@
 ---
 title: Empadão de carne moída
+id: mn3ckn8p4ce879124503cddf407b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

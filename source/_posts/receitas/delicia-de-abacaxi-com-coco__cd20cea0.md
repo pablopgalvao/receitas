@@ -1,5 +1,6 @@
 ---
 title: Delícia de abacaxi com coco
+id: mn3ckn87cdf4794b36be5504f6f6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

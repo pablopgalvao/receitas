@@ -1,5 +1,6 @@
 ---
 title: Risoto de fígado de galinha com ervilha
+id: mn3cko1ybeb626eb75059c942d50
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

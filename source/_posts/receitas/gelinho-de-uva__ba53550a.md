@@ -1,5 +1,6 @@
 ---
 title: Gelinho de uva
+id: mn3ckncua1ef83e68b30d3f69715
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

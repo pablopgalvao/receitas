@@ -1,5 +1,6 @@
 ---
 title: Banana-da-terra na air fryer
+id: mn3ckmxt3ecca106bae533f23280
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Repolho macerado com cominho e mostarda
+id: mn3cko1341cc064051fb519345b9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Strogonoff de frango fácil
+id: mn3ckoc778ae1ee9e1777da73d4d
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

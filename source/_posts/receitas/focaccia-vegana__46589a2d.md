@@ -1,5 +1,6 @@
 ---
 title: Focaccia vegana
+id: mn3cknat4dc70e6dfd6860e1d0db
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

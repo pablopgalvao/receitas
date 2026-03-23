@@ -1,5 +1,6 @@
 ---
 title: Carne moída com molho de cerveja
+id: mn3ckn5127709ac4d37a9392e052
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

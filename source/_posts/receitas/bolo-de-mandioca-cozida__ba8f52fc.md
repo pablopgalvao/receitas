@@ -1,5 +1,6 @@
 ---
 title: Bolo de mandioca cozida
+id: mn3ckn1q9229ef36fb435a11e005
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

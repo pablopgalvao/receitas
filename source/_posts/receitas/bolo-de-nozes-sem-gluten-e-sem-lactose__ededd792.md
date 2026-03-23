@@ -1,5 +1,6 @@
 ---
 title: Bolo de nozes sem glúten e sem lactose
+id: mn3ckn1z92e64c6d688aaa43bc3b
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

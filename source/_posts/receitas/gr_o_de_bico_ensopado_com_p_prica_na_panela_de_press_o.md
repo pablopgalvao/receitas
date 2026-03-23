@@ -1,5 +1,6 @@
 ---
 title: Grão-de-bico ensopado com páprica na panela de pressão
+id: mn3cknd4e466ab572af5f27304ca
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

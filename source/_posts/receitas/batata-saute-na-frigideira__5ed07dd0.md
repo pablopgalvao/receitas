@@ -1,5 +1,6 @@
 ---
 title: Batata sauté na frigideira
+id: mn3ckmy61fabd43e00e6dd46b890
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

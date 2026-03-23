@@ -1,5 +1,6 @@
 ---
 title: Berinjela refogada com pimenta síria
+id: mn3ckmyo2077e96a5d5fb696fd7f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

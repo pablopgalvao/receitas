@@ -1,5 +1,6 @@
 ---
 title: Kulfi de cenoura (sorvete indiano)
+id: mn3cknf4deb8ddff19fb80df599e
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Coxinha vegana de palmito e milho-verde
+id: mn3ckn6y6e2c951f81aabe689327
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Carne-seca na moranga
+id: mn3ckn4xe94f79ff71a8e38a5a46
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

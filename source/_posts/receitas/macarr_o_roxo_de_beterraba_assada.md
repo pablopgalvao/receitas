@@ -1,5 +1,6 @@
 ---
 title: Macarrão roxo de beterraba assada
+id: mn3cknht9fe9e6ad1b7b4d6273e9
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

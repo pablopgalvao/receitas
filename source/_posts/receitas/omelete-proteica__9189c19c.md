@@ -1,5 +1,6 @@
 ---
 title: Omelete proteica
+id: mn3cknmaac786c3d1c8ee28a6949
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

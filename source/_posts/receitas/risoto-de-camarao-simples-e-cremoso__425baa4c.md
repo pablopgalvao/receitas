@@ -1,5 +1,6 @@
 ---
 title: Risoto de camarão simples e cremoso
+id: mn3cko1fdf54cd7603084784c6ce
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

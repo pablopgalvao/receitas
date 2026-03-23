@@ -1,5 +1,6 @@
 ---
 title: Capuccino cremoso caramelado
+id: mn3ckn4n02ee5f426ceb3a658416
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

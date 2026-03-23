@@ -1,5 +1,6 @@
 ---
 title: Minestrone
+id: mn3cknir14ca6d57ecd01bad4e17
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

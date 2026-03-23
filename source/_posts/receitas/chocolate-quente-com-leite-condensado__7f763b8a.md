@@ -1,5 +1,6 @@
 ---
 title: Chocolate quente com leite condensado
+id: mn3ckn5t44143c83ae8cf29c5cfe
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

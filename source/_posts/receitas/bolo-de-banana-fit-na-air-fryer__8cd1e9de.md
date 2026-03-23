@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana fit na Air Fryer
+id: mn3ckn0e4eba1503f6eb29ea6e9f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

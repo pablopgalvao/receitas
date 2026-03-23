@@ -1,5 +1,6 @@
 ---
 title: Bolo de caneca de banana com doce de leite
+id: mn3ckn0k6233ea83030477793369
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

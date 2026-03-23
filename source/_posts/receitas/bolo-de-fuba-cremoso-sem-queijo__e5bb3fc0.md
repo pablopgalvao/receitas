@@ -1,5 +1,6 @@
 ---
 title: Bolo de fubá cremoso sem queijo
+id: mn3ckn142c998c96d5f31cff427f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

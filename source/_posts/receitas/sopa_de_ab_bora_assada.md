@@ -1,5 +1,6 @@
 ---
 title: Sopa de abóbora assada
+id: mn3ckoabc42ad85e7ed33f04016a
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Sopas e caldos

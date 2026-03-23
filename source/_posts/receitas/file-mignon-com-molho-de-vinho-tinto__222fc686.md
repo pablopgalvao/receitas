@@ -1,5 +1,6 @@
 ---
 title: Filé mignon com molho de vinho tinto
+id: mn3cknao46658339a335ee6c1def
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

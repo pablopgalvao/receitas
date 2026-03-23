@@ -1,5 +1,6 @@
 ---
 title: Almôndegas de carne com aveia
+id: mn3ckmw996da072cc2409f463c71
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Caldo de carne moída com batatas
+id: mn3ckn45da68abab601eb8340181
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Sopas e caldos

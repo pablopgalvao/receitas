@@ -1,5 +1,6 @@
 ---
 title: Babaganuche na Air Fryer
+id: mn3ckmxna8dfc3cd7221f2827594
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

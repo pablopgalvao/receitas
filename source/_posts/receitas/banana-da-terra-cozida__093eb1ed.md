@@ -1,5 +1,6 @@
 ---
 title: Banana-da-terra cozida
+id: mn3ckmxse45d0c0cd7ba9b8b0b22
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

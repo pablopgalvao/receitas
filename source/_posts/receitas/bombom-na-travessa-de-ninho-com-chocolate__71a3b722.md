@@ -1,5 +1,6 @@
 ---
 title: Bombom na travessa de Ninho com chocolate
+id: mn3ckn2z4036d890fe8e6606eb8a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

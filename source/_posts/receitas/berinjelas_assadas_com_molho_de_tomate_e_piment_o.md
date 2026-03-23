@@ -1,5 +1,6 @@
 ---
 title: Berinjelas assadas com molho de tomate e pimentão
+id: mn3ckmyn8e796b6ceebdae873d68
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

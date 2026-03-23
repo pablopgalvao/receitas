@@ -1,5 +1,6 @@
 ---
 title: Bife com molho de limão e grão-de-bico
+id: mn3ckmyy72a6cb71250d4ac40bb3
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

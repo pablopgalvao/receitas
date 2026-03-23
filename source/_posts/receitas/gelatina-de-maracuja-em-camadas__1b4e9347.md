@@ -1,5 +1,6 @@
 ---
 title: Gelatina de maracujá em camadas
+id: mn3ckncl0d0dc1a14de2009b46df
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

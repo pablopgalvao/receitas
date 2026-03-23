@@ -1,5 +1,6 @@
 ---
 title: Receita de tacacá
+id: mn3cko0ib3b4751fc8fd2eae51ed
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Sopas e caldos

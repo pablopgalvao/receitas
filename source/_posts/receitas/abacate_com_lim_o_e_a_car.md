@@ -1,5 +1,6 @@
 ---
 title: Abacate com limão e açúcar
+id: mn3ckmvibd93cf9771c0800357ce
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

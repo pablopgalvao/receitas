@@ -1,5 +1,6 @@
 ---
 title: Carne moída simples
+id: mn3ckn4w9576da3ee19ab6050e6f
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

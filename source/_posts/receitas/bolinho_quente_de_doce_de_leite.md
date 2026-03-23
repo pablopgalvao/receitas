@@ -1,5 +1,6 @@
 ---
 title: Bolinho quente de doce de leite
+id: mn3ckmzy088951f64a40fa85295d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Torta de maçã na air fryer
+id: mn3ckog9a1b7337f9422fa9fe6b4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

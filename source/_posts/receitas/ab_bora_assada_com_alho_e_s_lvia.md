@@ -1,5 +1,6 @@
 ---
 title: Abóbora assada com alho e sálvia
+id: mn3ckmvzd995871a2d2c6a878c23
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

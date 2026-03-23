@@ -1,5 +1,6 @@
 ---
 title: Bolo de churros no liquidificador
+id: mn3ckn0t80bb68548f1f9b5c7d09
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

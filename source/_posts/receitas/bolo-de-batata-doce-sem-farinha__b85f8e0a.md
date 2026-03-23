@@ -1,5 +1,6 @@
 ---
 title: Bolo de batata-doce sem farinha
+id: mn3ckn0i59c6003f6e55936383cf
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

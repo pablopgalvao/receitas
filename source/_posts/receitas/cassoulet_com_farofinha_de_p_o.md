@@ -1,5 +1,6 @@
 ---
 title: Cassoulet com farofinha de pão
+id: mn3ckn55af6acfa5f571a1f1bbda
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

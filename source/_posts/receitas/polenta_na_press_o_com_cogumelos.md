@@ -1,5 +1,6 @@
 ---
 title: Polenta na pressão com cogumelos
+id: mn3cknvi2e5b25b83507b5febb9d
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

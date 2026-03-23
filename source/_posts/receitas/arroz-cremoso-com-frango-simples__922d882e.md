@@ -1,5 +1,6 @@
 ---
 title: Arroz cremoso com frango simples
+id: mn3ckmwu358b99dd829de3a7edd7
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

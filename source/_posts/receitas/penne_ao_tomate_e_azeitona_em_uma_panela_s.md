@@ -1,5 +1,6 @@
 ---
 title: Penne ao tomate e azeitona em uma panela só
+id: mn3cknt601431f7bc625ec62a196
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

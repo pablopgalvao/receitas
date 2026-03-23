@@ -1,5 +1,6 @@
 ---
 title: Frango à parmegiana de frigideira rápido
+id: mn3cknb5e4f04ca14036a5042b06
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Patê de berinjela com ricota
+id: mn3cknrxba55865b65552788762a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

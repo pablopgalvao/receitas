@@ -1,5 +1,6 @@
 ---
 title: Tartine de escarola com gorgonzola e nozes
+id: mn3ckods2980b6b2688d25ab3f70
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

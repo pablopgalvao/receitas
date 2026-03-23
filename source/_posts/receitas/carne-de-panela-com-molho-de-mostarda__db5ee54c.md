@@ -1,5 +1,6 @@
 ---
 title: Carne de panela com molho de mostarda
+id: mn3ckn4t6a09cc25041cdcc5b362
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

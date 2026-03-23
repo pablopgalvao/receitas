@@ -1,5 +1,6 @@
 ---
 title: Lasanha de abobrinha
+id: mn3cknfe4d055b0e176b50a897b1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

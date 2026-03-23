@@ -1,5 +1,6 @@
 ---
 title: Papilote de frango com purê de batata-doce e refogado de legumes
+id: mn3cknrdc3aed4a3a6d53997e7c2
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

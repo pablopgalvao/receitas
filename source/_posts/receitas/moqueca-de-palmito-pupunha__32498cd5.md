@@ -1,5 +1,6 @@
 ---
 title: Moqueca de palmito pupunha
+id: mn3cknk549005033a1214f09b3f4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

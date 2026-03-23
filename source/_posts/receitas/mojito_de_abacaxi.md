@@ -1,5 +1,6 @@
 ---
 title: Mojito de abacaxi
+id: mn3cknj9711c672cf0da775475f5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

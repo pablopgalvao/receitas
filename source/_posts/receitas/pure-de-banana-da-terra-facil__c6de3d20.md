@@ -1,5 +1,6 @@
 ---
 title: Purê de banana-da-terra fácil
+id: mn3cknwf933344e13ac3a146fee4
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Strogonoff fit com iogurte
+id: mn3ckocd37fc5a8763f761e53c51
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

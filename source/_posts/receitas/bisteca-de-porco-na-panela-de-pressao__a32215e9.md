@@ -1,5 +1,6 @@
 ---
 title: Bisteca de porco na panela de pressão
+id: mn3ckmz8299d47efa517f53f2356
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

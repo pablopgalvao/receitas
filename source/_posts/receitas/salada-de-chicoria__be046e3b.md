@@ -1,5 +1,6 @@
 ---
 title: Salada de chicória
+id: mn3cko3p277696043e451f2e2ada
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Saladas

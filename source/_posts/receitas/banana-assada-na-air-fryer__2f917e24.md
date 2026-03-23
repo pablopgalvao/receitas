@@ -1,5 +1,6 @@
 ---
 title: Banana assada na Air Fryer
+id: mn3ckmxrebac77b6d48f71dfecc1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

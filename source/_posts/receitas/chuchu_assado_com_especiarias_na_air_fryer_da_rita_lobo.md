@@ -1,5 +1,6 @@
 ---
 title: Chuchu assado com especiarias na Air Fryer
+id: mn3ckn5w3d0ecf07a05b09b44ae5
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

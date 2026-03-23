@@ -1,5 +1,6 @@
 ---
 title: Farofa de Pinhão
+id: mn3ckn9xfd68ba83a00a38464b26
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

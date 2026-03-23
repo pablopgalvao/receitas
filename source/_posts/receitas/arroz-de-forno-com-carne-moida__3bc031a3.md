@@ -1,5 +1,6 @@
 ---
 title: Arroz de forno com carne moída
+id: mn3ckmww9ac3957d69cd9afdf45c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Torta de brigadeiro simples
+id: mn3ckofc92c6b7f90ae1c1fbe6b1
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

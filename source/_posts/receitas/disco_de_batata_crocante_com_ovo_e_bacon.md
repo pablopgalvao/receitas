@@ -1,5 +1,6 @@
 ---
 title: Disco de batata crocante com ovo e bacon
+id: mn3ckn89398b1cf7e69c58d2a6dd
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

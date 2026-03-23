@@ -1,5 +1,6 @@
 ---
 title: Bolo de banana rápido
+id: mn3ckn0f47948ef55d00c54e7f8a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Paillard de lombo com repolho macerado e maçã
+id: mn3cknn32e364061a3f39f270463
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

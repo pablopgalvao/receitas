@@ -1,5 +1,6 @@
 ---
 title: Goiaba brûlée
+id: mn3ckncz932bbc3f46e9ed8141ae
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

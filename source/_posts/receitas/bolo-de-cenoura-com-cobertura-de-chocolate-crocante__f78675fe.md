@@ -1,5 +1,6 @@
 ---
 title: Bolo de cenoura com cobertura de chocolate crocante
+id: mn3ckn0o53c9ea9b8392bdf99483
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

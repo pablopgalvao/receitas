@@ -1,5 +1,6 @@
 ---
 title: Maionese prática de batata
+id: mn3cknhy6f14d2b2bc351e07c4fd
 date: 2025-09-20T00:00:00.000Z
 categories:
   - Light / saudáveis

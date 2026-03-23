@@ -1,5 +1,6 @@
 ---
 title: Carne assada na air fryer
+id: mn3ckn4q905f894d01ebb0236ba6
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Vinagrete de banana
+id: mn3ckoiicaf3a6888aba19509ece
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

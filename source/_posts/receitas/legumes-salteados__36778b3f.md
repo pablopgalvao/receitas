@@ -1,5 +1,6 @@
 ---
 title: Legumes salteados
+id: mn3cknfs9563e665f3bdf4041d7a
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

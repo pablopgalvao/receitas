@@ -1,5 +1,6 @@
 ---
 title: Arroz de forno com frango fácil
+id: mn3ckmwx6fc09c45416a2955243c
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

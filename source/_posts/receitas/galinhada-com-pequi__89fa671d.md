@@ -1,5 +1,6 @@
 ---
 title: Galinhada com pequi
+id: mn3cknc4aab928d66fb5a4261179
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

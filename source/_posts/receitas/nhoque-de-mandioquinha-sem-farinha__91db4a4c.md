@@ -1,5 +1,6 @@
 ---
 title: Nhoque de mandioquinha sem farinha
+id: mn3cknlv00e9b4c76f560ede6010
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

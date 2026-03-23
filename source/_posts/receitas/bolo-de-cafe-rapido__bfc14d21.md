@@ -1,5 +1,6 @@
 ---
 title: Bolo de café rápido
+id: mn3ckn0j334deffe4680e7bf878e
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

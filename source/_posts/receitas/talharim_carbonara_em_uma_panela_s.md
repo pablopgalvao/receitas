@@ -1,5 +1,6 @@
 ---
 title: Talharim à carbonara em uma panela só
+id: mn3ckodjb33f58e5c78620690110
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

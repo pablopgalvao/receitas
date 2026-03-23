@@ -1,5 +1,6 @@
 ---
 title: Picadinho vegetal
+id: mn3ckntq796332e308679e2e0e47
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

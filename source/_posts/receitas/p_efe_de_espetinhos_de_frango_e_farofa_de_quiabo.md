@@ -1,5 +1,6 @@
 ---
 title: Pê-efe de espetinhos de frango e farofa de quiabo
+id: mn3cknx02b68aea878d0da93773f
 date: 2026-01-08T00:00:00.000Z
 categories:
   - Novidades

@@ -1,5 +1,6 @@
 ---
 title: Ceviche de manga com gengibre
+id: mn3ckn5bc82a974176c24218f479
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

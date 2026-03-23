@@ -1,5 +1,6 @@
 ---
 title: Quibe de abóbora simples
+id: mn3cknyvb66171b7d0cc47aa7807
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

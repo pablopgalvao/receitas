@@ -1,5 +1,6 @@
 ---
 title: Mousse de coco simples
+id: mn3cknkpe3aaf27c400b59579a61
 date: 2026-01-17T00:00:00.000Z
 categories:
   - Novidades

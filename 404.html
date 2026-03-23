@@ -6,15 +6,15 @@
   
   <title>Receitas e Lista | Lar do Chef</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Página não encontrada           .card {       width: 100%;       max-width: 720px;       background: #fff;       border-radius: 18px;       padding: 32px 24px;       box-shadow: 0 12px 30px">
+  <meta name="description" content="Receita não encontrada           .card {       width: 100%;       max-width: 720px;       background: #fff;       border-radius: 18px;       padding: 32px 24px;       box-shadow: 0 12px 30p">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Receitas e Lista | Lar do Chef">
 <meta property="og:url" content="https://receitas.pgalvao.com.br/404.html">
 <meta property="og:site_name" content="Receitas e Lista | Lar do Chef">
-<meta property="og:description" content="Página não encontrada           .card {       width: 100%;       max-width: 720px;       background: #fff;       border-radius: 18px;       padding: 32px 24px;       box-shadow: 0 12px 30px">
+<meta property="og:description" content="Receita não encontrada           .card {       width: 100%;       max-width: 720px;       background: #fff;       border-radius: 18px;       padding: 32px 24px;       box-shadow: 0 12px 30p">
 <meta property="og:locale">
-<meta property="article:published_time" content="2026-03-23T18:06:51.024Z">
-<meta property="article:modified_time" content="2026-03-23T18:06:51.024Z">
+<meta property="article:published_time" content="2026-03-23T18:24:16.369Z">
+<meta property="article:modified_time" content="2026-03-23T18:24:16.369Z">
 <meta property="article:author" content="Pablo Galvão">
 <meta property="article:tag" content="Receitas">
 <meta name="twitter:card" content="summary">
@@ -101,7 +101,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Página não encontrada</title>
+  <title>Receita não encontrada</title>
   <meta name="robots" content="noindex" />
   <style>
     .card {
@@ -185,7 +185,7 @@
       <p>Estamos tentando localizar esta página automaticamente.</p>
     </div>
 
-    <div id="error-state" class="hidden">
+    <div id="error-state" class="hidden" style="margin-bottom: 12;">
       <h1>Ops! Página não encontrada.</h1>
       <p>
         Não foi possível localizar a página. Isso pode acontecer se o link estiver incorreto ou se a página tiver sido removida.
@@ -236,7 +236,7 @@
                 return '';
             }
             console.log('Extracted lookup key from URL:', parts[receitasIndex + 1]);
-            return parts[receitasIndex + 1];
+            return 'receitas/' + parts[receitasIndex + 1];
         }
 
         try {
@@ -273,7 +273,7 @@
 
             if (!destination) {
                 showError('Slug não encontrado no mapa: ' + lookupKey);
-                // console.warn('Available routes:', Object.keys(routes).slice(0, 20));
+                console.warn('Available routes:', Object.keys(routes).slice(0, 20));
                 return;
             }
 

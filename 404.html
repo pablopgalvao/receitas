@@ -13,8 +13,8 @@
 <meta property="og:site_name" content="Receitas e Lista | Lar do Chef">
 <meta property="og:description" content="Receita não encontrada           .card {       width: 100%;       max-width: 720px;       background: #fff;       border-radius: 18px;       padding: 32px 24px;       box-shadow: 0 12px 30p">
 <meta property="og:locale">
-<meta property="article:published_time" content="2026-03-23T17:34:12.663Z">
-<meta property="article:modified_time" content="2026-03-23T17:34:12.663Z">
+<meta property="article:published_time" content="2026-03-23T17:52:19.579Z">
+<meta property="article:modified_time" content="2026-03-23T17:52:19.579Z">
 <meta property="article:author" content="Pablo Galvão">
 <meta property="article:tag" content="Receitas">
 <meta name="twitter:card" content="summary">
@@ -178,110 +178,111 @@
   </style>
 </head>
 <body>
-  <div class="card">
+  <div style="text-align: center;">
     <div id="loading-state">
       <div class="spinner"></div>
       <h1>Procurando a receita...</h1>
-      <p>Estamos tentando localizar esta página automaticamente pelo slug.</p>
+      <p>Estamos tentando localizar esta página automaticamente.</p>
     </div>
 
     <div id="error-state" class="hidden">
       <h1>Ops! Receita não encontrada.</h1>
       <p>
-        Não foi possível localizar uma receita com este slug.
-        Você pode voltar para a página inicial ou navegar pela lista de receitas.
+        Não foi possível localizar a receita. Isso pode acontecer se o link estiver incorreto ou se a receita tiver sido removida.
       </p>
 
       <div class="actions">
         <a class="button" href="/">Ir para a página inicial</a>
-        <a class="button secondary" href="/receitas/">Ver receitas</a>
       </div>
-
-      <!-- Descomente para debug -->
-      <!-- <p class="small" id="debug"></p> -->
     </div>
   </div>
 
-  <script>
+<script>
     (async function () {
-      var loadingState = document.getElementById('loading-state');
-      var errorState = document.getElementById('error-state');
-      var debugEl = document.getElementById('debug');
+        var loadingState = document.getElementById('loading-state');
+        var errorState = document.getElementById('error-state');
+        var debugEl = document.getElementById('debug');
 
-      function showError(message) {
-        console.warn('[404 redirect]', message);
+        function showError(message) {
+            console.warn('[404 redirect]', message);
 
-        if (loadingState) {
-          loadingState.classList.add('hidden');
+            if (loadingState) {
+                loadingState.classList.add('hidden');
+            }
+
+            if (errorState) {
+                errorState.classList.remove('hidden');
+            }
+
+            if (debugEl) {
+                debugEl.textContent = message;
+            }
         }
 
-        if (errorState) {
-          errorState.classList.remove('hidden');
+        function normalizePath(pathname) {
+            return decodeURIComponent(String(pathname || ''))
+                .replace(/^\/+|\/+$/g, '');
         }
 
-        if (debugEl) {
-          debugEl.textContent = message;
-        }
-      }
+        function getLookupKey(pathname) {
+            var parts = normalizePath(pathname).split('/').filter(Boolean);
+            var receitasIndex = parts.indexOf('receitas');
 
-      function normalizePath(pathname) {
-        return decodeURIComponent(String(pathname || ''))
-          .replace(/^\/+|\/+$/g, '');
-      }
+            if (receitasIndex === -1) {
+                return '';
+            }
 
-      function getLookupKey(pathname) {
-        var parts = normalizePath(pathname).split('/').filter(Boolean);
-        var receitasIndex = parts.indexOf('receitas');
-
-        if (receitasIndex === -1) {
-          return '';
+            if (!parts[receitasIndex + 1]) {
+                return '';
+            }
+            console.log('Extracted lookup key from URL:', parts[receitasIndex + 1]);
+            return 'receitas/' + parts[receitasIndex + 1];
         }
 
-        if (!parts[receitasIndex + 1]) {
-          return '';
+        try {
+            var pathname = window.location.pathname;
+            var lookupKey = getLookupKey(pathname);
+
+            console.log('[DEBUG] URL pathname:', pathname);
+            console.log('[DEBUG] Lookup key (slug):', lookupKey);
+
+            if (!lookupKey) {
+                showError('Não foi possível extrair a chave do slug da URL: ' + pathname);
+                return;
+            }
+
+            var response = await fetch('/recipe-routes.json', {
+                cache: 'no-store'
+            });
+
+            if (!response.ok) {
+                showError('Falha ao carregar /recipe-routes.json: HTTP ' + response.status);
+                return;
+            }
+
+            var routes = await response.json();
+
+            if (!routes || typeof routes !== 'object') {
+                showError('O conteúdo de recipe-routes.json é inválido.');
+                return;
+            }
+
+            var destination = routes[lookupKey];
+
+            console.log('[DEBUG] JSON destination found:', destination);
+
+            if (!destination) {
+                showError('Slug não encontrado no mapa: ' + lookupKey);
+                console.warn('Available routes:', Object.keys(routes).slice(0, 20));
+                return;
+            }
+
+            window.location.replace(destination);
+        } catch (error) {
+            showError(error && error.message ? error.message : 'Erro inesperado ao processar a rota.');
         }
-
-        return 'receitas/' + parts[receitasIndex + 1];
-      }
-
-      try {
-        var pathname = window.location.pathname;
-        var lookupKey = getLookupKey(pathname);
-
-        if (!lookupKey) {
-          showError('Não foi possível extrair a chave do slug da URL: ' + pathname);
-          return;
-        }
-
-        var response = await fetch('/recipe-routes.json', {
-          cache: 'no-store'
-        });
-
-        if (!response.ok) {
-          showError('Falha ao carregar /recipe-routes.json: HTTP ' + response.status);
-          return;
-        }
-
-        var routes = await response.json();
-
-        if (!routes || typeof routes !== 'object') {
-          showError('O conteúdo de recipe-routes.json é inválido.');
-          return;
-        }
-
-        var destination = routes[lookupKey];
-
-        if (!destination) {
-          showError('Slug não encontrado no mapa: ' + lookupKey);
-          return;
-        }
-
-        window.location.replace(destination);
-      } catch (error) {
-        showError(error && error.message ? error.message : 'Erro inesperado ao processar a rota.');
-      }
     })();
-  </script>
+</script>
 </body>
 </html>
     </div>

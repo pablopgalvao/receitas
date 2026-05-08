@@ -12,7 +12,7 @@
     "version": "7.3.0"
   },
   "dependencies": {
-    "bcryptjs": "^3.0.2",
+    "bcryptjs": "^3.0.3",
     "gray-matter": "^4.0.3",
     "hexo": "^7.3.0",
     "hexo-admin": "^2.3.0",
